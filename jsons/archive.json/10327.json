@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100115A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100115A",
+  "bibcode": "2010GCN.10327....1O",
+  "createdOn": 1263647260000,
+  "circularId": 10327,
+  "submitter": "Patricia Schady at MSSL/Swift  <msslba@googlemail.com>",
+  "email": "msslba@googlemail.com",
+  "body": "S. R. Oates (MSSL-UCL) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observerving the field of Swift BAT Slew\nSurvey (BATSS) GRB 100115A (Cummings et al. GCN Circ. 10325) 40ks\nafter the BAT trigger. We do not detect any source at the candidate\nSwift XRT position (Margutti et al. GCN Circ. 10326).\n\nThe 3 sigma upper limits for the summed images are reported below:\n\nFilter    T_start(s)  T_stop(s)  Exposure   Mag(3 sgma UL)\n###########################################################\nb           40636      46609       411        >20.19\nu\t    40423      46395       411        >19.85\nuvw1\t    40001      46180       824        >20.29\nuvw2\t    40849      47260       1098       >20.99\n###########################################################\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.06 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric system\ndescribed in Poole et al. (2008, MNRAS, 383,627)."
+}

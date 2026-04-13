@@ -1,0 +1,10 @@
+{
+  "subject": "GRB081028: UVOT detection of a brightening afterglow",
+  "eventId": "GRB 081028",
+  "bibcode": "2008GCN..8431....1S",
+  "createdOn": 1225208408000,
+  "circularId": 8431,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and C. Guidorzi (INAF-OAB) report on behalf of  \nthe Swift/UVOT team:\n\nFurther to the UVOT observations of GRB 081028 reported in GCN Circ.  \n8430 (Schady et al.), we report an afterglow detection at the position  \nof the optical counterpart (GCN Circ. 8424, GCN Circ. 8425) in later  \nUVOT observations, from 10,000s after the BAT trigger. This is  \nsuggestive of a re-brightening of the afterglow consistent with the  \ntime of the brightening observed in the XRT light curve (Guidorzi et  \nal., GCN Circ. 8429). The afterglow is detected in the v, b and u-band  \nfilters. The detection of the afterglow in the u-filter suggests a  \nphotometric upper limit on the redshift of z < ~2.3.\n\nThe magnitudes of the afterglow and 3-sigma upper limits are reported  \nbelow:\n\nFilter Tstart(s)   Tstop(s)    Exp(s)    Magnitude/3-sig UL\nv          4050         5684        393.2        > 20.13\nv          10740       28995     1770.3      20.23 +/- 0.19\n\nb          4870         6504        393.3        > 20.79\nb          17436       35567     1433.5     20.19 +/- 0.14\n\nu          4665         6299        393.2       > 20.53\nu          16524       34778     2539.8     21.21+/- 0.26\n\nuvw1   4460         6094        393.2       > 20.61\nuvw1   15618      33865      2656.7     > 21.89\n\nuvm2   4255        5889        393.2        > 20.51\nuvm2   21399      29784     2428.5      > 21.66\n\nuvw2   5281         5480       196.6        >  20.23\nuvw2   29001      28082     1771.2      >  20.61\n\n\nThe above magnitudes are not corrected for the Galactic extinction  \ncorresponding to a reddening of E(B-V) = 0.03 mag (Schlegel et al.,  \n1998, ApJS, 500, 525). The photometry is on the UVOT photometric   \nsystem described in Poole et al. (2008, MNRAS, 383,627)."
+}

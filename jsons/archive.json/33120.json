@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF22acaruqr/AT2022adzb: Neil Gehrels Swift Observatory X-ray detection",
+  "eventId": "ZTF22acaruqr",
+  "bibcode": "2022GCN.33120....1A",
+  "createdOn": 1672274906000,
+  "circularId": 33120,
+  "submitter": "Igor Andreoni at JSI  <igor.andreoni@gmail.com>",
+  "email": "igor.andreoni@gmail.com",
+  "body": "I. Andreoni (JSI/UMD/NASA-GSFC), N. Klingler (NASA-GSFC), D. Pasham (MIT),\nM. Coughlin (UMN)\n\n\nFollow-up observations of the optical fast transient\nZTF22acaruqr/AT2022adzb (Coughlin et al., AstroNote 2022-270) were carried\nout with the Neil Gehrels Swift Observatory starting on 2022-12-25 02:19:02\nUT until  2022-12-25 14:58:25 UT. The total exposure time on source was\n3.27ks.\n\nA faint source is detected  in Swift X-ray Telescope data in the 0.3-10 keV\nenergy range. The source is spatially consistent with\nZTF22acaruqr/AT2022adzb and has a background-subtracted count rate of (4.3\n+- 1.3) * 10^(-3)  ct/s. We fit the 0.3-10.0 keV X-ray spectrum containing\n15 counts with a powerlaw model (tbabs * powlaw in XSPEC) which resulted in\na c-stat/degrees of freedom of 8.5/11. The best-fit powerlaw index was\nconstrained to be <1.8 while the observed 0.3-10 keV flux was\n5(+2.5,-2.2)e-13 erg/s/cm^2 (68% confidence).\n\nNo source is detected at the location of ZTF22acaruqr/AT2022adzb with the\nUVOT instrument using the uvm2 filter with a limiting magnitude of  > 23.1\nmag (AB).\n\nThe source with the smallest separation from ZTF22acaruqr/AT2022adzb is\nlocated at RA, Dec = 124.51569 deg, 55.32129 deg and is likely a galaxy\n(Duncan et al., 2022) at a photometric redshift of zph = 0.6881 +- 0.1994\n(Legacy Survey). If this source is the host, the projected separation from\nZTF22acaruqr/AT2022adzb would be 29.4 kpc at the median redshift of\nz=0.6881. This galaxy is not cataloged as a possible AGN.\n\nThe nature of the transient remains unclear. Follow-up observations are\nencouraged especially to measure the redshift and assess if the detected\nX-ray source is variable. We have planned NICER exposures in the coming\ndays."
+}

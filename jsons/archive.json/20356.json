@@ -1,0 +1,9 @@
+{
+  "subject": "GRS 1716-249/GRO J1719-24/V2293 Oph, Swift-BAT refined analysis",
+  "bibcode": "2017GCN.20356....1C",
+  "createdOn": 1483385458000,
+  "circularId": 20356,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "J. R. Cummings (CPI), S. D. Barthelmy (GSFC),\nN. Gehrels (GSFC), H. A. Krimm (NSF/USRA),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT detection of GRS 1716-249 (a.k.a. GRO J1719-24\nand V2293 Oph; trigger #729410; Barthelmy, et al., GCN Circ. 20352).\nThis source is currently having an outburst that was also detected\nby MAXI/GSC (Negoro et al. ATEL #9876 and Masumitsu et al. ATEL #9895)\nand the Swift/BAT transient monitor (see light curves\nat http://swift.gsfc.nasa.gov/results/transients/weak/Granat1716-249/).\n\nThe BAT ground-calculated position is\nRA, Dec = 259.915, -25.010 deg which is\n   RA(J2000)  =  17h 19m 39.7s\n   Dec(J2000) = -25d 00' 35.0\"\nwith an uncertainty of 2.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 35%.\n\nThe mask-weighted light curve shows that the emission lasts throughout the\nduration when the source was in the BAT field of view from T-133 s to T+158 s.\n\nThe time-averaged spectrum from T+0.0 to T+112.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.50 +- 0.24.  The fluence in the 15-150 keV band is 1.6 +- 0.2 x 10^-6 erg/cm2.\nAll the quoted errors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/729410/BA/"
+}

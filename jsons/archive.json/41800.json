@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250911A: Swift/UVOT Detection",
+  "eventId": "GRB 250911A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41800....1S",
+  "createdOn": 1757609395546,
+  "submitter": "Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "circularId": 41800,
+  "format": "text/plain",
+  "body": "M. H. Siegel (PSU) and N. J. Klingler (GSFC/UMBC/CRESSTII) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250911A 3.5 ks after the BAT trigger (Klingler et al., GCN Circ. 41781). A fading afterglow consistent the XRT position (Beardmore et al., GCN Circ. 41784) and COLIBRI afterglow (Angulo et al., GCN Circ. 41782) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  17:35:00.03 = 263.75011 (deg.)\n    Dec (J2000) = -16:51:14.9  = -16.85413 (deg.) \nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)       Mag/3sigUL\nwhite             3483         4252          344      19.95+/-0.16\nv                 4462         4662          196            >19.20\nv                26629        26655           25            >17.87\nb                 3847         4047          196      19.40+/-0.22\nb                10440        10955          503      20.58+/-0.33\nu                 3642         5214          330      19.18+/-0.19\nu                21026        21075           48            >18.94\nuvw1              4872         5072          196            >19.53\nuvw1             20120        21019          885            >20.01\nuvm2              4667         4867          196            >19.38\nuvm2             16021        16815          782            >20.49\nuvw2              4258         4458          196            >19.50\nuvw2             25723        26622          885            >20.09\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.4185 in the direction of the burst\n(Schlegel et al. 1998)."
+}

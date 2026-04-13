@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 191031D: correction to GCN 26126",
+  "eventId": "GRB 191031D",
+  "bibcode": "2019GCN.26149....1F",
+  "createdOn": 1572779705000,
+  "circularId": 26149,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, on behalf of the Konus-Wind team:\n\nReported in Frederiks et al. 2019 (GCN Circ. 26126),\nthe KW spectral parameters and fluxes of short/hard GRB 191031D\nare incorrect due to wrong instrument calibrations used.\nThe correct values are given below.\n\nAs observed by Konus-Wind, the burst had a fluence\nof 5.72(-0.63,+0.69)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.016 s,\nof 4.12(-0.72,+0.80)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst (measured from T0 to T0+0.256 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.12(-0.18,+0.20)\nand Ep = 735(-92,+112) keV (chi2 = 32/39 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.9\n(chi2 =32/38 dof).\n\nI apologize for possible inconvenience this may have caused."
+}

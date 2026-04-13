@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210323A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 210323A",
+  "bibcode": "2021GCN.29712....1B",
+  "createdOn": 1616599603000,
+  "circularId": 29712,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and J. D. Gropp (PSU) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 210323A 89 s after the BAT trigger \n(Gropp et al., GCN Circ. 29699). The optical afterglow detected by Malesani et al. (GCN Circ. 29703) \nand Pozanenko et al. (GCN Circ. 29708) and consistent with the XRT position (Evans et al. GCN Circ. \n29704), is not detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. \nProc. 1358, 373) for the first finding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            89          239          147         >20.1\nu_FC               302          552          246         >19.9\nwhite               89         4948          569         >20.5\nv                  632         1423           97         >17.7\nb                  558         1522           97         >19.3\nu                  302         1497          324         >19.3\nw1                 681         1473           97         >18.5\nm2                 828          848           19         >18.8\nw2                 607         5034          136         >19.4\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of \nE(B-V) = 0.131 in the direction of the burst (Schlegel et al. 1998)."
+}

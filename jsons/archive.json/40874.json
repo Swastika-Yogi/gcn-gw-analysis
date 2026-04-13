@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250628B: EP-FXT counterpart detection",
+  "eventId": "GRB 250628B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40874....1Z",
+  "createdOn": 1751263487920,
+  "circularId": 40874,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "W. J. Zhang, X. Mao (NAO, CAS), Y. C. Fu (BNU), H. W. Pan (NAO, CAS) on behalf of the Einstein Probe (EP) team:\n\nEP-FXT performed a follow-up observation of the SVOM/ECLAIRs-detected burst GRB 250628B (SVOM/sb25062804, Dornic et al. GCN #40862) at 2025-06-28T18:51:59 (UTC), about 140 minutes after the SVOM/ECLAIRs trigger, with an exposure time of ~5000s. Five uncatalogued sources are detected within the ECLAIRs error circle. Preliminary analysis of these sources has been conducted automatically, and the details are listed below.\n\nSource 1: EPF_J221230.7-453117\nRA (J2000): 333.1278\nDec (J2000): -45.5213\nFlux: 6.57 x 10^-14 erg/s/cm2 (FXT-A observed, 0.5-10 kev)\nFlux_err: 2.48 x 10^-14 erg/s/cm2 (1 sigma)\n\nSource 2: EPF_J221214.3-453344\nRA (J2000): 333.0595\nDec (J2000): -45.5621\nFlux: 2.13 x 10^-13 erg/s/cm2 (FXT-A observed, 0.5-10 kev)\nFlux_err: 4.30 x 10^-14 erg/s/cm2 (1 sigma)\n\nSource 3: EPF_J221327.1-453729\nRA (J2000): 333.3628\nDec (J2000): -45.6247\nFlux: 1.89 x 10^-13 erg/s/cm2 (FXT-A observed, 0.5-10 kev)\nFlux_err: 4.06 x 10^-14 erg/s/cm2 (1 sigma)\n\nSource 4: EPF_J221218.2-453223\nRA (J2000): 333.0758\nDec (J2000): -45.5397\nFlux: 9.71 x 10^-14 erg/s/cm2 (FXT-A observed, 0.5-10 kev)\nFlux_err: 2.74 x 10^-14 erg/s/cm2 (1 sigma)\n\nSource 5: EPF_J221226.9-453909\nRA (J2000): 333.1120\nDec (J2000): -45.6525\nFlux: 4.23 x 10^-14 erg/s/cm2 (FXT-B observed, 0.5-10 kev)\nFlux_err: 1.54 x 10^-14 erg/s/cm2 (1 sigma)\n\nNote: Sources 1-3 were simultaneously detected by both FXT-A and FXT-B, while Source 4 and Source 5 were individually detected by FXT-A and FXT-B, respectively.\n\nThe position uncertainties of the sources are about 10 arcsec in radius (90% C.L. statistical and systematic).\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics)."
+}

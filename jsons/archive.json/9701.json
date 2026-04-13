@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observations of bright hard GRB 090720B",
+  "eventId": "GRB 090720B",
+  "bibcode": "2009GCN..9701....1G",
+  "createdOn": 1248343568000,
+  "circularId": 9701,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, E. Mazets, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline\non behalf of the Konus-Wind team, report:\n\n\nGRB 090720B (Fermi/GBM trigger 269802178/090720710: Burgess et al., GCN 9698;\nIPN localization box: Golenetskii et al., GCN 9700)\ntriggered Konus-Wind at T0=61379.486 s UT (17:02:59.486).\n\nThis bright hard GRB started with a series of several short spikes,\nfollowed by a smoother structure. The emission is seen above 10 MeV\nfor the whole duration of the event (~16 s).\nThe Konus-Wind light curves of this GRB are available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB090720_T61379/\n\nAs observed by Konus-Wind the burst had a fluence\nof 1.8(-0.5,+0.7)x10-5 erg/cm2, and\na 2-ms peak flux, measured from T0+0.186 s,\nof 8.3(-2.8,+4.1)x10-5 erg/cm2/s\n(both in the 20 keV - 15 MeV energy range).\n\nThe time-integrated spectrum of the burst, measured from T0 to T0+16.640 s,\nis well fit (in the 20 keV - 15 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep), with\nalpha = -1.16(-0.13,+0.17), and\nEp = 1370(-580,+1190)keV (chi2 = 99/98 dof).\n\nThe spectrum at the maximum count rate, measured from T0+0.128 to T0+0.192 s,\nis also well fit (in the 20 keV - 15 MeV range) by a power law with\nexponential cutoff model, for which:\nalpha = -0.47(-0.42,+0.71), and\nEp = 710(-280,+590)keV (chi2 = 7.3/8 dof).\n\nAll the quoted values are preliminary.\nAll the quoted errors are at the 90% confidence level."
+}

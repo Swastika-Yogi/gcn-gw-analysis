@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060219: Swift/UVOT Upper Limits",
+  "eventId": "GRB 060219",
+  "bibcode": "2006GCN..4798....1B",
+  "createdOn": 1140447702000,
+  "circularId": 4798,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aad@mssl.ucl.ac.uk>",
+  "email": "aad@mssl.ucl.ac.uk",
+  "body": "A. Breeveld (MSSL-UCL), A. Moretti (INAF-OAB) on behalf of the \nSwift/UVOT team\n\nThe Swift/UVOT began observing the field of GRB 060219 at 22:49:50 UT \non 19th February 2006, 105s after the BAT\ntrigger (A.Moretti et al. GCN 4788). No source is detected at the \nrefined XRT position (A. Moretti GCN 4797). Analysing all the data from \nthe first 7000s we obtain the following 5 sigma upper limits:\n\nFilter        T_range(s)    Exp(s)  5sigUL(mag)\nV            120-320           200         18.6  (the Finding Chart \nexposure)\nV            105-5821         584        19.2\nB            327-6639         631        19.8\nU            652-6434        374         19.3\nUVW1    628-6230        364        19.8\nUVM2    604-6025        374        20.1\nUVW2    556-5617        374        20.2\nWhite      532-6704        257        19.7\n\nReported times are in seconds since BAT trigger.\nThese magnitudes are uncorrected for Galactic extinction;\nE(B-V) = 0.032.\n\nThis circular is an official product of the Swift-UVOT Team."
+}

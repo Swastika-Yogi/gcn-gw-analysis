@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 853790 is probably not an astrophysical source",
+  "bibcode": "2018GCN.23145....1P",
+  "createdOn": 1534540608000,
+  "circularId": 23145,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "K. L. Page (U Leicester), D. M. Palmer (LANL), B. Sbarufatti (PSU) and\nM. H. Siegel (PSU) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 20:58:18 UT, the Swift Burst Alert Telescope (BAT) triggered on a\nlow significance image peak near the line of sight to a nearby \ngalaxy (trigger=853790).  Swift did not slew due to an observing \nconstraint.  The BAT on-board calculated location is \nRA, Dec 192.885, +25.921 which is \n   RA(J2000) = 12h 51m 32s\n   Dec(J2000) = +25d 55' 15\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for an image trigger, there\nno obvious structure in the immediately available lightcurve. \n\nThis position is too close to the Sun for Swift to observe until \n2018 November 02. Thus there will be no XRT or UVOT data for this \ntrigger. \n\nDue to the low significance of the image peak (6.1 sigma on-board,\nwith an even lower significance in the ground analysis of the \nimmediately-available detector plane data), the\nlack of a rate trigger, and the offset from the putative\nnearby galaxy (9 arcminutes) we believe that this is probably\njust a statistical fluctuation in the image plane and not\nan astrophysical source.  The complete downlinked BAT data will\nbe used to confirm or refute this.  There will be no XRT or UVOT\nfollow-up due to the observing constraint."
+}

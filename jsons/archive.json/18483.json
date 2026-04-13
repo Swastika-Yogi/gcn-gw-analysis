@@ -1,0 +1,10 @@
+{
+  "subject": "Tentative redshift for GRB 151027A from Swift-XRT data",
+  "eventId": "GRB 151027A",
+  "bibcode": "2015GCN.18483....1C",
+  "createdOn": 1445940220000,
+  "circularId": 18483,
+  "submitter": "Sergio Campana at INAF-OAB  <sergio.campana@brera.inaf.it>",
+  "email": "sergio.campana@brera.inaf.it",
+  "body": "S. Campana (INAF-OAB) report on behalf of the Swift Team:\n\nSwift BAT triggered on the early activity of GRB 151027A (Maselli et\nal. 2015, GCN 18478). Swift XRT started observing 87 s after the\ntrigger observing the main event. By using the Swift/XRT spectrum\nrepository at http://www.swift.ac.uk/xrt_spectra/ (see Evans et al.\n2009, MNRAS, 397, 1177) we selected a time interval with an almost\nconstant hardness ratio, starting at 150 s after the burst onset\nand lasting 281 s. We then fit the Window Timing (WT) spectrum with\nXSPEC using the model tbabs*ztbabs*pow.\nWe assume a Galactic column density of 3.75x10^20 cm^-2 (Willingale et\nal. 2013, MNRAS, 431, 394) and we allow for a 30% uncertainty in the fit.\nWe fit the spectrum using C-statistics (C-stat=593.74 with 637 d.o.f.).\nIn the intrinsic column density vs. redshift plane there is just one \ndeep minimum\nhinting for a redshift z=0.38+/-0.17 (90% confidence level) and an\nintrinsic column density N_H(z)=(3.6+/-0.7)x10^21 cm^-2.\nThe X-ray spectrum is soft with Gamma=2.6, (assuming a cut-off power\nlaw spectrum the allowed redshift range expands to 0.27-1.38).\n\nThe contour plot is available at\nhttp://www.brera.inaf.it/utenti/campana/151027.gif"
+}

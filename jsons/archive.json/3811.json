@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050815: Swift-BAT detection of a burst",
+  "eventId": "GRB 050815",
+  "bibcode": "2005GCN..3811....1F",
+  "createdOn": 1124129611000,
+  "circularId": 3811,
+  "submitter": "Derek Fox at CIT  <derekfox@astro.caltech.edu>",
+  "email": "derekfox@astro.caltech.edu",
+  "body": "D. Fox (PSU), L. Barbier (GSFC), S. Barthelmy (GSFC), D. Burrows\n(PSU), J. Cummings (GSFC/NRC), N. Gehrels (GSFC), O. Godet\n(U. Leceister), S.T. Holland (GSFC/USRA), S. Hunsberger (PSU),\nJ. Kennea (PSU), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nF. Marshall (GSFC), D. Morris (PSU), D. Palmer (LANL), K. Page\n(U. Leicester), A. Parsons (GSFC), P. Roming (PSU), T. Sakamoto\n(GSFC), P. Schady (PSU/UCL-MSSL), & E. Rol (Leceister) report on\nbehalf of the Swift team:\n\nAt 17:25:19 UT, Swift-BAT triggered and located GRB050815\n(trigger=150532).  The BAT on-board calculated location is RA,Dec\n293.575d,+9.166d {19h 34m 18s,+09d 09' 59\"}, with an uncertainty of 2\narcmin (radius, 90% containment, stat+sys).  The BAT light curve shows\ntwo peaks in 5 sec and possible low energy emission out to ~30 sec.\nThe peak count rate was ~1000 counts/sec (15-350 keV), at ~2 seconds\nafter the trigger.\n\nThe S/C slewed immediately and the XRT began taking data at 17:26:28,\n70 s after the BAT trigger.  The XRT on-board centroid algorithm did\nnot converge and no prompt position is available.  However, the XRT\nlightcurve shows evidence of a decaying source in the field of view.\nWe are waiting for down-linked data to determine a position.\n\nThe UVOT began observing the position of trigger #150532 at 17:26:25.5\nUT, 67 s after the BAT trigger.  In a 100 s V-band image, no new\nsource is detected with respect to the DSS down to a 5 sigma upper\nlimit of 18.1 mag.  The estimated extinction in this direction is A_V\n~ 1.6 magnitudes.  The UVOT image gives 55% coverage of the BAT error\ncircle.  The BAT source is located in a crowded star field."
+}

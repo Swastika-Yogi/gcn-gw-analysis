@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 150724B",
+  "eventId": "GRB 150724B",
+  "bibcode": "2015GCN.18074....1G",
+  "createdOn": 1438006195000,
+  "circularId": 18074,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, hard-spectrum GRB 150724B\n(Fermi-LAT detection: Bissaldi, Racusin & Moretti, GCN 18065;\nFermi GBM detection: Veres, Connaughton & Meegan, GCN 18066)\ntriggered Konus-Wind at T0=67574.792 s UT (18:46:14.792).\n\nThe burst light curve shows  a double-peaked structure\nwhich starts ~30 s before the trigger and has a total duration of ~41 s.\nThe emission is seen up to ~5 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.63(-0.29,+0.69)x10^-5 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+2.064 s,\nof 6.01(-1.60,+1.62)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nOnly the brightest part of the burst is covered by the\nKW triggered mode data and, therefore, available for\nthe multi-channel spectral analysis. The time-averaged\nspectrum measured from T0 to T0+8.448 s\nis best fit in the 20 keV - 5 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.65(-0.11,+0.12),\nand Ep = 663(-69,+82) keV (chi2 = 77/73 dof).\nFitting by the GRB (Band) function yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -3.0 (chi2 = 77/72 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB150724_T67574/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

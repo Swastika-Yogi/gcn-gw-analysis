@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060908: Swift/UVOT Observations",
+  "eventId": "GRB 060908",
+  "bibcode": "2006GCN..5553....1M",
+  "createdOn": 1157728466000,
+  "circularId": 5553,
+  "submitter": "Adam Morgan at PSU/Swift-UVOT  <qmorgan@gmail.com>",
+  "email": "qmorgan@gmail.com",
+  "body": "A. N. Morgan (PSU),  D. E. Vanden Berk (PSU), P. Brown (PSU) and P. A.\nEvans (U Leicester) report on behalf of the Swift UVOT team:\n\nThe Swift/UVOT began observations of GRB 060908 at 08:58:42 UT, ~80\nseconds after the initial Swift BAT trigger (Evans et al., GCN Circ.\n5544). An optical counterpart was detected with the V filter at a\nposition RA(J2000) = (02h 07m 18.36s,+00d 20' 31.2\") to within 0.7\".\n\nAn optical afterglow was detected in the White, V, B, U, and UVW1 filters.\n\nThe best estimate for the photometric redshift is z=1.62 assuming an\nSMC extinction law with E(B-V)=0.05, but it is poorly constrained.\nValues range from z=0.26-2.20 for a 90% confidence range.\n\nThe photometry was performed using a 6 arcsec radius aperture and is\nreported below:\n\nFilter  T_range(s)    Exp. (s)   Magnitude\nWhite   80-179        99.8       15.06 +/- 0.03\nWhite   5839-6038     199.8      19.57 +/- 0.22\n\nV       185-584       399.8      16.85 +/- 0.05\nV       4816-6448     399.6      19.44 +/- 0.36\n\nB       663-820       19.6       18.41 +/- 0.31\nB       5635-7129     262.5      > 20.03 (3.0-sigma)\n\nU       639-658       19.7       17.01 +/- 0.16\nU       786-805       19.8       17.99 +/- 0.32\n\nUVW1    615-782       39.6       18.61 +/- 0.35\nUVW1    5226-6857     399.6      > 20.24 (3.0-sigma)\n\nUVM2    591-758       39.6       > 18.57 (3.0-sigma)\nUVM2    5021-6652     399.6      > 20.54 (3.0-sigma)\n\nUVW2    691-858       39.6       > 19.07 (3.0-sigma)\nUVW2    4612-6243     399.6      > 20.71 (3.0-sigma)\n\nThe values quoted above are not corrected for the expected Galactic\nextinction of E(B-V)=0.03."
+}

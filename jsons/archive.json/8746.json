@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081228: Swift-XRT Team refined analysis",
+  "eventId": "GRB 081228",
+  "bibcode": "2008GCN..8746....1P",
+  "createdOn": 1230459379000,
+  "circularId": 8746,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page & P.A. Evans (U. Leicester) report on behalf of the Swift-XRT \nteam:\n\nWe have analysed the first 4.6 ks of XRT data obtained for GRB 081228 \n(Page et al., GCN Circ. 8742), all of which was collected in Photon \nCounting mode. We have further refined the position given by Goad et al. \nin GCN Circ. 8744, and now find an astrometrically corrected X-ray \nposition (using the XRT-UVOT alignment and matching UVOT field sources to \nthe USNO-B1 catalogue) of\n\nRA (J2000):   02 37 50.89\nDec (J2000): +30 51 09.1\n\nwith an uncertainty of 2.2 arcsec (radius, 90% confidence).\n\nThe data can be fitted with a single power-law with a decay of alpha = 1.4 \n+/- 0.1, although there is some evidence for a flattening after about 8 \nks.\n\nThe spectrum of the first orbit of data can be modelled with a power-law \nof photon index Gamma = 1.5 +/- 0.4, absorbed by the Galactic column in \nthis direction of 8.8x10^20 cm^-2. The upper limit on the total absorbing \ncolumn is 4.7x10^21 cm^-2. The observed (unabsorbed) flux over this time \n(86-117 s after the trigger) is 1.23x10^-10 (1.38x10^-10) erg cm^-2 s^-1, \ncorresponding to a counts to observed flux conversion of 5.1x10^-11 erg \ncm^-2 count^-1.\n\nTaking into account the possible flattening of the decay at later times, \nthe count rate at 24 hours is predicted to be between 4.5x10^-3 and \n2.7x10^-4 count s^-1 (observed flux between 2.3x10^-13 and 1.4x10^-14 erg \ncm^-2 s^-1).\n\nThis circular is an official product of the Swift-XRT team."
+}

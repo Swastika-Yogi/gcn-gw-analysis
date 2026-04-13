@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB100522A.",
+  "eventId": "GRB 100522A",
+  "bibcode": "2010GCN.10791....1D",
+  "createdOn": 1274571534000,
+  "circularId": 10791,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSS-UCL) and Eleonora Troja (NASA/GSFC/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nSwift/UVOT began settled observations of GRB100522A (Troja et al.\nGCN Circ. 10784) starting 73 seconds after trigger. No optical afterglow\nwithin the enhanced XRT position (Osborne et al. GCN Circ. 10787) is\ndetected in the UVOT exposures. Preliminary 3-sigma upper limits using\nthe UVOT photometric system (Poole et al. 2008, MNRAS, 383, 627) for\nthe first finding chart (FC) exposure and subsequent summed exposures are:\n\nFilter   T_start(s)  T_stop(s)   Exp(s)   Mag\n-----------------------------------------------------------\nwhite       73         223         147      >20.1 (FC)\nwhite       73        7223         569      >20.9\nv          614        6199         352      >19.0\nb          541        7018         352      >19.9\nu          285       13630        1243      >20.1\nuw1        663       12939        1242      >20.5\nm2         639        7838         549      >20.2\nw2         590        7429         363      >20.1\n\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.06 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP241208a: NOT optical upper limits",
+  "eventId": "EP241208a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38560....1L",
+  "createdOn": 1734104021107,
+  "circularId": 38560,
+  "submitter": "Dong Xu at NAOC/CAS <dxu@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "X. Liu, J. An, S.Q. Jiang, S.Y. Fu, Z.P. Zhu, D. Xu (NAOC), J.P.U. Fynbo (DAWN/NBI), A.H. de la Fuente, A.G. Theil (NOT) report:\n\nWe observed the field of EP241208a detected by EP-WXT (Wang et al., GCN 38477) and SVOM/ECLAIRs (Atteia et al., GCN 38557) using the 2.56-m Nordic Optical Telescope (NOT) equipped with the ALFOSC camera. Observations started at 02:48:15.84 UT on 2024-12-09, i.e., ~ 10.20 hrs after the EP-WXT trigger, and 5 x 200 s Sloan r- and z- band images were obtained, respectively.\n\nNo new optical source is found within the ~ 10 arcsec EP-FXT error circle (Wang et al., GCN 38513) after performing image differencing using the DESI Legacy Survey as template, down to the following 3-sigma limits:\n\nFilter    Tmid-T0 (hr)     UL (AB)\n-------------------------------------------\n  r       10.35               >23.2\n  z       10.67               >21.7\n\ncalibrated with nearby Pan-STARRS stars and not corrected for Galactic extinction."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130822A: optical upper limits",
+  "eventId": "GRB 130822A",
+  "bibcode": "2013GCN.15137....1V",
+  "createdOn": 1377868803000,
+  "circularId": 15137,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "A. Volnova (IKI), R.Inasaridze (AAO), O. Kvaratskhelia (AAO), V.\nAyvazian(AAO), Yu. Krugly (IA KhNU), I. Slyusarev (IA KhNU), I. Molotov \n(KIAM), V. Linkov (ISON), A. Pozanenko (IKI)  report on behalf\nof  larger GRB follow-up collaboration:\n\nWe observed the field of Swift GRB 130822A (Kocevski et al., GCN 15112) \non Aug., 22 with AS-32 (0.7m) telescope of Abastumani Observatory, \nSANTEL-400AN (0.4m) telescope of ISON-Kislovodsk observatory, and AZT-8 \n(0.7m) telescope of Institute of Astronomy, Kharkiv National University. \nWe obtained several unfiltered frames with exposures of 120 s (AS-32), \n100 s and 60 s (SANTEL-400AN), and several frames with filter R with \nexposure of 120 s (AZT-8).  Within the enhanced XRT circle (Beardmore et \nal., GCN 15117) we did not detect any source on stacked images.\n\nThe details of the photometry are the following:\n\nTelescope t_start, UT  filter exptime,s    t-t0, mid, days    uplim\n\nAZT-8     21:39:21     R      55*120       0.28000            20.6\nS-400     22:31:37     None   23*100       0.30332            19.3\nAS-32     23:46:59     None   40*120       0.36513            21.9\n\nThe photometry is based on SDSS stars, R mag (R mag obtained via\ntransformations ugriz in BVRI (Lupton, 2005):\n\nSDSS id             R      R_err\nJ015202.75-031421.9 12.80  0.012\nJ015134.64-031348.8 13.95  0.013\nJ015148.69-030854.9 14.62  0.013"
+}

@@ -1,0 +1,14 @@
+{
+  "editedOn": 1770647274856,
+  "subject": "GRB 260208B: SVOM/VT optical candidate",
+  "eventId": "GRB 260208B",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43659....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 43659,
+  "createdOn": 1770628245814,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li (NAOC), C. W. Wang (IHEP), Y. L. Qiu (NAOC), Y. N. Ma (NAOC), Z. H. Yao (NAOC), C. Wu (NAOC), L.P. Xin (NAOC), X. H. Han (NAOC), J. Wang (NAOC), Y. Xu (NAOC), P. P. Zhang (NAOC), W. J. Xie (NAOC), Y. J. Xiao (NAOC), H. B. Cai (NAOC), L. Lan (NAOC), J. R. Xu (NAOC), J. S. Deng (NAOC), J. Y. Wei (NAOC), J. Palmerio (CEA/Irfu) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation to GRB 260208B detected by Fermi-GBM (The Fermi GBM team, GCN 43638; Preis & Greiner, GCN 43639; Sonawane et al., GCN 43649), Fermi-LAT (Longo et al., GCN 43647) and SVOM/GRM (Luo et al., GCN 43650). The observation started at 2026-02-08T18:13:53 UTC, i.e., 8.359 hours post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued source was detected within the error box of source 1 detected by Swift-XRT (Evans et al., GCN 43651). The position is at R.A., Dec. = 99.619042, -13.774177 degrees, equivalent to:\n    R.A. (J2000) =  +06:38:28.57\n    Dec. (J2000) = -13:46:27.04\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitudes are given below:\n\n    Mid_time       Band        Exposure Time     Magnitude (AB)\n   10.341 hour     VT_R         53*50 sec        22.3+/-0.2 mag\n   10.341 hour     VT_B         57*50 sec         > 23.5 mag\n\nOur photometry was not corrected for Galactic extinction.\n\nFurther SVOM/VT ToO observations are scheduled.\n    \nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

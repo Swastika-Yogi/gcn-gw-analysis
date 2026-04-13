@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT Triggers 373776-373778 are not real",
+  "bibcode": "2009GCN.10079....1B",
+  "createdOn": 1256485325000,
+  "circularId": 10079,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC)  on behalf of the Swift team:\n \nSwift-BAT triggers 373776, 373777, and 373778 are not real.\nThey are due to false positive detections in image-trigger mode\nwhile the the spacecraft star tracker was in loss-of-lock.\n\nOnly five SIMBAD_NED notices were distributed.  None of the other Swift Notices\nin the usual sequence were distributed -- they were blocked in GCN.\n(I am working on code in GCN to prevent even this limited scenario.)\n\nPlease disregard these notices.  We apologize for the inconvenience."
+}

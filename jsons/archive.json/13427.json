@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120709A: Matched filter analysis of Fermi-LAT data",
+  "eventId": "GRB 120709A",
+  "bibcode": "2012GCN.13427....1Z",
+  "createdOn": 1341953509000,
+  "circularId": 13427,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "Weikang Zheng and Carl Akerlof, report on behalf of the ROTSE\ncollaboration:\n\nWe analyzed Fermi/LAT data of GRB 120709A (Kocevski et al., GCN 13423)\nas a follow-up of routine search in GBM trigger catalogs in our LAT data\nprocessing pipeline using the matched filter technique (Akerlof et al.\n2010, ApJ, 725, L15; 2011 ApJ, 726, 22; 2012, arXiv:1205.3066; Zheng et\nal. 2012, ApJ 745,72; 2012, arXiv:1203.5113).\nWe use a standard data selection method (with Energy range of 100 MeV <\nE < 300 GeV). About 10 photons associated with GRB are detected above\n100 MeV in 47.5s duration, with the highest energy of ~3.07 GeV at 2.04s\nafter the burst. The GRB location estimated by the matched filter\ntechnique is RA = 320.23, Dec = -51.13 with uncertainty ~0.5 degree,\nconsistent with the location given in GCN 13423.\n\nThe photon information can be found in the following link including the\nskymap:\nhttp://www.rotse.net/LAT/GBMTriggers/363561103/"
+}

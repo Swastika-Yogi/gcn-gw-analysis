@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240825A: Fermi GBM Observation",
+  "eventId": "GRB 240825A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37301....1S",
+  "createdOn": 1724688772588,
+  "submitter": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov>",
+  "circularId": 37301,
+  "format": "text/plain",
+  "body": "V. Sharma (NASA GSFC/UMBC), and C. Meegan (UAH) report on behalf of the\nFermi Gamma-ray Burst Monitor Team:\n\nAt 15:53:00 UT on 25 August 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 240825A (trigger 746293985/240825662), \nwhich was also detected Swift (R. Gupta et al. 2024, GCN 37274), \nFermi-LAT (N. Di Lalla et al. 2024, GCN 37288), and \nVLT/X-shooter (A. Martin-Carrillo et al. 2024, GCN 37293).\nThe Final Real-time Localization (Fermi GBM Team 2024, GCN 37273)\nis consistent with Swift and Fermi-LAT.\n\nThe angle from the Fermi LAT boresight is 52 degrees.\n\nThe GBM light curve many overlapping short pulses with a \nduration (T90) of about 4 s (50-300 keV). The time-averaged \nspectrum from T0+0.96 to T0+6.85 s best fit by a Band function\nwith Epeak = 442 +/- 8 keV, alpha = -0.82 +/- 0.01,\nand beta = -2.22 +/- 0.02.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.01 +/- 0.01)E-04 erg/cm^2. The 1-s peak photon flux measured\nstarting from T0+1.22 s in the 10-1000 keV band is 203 +/- 1 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

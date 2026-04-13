@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141121A: Swift-BAT refined analysis",
+  "eventId": "GRB 141121A",
+  "bibcode": "2014GCN.17083....1K",
+  "createdOn": 1416580809000,
+  "circularId": 17083,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), A. Y. Lien (GSFC/UMBC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 141121A (trigger #619182)\n(Lien, et al., GCN Circ. 17075).  The BAT ground-calculated position is\nRA, Dec = 122.665, 22.206 deg which is\n    RA(J2000)  =  08h 10m 39.5s\n    Dec(J2000) = +22d 12' 22.5\"\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 32%.\n\nThe mask-weighted light curve shows a very broad multi-peaked structure with the \nfirst emission episode running from T-50 to T+450 sec, with at least four \nsuperimposed peaks.  Then there is a return to baseline followed by another \nepisode from T+550 to T+675 sec. The spacecraft slewed away from the burst \nposition at around T+825 sec. T90 (15-350 keV) is 549.9 +- 37.4 sec (estimated \nerror including systematics).\n\nThe time-averaged spectrum from T+46.54 to T+663.07 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.73 +- 0.13.  The fluence in the 15-150 keV band is 5.3 +- 0.4 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+230.14 sec in the 15-150 keV band\nis 0.9 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/619182/BA/"
+}

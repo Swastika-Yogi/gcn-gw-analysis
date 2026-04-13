@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070721B: Swift-XRT refined analysis",
+  "eventId": "GRB 070721B",
+  "bibcode": "2007GCN..6646....1B",
+  "createdOn": 1185042761000,
+  "circularId": 6646,
+  "submitter": "Andy Beardmore at U Leicester  <apb@star.le.ac.uk>",
+  "email": "apb@star.le.ac.uk",
+  "body": "A.P. Beardmore, K.L. Page, P.A. Evans (U. Leicester) and H. Ziaeepour \n(MSSL-UCL) report on behalf of the Swift-XRT team :\n\nWe have analysed the first three orbits of Swift-XRT data on GRB 070721B\n(Ziaeepour et al., GCN 6640). Using 5.78ks of Photon Counting mode data, \nwe find a refined XRT position of  RA, Dec = 33.13710, -2.19462 which is\n\nRA(J2000):   02:12:32.90\nDec(J2000): -02:11:40.6\n\nwith an uncertainty of 3.5 arcseconds (90% containment radius).  This\nis 35 arcseconds from the refined BAT position reported by Palmer et\nal. (GCN 6643), 8.9 arcsec from the original XRT position reported in\nZiaeepour et al. (GCN 6640), and 0.7 arcseconds from the UVOT position\nreported by Schady (GCN 6641).\n\nThe X-ray light curve shows an initial steep decay from T+100s to\nT+144s, followed by a number of flares from T+255s to T+800s\nwhich reached a maximum count rate of 50 count/s at T+315s.  The\nunderlying decay is a powerlaw with a slope of approximately -0.9,\nthough it is difficult to be precise with the data available so far.\n\nThe X-ray spectrum from the Windowed Timing mode data obtained during\nthe non-flare intervals from the 1st orbit (T+144s to T+220s and\nT+400s to T+475s) can be fit with an absorbed powerlaw to give a photon\nindex of 1.48 +0.18-0.16 and a column density of 1.9 (+1.8-1.9) e20 cm^-2,\nconsistent with the Galactic value of 2.3e20 cm^-2 in this direction\n(Kalberla et al. 2005).  The observed 0.3-10 keV flux is 2.37+/-0.25 e-10\nergs cm^-2 s^-1, which corresponds to an unabsorbed flux of \n2.45+/-0.25 e-10 ergs cm^-2 s^-1.\n\nIf the underlying decay continues at the same rate, we predict an XRT\ncount rate of 0.025 count/s at T+24hr, which corresponds to an observed\n0.3-10keV flux of 1.4e-12 ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250807B: Kilonova-Catcher optical afterglow detection",
+  "eventId": "GRB 250807B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41293....1F",
+  "createdOn": 1754670939738,
+  "submitter": "Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "circularId": 41293,
+  "format": "text/plain",
+  "body": "M. Freeberg (KNC), D. Turpin (CEA-Saclay/Irfu), C. Andrade(UMN), M. Pillas (ULiege), M. Mašek (Institute of Physics, Prague, FZU, CZ), M. Molham (NRIAG), S. Antier (OCA/IJCLAB) on behalf of the GRANDMA/Kilonova-Catcher collaboration:\n\nWe observed the field of GRB 250807B (Klingler et al., GCN 41268) detected by Swift/BAT with the GRANDMA citizen science project Kilonova-catcher (KNC). Our observations were performed with the iTelescope T72 telescope operated by M. Freeberg. Our observations started at T0+11.9hr. \n\nIn our stacked frames, subtracted from the Legacy Survey DR10 template image, we detect a faint uncatalogued optical source inside the Swift/XRT position (Klingler et al., GCN 41268; Goad et al., GCN 41272) and consistent with the Swift/UVOT (Klingler et al., GCN 41268), NTT (van Dalen et al., GCN 41278) and the VLT/X-shooter (Giudice et al., GCN41289) optical afterglow .\n\nWe report our follow-up results in the table below:\n+---------------+-----------+-----------+----------------+--------------+\n| Tmid-TGRB (hr)| Exp (s)   | Filter    | Magnitude      | Instrument   |\n+===============+===========+===========+================+==============+\n| 12.4          | 11 x 300s | Rc (Vega) | 20.37 +/- 0.25 | iT72         | \n+---------------+-----------+-----------+----------------+--------------+\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained with the Johnson-cousins filters were calibrated using the GAIA DR3 synphot catalog.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023). \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

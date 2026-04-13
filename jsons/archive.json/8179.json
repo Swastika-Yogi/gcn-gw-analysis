@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080903: Swift/UVOT Observations",
+  "eventId": "GRB 080903",
+  "bibcode": "2008GCN..8179....1M",
+  "createdOn": 1220468776000,
+  "circularId": 8179,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and D. Grupe (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080903 starting 75 s after\nthe BAT trigger (Grupe et al., GCN Circ. 8169). A source is\ndetected in the initial exposure in the V filter at the position\nof the optical afterglow (de Ugarte Postigo et al., GCN Circ. 8172).\nThere is also a marginal (1.8 sigma) detection in the initial exposures\nwith the U filter. A valid detection in the U filter would\nindicate a redshift of less than 3.3.\n\nThe magnitudes and 3-sigma upper limits in the UVOT photometric system \n(Poole et al. 2008, MNRAS, 383, 627) for detecting\na source in the first finding chart (FC) exposure and \nsubsequent co-added exposures are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)       Mag \n\nv (FC)              75          475          393         19.8 +/- 0.24\nv                  595        28705         2596        >21.5\nb                  555        12429         1307        >21.8\nu                  530          829           58         20.0 +/- 0.47\nu                 4906        34528         3049        >21.8\nuvw1               506         7268          551        >21.0\nuvm2               481         7160          655        >20.7\nuvw2               571         6750          452        >21.2\n\nThe values quoted above are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.22 in the direction of the burst \n(Schlegel et al. 1998)."
+}

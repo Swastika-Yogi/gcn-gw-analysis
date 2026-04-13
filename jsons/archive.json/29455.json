@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210209A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 210209A",
+  "bibcode": "2021GCN.29455....1H",
+  "createdOn": 1612969177000,
+  "circularId": 29455,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, R. Adachi, K. L. Murata, M. Niwano, F. Ogawa, N.\nNakamura, N. Ito, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.\nKawai (TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210209A (Laha et al. GCN #29442, Evans et\nal. GCN #29443, Perri et al. GCN #29449, Breeveld et al. GCN #29453)\nwith the optical three color (g', Rc, and Ic) CCD cameras attached to\nthe MITSuME 50 cm telescope of Akeno Observatory, Yamanashi, Japan.\nThe observation with a series of 60 sec exposures started at\n2021-02-10 08:49:41 UT(11.2 hour after the Swift BAT trigger). Since\nthe first 17 images were taken under high airmass conditions, we\nstacked the images with good conditions. We did not find any new point\nsources within the enhanced Swift XRT circle (Evans et al. GCN #29443)\nin all three bands.\nWe obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n11.2 09:14:41 600 g'>17.2,Rc>17.6,Ic>17.1\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used the PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

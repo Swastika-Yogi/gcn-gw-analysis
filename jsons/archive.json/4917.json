@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060323: Swift/UVOT Observations",
+  "eventId": "GRB 060323",
+  "bibcode": "2006GCN..4917....1M",
+  "createdOn": 1143233770000,
+  "circularId": 4917,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F. Marshall (GSFC/NASA) and L. Vetere (ASDC) on behalf of the Swift/UVOT team\n\nThe Swift/UVOT began taking data on the field of GRB 060323 at 14:37:30 UT on \n2006-03-23, approximately 294s after the BAT trigger (Vetere et al., GCN 4904). \nThere are marginal detections at the position of the optical afterglow \n(Covino et al. GCN 4911; Jensen et al. GCN 4915; Covino et al. GCN 4916)\nin the White, V, and B filters. The table below provides the results\nfor the initial finding chart exposure using the White filter and for\nsummed exposures.\n\nThe UVOT on-board detection of a weak source suggested as a possible afterglow\nby Vetere et al. is not confirmed in ground analysis of the complete \nfinding chart image.\n\nFilter\tT_range(s)  Exp(s)  3-sigma UL   Possible Detection\n                                            Mag   sigma\nWhite   294-393      100     20.0          21.1   1.8\nWhite   486-17446   2171     21.9\nV       525-22318   2012     20.6          21.6   2.1\nB       473-16535   1308     21.3          22.1   2.6\nU       449-6313     453     21.2\nUVW1    425-23955   1163     21.3\n\nThese magnitudes are uncorrected for the expected Galactic extinction corresponding\nto E(B-V) = 0.015."
+}

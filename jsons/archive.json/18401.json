@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 151001B",
+  "eventId": "GRB 151001B",
+  "bibcode": "2015GCN.18401....1G",
+  "createdOn": 1444130290000,
+  "circularId": 18401,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nAt ~16 minutes before the Swift-BAT trigger on GRB 151001B\n(Krimm, et al., GCN Circ. 18374; T0(BAT)=18:29:36 UT)\nKonus-Wind detected, in the waiting mode, a burst of high X-ray/soft\ngamma-ray emission which had a duration of ~191 s.\n\nTaking into account the proximity of this burst to the Swift-BAT trigger\nand consistency of the KW ecliptic latitude response with the position\nof GRB 151001B we suggest this burst is the main part of GRB 151001B.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB151001B/\nThe count rate increase in the soft KW energy band, which follows the\nburst from T0(BAT)-838 s to T0(BAT)+2488 s, can not be unambiguously\nattributed to GRB 151001B.\n\nAs observed by Konus-Wind, the burst had a fluence of\n8.5(-2.3,+0.6)x10^-6 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(BAT)-1007.1 s, of 1.8(-0.6,+0.4)x10^-7 erg/cm2/s\n(both in the 20 - 1000 keV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum\n(from T0(BAT)-1018.9 s to T0(BAT)-827.5 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.9(-0.3,+0.5) and Ep = 179 (-52,+75) keV.\n\nAll the quoted errors are at 1 sigma confidence level.\nAll the quoted values are preliminary."
+}

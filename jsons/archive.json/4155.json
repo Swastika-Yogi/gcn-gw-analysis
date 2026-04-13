@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051022: Swift/UVOT Upper Limits",
+  "eventId": "GRB 051022",
+  "bibcode": "2005GCN..4155....1I",
+  "createdOn": 1130137582000,
+  "circularId": 4155,
+  "submitter": "Stefan Immler at NASA/GSFC  <immler@milkyway.gsfc.nasa.gov>",
+  "email": "immler@milkyway.gsfc.nasa.gov",
+  "body": "S. Immler (GSFC), A. Retter (PSU), J. Racusin (PSU),\nL. Cominsky (Sonoma State U), J. Norris (GSFC)\non behalf of the Swift/UVOT team report:\n\nThe Swift-UVOT began observing the field of GRB 051022\n(HETE Trigger H3950; Olive et al. GCN 4131) at 2005-10-22\n16:34:11, about 3.5 hours after the burst.\n\nBased on comparisons with the DSS catalog, we detect\nno source inside the XRT error circle at RA, Dec\n23:56:4.1, +19:36:25.1 (J2000) with an uncertainty of\n4 arcsec (Racusin et al. GCN 4141) in any of the 5 filters\nor in summed V-band exposures down to the following 5-sigma\nmagnitude upper limits:\n\nFilter  T_range(hours)  Exp(sec) 5sigUL\n\nV       3.47-3.72        900      19.5\nB       5.63-5.65         63      18.9\nU       5.38-5.63        900      20.1\nW1      3.98-4.36        900      19.3\nM2      3.73-3.98        900      20.4\nV\t6.78-13.48\t7914\t  20.7\n\nwhere T_range is the time post HETE trigger.\nThe magnitudes have not been corrected for extinction."
+}

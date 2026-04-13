@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240828A: GECAM detection",
+  "eventId": "GRB 240828A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37377....1Z",
+  "createdOn": 1725349437688,
+  "circularId": 37377,
+  "submitter": "yqzhang_cl@163.com",
+  "format": "text/plain",
+  "body": "Yan-Qiu Zhang (IHEP), Shao-Lin Xiong (IHEP), Chen-Wei Wang (IHEP) report on behalf of the GECAM team:\n\nGECAM-C was triggered on-ground by a long burst, GRB 240828A, at 2024-08-28T14:55:07.150 UTC (T0), which was also detected by Fermi/GBM (Fermi GBM team, GCN #37317; S. Dalessi et al., GCN #37341), AstroSat CZTI (S. Srijan et al., GCN #37328), Fermi-LAT (R. Gupta et al., GCN #37331), Swift-XRT (A.P. Beardmore et al., GCN #37337) and INTEGRAL/SPI-ACS (trigger #10876).\n\nAccording to the GECAM-C light curves in about 6-6000 keV, this burst mainly consists of multiple pulses with a duration (T90) of about 41.41（+1.13,-1.05）s.\nThe time-averaged spectrum from T0+0.83 to T0+42.24 s could be fit by a power law with high energy exponential cutoff function with a fluence of about 7.77E-05 erg/cm^2 in 10-1000 keV.\n\nThe GECAM light curve could be found here:\nhttps://twikinew.ihep.ac.cn/pubgecam/Sandbox/GRB/GECAMC_lC_GRB240828A.png\n\nThe GECAM-C on-ground location (J2000) is: \nRa: 227.7 deg   \nDec: 39.9 deg\nErr: 1.8 deg (1-sigma, statistical only)\n\nGECAM location is consistent with the Fermi/LAT position within the error.\n\nWe note that these results are very preliminary. Refined analysis will be reported later.\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor (GECAM) mission originally consists of two microsatellites (GECAM-A and GECAM-B) launched in Dec. 2020. As the third member of GECAM constellation, GECAM-C was launched onboard SATech-01 experimental satellite in July 2022. GECAM mission is funded by the Chinese Academy of Sciences (CAS).\n"
+}

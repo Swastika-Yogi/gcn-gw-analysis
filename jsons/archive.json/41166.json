@@ -1,0 +1,14 @@
+{
+  "editedOn": 1753463482763,
+  "subject": "Konus-Wind detection of GRB 250725A",
+  "version": 3,
+  "eventId": "GRB 250725A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41166....1F",
+  "createdOn": 1753458794263,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Dmitry Frederiks at Ioffe Institute <ddfrederiks@gmail.com>",
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 41166,
+  "format": "text/plain",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 250725A (Fermi-GBM detection:\nThe Fermi GBM team, GCN 41150;\nSwift detection: Evans et al., GCN 41152;\nSVOM/GRM observation: Wang et al., GCN 41164)\ntriggered Konus-Wind (KW) at T0=6698.029 s UT (01:51:38.029).\n\nThe burst shows a multi-peaked structure with a total duration of ~12 s.\nThe emission is seen up to ~1.5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250725_T06698/\n\nAs observed by Konus-Wind, the burst had\na fluence of (1.19 ± 0.10)x10^-5 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 0.512 s,\nof (4.16 ± 0.41)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+16.640 s)\nis best fit in the 20 keV - 15 MeV range by a GRB (Band) function\nwith the following model parameters:\nthe low-energy photon index alpha = -0.41 (-0.13,+0.15),\nthe high energy photon index beta = -2.75 (-0.25,+0.18),\nthe peak energy Ep = 155 (-9,+9) keV,\nchi2 = 89/97 dof.\n\nAssuming the redshift z=5.26 (Thakur et al., GCN 41160)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to (5.85 ± 0.49)x10^53 erg,\nthe isotropic peak luminosity L_iso to (1.30 ± 0.13)x10^54 erg/s, and\nthe rest-frame peak spectral energy Ep,z to (970 ± 56) keV.\nWith the obtained estimates, GRB 250725A is consistent with 68% prediction bands\nof both 'Amati' and 'Yonetoku' relations for the sample of >300 long KW GRBs\nwith known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB250725_T06698/GRB250725A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 241217A / EP241217b: NOT optical upper limits",
+  "editedOn": 1761257748504,
+  "version": 2,
+  "eventId": "GRB 241217A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.38621....1Z",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Daniele Bjørn Malesani at Cosmic Dawn Center, Niels Bohr Institute <daniele.malesani@nbi.ku.dk>",
+  "circularId": 38621,
+  "createdOn": 1734533867668,
+  "submitter": "Zipei Zhu at NAOC <zpzhu@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "Z.P. Zhu, X. Liu, D. Xu (NAOC), D. B. Malesani (DAWN/NBI and Radboud Univ.), A. Amanda Djupvik (NOT), Laura Cotter, Antonio Martin-Carrillo (UCD), Jesse Palmerio (CEA/Irfu) and Susanna D. Vergani (GEPI / Obs. de Paris)  report on behalf of a large collaboration:\n\nWe observed the field of GRB 241217A / EP241217b detected by SVOM (Brunet et al., GCN 38594) and Einstein Probe (Zhou et al., GCN 37492), using the StanCam and NOTCam instruments mounted on the Nordic Optical Telescope (NOT), with 9x200s in the SDSS-z band and 18x60 s photometry in the J band. Observations started at 23:09:34 UT on 2024-12-17, i.e. 6.2 hr after the trigger.\n\nThe optical afterglow (Qiu et al., GCN 38600) is not detected in any of the stacked images, down to the following 5-sigma upper limits:\n\nT_mid (UT) | T_mid (hr) | filter | Exposue|5-sigma U.L. (AB)\n2024-12-17T23:20:59 | 6.396 | J | 18x60s | 19.5\n2024-12-18T01:05:01 | 8.130 | z | 9x200s | 21.3\n\ncalibrated with nearby Pan-STARRS and 2MASS stars, and not accounting for any Galactic extinction correction.\n\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP251023a: MAO/AZT-22 optical observations",
+  "eventId": "EP251023a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42422....1R",
+  "createdOn": 1761318152447,
+  "circularId": 42422,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "format": "text/plain",
+  "body": "Y. Rajabov, O. Burkhonov, B.Abidkhanov, S. Ehgamberdiev, Y. Tillayev (UBAI), T. Boyqobilov, A. Shaymanov (Maidanak Observatory/UBAI) report on behalf of UBAI team.\n\nWe observed the field of EP transient EP251023a (Wu et al., GCN 42388), with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2025-10-23 at 22:52:18 UT, i.e. ~10.37 hours since trigger. In total we obtained 6x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). \nThe optical afterglow initially detected by GOTO (Wortley et al., GCN 42387) and also observed (Li et al., GCN 42389; Liu et al., GCN 42391; Mandarakas et al., GCN 42400; Lipunov et al., GCN 42405; Selezneva et al., GCN 42406; Mohan et al., GCN 42411; Rakotondrainibe et al., GCN 42420) is detected in our individual and stacked frames.\nPreliminary photometry is as follows:\nDate       UTstart  Exptime     t-T0       Filter  OT    Err.    UL    Site/Telescope\n                    (nxs)     (mid, days)                 \n2025-10-23 23:08:31 6x300      0.85928       R    20.56  0.03    22.99   MAO/AZT-22\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). \nImages obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog.\nThe data has not corrected for the Galactic extinction.\n\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical \nInstitute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n"
+}

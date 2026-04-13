@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 171027A",
+  "eventId": "GRB 171027A",
+  "bibcode": "2017GCN.22070....1F",
+  "createdOn": 1509299030000,
+  "circularId": 22070,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 171027A (Swift-BAT trigger #783479: (D'Avanzo et al.,\nGCN  22053; Lien et al., GCN 22066; T0(BAT)=08:23:06.623 UT)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nThe light curve shows a muli-peaked structure with a duration of ~103 s.\nModeling the KW 3-channel time-integrated spectrum\n(from T0(BAT)-1.661 s to T0(BAT)+101.379 s) by\na power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.21(-0.35,+0.20) and Ep = 176(-35,+47) keV.\nThe energy fluence for this time interval is (1.78 �� 0.21)x10^-5\nerg/cm2, and the peak energy flux, measured on a 2.944 s scale from\nT0(BAT)+63.107 s is (6.6 �� 0.12)x10^-7 erg/cm2/s, both in the\n20 keV-10 MeV range.\n\nAssuming the GRB photo-z < 3.85 (90%, Butler et al., GCN 22061)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.30, and Omega_Lambda = 0.70, our analysis sets\nthe following upper limits on the burst isotropic energy release\nand rest-frame peak energy: E_iso < 5.2x10^53 erg and\nEp,z < 854 keV.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB171027A/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

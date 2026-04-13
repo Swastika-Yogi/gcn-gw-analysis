@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220711C (short)",
+  "eventId": "GRB 220711C",
+  "bibcode": "2022GCN.32373....1S",
+  "createdOn": 1657641056000,
+  "circularId": 32373,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe short-duration GRB 220711C\nwas detected by Fermi (GBM trigger 679248723),\nINTEGRAL (SPI-ACS), Konus-Wind, and Swift (BAT)\nat about 58318 s UT (16:11:58).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ------------------------------\n    RA(2000), deg  Dec(2000), deg\n   ------------------------------\n   Center:\n    79.625         -47.309\n   Corners:\n    64.292         -35.777\n    64.270         -36.123\n    94.188         -53.124\n    93.862         -52.805\n   ------------------------------\nThe error box area is 5.5 sq. deg, and its maximum\ndimension is 27 deg (the minimum one is 12 arcmin).\nThe Sun distance was 72 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi-GBM final localization (glg_healpix_all_bn220711675_v00).\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220711_T58317/IPN\n\nThe time history and spectrum will be given in forthcoming\nGCN Circulars."
+}

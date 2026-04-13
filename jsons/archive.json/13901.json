@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 121024A: Swift/UVOT Observations",
+  "eventId": "GRB 121024A",
+  "bibcode": "2012GCN.13901....1H",
+  "createdOn": 1351195332000,
+  "circularId": 13901,
+  "submitter": "Stephen Holland at STScI  <sholland@stsci.edu>",
+  "email": "sholland@stsci.edu",
+  "body": "S. T. Holland (STScI) and C. Pagani (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\n     The Swift/UVOT began settled observations of the field of GRB\n121024A starting 158 s after the BAT trigger (Pagani et al., 2012,\nGCNC 13886).  We continued to detect the optical afterglow until\napproximately 10 ks after the BAT trigger.  Preliminary UVOT\nphotometry, and 3-sigma upper limits, for the afterglow is presented\nbelow.\n\n-----------------------------------------------------\nFilter       TSTART   TSTOP   Exp Time       Mag  Err\n-----------------------------------------------------\n    u (fc)     158      408        246     18.43 0.10\n-----------------------------------------------------\n    v          464      483         19    >18.1\n    b          413      433         19     18.44 0.25\n    u          538      557         19    >18.5\n uvw1          513      533         19    >18.1\n uvm2          488      508         19    >17.6\n uvw2          439      459         19    >18.1\n-----------------------------------------------------\n\n    The quoted magnitudes and upper limits have not been corrected for\nthe Galactic extinction along the line of sight to this burst of\nE_{B-V} = 0.09 mag (Schlafly et al. 2011, ApJS, 737, 103).  The\nphotometry is in the UVOT photometric system (Breeveld et al. 2011,\nAIP Conf. Proc. 1358, 373)."
+}

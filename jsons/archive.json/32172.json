@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220601A",
+  "eventId": "GRB 220601A",
+  "bibcode": "2022GCN.32172....1L",
+  "createdOn": 1654536282000,
+  "circularId": 32172,
+  "submitter": "Alexandra Lysenko at Ioffe Institute  <alexandra.lysenko@mail.ioffe.ru>",
+  "email": "alexandra.lysenko@mail.ioffe.ru",
+  "body": "A. Lysenko, D. Frederiks, A. Ridnaia, D. Svinkin, A. Tsvetkova, M. Ulanov,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 220601A\n(IPN triangulation: Kozyrev et al., GCN Circ. 32163)\ntriggered Konus-Wind at T0=22766.297 s UT (06:19:26.297).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-42.5 s and has a total duration of ~82.5 s.\nThe emission is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220601_T22766/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.64(-0.16,+0.17)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+3.056s,\nof 6.19(-1.55,+1.57)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+41.216 s)\nis best fit in the 28 keV - 5 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.79(-0.17,+0.18)\nand Ep = 195(-17,+21) keV (chi2 = 58/71 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 57/70 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+8.448 s)\nis best fit in the 20 keV - 5 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.74(-0.16,+0.17),\nthe high energy photon index beta = -2.81(-2.84,+0.34),\nthe peak energy Ep = 220(-24,+31) keV\n(chi2 = 62/70 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

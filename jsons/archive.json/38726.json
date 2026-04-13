@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241229A: EP-FXT afterglow candidates",
+  "eventId": "GRB 241229A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38726....1J",
+  "createdOn": 1735558918076,
+  "circularId": 38726,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "S.Q. Jiang, J. W. Hu, W. J. Zhang, X.P. Xu (NAO, CAS), W.F. Wen (SZTU), J. H. Wu (GU), H.W. Pan, Z.X. Ling (NAO, CAS), B. Cordier (CEA) on behalf of Einstein Probe teams:\n\nWe performed a follow-up observation of GRB 241229A (SVOM/ECLAIRs, Liang et al., GCN 38697) with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) mission. The observation started at 2024-12-29 14:11:35 (T-TGRB ~ 14.1 hr) for about 3 ks of exposure in total.\n\nThree uncatalogued X-ray sources are detected by both FXT-A and FXT-B within the 7.6 arcmin error circle of SVOM/ECLAIRs (Liang et al., GCN 38697). We list the sources in the following table, with the seperations from the ECLAIRs source given. The observed 0.5-10 keV flux given in the table is a rough estimate assuming the same spectral paramters, and is not corrected for absorption. \n\n|    FXT source      | R.A. (deg, J2000) | DEC (deg, J2000) | Sep. (arcmin)  | Flux (erg/s/cm^2) |\n| EPF_J125139.4+315311  |    192.9133      |    31.8867     |      2.06      |  6.82 x 10^(-14)  | \n| EPF_J125129.3+314453* |    192.8715      |    31.7484     |      6.61      |  7.73 x 10^(-13)  |\n| EPF_J125101.6+315007  |    192.7572      |    31.8356     |      7.04      |  9.25 x 10^(-14)  |\n* sources also detected by Swift/XRT (Evans et al., GCN 38711)\n\nFurther follow-up observation will be performed by the EP-FXT to confirm the afterglow of GRB 241229A.\n \nThe above observation was made with the EP-FXT instrument. Launched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). EP is a mission of the Chinese Academy of Sciences in collaboration with ESA, MPE and CNES."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241229A: EP-FXT X-ray afterglow confirmation",
+  "eventId": "GRB 241229A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38740....1J",
+  "createdOn": 1735640557572,
+  "circularId": 38740,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "S. Q. Jiang, J. W. Hu, H. Sun, W. J. Zhang, X. P. Xu (NAO, CAS), W. F. Wen (SZTU), J. H. Wu (GU), H.W. Pan, Z. X. Ling (NAO, CAS), B. Cordier (CEA) on behalf of Einstein Probe teams:\n\nWe performed further follow-up observations of GRB 241229A (SVOM/ECLAIRs, Liang et al., GCN 38697) with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) mission. The first epoch of the observation started at 2024-12-30T09:24:30 (T-TGRB ~ 1.39 days) with an exposure time of 2 ks, and a second epoch was performed at 2024-12-30T16:06:04 (T-TGRB ~ 1.67 days) with an exposure time of 5 ks.\n\nThe flux of the first (EPF_J125139.4+315311) and the third (EPF_J125101.6+315007) sources reported in Jiang et al., GCN 38726 remained almost constant over all the observations.\n\nThe second source EPF_J125129.3+314453, which is also detected by Swift/XRT (Williams et al., GCN 38728) shows a clear flux decay with a powerlaw index of ~ 0.8. The unabsorbed 0.5-10 keV flux given in the below table is calculated by assuming the same spectral index 1.86 and fixed with the Milky Way equivalent hydrogen column density nH of 1.43 x 10^20 cm^-2:\n Observation start time [UTC]    | exposure time [s] | 0.5 - 10 keV unabsorbed flux  [erg/s/cm2]  \n       2024-12-29T14:11:35        |       2828            |     7.94 (+2.12 -1.53)   x   10^(-13)     \n       2024-12-30T09:24:30        |       2212            |     4.19 (+0.81 -0.72)   x   10^(-13)     \n       2024-12-30T16:06:04        |       4898            |     3.50 (+1.14 -0.77)   x   10^(-13)     \n\nThus we claim that this source is very likely the afterglow of GRB 241229A. \n\nThe above observation was made with the EP-FXT instrument. Launched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). EP is a mission of the Chinese Academy of Sciences in collaboration with ESA, MPE and CNES."
+}

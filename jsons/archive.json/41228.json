@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250804A: Fermi GBM Final Localization",
+  "eventId": "GRB 250804A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41228....1F",
+  "createdOn": 1754321600168,
+  "circularId": 41228,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely SHORT GRB.\n\n\"At 11:38:03.48 UT on 04 August 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 250804A (trigger 776000288/250804485).\nThis trigger was initially classified as Below Horizon by the flight software,\nbut is in fact a GRB.\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 114.09, Dec = 42.02 (J2000 degrees, equivalent to J2000 7h 36m, +42d 1'),\nwith a statistical uncertainty of 19.32 degrees.\n\nThe angle from the Fermi LAT boresight is 44 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250804485/quicklook/glg_skymap_all_bn250804485.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250804485/quicklook/glg_healpix_all_bn250804485.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250804485/quicklook/glg_lc_medres34_bn250804485.gif\"\n"
+}

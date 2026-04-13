@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220705A: Fermi GBM Final Localization",
+  "eventId": "GRB 220705A",
+  "bibcode": "2022GCN.32322....1F",
+  "createdOn": 1657032168000,
+  "circularId": 32322,
+  "submitter": "Joe Mangan at UCD  <joseph.mangan@ucdconnect.ie>",
+  "email": "joseph.mangan@ucdconnect.ie",
+  "body": "The Fermi GBM team reports the detection of a likely SHORT GRB.\n\nAt 06:45:53.34 UT on 5 Jul 2022, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 220705A (trigger 678696358 / 220705282).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA\n= 149.8, Dec = -10.7 (J2000 degrees, equivalent to J2000 9h 59m, -10d 43'),\nwith a statistical uncertainty of 11.2 degrees.\n\nThe angle from the Fermi LAT boresight is 46 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn220705282/quicklook/glg_skymap_all_bn220705282.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can\nbe found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn220705282/quicklook/glg_healpix_all_bn220705282.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn220705282/quicklook/glg_lc_medres34_bn220705282.gif"
+}

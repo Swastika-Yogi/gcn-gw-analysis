@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 1256950 is probably not a GRB",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37623....1G",
+  "createdOn": 1727585843174,
+  "circularId": 37623,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "R. Gupta (NASA GSFC), K. L. Page (U Leicester) and D. M. Palmer (LANL)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 04:14:16 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated an image peak (trigger=1256950).  Swift slewed immediately to\nthe peak. Due to a telemetry gap, the peak location was not immediately\ntransmitted to the ground.  However a detector plane map was sent to the\nground indicating a marginal-significance peak.\nThe BAT ground-calculated location is \nRA, Dec 35.089, -54.581 which is \n   RA(J2000) = 02h 20m 21s\n   Dec(J2000) = -54d 34' 50\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  No BAT lightcurve is immediately\navailable.\n\nThe XRT began observing the field at 04:15:43.0 UT, 87 seconds after the BAT\ntrigger. No source was detected in 433 s of promptly downlinked data. We are\nwaiting for the full dataset to detect and localise the XRT counterpart.\n\nThe lack of immediate data makes it hard to evaluate this trigger.\nHowever, the geographic location of the spacecraft at the time of\nthe burst (near the South Atlantic Anomaly), the low significance\n(6.4 sigma) of the peak in the ground-calculated image,\nand the lack a detected XRT counterpart argue against the\nreality of this as an astrophysical source.  Therefore we\nconclude that this is probably not a GRB.  A final determination\nwill require the full downlinked dataset.\n\n"
+}

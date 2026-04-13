@@ -1,0 +1,9 @@
+{
+  "subject": "Swift trigger 796115 is not astrophysical",
+  "bibcode": "2017GCN.22220....1M",
+  "createdOn": 1512860102000,
+  "circularId": 22220,
+  "submitter": "Andrea Melandri at INAF-OAB  <andrea.melandri@brera.inaf.it>",
+  "email": "andrea.melandri@brera.inaf.it",
+  "body": "A. Melandri, P. D'Avanzo (INAF-OAB), S. Barthelmy (GSFC), A. Lien (GSFC) report on behalf of the Swift Team:\n\nWe report further analysis of the Swift/BAT trigger #796115 (Barthelmy et al., GCN Circ. 22217) using the full data set from recent telemetry downlinks.\n\nThe BAT ground analysis uses the data set from T-60 to T+243 sec. The BAT image significance is only 4.6 sigma (15-350 keV).  Also, the mask-weighted light curve does not show anything significant.\n\nWe have analysed 0.8 ks of XRT downlinked data from 158 s to 940 s after the BAT trigger. The data are entirely in Photon Counting (PC) mode. No source is detected within the BAT error circle (Barthelmy et al., GCN Circ. 22217).\n\nConsidering the marginal detection by BAT and the non-detection of an afterglow by XRT, we conclude that this trigger was due to a statistical fluctuation and not to a real astrophysical source.\n\n[GCN OPS NOTE(10dec17):  Per author's request, the trigger number we changed\nfrom 755873 to 796115 in the Subject-line and the first paragraph.]"
+}

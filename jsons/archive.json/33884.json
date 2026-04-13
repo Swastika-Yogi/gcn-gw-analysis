@@ -1,0 +1,9 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230518h: Updated Sky localization",
+  "eventId": "LIGO/Virgo/KAGRA S230518h",
+  "bibcode": "2023GCN.33884....1L",
+  "createdOn": 1685139899196,
+  "circularId": 33884,
+  "submitter": "Deep Chatterjee at MIT <deep.chatterjee@ligo.org>",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration report:\n\nWe have conducted further offline analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data around the time of the compact binary merger (CBC) candidate S230518h (GCN Circular 33816). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.offline0.multiorder.fits,0, distributed via GCN Notice, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S230518h\n\nFor the Bilby.offline0.multiorder.fits,0 sky map, the 90% credible region is 460 deg2. Marginalized over the whole sky, the a posteriori\nluminosity distance estimate is 204 +/- 57 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide <https://emfollow.docs.ligo.org/userguide/>.\n\n [1] Ashton et al. ApJS 241, 27 (2019)\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141212A: Skynet R-COP Observations",
+  "eventId": "GRB 141212A",
+  "bibcode": "2014GCN.17161....1T",
+  "createdOn": 1418397285000,
+  "circularId": 17161,
+  "submitter": "Adam S. Trotter at UNC-Chapel Hill/PROMPT/Skynet  <atrotter@physics.unc.edu>",
+  "email": "atrotter@physics.unc.edu",
+  "body": "A. Trotter, J. Haislip, D. Reichart, A. Verveer, T. Spuck, A. Aji, R. \nBeauchemin, T. Berger, A. Dow, A. Foster, N. Frank, M. Hinckle, K. \nIvarsen, A. LaCluyze, M. Maples, J. Moore, M. Nysewander, C. Salemi, L. \nZbinden, and J. A. Crain report:\n\nSkynet observed the Swift BAT/XRT localization of GRB 141212A (Ukwatta \net al., GCN 17158, Swift trigger=621229) with the 14\" R-COP telescope at \nPerth Observatory, Australia. Starting at 2014-12-12 12:24 UT and \ncontinuing until 14:13 UT (t=10.2m-119m post-trigger), Skynet took a \ntotal of 24x160s exposures in the B, V, R, and I bands. We stacked \nsubsets of these images to maximize the S/N ratio, and detected no \noptical source in any band at the XRT position.  Our 3-sigma limiting \nmagnitudes are:\n\n==================================\ntmid  expos  fil  limit\n==================================\n87m   7x160s  B   >19.9\n106m  8x160s  V   >20.5\n41m   3x160s  R   >20.0\n30m   2x80s   I   >18.5\n==================================\n\nLimiting magnitudes are in the Vega System, calibrated to 6 APASS stars \nin the field.  Magnitudes have not been corrected for line-of-sight \nMilky Way dust extinction, with expected E(B-V)=0.09 (Schlafly & \nFinkbeiner 2011).\n\nNo further Skynet observations are scheduled."
+}

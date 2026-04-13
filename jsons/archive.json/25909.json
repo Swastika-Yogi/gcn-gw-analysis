@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190924h: Correction to GCN 25905, updated sky localization for S190924h",
+  "eventId": "LIGO/Virgo S190924h",
+  "bibcode": "2019GCN.25909....1M",
+  "createdOn": 1569958344000,
+  "circularId": 25909,
+  "submitter": "Geoffrey Mo at LIGO  <geoffrey.mo@ligo.org>",
+  "email": "geoffrey.mo@ligo.org",
+  "body": "What follows is the exact content of GCN 25905, which is being re-sent with\na corrected subject. The original subject stated that this was an updated sky\nlocalization for S190828j, which was in error. Instead, this is the updated sky\nlocalization for S190924h.\n\nThe LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the data from LIGO Hanford\nObservatory (H1), LIGO Livingston Observatory (L1) and Virgo Observatory\n(V1) around the time of the compact binary merger (CBC) candidate S190924h\n(GCN Circular 25829). Parameter estimation has been performed using\nLALInference [1] and a new sky map, LALInference.fits.gz, distributed via\nGCN Notice, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190924h\n\nThe preferred sky map at this time is LALInference.fits.gz. The 90%\ncredible region is 303 deg2. Marginalized over the whole sky, the a\nposteriori luminosity distance estimate is 548 +/- 112 Mpc (a posteriori\nmean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this\nalert, refer to the LIGO/Virgo Public Alerts User Guide <\nhttps://emfollow.docs.ligo.org/userguide/>.\n\n [1] Veitch et al. PRD 91, 042003 (2015)"
+}

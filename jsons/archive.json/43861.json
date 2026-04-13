@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260225A: WINTER J-band upper limit",
+  "eventId": "GRB 260225A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43861....1S",
+  "createdOn": 1772184903807,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "circularId": 43861,
+  "format": "text/plain",
+  "body": "Benjamin Schneider (LAM), Geoffrey Mo (Caltech/Carnegie), Viraj Karambelkar (Columbia), Tomas Ahumada (NOIRLab), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of the SVOM GRB 260225A (Ma et al., GCN Circ. 43829) in the near-infrared with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). Observations started on 2026-02-25 at 09:09:10 UT (17.92 min after the trigger) and consisted of 15 exposures of 120 s in the J-band.\n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565) and analysed with STDWeb/STDPipe (Karpov 2025). The photometric calibration was performed using nearby stars from the 2MASS catalog and the magnitude is not corrected for Galactic extinction.\n\nIn the stacked image, the optical counterpart reported by Ducoin et al., GCN Circ. 43839 and Li et al., GCN Circ. 43838, consistent with the uncatalogued X-ray source detected by EP/FXT position (Yang et al., GCN 43839), is not detected down to the following 3-sigma AB magnitude:\n\nJ > 19.5\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250831A: SVOM/VT upper limit with VHF data",
+  "eventId": "GRB 250831A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41615....1W",
+  "createdOn": 1756638745082,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 41615,
+  "format": "text/plain",
+  "body": "C. Wu, L.P. Xin, Y. L. Qiu, H.L. Li, Z.H. Yao, Y.N. Ma, X.H. Han, J. Wang, W.J. Xie, Y. Xu, H.B. Cai, J. Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM team.\n\nSVOM/VT performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Xie et al., GCN 41614). SVOM/VT began observing the field automatically at 2025-08-31T09:35:46.00 UTC, 523 seconds after the T0, with the slew of the platform triggered on-board, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nWith downlinked VHF data, no any uncatalogued sources were found in stacked images within the errorbox of SVOM/MXT (Xie et al., GCN 41614) compared to Legacy survey.\n\nThe 3 sigma limit in AB magnitude was derived as follows:\n---------------------------------------------------------\n(T-T0)_mid  exptime   Band    upperlim (3sigma) \n 523 sec    300 sec   VT_R       21.5 mag\n\nWe noticed that there is a very bright cataloged M type binary (G 272-61) near the MXT position, which is saturated in VT images. Its position is RA=24.75605 and D.E.=-17.95056 in J2000. \n\nMore follow-ups are encouraged to investigate the nature of the burst. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

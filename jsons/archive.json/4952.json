@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060403: XRT refined analysis",
+  "eventId": "GRB 060403",
+  "bibcode": "2006GCN..4952....1M",
+  "createdOn": 1144154608000,
+  "circularId": 4952,
+  "submitter": "Vanessa Mangano at INAF-IASFPA  <vanessa@ifc.inaf.it>",
+  "email": "vanessa@ifc.inaf.it",
+  "body": "T. Mineo, V. Mangano, V. La Parola, G. Cusumano (INAF-IASFPA),\nJ. Kennea (PSU), P.T. Boyd (NASA/GSFC), D.N. Burrows (PSU)\nreport on behalf of the Swift XRT team:\n\nWe analyzed the Swift XRT data of GRB 060403 (Boyd et al. GCN 4945).\nThe observation started 52 s after the BAT trigger in Windowed Timing (WT)\nmode because before slewing to the GRB position, XRT was observing\nSGR1900+14 in manual state. The instrument then switched to auto state,\ntaking the initial image frame for on board centroiding 222 s after the\ntrigger, as reported in GCN 4945.\nThe data we report on consisted of 5.5 ks exposure in WT mode\nand 15 ks exposure in Photon Counting (PC) mode.\n\nThe 0.2-10 keV light curve shows a clear power law decay with\nslope -1.49+/-0.04.\n\nThe average WT spectrum accumulated during the first orbit (from 52 s\nto 300 s after the trigger) is well fitted by a power law with photon\nindex 1.61+/-0.22, absorbed at lower energies by a column of\n(8.1+/-2.1) x 10^21 cm^-2, higher than the galactic value (4.9 x 10^21\ncm^-2).\nThe 0.2-10 keV unabsorbed flux is 1.61 x 10^-11 ergs cm^-2 s^-1.\nIf the burst continues decaying at the current rate we\nestimate an XRT count rate of 1 x 10^-4 counts/s at T+48hr,\nwhich corresponds to an unabsorbed 0.2-10 keV flux\nof 1x 10^-14 ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift XRT team."
+}

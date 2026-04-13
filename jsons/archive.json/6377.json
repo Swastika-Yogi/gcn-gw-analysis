@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070506: Swift XRT refined analysis",
+  "eventId": "GRB 070506",
+  "bibcode": "2007GCN..6377....1P",
+  "createdOn": 1178471811000,
+  "circularId": 6377,
+  "submitter": "Claudio Pagani at PSU/Swift-XRT  <pagani@astro.psu.edu>",
+  "email": "pagani@astro.psu.edu",
+  "body": "C. Pagani, L. Vetere, J. L. Racusin and J. A. Kennea (PSU) report on  \nbehalf of the Swift Team:\n\nWe have analysed the first two orbits of Swift XRT data from GRB  \n070506 (trigger number 278693, GCN Circ 6375.), for a total photon  \ncounting mode exposure of 2.8ks.\nThe XRT started collecting data in Image mode at 05:38:05 UT, 127  \nseconds after the BAT trigger, but observations in Photon Counting  \nmode were delayed due to the SAA, starting 432 seconds after the  \ntrigger. The refined XRT position from 2.8ks of PC data is\nRA,DEC(J200) = 347.2179, +10.7217\nwhich is\nRA(J2000) = 23d 08m 52.30s\nDEC(J200) = +10d 43' 18.2\"\n\nwith an uncertainty of 5.4 arcsec (radius, 90% containment).\nThis is  5.1 arcsec from the initial X-ray position and 2.4 arcsec  \nfrom the UVOT optical counterpart (GCN 6375).\n\nThe XRT light curve created from the first two orbits of PC data  \nreveals a decaying source with hints of flaring activity. A power law  \nfit yields a decay slope of 0.55+/-0.06.\n\nThe X-ray spectrum of the PC data, modeled with an absorbed power law  \ngives a photon index of 2.5+/-0.5 and a total column density of NH= \n(1.8+/-1.1)e21 cm**-2, in excess of the Galactic value of 0.4e21 cm**-2.\nThe absorbed (unabsorbed) 0.3-10.0keV flux for this spectrum was  \n3.0E-12 (5.5E-12) ergs cm^-2 s^-1.\n\nAssuming the source continues to decay at the same rate, we predict  \nan XRT count rate of 2.2e-2 count/s at T+24 hours, which corresponds  \nto an observed (unabsorbed) flux of 0.8E-12 (1.5E-12) ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift XRT team."
+}

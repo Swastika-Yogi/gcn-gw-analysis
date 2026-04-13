@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120830A: Fermi-LAT detection of a short burst",
+  "eventId": "GRB 120830A",
+  "bibcode": "2012GCN.13704....1V",
+  "createdOn": 1346365318000,
+  "circularId": 13704,
+  "submitter": "Giacomo Vianello at SLAC  <giacomov@slac.stanford.edu>",
+  "email": "giacomov@slac.stanford.edu",
+  "body": "G. Vianello (Stanford), J. Racusin (NASA/GSFC), and D. Donato (NASA/GFSC),\nreport on behalf of the Fermi-LAT team:\n\nFermi-LAT detected high energy emission from the short GRB 120830A in\nground analysis. The GRB triggered the Fermi-GBM on August 30th, 2012 at\n07:07:03.53 UTC (trigger 368003226/120830297). At the time of the GBM\ntrigger, the angle between the GRB position and the LAT boresight was 38\ndegrees. The burst was also detected and localized through IPN, which will\nbe reported in an upcoming circular.\n\nA preliminary maximum-likelihood analysis during the GBM T90 of the E>75MeV\nP7TRANSIENT_V6 LAT data revealed a significantly detected transient source.\nWe obtain the best LAT on-ground localization of:\n\nRA(J2000) = 88.42 deg\n\nDec(J2000) = -28.81 deg\n\nwith an error radius of 0.86 deg (68% containment, statistical error only),\nwhich is 0.28 deg from the IPN position.\n\nThere were 4 photons above 100 MeV within 1 second of the GBM trigger\nduring the GBM emission. The highest energy photon is a 500 MeV event which\nis observed 0.8 seconds after the GBM trigger. The likelihood fit provides\na photon index of 2.66 +/- 0.86, and a flux (100 MeV-10 GeV) over this\ninterval of 2.2e-07 +/- 1.7e-07 (erg/cm^2/s).\n\nA Swift TOO has been requested based upon the IPN localization.\n\nThe Fermi LAT point of contact for this burst is Davide Donato (\ndavide.donato-1@nasa.gov).\n\nThe Fermi LAT is a pair conversion telescope designed to cover the energy\nband from 20 MeV to greater than 300 GeV. It is the product of an\ninternational collaboration between NASA and DOE in the U.S. and many\nscientific institutions across France, Italy, Japan and Sweden."
+}

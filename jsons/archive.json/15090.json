@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130812A: Swift-XRT refined Analysis",
+  "eventId": "GRB 130812A",
+  "bibcode": "2013GCN.15090....1E",
+  "createdOn": 1376390344000,
+  "circularId": 15090,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans (U. Leicester), B.P. Gompertz (U. Leicester), P. D'Avanzo\n(INAF-OAB), A. Maselli\t(INAF-IASFPA), V. Mangano (PSU), M.C. Stroh\n(PSU), D.N. Burrows (PSU), J.P. Osborne (U. Leicester) and V. D'Elia\nreport on behalf of the Swift-XRT team:\n\nWe have analysed 8.9 ks of XRT data for GRB 130812A (D'Elia  et al. GCN\nCirc. 15088),  from 62 s to 22.3 ks after the  BAT trigger. The data\ncomprise 8 s in Windowed Timing (WT) mode (taken while Swift was\nslewing), with the remainder in Photon Counting (PC) mode. The enhanced\nXRT position for this burst was given by Evans et al. (GCN. Circ\n15089).\n\nThe light curve can be modelled with  a power-law decay with a decay\nindex of alpha=0.86 (+/-0.03).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.04 (+0.17, -0.16). The\nbest-fitting absorption column is  3.0 (+/-0.6) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.5 x 10^21 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 4.1 x 10^-11 (6.6 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.0 (+/-0.6) x 10^21 cm^-2\nGalactic foreground: 1.5 x 10^21 cm^-2\nExcess significance: 4.3 sigma\nPhoton index:\t     2.04 (+0.17, -0.16)\n\nIf the light curve continues to decay with a power-law decay index of\n0.86, the count rate at T+24 hours will be 7.1 x 10^-3 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 2.9 x\n10^-13 (4.6 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00566228.\n\nThis circular is an official product of the Swift-XRT team."
+}

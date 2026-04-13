@@ -1,0 +1,9 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230615az: T80S Search and Candidate Counterpart Identification",
+  "eventId": "LIGO/Virgo/KAGRA S230615az",
+  "bibcode": "2023GCN.33986....1S",
+  "createdOn": 1687040101630,
+  "submitter": "André Santos <andsouzasanttos@gmail.com>",
+  "circularId": 33986,
+  "body": "A. Santos (CBPF/Fermilab), C. D. Kilpatrick (Northwestern), C. R. Bom (CBPF), Eduardo Lacerda (IAG-USP) report on behalf of the STEP-GW collaboration:\n\nWe conducted an optical search for candidate counterparts in the localization region of LVK gravitational wave event S230615az with the T80S 0.8-m robotic telescope using the 1.4 x 1.4 field-of-view camera.  The tiling was optimally determined using the latest localization map from the LVK and galaxy catalogs in Teglon (Coulter et al., in prep.).  In total, T80S observed 24 fields (68 individual exposures at total) within the 90th percentile localization region of S230615az.  All of our completed pointings have been uploaded to the GW Treasure Map (Wyatt et al., 2020) at https://treasuremap.space/alerts?graceids=S230615az.\n\nSubtracting DECam and SkyMapper template images from the T80S images using photpipe (Rest et al., 2005), we identified the following candidate counterpart in our imaging:\n\nName MJD RA(deg) Dec(deg) Filter Mag Magerr \nSTEP23a 60111.4340 40.79975 -46.65150667 g 19.806  0.09\n\nWe have checked the Minor Planet Center and Transient Name Server, finding no previously reported solar system object or transient. We encourage follow-up observations of this source.\n"
+}

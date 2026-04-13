@@ -1,0 +1,10 @@
+{
+  "subject": "GRB130408A: Swift/UVOT followup observations",
+  "eventId": "GRB 130408A",
+  "bibcode": "2013GCN.14370....1B",
+  "createdOn": 1365505656000,
+  "circularId": 14370,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. Breeveld (MSSL/UCL) and A. Y. Lien (NASA/GSFC/ORAU) report on behalf \nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130408A \n134 s after the BAT trigger (Lien et al., GCN Circ. 14361). A bright but \nrapidly fading source is detected in the initial exposures (Siegel and \nLien, GCN Circ. 14363) with a position consistent with detections by \nMelandri et al., (GCN Circ., 14362), Sudilovsky et al., (GCN Circ., \n14364) and Beardmore et al., (GCN Circ. 14367).\n\nThe preliminary UVOT position is:\n  RA(J2000)  =    08:57:37.30 = 134.40540\n  DEC(J2000) =   -32:21:38.9  = -32.36081\nwith a 90%-confidence error radius of about 0.5 arc sec.\n\nPreliminary detections and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe early and summed exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              156          305      147.4          16.80 � 0.05\nwhite             3708         3900      189.2          20.29 � 0.22\nwhite             6083        10367      924.3          21.99 � 0.35\nv                  134          145       10.1          15.75 � 0.15\nv                 4201         4400      196.7          19.61 � 0.35\nb                 3503         6078      393.2          >20.84\nu                  313         5872      236.2          >20.55\nuvw1              4611         4752      139.0          >19.82\nuvm2              4405         4605      196.6          >19.75\nuvw2              3996        21851     1748.0          >21.56\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.258 in the direction of \nthe burst (Schlegel et al. 1998)."
+}

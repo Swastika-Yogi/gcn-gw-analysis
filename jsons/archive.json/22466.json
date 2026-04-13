@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 813449: Swift detection of large burst from XTE J1701-407",
+  "bibcode": "2018GCN.22466....1B",
+  "createdOn": 1520620878000,
+  "circularId": 22466,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), J. R. Cummings (NASA/UMBC),\nJ. A. Kennea (PSU), N. P. M. Kuin (UCL-MSSL), D. M. Palmer (LANL),\nB. Sbarufatti (PSU), M. H. Siegel (PSU) and A. Tohuvavohu (PSU) report\non behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 18:20:35 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated XTE_J1701-407 (trigger=813449).  Swift did not slew to the source\nbecause of an observing constraint. The BAT on-board calculated location is \nRA, Dec = 255.433, -40.855, which is \n   RA(J2000)  =  17h 01m 44s\n   Dec(J2000) = -40d 51' 18\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single broad peak\nwith a duration of about 70 sec.  The peak count rate\nwas ~600 counts/sec (15-350 keV), at ~45 sec after the trigger. \n\nDue to a Moon constraint, XRT and UVOT will not be able to make\nimmediate follow-up observations of this source.  We intend to\nmake follow-up observations when it comes out of constraint,\nearly on March 10, UT."
+}

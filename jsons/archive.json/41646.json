@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250901A: SVOM/VT optical afterglow with VHF data",
+  "eventId": "GRB 250901A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41646....1X",
+  "createdOn": 1756769221294,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "circularId": 41646,
+  "format": "text/plain",
+  "body": "L.P. Xin, H.L. Li, C. Wu. Y. L. Qiu, Z.H. Yao, Y.N. Ma, X.H. Han, J. Wang, W.J. Xie, Y. Xu, H.B. Cai, J. Y. Wei (NAOC), J. Palmerio (CEA) , F. Piron (LUPM), C. Guépin (LUPM) report on behalf of the SVOM team.\n\nSVOM/VT performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Piron et al., GCN 41634). SVOM/VT began observing the field automatically at 2025-09-01T18:20:17.000 UTC,  355 seconds after the T0, with the slew of the platform triggered on-board, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nWith downlinked VHF data, an uncatalogued source is found in stacked images within the errorbox of SVOM/MXT (Piron et al., GCN 41634) and Swift/XRT (Osborne et al., GCN 41645) compared to Legacy survey. It is located at R.A. and DEC. 356.18453,  -15.74171 deg or\n\nR.A., (J2000) = 23:44:44.28\nDEC.  (J2000) = -15:44:30.16\nThe error is about 0.5 arcseconds.\n\nThe AB magnitudes were derived as follows:\n---------------------------------------------------------\n(T-T0)_mid  exptime   band      mag \n505 sec    300 sec   VT_R      19.66+/-0.03\n505 sec    300 sec   VT_B      21.75+/-0.05\n\nGiven the color of VT_B-VT_R~2.0 mag, it might be a medium redshift GRB (Wang et al., 2020, RAA).\n\nMore follow-ups are encouraged. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

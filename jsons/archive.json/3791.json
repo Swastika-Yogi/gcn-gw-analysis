@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050813: SWIFT/UVOT observation",
+  "eventId": "GRB 050813",
+  "bibcode": "2005GCN..3791....1B",
+  "createdOn": 1123941203000,
+  "circularId": 3791,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), A. Retter (PSU), M. J. Page (UCL-MSSL),\nJ. Nousek (PSU), W. Voges (MPE), N. Gehrels (GSFC) on behalf of\nthe Swift UVOT team\n\nSwift/UVOT began observing the field of GRB050813 at 06:46:52.0 UT,\n102 s after the BAT trigger (Retter et al., GCN 3788). We detect no\nnew source with respect to the DSS within the XRT error circle\n(Morris et al., GCN 3790) down to the following 3-sigma upper\nlimits:\n\nFilter   T_range (s)   Exp (s)  3sig UL (mag)\n\nV        103-963       188      19.1\n\nB        249-1200      188      20.2\n\nU        235-1096      188      19.9\n\nUVW1     221-991       98       19.7\n\nUVM2     207-977       98       19.3\n\nUVW2     264-1305      188      20.6\n\nWhere T_range is the time in seconds since the BAT trigger.\n\nThere is a known star at the edge of the XRT error circle at the\nJ2000 coordinates 16:07:57.41 +11:14:42.9 with a V magnitude of\n15.9 measured by the UVOT.\n\nThese magnitudes are based on preliminary zero-points, measured in\norbit, and will require refinement with further calibration."
+}

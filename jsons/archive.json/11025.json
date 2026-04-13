@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100728B: Lick Observations",
+  "eventId": "GRB 100728B",
+  "bibcode": "2010GCN.11025....1P",
+  "createdOn": 1280383174000,
+  "circularId": 11025,
+  "submitter": "Daniel Perley at U.C. Berkeley  <dperley@astro.berkeley.edu>",
+  "email": "dperley@astro.berkeley.edu",
+  "body": "D. A. Perley, C. R. Klein, and A. N. Morgan (UC Berkeley) report:\n\nWe began observations of the afterglow of GRB 100728B (Morris et al., \nGCN 11009; Perley et al., GCN 11007) with the Nickel 40-inch telescope \nat Lick Observatory starting at 10:38:32 UT, 397 sec after the Swift \ntrigger.  A series of frames in R-band (as well as one V-band and one \nU-band exposure) was acquired.  The resulting light curve shows a \ngradual, unbroken power-law decay with a decay index consistent with \nthat seen in the KAIT observations (Perley et al., GCN 11024). \nPhotometry from our first seven R-band exposures is as follows:\n\ntstart(s) exp(s) filt  mag    unc\n397        60    R = 17.38 +/- 0.06\n830       300    R = 18.33 +/- 0.05\n1162      300    R = 18.53 +/- 0.06\n1497      200    R = 18.71 +/- 0.07\n1888      160    R = 18.88 +/- 0.09\n2062      120    R = 18.80 +/- 0.09\n2197      120    R = 18.99 +/- 0.11\n\nCalibration is relative to a single bright star at RA=44.041108, \ndec=+0.242409 (SDSS DR6 magnitudes g=15.61, r=14.52, i=14.57; the \nequivalent Cousins R magnitude is R=14.3 using the average of the two \nSDSS Lupton transformations.)  As this star may be weakly blended with a \nfaint neighbor and its USNO magnitude (R2=13.94) differs from this SDSS \nvalue, caution is advised in interpreting the absolute calibration."
+}

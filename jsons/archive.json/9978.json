@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 371210: Swift/BAT Triggered on IGR J17511-3057",
+  "bibcode": "2009GCN..9978....1L",
+  "createdOn": 1254336412000,
+  "circularId": 9978,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "N. A. Lyons (U Leicester), W. H. Baumgartner (GSFC/UMBC),\nA. P. Beardmore (U Leicester), D. N. Burrows (PSU),\nM. M. Chester (PSU), C. Gronwall (PSU),\nS. T. Holland (CRESST/USRA/GSFC), J. A. Kennea (PSU),\nH. A. Krimm (CRESST/GSFC/USRA), C. B. Markwardt (CRESST/GSFC/UMD),\nP. T. O'Brien (U Leicester), K. L. Page (U Leicester),\nP. Romano (INAF-IASFPA), A. Rowlinson (U Leicester),\nT. Sakamoto (NASA/UMBC), M. H. Siegel (PSU),\nM. Stamatikos (OSU/NASA/GSFC), M. A. Stark (PSU) and\nR. L. C. Starling (U Leicester) report on behalf of the Swift Team:\n\nAt 18:31:56 UT, the Swift Burst Alert Telescope (BAT) \nlocated trigger 371210, which is the known source IGR J17511-3057.  \nSwift slewed immediately to the location.  The BAT on-board \ncalculated location is  RA, Dec 267.767, -30.979 which is \n   RA(J2000) = 17h 51m 04s\n   Dec(J2000) = -30d 58' 42\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve is consistent with\na type 1 thermonuclear X-ray burst, both in duration and because it\nappears only in the lowest energy band (15-25 keV). \n\nThe XRT began observing the field at 18:33:07.8 UT, 71.2 seconds after\nthe BAT trigger. Using promptly downlinked data we find a bright\nX-ray counterpart located at RA, Dec 267.78641, -30.96082 which\nis equivalent to:\n   RA(J2000)  = 17h 51m 8.74s\n   Dec(J2000) = -30d 57' 39.0\"\nwith an uncertainty of 3.8 arcseconds (radius, 90% containment). This\nlocation is 88 arcseconds from the BAT onboard position, within the BAT\nerror circle, and is consistent with the position obtained with Chandra \n(ATel #2215)."
+}

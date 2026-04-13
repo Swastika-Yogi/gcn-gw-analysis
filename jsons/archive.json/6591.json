@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070628 Swift-UVOT Refined Analysis",
+  "eventId": "GRB 070628",
+  "bibcode": "2007GCN..6591....1L",
+  "createdOn": 1183164181000,
+  "circularId": 6591,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (GSFC/SSAI),  F.E. Marshall  (NASA/GSFC) and  S.T. Holland  \n(CRESST/GSFC/USRA) report on behalf of the Swift/UVOT team.\n\nThe Swift/UVOT observed the field of GRB 070628 starting 1099 sec after \nthe trigger (Holland et al., GCN Circ. 6584).    We strongly detect the \nafterglow in the white and V filters, and have a weak detection in the B \nfilter.    The refined afterglow position is\n\nRA(J2000)  =  07h 41m 06.09s\nDec(J2000) = -20d 16' 45.4\"\n\nwith an uncertainty of 0.7\" (radius, 90% containment, including  \nsystematic uncertainty).  This is within the refined XRT error circle \n(Perri et al. GCN Circ. 6587).\n   \nMagnitudes and upper limits are reported below.\n\nFilter   Tstart  Tstop    Exp       Mag\n          (s)     (s)     (s)\n\nWHITE    1099    1199      98     19.65 � 0.11\n         1202    1302      98     19.62 � 0.11\n         6628    6827     197     20.59 � 0.15\n        11691   11990     295    >21.2 (3 sigma)\n\n\nV        1309    1708     393     18.88  � 0.11\n         1850    5804     256     19.55  � 0.25\n        13207   13506     295    >19.6 (3 sigma)\n\nB        1786    6622      78     20.7 � 0.3\n         7856    8055     197    >20.4 (3 sigma)\n                        \nU        6217    6417     197    >20.0 (3 sigma)\n\nUVW1     6014    6213     197    >19.8 (3 sigma)\n\nUVM2     5809    6008     197    >19.6 (3 sigma)\n\nUVW2     6833    7032     197    >19.9 (3 sigma)\n\n\nThe above magnitudes are not corrected for the large and uncertain \nextinction expected at the low Galactic latitude of GRB 070628.  \n\nA power-law fit  to the white filter observations gives a decay index of \n~0.55 +/- 0.3.\n\n[GCN OPS NOTE(30jun07):  Per author's request, the authors line\nwas added.]"
+}

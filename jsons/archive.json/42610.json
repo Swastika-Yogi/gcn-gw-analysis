@@ -1,0 +1,14 @@
+{
+  "editedOn": 1762539345491,
+  "subject": "GRB 251106A: Kilonova-Catcher optical upper limit",
+  "eventId": "GRB 251106A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42610....1F",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "circularId": 42610,
+  "createdOn": 1762505329974,
+  "submitter": "Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "format": "text/plain",
+  "body": "M. Freeberg (KNC), D. Turpin (CEA-Saclay/Irfu), C. Andrade(UMN), S. Antier (OCA/IJCLab), M. Coughlin (UMN), S. Karpov (FZU), P. Hello (IJCLAB), M. Pillas (IAP) on behalf of the GRANDMA/Kilonova-Catcher collaboration:\n\nWe observed the field of GRB 251106A detected by SVOM (Antier et al., GCN 42605), Swift/BAT-GUANO (Delaunay et al., GCN 42608) and Fermi/GBM subthreshold (Godwin et al., GCN 42608) with the GRANDMA citizen science project Kilonova-catcher (KNC). Our observations were performed with a TEC160FL telescope operated by M. Freeberg. Our observations started at TGRB+5.4hr and were taken with sdss gr filters.\n\nIn our stacked frames, subtracted from the PanSTARRS DR2 template image, we do not detect the optical counterpart reported by the SVOM/COLIBRI (FM-GFT) (Angulo et al., GCN 42607).\n\nWe report our follow-up results in the table below:\n+---------------+-----------+---------+----------------+-------------+\n| Tmid-TGRB (hr)| Exp (s)   | Filter  | Magnitude      | Instrument  |\n+===============+===========+=========+================+=============+\n| 5.77          | 15 x 180s | r (AB)  | 19.7 (5 sigma) | TEC160FL    | \n| 6.58          | 15 x 180s | g (AB)  | 20.0 (5 sigma) | TEC160FL    | \n+---------------+-----------+---------+----------------+-------------+\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained with the sloan filters were calibrated using the PanSTARRS DR1 catalog.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023). \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n\n"
+}

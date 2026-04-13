@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 241115D / EP 241115a",
+  "eventId": "GRB 241115D",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38323....1S",
+  "createdOn": 1732634120014,
+  "circularId": 38323,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 241115D / EP 241115a\n(EP-WXT detection: Hu et al., GCN 38239;\nSVOM-GRM detection: Wang et al., GCN 38250)\nwas detected by Konus-Wind (KW) in the waiting mode\nat T0(GRM) ~20736 s UT (05:45:36).\n\nA Bayesian block analysis of the KW  waiting mode data\nin the 20-300 keV band reveals a >30 sigma count rate\nincrease in the interval from T0(GRM)-68 s to ~T0(GRM)+35 s.\nThe total burst duration is ~103 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241115D/\n\nThe total burst fluence is 1.54(-0.21,+0.24)x10^-5 erg/cm^2,\nand the 2.944 s peak energy flux, measured from T0-0.138 s,\nis 7.10(-1.8,+1.4)x10^-7 erg/cm^2.\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst,\nmeasured from T0-68 s to T0+35 s,\ncan be described by a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.74(-0.19,+0.53) and Ep = 102(-38,+24) keV.\n\nThe spectrum near the peak count rate, \nmeasured from T0-3.082 s to T0+2.806 s,\ncan be described by a CPL model with\nalpha ~-1.3 and Ep = 121(-22,+29) keV.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

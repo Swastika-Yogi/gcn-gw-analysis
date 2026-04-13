@@ -1,0 +1,10 @@
+{
+  "subject": "GRB200826A: GMOS-N detection of a supernova bump",
+  "eventId": "GRB 200826A",
+  "bibcode": "2020GCN.28727....1A",
+  "createdOn": 1603305654000,
+  "circularId": 28727,
+  "submitter": "Tomas Ahumada at U. of Maryland  <tahumada@astro.umd.edu>",
+  "email": "tahumada@astro.umd.edu",
+  "body": "Tomas Ahumada (UMD), Leo Singer (NASA GSFC), Harsh Kumar (IITB), and Simeon\nReusch (DESY) report on behalf of the ZTF and GROWTH collaborations:\n\nWe imaged position of ZTF20abwysqy/AT2020scz (Ahumada et al. GCN 28295),\nthe afterglow of GRB 200826A (GCN 28284) with the Gemini Multi-Object\nSpectrograph (GMOS-N) mounted on the Gemini-North 8-meter telescope on\nMauna Kea, on 2020-09-23 and 2020-10-10.\n\nEach epoch consisted of 14 r- and i- band 200s exposures. We reduced and\nco-added the images from each epoch using DRAGONS, a Python-based data\nreduction platform provided by the Gemini Observatory. We subtracted the\ncoadded images of the two epochs using HOTPANTS. A source is detected on\n2020-09-23 at the position of the afterglow with i = 23.9 AB mag and r >\n23.5 AB mag.\n\nAt host galaxy's redshift of z = 0.7481 (GCN 28319) and assuming Planck\n2015 cosmological parameters, the absolute magnitude of the GMOS-N\ndetection is M_i = -19.5 AB mag. At this time, a kilonova would have an\nabsolute magnitude of M_i >~ -14.5 AB mag whereas a SN1998bw-like supernova\nwould have an absolute magnitude of M_i ~ -19 AB mag. Since the GMOS-N\ndetection is consistent with a supernova but not a kilonova, we conclude\nthat GRB 200826A was powered by a collapsar rather than a neutron star\nmerger.\n\nWe thank the Gemini Observatory Director for awarding this observing time\nand the Gemini staff for help with planning and for executing the\nobservations.\n-- \nTomas Ahumada (he/him)\nPh.D. Student\nDepartment of Astronomy\nUniversity of Maryland, College Park\nNASA Goddard Space Flight Center, Code 661\nB.Sc. Astronomy, Pontificia Universidad Cat��lica de Chile"
+}

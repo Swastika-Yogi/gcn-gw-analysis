@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210919A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 210919A",
+  "bibcode": "2021GCN.30855....1T",
+  "createdOn": 1632098211000,
+  "circularId": 30855,
+  "submitter": "Yutaka Takamatsu at Tokyotech  <takamatsu@hp.phys.titech.ac.jp>",
+  "email": "takamatsu@hp.phys.titech.ac.jp",
+  "body": "Y. Takamatsu, R. Hosokawa, K. L. Murata, N. Ito, Y. Imai, M. Niwano,\nR. Noto, S. Sato, M. Takaku, R. Yamaguchi, Y. Yatsu, and N. Kawai\n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210919A (A. Tohuvavohu et al. GCN\nCircular #30846, V. Lipunov et al. GCN Circular #30847, Y.-D. Hu et\nal. GCN Circular #30848, R. Strausbaugh et al. GCN Circular #30849,\nM.R. Goad et al. GCN Circular #30850, N. Pankov et al. GCN Circular\n#30851, D. A. Perley et al. GCN Circular #30852, M. Perri et al. GCN\nCircular #30854) with the optical three color (g', Rc, and Ic) CCD\ncameras attached to the MITSuME 50 cm telescope Akeno. The observation\nwith a series of 60 sec exposures started at 2021-09-19 15:22:32 UT\n(14.9 hours after Swift trigger). We stacked the images with good\nconditions. We did not detect any uncatalogued sources within the XRT\nerror region (M.R. Goad et al. GCN Circular #30850). We obtained the\n5-sigma limits of the stacked images as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n17.3 2021-09-19 17:48:08.43 11160 g'>19.2, Rc>20.5, Ic>19.6\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

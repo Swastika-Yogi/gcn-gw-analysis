@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070917: Swift-XRT observations",
+  "eventId": "GRB 070917",
+  "bibcode": "2007GCN..6796....1E",
+  "createdOn": 1190105624000,
+  "circularId": 6796,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans, A.P. Beardmore, K.L. Page, R.L.C. Starling (U. Leicester)\nand J.R. Cummings (NASA/UMBC) report on behalf of the Swift-XRT team:\n\nWe have analysed 2.3 ks of Swift XRT data for GRB 070917 (Cummings et\nal. GCN Circ 6791) beginning 35 ks after the trigger. The data are\nentirely in Photon Counting mode. An uncatalogued X-ray source is\nclearly detected at RA, Dec= 293.91913, +2.41055 degrees, which is\nequivalent to:\n\nRA (J2000) =  19h 35m 40.59s\nDec(J2000) = +02d 24' 38.0\"\n\nwith an estimated uncertainty of 8.0 arcsec (radius, 90% containment\nincluding boresight uncertainty). This is 37 arcsec from the BAT refined\nposition  (Tueller et al. GCN Circ 6792). The source has a count rate of\n0.016 counts s^-1. At present we are unable to determine whether the\nsource is fading, however observations are ongoing.\n\nUsing the C-statistic in xspec we fit the PC mode spectrum from\nT0+35000-42000 s with an absorbed power-law. The absorption is\nconsistant with the Galactic value of 1.73e21 cm^-2 (Kalberla et al.\n2005). The spectral slope is gamma=1.17 (+0.44/-0.45), which is\nconsistent with the BAT value of 1.52 +/- 0.04. The observed\n(unabsorbed) flux is 1.31e-12 (1.44e-12) erg/cm^2/s.\n\nThis circular is an official product of the Swift team."
+}

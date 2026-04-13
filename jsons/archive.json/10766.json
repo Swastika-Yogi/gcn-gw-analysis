@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100514A: Swift/UVOT Observations",
+  "eventId": "GRB 100514A",
+  "bibcode": "2010GCN.10766....1M",
+  "createdOn": 1273939921000,
+  "circularId": 10766,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and C.B. Markwardt (CRESST/GSFC/UMD)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100514A\n110 s after the BAT trigger (Markwardt et al., GCN Circ. 10759).\nThere is a marginal (2.6-sigma) detection of a possible optical\nafterglow at the enhanced XRT position\n(M.R. Goad et al., GCN Circ. 10762) in the first white finding chart.\nThere is no detection in any of the other initial UVOT exposures.\nPreliminary results (3-sigma upper limits or values with 1-sigma uncertainties) \nusing the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the finding chart (FC)\nexposures and summed subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           110          260          147         21.1 +/- 0.3\nu_FC               268          518          246         >20.2\nwhite              549         7708          516         >21.0\nv                  600         6843          529         >20.0\nb                  524         7666          529         >20.5\nu                  268         7459          775         >20.5\nw1                 650         7254          529         >21.0\nm2                 624         7048          529         >20.2\nw2                 574         6639          352         >19.9\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.10 in the direction of the burst\n(Schlegel et al. 1998)."
+}

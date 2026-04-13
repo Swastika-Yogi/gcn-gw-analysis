@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191004B: Correction to Konus-Wind GCN 25974",
+  "eventId": "GRB 191004B",
+  "bibcode": "2019GCN.25976....1S",
+  "createdOn": 1570475678000,
+  "circularId": 25976,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin reports on behalf of the Konus-Wind team:\n\nThe redshift of GRB 191004B mentioned in GCN 25974 was incorrect,\nthe correct one is z = 3.503 (D'Elia et al., GCN circ. 25956).\n\nThus, assuming the redshift z=3.503 and a standard cosmology model with\nH_0 = 67.3 km/s/Mpc, Omega_M = 0.315, and Omega_Lambda = 0.685\n(Planck Collaboration, 2014),\nwe estimate the following rest-frame parameters:\nthe isotropic energy release E_iso is 1.08(-0.10,+0.12)x10^53 erg,\nthe peak luminosity L_iso is 3.01(-0.86,+0.87)x10^53 erg/s,\nand the rest-frame peak energy of the time-integrated spectrum,\nEp,i, is 775(-95,+122) keV.\nWith these energetics, the burst lies within the 68% prediction bands\nfor both 'Amati' and 'Yonetoku' relations built for the sample\nof 138 long KW GRBs with known redshifts\n(Tsvetkova et al., ApJ 850 161, 2017).\n\nI apologize for possible inconvenience."
+}

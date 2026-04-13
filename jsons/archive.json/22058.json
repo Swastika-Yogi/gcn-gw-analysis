@@ -1,0 +1,10 @@
+{
+  "subject": "GROND observations of GRB 171027A: correction",
+  "eventId": "GRB 171027A",
+  "bibcode": "2017GCN.22058....1S",
+  "createdOn": 1509104996000,
+  "circularId": 22058,
+  "submitter": "Patricia Schady at MPE/Swift  <pschady@mpe.mpg.de>",
+  "email": "pschady@mpe.mpg.de",
+  "body": "P. Schady (MPE) reports:\n\nThe upper limits reported in GCN #22056 were in fact calibrated against\nGROND zeropoints. The 3-sigma upper limits (AB) calibrated against\nPanSTARRS are in fact:\n\ng' > 22.2\nr' > 22.2\ni' > 21.2\nz' > 21.0\n\nThe reported magnitudes are not corrected for the expected Galactic\nforeground extinction corresponding to a reddening of E_(B-V)=0.12 mag in\nthe direction of the burst (Schlafly & Finkbeiner 2011)."
+}

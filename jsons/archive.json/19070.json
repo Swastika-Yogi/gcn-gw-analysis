@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 160219A",
+  "eventId": "GRB 160219A",
+  "bibcode": "2016GCN.19070....1K",
+  "createdOn": 1456321334000,
+  "circularId": 19070,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nP. Oleynik, M. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko,\nand T. Cline, on behalf of the Konus-Wind team, report:\n\nThe short-duration, hard-spectrum GRB 160219A\n(IPN triangulation: Svinkin et al., GCN 19035;\nFermi-GBM detection: Yu & Roberts, GCN 19041)\ntriggered Konus-Wind at T0=24973.245 s UT (06:56:13.245).\n\nThe burst light curve starts with a short (~0.09 s) pulse,\nfollowed by a weaker pulse at ~T0+3.1 s (with a duration of~0.96 s).\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB160219_T24973/\n\nAs observed by Konus-Wind, the burst had a fluence of\n1.57(-0.21,+0.25)x10^-6 erg/cm2 and a 16-ms peak flux,\nmeasured from ~T0-0.028 s, of 1.22(-0.27,+0.27)x10^-5 erg/cm2/s\n(both in the 20 - 1200 keV energy range).\n\nSince the bulk of the burst emission was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModelling the K-W 3-channel spectrum of the first pulse\n(measured from T0-0.066 s to T0+0.022 s)\nby the cutoff power law yields the following model parameters:\nthe photon index alpha = -0.29(-0.37,+0.55),\nand the peak energy Ep = 753(-187,+395) keV.\n\nModelling the K-W 3-channel spectrum of the second pulse\n(measured from T0+3.072 s to T0+4.032 s)\nby the cutoff power law yields the following model parameters:\nthe photon index alpha = -0.98(-0.22,+0.73),\nand a lower limit on the Ep: Ep > 760 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

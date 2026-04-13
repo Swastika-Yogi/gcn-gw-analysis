@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of very bright GRB 070821",
+  "eventId": "GRB 070821",
+  "bibcode": "2007GCN..6766....1G",
+  "createdOn": 1188315759000,
+  "circularId": 6766,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team:\n\nThe very bright long GRB 070821 localized by the IPN (Hurley et al.,\nGCN 6764) triggered Konus-Wind at T0=46164.332 s UT (12:49:24.332).\n\nThe Konus-Wind light curve shows a soft precursor started at T-T0 ~-6 s \n(with a duration of ~8 s), followed by a very intense multipeaked pulse \nat T-T0 ~120 s and a weaker pulse at T-T0 ~180 s\n(there is an emission between these two intense pulses).\nThe total burst duration is ~215 s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of 1.02(-0.04, +0.03)x10^-4 erg/cm2,\nand a 256-ms peak flux measured from T0+126.720 s\nof 1.38(-0.11, +0.09)x10^-5 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the main episode\n(from T0+114.944 s to T0+203.776 s) can be fitted\n(in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 1.299  +/- 0.037\nand Ep = 268 (-17, +19) keV (chi2 = 67.8/59 dof).\n\nThe spectrum of the most intense pulse\n(accumulated from T0+114.944 s to T0+146.432 s)\nis well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model\nwith alpha = 1.215  +/- 0.030\nand Ep = 289 (-14, +15) keV (chi2 = 68.3/59 dof).\nThis pulse had a fluence of 8.34(-0.24, +0.17)x10^-5 erg/cm2.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB070821_T46164/"
+}

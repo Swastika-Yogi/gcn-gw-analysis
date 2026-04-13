@@ -1,0 +1,11 @@
+{
+  "subject": "IceCube-250706A: COLIBRÍ optical upper limits",
+  "eventId": "IceCube-250706A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41003....1G",
+  "createdOn": 1751878065471,
+  "submitter": "Sarah Antier at OCA <sarah.antier@oca.eu>",
+  "circularId": 41003,
+  "format": "text/plain",
+  "body": "Noémie Globus (UNAM), Sarah Antier (OCA/IJCLAB), Rosa L. Becerra (U Roma), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Alan M. Watson (UNAM), Jean-Luc Atteia (IRAP), Fredd Alvarez (UNAM), Camila Angulo (UNAM), Dalya Akl (AUS), Nathaniel R. Butler (ASU) , Damien Dornic (CPPM), Jean-Grégoire Ducoin (CPPM), Francis Fortin (IRAP), Leonardo García García (UNAM), Ramandeep Gill (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Margarita Pereyra (UNAM), N. A. Rakotondrainibe (LAM), Benjamin Schneider (LAM), Antonio de Ugarte Postigo (LAM) report:\n\nWe observed the field of the IceCube-250706A (GCN 40994) (goldtrack) event with the DDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico on the night of 2025-07-07 UTC.\n\nCOLIBRÍ tiled the IceCube error region, starting at 03:43:42 UTC, e.g T+14.5 h after the trigger, for about 1h distributed over 4 tiles (26x26 arcmin); the maximum exposure at a single sky location was 16x60 s. \n\nThe data were coadded with the COLIBRÍ pipeline and analysed in STDWeb/STDPipe (Karpov 2025). \n\nComparing our observations (and after performing image subtraction) against Pan-STARRS DR2, we detect no evident uncatalogued sources within the observed field to a 5-sigma limiting AB magnitude of:\n\ni > 21.6 for the first tile (3 min exp.), centered on (RA, Dec) = (17:43:12.00, +38:46:11.6)\ni > 21.1 for the second tile (3 min exp.), centered on (RA, Dec) = (17:43:12.00 +39:10:12.0)\t\ni >  21.9 for the third tile (16 min exp.), centered on (RA, Dec) = (17:44:48.00, +39:10:12.0)\ni > 22.3 for the fourth tile (16 min exp.), centered on (RA, Dec) = (17:44:48.00, +38:46:12.0)\n\nThese values are not corrected for the Galactic extinction.\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n"
+}

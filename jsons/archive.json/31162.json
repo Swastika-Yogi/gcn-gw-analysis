@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 211130A",
+  "eventId": "GRB 211130A",
+  "bibcode": "2021GCN.31162....1R",
+  "createdOn": 1638551957000,
+  "circularId": 31162,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 211130A\n(Fermi GBM Final Real-time localization: The Fermi GBM team, GCN 31151;\nBALROG localization: Kunzweiler et al., GCN 31152;\nIPN triangulation: Kozyrev et al., GCN 31161)\ntriggered Konus-Wind at T0=54992.505 s UT (15:16:32.505).\n\nThe burst light curve starts with a smooth pulse, which was followed,\nafter a period of low-level emission, by a more intense, multi-peaked\nemission complex. The total burst duration is ~21.4 s.\nThe emission is seen up to ~6 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB211130_T54992/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 9.57(-0.68,+0.75)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+13.456 s,\nof 8.39(-2.23,+2.99)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+16.640 s)\nis best fit in the 20 keV - 6 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.54(-0.24,+0.27)\nand Ep = 164(-15,+19) keV (chi2 = 82/75 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.5\n(chi2 = 82/74).\n\nThe spectrum near the maximum count rate\n(measured from T0+8.448 to T0+16.640 s)\nis best fit in the 20 keV - 6 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.40(-0.34,+0.47),\nthe high energy photon index beta = -2.69(-1.55,+0.43),\nthe peak energy Ep = 177(-31,+34) keV\n(chi2 = 56/73 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

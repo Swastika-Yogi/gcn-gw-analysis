@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170827A: Swift-XRT refined Analysis",
+  "eventId": "GRB 170827A",
+  "bibcode": "2017GCN.21730....1D",
+  "createdOn": 1503926596000,
+  "circularId": 21730,
+  "submitter": "Antonino D'Ai at IASF-PA  <antonino.dai@ifc.inaf.it>",
+  "email": "antonino.dai@ifc.inaf.it",
+  "body": "A. D'Ai (IASF-PA), V. D'Elia (ASDC), F. E. Marshall (NASA/GSFC) reports\non behalf of the Swift-XRT team:\n\nWe have analysed 1.1 ks of XRT data for GRB 170827A (Marshall et al.\nGCN Circ. 21718), from 113 s to 17.3 ks after the  BAT trigger. The\ndata comprise 165 s in Windowed Timing (WT) mode (the first 9 s were\ntaken while Swift was slewing) with the remainder in Photon Counting\n(PC) mode.\n\nThe initial light curve from T0+130s to T0+295s can be modelled with a\npower-law decay with a decay index of alpha=1.19 (+/-0.08). In the\nfollowing observation at T0+16.1 ks the afterglow is not detected with\na 3-sigma upper limit of 1.6 x 10^-2 count^-1 s^-1. \n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 2.23 (+0.06, -0.05). The\nbest-fitting absorption column is  1.46 (+/-0.15) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.2 x 10^21 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.0 x 10^-11 (4.2 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the WT-mode spectrum is thus:\nTotal column:\t  1.46 (+/-0.15) x 10^21 cm^-2\nGalactic foreground: 1.2 x 10^21 cm^-2\nExcess significance: 3.0 sigma\nPhoton index:\t  2.23 (+0.06, -0.05)\n\nGiven the lack of detection in the second observation, no reliable\nestimate of the X-ray count rate for the following days is possible.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00769567.\n\nThis circular is an official product of the Swift-XRT team."
+}

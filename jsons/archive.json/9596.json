@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090628: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090628",
+  "bibcode": "2009GCN..9596....1S",
+  "createdOn": 1246316396000,
+  "circularId": 9596,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU) and V. Mangano (INAF-IASFPA) report on behalf\nof the Swift/UVOT team.\n\nThe Swift/UVOT began observing the field of GRB 090628 2790s after\nthe BAT trigger (Mangano et al., GCN Circ. 9585).  Data summed\nfrom the first orbit does not reveal a source at the refined\nposition of the X-ray afterglow (Goad et al., GCN Circ.\n9590).\n\nThe 3-sigma upper limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER     T_start(s)  T_stop    Exposure     Mag/3UL\n=============================================================\nwhite fc     2791       2941        147       > 20.26\nwhite        3361       3560        196       > 20.72\n\nv            3771       3971        196       > 19.23\n\nb            3155       3355        196       > 20.16\nb            4591       4672         79       > 19.64\n\nu            2950       3149        196       > 19.63\nu            4386       4586        196       > 19.82\n\nuvw1         4181       4381        196       > 19.65\n\nuvm2         3976       4176        196       > 19.33\n\nuvw2         3566       3766        196       > 19.62\n=================================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.05 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

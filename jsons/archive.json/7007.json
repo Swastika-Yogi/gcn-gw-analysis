@@ -1,0 +1,10 @@
+{
+  "subject": "GRB071021: MARGE Optical Limits",
+  "eventId": "GRB 071021",
+  "bibcode": "2007GCN..7007....1S",
+  "createdOn": 1193412216000,
+  "circularId": 7007,
+  "submitter": "Heather Swan at U.of Michigan/ROTSE  <hflewell@umich.edu>",
+  "email": "hflewell@umich.edu",
+  "body": "H. Swan (U Mich), I. Smith (Rice), C. Akerlof (U Mich), E. Rykoff (UCSB)\nand M. Skinner (Boeing) report on behalf of the MARGE collaboration:\n\nThe AEOS Burst Camera (ABC) on the AEOS telescope, located at the Maui\nSpace Surveillance System on Haleakala, observed the field of GRB071021\n(Swift trigger 294974 (T. Sakamoto et al, GCN 6958)). The images are\nunfiltered 10s exposures that started ~10 minutes after the trigger and\nended ~ 2 hour later.  We calibrated our images to the USNO-B1 R2\ncatalog.  We do not see the NIR counterpart observed by A. J.\nCastro-Tirado et al. (GCN 6968), down to the following limiting\nmagnitudes.  We have not corrected for the galactic extinction, which is\nE(B-V)= 0.074 mag, according to the NED Extinction calculator.\n\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n09:51:24.7   09:57:32.2      367.5     22.6           591.7      Y\n09:51:24.7   12:09:06.9     8262.3     23.7           591.7      Y\n\n\nThe ABC is an unfiltered camera, with enhanced sensitivity in the red\nend of the spectrum.  This sensitivity to the red end of the spectrum\nallows us to see high (z < 6) bursts. The relatively deep upper limits\nwe have obtained may assist efforts to better determine the redshift for\nthis unusual event."
+}

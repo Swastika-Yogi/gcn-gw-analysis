@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050607: PROMPT VRcIc Observations",
+  "eventId": "GRB 050607",
+  "bibcode": "2005GCN..3535....1N",
+  "createdOn": 1118190317000,
+  "circularId": 3535,
+  "submitter": "Melissa Nysewander at UNC,Chapel Hill  <mnysewan@astro.unc.edu>",
+  "email": "mnysewan@astro.unc.edu",
+  "body": "M. Nysewander, D. Reichart, J. A. Crain, A. Foster, M. Bayliss report on\nbehalf of the UNC team of the FUN GRB Collaboration:\n\nWe observed the BAT localization of GRB 050607 (Retter et al., GCN 3525)\nwith PROMPT beginning 13m 30s after the burst.\n\nWe do not detect a source within the refined XRT localization (Pagani et\nal., GCN 3528) nor the source identified by Rhoads (GCN 3527).\n\n3-sigma limiting magnitudes are based on 10 USNO-B1.0 stars for Rc and Ic\nobservations and 10 NOMAD stars for V observations.  Initial limiting\nmagnitudes are poor due to a camera cooling error:\n\nMean Time\tIntegration \tFilter\tLimiting\tTelescope\nSince GRB\tTime\t\t\tMagnitude\n\n14m 08s\t\t1 x 77.5s\tIc\t17.5\t\tPROMPT-5\n17m 43s\t\t2 x 77.5s\tV\t18.4\t\tPROMPT-5\n21m 16m\t\t1 x 77.5s\tRc\t19.7\t\tPROMPT-5\n24m 06s\t\t1 x 77.5s\tIc\t19.2\t\tPROMPT-5\n26m 21s\t\t2 x 77.5s\tV\t19.5\t\tPROMPT-5\n29m 51s\t\t3 x 76.25s\tRc\t20.5\t\tPROMPT-5\n36m 17s\t\t4 x 76.25s\tIc\t20.2\t\tPROMPT-5\n41m 48s\t\t3 x 76.25s\tV\t19.4\t\tPROMPT-5\n47m 17s\t\t2 x 76.25s\tRc\t20.3\t\tPROMPT-5\n51m 25s\t\t1 x 76.25s\tIc\t19.4\t\tPROMPT-5\n\nStacking all images yields 3-sigma limiting magnitudes of Ic > 20.5, Rc >\n21.2, and V > 19.8.\n\nPROMPT is still being built and commissioned."
+}

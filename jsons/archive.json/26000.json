@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191011A: Fermi GBM observation",
+  "eventId": "GRB 191011A",
+  "bibcode": "2019GCN.26000....1B",
+  "createdOn": 1570803814000,
+  "circularId": 26000,
+  "submitter": "Peter Veres at UAH  <veresp@gmail.com>",
+  "email": "veresp@gmail.com",
+  "body": "E. Bissaldi (Politecnico and INFN Bari) and P. Veres (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 04:35:58.58 UT on 11 October 2019, the Fermi Gamma-Ray Burst Monitor\n(GBM) triggered and located GRB 191011A (trigger 592461363 / 191011192), which\nwas also detected by the Swift/BAT (Laha et al. 2019, GCN 25988).\n\nThe GBM localization statistic exhibited two minima, one of which is\nconsistent with the Swift location (75% containment).  The localization\ncentroid in the Real-time Localization notice (GCN 25987) is for the other\nminimum, which is near the Earth limb and is inconsistent with the Swift\nlocation.\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 39\ndegrees.\n\nThe GBM light curve shows several pulses\nwith a duration (T90) of about 13 s (50-300 keV).\nThe time-averaged spectrum from T0-2.0 s to T0-0.38 s is\nadequately fit by a simple power law function with index -1.76 +/- 0.08.\n\nThe event fluence (10-1000 keV) in this time interval is\n(4.33 +/- 0.50)E-7 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0-1.8 s in the 10-1000 keV band is 3.29 +/- 0.30 ph/s/cm^2.\n\nA power law function with an exponential high-energy cutoff\nfits the spectrum equally well. The power law index is -1.24 +/- 0.29 and\nthe cutoff energy, parameterized as Epeak, is 89 +/- 23 keV.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support\nPage:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

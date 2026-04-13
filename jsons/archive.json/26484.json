@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 191213A (ulong)",
+  "eventId": "GRB 191213A",
+  "bibcode": "2019GCN.26484....1R",
+  "createdOn": 1576673470000,
+  "circularId": 26484,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, R.Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe ultra-long GRB 191213A (Swift-BAT trigger #944091:\nCenko et al., GCN 26398; Lien et al., GCN 26418)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nThe burst light curve shows the main multipeaked episode of emission\nstarted at ~T0(BAT)-25 s and lasted until ~T0(BAT)+1815 s (the\nduration is ~1790 s; T0(BAT)=14781.499 s UT (04:06:21.499)).\nThere is also a weaker broad pulse of emission seen before the main\npulse from ~T0(BAT)-834 s to ~T0(BAT)-772 s. It might be related to\nGRB 191213A (it was detected by the same KW detector, and the KW\necliptic latitude response for it is consistent with the common\norigin with the main episode).\n\nAs observed by KW, the burst (main episode) had a fluence of\n1.12(-0.06,+0.07)x10^-4 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(BAT)+676.012s, of 2.5(-0.41,+0.41)x10^-7 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe emission shows no signs of strong spectral variability.\nModeling the KW 3-channel time-integrated spectrum\n(from ~T0(BAT)-24.660 s to ~T0(BAT)+1815.340 s)\nby a power law with exponential cutoff model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.16 (-0.12,+0.14), and Ep = 409 (-71,+110) keV.\n\nThus, the prompt gamma-ray emission properties of this GRB:\nfluence, peak flux, Ep, and duration are similar to those\nobserved in other ultra-long GRBs.\n\nThe KW light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB191213A/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050824: Swift-BAT detection of a burst",
+  "eventId": "GRB 050824",
+  "bibcode": "2005GCN..3866....1C",
+  "createdOn": 1124929890000,
+  "circularId": 3866,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Campana (INAF-OAB), S. Barthelmy (GSFC), D. Burrows (PSU),\nJ. Cummings (GSFC/NRC), N. Gehrels (GSFC), S. Hunsberger (PSU),\nM. Ivanushkina (PSU), F. Marshall (GSFC), D. Palmer (LANL),\nG. Tagliaferri (INAF-OAB),\non behalf of the Swift team:\n\nAt 23:12:16 UT, Swift-BAT triggered and located GRB050824 (trigger=151905).\nThis was a 64-sec image trigger.  The spacecraft did not automatically slew\ndue to proximity to the moon (25 degrees).  Hence there will be no immediate\nresults from XRT or UVOT.  However, a TOO is being planned for this target.\nThe BAT on-board calculated location is RA,Dec 12.237d,+22.592d\n{00h 48m 57s,+22d 35' 31\"} (J2000), with an uncertainty of 3 arcmin\n(radius, 90% containment, stat+sys).  The BAT light curve shows a broad peak\nfrom T+30 to T+70 sec.  The emission is present only in the 15-50 keV band.\nThe peak count rate was ~500 counts/sec (15-50 keV) at ~40 seconds\nafter the trigger.  At this early stage of the analysis we think this is\nlikely a GRB, as there is no known gamma-ray source at this location\nin the SIMBAD database and the galactic latitude is -40 degrees."
+}

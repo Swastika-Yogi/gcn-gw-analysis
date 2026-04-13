@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT upper limits of GRB071112B",
+  "eventId": "GRB 071112B",
+  "bibcode": "2007GCN..7077....1S",
+  "createdOn": 1194955191000,
+  "circularId": 7077,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and M. Perri (ASDC) report on behalf of the Swift \nUVOT team:\n\nThe Swift UVOT observed the field of GRB 071112B (Perri et al., GCN 7058) \n62 minutes after the BAT trigger, once the Earth had come out of observing \nconstraint. No new source is found in any of the UVOT observations in \neither single or co-added exposures within the refined BAT error circle \n(Fenimore et al., GCN 7071) or anywhere within the UVOT field of view down \nto the following 5-sigma upper limits:\n\nFilter  Tmid    Exp     Magnitude\n         (s)     (s)    (5-sigma UL)\nWhite   8864    885      > 20.7\nv       3826    197      > 18.2\nb       8306    197      > 19.5\nu       6905    290      > 19.1\nuvw1    4236    197      > 18.8\nuvm2    4031    197      > 18.7\nuvw2    9419    187      > 18.9\n\nwhere Tmid is the weighted mean of the co-added exposures. The values \nquoted above are not corrected for the expected Galactic extinction \ncorresponding to a reddening of E(B-V) = 0.12 mag in the direction of the \nGRB (Schlegel et al. 1998)."
+}

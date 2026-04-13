@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250103A: GOTO optical upper limit",
+  "eventId": "GRB 250103A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38792....1S",
+  "createdOn": 1735910370473,
+  "circularId": 38792,
+  "submitter": "Rhaana Starling at U of Leicester <rlcs1@leicester.ac.uk>",
+  "format": "text/plain",
+  "body": "R. Starling, D. O’Neill, A. Kumar, B. Godson, B. P. Gompertz, K. Ackley, M. J. Dyer, J. Lyman, K. Ulaczyk, F. Jimenez-Ibarra, D. Steeghs, D. K. Galloway, V. Dhillon, P. O'Brien, G. Ramsay, K. Noysena, R. Kotak, R. P. Breton, L. K. Nuttall, E. Palle and D. Pollacco report on behalf of the GOTO collaboration:\n\nThe Gravitational-wave Optical Transient Observer (GOTO; Steeghs et al. 2022, Dyer et al. 2024) serendipitously covered the field of SVOM-triggered GRB 250103A (Wang et al. GCN 38787) at 11:06:02 UT on 2025-01-03 (1.17 hours after the trigger). The observation was taken by GOTO-South, and consisted of 4x90s exposures in the GOTO L-band (400-700 nm).\n\nImages were processed immediately after acquisition using the GOTO pipeline. Difference imaging was performed using deeper template observations of the same pointings. Source candidates were initially filtered using a classifier (Killestein et al. 2021) and cross-matched against a variety of contextual and minor planet catalogues.\n\nWe do not identify any candidate optical counterparts within the SVOM localisation uncertainty region, down to a 3-sigma limiting magnitude of L > 19.8, consistent with the non-detection reported by Wu et al. (GCN 38791).\n\nMagnitudes were calibrated using ATLAS-REFCAT2 (Tonry et al. 2018) and are not corrected for Galactic extinction.\n\nGOTO (https://goto-observatory.org) is a network of telescopes that is principally funded by the STFC and operated at the Roque de los Muchachos Observatory on La Palma, Spain, and Siding Spring Observatory in NSW, Australia, on behalf of a consortium including the University of Warwick, Monash University, Armagh Observatory & Planetarium, the University of Leicester, the University of Sheffield, the National Astronomical Research Institute of Thailand (NARIT), the University of Turku, the University of Portsmouth, the University of Manchester and the Instituto de Astrofisica de Canarias (IAC).\n\n"
+}

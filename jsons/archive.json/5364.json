@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060728: Swift/UVOT Upper Limits",
+  "eventId": "GRB 060728",
+  "bibcode": "2006GCN..5364....1M",
+  "createdOn": 1154190131000,
+  "circularId": 5364,
+  "submitter": "Adam Morgan at PSU/Swift-UVOT  <qmorgan@gmail.com>",
+  "email": "qmorgan@gmail.com",
+  "body": "A. N. Morgan, M. M. Chester, and C. Pagani (PSU) report on \nbehalf of the Swift/UVOT team:\n\nThe Swift UVOT began taking data on the field of GRB 060728\n121s after the BAT trigger (Pagani et al., GCN Circ 5360). \nNo new source, relative to the DSS, is seen inside the \nrefined BAT error circle (Palmer et al., GCN Circ 5363).\nImages were not taken in all filters due to a bright source \nin the field-of-view.  The 3-sigma limiting magnitudes for \nthe first finding chart and the coadded images are listed \nbelow.\n\nFinding chart:\n\nFilter  Midpoint (s)  Exposure (s)    3-sigma LM\nV       319           393             19.3\n\nCoadded images:\n\nFilter  T_range(s)    EXPOSURE (s)    3-sigma LM\nV       121-6586      1113            19.9\nUVW1    551-10828     1553            21.2\nUVM2    527-6690      765             20.9\nUVW2    578-11225     1029            21.2\n\nT_range is calculated from the time of the burst. These\nupper limits have not been corrected for the estimated\nGalactic reddening of E(B-V) = 0.012 mag (Schlegel et\nal. 1998)."
+}

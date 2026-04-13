@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT refined analysis of GRB070529",
+  "eventId": "GRB 070529",
+  "bibcode": "2007GCN..6473....1D",
+  "createdOn": 1180535827000,
+  "circularId": 6473,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and S. T. Holland (CRESST/USRA/GSFC)\nreport, on the behalf of Swift UVOT team:\n\n  The Swift Ultraviolet/Optical telescope (UVOT) began its\ninitial V-band finding chart exposure of GRB070529 (Holland et al.,\nGCN circ. 6466) 134 seconds after the trigger and the optical\nafterglow is clearly detected inside the refined XRT error\ncircle (Mangano et al., GCN circ. 6469). Successively, the\noptical source appears to fade with a decay slope, based\non the V band datapoints, of about -1.8.\n\n  In the following table, we report the magnitudes and 3 sigma\nupper limits for this source. Errors are at 1 sigma level.\n\n\n  Filter      Time (s)    Exp(s)        Mag\n\n   V          134-534      393      17.1 +/- 0.1\n\n   V          652-1253     420      19.3 +/- 0.4\n\n   V        40339-47072   2039         > 20.4\n\n\n   B          613-758      20          > 18.8\n\n   U          588-6277    439          > 20.1\n\n  UW1         564-7038    459          > 20.5\n\n  UM2         540-7038    592          > 20.8\n\n  UW2         628-6687    432          > 21.0\n\n\n  No observation was performed in the white filter,\ndue to the crowded field.\n\n  No correction has been made for the considerable\nGalactic reddening toward the burst, E(B-V)=0.3\n(Schlegel et al. 1998)."
+}

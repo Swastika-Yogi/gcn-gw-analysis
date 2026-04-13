@@ -1,0 +1,14 @@
+{
+  "editedOn": 1761507257278,
+  "subject": "GRB 251025B: SVOM/VT optical observations with VHF data",
+  "eventId": "GRB 251025B",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42440....1W",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42440,
+  "createdOn": 1761410844682,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "C. Wu., L.P. Xin, H.L. Li, Y. L. Qiu (NAOC), J. T. Palmerio (CEA), S. Hussein (IJCLab), M. Brunet (IRAP) report on behalf of the SVOM team.\n\nSVOM/VT performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Hussein et al., GCN 42437). SVOM/VT began observing the field automatically at 2025-10-25T14:30:18 UTC, 373 seconds after the T0, with the slew of the platform triggered on-board, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nWe confirm the clear detection of the source reported by Wu et al.(GCN 42438) and Gress et al.(GCN 42439) in both the VT_B and VT_R bands with the downlinked VHF data.\n\nThe AB magnitudes were derived as follows:\n--------------------------------------------\n(T-T0)_mid  exptime    band        mag \n523 sec     300 sec    VT_R      18.61 +/-0.01\n523 sec     300 sec    VT_B      19.15 +/-0.02\n\nWe note that the color of VT_B - VT_R ~ 0.5 mag may indicate a low-to-medium redshift event, following the analysis of Wang et al. (2020, RAA). Additional follow-up observations are encouraged.\n\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

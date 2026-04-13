@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051001: Swift UVOT Upper Limits",
+  "eventId": "GRB 051001",
+  "bibcode": "2005GCN..4058....1M",
+  "createdOn": 1128279410000,
+  "circularId": 4058,
+  "submitter": "Caryl Gronwall at PSU/Swift-UVOT  <caryl@astro.psu.edu>",
+  "email": "caryl@astro.psu.edu",
+  "body": "F. Marshall(GSFC), A. Moretti (OAB), J. Nousek (PSU), W. Voges (MPE),\nN. Gehrels (GSFC) report on behalf of the Swift/UVOT team.\n\nThe Swift/UVOT instrument began observing the field of the burst GRB051001\nat 11:14:45 UT, 189 seconds after the BAT trigger (Moretti et al., GCN 4051).\n\nWithin the 6 arcsec radius XRT error circle (GCN 4051), no new optical/UV\nsource is detected. We derive the following 3-sigma upper limit magnitudes\non any optical/UV counterpart in the summed images in each UVOT filter\n(from 6\" radius apertures centered on the XRT location, which is\nrepresentative of the local background).\n\n     Filter    T_range(sec)  Exp(sec)  3-sig UL\n\n       V           189-289       100     18.9\n       V         189-11522      1189     20.1\n       B          335-6646      1077     21.2\n       U          321-5738      1106     21.0\n       UVW1      307-13221       952     20.9\n       UVW2    11530-12429       900     21.4\n       UVM2      6655-7435       780     21.5"
+}

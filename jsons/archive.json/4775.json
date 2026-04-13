@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060218: Swift-BAT detection of a possible burst",
+  "eventId": "GRB 060218",
+  "bibcode": "2006GCN..4775....1C",
+  "createdOn": 1140236935000,
+  "circularId": 4775,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "G. Cusumano (IASF-Pa INAF), S. Barthelmy (GSFC), N. Gehrels (GSFC),\nS. Hunsberger (PSU), S. Immler (GSFC), F. Marshall (GSFC),\nD. Palmer (LANL), T. Sakamoto (GSFC/ORAU)\non behalf of the Swift team:\n\nAt 03:34:30 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060218 (trigger=191157).  Swift slewed immediately to the burst.\nThe BAT on-board calculated location is RA,Dec 50.404, +16.866 deg\n{03h 21m 37s, +16d 51' 58\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% containment, including systematic uncertainty).  The TDRSS\nlightcurve shows nothing, which is consistent and common for an image trigger.\n\nThe XRT began taking data at 03:37:04 UT, 153 seconds after the BAT trigger.\nThe XRT on-board centroid algorithm did not find a source in the image and\nno prompt position is available.  We are waiting for down-linked data\nto detect and determine a position for the source.\n\nThe UVOT began taking data 152 seconds after the BAT trigger.\nThere is an indication of an afterglow candidate at RA,Dec\n03h 21m 39.8s,+16d 52' 06\" +/- 1 arcsec with an estimated B magnitude of 19.4."
+}

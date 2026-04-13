@@ -1,0 +1,11 @@
+{
+  "subject": "EP240617a: tentative Swift/XRT detection of the afterglow",
+  "eventId": "EP240617a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36722....1S",
+  "createdOn": 1718962594325,
+  "circularId": 36722,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "H. Sun, W. Chen (NAOC, CAS), H. Zhou (PMO, CAS), W. D. Zhang, D. Y. Li, Z. X. Ling, Y. Liu, C. Zhang, C. C. Jin, H. Q. Cheng, C. Z. Cui, D. W. Fan, H. B. Hu, J. W. Hu, M. H. Huang, H. Y. Liu, M. J. Liu, Z. Z. Lv, T. Y. Lian, X. Mao, H. W. Pan, X. Pan, W. X. Wang, Y. L. Wang, Q. Y. Wu, X. P. Xu, Y. F. Xu, H. N. Yang, W. Yuan, M. Zhang, W. D. Zhang, W. J. Zhang, Z. Zhang, D. H. Zhao (NAOC, CAS), Y. Chen, S. M. Jia, S. N. Zhang (IHEP, CAS), E. Kuulkers, A. Santovincenzo (ESA), P. O'Brien (Univ. of Leicester), K. Nandra, A. Rau (MPE), B. Cordier (CEA) on behalf of the Einstein Probe team \n\nFollowing the detection of the fast X-ray transient EP240617a by the Einstein Probe (Zhou et al., GCN 36691), which is likely a gamma-ray burst based on Fermi/GBM data (Yang et al., GCN 36692), we triggered a Swift target of opportunity observation (ObsID: 00016669001). The XRT onboard Swift began the observation at 2024-06-20T17:57:41 UTC, about 77 hours after the WXT detection, with an exposure time of 1.69 ks in the Photon Counting mode. \n\nWithin the 3 arcmin error radius of the WXT position, we have tentatively detected a weak signal with a significance of 5.3 sigma (as evaluated by the Li-Ma formula, Li & Ma 1983, ApJ, 272, 317) at R.A.=19:00:06.0, DEC=-22:33:29.9 (J2000) with an uncertainty of 7.5 arcsec (radius, 90% C.L. statistical and systematic). The position of the source is 0.3 arcmin away from the WXT detection and is thus spatially consistent with EP240617a, suggesting that we detected the X-ray afterglow. The source has an average count rate of 5.1 x 10^-3 cps. Assuming an absorbed power-law model with a Galactic column density of 1.7 x 10^21 cm^-2 and a photon index of 2, the estimated flux in 0.3-10 keV is 1.9 x 10^-13 ergs/cm^2/s. \n\nFurther follow-up observations are encouraged to search for the multi-band afterglows.\n\nWe thank the Neil Gehrels Swift Observatory team for making the X-ray observation possible. "
+}

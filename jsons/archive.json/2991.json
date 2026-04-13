@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050128: Swift XRT prompt afterglow position",
+  "eventId": "GRB 050128",
+  "bibcode": "2005GCN..2991....1A",
+  "createdOn": 1106903848000,
+  "circularId": 2991,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "L. A. Antonelli (INAF-OAR), S. Campana, G. Tagliaferri, C. Pagani, A. \nMoretti, P. Romano, G. Chincarini (OAB), G. Cusumano, V. Mangano (ISAF/Palermo),\nP. Giommi (ASI), D. N. Burrows, J. E. Hill, J. A. Kennea, J. Racusin,\nJ. A. Nousek (PSU), J. Osborne, K. Page, M. Goad, A. Beardmore,\nA. Wells (U. Leicester), K. Mason (MSSL), N. White, N. Gehrels (NASA/GSFC),\nreport on behalf of the Swift XRT team:\n\nThe Swift BAT instrument detected an apparent burst at 04:20:04 UT on 2005 \nJanuary 28.  The spacecraft initiated a prompt automated slew and \nobservation sequence.  The XRT began taking data on the burst at 2005-01-28 \n04:23:51 and continued until 2005-01-28 05:55:27.  The XRT was in Photon \nCounting mode performing calibration observations of PG1311+129 when the \nburst occurred, and continued to collect data in Photon Counting mode \nduring the slew and after settling onto the BAT field.  As a result, no \nprompt XRT position was reported to the ground.  However, analysis of the \nXRT data shows a bright, rapidly fading point source at:\n\nRA(J2000): 14 38 17.87\nDEC(J2000): -34 45 56.6\n\nThese positions were processed through the ground pipeline and have an \nestimated uncertainty of 8 arcseconds, dominated by systematic \nuncertainties in the XRT boresight, which is not yet fully calibrated.  We \nnote, however, that our final position for GRB050126 was 30 arcseconds from \nthe optical candidate (GCN 2985) in spite of our estimated uncertainty of 8 \narcseconds.\n\nThe XRT count rate is 1.29+/-0.28 c/s (0.5-10 keV) in a 1745 s exposure, \nwhich corresponds roughly to a 1 mCrab source.\n\nThe XRT is continuing to observe this burst when it is visible to the Swift \nobservatory.\n\n[GCN OPS NOTE (28jan05):  Per D.Burrows request, the authors G. Cusumano, V. Mangano\nwere added to the list.]"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 160216A (and GRB 160216B)",
+  "eventId": "GRB 160216A",
+  "bibcode": "2016GCN.19019....1K",
+  "createdOn": 1455717074000,
+  "circularId": 19019,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nP. Oleynik, M. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 160216A (Swift-BAT trigger #673978:\nTroja et al., GCN Circ. 19014)\ntriggered Konus-Wind at T0=69030.129 s UT (19:10:30.129).\n\nThe burst light curve shows a double-peaked structure\nstarted at ~T0-0.3 s with a total duration (80-1400 keV) of ~3.6 s.\nThe emission is seen up to ~4 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.05(-0.35,+0.39)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+2.864 s,\nof 2.62(-0.70,+0.71)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.66 (-0.31,+0.36)\nand Ep = 140 (-18,+25) keV (chi2 = 91/87 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.0\n(chi2 = 91/86 dof)\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB160216_T69030/\n\nAnother long-duration GRB 160216B was detected by Konus-Wind\nin the same trigger record at ~T0+150 s. This second burst was\nalso detected by Fermi-GBM, trigger #477342778.The KW ecliptic\nlatitude response for GRB 160216B is consistent with the GBM\nlocalization and inconsistent with the BAT localization\nof GRB 160216A.\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

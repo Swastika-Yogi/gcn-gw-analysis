@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S200316bj: Upper limits from CALET observations",
+  "eventId": "LIGO/Virgo S200316bj",
+  "bibcode": "2020GCN.27405....1S",
+  "createdOn": 1584523758000,
+  "circularId": 27405,
+  "submitter": "Yuta Kawakubo at Louisiana State U./CALET  <kawakubo1@lsu.edu>",
+  "email": "kawakubo1@lsu.edu",
+  "body": "Y. Shimizu  (Kanagawa U), A. Yoshida, T. Sakamoto,\nV. Pal'shin, S. Sugita (AGU), Y. Kawakubo (LSU),\nK. Yamaoka (Nagoya U), S. Nakahira (RIKEN),\nY. Asaoka, S. Torii (Waseda U), T. Tamura (Kanagawa U),\nN. Cannady (GSFC/UMBC), M. L. Cherry (LSU),\nS. Ricciarini (U of Florence), P. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe CALET Gamma-ray Burst Monitor (CGBM) was operating at the trigger\ntime of S200316bj T0 = 2020-03-16 21:57:56.157 UT (The LIGO Scientific\nCollaboration and Virgo Collaboration, GCN Circ. 27388).\n\nNo CGBM on-board trigger occurred around the event time. Based on the\nLIGO-Virgo localization sky map, the summed LIGO probabilities inside\nthe CGBM HXM (7 - 3000 keV) and SGM (40 keV - 28 MeV) fields of view\nare 52 % and 72 %, respectively (and 82 % credible region of the\ninitial sky map was above the horizon).  The HXM and SGM fields of\nview were centered at RA = 136.4 deg, Dec = +56.1 deg and RA = 144.6 \ndeg, Dec = +47.5 deg at T0, respectively.\n\nBased on the analysis of the light curve data with 0.125 sec time \nresolution from T0-60 sec to T0+60 sec, we found no significant \nexcess around the trigger time in either the HXM or the SGM data.\n\nThe CALET Calorimeter (CAL) was operating in the high energy trigger\nmode at the trigger time of S200316bj. Using the CAL data, we have\nsearched for gamma-ray events in the 10-100 GeV band from -60 sec \nto +60 sec from the GW trigger time and found no candidates in the\noverwrap region with the LIGO-Virgo high probability localization\nregion. \n\nThe 90% upper limit of CAL is 2.8 x 10^-6 erg/cm^2/s (10-100 GeV) \nwhen the summed LIGO-Virgo probability reaches 35%.\nThe CAL FOV was centered at RA = 144.7 deg, DEC = +47.5d deg at\nT0."
+}

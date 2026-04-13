@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 221124A",
+  "eventId": "GRB 221124A",
+  "bibcode": "2022GCN.32999....1S",
+  "createdOn": 1669917969000,
+  "circularId": 32999,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, M. Ulanov, A. Tsvetkova,\nA. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 221124A\n(CALET-CGBM detection: Sugita et al., GCN Circ. 32981;\nSwift/BAT-GUANO detection: Tohuvavohu et al., GCN Circ. 32984;\nGECAM-B detection: Huang et al., ATel 15777)\ntriggered Konus-Wind at T0=7224.17 s UT (02:00:24.170).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-64 s and has a total duration of ~425 s.\nThe emission is seen up to 5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB221124_T07224/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.71(-0.98,+1.92)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0-0.006 s,\nof 2.17(-0.76,+0.82)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+360.704 s)\nis best fit in the 20 keV - 5 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.80(-0.30,+0.38),\nthe high energy photon index beta = -2.96(-7.04,+0.70),\nthe peak energy Ep = 172(-35,+47) keV\n(chi2 = 74/74 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 2 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.70(-0.36,+0.45)\nand Ep = 275(-59,+106) keV (chi2 = 47/60 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.4\n(chi2 = 47/59 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

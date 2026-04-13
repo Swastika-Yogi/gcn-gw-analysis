@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250703A",
+  "eventId": "GRB 250703A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40976....1K",
+  "createdOn": 1751726885588,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 40976,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 20250703A\n(Fermi-GBM detection: Fermi GBM team, GCN Circ. 40909)\nwas detected by Fermi (GBM trigger 773226456), Konus-Wind,\nand Mars-Odyssey (HEND) at about 32851 s UT (09:07:31).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  351.240 (23h 24m 58s) +28.375 (+28d 22' 31\")\n Corners:\n  352.362 (23h 29m 27s) +28.111 (+28d 06' 39\")\n  350.071 (23h 20m 17s) +28.695 (+28d 41' 42\")\n  350.131 (23h 20m 32s) +28.603 (+28d 36' 11\")\n  352.423 (23h 29m 41s) +28.013 (+28d 00' 47\")\n ---------------------------------------------\n\nThe error box area is 0.16 sq. deg, and its maximum\ndimension is 2.2 deg (the minimum one is 5 arcmin).\nThe Sun distance was 96 deg.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM localization.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250703_T32851/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

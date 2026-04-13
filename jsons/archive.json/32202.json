@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220606C",
+  "eventId": "GRB 220606C",
+  "bibcode": "2022GCN.32202....1K",
+  "createdOn": 1655315892000,
+  "circularId": 32202,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nand\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team, report:\n\nThe long-duration GRB 220606C\n(CALET-CGBM detection: Nakahira et al., GCN Circ. 32180)\nwas detected by CALET (CGBM), INTEGRAL (SPI-ACS trigger 9949),\nKonus-Wind, BepiColombo (MGNS), and GECAM-B (trigger tn220606_133517_fb)\nat about 48918 s UT (13:35:18).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n   ---------------------------------------------\n    RA(2000), deg                 Dec(2000), deg\n   ---------------------------------------------\n   Center:\n    201.004 (13h 24m 01s)  -5.258 ( -5d 15' 29\")\n   Corners:\n    211.181 (14h 04m 43s)  +9.433 ( +9d 25' 59\")\n    210.801 (14h 03m 12s)  +8.552 ( +8d 33' 07\")\n    200.664 (13h 22m 39s) -22.171 (-22d 10' 16\")\n    200.417 (13h 21m 40s) -23.101 (-23d 06' 03\")\n   ---------------------------------------------\nThe error box area is 16.3 sq. deg, and its maximum\ndimension is 34.2 deg (the minimum one is 28 arcmin).\nThe Sun distance was 125 deg.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220606_T48919/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

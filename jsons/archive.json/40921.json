@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250702F: Skynet Optical Observations",
+  "eventId": "GRB 250702F",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40921....1D",
+  "createdOn": 1751559853712,
+  "submitter": "Dylan Dutton at UNC Chapel Hill <ddutton59@gmail.com>",
+  "circularId": 40921,
+  "format": "text/plain",
+  "body": "Dylan Dutton, Daniel Reichart, Joshua Haislip, Vladimir Kouprianov, Staszek Zola, Tyler Linder, and Jonathan Keohane report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 250702F detected by Swift (Siegel, GCN 40894) with one of Skynet's PROMPT telescopes located at the Astronomical Observatory of the Jagiellonian University, two of Skynet's PROMPT telescopes located at the Cerro Tololo Inter-American Observatory, and a 0.4m telescope located at Hampden-Sydney College. Observations began roughly 2.5 minutes post trigger and continued for 8 hours.\n\nWe detect the optical afterglow (Siegel, GCN 40894; Jelinek, GCN 40895; Kumar GCN 40896; Lipunov GCN 40899; Martin-Carrillo GCN 40900; Talamantes GCN 40907; Becerra GCN 40911; Brivio GCN 40913; An GCN 40916) in the B, V, R, I, and r bands. We report the initial detection photometry below.\n\nInspection of the first 2.5 hours of photometry indicates a fading from ~15.5 mag (two minutes post-trigger) to ~18 mag (two-hours post-trigger) in R band. The light curve appears to plateau for the remaining 30 minutes. Analysis of the additional 5.5 hours of photometry is ongoing.\n\nExposure lengths were calculated using our automated exposure length scaling model.\n\nTmid - T0 (s) | Telescope   | Filter | Exposure (s) | Mag    | Mag Error\n------------------------------------------------------------------------\n153           | PROMPT-OAUJ | V      | 2            | 15.454 | 0.101\n168           | PROMPT-OAUJ | R      | 2            | 15.447 | 0.118\n\nOur images have been calibrated using stars from the APASS catalog. Magnitudes were not corrected for dust extinction."
+}

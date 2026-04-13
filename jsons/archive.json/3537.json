@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB050607",
+  "eventId": "GRB 050607",
+  "bibcode": "2005GCN..3537....1I",
+  "createdOn": 1118228325000,
+  "circularId": 3537,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "Ivanushkina, M., Retter, A. (PSU), McGowan, K., Blustin, A.\n(MSSL), Gehrels, N. (NASA/GSFC) on behalf of the Swift\nUVOT team\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began\nobservations of GRB050607 on June 7, 2005 at 22:36:23 UT,\n~12 hours and 25 minutes after the initial Swift BAT trigger\n(Retter et al., GCN 3525) as an uploaded ToO. Immediate data\nfrom UVOT were not available due to the instrument being in\nan engineering mode.\n\nNo optical counterpart is detected at the afterglow position\n(Rhoads, GCN 3527) in summed images from any filter down to\nthe following 3-sigma upper limits:\n\nFilter   3-sig UL  Exposure (s)  T_mid (s)\nV        20.21     2036          51530\nB        20.95     897           46942\nU        20.18     771           42806\nUVW1     20.95     900           41963\nUVM2     21.33     1482          46727\nUVW2     21.30     900           47844\n\nWhere T_mid is the mid-time of the summed exposure in seconds\nafter the BAT trigger.\n\nThe magnitudes are based on preliminary zero-points,\nmeasured in orbit, and will require refinement with\nfurther calibration."
+}

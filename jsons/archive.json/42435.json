@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251025A (sb25102501): Likely a stellar flare by SVOM/VT",
+  "eventId": "GRB 251025A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42435....1L",
+  "createdOn": 1761402012948,
+  "circularId": 42435,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, Z. H. Yao, Y. N. Ma, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, J. R. Xu, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), Z. M. Wang (BNU), W. J. Tan (IHEP) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed an automatic slew on the faint burst triggered by SVOM/ECLAIRs (sb25102501, Wang et al., GCN 42432). SVOM/VT began observing the field automatically on 2025-10-25T09:42:07, i.e., 405 sec with the slew of the platform triggered on-board, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nWith X band downlinked data, we find that the high proper motion star RX J2350.0+2659 was fading with the color from blue to red. It is located with a distance of 1.4 arcminutes from SVOM/MXT position (Wang et al., GCN 42432).  The brightness was fading from 10.0 mag to 12.5 mag in VT_B during the first 1.6 hour after the trigger. The position of the source is consistent with XRT Source 1 (https://www.swift.ac.uk/SVOM/SVOM_FIELD00043/). \n\nGiven the fading behavior in optical and the consistency in position between VT and XRT, we propose that this event was due to a stellar flare. Our photometry was estimated in AB magnitude.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

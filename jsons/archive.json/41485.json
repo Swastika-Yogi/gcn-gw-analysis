@@ -1,0 +1,11 @@
+{
+  "subject": "EP250821a: SVOM/VT optical observation",
+  "eventId": "EP250821a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41485....1Y",
+  "createdOn": 1755832573660,
+  "submitter": "zhyao@bao.ac.cn",
+  "circularId": 41485,
+  "format": "text/plain",
+  "body": "Z. H. Yao, Y. N. Ma, L. P. Xin, H. L. Li, Y. L. Qiu, C. Wu, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM/VT team.\n\nSVOM performed a Target of Opportunity observation of EP250821a detected by EP/WXT (Hu et al., GCN 41459). SVOM/VT began observing the field at 2025-08-21T11:23:41.5 UTC, 4.087 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nAn uncatalogued source is found using VT X-band data, within the error box of EP/FXT (Hu et al., GCN 41459; Liang et al., GCN 41467), Swift/XRT and UVOT (Dichiara et al., GCN 41469) and Las Cumbres (Li et al., GCN 41470) at R.A., Dec 289.88564, -43.38115 degrees:\n \nRA (J2000) = 19:19:32.55\nDec (J2000) = -43:22:52.14\n\nwith an uncertainty of 0.5 arcsec.\n \nThe source is detected in both VT_R and VT_B and was fading by ~0.5 mag between the first 2 VT observing sequences, the magnitudes are:\n \nT-T0 (h)            | Exposure Time (s) | Band | Mag (AB) | Mag err\n--------------------|-------------------|------|----------|--------\n4.087               | 70                | VT_B | 19.44    | 0.12    \n4.087               | 70                | VT_R | 18.49    | 0.05\n6.363               | 70                | VT_B | 19.93    | 0.05 \n6.363               | 70                | VT_R | 19.02    | 0.03\n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n\n"
+}

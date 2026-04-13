@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090423: GROND detection and preliminary photo-z",
+  "eventId": "GRB 090423",
+  "bibcode": "2009GCN..9215....1O",
+  "createdOn": 1240542349000,
+  "circularId": 9215,
+  "submitter": "Jochen Greiner at MPI  <jcg@mpe.mpg.de>",
+  "email": "jcg@mpe.mpg.de",
+  "body": "F. Olivares, T. Kruehler, J. Greiner, R. Filgas (all MPE Garching) report on \nbehalf of the GROND team:\n\nWe observed the field of GRB 090423 (Swift trigger 350184, H. Krimm et \nal., GCN #9198) simultaneously in g'r'i'z'JHK with GROND mounted at the 2.2m \nMPI/ESO telescope at La Silla Observatory (Chile). Observations started on \n23 Apr. 2009 at 23:08 UT, 15.2 h after the burst.\n\nWe detect the source within the XRT error circle (Evans et al. 2009, GCN #9205)\nreported by Tanvir et al. (GCN #9202), Levan et al. (GCN #9206) and Cucchiara \net al. (GCN# 9209) in the NIR channels.\n\nPreliminary photometry yields the following magnitudes and upper limits in \nstacked images at a midtime of 16.7 h after the burst, obtained using \nSDSS/2MASS stars as reference:\n\nFilter  Exp [s]    AB Mag   MagErr\n----------------------------------\ng'      16 x 369    > 25.0\nr'      16 x 369    > 25.1\ni'      16 x 369    > 24.2\nz'      16 x 369    > 24.0\nJ       480 x 10    21.6     0.1\nH       480 x 10    21.2     0.1\nK       480 x 10    20.9     0.1\n\nThese magnitudes imply a significant fading to what was reported earlier \n(GCNs #9202, #9213) and confirm this source to be the afterglow of GRB \n090423. Furthermore, we confirm the red z-J color, and thus the probable \nhigh redshift nature of this event. After correcting for the foreground\ngalactic extinction of E(B-V)=0.029 (Schlegel et al. 1998) and assuming no\nintrinisic extinction, a fit with Hyper-z (Bolzonella et al. 2000) results \nin a spectral index of 1.0 (+0.4,-0.5), comparable to that observed in \nX-rays (Stratta & Perri, GCN #9212), and a preliminary photometric redshift \nof z = 8.0+0.5-1.2."
+}

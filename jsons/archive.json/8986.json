@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090313: Swift-BAT refined analysis",
+  "eventId": "GRB 090313",
+  "bibcode": "2009GCN..8986....1S",
+  "createdOn": 1236952111000,
+  "circularId": 8986,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), J. Mao (INAF-OAB), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 090313 (trigger #346386)\n(Mao, et al., GCN Circ. 8980).  The BAT ground-calculated position is\nRA, Dec = 198.400, 8.086 deg, which is \n   RA(J2000)  =  13h 13m 36.0s \n   Dec(J2000) = +08d 05' 10.7\" \nwith an uncertainty of 2.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 15%.\n \nThe mask-weighted light curve shows emission starting before T-100 sec\nat which time the burst location came into the BAT FOV during a pre-programmed\ntarget slew.  BAT triggered on the peak starting at ~T-20 sec, peaking\nat ~T+10 sec, and ending at ~T+90 sec.  T90 (15-350 keV) is 78 +- 19 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T-21.3 to T+66.6 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.91 +- 0.29.  The fluence in the 15-150 keV band is 1.4 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+4.86 sec in the 15-150 keV band\nis 0.8 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/346386/BA/"
+}

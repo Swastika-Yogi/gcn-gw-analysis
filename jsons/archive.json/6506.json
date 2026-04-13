@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070610: Swift-XRT refined analysis",
+  "eventId": "GRB 070610",
+  "bibcode": "2007GCN..6506....1P",
+  "createdOn": 1181596303000,
+  "circularId": 6506,
+  "submitter": "Claudio Pagani at PSU/Swift-XRT  <pagani@astro.psu.edu>",
+  "email": "pagani@astro.psu.edu",
+  "body": "C. Pagani, J. L. Racusin and J. A. Kennea (PSU) report on  \nbehalf of the Swift Team:\n\nWe have analysed the first 7.8 ks of Swift XRT photon counting mode data from \nGRB 070610 (trigger number 281993, GCN Circ. 6489).\nBecause of an Earth limb constraint, the spacecraft did not slew promptly to \nthe BAT position and the XRT started collecting data in Photon Counting at \n21:44:41 UT, 3140 seconds after the trigger.\n\nUsing 299 s of overlapping XRT Photon Counting mode and UVOT V-band data, we \nfind an astrometrically corrected X-ray position (using the XRT-UVOT alignment \nand matching UVOT field sources to the USNO-B1 catalogue): RA, Dec=\n298.79002, 26.2352 which is equivalent to:\n\nRA (J2000):  19 55 9.60\nDec (J2000): +26 14 06.7\n\nwith an uncertainty of 4.3 arcsec (90% confidence).\nThis is 0.4 arcsec from the initial X-ray position (GCN Circ. 6490), 1.7 \narcsec from the OSN optical candidate (GCN Circ. 6501) and 89 arcsec from the \nBAT ground-calculated position (GCN Circ. 6491).\n\nThe XRT light curve created from the PC data in the T+3.1 ks to T+69 ks time \ninterval does not show the typical afterglow fading behavior, with evidence \nof flaring activity and hints of a possible late rebrightening.  More data \nare being collected to monitor the light curve evolution.\n\nThe X-ray spectrum of the PC data, modeled with an absorbed power law with the \ntotal column density fixed at the Galactic value of 1.01e22 cm**-2 gives a \nphoton index of 2.1+/-0.5. \nThe absorbed (unabsorbed) 0.3-10.0keV average flux in the T+3.1 ks - T+69 ks \ntime interval is 1.4E-12 (2.9E-12) ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift XRT team."
+}

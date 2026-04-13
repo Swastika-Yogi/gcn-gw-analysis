@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090426: Okayama MITSuME optical observation",
+  "eventId": "GRB 090426",
+  "bibcode": "2009GCN..9266....1Y",
+  "createdOn": 1240787613000,
+  "circularId": 9266,
+  "submitter": "Michitoshi Yoshida at Okayama Astrophysical Obs  <yoshida@oao.nao.ac.jp>",
+  "email": "yoshida@oao.nao.ac.jp",
+  "body": "M. Yoshida, D. Kuroda, K. Yanagisawa, Y. Shimizu, S. Nagayama,\nH. Toda (OAO, NAOJ) and N. Kawai (Tokyo Tech) report on behalf\nof the MITSuME collaboration:\n\nWe detected the optical afterglow of GRB 090426 (Cummings et al.\nGCN 9254; Xin et al. GCN 9255; Oates et al. GCN 9265) with the\noptical three color (g', Rc and Ic) CCD camera attached to the\nMITSuME 50cm telescope of Okayama Astrophysical Observatory.\nThe observation started on 2009-04-26 12:49:50 UT (63 sec after\nthe alert). We found the afterglow at the UVOT position of the\nGRB (Oates et al. GCN 9265) in all the three bands. It rapidly\nfaded from 1 min to 2 hours from the burst.\n\nPhotometric results listed below. We used GSC2.3 catalog for\nflux calibration. We did not apply Galactic extinction to the\nfollowing results.\n\n#PDAY      MID-UT   T-EXP    g'  g'_err  Rc   Rc_err  Ic   Ic_err\n-----------------------------------------------------------------\n0.00108  12:50:20    60.0  17.21  0.15  16.54  0.09  15.95  0.11\n0.00436  12:55:04   540.0  17.81  0.08  17.30  0.08  16.90  0.10\n0.01198  13:06:03   540.0  19.43  0.31  19.16  0.27  18.30  0.26\n0.01116  13:04:52  1500.0  18.58  0.12  18.04  0.09  17.61  0.11\n0.06343  14:20:08  3000.0  20.42  0.38  19.86  0.22  19.46  0.35\n-----------------------------------------------------------------"
+}

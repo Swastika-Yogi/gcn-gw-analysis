@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 071112C: Swift XRT refined analysis",
+  "eventId": "GRB 071112C",
+  "bibcode": "2007GCN..7079....1S",
+  "createdOn": 1194965182000,
+  "circularId": 7079,
+  "submitter": "Giulia Stratta at ASDC  <giulia.stratta@gmail.com>",
+  "email": "giulia.stratta@gmail.com",
+  "body": "G. Stratta (ASDC) , M. Perri (ASDC) and D. N. Burrows (PSU) report\non behalf of the Swift Team:\n\nWe have analysed the first 7 orbits of Swift-XRT data obtained\nfor GRB 071112C (Perri et al. GCN Circ.7059), totaling 281 s\nof Windowed Timing (WT) data and 29.1 ks of Photon Counting (PC)\ndata.\n\nUsing 625 s of overlapping XRT Photon Counting mode and UVOT\nV-band data, we find an astrometrically corrected X-ray position\n(using the XRT-UVOT alignment and matching UVOT field sources\nto the USNO-B1 catalogue):\nRA,Dec =39.21220, 28.37102 which is equivalent to:\n\nRA (J2000):  02 36 50.93\nDec (J2000): +28 22 15.7\n\nwith an uncertainty of 1.7 arcsec (radius, 90% confidence).\nThis is 1.0 arcsec from the previous XRT position, 0.7 arcmin\nfrom the BAT position and 1.0 arcsec from the UVOT position\n(Perri et al, GCN Circ. 7059).\n\nThe bright X-ray light-curve can be fit by a simple power-law,\nwith a decay index of 1.35 +/- 0.1.\nBetween about 400s and 1100s from the trigger, the data deviate\nfrom the model, possibly pointing out a smooth re-brightening.\n\nThe WT data (91-372 seconds from trigger) can be modeled as an\nabsorbed power-law, with photon index of 1.7 +/- 0.1 and a total\nabsorbing column density consistent with the Galactic value of\nNH=7.4e20 cm^-2 (Dickey & Lockmann 1990).\nThe 0.3-10 keV observed (unabsorbed) flux during this time is\n4.4e-10(4.9e-10) erg cm^-2 s^-1.\n\nAssuming the source continues to decay with the same decay\nindex of 1.35,we predict an XRT count rate of 3.0e-3 counts/s\nat T+24 hours, which corresponds to an 0.3-10.0 keV observed\nflux of 1.2e-13 ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

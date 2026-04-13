@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141207A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 141207A",
+  "bibcode": "2014GCN.17193....1F",
+  "createdOn": 1418965131000,
+  "circularId": 17193,
+  "submitter": "Makoto Tashiro at Saitama U/Swift  <tashiro@phy.saitama-u.ac.jp>",
+  "email": "tashiro@phy.saitama-u.ac.jp",
+  "body": "T. Fujinuma, M. Tashiro, Y. Terada, T. Yasuda, S. Koyama, S. Takeda,\nT. Nagayoshi, J. Enomoto, S. Nakaya, S. Matsuoka (Saitama U.),\nM. Yamauchi, N. Ohmori, R. Kinoshita (Univ. of Miyazaki),\nW. Iwakiri (RIKEN), K. Yamaoka (Nagoya U.), S. Sugita (Ehime U.),\nY. Hanabata (ICRR), M. Ohno, T. Kawano, S. Furui, Y. Fukazawa\n(Hiroshima U.), Y. E. Nakagawa, M. Kokubun, T. Takahashi (ISAS/JAXA),\nY. Urata (NCU), K. Nakazawa, K. Makishima (Univ. of Tokyo)\non behalf of the Suzaku WAM team, report:\n\nThe long GRB 141207A(Fermi-LAT Detection: Kocevski et al.,GCN 17146;\nSwift-XRT observation:Amaral-Rogers et al.,GCN 17149;Fermi GBM dection:\nBurns et al.,GCN 17150) triggered the Suzaku Wide-band  All-sky Monitor\n(WAM) which covers an energy range of 50 keV - 5 MeV at 19:11:22.452 UT\n(=T0).\n\nThe observed light curve shows a multi-peaked structure starting at\nT0-1s, ending at T0+22s  with a duration(T90) of about 20 seconds. The\nfluence in 100 - 1000 keV was 1.94(+0.10/-0.19)x10^-5 erg/cm^2.The 1-s\npeak flux measured from T0+6s was 4.74(+0.37/-1.32) photons/cm^2/s in\nthe same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0-1s to\nT0+22s is well fitted by a power-law with exponential cutoff model:\n  dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\n  alpha       1.11(+0.40/-0.48), and\n  Epeak       579(+126/-92) keV (chi^2/d.o.f. = 28.2/25).\n\nDue to the brightness of this burst, a 3% systematic error was added for\nlow energy channels. There might be uncertainty since the response for\nthe incident angle of GRB photons to WAM is not reliable.\nAll the quoted errors are at statistical 90% confidence level.\n\nThe light curves for this burst will be available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

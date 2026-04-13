@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081211: Swift/UVOT detection of an optical afterglow",
+  "eventId": "GRB 081211",
+  "bibcode": "2008GCN..8656....1I",
+  "createdOn": 1229031215000,
+  "circularId": 8656,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (CRESST/UMD/GSFC), S. T. Holland (CRESST/USRA/GSFC), and H. A. \nKrimm (CRESST/GSFC/USRA) report on behalf of the Swift UVOT team:\n\nFurther analysis of Swift Ultraviolet/Optical Telescope (UVOT) data of \nGRB 081211 (Krimm et al., GCN Circ. 8653), starting 113 sec after the \nBAT trigger, gives a detection of an optical source within the enhanced \nSwift-XRT position (Beardmore et al., GCN Circ. 8655) at\n     RA (J2000)  21:52:27.97 = 328.11654 (deg)\n     Dec (J2000) -33:50:08.3 = -33.83565 (deg)\nwith an uncertainty of 0.7 arcseconds (radius, 90% containment) in the \nwhite filters at 4.5-sigma level of confidence. The source is not \npresent in DSS, the USNO-B1.0 catalogue, or the 2MASS point source \ncatalogue. It is not detected in any of the other UVOT filters at the \nlimiting magnitudes reported below.\n\nFilter Tstart(s) Tstop(s)  Exp(s)  Magnitude\n\nwh     113       7134     588      21.23+/-0.39\nu      326       6724     265      >20.23  (3-sigma UL)\nb      582        741     293      >20.24  (3-sigma UL)\nuvw2   632       7318     371      >20.40  (3-sigma UL)\nv      656      11966     386      >19.38  (3-sigma UL)\nuvm2   681       6314     136      >19.58  (3-sigma UL)\nuvw1   706       6519     196      >19.87  (3-sigma UL)\n\nThe values quoted above are in the UVOT photometric system (Poole et al. \n2008, MNRAS, 383, 627) and are not corrected for the expected Galactic \nextinction along the line of sight which corresponds to a reddening of \nE(B-V)=0.077 mag (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120512A: A long GRB detected by INTEGRAL",
+  "eventId": "GRB 120512A",
+  "bibcode": "2012GCN.13300....1M",
+  "createdOn": 1337084602000,
+  "circularId": 13300,
+  "submitter": "Sandro Mereghetti at IASF/CNR  <sandro@iasf-milano.inaf.it>",
+  "email": "sandro@iasf-milano.inaf.it",
+  "body": "S.Mereghetti (IASF-Milano), C.Ferrigno, E.Bozzo (ISDC, Versoix), D.Gotz \n(CEA, Saclay), and J.Borkowski (CAMK, Torun) on behalf of the IBAS \nLocalization Team report:\n\na gamma ray burst lasting about 40 s has been detected by IBAS in the \nIBIS/ISGRI data at 02:41:40 UT of May 12.\n\nDue to the 7.3 sigma statistical significance of the detection, only an \nAlert Packet of WEAK type was distributed in real time (Packet n. 6550).\n\nWith an off-line analysis with the standard OSA software we obtained the \nfollowing GRB coordinates (J2000):\n\nRA:  325.558    [degrees]\nDEC:  13.636    [degrees]\n\nwith an uncertainty of 1 arcmin (90% c.l.).\n\nThese coordinates differ from those derived automatically (Alert Packet \nn.6550) because the extreme off-axis angle of the GRB (15 degrees) caused \na wrong identification of its position in the real time image.\n\nThe burst has a peak flux of 5 counts/cm2/s (20-200 keV, 1-s integration \ntime) and a fluence in the same energy range of about 1e-5 erg/cm2,\n\nA plot of the light curve has been posted at \nhttp://ibas.iasf-milano.inaf.it/IBAS_Results.html"
+}

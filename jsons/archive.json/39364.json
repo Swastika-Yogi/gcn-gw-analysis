@@ -1,0 +1,11 @@
+{
+  "subject": "Transient SVOM/sb25021804: COLIBRÍ/DDRAGO Optical Upper Limits on the Optical Counterpart",
+  "eventId": "sb25021804",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39364....1D",
+  "createdOn": 1739895504250,
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>",
+  "circularId": 39364,
+  "format": "text/plain",
+  "body": "Antonio de Ugarte Postigo (LAM), Alan M. Watson (UNAM), Jean-Luc Atteia (IRAP), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Dalya Akl (AUS), Camila Angulo (UNAM), Sarah Antier (OCA), Rosa L. Becerra (U Roma), Nathaniel R. Butler (ASU), Damien Dornic (CPPM), Jean-Grégoire Ducoin (CPPM), Francis Fortin (IRAP), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Francesco Magnani (CPPM), Margarita Pereyra (UNAM), Ny Avo Rakotondrainibe (LAM), and Benjamin Schneider (LAM) report:\n\nWe imaged the field of SVOM trigger sb25021804 (Wang et al., GCN 39363) with the DDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico.\n\nThe coordinates of this trigger are about 6 arcmin north of the galaxy NGC 4889, the brightest galaxy in the Coma Cluster (Abell 1656). The uncertainty radius is 10.4 arcmin, and so includes much of the central region of the cluster.\n\nWe observed from 2025-02-18 09:44 UTC to 11:51 UTC (2.71 to 4.52 hours after the trigger) and obtained 53 minutes of exposure in the i filter through patchy clouds and with high winds. The data were coadded with custom software and analyzed in STDWeb/STDPipe (Karpov 2021), with photometric calibration against Pan-STARRS DR1 and image subtraction against Pan-STARRS DR2. Our photometry is not corrected for Galactic extinction.\n\nOur image reaches an AB 5-sigma limiting magnitude of\n\n\ti > 21.7\n\nWe have performed image subtraction and see no obvious counterpart. The detection of a counterpart with Swift/XRT or SVOM/MXT would facilitate searches for a faint counterpart.\n\nWe warmly thank the COLIBRÍ and DDRAGO engineering teams and the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir."
+}

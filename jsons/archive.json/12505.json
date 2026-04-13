@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111029A: KAIT optical limits",
+  "eventId": "GRB 111029A",
+  "bibcode": "2011GCN.12505....1L",
+  "createdOn": 1319911393000,
+  "circularId": 12505,
+  "submitter": "Weidong Li at UC Berkeley KAIT/LOSS  <weidong@astron.berkeley.edu>",
+  "email": "weidong@astron.berkeley.edu",
+  "body": "W. Li and A. V. Filippenko, University of California\nat Berkeley, on behalf of the KAIT GRB team, report:\n\nThe robotic 0.8-m KAIT located at Lick Observatory responded to\nGRB 111029A (Swift trigger 506519; Troja et al. GCN 12498) automatically\nand started the first image at 09:47:15 UT (154.5 seconds after the burst).\nA series of images were taken in the V, I, and clear filters.\nNo new sources were detected within the Swift/XRT error circle\nin the KAIT images (single or stacked frames) when compared to\nthe DSS II. We set the following specific limits (calibrated\nto USNO B1): \n\nstart UT       end UT      t_exp(s)   mlim (unfilt.)  coadd?\n---------------------------------------------------------------\n09:47:15.0   09:47:17.0        2      18.0            N \n09:47:15.0   09:47:46.0       20      19.0            Y (2s x 10)"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150527A: LCOGT McDonald observations",
+  "eventId": "GRB 150527A",
+  "bibcode": "2015GCN.17877....1J",
+  "createdOn": 1432717358000,
+  "circularId": 17877,
+  "submitter": "Cristiano Guidorzi at Ferrara U,Italy  <guidorzi@fe.infn.it>",
+  "email": "guidorzi@fe.infn.it",
+  "body": "J. Japelj (U. Ljubljana), C. Guidorzi (U. Ferrara), C.G. Mundell (U. Bath),\nS. Kobayashi (LJMU), A. Gomboc (U. Ljubljana) on behalf of a\nlarger collaboration report:\n\nThe 1-m LCOGT McDonald unit began observing Swift GRB 150527A\n(Evans al GCN 17874) on May 27 at 06:56:33 UT (~7.6 minutes\nafter the burst trigger) with SDSS r and i filters.\nInside the Swift-XRT error circle we provide conservative\nlimits on detection down to the following limiting magnitudes:\n\nMid Time      Exposure       Filter       Magnitude\n(s)           (s)\n---------------------------------------------------\n  795          5x120          r'           > 19.5\n1500          5x120          i'           > 18.3\n---------------------------------------------------\n\nThese values are compatible with the source reported by RATIR\n(Butler et al. GCN 17876), although no information about its\nposition is reported.\nWe note the presence of a faint source in our coadded image\nwith i'=20.6 +- 0.4 mag at the following position:\nRA(J2000)=19:15:50.31, Dec(J2000)= +04:12:05.0.\nHowever, we caution that the field is crowded, Galactic\ndust extinction towards this field is high, A_V = 2.7 mag\n(Schlafly et al. 2011).\nCalibration is done against nearby USNOB-1 stars."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240414A: further radio observations with the VLA",
+  "eventId": "GRB 240414A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37576....1G",
+  "createdOn": 1726843432722,
+  "circularId": 37576,
+  "submitter": "Stefano Giarratana at INAF-OAB <s.giarratana@ira.inaf.it>",
+  "body": "S. Giarratana (INAF-OAB), M. Giroletti (INAF-IRA),\nG. Ghirlanda (INAF-OAB), N. Di Lalla (Stanford Univ.),\nN. Omodei (Stanford Univ.), O. S. Salafia (INAF-OAB)\n\nAt 01:21:27 UT on 2024 April 23 (T_mid = 8.98 days post-burst)\nand at 05:22:12 on 2024 May 15 (T_mid = 31.15 days post-burst)\nthe Karl G. Jansky VLA started observing the field of GRB 240414A\n(Caputo et al., GCN 36083) at a central frequency of 6 and 10 GHz.\n\nThe standard J1331+3030 (3C286) was used as bandpass and flux density\ncalibrator, while J1217+5835 was used as complex gain calibrator.\n\nFrom a preliminary analysis, the radio source coincident with\nGRB 240414A (Rhodes et al., GCN 36229; Giarratana et al., GCN 36231;\nde Ugarte Postigo et al., GCN 36318) is detected at both frequencies:\n\n================================================================\nT_mid    Freq     Peak    r.m.s.   Beam         PA\n[days]   [GHz]    [uJy/b] [uJy/b] [arcsec]     [deg]\n================================================================\n8.98     6        33      9        4.64x3.44    -86\n8.98     10       48      7        3.16x2.24    -82\n31.15    6        18      6        1.15x0.92    -40\n31.15    10       21      6        0.67x0.56    -38\n================================================================\n\nWe would like to thank the staff of the VLA for approving, executing,\nand processing the observations.\n\nThe National Radio Astronomy Observatory is a facility of the National\nScience Foundation operated under cooperative agreement by Associated\nUniversities, Inc.\n\nThese observations were carried out as part of project SF161095,\napproved in the framework of the Fermi - NRAO joint program agreement.\n"
+}

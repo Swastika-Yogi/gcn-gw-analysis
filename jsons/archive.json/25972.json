@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191004A: Swift/UVOT Detection",
+  "eventId": "GRB 191004A",
+  "bibcode": "2019GCN.25972....1S",
+  "createdOn": 1570469965000,
+  "circularId": 25972,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "GRB 191004A: Swift/UVOT Detection\n\nS. J. LaPorte (PSU) and S. B. Cenko (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 191004A\n84 s after the BAT trigger (Cenko et al., GCN Circ. 25945).\nA fading source consistent with the XRT position\n(Osborne et al. GCN Circ. 25950)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nb                       582             775             38         >18.83\nuvm2                680             873             38         >18.00\nu                       327             750           265         >19.60\nv                       656            1104            58         >18.06\nuvw1                705              898            38         >17.89\nuvw2                632            1080            58         >18.28\nwhite                115            1054          333           19.78+-0.16\n\nwhite              5567          12438          956         >21.24\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

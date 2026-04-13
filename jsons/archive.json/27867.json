@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 200524A",
+  "eventId": "GRB 200524A",
+  "bibcode": "2020GCN.27867....1S",
+  "createdOn": 1590847803000,
+  "circularId": 27867,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 200524A\n(Fermi-LAT detection: Fana Dirirsa et al., GCN Circ. 27797;\nFermi-GBM detection: Pookalil et al., GCN Circ. 27809;\nAstroSat-CZTI detection: Gupta et al., GCN Circ. 27818)\ntriggered Konus-Wind at T0=18243.246 s UT (05:04:03.246).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-4.8 s, peaks at ~T0-3.3 s,\nand to background level at ~T0+84 s.\nThe total burst duration is ~89 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200524_T18243/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.48(-0.62,+0.74)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+3.280 s,\nof 6.33(-1.64,+1.75)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+40.704 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.75(-0.18,+0.25),\nthe high energy photon index beta = -2.13(-0.31,+0.20),\nthe peak energy Ep = 215(-46,+48) keV\n(chi2 = 105/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+7.936 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.55(-0.18,+0.26),\nthe high energy photon index beta = -2.14(-0.21,+0.16),\nthe peak energy Ep = 203(-36,+36) keV\n(chi2 = 130/97 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080420A: ROTSE-III Optical Limits on a possible short burst",
+  "eventId": "GRB 080420A",
+  "bibcode": "2008GCN..7633....1S",
+  "createdOn": 1208667049000,
+  "circularId": 7633,
+  "submitter": "Brad Schaefer at LSU  <schaefer@grb.phys.lsu.edu>",
+  "email": "schaefer@grb.phys.lsu.edu",
+  "body": "B. E. Schaefer (Louisiana State), F. Yuan (U Mich), W. Rujopakarn \n(Steward), report on behalf of the ROTSE collaboration:\n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB\n080420 (Swift trigger 309665; Vetere, L. et al., GCN 7632) a possible\nshort burst, producing images beginning 8.1 s after the GCN notice time.\nAn automated response took the first image at 04:13:10.2 UT, 23.0 s after\nthe burst, under fair conditions.  These observations were affected by the\nFull Moon 75 degrees away. We took 10 5-sec, and 60 20-sec exposures.\nThese unfiltered images are calibrated relative to USNO A2.0 (R). Imaging\nis on going.\n\nComparison to the DSS (second epoch) reveals no new sources within the \n3-sigma Swift/BAT error circle; the field is not crowded. Individual \nimages have limiting magnitudes ranging from 16.1-17.1; we set the \nfollowing specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n04:13:10.2   04:13:15.2         5     16.1           23.0       N\n04:13:10.2   04:14:17.3        67     18.1           23.0       Y\n04:24:09.3   04:28:51.6       282     18.5          682.1       Y"
+}

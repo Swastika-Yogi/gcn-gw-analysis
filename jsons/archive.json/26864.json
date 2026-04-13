@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200122A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 200122A",
+  "bibcode": "2020GCN.26864....1A",
+  "createdOn": 1579762086000,
+  "circularId": 26864,
+  "submitter": "Adachi Ryo at Tokyo Institute of Tech  <adachi@hp.phys.titech.ac.jp>",
+  "email": "adachi@hp.phys.titech.ac.jp",
+  "body": "R. Adachi, K. L. Murata, M. Niwano, F. Ogawa, R. Hosokawa, N.\nNakamura, S. Toma, M. Oeda, K. Shiraishi, K. Iida, Y. Yatsu, and N.\nKawai(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe searched for the optical counterpart of GRB 200122A (E. Sonbas et\nal.,GCN Circular #26844) with the optical three color (g', Rc, and Ic)\nCCD cameras attached to the MITSuME 50 cm telescope of Akeno\nObservatory, Yamanashi, Japan.\nThe observation started on 14:39:41 UT. Then the observation stopped\ndue to the bad weather and started again at 16:20:20 UT. We did not\nfind any new point sources within the Swift-XRT error circle (J.P.\nOsborne et al., GCN Circular #26846) in all three bands.\n\nWe obtained the 5-sigma limits as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n14.66 17:41:47 7140 g'>18.6,Rc>18.8,Ic>18.1\n------------------------------------------------------------------------------------------------\n\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used Pan-STARRS DR1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. ,in prep;\nhttps://github.com/MNiwano/Eclair)"
+}

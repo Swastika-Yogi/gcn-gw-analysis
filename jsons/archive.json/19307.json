@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 682614 is not a GRB",
+  "bibcode": "2016GCN.19307....1B",
+  "createdOn": 1460494223000,
+  "circularId": 19307,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), V. D'Elia (ASDC), N. Gehrels (NASA/GSFC),\nH. A. Krimm (CRESST/GSFC/USRA), A. Y. Lien (GSFC/UMBC) and\nB. Sbarufatti (INAF-OAB/PSU) report on behalf of the Swift Team:\n\nAt 20:39:22 UT, the Swift Burst Alert Telescope (BAT) triggered on noise\nwhile entering the SAA  (trigger=682614).  Swift did not slew because of Sun\nconstraint.  The BAT on-board calculated location is \nRA, Dec 58.958, -8.346, which is \n   RA(J2000)  =  03h 55m 50s\n   Dec(J2000) = -08d 20' 44\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a rapidly increasing background\ndue to entering the SAA.  This trigger is not astrophysical. \n\nDue to a Sun observing constraint, Swift cannot slew to the BAT\nposition until 04:53 UT on 2016 June 25. There will thus be no XRT or\nUVOT data for this trigger before this time."
+}

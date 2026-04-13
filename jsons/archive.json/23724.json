@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190114C: Swift-BAT refined analysis",
+  "eventId": "GRB 190114C",
+  "bibcode": "2019GCN.23724....1K",
+  "createdOn": 1547581880000,
+  "circularId": 23724,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "H. A. Krimm (NSF/USRA), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), J. D. Gropp (PSU),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 190114C (trigger #883832)\n(Gropp et al., GCN Circ. 23688).  The BAT ground-calculated position is\nRA, Dec = 54.503, -26.938 deg which is\n  RA(J2000)  =  03h 38m 00.7s\n  Dec(J2000) = -26d 56' 17.5\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows a multi-peaked structure that starts at\n~T-7 s. The brightest emission contains two complex pulses and ends at ~T+50 s.\nAfterwards, the emission appeared to decay exponentially out to beyond ~T+720 s,\nwhen the burst went out of the BAT field of view. The burst did not come back into the\nBAT field of view until ~T+3800, and nothing significant was detected at that time.\nT90 (15-350 keV) estimated using data before the burst went out of the BAT field of view\n is 361.5 +- 11.7 sec (estimated error including systematics). Please note that this\nT90 might be an underestimate.\n\nThe time-averaged spectrum from -6.604 to 703.192 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.43 +- 0.02.  The fluence in the 15-150 keV band is 8.3 +- 0.1 x 10^-5 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.23 sec in the 15-150 keV band\nis 101.0 +- 1.5 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/883832/BA/"
+}

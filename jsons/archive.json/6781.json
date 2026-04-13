@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT Notices back to autonomous real-time distribution",
+  "bibcode": "2007GCN..6781....1B",
+  "createdOn": 1189636731000,
+  "circularId": 6781,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), C. Markwardt (GSFC/UMD),  and N. Gehrels (GSFC) \non behalf of the Swift-BAT team:\n\nAs part of the several incremental steps of returning to normal\noperations for the Swift mission, the distribution of the BAT-based\nnotices has been re-enabled for autonomous real-time distribution.\nThis includes the BAT_Position, BAT_Lightcurve, and Swift_FOM_Observe\nnotices.  Since the automated target slewing has not yet been enabled,\nthe Swift_SC_Slew notices are still being blocked (as are the XRT and\nUVOT notices).\n\nThe position error quoted in the BAT_Position notice has been changed\nfrom the fixed value of 3 arcmin radius  to 4 arcmin plus a term\nwhich is proportional to the off-axis angle in BAT instrument coordinates.\nThis is to accomodate an increase in the systematic error due\nto an as yet uncalibrated uncertainty in the Roll axis of the\nSwift spacecraft."
+}

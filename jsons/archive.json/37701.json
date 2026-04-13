@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240926A",
+  "eventId": "GRB 240926A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.37701....1F",
+  "createdOn": 1727978979458,
+  "circularId": 37701,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 240926A\n(SVOM/GRM observation: Zhang et al., GCN 37616;\nIPN triangulation: Kozyrev et al., GCN 37639)\ntriggered Konus-Wind (KW) at T0=42164.378 s UT (11:42:44.378).\n\nThe burst light curve shows a multi-peaked structure,\nwhich starts at ~T0-16 s, peaks at ~T0+31 s,\nand has a total duration of ~75 s.\nThe emission is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240926_T42164/\n\nAs observed by Konus-Wind, the burst had\na fluence of (5.89 ± 0.59)x10^-5 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 31.424 s,\nof (9.03 ± 0.85)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+62.720 s)\nis best fit in the 20 keV - 15 MeV range\nby a GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -1.65 (-0.05,+0.06),\nthe high energy photon index beta = -2.60 (-0.55,+0.21),\nthe peak energy Ep = 118 (-11,+12) keV,\nchi2 = 119/97 dof.\n\nThe spectrum near the peak count rate (measured from T0+31.232 s to T0+38.144 s)\nis best fit in the 20 keV - 15 MeV range by a power law with exponential\ncutoff (CPL) model: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.55(-0.07,+0.07) and Ep = 151(-14,+17) keV (chi2 = 98/80 dof).\nFitting this spectrum by a Band function yields the same values of alpha and Ep,\nand an upper limit on the high energy photon index beta of -2.6 (chi2 = 98/79 dof).\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary.\n\n"
+}

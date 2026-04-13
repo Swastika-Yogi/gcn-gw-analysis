@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050401: Prompt XRT position",
+  "eventId": "GRB 050401",
+  "bibcode": "2005GCN..3161....1A",
+  "createdOn": 1112368158000,
+  "circularId": 3161,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "L. Angelini (GSFC), J. L. Racusin, S. Hunsberger, D. N. Burrows, J. E.\nHill, J. A. Kennea, D. C. Morris, D. Grupe, J. A. Nousek (PSU), J. P.\nOsborne, K. L. Page, M. R. Goad, A. P. Beardmore, O. Godet, A. F. Abbey, A.\nA. Wells (U. Leicester), S. Campana, A. Moretti, C. Pagani,  P. Romano, G.\nTagliaferri, G. Chincarini (INAF-OAB), G. Cusumano, V. La Parola, V.\nMangano, T. Mineo (INAF-IASF/Palermo), P. Giommi, M. Capalbi, M. Perri, F.\nTamburelli (ASDC), F. Marshall, N. White, N. Gehrels (GSFC), P. Roming, P.\nMeszaros (PSU), P. Schady (MSSL), report on behalf of the Swift XRT team:\n\nThe Swift BAT instrument triggered on GRB050401 at 14:20:15 UT and Swift \nexecuted a prompt slew (delayed by 9 seconds due to an Earth constraint) \n.  The XRT found a bright source located at the following position (based \non 38 counts in 2.5 seconds):\n\nRA(J2000) = +16h 31m 29s,\nDec(J2000) = +02d 11' 14\"\n\nWe estimate an uncertainty of about 6 arcseconds.   This source is located\n42 arcseconds from the BAT position.\n\nWe note that Swift had a solid attitude solution during this observation.\n\nThe XRT reported a prompt raw spectrum that peaks at about 1 keV with a \nroughly power-law shape (based on 328 s of data in Windowed Timing mode)."
+}

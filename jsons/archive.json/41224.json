@@ -1,0 +1,11 @@
+{
+  "subject": "EP250802a: Liverpool Telescope optical upper limits",
+  "eventId": "EP250802a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41224....1B",
+  "createdOn": 1754270847493,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 41224,
+  "format": "text/plain",
+  "body": "A. Bochenek and D. A. Perley (LJMU) report:\n \nWe observed the field of the fast X-ray transient EP250802a (Yin et al., GCN 41221) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 4x120s exposures in the SDSS r’ and i’ filters starting at 2025-08-03 21:42:37 UT, approximately 35 hours after the trigger.\n\nThe images were stacked, and their background was subtracted relative to Pan-STARRS-1 using PSF matching with the help of PSFEx. We do not detect any new object at the EP/WXT error region of the transient: the 3-sigma limiting magnitudes on the stacked images are r > 22.67 mag and i > 22.33 mag, in line with Mohan et al. (GCN 41222) and Lipunov et al. (GCN 41223). However, we note that there are a few bright, saturated stars inside the error region on our images, impacting the image subtraction.\n"
+}

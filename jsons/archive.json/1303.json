@@ -1,0 +1,10 @@
+{
+  "subject": "GRB011211 revised BVRI field photometry",
+  "eventId": "GRB 011211",
+  "bibcode": "2002GCN..1303....1H",
+  "createdOn": 1016909829000,
+  "circularId": 1303,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "A. Henden (USRA/USNO) reports on behalf of the USNO GRB team:\n\nWe have acquired additional BVRcIc all-sky photometry for\nan 11x11 arcmin field that is approximately centered on\nthe position of the optical transient for GRB011211 reported\nby Grav et al. (GCN 1191) with the USNOFS 1.0-m telescope.\nThe field was observed on two more nights,\nwith the new dataset posted at:\nftp://ftp.nofs.navy.mil/pub/outgoing/aah/grb/grb011211.dat\nStars brighter than V=13.5 are saturated and should be used with care.\nThe current photometry has a potential external zero-point\nerror of about one percent.  The astrometry in this file\nis based on linear plate solutions with respect to USNO-A2.0.\nThe internal errors are less than 100mas.\n\nThe two new nights have shown that the photometry\nreported in GCN 1197 has larger error than originally estimated,\nmost likely caused by a combination of the very poor seeing,\nhigh airmass and approaching dawn.  For example, the\ncomparison star U0675_11427359 that was used by Grav et al.and\nJensen et al. (GCN 1195) to calibrate their field can be found\nin the new .dat file with the following magnitudes:\n\nGCN 1195 (Jensen)   B = 18.65  V = 18.18  R = 17.90  I = 17.07\nGCN 1197 (Henden)   B = 18.65  V = 18.11  R = 17.76  I = 17.42\nnew result          B = 18.48  V = 18.00  R = 17.70  I = 17.37\n\nWe apologize for the lateness of this correction, but this\nwinter has had unusually few photometric nights.  This is\nthe first case in several dozen calibrations that we have\nperformed for the GRB community in which the final dataset\ndiffered from the initial dataset by more than a couple of percent."
+}

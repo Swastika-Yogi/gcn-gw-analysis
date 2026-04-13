@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240720B: AstroSat CZTI detection of a short burst",
+  "eventId": "GRB 240720B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36913....1W",
+  "createdOn": 1721535061962,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "circularId": 36913,
+  "format": "text/plain",
+  "body": "G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a short-duration GRB 240720B which was also detected by INTEGRAL/SPI-ACS (Trigger 10799), Konus/WIND (IPN RAW notices).\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-07-20 16:11:23.2 UTC. The measured peak count rate associated with the burst is 1454 (+216, -192) counts/s above the background in the combined data of all quadrants, with a total of 401 (+89, -80) counts. The local mean background count rate was 299 (+6, -9) counts/s. Using cumulative rates, we measure a T90 of 1.1 (+0.8, -0.7) s.\n\nIt was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2024-07-20 16:11:22.6 UTC. The measured peak count rate is 570.8 (+69, -75) counts/s above the background in the combined Veto data of all quadrants, with a total of 546 (+210, -234) counts. The local mean background count rate was 1260 (+10, -10) counts/s. Due to the intrinsic 1 s binning of veto data, we cannot reliably estimate a T90 from it.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb"
+}

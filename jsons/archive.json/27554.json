@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of a bright burst from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2020GCN.27554....1R",
+  "createdOn": 1586705182000,
+  "circularId": 27554,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe bright burst from SGR 1935+2154\n(IPN triangulation: Svinkin et al., GCN Circ. 27527,\nFermi GBM observation: Veres et al., GCN Circ. 27531)\ntriggered Konus-Wind at T0=35032.256 s UT (09:43:52.256)\non 2020 April 10.\n\nThe light curve shows a single pulse with a sharp rise\nand a total duration of ~0.2 s.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/SGRs/200410_T35032/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.55(-0.08,+0.08)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.054 s,\nof 1.54(-0.15,+0.15)x10^-5 erg/cm2/s\n(both in the 20 - 200 keV energy range).\n\nThe burst spectrum (measured from T0 to T0+0.128 s)\nis well fit by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.15(-0.85,+0.99)\nand Ep = 28(-7,+4) keV (chi2 = 15/14 dof).\nA double blackbody function fits this spectrum equally well\n(chi2 = 15/13 dof), with\nthe cold BB temperature of 6.9 (-4.6,+1.4) keV and\nthe hot BB temperature of 13.0 (-3.6,+7.8) keV.\n\nAlthough this burst is more than order of magnitude less\nenergetic than the 1.7s-long \"intermediate\" flare (IF) from\nthis source on 2015 April 12 (Kozlova et al. 2016, MNRAS 460,\n2008), its peak luminosity is almost comparable to that of the IF.\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

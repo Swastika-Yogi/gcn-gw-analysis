@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070219: Swift detection of a burst",
+  "eventId": "GRB 070219",
+  "bibcode": "2007GCN..6104....1S",
+  "createdOn": 1171849432000,
+  "circularId": 6104,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "T. Sakamoto (NASA/ORAU), S. D. Barthelmy (GSFC), D. N. Burrows (PSU),\nF. E. Marshall (NASA/GSFC), C. Pagani (PSU),\nK. L. Page (U Leicester), D. M. Palmer (LANL), P. Schady (MSSL-UCL),\nM. Stamatikos (NASA/ORAU), R. L. C. Starling (U Leicester) and\nE. Troja (INAF-IASFPA) report on behalf of the Swift Team:\n\nAt 01:10:16 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 070219 (trigger=261132).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 260.198, +69.364 which is \n   RA(J2000)  =  17h 20m 48s\n   Dec(J2000) = +69d 21' 51\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single peak\nwith a duration of about 15 sec.  The peak count rate\nwas ~2000 counts/sec (15-350 keV), at ~1 sec after the trigger. \n\nThe XRT began taking data at 01:11:38 UT, 82 seconds after the BAT\ntrigger.  From ground-based analysis we find a weak source at\nRA, Dec (J2000) = 260.190, +69.369 which is\n  RA(J2000)  = 17h 20m 45.5s \n  Dec(J2000) = +69d 22' 10.7\" \nwith an error radius of 5 arcseconds. \nThis is 21 arcseconds from the BAT position. \n\nUVOT took a finding chart exposure of 100 seconds with the White\n(160-650 nm) filter starting 87 seconds after the BAT trigger. No\nafterglow candidate has been found in the initial data products at\nthe BAT or XRT position with a white band 3-sigma upper limit of 19.6\nmag. The 2.7'x2.7' sub-image covers 25% of the BAT error circle and\n100% of the XRT error circle. No correction has been made for the\nexpected extinction corresponding to E(B-V) of 0.035"
+}

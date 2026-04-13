@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 200313B",
+  "eventId": "GRB 200313B",
+  "bibcode": "2020GCN.27407....1R",
+  "createdOn": 1584538213000,
+  "circularId": 27407,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 200313B\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 27379;\nIPN triangulation: Svinkin et al., GCN Circ. 27386)\ntriggered Konus-Wind at T0=39435.021 s UT (10:57:15.021).\n\nThe burst light curve shows a single pulse\nwhich starts at ~T0-0.5 s and has a total duration of ~1.4 s.\nThe emission is seen up to ~1 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 6.83(-2.07,+3.49)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.016 s,\nof 1.90(-1.18,+1.53)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+0.256 s)\nis best fit in the 20 keV - 1 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.71(-0.91,+1.65)\nand Ep = 145(-55,+252) keV (chi2 = 31/26 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -1.8\n(chi2 = 31/25 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200313_T39435/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

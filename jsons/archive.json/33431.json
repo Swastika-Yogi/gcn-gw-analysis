@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230307A: Swift/BAT upper limits on the early afterglow",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33431....1T",
+  "createdOn": 1678326562000,
+  "circularId": 33431,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Aaron Tohuvavohu (U Toronto), Jimmy DeLaunay (U Alabama), Samuele Ronchini\n(Penn State), Tyler Parsotan (GSFC/UMBC), Chris Matzner (U Toronto) report:\n\nThe extremely bright GRB 230307A (GCN 33425) was detected in prompt\nemission by Swift/BAT outside the coded field of view, as reported\npreviously.\n\nSoon after, a pre-planned observation serendipitously landed the GRB\nposition near the center of the BAT field of view, with settled\nobservations beginning at T0+910s. Using the BAT survey mode data, 300s\nduration 80-channel Detector Plane Histograms, we search for any detection\nof continued emission or bright afterglow from the burst between 910 to\n1210 seconds after the burst.\n\nNo emission is detected at the IPN position of the GRB, with a 5 sigma\nupper limit of 0.00656 mask-weighted counts/s (15-50 keV).\nAssuming an afterglow spectrum that can be described as a power law with\nphoton index of 2.08 (as found for the BAT afterglow detection in GRB\n221009A, Williams et al. 2023), this corresponds to an upper limit of\n2.389e-9 erg/cm^2/s (15-50 keV).\n\nThis constrains GRB 230307A's early afterglow (at T0+1 ks) to be at least\n~1.5 orders of magnitude fainter than that of GRB 221009A at comparable\ntimes."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100906A: TLS Monitoring",
+  "eventId": "GRB 100906A",
+  "bibcode": "2010GCN.11247....1K",
+  "createdOn": 1283837626000,
+  "circularId": 11247,
+  "submitter": "Alexander Kann at TLS Tautenburg  <kann@tls-tautenburg.de>",
+  "email": "kann@tls-tautenburg.de",
+  "body": "D. A. Kann, A. Nicuesa Guelbenzu, F. Ludwig and B. Stecklum (TLS\nTautenburg) report:\n\nFurther to Kann et al. (GCN 11238), we continued monitoring the afterglow\nof GRB 100906A (Markwardt et al., GCN 11227) with the 1.34m TLS Schmidt\ntelescope under excellent conditions in intermittent intervals all night.\nBeyond the 15 detections reported in Kann et al. (GCN 11238), we obtained\nfurther nine Rc images (300 sec each) spread over the night, as well as\none further Ic (300 sec) and one further Z (600 sec) image at the end of\nthe night, during morning twilight. The afterglow is clearly detected in\nall our images.\n\nDue to crowding, we use SExtractor under GAIA to subtract background mesh\nmaps, then perform aperature photometry without needing to measure the\nsurrounding sky background (which is around 0). Errors are estimates based\non how clear the detection is, the last Rc frame was taken in strong\ntwilight already. We assume R2 = 15.9 for the USNOB1.0 star at RA =\n01:54:55.247, Dec. = +55:38:31.40, and measure:\n\nMidtime\t\tRc\tdRc\n0.247478\t18.97\t0.05\n0.251517\t19.06\t0.05\n0.255556\t19.04\t0.05\n0.390570\t19.08\t0.05\n0.430154\t19.27\t0.05\n0.451022\t19.18\t0.05\n0.498974\t19.64\t0.05\n0.521231\t19.62\t0.05\n0.525421\t19.67\t0.05\n0.554113\t19.80\t0.05\n0.570108\t19.97\t0.15\n\nThe afterglow seems to transition from a plateau phase (0.25 - 0.4 days)\nto a much steeper decay.\n\nFurther observations are improbable due to upcoming inclement weather.\n\nThis message may be cited."
+}

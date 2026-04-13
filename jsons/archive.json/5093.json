@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060502B: improvement in the XRT afterglow position",
+  "eventId": "GRB 060502B",
+  "bibcode": "2006GCN..5093....1T",
+  "createdOn": 1147162570000,
+  "circularId": 5093,
+  "submitter": "Eleonora Troja at INAF-IASFPA  <nora@ifc.inaf.it>",
+  "email": "nora@ifc.inaf.it",
+  "body": "E. Troja (INAF-IASFPA), D. N. Burrows (PSU), and N. Gehrels (NASA/GSFC) \nreport on behalf of the Swift XRT Team:\n\n\nWe have improved the astrometry of the Swift XRT observation of the\nshort hard burst GRB 060502B (Troja et al. 2006, GCN Circs. 5055, 5059,\nand 5063) using 28 serendipitous X-ray sources detected in the field\nduring our 30 ks observation.  \nWe find 13 possible associations in the 2MASS or USNO 1.0B catalogs.\nFour of these could be random matches, based on simulations with \n28 sources placed randomly within the XRT field of view.  From the 13 \npossible associations, we selected 7 guide sources with offsets <~ 3 \narcsec from the X-ray sources, and used them to derive an astrometry\ncorrection using the ccorr command in XIMAGE.  We obtained shifts in the\ncoordinates of DeltaRA=1.3 arcsec, DeltaDec=-0.6 arcsec.  \n\nThe final best position of the X-ray afterglow is:\n\nRA(J2000) =   18h 35m 45.74s\nDec(J2000) = +52d 37' 52.47''\n\nThe uncertainty in the afterglow position on the detector is 2.0 arcsec.\nThe RMS scatter in the offsets between the corrected X-ray source\npositions and the optical counterparts is 1.9 arcsec, giving us a 90%\nconfidence error radius of 4.4 arcsec.  \nThis position is 1.0 arcsec from the previously reported XRT refined\nposition (GCN 5063) and 3.1 arcsec from the candidate galaxy G1 (Price\net al. 2006, GCN 5071)."
+}

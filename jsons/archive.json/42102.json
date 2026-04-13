@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251001B: NIR observations with WINTER",
+  "eventId": "GRB 251001B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42102....1M",
+  "createdOn": 1759537720081,
+  "submitter": "Geoffrey Mo at Caltech / Carnegie Observatories <gmo@mit.edu>",
+  "circularId": 42102,
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (Caltech/Carnegie), Tomas Ahumada (Caltech), Viraj Karambelkar (Columbia/CCA), Benjamin Schneider (LAM), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 251001B (Fermi GBM Team, GCN 42038; Beardmore et al., GCN 42039; Beardmore et al., GCN 42045; Neights et al., GCN 42047; Dichiara et al., GCN 42052; Krimm et al., GCN 42058) in the near-infrared J band with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations began at 2025-10-02T06:59:33 UTC in the J band (~16.7 hours after the GRB trigger), consisting of 15 x 120 s exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar\n (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe do not detect a source at the optical counterpart location (Gompertz et al., GCN 42040; Liu et al., GCN42041; Strausbaugh et al., GCN 42043; O’Neill et al., GCN 42046; Lipunov et al., GCN 42048; De Ugarte Postigo et al., GCN 42050; Ma et al., GCN 42051; Sanchez-Ramirez et al., GCN 42053; Schneider et al., GCN 42054; Breeveld et al., GCN 42055; Pankov et al., GCN 42083; Becerra et al., GCN 42097). We obtain the following 5-sigma upper limit: J ~ 19.3 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

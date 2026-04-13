@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211204C: Fermi GBM detection",
+  "eventId": "GRB 211204C",
+  "bibcode": "2021GCN.31186....1H",
+  "createdOn": 1638970184000,
+  "circularId": 31186,
+  "submitter": "Boyan A. Hristov at UAH  <bah0046@uah.edu>",
+  "email": "bah0046@uah.edu",
+  "body": "Boyan A. Hristov (UAH) reports on behalf of the Fermi GBM Team:\n\nAt 21:37:00.55 UT on 04 December 2021, the Fermi Gamma-Ray Burst\nMonitor (GBM) triggered and located GRB 211204C (trigger 660346625\n/ 211204901), which was also detected by GECAM-B (Zhang et al. 2021,\nGCN 31173), INTEGRAL SPI_ACS (trigger num. 9552), Swift/BAT-GUANO\n(Tohuvavohu et al., GCN 31174), AstroSat CZTI detection (Waratkar et\nal., GCN 31178) and was triangulated by IPN (Ridnaia et al., GCN\n31177).\n\nThe GECAM localization and the IPN triangulation are consistent with\nthe GBM localization (GCN 31171).\n\nThe GBM light curve consists of a single spike with a duration (T90)\nof about 17.41 s +/- 2.00 s (50-300 keV).  The time-averaged spectrum\nfrom T0+0.003 s to T0+19.456 s is adequately fit by a Band function\nwith Epeak = 287.90 +/- 34.30 keV, alpha = -0.71 +/- 0.09, and beta =\n-2.37 +/- 0.19.\n\nThe event fluence (10-1000 keV) in this time interval is (2.827 +/-\n0.105)E-05 erg/cm^2. The 1.024-sec peak photon flux measured starting\nfrom T0+7.040 s in the 10-1000 keV band is 19.9063 +/- 1.1 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official\nFermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/"
+}

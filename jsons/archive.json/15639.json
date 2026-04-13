@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 131229A",
+  "eventId": "GRB 131229A",
+  "bibcode": "2013GCN.15639....1G",
+  "createdOn": 1388500375000,
+  "circularId": 15639,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik, M. \nUlanov, D. Svinkin, A. Tsvetkova, and T. Cline on behalf of the \nKonus-Wind team, report:\n\nThe long-duration GRB 131229A (Swift-BAT trigger 582374: Page et al., \nGCN 15627) triggered Konus-Wind at T0=23970.560 s UT (06:39:30.560).\n\nThe burst light curve shows a multi-peaked structure with a total \nduration of ~17 s. The emission is seen up to ~1.5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB131229_T23970/\n\nAs observed by Konus-Wind, the burst had a\nfluence of 2.45(-0.17,+0.18)x10-5 erg/cm2, and a 64-ms peak flux, \nmeasured from T0+10.976 s, of 1.07(-0.15,+0.15)x10-5 erg/cm2/s (both in \nthe 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum (measured from T0 to T0+13.056 s) is best fit \nin the 20 keV - 1.5 MeV range by a power law with exponential cutoff \nmodel: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nalpha = -0.65(-0.10,+0.11), and\nEp = 352(-28,+34) keV (chi2 = 51.9/60 dof).\n\nThe spectrum near the maximum count rate (measured from T0+8.448 to \nT0+13.056 s) is best fit in the 20 keV - 1.5 MeV range by a power law \nwith exponential cutoff model: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep), \nalpha = -0.43(-0.10,+0.11), and\nEp = 366(-24,+28) keV (chi2 = 58.6/60 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

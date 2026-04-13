@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240727A: Swift/UVOT detection",
+  "eventId": "GRB 240727A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.36968....1K",
+  "createdOn": 1722197368741,
+  "circularId": 36968,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "body": "N. P. M. Kuin (UCL-MSSL) and T.M. Partosan (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240727A\n126 s after the BAT trigger (Partosan et al., GCN Circ. 36938).\nAn optical afterglow consistent with the XRT position in GCN Circ\n36956 (Gropp et al.) is detected in the initial UVOT exposures.\n\nThe initial UVOT position found is RA=236.4375000 Dec=8.6202807\n  RA(J2000) = 15h 45m 45.0s\n  Dec(J2000) = 08d 37' 12.9\"\nwith uncertainty =  +/- 0.5\" (90% confidence)\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           126          276          147         18.29 +/- 0.06\nu_FC               285          535          246         17.92 +/- 0.08\nb                  541          561           20         >19.0\nwhite              565          585           20         18.60 +/- 0.17\nb                  714          734           20         18.9  +/- 0.3\nu                  689          709           20         18.5  +/- 0.4\nv                  615          635           20         >18.0\nw1                 664          684           20         >17.8\nm2                4622         4823          197         >18.7\nw2                 590          610           20         >17.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.037 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

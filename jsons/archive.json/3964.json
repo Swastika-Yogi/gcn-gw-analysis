@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050911: Swift-BAT refined analysis",
+  "eventId": "GRB 050911",
+  "bibcode": "2005GCN..3964....1T",
+  "createdOn": 1126466651000,
+  "circularId": 3964,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), L. Barbier (GSFC), S. Barthelmy (GSFC), \nM. Chester (PSU), J. Cummings (GSFC/NRC), E. Fenimore (LANL), \nN. Gehrels (GSFC), D. Hullinger (UMD), H. Krimm (GSFC/USRA), \nC. Markwardt (GSFC/UMD), F. Marshall (GSFC), D. Palmer (LANL), \nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), G. Sato (ISAS), \non behalf of the Swift-BAT team:\n\nUsing the data set from T-60 to T+120 sec from the recent telemetry\ndownlink, we report further analysis of Swift-BAT GRB 050911\n(trigger #154630)  (Page, et al., GCN 3961).  The refined BAT ground \nposition is (RA,Dec) = 13.718, -38.862 { 0h 54m 52.4s, -38d 51' 42.8\"} \n[deg; J2000] +-2.8 arcmin, (radius, sys+stat, 90% containment).  \nThe partial coding was 43 %.  \n\nThe mask-weighted BAT light curves show at least three peaks.  \nThe first two peaks are at T-1 and T+0 sec, each with a duration of \n0.5 sec. The third peak is a slow rise and decay from T+10 to T+20 sec.   \nThe third peak is not appreciably softer than the first two, \nas suggested by Berger (GCN Circ 3962).  Thus the burst is very likely \nin the long GRB category.  T90 (15-350 keV) is (16 +- 2) sec.  \n(estimated error including systematics).  \n\nThe power law index of the time-averaged spectrum is 1.87 +- 0.03.  \nThe fluence in the 15-150 keV band is (3.0 +- 0.6) x 10^-7 erg/cm2.  \nThe 1-sec peak photon flux measured from T0-0.1 sec in the 15-150 keV \nband is (1.3 +- 0.2) ph/cm2/sec.  All the quoted errors are at the 90% \nconfidence level."
+}

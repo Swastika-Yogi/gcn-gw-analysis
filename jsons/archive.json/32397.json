@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/BAT Trigger 1116172 (=GRB 220714A) is not a real astrophysical event",
+  "eventId": "GRB 220714A",
+  "bibcode": "2022GCN.32397....1L",
+  "createdOn": 1657829789000,
+  "circularId": 32397,
+  "submitter": "Sibasish Laha at GSFC  <sibasish.laha@nasa.gov>",
+  "email": "sibasish.laha@nasa.gov",
+  "body": "S. Laha (GSFC/UMBC),  K. L. Page (U Leicester), D. M. Palmer (LANL),\nT. M. Parsotan (GSFC/UMBC/CRESSTII),\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAfter analysis of the full dataset, we have determined that trigger=1116172 (reported as possible GRB 220714A in GCN#32391)\nis not an astrophysical event.  Instead, a known race condition in the onboard software caused the currently-active source Cen X-3 to be misidentified."
+}

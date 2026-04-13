@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090630: Fermi GBM detection",
+  "eventId": "GRB 090630",
+  "bibcode": "2009GCN..9598....1R",
+  "createdOn": 1246374680000,
+  "circularId": 9598,
+  "submitter": "Arne Rau at MPE  <arau@mpe.mpg.de>",
+  "email": "arau@mpe.mpg.de",
+  "body": "Arne Rau (MPE) reports on behalf of the Fermi GBM Team:\n\n\"At 07:27:21.17 UT on 30 June 2009, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 090630 (trigger 268039643 / 090630311).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 146.6, DEC = -46.6 (J2000 degrees,\nequivalent to 09 h 24 m, -46 d 36 '), with an uncertainty\nof 5.8 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\n \nThe angle from the Fermi LAT boresight is 75 degrees.\n\nThis burst was also detected (although not triggered) by INTEGRAL SPI-ACS.\n\nThe GBM light curve consists of a single peak\nwith a duration (T90) of about 5.1 s (8-1000 keV).\nThe time-averaged spectrum from T0-1.024 s to T0+4.096 s is\nbest fit by a power law function with an exponential\nhigh energy cutoff.  The power law index is -1.5 +/- 0.1 and\nthe cutoff energy, parameterized as Epeak, is 79 +/- 13 keV\n(chi squared 537 for 475 d.o.f.).\n\nThe event fluence (8-1000 keV) in this time interval is\n(5.1 +/- 0.7)E-07 erg/cm^2. The 2.048-sec peak photon flux measured\nstarting from T0+0.003 s in the 8-1000 keV band\nis 2.78 +/- 0.05 ph/s/cm^2.\n\nA Band function fits the spectrum equally well (chi squared 535 for 474 \nd.o.f.)\nwith Epeak= 71 +/- 24 keV, alpha = -1.5 +/- 0.2 and beta = -2.3 +/- 0.4.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200324A:MITSuME Akeno optical upper limits",
+  "eventId": "GRB 200324A",
+  "bibcode": "2020GCN.27429....1H",
+  "createdOn": 1585071942000,
+  "circularId": 27429,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa,R. Adachi, K. L. Murata, M. Oeda, K. Shiraishi, K. Iida,\nM. Niwano, F. Ogawa, S. Toma, N. Nakamura, Y. Yatsu, and N.\nKawai(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe searched for the optical counterpart of GRB 200324A (S. Dichiara et\nal., GCN Circular #27428) with the optical three color (g', Rc, and\nIc) CCD cameras attached to the MITSuME 50 cm telescope of Akeno\nObservatory, Yamanashi, Japan.\nThe observation started on 16:42:46 UT. We did not find any new point\nsources within the Swift XRT circle (S. Dichiara et al., GCN Circular\n#27428) in all three bands.\nWe obtained the 5-sigma limits as follows.\nT0+[sec] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n219 16:46:39 420 g'>18.9,Rc>18.6,Ic>17.6\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used UCAC4 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. ,in prep;\nhttps://github.com/MNiwano/Eclair)"
+}

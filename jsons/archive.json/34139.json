@@ -1,0 +1,9 @@
+{
+  "subject": "Konus-Wind detection of GRB 220623A",
+  "eventId": "GRB 220623A",
+  "bibcode": "2023GCN.34139....1S",
+  "createdOn": 1688414042609,
+  "circularId": 34139,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nY. Temiraev, A. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 220623A\n(MAXI-GSC detection: Hagiwara et al., GCN 34068)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data\nin the 20-1500 keV band reveals a multi-peaked structure\nwhich starts at ~T0 and ends at ~T0+580 s,\nwhere T0 = T0(MAXI) = 07:23:37 UT.\n\nThe KW light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230623A/\n\nModelling a time-integrated spectrum of the burst\nby a power law (PL) model dN/dE ~ E^alpha\nyields alpha = -2.18(-0.04,+0.05).\n\nThe spectrum near the peak count rate,\nmeasured from T0+43.303 s to T0+75.687 s,\ncan be described by a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.58(-0.13, +0.15) and Ep = 243(-57,+141) keV.\n\nThe total burst fluence is 5.77(-0.34,+0.52)x10^-5 erg/cm^2,\nand the 2.944 s peak energy flux is 6.08(-0.97,+1.40)x10^-7 erg/cm^2.\n(both in the 20 keV - 10 MeV energy range).\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n\n"
+}

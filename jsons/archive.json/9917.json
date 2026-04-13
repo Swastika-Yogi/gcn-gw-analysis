@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090702: Skynet/GORT Observations",
+  "eventId": "GRB 090702",
+  "bibcode": "2009GCN..9917....1H",
+  "createdOn": 1253131725000,
+  "circularId": 9917,
+  "submitter": "Josh Haislip at U.North Carolina  <haislip@physics.unc.edu>",
+  "email": "haislip@physics.unc.edu",
+  "body": "J. Haislip, D. Reichart, L. Cominsky, K. McLin, T. Graves, G. Spear, K. \nIvarsen, M. Schubel, A. LaCluyze, A. Foster, J. Moore, A. Oza, J. Styblova, \nA. Trotter, J. A. Crain, and M. Nysewander report:\n\nSkynet observed the INTEGRAL/IBAS localization of GRB 090702 (Paizis et \nal., GCN 9603) with the 14\" GORT telescope at Hume Observatory in \nCalifornia beginning 18.2 hours after the the trigger in I.\n\nWe do not detect the afterglow (Sbarufatti & Mangano, GCN 9607).  Stacking \nonly images that increase the limiting magnitude yields:\n\nmean                                                 1-sig.   1-sig.\ntime                            3-sig.               sys.     stat.\nsince                           lim.     cal.        cal.     cal.\ntrig.   tel.   exp.      fil.   mag.     stars*      unc.     unc.\n(h)            (# x s)                               (mag)    (mag)\n\n18.2    GORT   2 x 80    I      17.7     32 SDSS 7   0.051    0.007\n\n* Transformed using Jester et al., 2005, ApJ, 130, 873."
+}

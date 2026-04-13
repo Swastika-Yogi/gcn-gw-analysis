@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150301B:  Swift/UVOT Observations",
+  "eventId": "GRB 150301B",
+  "bibcode": "2015GCN.17531....1C",
+  "createdOn": 1425306525000,
+  "circularId": 17531,
+  "submitter": "Margaret Chester at PSU  <chester@swift.psu.edu>",
+  "email": "chester@swift.psu.edu",
+  "body": "M. M. Chester (PSU) and A. Y. Lien (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150301B\n86 s after the BAT trigger (Lien et al., GCN Circ. 17515).  A fading \nsource consistent with the XRT position (Evans et al. GCN Circ. 17520) \nand the optical transient reported by Buckley et al. (GCN Circ. 17518)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  05:56:39.89 =  89.16622 (deg.)\n   Dec (J2000) = -57:58:10.4  = -57.96955 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits for the White finding \nchart and subsequent exposures using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early \nexposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC            86          236          147         16.2 +/- 0.1\nwhite             3986         4121          133        >20.2\nv                 5833         6033          197        >19.7\nb                 3782         3982          197        >19.6\nu                  298          543          241         17.1 +/- 0.1\nw1                6243        10068          579        >19.9\nm2                6038         6237          197        >19.8\nw2                5628        16054          963        >21.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.08 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Additional DECam GW-MMADS Candidates from three nights of observations",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36351....1H",
+  "createdOn": 1714446279743,
+  "submitter": "Igor Andreoni at JSI/UMD/NASA <igor.andreoni@gmail.com>",
+  "circularId": 36351,
+  "body": "Lei Hu (CMU), Tomás Cabrera (CMU), Antonella Palmese (CMU), Igor Andreoni (UMD), Brendan O'Connor (CMU), Keerthi Kunnumkai (CMU) report on behalf of the GW-MMADS team:\n\n\nWe report additional candidates from the DECam GW-MMADS survey program (GCN 36245, GCN 36273, GCN 36298, GCN 36317) follow-up of the LIGO/Virgo/KAGRA event S240422ed (GCN 36236, GCN 36240).\n\nWe ran the SFFT difference imaging (Hu et al. 2022) on the available images from the first three nights of observations (between 2023-04-22 23:37 and 2024-04-25 02:50 UTC), filtered out likely stars and moving objects, and visually inspected the remaining transients.\n\nWe reported on TNS new transients within the LVK 95% CI area, and report here the additional candidate counterparts with at least two detections and possibly associated with a galaxy. \n\n+-------------------------+------------+------------+-----------+-----------+\n| id                      | tns        |       ra   |      dec  | comment   |\n|-------------------------+------------+------------+-----------+-----------|\n| T202404240826256m240205 | AT 2024hiw | 126.60656  | -24.03458 | [1]       | \n| T202404240824462m330712 | AT 2024hiu | 126.19269  | -33.12002 | [2]       |\n+-------------------------+------------+------------+-----------+-----------+\n\n[1] ~2.3 arcsec from a galaxy\n[2] ~3.8 arcsec from a galaxy  (possibly from a star on top of a galaxy based on Gaia DR3 and visual inspection)\n\n\nWe thank the CTIO and NOIRLab staff for supporting these observations and the data calibrations."
+}

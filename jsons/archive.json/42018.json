@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250924A: SVOM/GRM observation",
+  "eventId": "GRB 250924A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42018....1S",
+  "createdOn": 1759054797864,
+  "submitter": "tanwj@ihep.ac.cn",
+  "circularId": 42018,
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Wen-Jun Tan, Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Jean-Luc Atteia (IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered by GRB 250924A during the routine ground search at 2025-09-24T08:18:46.500 (T0), which is also detected by Swift (Swift team, GCN #41959, GCN #41973，GCN #41974 and GCN #41987) and AstroSat CZTI (M. Tembhurnikar, et al. GCN #41979)\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of two main pulses with a T90 of 20.11 +/-7.67 in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250924A.png\n\nIn addition, the position of this burst, as determined by Swift/XRT (RA = 51.87237, Dec = 74.65846, GCN #41973), is located at about 96 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view.\n\nWith this localization given by Swift/XRT, the time-averaged spectrum from T0-20 to T0+2 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.52 +0.20/-0.46 and the cutoff energy, parameterized as Epeak, is 265 +165/-101 keV. The event fluence (10-1000 keV) in this time interval is (3.18 +0.47/-0.40)E-06 erg/cm^2. \n\nThe localization of GRB 250922A in the 'Amati' relation diagram is shown at:\nhttps://www.bursthub.cn//admin/static/svgrb250924A_amati.png\n\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM point of contact for this burst is: Wen-Jun Tan (IHEP)(tanwj@ihep.ac.cn)\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of a burst from SGR 1935+2154 on 2022 November 9",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2022GCN.32938....1R",
+  "createdOn": 1668433249000,
+  "circularId": 32938,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A.Ridnaia, D. Frederiks, A.Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe bright burst from SGR 1935+2154\n(Fermi-GBM detection: Wood, GCN Circ. 32922)\ntriggered Konus-Wind at T0=57968.083 s UT (16:06:08.083)\non 2022 November 9.\n\nThe burst light curve shows a bright pulse\nwhich starts at ~T0-0.246 s and has a duration of ~0.4 s.\nThe main pulse is followed, after a short period of\nquiescence, by multiple weaker pulses in the interval\nfrom ~T0+0.6 s to ~T0+1.3 s.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/SGRs/221109_T57968/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.37(-0.11,+0.11)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.064 s,\nof 1.35(-0.14,+0.14)x10^-5 erg/cm2/s\n(both in the 20 - 500 keV energy range).\n\nThe spectrum of the burst\n(measured from T0 to T0+0.192 s)\nis best fit in the 20 - 500 keV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.02(-0.82,+0.92)\nand Ep = 28(-6,+4) keV (chi2 = 29/17 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

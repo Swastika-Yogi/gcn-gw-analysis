@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of a bright burst from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2015GCN.17703....1G",
+  "createdOn": 1429023738000,
+  "circularId": 17703,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nA bright, short-duration, soft burst which is likely originated from\nSGR 1935+2154 (IPN triangulation: Golenetskii et al., GCN 17699)\ntriggered Konus-Wind at T0=41064.683 s UT (11:24:24.683).\n\nThe light curve shows a single pulse with a sharp(<10 ms) rise\nand a total duration of ~1.7 s.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/SGRs/150412_T41064/\n\nAs observed by Konus-Wind, the burst had a fluence\nof 2.60(-0.03,+0.03)x10^-5 erg/cm2, and a 16-ms peak flux,\nmeasured from T0+0.800 s, of 2.3(-0.1,+0.1)x10^-5 erg/cm2/s\n(both in the 20 - 200 keV energy range).\n\nThe time-averaged spectrum (measured from T0 to T0+9.472 s)\nis best fit in the 20 - 250 keV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = +0.21(-0.13,+0.13),\nand Ep = 36.5(-0.6,+0.6) keV\n(chi2 = 28.6/31 dof).\nA double blackbody fit to this spectrum yields\nthe lower temperature kT1 = 6.4 (-0.7,+0.7) keV and\nthe higher temperature kT2 = 12.3 (-0.6,+0.7) keV\n(chi2=36.3/30 dof).\n\nThe rather long duration of the burst along with the\nlarge measured energy fluence put the burst in the class\nof \"intermediate\" SGR bursts.\nThe measured spectral parameters are in typical range for\nbright short and intermediate SGR bursts;\nalso, they resemble the fits reported by Swift/BAT\nand Fermi/GBM for much weaker and shorter bursts detected\nduring the recent SGR 1935+2154 activity in February, 2015\n(Lien et al., GCN 17490; Burns & Younes, GCN 17496).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

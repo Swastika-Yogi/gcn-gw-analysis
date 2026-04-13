@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of short GRB 160726A",
+  "eventId": "GRB 160726A",
+  "bibcode": "2016GCN.19733....1F",
+  "createdOn": 1469542461000,
+  "circularId": 19733,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 160726A (Swift/BAT detection: Starling et al., GCN 19731;\nFermi GBM observation: Hamburg et al., GCN 19732)\ntriggered Konus-Wind at T0=5645.315 s UT (01:34:05.315).\n\nThe light curve shows a short pulse with a total duration is ~0.2 s.\nThe emission is seen up to ~2 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(1.5 �� 0.5)x10^-6 erg/cm2 and a 16-ms peak energy flux,\nmeasured from T0+0.016, of (1.1 �� 0.3)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst (measured from T0 to T0+0.128 s)\nis best fit in the 20 keV - 2 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -0.65(-0.47,+0.71),\nand the peak energy Ep = 424(-163,+389) keV,\nchi2 = 19.5/20 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep with only an upper limit on beta of -1.8,\nchi2 = 19.5/19 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB160726_T05645/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

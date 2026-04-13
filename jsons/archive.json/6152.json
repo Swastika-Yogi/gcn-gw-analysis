@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070224: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070224",
+  "bibcode": "2007GCN..6152....1H",
+  "createdOn": 1172521511000,
+  "circularId": 6152,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA), F. E. Marshall (NASA/GSFC),\nM. M. Chester (PSU) and J. L. Racusin (PSU) report on the behalf of\nthe Swift/UVOT team:\n\n\n       The Swift/UVOT observed the field of GRB 070224 starting 132 s\nafter the BAT trigger (Racusin et al. 2007, GCN Circ. 6137).  We do\nnot find any source, in any of the UVOT observations, inside the\nastrometrically corrected XRT error circle (Racusin et al., 2007 GCN\nCirc. 6151).\n\n       The 3-sigma upper limits for detecting a source anywhere inside\nthe XRT error circle in the finding chart images, and the co-added\nexposures are:\n\n\nFilter     T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nWhite Finding  156      254      96       20.4\nV Finding      259      659     393       20.1\n\n    V           259     1367     806       20.5\n    B           737      747      10       18.6\n    U           713      733      19       18.7\n  UVW1          689     5512     132       20.0\n  UVM2          665      833      39       18.3\n  UVW2          766      785      19       18.2\n  White         154      962     206       20.9\n\n    V        35,712  126,303    1553       20.9\n    B          7159  128,636    1987       22.0\n    U          6954   93,932    1952       21.7\n  UVW1         6750  145,987    4321       22.2\n  UVM2       12,574  143,883    4621       22.4\n  UVW2       29,833  122,852    4358       22.6\n-------------------------------------------------------------\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.06 mag towards\nthe direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101224A: Swift-XRT refined Analysis",
+  "eventId": "GRB 101224A",
+  "bibcode": "2010GCN.11488....1P",
+  "createdOn": 1293209167000,
+  "circularId": 11488,
+  "submitter": "Claudio Pagani at U of Leicester  <cp232@star.le.ac.uk>",
+  "email": "cp232@star.le.ac.uk",
+  "body": "C. Pagani (U. Leicester) and H. A. Krimm (CRESST/GSFC/USRA) reports on\nbehalf of the Swift-XRT team:\n\nWe have analysed 7.6 ks of XRT data for GRB 101224A (Krimm  et al. GCN\nCirc. 11484), from 86 s to 24.5 ks after the  BAT trigger. The data are\nentirely in Photon Counting (PC) mode. Using 1245 s of PC mode data and\n1 UVOT images, we find an enhanced XRT position (using the XRT-UVOT\nalignment and matching UVOT field sources to the USNO-B1 catalogue):\nRA, Dec = 285.92460, +45.71350 which is equivalent to:\n\nRA (J2000): 19h 03m 41.91s\nDec(J2000): +45d 42' 48.5\"\n\nwith an uncertainty of 3.2 arcsec (radius, 90% confidence).\n\nThe afterglow is detected during the first orbit with 12 background\nsubtracted source counts in 1.3 ks of PC data, at a count rate of 1.0 x\n10^-2 counts s^-1, while it's not detected in the following orbits (1\nbackground subtracted source count in 6.3 ks of PC data), for a 3 sigma\nupper limit of 1.4 x 10^-3 counts s^-1 \n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 3.1 (+/-1.4). The\nbest-fitting absorption column is  1.1 (+3.5, -0.6) x 10^21 cm^-2,\nconsistent with the Galactic value of 4.4 x 10^20 cm^-2 (Kalberla et\nal. 2005). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 2.9 x 10^-11 (5.1 x\n10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.1 (+3.5, -0.6) x 10^21 cm^-2\nGalactic foreground: 4.4 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     3.1 (+/-1.4)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00440955.\n\nThis circular is an official product of the Swift-XRT team."
+}

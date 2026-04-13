@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 150131 is not a GRB",
+  "bibcode": "2005GCN..3786....1B",
+  "createdOn": 1123916417000,
+  "circularId": 3786,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), L. Barbier (GSFC), C. Markwardt (GSFC-UMD),\nD. Palmer (LANL)\non behalf of the Swift-BAT team:\n\nThe Swift-BAT trigger (trigger=150131) at 04:40:48 UT on 13 Aug 2005\nis not due to a GRB.  This was a long image trigger (16 min)\nwhich had a s/c slew during the position calculation phase of the\non-board processing, and therefore used incorrect aspect information.\n\nThe initial series of GCN Notices were not distributed to the GCN client\nlist, because this incorrect aspect solution was recognized\nby the GCN filtering code.  However, the s/c executed a delayed slew\nto this position.  As as part of the slew process, the s/c issued\na SC_SLEW Notice which was not blocked by the GCN filtering code,\nbecause the neccessary solution status information is not available\nfor delayed slews.  There were also the usual set of XRT and UVOT notices.\nHence the need for this retraction circular.\n\nThis retraction is for trigger 150131.  It should not be confused\nwith trigger 150139 which happened a few minutes ago."
+}

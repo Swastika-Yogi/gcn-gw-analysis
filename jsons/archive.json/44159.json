@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 260330B",
+  "eventId": "GRB 260330B",
+  "submittedHow": "web",
+  "createdOn": 1774900093025,
+  "submitter": "atrigg2@lsu.edu",
+  "circularId": 44159,
+  "format": "text/plain",
+  "body": "A.C. Trigg (NPP ORAU, NASA MSFC) reports on behalf of the Fermi-GBM Team:\n\nSVOM/ECLAIRs detected GRB 260330B on 2026-03-30 at 14:19:57 UTC (GCN 44157). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates.\n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, identified a transient approximately 16 s after the ECLAIRs best image SNR time of 2026-03-30T14:19:31. The Targeted Search candidate was found most significantly on the 32 s timescale using the \"soft\" spectral template (i.e., Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7) and has a false alarm rate of 1.0-04 Hz. The Fermi-MET of this transient is 796573176.806 s. The Targeted Search localization is spatially consistent with the ECLAIRs location.\n \n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

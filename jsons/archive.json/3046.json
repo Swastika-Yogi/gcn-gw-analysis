@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050219b: No Swift UVOT Detection of Afterglow Emission",
+  "eventId": "GRB 050219B",
+  "bibcode": "2005GCN..3046....1I",
+  "createdOn": 1108874745000,
+  "circularId": 3046,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "M. Ivanushkina (PSU), T. Poole (MSSL), C. Gronwall (PSU), A. Blustin \n(MSSL), P. Brown (PSU), S. Rosen, K. McGowan, M. De Pasquale (MSSL), P. \nBoyd (GSFC/UMBC), S. Holland, M. Still (GSFC/USRA), W. Landsman (GSFC), S. \nHunsberger (PSU), A. Breeveld (MSSL), P. Roming (PSU), K. Mason, P. Schady \n(MSSL) P. Broos (PSU), T. Kennedy, P. Smith, B. Hancock (MSSL), S. Koch \n(PSU), M. Carter, H. Huckle (MSSL),  J. Racusin (PSU), E. Fenimore (LANL), \nB. Zhang (UNLV), J. Nousek (PSU), N. Gehrels (GSFC), on behalf of the \nSwift UVOT team.\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began observations of\nGRB050219b on February 19, 2005, at 12:57:51 UT, 52 minutes after the\ninitial Swift BAT trigger (Cummings et al, GCN 3044). The delay in \nobservations was due to the Earth-limb constraint, which prevented an \nimmediate slew.  We detect no source at the Swift XRT position (Burrows et \nal, GCN 3043).  The limiting magnitudes (3-sigma) in each of the UVOT \nfilters are as follows:\n\nFilter\tLim_Mag  Duration   T_start\n  UVW2\t~ 22.04\t  1154\t     T+3120\n  UVM2\t~ 20.95   100\t     T+3243\n  UVW1\t~ 20.65   100\t     T+3349\n  U\t~ 20.92   100\t     T+3455\n  B\t~ 20.85   100\t     T+3561\n  V\t~ 19.38   100\t     T+3136\n\nThe limiting magnitude for the UVW2 filter was calculated from a summation \nof four separate exposures taken at different times between observations \nmade in other filters. This is the cause of the overlap between the \nduration of the UVW2 exposure and the start of some of the other \nexposures.\n\nWe caution that the instrument is not yet fully calibrated and that the\nmagnitude limits presented here may need to be refined."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 161017A: Swift/UVOT Detection",
+  "eventId": "GRB 161017A",
+  "bibcode": "2016GCN.20074....1B",
+  "createdOn": 1476794041000,
+  "circularId": 20074,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and E. Troja (NASA/GSFC/UMCP)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 161017A\n68 s after the BAT trigger (Troja et al., GCN Circ. 20064, Yurkov et \nal., GCN Circ. 20063).\nThe UVOT source described in Troja et al., GCN Circ. 20064, is at a \nposition consistent with the enhanced XRT position (Beardmore et al., \nGCN Circ. 20067) and is found to be fading.\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  09:31:04.60 = 142.76915 (deg.)\n     Dec (J2000) = +43:07:36.3  =  43.12676 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early \nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               68          217          147         14.08 �� 0.02\nv                  609          629           20         15.14 �� 0.09\nb                  535          555           20         15.60 �� 0.06\nu                  280          529          246         14.56 �� 0.02\nuvw1               658          661          2.7         15.5  �� 0.3\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.02 in the direction of the \nburst (Schlegel et al. 1998)."
+}

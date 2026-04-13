@@ -1,0 +1,11 @@
+{
+  "subject": "EP250908b: SVOM/VT optical candidate (Coordinate supplement for GCN 41758)",
+  "eventId": "EP250908b",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41759....1M",
+  "createdOn": 1757390058716,
+  "circularId": 41759,
+  "submitter": "Yinuo Ma <mayn@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. N. Ma, Z. H. Yao, L. P. Xin, Y. L. Qiu, C. Wu, H. L. Li, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM/VT team. \n\nSVOM performed a Target of Opportunity observation of EP250908b detected by EP/WXT (Yin et al., GCN 41752). SVOM/VT began observing the field at 2025-09-08T19:29:58 UTC, 1.061 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nWith X-band data availible, an uncatalogued fading optical candidate (Ma et al., GCN 41758) within the error box of EP/FXT, compared to Legacy survey, was clearly detected in both VT_B and VT_R at R.A., Dec 297.476836, -57.4930538 degrees: \n \nRA (J2000) = 19:49:54.44 \nDec (J2000) = -57:29:34.99 \n \nwith an uncertainty of 0.5 arcsec. \n\nThe magnitudes are:\n\nmid time (h) | exposure time (s) | band | mag (AB) | mag err\n-------------|-------------------|------|----------|--------\n    1.491    |      57*50        | VT_B |  21.13   |  0.06 \n    3.103    |      32*50        | VT_B |  22.5    |  0.2 \n    1.484    |      60*50        | VT_R |  20.66   |  0.06 \n    3.103    |      32*50        | VT_R |  21.4    |  0.1    \n\nOur photometry was not corrected for Galactic extinction.\n\nWe proposed that this is the optical candidate for the trigger. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

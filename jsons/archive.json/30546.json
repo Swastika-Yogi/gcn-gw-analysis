@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 210725B",
+  "eventId": "GRB 210725B",
+  "bibcode": "2021GCN.30546....1F",
+  "createdOn": 1627571440000,
+  "circularId": 30546,
+  "submitter": "Cori Fletcher at USRA  <cfletcher@usra.edu>",
+  "email": "cfletcher@usra.edu",
+  "body": "C. Fletcher (USRA) reports on behalf of the Fermi-GBM Team:\n\nSwift-BAT detected GRB 210725B at 12:00:48 UT (GCN 30508). There was no\nFermi-GBM onboard trigger around the event.\n\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM identified a transient source at this time.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals identified a transient most significantly on the 8.192 s\ntimescale, with a false alarm rate of 2.6e-05 Hz and a location consistent with\nthe Swift-BAT event, using the standard search protocol with a S/N of 9.\nThe GBM targeted search event was found with the highest\nsignificance with a \"normal\" spectrum (Band function with\nEpeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

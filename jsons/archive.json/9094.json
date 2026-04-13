@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB090404",
+  "eventId": "GRB 090404",
+  "bibcode": "2009GCN..9094....1O",
+  "createdOn": 1238936200000,
+  "circularId": 9094,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and H. Ziaeepour report on behalf of the Swift/UVOT \nteam:\n\nThe Swift/UVOT began observing the field of GRB 090404 96 s after the BAT \ntrigger (Ziaeepour et al., GCN Circ. 9086). No optical afterglow is \ndetected in the initial UVOT exposures at the refined position of the \nX-ray afterglow (Beardmore et al., GCN Circ. 9088).\n\nThe 3 sigma upper limits for the finding chart (fc) and summed exposures \nare reported below.\n\nFilter    T_start (s) T_stop  Exposure      Mag/3UL\n---------------------------------------------------\nwhite fc     96         246     147         < 20.92\nwhite\t     591        1189    206         < 20.82\nwhite        5121       18611   1084        < 21.80\n\nu fc\t     310        559     246         < 20.17\nu    \t     715        1140    39          < 18.60\nu            4710       35856 \t3049\t    < 21.56\n\nv \t     641        1239    78          < 18.58\nv            5531       11198 \t1150\t    < 20.37\n\nb   \t     565        1164    58          < 19.35\nb            4915       35968 \t2078\t    < 21.50\n\nuvw1         691        1116    39          < 18.45\nuvw1         4504       45467 \t3237\t    < 21.47\n\nuvm2 \t     665        1091    58          < 18.54\nuvm2         5736       41754 \t2695\t    < 21.42\n\nuvw2 \t     616        1214    78          < 19.09\nuvw2         5326       6965  \t393 \t    < 20.28\n\nThe above magnitudes are not corrected for the Galactic extinction \ncorresponding to a reddening of E_{B-V} = 0.02 mag (Schlegel et al., 1998, \nApJS, 500, 525).  The photometry is on the UVOT flight system described in \nPoole et al. (2008, MNRAS, 383,627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130306A: Swift Detection of a Possible Afterglow",
+  "eventId": "GRB 130306A",
+  "bibcode": "2013GCN.14287....1S",
+  "createdOn": 1363014452000,
+  "circularId": 14287,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "GRB 130306A: Swift Detection of a Possible Afterglow\n\nM. H. Siegel (PSU), David N. Burrows (PSU) and Dirk Grupe (PSU)\nreport on behalf of the Swift team:\n\nOn 8 March 2013 the Swift spacecraft performed a delayed observation of the\nBAT-detected burst GRB 130306A (Siegel et al., GCN 14266), which was also\ndetected by Fermi GBM (Pelassa, GCN 14270) and Konus/Wind (Golenetskii et al.,\nGCN 14275).\n\nWe have analyzed 5.1 ks of XRT data, from 146 to 163 ks after the Swift/BAT\ntrigger.   The data are entirely in photon counting (PC) mode. \nAn X-ray source is detected within the Swift/BAT error circle. The XRT \nposition is RA, Dec = 279.46147, -11.68123 which is equivalent to:\n\nRA (J2000) = 18 37 50.75\nDec(J2000) = -11 40 52.4\n\nwith an uncertainty of 4.0 arcsec (radius, 90% confidence).  We do not detect\nany fading over the time span of the Swift observations.\n\nThe Swift/UVOT began settled observations of the field of GRB 130306A 146 \nks after the Swift/BAT trigger.  No optical afterglow consistent with the XRT position\nis detected in the initial UVOT exposures. Preliminary 3-sigma upper limit using the\nUVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the\ninitial exposures are:\n\nFilter       T_start(s)  T_stop(s)      Exp(s)       Mag\n\nuvw1         145609      162770         4707         >22.2\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.15 in the direction of the \nburst (Schlegel et al. 1998).\n\nFurther observations are planned to determine if the source is fading."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170516A: Swift-BAT refined analysis",
+  "eventId": "GRB 170516A",
+  "bibcode": "2017GCN.21102....1C",
+  "createdOn": 1494983234000,
+  "circularId": 21102,
+  "submitter": "Hans Krimm at NASA-GSFC/NSF  <hans.krimm@nasa.gov>",
+  "email": "hans.krimm@nasa.gov",
+  "body": "J. R. Cummings (CPI), S. D. Barthelmy (GSFC),  H. A. Krimm (NSF/USRA),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (AGU), M. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry \ndownlink,\nwe report further analysis of BAT GRB 170516A (trigger #753110)\n(Lien, et al., GCN Circ. 21097). The BAT ground-calculated position is\nRA, Dec = 41.543, -55.929 deg which is\n    RA(J2000)  =  02h 46m 10.4s\n    Dec(J2000) = -55d 55' 44.2\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 67%.\n\nThe mask-weighted light curve shows two fairly symmetrical triangular \npeaks.  The first\nstarts at T-5 s, peaks at T+2 s and decays by T+10 s.  The second peak \nstarts\nat T+10 s, has a broad peak from T+15 to T+20 and decays by T+28 s.   The\nspacecraft slewed away from the burst position at about T+550 sec.\nT90 (15-350 keV) is 36.78 +- 11.61 sec (estimated error including \nsystematics).\n\nThe time-averaged spectrum from T-19.86 to T+31.22 sec is best fit by a \npower law\nwith an exponential cutoff.  This fit gives a photon index 1.13 +- 0.87,\nand Epeak of 19.1 +- 12.4 keV (chi squared 37.46 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 8.5 +- 0.9 x 10^-7 erg/cm2\nand the 1-sec peak flux measured from T+1.27 sec in the 15-150 keV band is\n1.3 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 2.67 +- 0.17 (chi squared 47.73 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/753110/BA/"
+}

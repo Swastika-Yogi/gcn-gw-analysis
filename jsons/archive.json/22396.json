@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180205A: Swift/UVOT Detection",
+  "eventId": "GRB 180205A",
+  "bibcode": "2018GCN.22396....1E",
+  "createdOn": 1517921912000,
+  "circularId": 22396,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and P. A. Evans (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180205A\n182 s after the BAT trigger (Evans et al., GCN Circ. 22381).\nA fading source consistent with the XRT position\n(Page et al., GCN Circ. 22394),\nalso detected by (Zheng et al. GCN 22382;\nBolmer et al. GCN 22383; Tanvir et al. GCN 22384;\n Volnova et al. GCN 22387; Falcon et al. GCN 22390; Xin et al. 22392;\nZhu et al. GCN 22395)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  08:27:16.74 = 126.81975 (deg.)\n    Dec (J2000) = +11:32:30.9  =  11.54191 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373)\nfor the first finding chart (FC) exposure and the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\nwhite_FC           182          331          147         15.75 +/- 0.02\nwhite              540          732           36         16.33 +/- 0.02\nv                  158          612           52         16.11 +/- 0.09\nb                  515          710           39         16.65 +/- 0.07\nu                  490          686           39         16.82 +/- 0.07\nuvw1               466          661           39         16.04 +/- 0.10\nuvm2               441          636           39         16.32 +/- 0.15\nuvw2               391          585           39         17.06 +/- 0.17\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

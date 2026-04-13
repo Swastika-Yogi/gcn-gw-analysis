@@ -1,0 +1,10 @@
+{
+  "subject": "BAT detection and localization of GRB 160819A",
+  "eventId": "GRB 160819A",
+  "bibcode": "2016GCN.19827....1P",
+  "createdOn": 1471734538000,
+  "circularId": 19827,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC),\nand A. Y. Lien (GSFC/UMBC) report on behalf of the Swift Team:\n\nAt 20:27:30.40 UT on 2016-08-19, the Swift Burst Alert Telescope (BAT)\ndetected GRB 160819A, which was also detected by Fermi/GBM and\nINTEGRAL SPI-ACS (Veres et al., GCN Circ. 19826). BAT was slewing to\na pre-planned target at that time, so it did not trigger on the burst.\n\nHowever, ground analysis using the slew data fromT+27 to T+106 sec\nreveals the GRB location of RA, Dec = 114.139, -22.347 deg, which is\n  RA(J2000)  =  07h 36m 33.3s\n  Dec(J2000) = -22d -20' -50.2\"\nwith an uncertainty of 3.0 arcmin, (radius, sys+stat, 90% containment).\nThis position is 4.76 deg from the one reported by Fermi GBM, which is\nconsistent with the reported GBM error circle (Veres et al., GCN Circ. 19826).\n\nThe mask-weighted light curve shows a double-peaked structure that starts\nbefore the beginning of the available event data, and ends at ~ T+70 s. The\ntwo peaks occur at ~T+47 s and ~T+53 s, respectively.\n\nThe time-averaged spectrum from T+26.6 to T+73.6 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.70 +- 0.05.  The fluence in the 15-150 keV band is (7.76 +/- 0.23) x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+46.70 sec in the 15-150 keV band\nis 12.1 +- 0.6 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/00086022006/BA/"
+}

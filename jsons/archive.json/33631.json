@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230414B: Lulin 40cm-SLT optical limit",
+  "eventId": "GRB 230414B",
+  "bibcode": "2023GCN.33631....1C",
+  "createdOn": 1681572977000,
+  "circularId": 33631,
+  "submitter": "Ting-Wan Chen at MPE  <janet.chen@astro.su.se>",
+  "email": "janet.chen@astro.su.se",
+  "body": "T.-W. Chen (TUM/MPA), S. Yang (HNAS), C.-S. Lin, C.-C. Ngeow, H.-Y. Hsiao, W.-J. Hou, Y.-C. Pan, H.-C. Lin, and J.-K. Guo (IANCU) report:\n\nWe observed the field of GRB 230414B (D'Ai et al. GCN 33612; Evans et al. GCN 33613; Lipunov GCN 33614; Pankov et al. GCN 33615; Lu et al. GCN 33616; Raman et al. GCN 33618; Ghosh et al. GCN 33620; Goad GCN 33621; Moskvitin et al. GCN 33622; Malesani et al. GCN 33623; Zhu et al. GCN 33625; Gupta et al. GCN 33627; Belkin et al. GCN 33628; Agui Fernandez et al. GCN 33629; Quadri & Strabla GCN 33630), using the 40cm-SLT at Lulin Observatory, Taiwan to obtain r-band images as part of the Kinder collaboration (Chen et al., AstroNote 2021-92).\n\nThe first epoch of observations started at 17:01 UT on 14 of April 2023 (MJD = 60048.709), 46 minutes (0.032 days) after the Swift/BAT trigger. The images were combined from 6 frames with a 300-second exposure time for the r band, taken under seeing conditions of an average of 1.85\" and at a median airmass of 1.37. We note that the QE of the current testing camera mounted on the SLT is much shallower than the previous one. After template subtraction using the SDSS image, we do not detect a source at the position of the afterglow down to the following preliminary 2.5-sigma limit (in the AB system):\n\nr > 19.18 mag.\n\nThe given limit is derived based on calibrating against SDSS field stars and is not corrected for the expected Galactic foreground extinction corresponding to a reddening of E_(B-V) = 0.01 mag in the direction of the burst (Schlafly & Finkbeiner 2011)."
+}

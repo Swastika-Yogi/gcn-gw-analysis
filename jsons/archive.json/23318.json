@@ -1,0 +1,10 @@
+{
+  "subject": "IPN Triangulation of GRB 181008B (long)",
+  "eventId": "GRB 181008B",
+  "bibcode": "2018GCN.23318....1S",
+  "createdOn": 1539197065000,
+  "circularId": 23318,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, A. Kozlova,\nand T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, and D. Palmer,\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 181008B was detected by\nFermi (GBM; trigger 560725347), Konus-Wind, Swift (BAT)\nand INTEGRAL (SPI-ACS), at about 75743 s UT (21:02:23).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated this GRB to a Konus-GBM annulus centered at \nRA(2000)=173.995 deg (11h 35m 59s)  Dec(2000)=+4.777 deg (+4d 46' 38\"), \nwhose radius is 70.040 +/- 2.099 deg (3 sigma).\n\nThe annulus combined with the Fermi-GBM final position\n3 sigma error circle gives the following error box:\n---------------------------------\n  RA(2000), deg   Dec(2000), deg\n---------------------------------\n  Center:\n    112.6582      -35.4039\n  Corners:\n    110.7043      -23.9434\n    105.1913      -20.9537\n    119.7336      -50.4173\n    121.7709      -44.6724\n--------------------------------\nThe error box area is 116 sq. deg, and its maximum\ndimension is 31.6 deg (the minimum one is 4.2 deg).\nThe Sun distance was about 62 deg.\n\nThis box may be improved.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180728_T76197/IPN\n\nThis box was submitted for observation by the MASTER-Net robotic\ntelescope network (http://observ.pereplet.ru; Lipunov et al., 2010,\nAdvances in Astronomy, vol. 2010, 30L).\n\nThe time history and spectrum will be given in forthcoming\nGCN Circulars."
+}

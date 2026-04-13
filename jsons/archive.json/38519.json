@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241128A: CrAO ZTSh and Mondy AZT-33IK optical observations",
+  "eventId": "GRB 241128A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38519....1V",
+  "createdOn": 1733824674272,
+  "circularId": 38519,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "A. Volnova (IKI), N. Pankov (HSE, IKI), A. Pozanenko (IKI), V. Rumyantsev (CrAO), E. Klunko (ISTP) report on behalf of IKI-GRB-FuN:\n\nWe continued observations of the GRB 241128A (Brivio et al., GCN 38367; Page, GCN 38368) with 2.6-meter ZTSh telescope of CrAO observatory and 1.5-meter AZT-33IK telescope of Sayan observatory (Mondy). The optical afterglow (Hu et al., GCN 38371; Izzo and Malesani, GCN 38372; Gompertz et al., GCN 38373; Akl  et al., GCN 38382; Pankov et. al, GCN 38383, GCN 38395; Shilling & Brivio, GCN 38422; Midavaine et. al, GCN 38438) is well detected in the stacked images from ZTSh on both epochs of 2024-11-30 and 2024-12-01. Preliminary photometry is given below:\n\nDate       UT start  t-T0         Exp.   Filter OT     Err.  UL(3sigma) Telescope\n                     (mid, days)  (s)\n2024-11-30 17:38:32  2.066296    11*120  R      22.03  0.14  23.1       ZTSh\n2024-12-01 10:31:12  2.793500    46*120  R      n/d    n/d   21.9       AZT-33IK\n2024-12-01 15:19:05  3.000058    48*120  R      23.12  0.11  24.0       ZTSh\n\nThe magnitudes were calibrated against nearby PS1 stars (R magnitudes obtained with Lupton transformations) and not corrected for the Galactic extinction. Using the current photometry and our photometry reported previously (Pankov et. al, GCN, 38383) we found that the light curve is well fitted with a simple power-law model with an index of -2.2."
+}

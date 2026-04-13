@@ -1,0 +1,14 @@
+{
+  "editedOn": 1773839797252,
+  "subject": "GRB 260225D: SVOM/GRM observation",
+  "version": 2,
+  "eventId": "GRB 260225D",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43885....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of zhangjinpeng@ihep.ac.cn",
+  "circularId": 43885,
+  "createdOn": 1772352324912,
+  "submitter": "zhangjinpeng@ihep.ac.cn",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Jin-Peng Zhang, Zheng-Hang Yu, Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Frédéric Daigne (IAP), Olivier GODET (IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered in-flight by GRB 260225D (SVOM trigger reference: sb26022503) at 2026-02-25T19:51:30.000 (T0), which is also detected by Konus-Wind (Trig_Time 19:51:32.84), Glowbug (C.C. Cheung et al., GCN #43856) and GRID.\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of two pulses with a T90 of 2.0 +1.0/-0.6 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb260225D.png\n\nIn addition, the position of this burst, according to Glowbug localization (RA = 94.7, Dec = 13.8, C.C. Cheung et al., GCN #43856), is located at about 93 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view.\nNevertheless, ECLAIRs detected the GRB through the shield above 50 keV. \n\nWith this localization, the time-averaged spectrum from T0-2.0 to T0+4.0 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.12 +0.18/-0.15 and the cutoff energy, parameterized as Epeak, is 700 +480/-250 keV. The event fluence (10-1000 keV) in this time interval is (5.1 +0.5/-0.5)E-06 erg/cm^2.\n\nThe localization of GRB 260225D in the 'Amati' relation diagram is shown at:\nhttps://www.bursthub.cn//admin/static/svgrb260225D_amati.png\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Jin-Peng Zhang (IHEP) (zhangjinpeng@ihep.ac.cn)"
+}

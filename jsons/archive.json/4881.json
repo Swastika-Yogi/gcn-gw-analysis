@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 060313",
+  "eventId": "GRB 060313",
+  "bibcode": "2006GCN..4881....1G",
+  "createdOn": 1142351659000,
+  "circularId": 4881,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe GRB 060313 (Swift-BAT trigger #201487;\nPagani et al., GCN 4867; Markwardt et al., GCN 4873)\ntriggered Konus-Wind at T0=726.354 s UT (00:12:06.354).\n\nThe Konus-Wind light shows several multipeaked\npulses with a total duration of ~0.8 sec.\n\nAs observed by Konus-Wind the burst had\na fluence of 1.42(-0.85, +0.10)x10^-5 erg/cm2 and\npeak flux on 16-ms time scale measured from T-T0=0.560 sec\n7.0(-4.3, +1.0)x10^-5 erg/cm2/sec\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the GRB\nis well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nwith alpha = 0.60(-0.22, +0.19)\nand Ep = 922(-177, +306) keV (chi2 = 62/59 dof).\n\nThe fitting of the spectrum of the GRB initial part\n(accumulated from T-T0=0 to T-T0=0.192 sec in\nthe same energy range)\ngives an unusual photon index alpha:\nalpha = -0.33(-0.29, +0.25)\nEp = 655(-74, +84)\n(chi2 = 51/59 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB060313_T00726/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181002A: Swift-XRT refined Analysis",
+  "eventId": "GRB 181002A",
+  "bibcode": "2018GCN.23301....1G",
+  "createdOn": 1538584607000,
+  "circularId": 23301,
+  "submitter": "Kim Page at U.of Leicester  <klp5@leicester.ac.uk>",
+  "email": "klp5@leicester.ac.uk",
+  "body": "J.D. Gropp (PSU) reports on behalf of the Swift-XRT team:\n\nWe have analysed 935 s of XRT data for GRB 181002A (Gropp et al. GCN\nCirc. 23290), from 142 s to 1.1 ks after the  BAT trigger. The data\ncomprise 95 s in Windowed Timing (WT) mode with the remainder in Photon\nCounting (PC) mode. The enhanced XRT position for this burst was given\nby Beardmore et al. (GCN Circ. 23292).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=4.15 (+0.18, -0.16).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 2.60 (+0.18, -0.17). The\nbest-fitting absorption column is  4.0 (+0.7, -0.6) x 10^21 cm^-2, in\nexcess of the Galactic value of 2.8 x 10^21 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 2.8 x 10^-11 (6.7 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the WT-mode spectrum is thus:\nTotal column:\t     4.0 (+0.7, -0.6) x 10^21 cm^-2\nGalactic foreground: 2.8 x 10^21 cm^-2\nExcess significance: 3.2 sigma\nPhoton index:\t     2.60 (+0.18, -0.17)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00865036.\n\nThis circular is an official product of the Swift-XRT team."
+}

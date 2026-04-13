@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 140226A",
+  "eventId": "GRB 140226A",
+  "bibcode": "2014GCN.15889....1G",
+  "createdOn": 1393575389000,
+  "circularId": 15889,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf\nof the Konus-Wind team, report:\n\nThe long-duration GRB 140226A\n(IPN trangulation: Hurley et al., GCN 15888),\nwhich is a possible counterpart to the optical\ntransient source iPTF14yb (Cenko et al. GCN 15883),\nwas detected by Konus-Wind in the waiting mode\nagainst the high solar particle background.\n\nThe light curve shows a single pulse, which peaked\nat T0=36177 s UT (10:02:57) and had a duration of ~15 s.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(5.6 � 1.1)x10^-6 erg/cm2 and a 2.944-s peak energy flux,\nmeasured from T0 of (8.6 � 1.7)x10^-7 erg/cm2\n(both in the 20 - 10000 keV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0-6.263 s to T0+5.513 s) by a power law\nwith exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.1 � 0.1, and Ep = 414 � 79 keV.\n\nAll the quoted errors are estimated at 1 sigma confidence level.\nAll the presented results are preliminary.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB140226A/"
+}

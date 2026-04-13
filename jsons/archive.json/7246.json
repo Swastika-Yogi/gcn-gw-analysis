@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080129: Swift/UVOT Refined Upper Limits",
+  "eventId": "GRB 080129",
+  "bibcode": "2008GCN..7246....1H",
+  "createdOn": 1201785168000,
+  "circularId": 7246,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and S. Immler (CRESST/UMCP/GSFC)\nreport on the behalf of the Swift UVOT team:\n\n        The Swift/UVOT observed the field of GRB 080129 starting 3188 s\nafter the BAT trigger (Immler et al. 2007, GCN Circ. 7226).  We do not\nfind any source, in any of the UVOT observations, at the location of\nthe Gemini-South source (Bloom, 2007 GCN Circ. 7229).\n\n        The 3-sigma upper limits for detecting a source at this\nlocation in the co-added images are:\n\n\nFilter    T_start   T_stop    Exp(s)    Mag (3-sigma upper limit)\n-----------------------------------------------------------------\n    v         3188   21,457      2023    21.3\n    b         4134   28,152      2164    22.2\n    u         3929   27,239      1278    21.5\n  uvw1        3724   32,166      1182    21.3\n  uvm2        3519   22,362      1279    21.2\n  uvw2        4545   17,372      1920    21.7\nwhite        3207   28,940      2856    23.1\n-----------------------------------------------------------------\n\nThis burst occurred 1.43 degrees from the Galactic plane, so the\nGalactic reddening along the line of sight is highly uncertain.  The\nvalues quoted above are not corrected for Galactic extinction.  All\nphotometry is on the UVOT flight system described in Poole et al.  \n(2008)."
+}

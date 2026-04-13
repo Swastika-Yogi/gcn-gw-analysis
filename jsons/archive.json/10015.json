@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090530A: Skynet/DSO Detections",
+  "eventId": "GRB 090530A",
+  "bibcode": "2009GCN.10015....1S",
+  "createdOn": 1255296305000,
+  "circularId": 10015,
+  "submitter": "Aaron LaCluyze at U.North Carolina  <lacluyze@physics.unc.edu>",
+  "email": "lacluyze@physics.unc.edu",
+  "body": "A. Smith, A. LaCluyze, D. Reichart, D. Caton, L. Hawkins, J. Haislip, K. \nIvarsen, A. Foster, J. Moore, A. Oza, M. Schubel, J. Styblova, A. Trotter, J. \nA. Crain, and M. Nysewander report:\n\nSkynet observed the Swift/BAT localization of GRB 090530A (Cannizzo et al., GCN \n9438) with the 14\" Dark Sky Observatory telescope in North Carolina beginning \n61.8 minutes after the trigger in RI.\n\nWe detect the afterglow (Cannizzo et al., GCN 9438).  Stacking only images that \nincrease the limiting magnitude yields:\n\nmean                                                        1-sig.  1-sig.\ntime                                                        sys.    stat.\nsince                                            cal.       cal.    cal.\ntrig.  tel.    exp.     fil.  magnitude          stars*     unc.    unc.\n(m)            (# x s)                                      (mag)   (mag)\n\n88.8   DSO-14  20 x 80  I     19.26 +0.32 -0.25  7 SDSS 7   0.050   0.001\n102.2  DSO-14  23 x 80  R     19.53 +0.16 -0.14  10 SDSS 7  0.022   0.001\n\n* Transformed using Jester et al., 2005, ApJ, 130, 873."
+}

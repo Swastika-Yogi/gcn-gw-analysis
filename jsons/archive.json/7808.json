@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080603B: Swift/UVOT detection of the afterglow",
+  "eventId": "GRB 080603B",
+  "bibcode": "2008GCN..7808....1K",
+  "createdOn": 1212587849000,
+  "circularId": 7808,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL), and V. Mangano (INAF-IASFPA), report on behalf\nof the Swift UVOT team\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began observations\nof GRB 080603A, on June 3, 2008, at  19:39:07 UT,  63 seconds after\nthe initial Swift BAT trigger (Mangano et al., GCN Circ. 7794)..\n\nThe refined uvot position is\n\n RA  = 11:46:07.66 = 176.5316\n DEC =+68:03:39.99 = 68.061105\n\nwith an error or 0.3\".\n\nThe first finding chart in the wh filter has problems due to the\nbrightness of the image, and needs detailed analysis. We start\nour report with the second finding chart.\n\nThe magnitudes with 1-sigma errors for GRB080603B are given below\nfor the initial observation sequence.\n\nFilter Tstart(s) Tstop(s) Exp(s) Magnitude\n\nv       187.8      393.1    202    16.48 +/- 0.06\nuvm2   5778.0     5977.8    197    > 19.51 (3-sigma UL)\nuvw1   5983.9     6183.7    197    20.02 +/- 0.56\nu      6188.8     6388.6    197    18.80 +/- 0.23\nb      6395.3    12274.3    643    19.34 +/- 0.14\n\nThe absence of a detection in the uvm2 filter is consitent with\nthe reported redshift of 2.69 (Fynbo et al., GCN Circ. 7797).\n\nMagnitude variation in the b observations shor evidence\nof flaring or rebrightening..\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al, 2008, MNRAS 383,627). They are not corrected for the\nexpected galactic reddening of E(B-V) = 0.013 in the direction of\nthe burst (Schlegel et al. 1998)."
+}

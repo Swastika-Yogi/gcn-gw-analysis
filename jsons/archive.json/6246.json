@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070402: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 070402",
+  "bibcode": "2007GCN..6246....1S",
+  "createdOn": 1175844718000,
+  "circularId": 6246,
+  "submitter": "Eri Sonoda at U of Miyazaki/Japan  <sonoda@astro.miyazaki-u.ac.jp>",
+  "email": "sonoda@astro.miyazaki-u.ac.jp",
+  "body": "E. Sonoda, M. Yamauchi (Univ. of Miyazaki),\nK. Yamaoka, Y.E. Nakagawa, S. Sugita (Aoyama Gakuin U.),\nM. Ohno, T. Takahashi, T. Asano, T. Uehara, Y. Fukazawa (Hiroshima U.),\nY. Urata, M. Tashiro, K. Abe, K. Onda, Y. Sato, M. Suzuki, N. Kodaka (Saitama U.),\nT. Enoto, R. Miyawaki, K. Makishima (Univ. of Tokyo),\nM. Suzuki, T. Tamagawa, Y. Terada (RIKEN), S. Hong (Nihon U.),\nK. Nakazawa, M. Kokubun, T. Takahashi (ISAS/JAXA),\non behalf of the Suzaku WAM team report:\n\nThe IPN-localized long GRB 070402 (Hurley et al., GCN 6241 and 6242)\ntriggered the Suzaku Wide-band All-sky Monitor (WAM), which covers the\nenergy range of 50 keV - 5 MeV, at 15:48:35 UT (=T0).\nThe light curve shows multiple separate pulses with the total\nduration of about 17 s. The fluence in 100 keV - 3 MeV was\n1.09 (-0.15, +0.06) x 10 ^-5 erg/cm2, while the 1-s peak flux measured\nfrom T0+5 s was 5.55 (-0.43, +0.30) photons/cm2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0 to T0+12 s\ncan be described by a power law with an exponential cutoff model as follows:\n\ndN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha = 1.29 (-0.23, +0.21) and\nEpeak = 376 (-46, +74) keV (chi2/d.o.f. = 67/48).\n\nAll the quoted errors are at the 90% confidence level, while\nsystematic errors are not included.\n\nThe WAM light curve of this event is available at\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/grb_table.html"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080701A: Early RAPTOR optical limits",
+  "eventId": "GRB 080701A",
+  "bibcode": "2008GCN..7928....1W",
+  "createdOn": 1215041090000,
+  "circularId": 7928,
+  "submitter": "James Wren at LANL  <jwren@nis.lanl.gov>",
+  "email": "jwren@nis.lanl.gov",
+  "body": "J. Wren, W.T. Vestrand, P.R. Wozniak, H. Davis, B. Norman\nof Los Alamos National Laboratory report:\n\nThe RAPTOR telescope system responded to Swift trigger\n315615 (Stroh et al., GCN 7910) under good observing conditions.\nOur narrow-field instruments began observing the location at\n10:14:06.47 UTC, 28.8 s after the Swift trigger.  We detect no\ncounterpart at the improved XRT position (Evans et al., GCN 7914).\nThe limiting magnitudes of our unfiltered observations when\ncalibrated to the USNO-B1 R-band are given in the following table.\nThe GRB location was also within the field of view of our\ncontinuous all-sky monitoring system.  We can place 3 sigma limits\nat or below magnitude 9.4 during the time period within 2\nminutes both before and after the trigger.  \n\nt-mid(s)    exp(s)     mag     mag-err\n--------------------------------------------\n-11.68      10.0       9.7     3 sigma limit\n11.57       10.0      10.0     3 sigma limit\n34.80       10.0       9.9     3 sigma limit\n71.45       45.0      19.3     3 sigma limit\n173.93     100.0      19.8     3 sigma limit\n300.65     100.0      19.9     3 sigma limit\n561.10     270.0      20.5     3 sigma limit"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190421ar: Updated localization and classification from LIGO and Virgo data",
+  "eventId": "LIGO/Virgo S190421ar",
+  "bibcode": "2019GCN.24375....1L",
+  "createdOn": 1556900046000,
+  "circularId": 24375,
+  "submitter": "Erik Katsavounidis at MIT  <kats@ligo.mit.edu>",
+  "email": "kats@ligo.mit.edu",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\n\nWe have re-analyzed LIGO and Virgo data around the time of the\n\ncompact binary coalescence (CBC) candidate S190421ar\n\n(GCN 24141). Parameter estimation has been performed using\n\nLALInference [1] and a new sky map, LALInference.fits.gz,\n\ndistributed via GCN Notice about 11 days after the candidate,\n\nis available for retrieval from the GraceDB event page:\n\n\nhttps://gracedb.ligo.org/superevents/S190421ar\n\n\nThe updated classification of the GW signal, in order of descending\n\nprobability, is BBH (97%), Terrestrial (3%), BNS (<1%), NSBH (<1%),\n\nor MassGap (<1%).\n\n\nFor the LALInference.fits.gz skymap, the 90% credible region is\n\n1444 deg2. Marginalized over the whole sky, the a posteriori\n\nluminosity distance estimate is 1628 +/- 535 Mpc (a posteriori\n\nmean +/- standard deviation). This is the preferred sky map at\n\nthis time.\n\n\nFor further information about analysis methodology and the contents\n\nof this alert, refer to the LIGO/Virgo Public Alerts User Guide\n\n<https://emfollow.docs.ligo.org/userguide/>.\n\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

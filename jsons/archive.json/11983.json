@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 110428A",
+  "eventId": "GRB 110428A",
+  "bibcode": "2011GCN.11983....1G",
+  "createdOn": 1304085408000,
+  "circularId": 11983,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nP. Oleynik, M. Ulanov, D. Svinkin, and\nT. Cline on behalf of the Konus-Wind team, report:\n\nThe long bright GRB 110428A localized by Fermi-LAT (Vasileiou et al.,\nGCN 11982) triggered Konus-Wind at T0=33509.450 s UT (09:18:29.450).\nThe burst light curve shows two pulses started at ~T0-9 s with a total \nduration of ~15 s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of 2.70(-0.16, +0.15)x10^-5 erg/cm2,\nand a 64-ms peak flux measured from T0+1.296 s\nof 8.47(-1.17, +1.18)x10^-6 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+13.568 s) can be fitted (in the 20 keV - 2 MeV\nrange) by the GRB (Band) model for which:\nthe low-energy photon index is alpha = -0.30(-0.11, +0.12),\nthe high energy photon index beta = -3.00(-0.58, +0.27),\nthe peak energy Ep = 184(-10, +12) keV (chi2 = 78.2/59 dof).\nThe spectrum at the maximum count rate\n(measured from T0+0.256 to T0+1.536 s) can be fitted\n(in the 20 keV - 2 MeV range) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.19(-0.13, +0.14),\nand Ep = 257(-16, +17) keV (chi2 = 63.1/52 dof).\nFitting by GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy\nphoton index: beta < -3.5 (chi2 = 63.1/51 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.ru/LEA/GRBs/GRB110428_T33509/"
+}

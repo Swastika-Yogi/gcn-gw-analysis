@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070420: Swift UVOT continuing observations",
+  "eventId": "GRB 070420",
+  "bibcode": "2007GCN..6336....1I",
+  "createdOn": 1177088272000,
+  "circularId": 6336,
+  "submitter": "Stefan Immler at NASA/GSFC  <immler@milkyway.gsfc.nasa.gov>",
+  "email": "immler@milkyway.gsfc.nasa.gov",
+  "body": "S. Immler (USRA/GSFC), F. E. Marshall (NASA/GSFC), S. T. Holland\n(CRESST/USRA/GSFC), and M. Stamatikos (NASA/ORAU) report on\nbehalf of the Swift/UVOT team:\n\nThe UVOT position sent out as a GCN notice gave an invalid position while\nGCN 6330 had the correct position. We regret any confusion this might have\ncaused. The revised UVOT position of the afterglow is\nRA(J2000) = 08h04m55.17s, Dec(J2000) = -45d33'20.0\".\nWe estimate a statistical accuracy of 0.2 arcsec radius (90% confidence)\nbut with a systematic uncertainty of the aspect solution of about 0.5 \narcsec.\n\nThe Swift/UVOT began taking data in the field of GRB070420 90s after\nthe BAT trigger (Stamatikos et al., GCN 6330). The afterglow is detected\nin all UVOT optical filters. The large reddening, E(B-V) = 0.52, might \nexplain\nthe non-detection in the UV. The flux is decaying with t**-0.7 in the White\nfor times between T+500 and T+10000 seconds. The photometry results are\ngiven for the 7 UVOT filters below.\n\nV                T+(s)          Exp(s)       Mag\n\nWhite          109            99           17.4+/-0.1\n                  7125           197          20.8+/-0.1\nV                    90           10            17.9+/-0.1\nB                  693          10            18.8+/-0.1\nU                  669          20            21.1+/-0.1\nUVW1         645          20            >20.4 (3-sigma)\nUWM2         620          20            >20.8 (3-sigma)\nUVW2             723          20            >20.8 (3-sigma)"
+}

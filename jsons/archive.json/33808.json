@@ -1,0 +1,9 @@
+{
+  "subject": "Improved IPN triangulation of GRB 230512A",
+  "eventId": "GRB 230512A",
+  "bibcode": "2023GCN.33808....1K",
+  "createdOn": 1684324923492,
+  "circularId": 33808,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nUsing the BepiColombo (MGNS) data we have improved\nthe previous IPN box (Svinkin et al., GCN Circ. 33802),\nThe coordinates of the updated 3 sigma error box are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  295.623 (19h 42m 30s) +38.267 (+38d 16' 00\")\n Corners:\n  295.645 (19h 42m 35s) +38.328 (+38d 19' 39\")\n  295.609 (19h 42m 26s) +38.353 (+38d 21' 10\")\n  295.601 (19h 42m 24s) +38.206 (+38d 12' 20\")\n  295.637 (19h 42m 33s) +38.180 (+38d 10' 49\")\n ---------------------------------------------\nThe error box area is 15 sq. arcmin, and its maximum\ndimension is 10 arcmin (the minimum one is 1.7 arcmin).\nThe Sun distance was 96 deg.\n\nThis box may be further improved.\n\nNone of the optical and X-ray transients found during the burst follow-up (GCNs 33784, 33789, 33796) are inside the box.\n\nAn updated triangulation map and HEALPix FITS files are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230512_T23265/IPN/\n\n"
+}

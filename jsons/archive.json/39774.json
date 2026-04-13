@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250317B: Leavitt Observatory optical upper limit",
+  "eventId": "GRB 250317B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39774....1M",
+  "createdOn": 1742328256838,
+  "circularId": 39774,
+  "submitter": "leavittob@gmail.com",
+  "format": "text/plain",
+  "body": "L. Moretti, E. Pavoni (Leavitt Observatory, Italy)\n\nMembers of:\nGRB/UAI - Gamma Ray Burst Section of Unione Astrofili Italiani\nATA - Associazione Tuscolana di Astronomia\n\nIn a large collaboration with:\nM.G. Dainotti (National Astronomical Observatory of Japan),\nY. Niino (Tokyo University, Institute of Astronomy),\nK. Kalinowski (Aarhus University, Department of Physics and Astronomy),\nreport:\n\nWe observed the field of the GRB 250317B triggered by SVOM/ECLAIRs (Zhao et al., GCN 39752 and GCN 39753) and SVOM/MXT (Zhao et al., GCN 39752 and GCN 39753; and Götz et al., GCN 39756) with our RC telescope (D=250 mm, F/D=8) of Leavitt Observatory, Manciano, Italy. \n\nThe observations started approximately 19 hours after the SVOM/ECLAIRs trigger time, with good weather conditions, stacking a set of unfiltered FITS frames. Images were processed using the astropy package (Astropy Collaboration et al., 2022ApJ...935..167A).\n\nIn the stacked frame, we did not found any optical uncatalogued object within the SVOM error circle.\n\nMid-Time (UTC)             Limit (clear filter) \tError\n2025-03-17T21:18:03        >20.0\t\t\t+/- 0.1\n\n\nMagnitudes were estimated with the BP-band of Gaia DR3 catalogue (*) and are not corrected for galactic dust extinction.\n\nThe message may be cited.\n\n\nReference:\nhttps://leavittobservatory.altervista.org\n\n(*) https://gea.esac.esa.int/archive/documentation/GEDR3/Data_processing/chap_cu5pho/cu5pho_sec_photSystem/cu5pho_ssec_photRelations.html"
+}

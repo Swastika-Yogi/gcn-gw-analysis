@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050916: Swift/UVOT Upper Limits",
+  "eventId": "GRB 050916",
+  "bibcode": "2005GCN..4004....1B",
+  "createdOn": 1127158080000,
+  "circularId": 4004,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "GRB050916: Swift/UVOT Upper Limits\n\nP. J. Brown (PSU), D. Morris (PSU),  H. Huckle (UCL-MSSL),\nB. Hancock (UCL-MSSL), and N. Gehrels (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 050916\n(Swift Trigger #155408) on 2005/09/16 at 16:39:20 UT,\n207 seconds after the BAT trigger (Morris et al. GCN 3991).\nNo source is detected within the XRT error circle\n(Morris et al. GCN 3996) in the initial 100 second V-band image\ndown to a 5-sigma upper limit of 17.9, or in summed exposures\nin any of the UVOT filters down to the following 5-sigma upper limits:\n\nFilter  T_range (s)     Exp (s)  5sigma UL\n\nV       207 - 74,597     4455     19.9\nB       353 - 65,371     4374     20.7\nU       339 - 63,016     4207     20.4\nUVW1    325 - 58,536     4152     20.1\nUVM2    311 - 53,803     4223     20.0\nUVW2    368 - 69,038     3706     20.2\n\nThe magnitudes are uncorrected for extinction,\nwhich is extremely high as this direction lies in the galactic plane."
+}

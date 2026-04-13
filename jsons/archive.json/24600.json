@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190519bj: INTEGRAL SPI/ACS prompt observation",
+  "eventId": "LIGO/Virgo S190519bj",
+  "bibcode": "2019GCN.24600....1B",
+  "createdOn": 1558286735000,
+  "circularId": 24600,
+  "submitter": "Enrico Bozzo at ISDC  <Enrico.Bozzo@unige.ch>",
+  "email": "Enrico.Bozzo@unige.ch",
+  "body": "Enrico Bozzo (ISDC/UniGE, Switzerland), Maeve Doyle (UCD, Ireland),\nV. Savchenko, C. Ferrigno (ISDC/UniGE, Switzerland)\nJ. Rodi (IAPS-Roma, Italy)\nA. Coleiro (APC, France)\nS. Mereghetti (INAF IASF-Milano, Italy)\n\non behalf of the INTEGRAL multi-messenger collaboration:\nhttps://www.astro.unige.ch/cdci/integral-multimessenger-collaboration\n\nUsing INTEGRAL/SPI-ACS realtime data (following Savchenko et al. 2017,\nA&A 603, A46) we have performed a search for a prompt gamma-ray\ncounterpart of S190519bj (GCN 24598).\n\nAt the time of the event (2019-05-19 15:35:44 UTC, hereafter T0),\nINTEGRAL was operating in nominal mode. The peak of the event\nlocalization probability was at an angle of 59 deg with respect to the\nspacecraft pointing axis. This orientation implies strongly suppressed\n(13% of optimal) response of ISGRI, strongly suppressed (30% of\noptimal) response of IBIS/Veto, and somewhat suppressed (67% of\noptimal) response of SPI-ACS.\n\nThe background within +/-300 seconds around the event was very stable\n(excess variance 1.2).\n\nWe have performed a search for any impulsive events in INTEGRAL SPI-\nACS (as described in Savchenko et al. 2012, A&A 541A, 122S) data.\n\nWe do not detect any significant counterparts and estimate a 3-sigma\nupper limit on the 75-2000 keV fluence of 2.9e-07 erg/cm^2 for a burst\nlasting less than 1 s with a characteristic short GRB spectrum (an\nexponentially cut off power law with alpha=-0.5 and Ep=600 keV)\noccurring at any time in the interval within 300 s around T0. For a\ntypical long GRB spectrum (Band function with alpha=-1, beta=-2.5, and\nEp=300 keV), the derived peak flux upper limit is ~2.6e-07 (1.3e-07)\nerg/cm^2/s at 1 s (8 s) time scale in 75-2000 keV energy range."
+}

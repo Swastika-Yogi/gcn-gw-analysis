@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060515 BAT refined analysis",
+  "eventId": "GRB 060515",
+  "bibcode": "2006GCN..5141....1F",
+  "createdOn": 1147713884000,
+  "circularId": 5141,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "E. Fenimore (LANL), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), M. Koss (GSFC/UMD),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/JSPS/USRA), \nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), \non behalf of the Swift-BAT team:\n\nUsing the data set from T-239 to T+360 sec from recent telemetry\ndownlinks, we report further analysis of BAT GRB 060515\n(trigger #210084)  (Cummings, et al., GCN 5132).  The BAT ground-\ncalculated position is\n(RA,Dec) = 127.295, 73.562 deg {8h 29m 10.7s, 73d 33' 43.2\"} (J2000)\n+- 1.5 arcmin, (radius, sys+stat, 90% containment).  This position\nis 0.7 arcmin from the onboard-calculated position and 0.3 arcmin\nfrom the XRT refined position (Page et al. GCN 5139).  The partial \ncoding was 38%.\n \nThe light curve shows a single weak, long FRED peak.  T90 (15-350 keV)\nis 52 +- 8 sec (estimated error including systematics). There is no\nindication of emission in the BAT energy band after T+70.  As noted\nearlier, Swift did not slew to the burst because of an Earth limb\nconstraint.  At T+140 sec, Swift executed a preplanned slew away from \nthe burst, which was then in the extreme partially coded field of view,\nso constraints on emission are poor.  After T+360, Swift entered the \nSAA and we have no further information on any possible extended \nemission.\n \nThe time-averaged spectrum from T+0.2 to T+57.5 is best fit by\na simple power-law model.  The power-law index of the time-averaged\nspectrum is 1.15 +- 0.15.  The fluence in the 15-150 keV band is\n1.4 +- 0.1 x 10^-6 erg/cm2.  The 1-sec peak photon flux measured\nfrom T+5.58 sec in the 15-150 keV band is 0.8 +- 0.2 ph/cm2/sec.  All\nthe quoted errors are at the 90% confidence level."
+}

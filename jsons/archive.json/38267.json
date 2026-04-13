@@ -1,0 +1,9 @@
+{
+  "subject": "Updates to IceCube realtime alert system for muon tracks",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.38267....1I",
+  "createdOn": 1731939438838,
+  "circularId": 38267,
+  "submitter": "Marcos Santander at U of Alabama <jmsantander@ua.edu>",
+  "body": "The IceCube Collaboration has recently updated the reconstruction algorithms used to determine the arrival direction of astrophysical neutrino candidate events that produce a muon track in the detector (i.e. the Astrotrack alerts classified as “Gold” or “Bronze”<https://gcn.gsfc.nasa.gov/doc/IceCube_High_Energy_Neutrino_Track_Alerts_v2.pdf>). The update went into effect with alert IceCube-240929A<https://gcn.gsfc.nasa.gov/notices_amon_g_b/139912_46959751.amon> (GCN Circular #37625<https://gcn.nasa.gov/circulars/37625>) and will be applied to all subsequent alerts.\n\n\nThis change applies only to the “follow-up” reconstruction (i.e. starting with Revision 1), typically issued a few hours after the initial automated GCN Notice (Revision 0). No modifications were made to the reconstruction used in the initial automated alert.\n\n\nThe goal of this update is to improve the angular resolution of muon track alerts and the statistical coverage of their directional uncertainties. This should in turn improve the sensitivity of searches for coincident electromagnetic counterparts, and enable better statistical tests of spatial correlation with high-energy neutrino events.\n\nAdditional details regarding the update are available in https://roc.icecube.wisc.edu/public/docs/IceCube_Update_Muon_Alert_Reco.pdf. Comments, suggestions and questions from the community are encouraged and welcomed. The point of contact for the IceCube Realtime system is roc@icecube.wisc.edu.\n"
+}

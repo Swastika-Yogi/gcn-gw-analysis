@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081215A: Fermi GBM detection",
+  "eventId": "GRB 081215A",
+  "bibcode": "2008GCN..8678....1P",
+  "createdOn": 1229553775000,
+  "circularId": 8678,
+  "submitter": "Rob Preece at UAH  <Rob.Preece@nasa.gov>",
+  "email": "Rob.Preece@nasa.gov",
+  "body": "Robert Preece (UAH) reports on behalf of the Fermi GBM Team:\n\n\"At 18:48:36.85 UT on 15 December 2008, the Fermi Gamma-Ray Burst  \nMonitor\ntriggered and located GRB 081215 (trigger 251059717 / 081215784).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 135.0, DEC = +53.8 (J2000 degrees,\nequivalent to 09 h 00 m 00.00, 53 d 48 '), with an uncertainty\nof 1.0 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\nThe angle from the Fermi LAT boresight is 86 degrees.\n\nThe on-board GBM Flight Software localization for this very bright\nburst, as reported in the GCN Notices, was consistent\nwith a position on the Earth's surface, likely due to a large scattered\nflux from the Earth. This resulted in an autonomous and erroneous\n\"100%  Below horizon\" classification for this event which prevented an\nautomated ground localization from being sent through the GCN notice\nsystem.\n\nThe GBM light curve consists of a very hard narrow pulse on\ntop of a broader emission episode,\nwith a duration (T90) of about 7.7 s (8-1000 keV).\nThe time-averaged spectrum from T0-1.79 s to T0+13.57 s is\nbest fit by a Band function with Epeak = 304 +/- 11 keV,\nalpha = -0.585 +/- 0.022, and beta = -2.066 +/- 0.038.\n\nThe event fluence (8-1000 keV) in this time interval is\n(3.54 +/- 0.05)E-6 erg/cm^2. The 1-sec photon flux measured\nstarting from T0+1.28 s in the 8-1000 keV band\nis 68.9 +/- 1.0 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

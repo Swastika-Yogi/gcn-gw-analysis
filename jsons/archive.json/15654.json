@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131224B detected in ground analysis of Swift-BAT data",
+  "eventId": "GRB 131224B",
+  "bibcode": "2014GCN.15654....1C",
+  "createdOn": 1388706309000,
+  "circularId": 15654,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings and D. M Palmer (Los Alamos) report on behalf of the\nSwift-BAT team:\n\nAt 03:25:08 while Swift was executing a pre-planned slew, BAT detected a rate\nincrease.  In ground analysis, a significant source was found at RA, Dec\n163.722, -14.177 which is\nRA (J2000)       10h 54m 53.3s\nDec (J2000)     -14d 10' 36\"\nwith an estimated 90% confidence error radius of 3 arcmin.  This location\nwas about 95% coded in the BAT field of view during the burst.\n\nThe mask-weighted lightcurve shows two symmetrical peaks, the second peak\nabout 1/3 the size of the first, each about 4 seconds long and separated by\na gap of about 2 seconds.  T90 is about 9 seconds.\n\nThe average spectrum over 11 seconds is well fit by a simple power-law\nfunction with a photon index of 2.09 +- 0.20.  The fluence was\n(2.6 +- 0.3) x 10^-7 ergs/cm^2.  Errors are 90% confidence.\n\nBecause this burst was noticed a week after it occurred, there is no followup\nplanned with Swift."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB081230: Swift-XRT refined analysis",
+  "eventId": "GRB 081230",
+  "bibcode": "2008GCN..8758....1L",
+  "createdOn": 1230733424000,
+  "circularId": 8758,
+  "submitter": "Valentina La Parola at INAF-IASPA  <laparola@ifc.inaf.it>",
+  "email": "laparola@ifc.inaf.it",
+  "body": "V. La Parola, B. Sbarufatti, V. Mangano (INAF-IASF Pa)\nreport on behalf of the Swift XRT team:\n\n\nWe have analysed the first 35 ks of XRT observations for GRB 081230\n(La Parola et al. GCN Circ 8753), with an exposure time of 104 s in WT mode and\n11.4 ks in PC mode. The astrometrically corrected X-ray\nposition (using the XRT-UVOT alignment and matching UVOT field sources to\nthe USNO-B1 catalogue) is RA, Dec = 37.3314 -25.1477, corresponding to:\n\nRA (J2000): 02h 29m 19.53s\nDec (J2000): -25d 08' 51.8\n\n\nwith an uncertainty of 1.8 arcsec (radius, 90% confidence, Osborne et al.\nGCN Circ 8756).\n\nThe lightcurve can be fitted with a broken power-law with the following\nparameters:\nalpha1=-6.910+/-0.007\nT_break=298+/-9\nalpha2=-0.62+/-0.5\nThere is evidence for a late flare a peaking at 5000s.\n\nThe spectrum of the data collected in WT mode can be fitted with a powerlaw\nwith photon index Gamma = 1.96 +/- 0.11, absorbed by the Galactic column in\nthis direction of 1.7x10^20 cm^-2, plus an intrinsic column of\n(6.4+/-2.2)x10^20 cm^-2. The observed (unabsorbed) flux over this time\nis 1.03x10^-9 (1.3x10^-9) erg cm^-2 s^-1,\ncorresponding to a counts to observed flux conversion of 4.1x10^-11 erg\ncm^-2 count^-1.\nThe spectrum of the data collected in PC mode can be fitted with a powerlaw\nwith photon index Gamma = 2.14 (+0.10,-0.20), with an intrinsic column of\n(5.3 [+2.2,-3.7])x10^20 cm^-2. The observed (unabsorbed) flux over this time\nis 2.1x10^-12 (2.7x10^-9) erg cm^-2 s^-1,\n\nWith the present decay law, the count rate at 24 hours is predicted to be\n1.1x10^-2 c/s (corresponding to an observed flux of 3.7x10^-13 erg cm^-2 s^-1)\n\nThis circular is an official product of the Swift-XRT team.\n\n\n\n\nI.A.S.F.   INAF   Mailing System\nOutgoing mail is certified Virus Free.\nChecked by McAfee anti-virus system"
+}

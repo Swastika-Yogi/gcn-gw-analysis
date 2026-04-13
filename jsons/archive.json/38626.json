@@ -1,0 +1,11 @@
+{
+  "subject": "EP 241217a: Possible J-band detection with WINTER",
+  "eventId": "EP241217a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38626....1A",
+  "createdOn": 1734552530542,
+  "circularId": 38626,
+  "submitter": "Tomas Ahumada Mena at Caltech <tahumada@caltech.edu>",
+  "format": "text/plain",
+  "body": "Tomás Ahumada (Caltech), Viraj Karambelkar (Caltech), Geoffrey Mo (MIT), Benjamin Schneider (LAM), Danielle Frostig (CfA), Robert Stein (UMD), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe automatically observed the field of EP 241217a (Zhou et al., GCN 38586;) in the near-infrared J-band with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations were triggered automatically and began at 2024-11-17T11:51:46 UTC (~6.25 hours after the EP event), consisting of 30 x 120 s exposures. The images were processed using the WINTER data reduction pipeline (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565) using images from the UKIRT Hemisphere survey (Dye et al. 2018) as references for image subtraction. \n\nWe detect a possible source at the Gemini counterpart location (Levan et al., GCN 38587; Fan et al. GCN 38592; Levan et al. GCN 38593). This source is near the threshold of our stacked image, and we measure a brightness of J ~ 18 +/- 0.4 mag (AB). No source is present at this location in the reference UKIRT images to a depth of ~21 mag (AB). \n\nWe caution that our detection is close to the image's limiting magnitude, and we strongly encourage further observations to confirm the source as real and to assess its NIR brightness.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

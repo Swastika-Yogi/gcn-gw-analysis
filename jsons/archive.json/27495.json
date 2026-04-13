@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200404A: Fermi GBM Final Localization",
+  "eventId": "GRB 200404A",
+  "bibcode": "2020GCN.27495....1F",
+  "createdOn": 1586027654000,
+  "circularId": 27495,
+  "submitter": "Suraj Poolakkil at UAH  <sp0076@uah.edu>",
+  "email": "sp0076@uah.edu",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB.\n\nAt 16:57:02.83 UT on 4 Apr 2020, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 200404A (trigger 607712227 / 200404706). This\ntrigger was initially classified as a solar flare by the flight software,\nbut is in fact a GRB.\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA\n= 61.93, Dec = 3.27, with a statistical uncertainty of 5.02 degrees.\n\nThe angle from the Fermi LAT boresight is 90 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200404706/quicklook/glg_skymap_all_bn200404706.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can\nbe found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200404706/quicklook/glg_healpix_all_bn200404706.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200404706/quicklook/glg_lc_medres34_bn200404706.gif"
+}

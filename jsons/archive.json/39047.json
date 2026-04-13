@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250127A: SVOM/VT upper limit",
+  "eventId": "GRB 250127A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39047....1S",
+  "createdOn": 1737994117295,
+  "circularId": 39047,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/VT team: L.P. Xin, Y. L. Qiu, H.L. Li., C. Wu, D.H. Zhao, Z.H. Yao, Y.N. Ma, X.H. Han, J. Wang, W.J.Xie, H.B. Cai，J.Y. Wei（NAOC）， J. Palmerio (CEA) and S. Vergani (obs.Paris)\nreport on behalf of the SVOM team:\n\nGRB 250127A (Wu et al., GCN 39041) was observed by SVOM/VT after the automatic slew of the platform. The VT conducted observations in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channel simultaneously.\n\nWith the VHF and X band downlinked data, no any credible candidates were found in our single or stacked images within either the errorbox of Eclairs (Wu et al., GCN 39041), or the errorbox of source #2 detected by Swift/XRT (Swift Team,GCN 39044).  The 3 sigma limits in AB magnitude were derived as follows:\n---------------------------------------------------------\n(t-T0)_mid(min)  exptime(s)   Band    upperlim(3sigma)\n 2.5                15        VT_B       20.6\n 2.5                15        VT_R       20.3\n 78.08          23*100        VT_B       23.6\n 79.75          23*100        VT_R       23.4\n 147.38         48*100+15     VT_B       23.9\n 147.01         46*100+2*15   VT_R       23.7\n\nThis is consistent with the non-detection report (Turpin et al., GCN 39043).        \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC),CAS."
+}

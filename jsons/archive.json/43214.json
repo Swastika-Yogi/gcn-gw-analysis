@@ -1,0 +1,14 @@
+{
+  "subject": "Konus-Wind detection of GRB 251222A / EP251222b",
+  "editedOn": 1766506821216,
+  "eventId": "GRB 251222A",
+  "version": 2,
+  "submittedHow": "email",
+  "bibcode": "2025GCN.43214....1F",
+  "createdOn": 1766494041318,
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Dmitry Frederiks at Ioffe Institute <ddfrederiks@gmail.com>",
+  "circularId": 43214,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 251222A (Fermi-GBM detection:\nThe Fermi GBM team, GCN 43186; SVOM detection:\nYang et al., GCN 43188, Wang et al., GCN 43202),\nassociated with the Einstein Probe X-ray transient\nEP251222b (Guo et al., GCN 43201),\ntriggered Konus-Wind (KW) at T0=61605.670 s UT (17:06:45.670).\n\nThe burst shows multiple emission pulses in the interval from\nT0-50 s to T0+33 s and has a total duration of ~83 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB251222_T61605/\n\nAs observed by Konus-Wind, the burst had\nthe fluence of (9.92 ± 0.94)x10^-6 erg/cm^2 and\nthe 64-ms peak energy flux, measured from T0 + 4.864 s,\nof (2.51 ± 0.32)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the brightest part of the burst\n(measured from T0 to T0+33.024 s) is best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep) with alpha = -1.45 (-0.21, + 0.24)\nand Ep = 102(-16,+17) keV, chi^2 = 94/98 dof.\n\nThe spectrum near the peak count rate (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 15 MeV range by a CPL model\nwith alpha = -1.23 (-0.20, + 0.23)and Ep = 131(-14,+18) keV, chi^2 = 69/83 dof.\n\nAssuming the redshift z=3.171 (Saccardi et al., GCN 43204)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to (2.21 ± 0.21)x10^53 erg,\nthe isotropic peak luminosity L_iso to (2.33 ± 0.30)x10^53 erg/s,\nthe rest-frame peak energy of the time-integrated spectrum Ep,i,z to (425 ± 69) keV,\nand the rest-frame peak energy at the peak of the emission Ep,p,z to (546 ± 68) keV.\nWith the obtained estimates, GRB 251222A is consistent with 68% prediction bands\nof both 'Amati' and 'Yonetoku' relations for the sample of >300 long KW GRBs\nwith known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB251222_T61605/GRB251222A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

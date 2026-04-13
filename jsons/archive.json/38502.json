@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241209A: Fermi GBM Observation",
+  "eventId": "GRB 241209A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38502....1H",
+  "createdOn": 1733780379004,
+  "circularId": 38502,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "R. Hamburg (USRA) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 05:35:44.16 UT on 09 December 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 241209A (trigger 755415349/241209233), which was \nalso detected by Swift BAT (Parsotan et al. 2024, GCN 38476) and Swift XRT \n(Evans et al. 2024, GCN 38486). The Fermi GBM on-ground location is \nconsistent with the Swift position. VLT has also performed optical \nobservations of GRB 241209A (de Ugarte Postigo et al., GCN 38484) and \nmeasured a potential redshift of z = 1.490 (Saccardi et al. 2024, GCN 38487).\n\nThe angle from the Fermi LAT boresight is 74 degrees.\n\nThe GBM light curve consists of a single peak with a duration (T90)\nof about 0.1 s (50-300 keV). The time-averaged spectrum from \nT0-0.096 to T0+0.128 s is best fit by a power law function with \nan exponential high-energy cutoff. The power law index is \n-0.02 +/- 0.44 and the cutoff energy, parameterized as Epeak, is 140 +/- 25 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.2 +/- 0.2)E-07 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0-0.064 s in the 10-1000 keV band is 5.3 +/- 0.9 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

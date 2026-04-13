@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 150993 is not a GRB",
+  "bibcode": "2005GCN..3825....1B",
+  "createdOn": 1124391623000,
+  "circularId": 3825,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), J. Cummings (GSFC/NRC),\nH. Krimm (GSFC/USRA),  C. Markwardt (GSFC/UMD)\non behalf of the Swift-BAT team:\n\nThe Swift-BAT trigger (trigger=150993) at 17:15:20 UT on 18 August 2005\nis not due to a GRB or any other astrophysical source.  The BAT-derived\nnotices were not distriuted to the GCN list because automated checking\ndetermined that this trigger did not meet the criteria for real-time\ndistribution.  The spacecraft did not slew immediately to the source\nbecause the merit value of this long image-trigger was less than the target\nin the planned observing program.  But about an hour later, the planned target\nhad a lower merit and the spacecraft slewed and initiated the full response\nof the XRT and UVOT instruments.  These XRT and UVOT notices were \ndistributed to the world because the information was no longer available\nto allow for automated blocking.  Please note that all of the GCN notices\nwith trigger=150993 (at or near BAT location 268.33,-35.06 J2000)\nare related to an invalid trigger response from BAT."
+}

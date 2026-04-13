@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260310A / AT2026fgk: LCO optical observations",
+  "eventId": "GRB 260310A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44043....1B",
+  "createdOn": 1773817149248,
+  "submitter": "Sergey Belkin at Monash University <sergey.belkin@monash.edu>",
+  "circularId": 44043,
+  "format": "text/plain",
+  "body": "S. Belkin and M. Shrestha (Monash U) report:\n\nWe observed the optical counterpart AT2026fgk of GRB 260310A, detected by Fermi/GBM (Fermi GBM Team, GCN 43951) and AstroSat/CZTI (Salunke et al., GCN 43958), with the Las Cumbres Observatory 1m telescope at McDonald Observatory equipped with the Sinistro instrument.\n\nObservations began on 2026-03-14 at 06:12:09 UT, approximately 4.05 days after the trigger. We obtained 4 x 60 s exposures in the r band and 6 x 60 s exposures in the u band. In the stacked images we clearly detect the reported optical counterpart AT2026fgk (e.g. Lipunov et al., GCN 43954; Konno et al., GCN 43974; Hinds et al., GCN 43977; Lipunov et al., GCN 43978; Martin-Carrillo et al., GCN 43979; Moreno Mendez et al., GCN 43980; de Ugarte Postigo et al., GCN 43984; Pursiainen et al., GCN 43990; Becerra et al., GCN 43991; Martin-Carrillo et al., GCN 44000; Watson et al., GCN 44001; Lai et al., GCN 44002; Izzo, GCN 44003; Moskvitin et al., GCN 44006; Romanov, GCN 44020; Brosio et al., GCN 44021; Pawar et al., GCN 44022), discovered by GOTO (O’Neill et al., TNS Discovery Report 294132).\n\nThe preliminary photometry from the stacked images is:\n\nDate (UT)            T-T0 (days)   Filter   Exp. time (s)     Magnitude    3-sigma UL\n========================================================================================\n2026-03-14 06:14:13    4.0535        r         60 x 4      18.58 +/- 0.02    21.79\n2026-03-14 06:21:49    4.0588        u         60 x 6      19.47 +/- 0.04    21.12\n\nThe r-band photometry is calibrated against Pan-STARRS field stars. The u-band photometry is calibrated against Gaia DR3 synthetic SDSS u-band stars. The quoted values are not corrected for Galactic extinction. Further follow-up is encouraged."
+}

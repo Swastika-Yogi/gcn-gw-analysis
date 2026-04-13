@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231115A: significance of INTEGRAL localization alignment with M82",
+  "eventId": "GRB 231115A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35038....1B",
+  "createdOn": 1700069361938,
+  "submitter": "Eric Burns at LSU <erickayserburns@gmail.com>",
+  "circularId": 35038,
+  "body": "Eric Burns (LSU)\n\nINTEGRAL has localized the GRB 231115A to be coincident with the nearby, star-forming galaxy M82, suggesting a possible giant flare origin (S.Mereghetti et al., GCN 35037). Using the method in [1] we estimate the Bayes factor that this is a giant flare from M82 vs neutron star merger GRB with a chance alignment  to be approximately 180,000 to 1. The corresponding value for GRB 200415A, the previous most confident event is 6,000 to 1. The false alarm rate for GRB 231115A is beyond 4.5 sigma in Gaussian-equivalent significance. This is a lower bound as the necessary background simulations for more confident constraints will take weeks to run. We report this to support additional follow-up\n\nWe emphasize this is a very preliminary significance estimate, using code which had to be quickly modified and updated to handle Python package updates that occurred since it was last used, and it has not been checked carefully.\n\n[1] E Burns et al., ApjL 907 2 2021"
+}

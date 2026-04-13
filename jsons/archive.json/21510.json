@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G298048: correction to the luminosity distance reported in GCN 21509",
+  "eventId": "LIGO/Virgo G298048",
+  "bibcode": "2017GCN.21510....1L",
+  "createdOn": 1502980726000,
+  "circularId": 21510,
+  "submitter": "Leo Singer at NASA/GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nIn GCN 21509, we reported the identification of a binary neutron star\ncandidate. We had stated that actual luminosity distance to the source is\nlikely larger than the estimated effective distance. The effective\ndistance quoted estimates the *maximum* distance to the source and so the\nactual luminosity distance is can be *smaller* than the estimate of the\neffective distance.\n\nThe BAYESTAR localization generated from H1 data only estimates an actual\nluminosity distance of 37 +/- 12 Mpc (a posteriori mean +/- standard\ndeviation). The distance estimate will likely evolve with further offline\nfollow-up using data from H1, L1, and V1.\n\nAnalyses including data from H1, L1, and V1 are still ongoing and a\nsky-map using gravitational-wave data will be made available as quickly as\npossible.\n\n[GCN OPS NOTE(17aug17): Per author's request, the LIGO/VIRGO ID\nwas added to the beginning of the Subject-line.]"
+}

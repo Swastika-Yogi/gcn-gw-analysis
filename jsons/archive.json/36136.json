@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240415A: Swift/UVOT Detection",
+  "eventId": "GRB 240415A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36136....1S",
+  "createdOn": 1713274710468,
+  "submitter": "Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "circularId": 36136,
+  "body": "M. H. Siegel (PSU) and M. J. Moss (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240415A\n3309 s after the BAT trigger (Moss et al., GCN Circ. 36108). A source consistent\nwith the XRT position (Beardmore et al., GCN Circ. 36128) and the reported\noptical transient (Pankov et al., GCN Circ. 36118, Moskvitin et al., GCN Circ. 36122,\nReguitti et al., GCN Circ. 36123, Schneider et al., GCN Circ. 36124, Aryan et al.,\nGCN Circ. 36132) is detected in the initial UVOT exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite             3877         4077          197         19.92 +/- 0.19\nv                 4287         4487          197         18.95 +/- 0.28\nb                 3672         3872          197        >19.2\nu                 3467         5040          332         18.96 +/- 0.18\nw1                4698         4897          197        >19.3\nm2                4492         4692          197        >19.1\nw2                4083         4282          197        >19.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.022 in the direction of the burst\n(Schlegel et al. 1998)."
+}

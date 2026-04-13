@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observation of GRB080702A",
+  "eventId": "GRB 080702A",
+  "bibcode": "2008GCN..7932....1D",
+  "createdOn": 1215085360000,
+  "circularId": 7932,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) on the behalf of the\nSwift/UVOT team:\n\n\nThe Swift/UVOT began settled exposures of the field of\nGRB080702A 73s after the BAT trigger (De Pasquale et al.,\nGCN Circ. 7920). We do not find any newsource in any\nof the exposures inside the enhanced XRT error circle\n(Goad et al., GCN Circ. 7923).\n\nThe 3-sigma upper limits for detecting a source in the\nfirst finding chart (FC) exposure and co-added frames are:\n\nFilter        T_start(s)   T_stop(s)    Exp(s)  Mag (3-sigma UL)\n\nwhite (FC)        73          172          98      >20.8\nwhite            674         5688         314      >21.4\nv                179          578         393      >20.0\nv                713         6099         305      >19.8\nb                659         6840         334      >20.8\nu                634         6714         432      >20.6\nuvw1             610         6509         432      >20.2\nuvm2             585         6303         432      >20.3\nuvw2             689         5894         235      >20.3\n\nThe values quoted above are not corrected for the expected\nhigh Galactic extinction corresponding to a reddening of\nE(B-V) = 0.67 mag in the direction of the burst (Schlegel et\nal. 1998)."
+}

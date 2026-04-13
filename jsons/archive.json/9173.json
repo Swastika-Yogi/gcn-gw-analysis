@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090417B Correction to the BAT refined analysis position",
+  "eventId": "GRB 090417B",
+  "bibcode": "2009GCN..9173....1C",
+  "createdOn": 1240247066000,
+  "circularId": 9173,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy, H. A. Krimm (GSFC/USRA),\nB. Sbarufatti(INAF-IASFPA), P.A. Evans (U. Leicester)\non behalf of the Swift team\n\nWe wish to make a correction to the reported analysis of the\nextremely long-duration burst GRB 090417B (GCN circ #9135,\nSbarufatti et al.).\n\nThe position in the BAT refined-analysis circular (GCN circ #9139,\nCummings et al.) was based on the results of an automated script, \nwhich was unable to find the optimum imaging interval due to the \nunusual length of this burst.  Thus the reported position was not \nthe best BAT ground-calculated position. The best position is \nRA, Dec 209.687 +47.015, which is:\n\nRA (J2000)    13h 58m 44.8s\nDec (J2000)   47d 00m 55s\n\nwith an error radius of ~1 arcmin. This position is 0.35 arcmin \nfrom the XRT refined position (GCN circ #9155, Sbarufatti et al.).\n\nWe are grateful to those who noticed the discrepancy, and regret \nany confusion resulting from this error. Any corrections to other \nBAT refined-analysis items (which are expected to be slight), such \nas to the spectral index, will appear in the final Swift Team \nreport on this burst."
+}

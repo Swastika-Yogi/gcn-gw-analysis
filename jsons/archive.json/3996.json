@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050916 : Swift-XRT refined analysis",
+  "eventId": "GRB 050916",
+  "bibcode": "2005GCN..3996....1M",
+  "createdOn": 1126947344000,
+  "circularId": 3996,
+  "submitter": "David Morris at PSU/Swift-XRT  <morris@astro.psu.edu>",
+  "email": "morris@astro.psu.edu",
+  "body": "D. C. Morris (PSU), D. N. Burrows (PSU), and N. Gehrels (GSFC) report on \nbehalf of the Swift XRT team:\n\nWe have analysed the first six orbits of data for GRB050916 (GCN 3991, \nMorris et al., 2005). Using xrtcentoid, the refined position is:\n\nRA(J2000) = 09h 03m 56.8s\nDec(J2000) = -51d 25' 50.3\"\n\nwith an uncertainty of 8 arcsec. This is 3.5 arcsec from the original \nXRT position (GCN 3995, Morris et al., 2005) and 23 arcsecs from the \ninitial BAT position..\n\nThe XRT began taking data at 16:39:22, 210 seconds after the BAT \ntrigger. The early data (<T+1 ks) show a fading lightcurve with decay \nindex ~-1.5. Data from T+5ks to T+15ks also show a fading lightcurve \nconsistent with decay index=-1.5 but at a flux level ~x3 greater than \nwould be expected by extrapolating the decay index from the earlier \ndata. A bright flare (peaking at x100 above the expected level) is seen \nat T+18ks and flux levels remain elevated for 5-7ks thereafter.\n\nThe overall spectrum of all the data is well fit (reduced chi-sq of \n1.04) by a power law with neutral hydrogen equal to the galactic column \ndensity of 1.1e22 :\n\nNH=1.1e22(frozen)\ngamma=1.77 + / - 0.09\n\nDue to the low overall number of events, separate fits to the flaring \nand non-flaring portions of the lightcurve are poorly contrained and do \nnot show any significant evidence of spectral evolution:\n\nflaring:\nNH=0.89e22 + / - 0.16e22\ngamma= 1.54 + / - 0.19\n\nnon-flaring:\nNH=1.12e22 + / - 0.34e22\ngamma=1.85 + / - 0.37\n\nAssuming that the decay slope has returned to ~-1.5 after the flare, the \nexpected count rate at T+1e5s is ~2e-3 cts/s which converts to an \nunabsorbed flux of  2.4e-13 ergs cm^-2s^-1. The peak flux (seen at the \nstart of the XRT observation and at the peak of the flare) is 0.5 cts/s, \nfor a peak unabsorbed flux of 6e-11 ergs cm^-2s^-1."
+}

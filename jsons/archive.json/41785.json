@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250903A: SVOM/ECLAIRs refined analysis",
+  "eventId": "GRB 250903A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41785....1D",
+  "createdOn": 1757579826409,
+  "circularId": 41785,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Nicolas Dagoneau (CEA), Jean-Luc Atteia (IRAP), Floriane Cangemi (APC), Tais Maiolino (LUPM), Claire Guépin-Detrigne (LUPM)\n\nUsing the event-by-event data downloaded through the X-band ground station, we report further analysis of ECLAIRs observations of GRB 250903A (SVOM burst-id sb25090304). \n\nThe burst that triggered ECLAIRs onboard (GCN 41677) was detected in the first trigger cycle that followed the SAA exit. Consequently, the precise duration of the event cannot be determined. The exposures in which the burst was detected onboard have durations spanning from 5.12 to 40.96 s starting from T0-13 s to T0+3 s (T0 = 2025-09-03T17:24:56 UTC).\n\nThe time-averaged spectrum (from T0-8.7s to T0+7.5s) in the energy range 4-120 keV is best fit by a cutoff power-law with a photon index 1.28 +/- 0.22 and a peak energy Epeak 38 +/- 15 keV. With this model, the total fluence in the 4-120 keV band is (7.66 -5.78/+0.90)e-7 erg/cm^2. \n\nWith a redshift of z = 1.59 (GCN 41691), the burst isotropic energy Eiso (from 1 keV to 10 MeV in its rest frame) is 6.4e51 erg. This is only a lower bound since we may have missed the beginning of the burst when SVOM was in the SAA. Still, this value makes this GRB consistent with type II GRBs in the 'Amati' relation diagram (Amati et al. 2002).\n\nThe spectrum is also well fit by a simple power-law model with a photon index 1.62 +/- 0.08. With this model, the total fluence in the 4-120 keV band is (9.15 -1.74/+1.06) e-7 erg/cm^2.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe SVOM/ECLAIRs point of contact for this burst is: Nicolas Dagoneau (CEA) (nicolas.dagoneau at cea.fr).\n"
+}

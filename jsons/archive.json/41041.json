@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250706C (consistent with the GRB 250706B)",
+  "eventId": "GRB 250706C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41041....1K",
+  "createdOn": 1752003006003,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 41041,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe very bright, long-duration GRB 250706C\n(Konus-Wind detection: Frederiks et al., GCNs 41013, 41027;\nFermi-LAT detection: Longo et al., GCN 41019)\nwas detected by Konus-Wind and Mars-Odyssey (HEND)\nat about 60322 s UT (16:45:22), ~1200 s before GRB 250706B\n(SVOM detection: Palmerio et al, GCNs 40989, 41026)\n\nWe have triangulated it to a Konus-HEND annulus centered at\nRA(2000)=342.841 deg (22h 51m 22s)  Dec(2000)=-8.288 deg (-8d 17' 19\"),\nwhose radius is 63.671 +/- 0.024 deg (3 sigma).\n\nThis localization may be improved.\n\nThe SVOM/ECLAIRs source localization reported for GRB 250706B (GCN 40989)\nis consistent with the Konus-HEND annulus, the Konus-Wind ecliptic latitude\nresponse and the Fermi-LAT position (GCN 41019), indicating that GRB 250706B and \nGRB 250706C are distinct emission episodes of the same GRB.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250706_T60322/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density."
+}

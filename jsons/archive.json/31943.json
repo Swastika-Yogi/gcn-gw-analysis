@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220423A: Swift/BAT-GUANO detection outside the coded FOV",
+  "eventId": "GRB 220423A",
+  "bibcode": "2022GCN.31943....1R",
+  "createdOn": 1650766874000,
+  "circularId": 31943,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Gayathri Raman (PSU), Aaron Tohuvavohu (U Toronto), James DeLaunay\n(UAlabama), Jamie A. Kennea (PSU), report:\n\nSwift/BAT did not localize GRB 220423A onboard (T0: 2022-04-23T14:14:10\nUTC, CALET trig #1334758343, INTEGRAL/SPI-ACS trig #9870, AGILE GCN 31938).\n\nHappy Birthday AGILE!\n\nThe CALET and INTEGRAL notices, distributed in near real-time, triggered\nthe Swift Mission Operations Center operated Gamma-ray Urgent Archiver for\nNovel Opportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst Alert\nTelescope (BAT) to save 92 seconds of BAT event-mode data from [-46,+46]\nseconds around the time of the burst. All the requested event mode data was\ndelivered to the ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu,\narXiv:2111.01769), detects the burst with a sqrt(TS) of 139 in a 8.192 s\nanalysis time bin.\n\nThe burst episode as seen by BAT is ~20s long.\n\nNITRATES results strongly indicate a burst coming from outside the coded\nFoV, with DeltaLLHOut of -734.\n\nSee Section 9.1 and Figure 20 in the NITRATES paper for brief descriptions\nand interpretation of sqrt(TS), DeltaLLHPeak, and DeltaLLHOut.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\n\ncommanding pipeline designed for targeted recovery of BAT event mode\n\ndata around the times of compelling astrophysical events to enable\n\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\n\nfound at: https://www.swift.psu.edu/guano/"
+}

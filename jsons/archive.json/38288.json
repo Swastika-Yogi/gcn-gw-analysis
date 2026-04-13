@@ -1,0 +1,11 @@
+{
+  "subject": "EP241119a: GIT optical upper limits",
+  "eventId": "EP241119a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38288....1S",
+  "createdOn": 1732176266707,
+  "circularId": 38288,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "A. P. Saikia, T. Mohan, V. Swain, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the X-ray transient EP241119a (Zhang et al., GCN 38281) with the 0.7m GROWTH-India Telescope (GIT). The observations started at 2024-11-20 19:32:58 UT, about 25.6 hours after the Einstein Probe trigger. We obtained multiple images of 300 sec each in the r' and i' filters. We did not detect any transient in our stacked image around the coordinates reported by the EP team (Zhang et al., GCN 38281). The obtained upper limits are:\n\n| MJD (mid)     | Filter | Exposure (s) | Limiting Magnitude (AB) |\n| ------------- | ------ | ------------ | ----------------------- |\n| 60634.8236018 | r'     | 5x300        | 21.1                    |\n| 60634.8402112 | i'     | 4x300        | 20.4                    |\n\n\nThe magnitude is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction. Our upper limits are consistent with others (Lipunov et al., GCN 38282; Ahumada et al., GCN 38286). \n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

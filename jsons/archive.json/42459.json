@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251025B: J-band detection with WINTER",
+  "eventId": "GRB 251025B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42459....1M",
+  "createdOn": 1761499041923,
+  "circularId": 42459,
+  "submitter": "Geoffrey Mo at Caltech / Carnegie Observatories <gmo@mit.edu>",
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (Caltech/Carnegie), Benjamin Schneider (LAM), Tomas Ahumada (Caltech), Viraj Karambelkar (Columbia), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 251025B (Hussein et al., GCN 42437; Beardmore et al., GCN 42445) in the near-infrared J band with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations began at 2025-10-26T04:48:17 UTC in the J band (~14.4 hours after the GRB trigger), consisting of 15 x 120 s exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar\n (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe detect a clear source at the optical counterpart location (Wu et al., GCN 42438; Gress et al., GCN 42439; Wu et al., GCN 42440; Mohan et al., GCN 42447; Hernández Fung et al., GCN 42450; Pereyra et al., GCN 42452; Li et al., GCN 42453), likely during its rebrightening phase, with magnitude J ~ 20.0 mag (AB). \n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

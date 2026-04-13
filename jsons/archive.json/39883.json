@@ -1,0 +1,14 @@
+{
+  "subject": "FRB 20250316A: Pan-STARRS r and i-band imaging and photometry",
+  "editedOn": 1743094487055,
+  "eventId": "FRB 20250316A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39883....1G",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of James Gillanders at University of Oxford <jhgillanders.astro@gmail.com>",
+  "circularId": 39883,
+  "createdOn": 1743090128451,
+  "submitter": "James Gillanders at University of Oxford <jhgillanders.astro@gmail.com>",
+  "format": "text/plain",
+  "body": "J. H. Gillanders (Oxford), M. Huber, K. C. Chambers (IfA, Univ. Hawaii), S. J. Smartt, K. W. Smith, S. Srivastav (Oxford), M. Nicholl, D. Young, M. Fulton (QUB), T.-W. Chen (NCU, Taiwan) A. S. B. Schultz, T. de Boer, J. Fairlamb, G. Paek, C. C. Lin, T. Lowe, E. Magnier, P. Minguez, I. A. Smith, R. J. Wainscoat (IfA, Univ. Hawaii).\n\nWe observed the field of FRB 20250316A (Ng et al., ATel 17081) and EP J120944.2+585060 (Sun et al., ATel 17100, GCN 39834) using the Pan-STARRS telescope system (Chambers et al., 2016, arXiv e-prints, 1612.05560) on MJD 60757.42 (2025-03-23 10:04 UTC), ~7.06 days after the FRB detection (Ng et al., ATel 17081). The Pan-STARRS system consists of two 1.8m telescope units located at the summit of Haleakala on the Hawaiian island of Maui, employing an SDSS-like filter system denoted as grizy, and a broad w-filter, which is a composite of the gri-filters.\n\nOur observation consisted of 6x150s exposures in i-band, and 3x150s in r-band. The images were processed with the Pan-STARRS pipeline, where they underwent astrometric and photometric calibration, and stacking (Magnier et al., 2020a, ApJS, 251, 3; Magnier et al., 2020b, ApJS, 251, 6; Waters et al., 2020, ApJS, 251, 4).\n\nFrom these stacked target images, which cover the entire localisation region of FRB 20250316A (Leung et al., ATel 17086) and the EP-FXT error region of EP J120944.2+585060 (Sun et al., ATel 17100, GCN 39834), we do not detect any new optical sources down to 5-sigma limiting AB magnitudes of r~23.5 and i~23.5.\n\nThese non-detections are consistent with previously reported observations by Becerra et al., ATel 17082, GCN 39853; Niino et al., ATel 17084; Hashimoto ATel 17095; Yang et al., ATel 17101; \nTroja et al., ATel 17109, GCN 39869; Dong et al., ATel 17112; Aryan et al., GCN 39839; Pereyra et al., GCN 39858; Jiang et al., GCN 39864."
+}

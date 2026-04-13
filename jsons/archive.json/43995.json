@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260313A: A Correction to the Fermi GBM Final Localization",
+  "eventId": "GRB 260313A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43995....1R",
+  "createdOn": 1773426697768,
+  "submitter": "oliver.roberts@universityofgalway.ie",
+  "circularId": 43995,
+  "format": "text/plain",
+  "body": "O.J. Roberts (Uni. of Galway, Ireland) reports on behalf of the Fermi\nGamma-ray Burst Monitor Team.\n\n\"At 12:00:28.58 UT on 13 March 2026, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 260313A (trigger 795096033/260312500). An on-ground\ncalculated location, using the Fermi GBM trigger data, was initially reported\nin GCN 43987 by the GBM Team.\n\nFurther analysis found the location of the short GRB to be inaccurate. We \nreport the updated/refined location to be RA = 241.16, Dec = 5.80 (J2000 degrees, \nequivalent to J2000 16h 05m, 05d 48'), with a statistical uncertainty of 5.8 degrees.\n\nThe angle from the Fermi LAT boresight with this new position is 15 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260312500/quicklook/glg_skymap_all_bn260312500.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260312500/quicklook/glg_healpix_all_bn260312500.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260312500quicklook/glg_lc_medres34_bn260312500.gif\""
+}

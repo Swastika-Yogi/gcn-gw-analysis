@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 524584: Swift detection of Algol",
+  "bibcode": "2012GCN.13368....1B",
+  "createdOn": 1340020818000,
+  "circularId": 13368,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), V. D'Elia (ASDC), S. R. Oates (UCL-MSSL),\nG. Stratta (ASDC) and V. N. Yershov (UCL-MSSL) report on behalf of the\nSwift Team:\n\nAt 11:33:11 UT, the Swift Burst Alert Telescope (BAT) triggered on\nthe flare star Algol (trigger=524584).  Swift did not slew because\nof the Sun observing constraint. \nThe BAT on-board calculated location is \nRA, Dec 47.017, +40.966, which is \n   RA(J2000)  =  03h 08m 04s\n   Dec(J2000) = +40d 57' 57\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers (7 min),\nthe TDRSS lightcurve does not show anything significant. \n\nThis trigger was in the new category of subthreshold matchup with\nknown sources in the on-board catalog (imager signif=5.83 sgima). \nHowever, the BAT position is 1.2 arcmin from Algol, so the chance\ncoincidence proability is low, but we can not rule that out."
+}

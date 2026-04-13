@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-210811A: Upper limits from Fermi-GBM Observations",
+  "eventId": "IceCube-210811A",
+  "bibcode": "2021GCN.30649....1F",
+  "createdOn": 1629147994000,
+  "circularId": 30649,
+  "submitter": "Cori Fletcher at USRA  <cfletcher@usra.edu>",
+  "email": "cfletcher@usra.edu",
+  "body": "C. Fletcher (USRA) reports on behalf of the Fermi-GBM team:\n\nFor the IceCube high-energy neutrino candidate event IceCube-210811A\n(GCN 30627), at the event time Fermi-GBM was observing the reported\nneutrino location at:\n\nRA: 270.79 (+1.07, -1.08 deg  90% PSF containment) J2000\nDec: 25.28 (+0.79, -0.84 deg 90% PSF containment) J2000\n\nThere was no Fermi-GBM onboard trigger around the event time of the\nneutrino candidate. An automated, blind search for short gamma-ray bursts\nbelow the onboard triggering threshold in Fermi-GBM also identified no\ncounterpart candidates.\n\nThe GBM targeted search, the most sensitive, coherent search for GRB-like\nsignals, was run from +/-30 s around the neutrino candidate time.\nFrom this search, no significant signal was found related\nto IceCube-210811A.\n\nWe set upper limits on impulsive gamma-ray emission. Using the\nrepresentative soft, normal, and hard GRB-like templates described in\narXiv:1612.02395, we set the following 3 sigma flux upper limits over\n10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale   Soft     Normal   Hard\n-------------------------------------------\n0.128 s:     8.7      11.      19.\n1.024 s:     2.1      2.7      4.3\n8.192 s:     1.1      1.4      1.5\n\nThese results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GBM trigger 383712005 (GRB 130228A?) : Possible high-energy photon emission in Fermi/LAT data",
+  "eventId": "GRB 130228A",
+  "bibcode": "2013GCN.14258....1Z",
+  "createdOn": 1362509753000,
+  "circularId": 14258,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "WeiKang Zheng (UC Berkeley) and Carl Akerlof (Umich), report on behalf\nof the ROTSE collaboration (the authors are not affiliated with the\nFermi Collaboration),\n\nWe report the possible high-energy photon emission in Fermi/LAT data\ncorrelated with GBM trigger 383712005 (02:40:02 UT on Feb. 28, 2013,\nprobably GRB 130228A) as a follow-up of a routine search in GBM trigger\ncatalogs using our LAT data processing pipeline. The GBM trigger\nlocation (RA = 265.830, Dec = 55.930) was about 24 degree from the LAT\nboresight, and the zenith angle was about 45 degrees.\n\nA standard matched filter technique analysis (Akerlof et al. 2010, 2011,\n2013, Zheng et al. 2012a,b), which uses a duration data of 47.5s\nafter the trigger, did not reveal confident signal in LAT data. However,\nif extending the duration to 150s, the matched filter analysis gives a\nweight value of 10.53, not high enough to claim a firm detection\ncompared to standard case, but is clearly higher than background. This\nkind of delayed LAT high energy photon emission is quite common in GRB.\nThe new GRB location estimated by the matched filter technique is Ra =\n255.46, Dec = 55.02 with uncertainty ~0.5 degree, this is ~6 degrees\naway from the GBM trigger location. ~7 photons above 100 MeV were\ndetected within 150s, with the highest energy of ~692 MeV at 133s after\nthe burst.\n\nA maximum likelihood analysis focusing on the new GRB location gives a\nTS value of 31.0 over the same time window of 150s after the trigger.\nThis supports the above finding from matched filter analysis.\n\nThe photon information can be found in the following link including the\nskymap:\nhttp://www.rotse.net/LAT/GBMTriggers/383712005/383712005_res.html"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090709A: RAPTOR Limits During Gamma-Ray Emission",
+  "eventId": "GRB 090709A",
+  "bibcode": "2009GCN..9643....1W",
+  "createdOn": 1247182907000,
+  "circularId": 9643,
+  "submitter": "James Wren at LANL  <jwren@nis.lanl.gov>",
+  "email": "jwren@nis.lanl.gov",
+  "body": "J. Wren, W.T. Vestrand, P.R. Wozniak, H. Davis, B. Norman\nof Los Alamos National Laboratory report:\n\nThe RAPTOR telescope system responded to Swift trigger\n356890 (Morris et al., GCN 9625) under good observing conditions.\nOur narrow-field instruments began observing the location at\n07:39:03.4 UTC, 28.8 s after the Swift trigger (7.1 s after\nreceipt of GCN message).  We obtained simultaneous observations\nduring the gamma-ray emitting interval in Cousins V, R, and I\nbands as well as unfiltered data.  We do not detect the counterpart\nobserved by the Subaru Telescope (Aoki et al., GCN 9634) and\nPARITEL (Morgan et al., GCN 9635).  The data from our unfiltered\nand filtered systems was calibrated to the USNO-B1 catalog.  We\ncan put the following limits on the prompt emission:\n\nt-mid(s)          exp(s)   filter  mag    mag-err\n[since trigger]\n----------------------------------------------------\n31.34             5        clear  17.1   5 sigma limit\n52.35             5        V      14.8   5 sigma limit\n52.35             5        R      15.1   5 sigma limit\n52.35             5        I      15.5   5 sigma limit\n89.95             40       V      16.9   5 sigma limit"
+}

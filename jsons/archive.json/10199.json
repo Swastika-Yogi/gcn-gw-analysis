@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091127: Swift/UVOT observations",
+  "eventId": "GRB 091127",
+  "bibcode": "2009GCN.10199....1I",
+  "createdOn": 1259385472000,
+  "circularId": 10199,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (CRESST/UMCP/GSFC) and Troja (NASA/GSFC/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 091127\n3219 s after the BAT trigger (Troja et al., GCN Circ. 10191).\n\nWe detect the optical afterglow at the refined UVOT position\nRA, Dec 36.58288, -18.95239, which is\n\n     RA  (J2000)  02:26:19.89\n     Dec (J2000) -18:57:08.63\n\nwith an estimated uncertainty of 0.55 arcsec (radius, 90% confidence).\nThis position is consistent with ground-based optical/IR detections of\nthe afterglows (Smith et al., GCN 10192; Fugazza et al., GCN 10194;\nUpdike et al., GCN 10195; Xu et al., GCN 10196; Gorosabel et al.,\nGCN 10198). Preliminary magnitudes are reported below.\n\nFilter    T_start(s) T_stop(s)  Exposure(s)   Mag  Err\n------------------------------------------------------------------------\nwhite      3219       3369      147.4          16.2 +/- 0.1\nv          3375       3575      196.6          17.0 +/- 0.1\nuvw1       3785       5600     156.1          15.9 +/- 0.1\nuvm2       3580       3780      196.6         15.6 +/- 0.1\n-------------------------------------------------------------------------\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998, ApJS, 500, 525). The photometry is on the UVOT\nphotometric system described in Poole et al. (2008, MNRAS, 383, 627)."
+}

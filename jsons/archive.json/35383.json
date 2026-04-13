@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231216A: GIT optical upper limit",
+  "eventId": "GRB 231216A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35383....1S",
+  "createdOn": 1702765841879,
+  "circularId": 35383,
+  "submitter": "Vishwajeet Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "body": "R. Sharma, V. Swain, V. Bhalerao (IIT Bombay), S. Barway, G. C. Anupama (IIA), K. Angail (IAO)\n\nWe observed the field of GRB 231216A detected by Swift (Sbarrato et al., GCN Circ. 35378) with 0.7m GROWTH-India Telescope (GIT). The observations started at 18:59:01.9 UT on 2023-12-16, i.e., 23 minutes after the BAT trigger. We obtained the multiple exposures of 100 and 300 sec in the g' and r' filters. In our stacked images, we did not detect the afterglow within the Swift-XRT position. The obtained upper limits follow as:\n\nJD (mid) | t_mid-t0 (hours)| Filter | Exposure (s) | Limiting Magnitude (5 sigma) |\n\n2460295.3278711 | 1.27 | r' | 5100 (stacked) | 22.0 |\n2460295.3648310 | 2.16 | g' | 1500 (stacked) | 21.0 |\n\nOur results are consistent with the upper limits reported by Global MASTER-Net (Lipunov et al., GCN Circ. 35379), BOOTES-2/TELMA (Hu et al., GCN Circ. 35381) and NOT (Malesani et al., GCN Circ. 35382). The magnitudes are calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

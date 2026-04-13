@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 181028A",
+  "eventId": "GRB 181028A",
+  "bibcode": "2018GCN.23393....1K",
+  "createdOn": 1540895775000,
+  "circularId": 23393,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 181028A\n(Fermi-LAT detection: Axelsson et al., GCN Circ. 23386;\nFermi-GBM observation: Bissaldi & Meegan, GCN Circ. 23387;\nIPN Triangulation: Hurley et al., GCN Circ. 23388)\ntriggered Konus-Wind at T0=50984.309 s UT (14:09:44.309).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-2 s and has a total duration of ~38 s.\nThe emission is seen up to ~4 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.43(-0.18,+0.20)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+26.064 s,\nof 4.06(-1.01,+1.03)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+40.704 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.72(-0.10,+0.11)\nand Ep = 286(-22,+26) keV (chi2 = 53/70 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 53/69 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+24.320 to T0+32.512 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model\nwith  alpha = -0.39(-0.23,+0.27)\nand Ep = 292(-37,+49) keV (chi2 = 70/70 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.1\n(chi2 = 70/69 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB181028_T50984/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

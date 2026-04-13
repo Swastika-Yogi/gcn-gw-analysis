@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250925A: NOT optical afterglow candidate",
+  "eventId": "GRB 250925A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41990....1C",
+  "createdOn": 1758835187352,
+  "submitter": "Daniele Bjørn Malesani at Cosmic Dawn Center, Niels Bohr Institute <daniele.malesani@nbi.ku.dk>",
+  "circularId": 41990,
+  "format": "text/plain",
+  "body": "G. Corcoran (UCD), L. Cotter (UCD), D. B. Malesani (DAWN/NBI and Radboud), A. Martin-Carrillo (UCD), A. de Ugarte Postigo (LAM), B. Schneider (LAM), K. Valeckas (NOT and NBI), report on behalf of a larger collaboration:\n\n\nWe observed the field of GRB 250925A (Dichiara et al., GCN 41985) using the Nordic Optical Telescope (NOT) equipped with the ALFOSC imager. Observations started on 2025 Sep 25.847 UT (3.254 hr after trigger) and consisted of 3x300 s and 5x200 s in each of the SDSS r and z bands.\n\nWithin the UVOT-enhanced XRT position (Page et al., GCN 41988), we detect an object which is not seen in Pan-STARRS archival imaging of this field. Its coordinates are:\n\nRA(J2000) = 22:44:51.31\nDec(J2000) = +46:33:21.3\n\nwith an estimated error of 0.3”. Calibrated against nearby objects from Pan-STARRS, we measure AB magnitudes (not corrected for Galactic extinction):\n\nr = 21.99 +- 0.10 (3.30 hr after the trigger)\nz = 19.96 +- 0.05 (3.69 hr after the trigger)\n\nWe note that this is a rather red r-z color, even considering the non-negligible but still modest Galactic extinction A_V ~ 0.75 mag along this line of sight (Schlafly & Finkbeiner 2011; doi:10.1088/0004-637X/737/2/103). This might indicate either an intrinsic spectral slope, or unaccounted extinction in our Galaxy or in the GRB host.\n"
+}

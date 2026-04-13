@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100925A/MAXI J1659-152  MITSuME Ishigakijima and Okayama Optical Observation",
+  "eventId": "GRB 100925A",
+  "bibcode": "2010GCN.11306....1K",
+  "createdOn": 1285489238000,
+  "circularId": 11306,
+  "submitter": "Daisuke Kuroda at OAO/NAOJ  <dikuroda@oao.nao.ac.jp>",
+  "email": "dikuroda@oao.nao.ac.jp",
+  "body": "D. Kuroda (OAO, NAOJ),  H. Hanayama (IAO, NAOJ), K. Yanagisawa, Y. Shimizu,\nH. Toda (OAO, NAOJ), S. Nagayama, T. Miyaji, J. Watanabe (NAOJ),\nM. Yoshida (Hiroshima), K. Ohta (Kyoto) and N. Kawai(Tokyo Tech) report on\nbehalf of the MITSuME collaboration:\n\nWe observed the field of GRB 100925A / MAXI J1659-152 (Mangano et al.,\nGCN 11296; Barthelmy et al., GCN 11300) with the optical three color\n(g', Rc and Ic) CCD camera attached to the MITSuME 50cm telescope of\nOkayama Astrophysical Observatory and the Murikabushi 1m telescope of\nIshigakijima Astronomical Observatory.\n\nWe detected the previously reported source at the UVOT position\n(Marshall, GCN 11298) in all the three bands.\n\nPhotometric results of the OT are listed below. We used GSC2.3 catalog\nfor flux calibration.\n\nOkayama Astrophysical Observatory:\nThe observation started on 2010-09-25 09:58:43 UT (~ 1.9 h after the\ntrigger).\n#T0+[day]  MID-UT    T-EXP[sec]   g'  g'_err   Rc  Rc_err   Ic  Ic_err\n----------------------------------------------------------------------\n0.08949    10:13:57    1560.0   17.13  0.06  16.46  0.03  16.45  0.16\n0.11081    10:44:39    1500.0   17.08  0.08  16.61  0.04  16.32  0.19\n0.13201    11:15:11    1560.0   17.15  0.09  16.46  0.05  15.98  0.15\n\nIshigakijima Astronomical Observatory:\nThe observation started on 2010-09-25 10:53:50 UT (~ 2.8 h after the\ntrigger).\n#T0+[day]  MID-UT    T-EXP[sec]   g'  g'_err   Rc  Rc_err   Ic  Ic_err\n----------------------------------------------------------------------\n0.12082    10:59:03     480.0   16.97  0.04  16.48  0.02  16.24  0.03\n0.12818    11:09:40     540.0   17.05  0.03  16.52  0.02  16.32  0.03\n0.13556    11:20:17     540.0   17.02  0.04  16.52  0.02  16.30  0.02\nT0+ : Elapsed time after the burst [day]\nT-EXP: Total Exposure time [sec]"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 526660: Swift detection of 1 E 1841-045 (aka Kes 73)",
+  "bibcode": "2012GCN.13475....1B",
+  "createdOn": 1342328184000,
+  "circularId": 13475,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), N. Gehrels (NASA/GSFC), S. R. Oates (UCL-MSSL)\nand T. Sakamoto (NASA/UMBC) report on behalf of the Swift Team:\n\nAt 04:31:08 UT, the Swift Burst Alert Telescope (BAT) triggered on an outburst\n1E 1841-045 (aka Kes 73) (trigger=526660).  Swift did not slew because it was\ngiven a low merit value (as is typical for known-source triggers). \nThe BAT on-board calculated location is \nRA, Dec 280.349, -4.958, which is \n   RA(J2000)  = 18h 41m 24s\n   Dec(J2000) = -04d 57' 27\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single spike with a\nduration less than 64 msec.  The peak count rate was ~1800 counts/sec\n(15-350 keV), at ~0 sec after the trigger.  We note that BAT previously\ntriggered on this source on 02 July 2011. \n\nThere is a known SGR at this location."
+}

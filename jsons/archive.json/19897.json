@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160905A: Swift/UVOT Detection",
+  "eventId": "GRB 160905A",
+  "bibcode": "2016GCN.19897....1E",
+  "createdOn": 1473159343000,
+  "circularId": 19897,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and P. D'Avanzo (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160905A\n67 s after the BAT trigger (D'Avanzo et al., GCN Circ. 19887), which was\nalso detected by Fermi-GBM (GCN 19889) and Fermi-LAT (GCN 19890).\nA fading source consistent with the XRT position\n(Osborne et al. GCN Circ. 19891) is detected in the initial UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\nwhite_FC          67           216          147         15.8 � 0.03\nwhite                 67         2234          469         17.1 � 0.05\nu_FC              280           530          246         18.3 � 0.15\nu                      280         2185          401         18.8 � 0.16\nv                      610         2285          195         17.4 � 0.12\nb                      536         2210          175         18.7 � 0.16\nw1                   660         2160          175         >19.1\nm2                   635         2296          162         >19.1\nw2                   586         2260          195         >19.4\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.45 in the direction of the burst\n(Schlegel et al. 1998)."
+}

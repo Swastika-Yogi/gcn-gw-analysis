@@ -1,0 +1,11 @@
+{
+  "subject": "EP240806A: Liverpool Telescope optical follow-up observations",
+  "eventId": "EP240806A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37091....1B",
+  "createdOn": 1723046463473,
+  "circularId": 37091,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/plain",
+  "body": "A. Bochenek and D. A. Perley (LJMU) report:\n\nWe observed the field of the fast X-ray transient EP240806a (Wu et al., GCN 37063) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 5x150s exposures in each of the SDSS r and i filters starting at 2024-08-07 01:47:29 UT, approximately 21 hours after the trigger.\n\nEach set of images was stacked after discarding the last exposure in the r-band because of telescope tracking issues. We report a faint detection in the r-band of r = 22.65 ± 0.22 mag at a position consistent with the optical counterpart reported by Li et al. (GCN 37064). There is no detection in the i-band observation, with the limiting magnitude of i > 21.9 mag (AB) for a three-sigma detection limit:\n\nMJD (mid)       T_mid - T_0     Exp time    Filter     Mag. (AB)\n60529.07844       21.08 h         4x150s       r         22.65 ± 0.22\n60529.08929       21.34 h         5x150s       i         > 21.9\n\nThe photometry was obtained using nearby PanSTARRS secondary standards and was not corrected for extinction.\n"
+}

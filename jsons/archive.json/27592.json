@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200416A: Fermi GBM observation",
+  "eventId": "GRB 200416A",
+  "bibcode": "2020GCN.27592....1B",
+  "createdOn": 1587044498000,
+  "circularId": 27592,
+  "submitter": "Elisabetta Bissaldi at INFN,Bari  <elisabetta.bissaldi@ba.infn.it>",
+  "email": "elisabetta.bissaldi@ba.infn.it",
+  "body": "E. Bissaldi (Politecnico and INFN Bari)\nreports on behalf of the Fermi GBM Team:\n\n\n\"At 07:05:17.38 UT on 16 April 2020, the Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 200416A (trigger 608713522 /200416295),\nwhich was also detected by the Swift/BAT (Evans et al. 2020, GCN 27591).\nThe trigger was initially misclassified as a particle event by the flight software.\nThe GBM on-ground location is consistent with the Swift position.\n\nThe angle from the Fermi LAT boresight\nat the GBM trigger time is 92 degrees.\n\nThe GBM light curve shows a double-peaked emission episode\nwith a duration (T90) of about 9 s (50-300 keV).\nThe time-averaged spectrum from T0-2 s to T0+6 s is\nadequately fit by a power law function with an exponential\nhigh-energy cutoff. The power law index is -0.87 +/- 0.15 and\nthe cutoff energy, parameterized as Epeak, is 74 +/- 6 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.43 +/-  0.08)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0-0.064 s in the 10-1000 keV band\nis 6.5 +/- 0.3 ph/s/cm^2.\n\nA Band function fits the spectrum equally well\nwith Epeak= 64 +/- 9 keV, alpha = -0.66 +/- 0.24\nand beta = -2.5 +/- 0.3.\n\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

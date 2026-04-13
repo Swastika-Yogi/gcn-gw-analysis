@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 200219A",
+  "eventId": "GRB 200219A",
+  "bibcode": "2020GCN.27226....1S",
+  "createdOn": 1582733394000,
+  "circularId": 27226,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 200219A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 27123;\nBissaldi and Meegan, GCN Circ. 27137;\nSwift-BAT detection: Lien et al., GCN Circ. 27125;\nLaha et al., GCN Circ. 27148)\ntriggered Konus-Wind at T0=27405.513 s UT (07:36:45.513).\n\nThe burst light curve shows a single multi-peaked pulse\nwhich starts at ~T0-0.2 s and has a total duration of ~0.4 s.\nThe emission is seen up to ~8 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200219_T27405/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.12(-0.61,+0.67)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.182 s,\nof 2.34(-0.73,+0.76)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+0.256 s)\nis best fit in the 20 keV - 8 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.06(-0.28,+0.35)\nand Ep = 952(-173,+218) keV (chi2 = 29/27 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 29/26 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

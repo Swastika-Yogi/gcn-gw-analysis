@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080825B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080825B",
+  "bibcode": "2008GCN..8158....1B",
+  "createdOn": 1219972254000,
+  "circularId": 8158,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080825B\nstarting about 45 ks after the SuperAGILE detection\n(Evangelista et al., GCN Circ. 8133).  We do not detect\nthe optical afterglow seen by Thoene et al. (GCN Circ. 8135)\nin any of the UVOT filters down to the following 3 sigma\nupper limits.\n\nFilter  T_start(s) T_stop  Exp(s)   MagLimit\nwhite   49916      50823   885      >22.1\nuvw2    44237      78448   1903     >21.5\nuvm2    61477      67242   988      >20.8\nuvw1    67248      73020   1036     >20.9\nu       73027      73522   483      >20.8\nb       49004      49911   885      >21.2\nv       45144      61472   1234     >20.5\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E(B-V) ~ 0.25 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383,627)."
+}

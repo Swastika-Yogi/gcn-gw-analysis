@@ -1,0 +1,9 @@
+{
+  "subject": "Swift satellite in safe mode",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35953....1C",
+  "createdOn": 1710774144447,
+  "circularId": 35953,
+  "submitter": "Brad Cenko at NASA/GSFC <brad.cenko@nasa.gov>",
+  "body": "For a number of months the Swift team has been tracking increased noise in one of the three on-board gyroscopes (e.g., GCN 34633). On Friday March 15, the performance of this gyroscope degraded significantly, making it difficult for the spacecraft to acquire star tracker lock and execute successful pointed science observations. Thus the spacecraft was put into safe mode.\n\nThe Swift spacecraft was designed to accommodate the failure of one gyroscope and still meet all mission requirements. However, the on-board flight software requires a patch to allow the satellite to operate properly in two-gyroscope mode. \n\nWe are working to upload and install this patch, which we expect will return the spacecraft to full functionality, in as rapid and safe a manner as possible. Until the patch has been successfully deployed, science observations are expected to be very limited.\n\nWe will provide updates to the community as available.\n\nIf you have further questions, please feel free to reach out to the Swift PI, Brad Cenko, at brad.cenko@nasa.gov."
+}

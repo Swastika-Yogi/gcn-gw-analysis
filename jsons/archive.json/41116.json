@@ -1,0 +1,11 @@
+{
+  "subject": "Swift Trigger 1334535 / GRB 250718A: COLIBRÍ optical upper limits",
+  "eventId": "GRB 250718A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41116....1M",
+  "createdOn": 1752816256604,
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>",
+  "circularId": 41116,
+  "format": "text/plain",
+  "body": "Enrique Moreno Méndez (UNAM), Francis Fortin (IRAP), Camila Angulo (UNAM), Alan M. Watson (UNAM), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Jean-Luc Atteia (IRAP), Fredd Alvarez (UNAM), Dalya Akl (AUS), Sarah Antier (OCA), Rosa L. Becerra (U Roma), Nathaniel R. Butler (ASU), Damien Dornic (CPPM), Jean-Grégoire Ducoin (CPPM), Leonardo García García (UNAM), Noémie Globus (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Kin Ocelotl López (UNAM), Margarita Pereyra (UNAM), Ny Avo Rakotondrainibe (LAM), Benjamin Schneider (LAM), and Antonio de Ugarte Postigo (LAM):\n\nWe imaged the field of Swift Trigger 1334535 (Siegel et al, GCN Circ. 41115), possibly GRB 250718A, using the DDRAGO wide-field imager on the COLIBRÍ telescope. We observed from 2025-07-18 03:52 to 04:30 UTC (from 3:38 to 4:16 hours after the trigger at 00:14 UTC) and obtained 32 minutes of exposure in the i filter.\n\nThe data were reduced and coadded with the COLIBRÍ pipeline and analysed with STDWeb/STDPipe (Karpov 2025). The photometry was calibrated using nearby stars from the PanSTARRS DR1 catalog, is in the AB system, and is not corrected for Galactic extinction.\n\nIn the stacked image, after subtracting the a template image from Legacy Survey DR10 (Dey et al. 2019), we do not detect any new source in the BAT uncertainty region (Siegel et al, GCN Circ. 41115) down to the following 5-sigma limit:\n\ni > 22.7\n\nOur results are compatible with the earlier upper limit reported by Lipunov et al. (GCN Circ. 41114).\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n\nCOLIBRÍ is an astronomical observatory developed and operated jointly by France (AMU, CNES and CNRS) and Mexico (UNAM and SECIHTI). It is located at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir, Baja California, Mexico.\n"
+}

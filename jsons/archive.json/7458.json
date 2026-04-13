@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319D: Swift/UVOT Refined Analysis of the Fading Optical Afterglow Candidate",
+  "eventId": "GRB 080319D",
+  "bibcode": "2008GCN..7458....1I",
+  "createdOn": 1205956489000,
+  "circularId": 7458,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (CRESST/GSFC/UMD) and P. J. Brown (PSU) report on behalf\nof the Swift UVOT team:\n\nThe Swift/UVOT observations of the field of GRB 080319D (trigger 306793)\nstarting 151 seconds after the BAT trigger (Brown, et al., GCN Circ. 7453)\nreveal a fading optical afterglow candidate. The white and v-filter \nmagnitudes\nare as follows:\n\nFilter        T_start (s)    T_stop (s)        Exp (s)    Mag (3-sigma UL)\n----------------------------------------------------------------------------------------------\nWhite    151        251            100        19.7+/-0.3\nWhite    866        966            100        20.2+/-0.4\nv        257        657            400        >19.5\nv        972        1362        400        >19.5\n----------------------------------------------------------------------------------------------\n\nNo correction has been made for the expected Galactic extinction \ncorresponding\nto E(B-V) of 0.19 (Schlegel, et al. 1998). The position of the optical \nafterglow\ncandidate is\n\nRA (2000) = 06h 37m 53.6s\nDec (2000) = +23d 56' 34.2\"\n\nwith an uncertainty of 0.5 arcsec, which is 2.2 arcsec offset from the XRT\nposition (Brown, et al., GCN Circ. 7453)."
+}

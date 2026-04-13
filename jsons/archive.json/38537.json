@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 241209B",
+  "eventId": "GRB 241209B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38537....1R",
+  "createdOn": 1733932235967,
+  "circularId": 38537,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 241209B\n(SVOM/ECLAIRs and GRM detection: Xie et al., GCN 38478;\nSwift/BAT-GUANO localization: DeLaunay et al., GCN 38528;\nGRBAlpha detection: Dafcikova et al., GCN 38534)\ntriggered Konus-Wind at T0=14182.105 s UT (03:56:22.105).\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-0.480 s and has a total duration of ~0.7 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241209_T14182/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.45(-0.41,+1.38)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.318 s,\nof 1.66(-0.55,+0.74)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the brightest peak of the burst light curve\nwas detected before the trigger, the spectral analysis\nwas performed using the KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-0.480 s to T0+0.174 s)\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -0.21(-0.40,+1.27) and Ep = 163(-48,+45) keV.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

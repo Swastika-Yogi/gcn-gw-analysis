@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240802A (EP240802a)",
+  "eventId": "GRB 240802A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.37079....1F",
+  "createdOn": 1722963863093,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 37079,
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 240802A (AstroSat CZTI detection: Waratkar et al., GCN 37018;\nSVOM/GRM observation: Wang et al., GCN 37022;\nIPN triangulation: Svinkin et al., GCN 37026; Kozyrev et al., GCN 37078),\nassociated with the fast X-ray transient EP240802a (Wang et al., GCN 37019;\nAryan et al., GCN 37021; Svinkin et al., GCN 37026; Kozyrev et al., GCN 37078),\ntriggered Konus-Wind (KW) at T0=38048.482 s UT (10:34:08.482).\n\nThe burst light curve shows a multi-peaked emission pulse,\nwhich starts at ~T0-13 s and has the total duration of ~47 s.\nTwo main peaks in the light curve are located around ~T0 and ~T0+29 s,\nrespectively.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240802_T38048/\n\nAs observed by Konus-Wind, the burst had the total fluence\nof 1.63(-0.14,+0.15)x10^-5 erg/cm^2 and a 2.944-s peak energy flux,\nmeasured from T0+0.032 s, of 8.21(-2.63,+3.09)x10^-6 erg/cm^2/s\n(both in the 20 keV - 10 MeV energy range).\n\nDue to telemetry errors in the KW triggered-mode spectra, the spectral analysis\nwas performed using the 3-channel waiting-mode count rates.\nModeling the time-integrated spectrum (measured from T0-13.161 s to T0+33.943 s)\nby a power law with exponential cutoff (CPL) function dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.38(-0.11, + 0.12) and Ep = 226(-36,+51) keV.\nA CPL fit to the spectrum near the peak count rate (measured from T0-1.385 s to T0+1.559 s)\nresults in alpha = -1.02(-0.15,+0.17) and Ep = 273(-42,+55) keV.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n\n"
+}

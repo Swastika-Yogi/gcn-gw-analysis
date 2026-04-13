@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080710: Swift/UVOT observations",
+  "eventId": "GRB 080710",
+  "bibcode": "2008GCN..7965....1L",
+  "createdOn": 1215715843000,
+  "circularId": 7965,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W.B. Landsman (NASA/GSFC) and B. Sbarufatti(INAF-OAB) report on behalf \nof the Swift/UVOT team\n\nThe Swift/UVOT observed the field of GRB 08710 starting at 3186s after \nthe BAT trigger ( Sbarufatti et al., GCN 7957). We detect the afterglow \nin  all seven UVOT filters at the position\n\nRA(J2000.0)  =   00:33:05.65\nDEC(J2000.0) =  +19:30:05.3\n\nwith an estimated uncertainty of 0.5 arcsec (radius, 90% confidence).  \nThis position is consistent with the enhanced XRT position (Evans et al. \nGCN 7964) and the KAIT afterglow position (Li et al., GCN 7959).     The \ndetection in the UVW2 (1950 A) filter is consistent with the redshift of \n~0.845 estimated from spectroscopic observations by Perley et al. (GCN \n7962).   The\nwhite and v exposure are consistent with a decay slope of alpha ~-0.8, \nas also found by Bersier and Gomboc (GCN 7963).\n\nThe magnitudes with 1 sigma errors are reported below.\n\nFilter    TMid(s)    Expo(s)               Magnitude\n-----------------------------------------------------\nwhite     3185          98              16.88 +/- 0.02\nwhite     5615         186              17.37 +/- 0.03\nv         3342         197              17.06 +/- 0.06\nv        10560         295              17.79 +/- 0.08\nb         5416         197              17.56 +/- 0.05\nu         5211         197              16.70 +/- 0.04\nuvw1      5006         197              16.86 +/- 0.06\nuvm2      3477          58              17.08 +/- 0.17\nuvw2      9344         777              17.88 +/- 0.05\n-----------------------------------------------------\n\nThe above magnitudes are not corrected for the Galactic extinction  \ncorresponding to a reddening of E{B-V} = 0.07 mag (Schlegel et al. \n1998).  The photometry is on the UVOT flight system described in Poole \net al. (2008,MNRAS,383,627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080810: Swift-XRT Team refined analysis",
+  "eventId": "GRB 080810",
+  "bibcode": "2008GCN..8087....1P",
+  "createdOn": 1218412396000,
+  "circularId": 8087,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) reports on behalf of the Swift-XRT team:\n\nWe have analysed the first four orbits of the XRT data obtained for GRB \n080810 (Page et al., GCN Circ. 8080). The first orbit (376 s) was taken \nentirely in Windowed Timing (WT) mode, followed by 2.8 of Photon Counting \n(PC) data. The UVOT-enhanced position was given by Evans et al. in GCN \nCirc. 8086.\n\nThe WT data show a number of flares, with the strongest peaking around 107 \nand 209 s after the trigger; the first of these is also visible in the BAT \ndata. The PC data in later orbits can be modelled with a single power-law \ndecay, with alpha = 1.20 +0.12/-0.11.\n\nThere is strong spectral evolution throughout the first orbit, as is \ntypical for flaring activity. A spectrum extracted from the PC mode data \n(3.8-12.1 ks after the trigger) can be fitted with a power-law of Gamma = \n1.98 +/- 0.06, absorbed by the Galactic column in this direction of \n3.28x10^20 cm^-2. The observed (unabsorbed) flux over this time is 1.99 \n(2.20) x 10^-11 erg cm^-2 s^-1.\n\nIf the decay continues with alpha = 1.2, the predicted count-rate at 24 \nhours is 0.02 count s^-1, corresponding to an observed (unabsorbed) flux \nof 8.5 (9.4) x 10^-13 erg cm^-2 s^-1.\n\nThis is an official product of the Swift-XRT team."
+}

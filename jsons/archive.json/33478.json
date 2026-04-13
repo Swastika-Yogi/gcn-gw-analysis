@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230307A: Far off-axis NuSTAR detection of the GRB",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33478....1G",
+  "createdOn": 1678828247000,
+  "circularId": 33478,
+  "submitter": "Brian Grefenstette at Caltech/NuSTAR  <bwgref@srl.caltech.edu>",
+  "email": "bwgref@srl.caltech.edu",
+  "body": "B.W. Grefenstette (Caltech) on behalf of the NuSTAR Team\n\nAfter notification of the GRB 230307A via numerous GCNs, we searched the NuSTAR event stream for signals near the time of the GRB. Using a nominal position of RA:60.819 Dec:-75.379 (GCN #33425) we estimate the GRB was ~140-deg away from the telescope boresight (e.g., coming through the side of the instrument).\n\nEven so, we clearly see the GRB in the CsI anti-coincidence shields in both of the NuSTAR telescopes. In the 1-sec time resolution shield data we see bursts in excess of 25,000 cps above the LLD in the shield at 2023-03-07T15:44:07.5 and a brighter second peak at 2023-03-07T15:44:11.5, along with a dip at 2023-03-07T15:44:23.5 as also seen in the GRBAlpha (GCN 33418) lightcurves. The energy scale for the LLD on the CsI is not well calibrated for incident gamma-rays, but this can roughly be interpreted as counts above ~100 keV.\n\nThe GRB is also seen in the CdZnTe X-ray detectors of both telescopes. The high rate of shield hits and the temporal variations in the intrinsic flux makes interpreting the CdZnTe lightcurve difficult. NuSTAR detected roughly 1000 events per telescope during the burst, with measured rates on the order of 5 � 50 counts per second throughout the burst and energies ranging from a few keV up to the saturation level of the detectors around 250 keV.\n\nWe clearly see that the GRB is resolved into several peaks, with significant relative spectral evolution between the first and second peaks with the second peak seen to have slightly lower energies in the X-rays, though whether this is instrument or intrinsic remains to be seen."
+}

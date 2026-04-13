@@ -1,0 +1,10 @@
+{
+  "subject": "GRB030131, BVRcIc field photometry",
+  "eventId": "GRB 030131",
+  "bibcode": "2003GCN..1971....1H",
+  "createdOn": 1048796539000,
+  "circularId": 1971,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "A. Henden (USRA/USNO) reports on behalf of the USNO GRB team:\n\nWe have acquired BVRcIc all-sky photometry for\na 20x20 arcmin field centered at the candidate\nafterglow coordinates (Fox et al., GCN 1857)\nfor the INTEGRAL burst GRB030131 (GCNs 1836, 1838, 1847)\nwith the USNOFS 1.0-m telescope on one\nphotometric night.  Stars brighter than V=13.5 are saturated and\nshould be used with care.  We have placed the photometric data\non our anonymous ftp site:\nftp://ftp.nofs.navy.mil/pub/outgoing/aah/grb/grb030131.dat\nThe astrometry in this file is based on linear plate solutions\nwith respect to UCAC2.  The external errors are less than 100mas.\nThe estimated external photometric error is 0.03mag.\n\nIn particular, the star located at RA(J2000)=13:28:18.16\nDEC(J2000)=30:38:20.79, used as a comparison star by\nGorosabel et al. (GCN 1866) has B=18.95 +/- 0.03, making\nthe OT fainter than what was given in that GCN.\n\nWe will not be performing U-band calibration unless requested.\nAs always, you should check the dates on the .dat file prior\nto final publication to get the latest photometry."
+}

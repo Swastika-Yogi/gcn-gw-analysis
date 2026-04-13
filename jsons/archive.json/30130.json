@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210605B: Swift/BAT-GUANO detection and arcminute localization",
+  "eventId": "GRB 210605B",
+  "bibcode": "2021GCN.30130....1D",
+  "createdOn": 1622938881000,
+  "circularId": 30130,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "James DeLaunay (PSU), Aaron Tohuvavohu (U Toronto), Jamie A. Kennea\n(PSU), Gayathri Raman (PSU) report:\n\nSwift/BAT did not trigger on GRB 210605B (T0: 2021-06-06 14:55:58 UTC,\nFermi/GBM GCN 31029).\n\nThe Fermi/GBM notice, distributed in near real-time, triggered the\nSwift Mission Operations Center operated Gamma-ray Urgent Archiver for\nNovel Opportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst\nAlert Telescope (BAT) to save 200 seconds of BAT event-mode data from\n[-50,+150] seconds around the time of the burst. All the requested\nevent mode data was delivered to the ground.\n\nThe burst is detected in BAT with a duration of at least 20 seconds.\nThe burst occurred during a Swift slew.\nThe position of the burst was found with SNR of 8.4 using a novel slew\nimage mosaicing procedure (DeLaunay et al. 2021, in prep.), and so the\npositional uncertainty is not yet well characterized.\n\nThe BAT position is\nRA, Dec = 15.732, -6.467 deg which is\n   RA(J2000)  = 01h 02m 55.68s\n   Dec(J2000) =  -6d 28��� 1.2���\nwith an estimated uncertainty of 5 arcmin.\n\nThis position is consistent with the Ferm/GBM localization (GCN 31029).\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

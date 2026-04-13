@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210514A: Swift XRT light curve is fading",
+  "eventId": "GRB 210514A",
+  "bibcode": "2021GCN.30013....1E",
+  "createdOn": 1621068343000,
+  "circularId": 30013,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans (U. Leicester) reports on behalf of the Swift-XRT team:\n\nGCN Circular 30012 stated that we cannot determine whether the XRT afterglow of GRB 210514A is fading. This was incorrect. The light curve shows the so-called ���canonical��� X-ray afterglow behaviour, and can be modelled thus:\n\nAlpha_1 : 3.44  (+0.14,  -0.15)\nTbreak_1: 141   (+6,     -5)    sec \nAlpha_2 : 1.22  (+0.18,  -0.17)\nTbreak_2: 276.7 (+16.8,  -15.6) sec\nAlpha_3 : -0.14 (+0.06,  -0.05)\nTbreak_3: (1.02 [+0.04,  -0.03]) �� 10^3 sec\nAlpha_4 : 1.236 (+0.024, -0.022)\n\n\nWe apologise for the confusion; this was the result of the automated XRT software not operating completely correctly in the circumstances that some of the prompt TDRSS messages are missing. We are working urgently to understand and rectify these issues.\n\nThe online analysis is available at the usual website (https://www.swift.ac.uk/xrt_products/01048372).\n\nThis circular is an official product of the Swift-XRT team."
+}

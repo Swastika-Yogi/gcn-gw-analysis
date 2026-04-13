@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080603B, Swift-BAT refined analysis",
+  "eventId": "GRB 080603B",
+  "bibcode": "2008GCN..7806....1T",
+  "createdOn": 1212582760000,
+  "circularId": 7806,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), S. D. Barthelmy (GSFC), W. Baumgartner (GSFC/UMBC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), V. Mangano (INAF-IASFPA), C. Markwardt (GSFC/UMD),\nK. McLean (GSFC/UMD), D. Palmer (LANL), A. M. Parsons (GSFC),\nT. Sakamoto (GSFC/UMBC), G. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU),\nT. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+470 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 080603B (trigger #313087)\n(Mongano, et al., GCN Circ. 7794).  The BAT ground-calculated position is\nRA, Dec = 176.554, 68.061 deg, which is \n   RA(J2000)  =  11h 46m 13.0s \n   Dec(J2000) = +68d 03' 40.5\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n \nThe mask-weighted light curve shows three main clusters of peaks.  The first\nstarts at T-1 sec, peaks at T+1 sec, and ends at ~T+7 sec.  The second \nstarts at T+8 sec and ends at T+20 sec.  The third starts at ~T+42 sec\nand ends at ~T+80 sec.  T90 (15-350 keV) is 60 +- 4 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-0.1 to T+68.6 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 1.21 +- 0.30, \nand Epeak of 71.0 +- 16.0 keV (chi squared 63.16 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 2.4 +- 0.1 x 10^-6 erg/cm2\nand the 1-sec peak flux measured from T+0.96 sec in the 15-150 keV band is\n3.5 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.78 +- 0.07 (chi squared 75.18 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/313087/BA/"
+}

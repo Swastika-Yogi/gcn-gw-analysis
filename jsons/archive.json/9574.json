@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090625B: Faulkes Telescope South observations",
+  "eventId": "GRB 090625B",
+  "bibcode": "2009GCN..9574....1G",
+  "createdOn": 1245950434000,
+  "circularId": 9574,
+  "submitter": "Cristiano Guidorzi at Ferrara U,Italy  <guidorzi@fe.infn.it>",
+  "email": "guidorzi@fe.infn.it",
+  "body": "C. Guidorzi (U. Ferrara), D. Bersier (Liverpool JMU), P. O'Brien,\nN. Tanvir (U. Leicester) on behalf of a large collaboration report:\n\nOn 2009 June 25 at 13:28:21 UT the 2-m Faulkes Telescope South\nautomatically began observing the INTEGRAL GRB 090625B\n(Gotz et al., GCN Circ. 9572).\n\nObservations started 120 seconds after the IBAS trigger time and\nwere performed using the B, V, R and i' filters. We could not find any\nuncatalogued object inside the XRT error circle (Mao et al., GCN Circ.\n9573) down to the following limiting magnitudes:\n\nFor single frames:\n\nMid Time   Exposure  Filter   Limit\n  (s)       (s)              (mag)\n-------------------------------------\n141         3x10      R       > 19.3\n526           10      i'      > 18.5\n-------------------------------------\n\nFor coadded frames:\n\nTime Range Exposure  Filter   Limit\n  (min)     (s)               (mag)\n-------------------------------------\n22.5-45.2    420      R       > 21.0\n25.4-48.2    420      i'      > 20.3\n-------------------------------------\n\nCalibration was performed using a few USNOB1 nearby stars, adopting\nR2 and I values."
+}

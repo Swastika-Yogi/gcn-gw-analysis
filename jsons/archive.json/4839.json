@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060223b: Swift/UVOT Upper Limits",
+  "eventId": "GRB 060223B",
+  "bibcode": "2006GCN..4839....1S",
+  "createdOn": 1141054391000,
+  "circularId": 4839,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (PSU/MSSL-UCL), J.R. Cummings (NASA/ORAU), P.Brown (PSU), A. \nCucchiara (PSU) on behalf of the Swift/UVOT team\n\nThe Swift/UVOT began observing the field of GRB 060223b at 16:23:16 UT on 24th \nFebruary 2006, ~22hrs after the BAT trigger (Cummings et al. GCN 4821). \nDue to the proximity of a Mira variable star (~5th mag) observations were \nnot made in the V or B filters. No source is detected at the refined XRT \nposition (Perri et al. GCN 4835) in any of the other filters. The 3 sigma \nupper limits from a set of three coadded exposures in each filter are as \nfollows:\n\nFilter\tT_mid(hrs)  Exp(s)  3sigUL(mag)\nU\t22.6        2300\t20.5\nUVW1\t22.0        2522        20.8\nUVM2\t21.8        2524        21.1\nUVW2    21.1        2524\t21.3\n\nT_mid is the mid-time of the set of coadded images relative to the time since \nthe BAT trigger. We note that this is a very crowded field with a high level of \nGalactic extinction (E(B-V) = 0.393). All reported magnitudes are uncorrected \nfor Galactic extinction."
+}

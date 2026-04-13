@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 220930A: MITSuME Akeno optical upper limits",
+  "editedOn": 1765563375274,
+  "eventId": "GRB 220903",
+  "version": 2,
+  "bibcode": "2022GCN.32625....1T",
+  "createdOn": 1664959579000,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov>",
+  "circularId": 32625,
+  "submitter": "Tateda Mahiro at Tokyo Tech  <tateda@hp.phys.titech.ac.jp>",
+  "email": "tateda@hp.phys.titech.ac.jp",
+  "format": "text/plain",
+  "body": "M. Tateda, I.Takahashi, K. L. Murata, Y. Imai, N. Ito, M. Niwano, S.\nSato, N. Higuchi, Y. Takamatsu, R. Hosokawa, M. Sasada, Y. Yatsu, and\nN. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration:We\nobserved the field of GRB 220930A (S. B. Cenko et al. GCN Circular\n#32603, Alan M. Watson et al. GCN Circular #32604, The Swift-XRT team\nGCN Circular #32605,, Y.-D. Hu et al. GCN Circular #32606, V. Lipunov\net al. GCN Circular #32607, P.A. Evans et al. GCN Circular #32608, A.\nBelles et al. GCN Circular #32609, R. Strausbaugh et al. GCN Circular\n#32610, V. D'Elia et al. GCN Circular #32611, S. D. Barthelmy et al.\nGCN Circular #32612, R. Gopalakrishnan et al. GCN Circular #32613,\nA.Ridnaia et al. GCN Circular #32614, N. Pankov et al. GCN Circular\n#32617) with the optical three color (g', Rc, and Ic) CCD cameras\nattached to the MITSuME 50 cm telescope Akeno.The observation with a\nseries of 60 sec exposures started at 2022-09-30 13:10:00 UT (118.1\nminutes after the Swift/BAT trigger). We stacked the images with good\nconditions. We did not detect any uncatalogued sources within the\nenhanced Swift/XRT error region (Evans et al. GCN Circular #32608). We\nobtained the 5-sigma limits of the stacked images as follows.T0+[days]\n| MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n0.23 | 2022-09-30 16:39:02.52 | 14460 | g'>21.0, Rc>20.9, Ic>20.4\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure timeWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system. The images were\nprocessed in real-time through the MITSuME GPU reduction pipeline\n(Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages 4-24;\nhttps://github.com/MNiwano/Eclaire).."
+}

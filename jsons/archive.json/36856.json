@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi Sub-threshold Observation of GRB240713A",
+  "eventId": "GRB 240713A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36856....1B",
+  "createdOn": 1720911824966,
+  "submitter": "C. Michelle Hui at MSFC/Fermi-GBM <c.m.hui@nasa.gov>",
+  "circularId": 36856,
+  "format": "text/plain",
+  "body": "E. Burns (LSU), P. Veres (UAH), and C. M. Hui (MSFC) report on behalf of the Fermi-GBM Team:\n\nSVOM detected a probable GRB (Schanne et al. 2024, GCN 36854) at 02:02:40 UT on July 13, 2024. There was no Fermi-GBM onboard trigger around the event.\n\nThe GBM targeted search [1], the most sensitive, coherent search for short GRB-like signals, did not find any significant signal with the default short GRB search settings. However, extending the window durations up to 32.768s identified a coherent transient signal with a S/N of 8.0 from the same region of the sky and temporal window as identified by the SVOM ECLAIRs telescope. The extended signal was found with the “soft” spectral template. We note that we have not yet carefully characterized transients on this timescale with this search. Overall, we believe this to be a valid GBM signal of the SVOM/ECLAIRs GRB and encourage follow-up confirmation.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

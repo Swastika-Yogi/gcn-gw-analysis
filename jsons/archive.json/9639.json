@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090709A: High Energy BAT/XRT Analysis Suggests Low to Moderate Redshift",
+  "eventId": "GRB 090709A",
+  "bibcode": "2009GCN..9639....1B",
+  "createdOn": 1247179152000,
+  "circularId": 9639,
+  "submitter": "S. Bradley Cenko at Caltech  <cenko@srl.caltech.edu>",
+  "email": "cenko@srl.caltech.edu",
+  "body": "Nat Butler (UC Berkeley) Reports:\n\nWe reduce the Swift XRT and BAT data using our automated pipeline (see,\nhttp://astro.berkeley.edu/~nat/swift for more details of the fits and\nsummary plots for this and other Swift GRBs).\n\nThe intermediate time PC mode XRT data (t=4-10 ksec post trigger) are\nwell-fit (chi^2/nu=80.48/59) by an absorbed powerlaw with photon index\nGamma=1.9+/-0.1 and column density 1.7+/-0.5 x 10^21 cm^-2 in excess of\nthe anticipated Galactic contribution (6.6 x 10^20 cm^-2) at the 6.7-sigma\nlevel.  This detection of an excess column is suggestive of a low to\nmoderate redshift (i.e., z<~2) for the GRB (e.g,. Grupe et al. 2007, ApJ,\n133, 2216).\n\nThe time-integrated BAT spectrum is well-modeled by a powerlaw times\nexponential function (chi^2/nu=29.67/55).  We derive Epeak,obs = 200\n(176,298) keV and a rest-frame isotropic equivalent energy release Eiso ~\n1.4 x 10^53 erg (z=1).  If the GRB were at very high z~8, Eiso ~ 4.5 x\n10^54 erg, comparable to the intrinsically brightest few GRBs ever detected,\nfurther suggestive of a low to moderate redshift for this event."
+}

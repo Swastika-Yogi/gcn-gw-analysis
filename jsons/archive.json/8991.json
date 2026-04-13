@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090313: Swift-XRT refined analysis",
+  "eventId": "GRB 090313",
+  "bibcode": "2009GCN..8991....1M",
+  "createdOn": 1236985222000,
+  "circularId": 8991,
+  "submitter": "Jirong Mao at INAF-OAB  <jirong.mao@brera.inaf.it>",
+  "email": "jirong.mao@brera.inaf.it",
+  "body": "J. Mao & R. Margutti (INAF-OAB) report on behalf of the Swift-XRT team:\n\nWe have analysed 2 ks of XRT data for GRB 090313 (Mao et al. GCN Circ. \n8980),\nfrom 26.8 ks to 28.6 ks after the BAT trigger. All the data were taken in\nPhoton Counting (PC) mode. Using 2038 s of XRT Photon Counting mode data\nand 1 UVOT image, we find an astrometrically corrected X-ray position \n(using\nthe XRT-UVOT alignment and matching UVOT field sources to the USNO-B1\ncatalogue): RA, Dec = 198.40130, 8.09730 which is equivalent to:\n\nRA (J2000):  13 13 36.30\nDec (J2000): +08 05 50.4\n\nwith an uncertainty of 1.8 arcsec (radius, 90% confidence).\n\nThe optical candidate (Chornock et al. GCN 8979 and Updike et al. GCN \n8983) lies within\nthe XRT error circle.\n\nThe lightcurve can be modeled as a single power-law with an index around \n5.4. Given the present\ndata set the value of this parameter is affected by a large uncertainty.\n\nThe PC mode spectrum can be fit with an absorbed simple power-law, with \na photon index\nof 2.12 � 0.33 and an absorbing column density of 1.29 � 0.97 e21 cm-2,  \nin excess of the Galactic\nvalue of 2.10e20 cm-2 (Kalberla et al. 2005). The counts to observed \n(unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum is 5.1e-11 (5.9e-11) erg \ncm-2 count-1.\n\nGiven the very uncertain power-law decay index, no firm prediction of \nthe lightcurve can be made.\n\nThe results of the automatic XRT analysis are available online at\nhttp://www.swift.ac.uk/xrt_products/00346386.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 240713A: OHP/T120 optical upper limit",
+  "editedOn": 1721043407759,
+  "version": 2,
+  "eventId": "GRB 240713A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36861....1T",
+  "editedBy": "Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov> on behalf of Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "circularId": 36861,
+  "createdOn": 1720957800000,
+  "submitter": "Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "format": "text/plain",
+  "body": "D. Turpin (CEA Paris-Saclay), Vincent Robert (IMCCE), C. Adami, S. Basa (LAM/Pytheas/AMU), A. de Ugarte Postigo (OCA/LAM), S. D. Vergani (GEPI, Obs. de Paris), B. Schneider (MIT), E. Le Floc'h, D. Götz, F. Schussler (CEA Paris-Saclay), M. Dennefeld (IAP) report on behalf of a larger collaboration:\n\nWe observed the field of GRB 240713A (Schanne et al., GCN 36854) also possibly detected by Fermi-GBM as a sub-threshold event (Burns et al., GCN 36856) using the T120cm telescope at Observatoire de Haute-Provence (France). A total of 8 single exposures between 400-500 seconds (3200 sec in total) were obtained in the R-band from 00:27:57.12 UT to 01:35:28.71 on 2024-07-14 (mid-time ~22.98h after the SVOM ECLAIRs trigger time). Note that our field of view (FoV) could only partially cover the ECLAIRs error box so we perfomed single observations with a quite large dithering in order to cover ~80% of the ECLAIRs error box. This results in an sky position dependency of our exposure time in the combined frame.\n\nIn the combined frame, after subtracting with the PanSTARRS DR1 catalog, we did not detect any optical counterpart consistent with the non detection reported by (Hello et al., GCN 36855; Sankar et al., GCN 36857). We measure a limiting magnitude of R > 21.7 (5 sigma) where we obtained the longest exposures in the stacked frame.\n\nAt the positions of the x-ray sources found by EP/FXT (Yang et al., GCN 36860), we derive the following optical upper limits in R-band:\n\nSource | R.A. | Dec. | OHP/T120 U.L (5 sigma)\n----------------------------------------------------------\nEP J233058.2+015317  | 352.7425 | 1.8879 | 21.3\nEP J233023.3+015537  | 352.5970 | 1.9269 | 21.7\nEP J233039.0+014426  | 352.6627 | 1.7404 | Not in our FoV\nEP J233020.4+015231  | 352.5850 | 1.8753 | 21.8\nEP J233016.5+020124  | 352.5687 | 2.0232 | 21.4\nEP J233017.4+014339  | 352.5724 | 1.7275 | Not in our FoV\nEP J233012.2+015001  | 352.5509 | 1.8335 | 21.8\nEP J233042.1+015623  | 352.6754 | 1.9397 | 21.7\nEP J233002.5+015949  | 352.5104 | 1.9968 | 21.3\nEP J232954.2+015030  | 352.4757 | 1.8416 | 21.3\n\nThe photometric calibration was performed using nearby stars from the Gaia DR3 Synphot catalog and magnitudes are not corrected for Galactic extinction.\n\nWe acknowledge the Observatoire de Haute Provence staff for their excellent support."
+}

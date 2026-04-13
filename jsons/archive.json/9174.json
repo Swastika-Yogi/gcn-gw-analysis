@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090417B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090417B",
+  "bibcode": "2009GCN..9174....1H",
+  "createdOn": 1240256786000,
+  "circularId": 9174,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and B. Sbarufatti (INAF-IASFPA)\nreport on the behalf of the Swift UVOT team:\n\n      The Swift/UVOT observed the field of GRB 090417B starting 378 s\nafter the BAT trigger (Sbarufatti, et al., 2009, GCN Circ. 9135).\nSettled exposures started at T+395 s.  We do not find any new source,\nrelative to the DSS, USNO-B1.0, or 2MASS at the position of the XRT\nafterglow (Sbarufatti, et al. 2009, GCN Circ. 9155).  Preliminary\n3-sigma upper limits for detecting a source in the white finding\nchart, and the co-added images, using a 2.5 arcsecond radius circular\naperture, are\n\nFilter    T_start   T_stop   Exp(s)      Mag\n--------------------------------------------\nwhite (fc)    395      545      147    >21.7\n\nv             552   13,098     1237    >21.3\nb             651   19,457      862    >21.9\nu            1300   25,241     1376    >22.0\nuvw1          601   25,174     2300    >22.2\nuvm2          750   24,268     1878    >21.8\nuvw2          700   29,604     1331    >22.0\nwhite         395     7823      841    >22.6\n--------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.02 mag (Schlegel, et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

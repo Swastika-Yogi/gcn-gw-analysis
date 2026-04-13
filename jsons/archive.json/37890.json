@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241025A: GROWTH-India Telescope optical observations",
+  "eventId": "GRB 241025A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37890....1M",
+  "createdOn": 1729920987937,
+  "submitter": "Varun Bhalerao at IIT Bombay <varunb@iitb.ac.in>",
+  "circularId": 37890,
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, R. Kumar, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of GRB 241025A observed by SVOM/GRM (GCN 37863), Fermi/GBM (Fermi GBM Team, GCN 37860), Swift/BAT (E. Ambrosi et al., GCN 37859) with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2024-10-25 15:50:58, i.e., 14.23 hours after the Swift-BAT trigger. We obtained multiple exposures of 360 seconds in the i' filter. In our stacked images, we detected the optical afterglow at the coordinates reported by Swift UVOT. The photometry results follow as:\n\n---------------------------------------------------------------------------------\n| MJD (mid) | Filter | Total Exposure (s) | Magnitude (AB) | \n| -----------------|------- | ------------------ | -------------- |\n| 60608.6728935|   i'   |      6x360         | 20.3 +/- 0.08 |\n\n---------------------------------------------------------------------------------\nAbove optical afterglow is also observed by Jiang et al., (GCN 37862), Pereyra et al., (GCN 37865), SVOM/VT (GCN 37871), Abdi et al., (GCN 37882), Watson et al. (GCN 37889).\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050724: early Swift XRT analysis results",
+  "eventId": "GRB 050724",
+  "bibcode": "2005GCN..3669....1R",
+  "createdOn": 1122229847000,
+  "circularId": 3669,
+  "submitter": "Pat Romano at OAB-Swift  <romano@merate.mi.astro.it>",
+  "email": "romano@merate.mi.astro.it",
+  "body": "P. Romano, A. Moretti, S. Covino (INAF-OAB), L.A. Antonelli(IANF-OAR), \nD.N. Burrows, D. Grupe (PSU), M. Chester (PSU),  G. Chincarini, G. \nTagliaferri (INAF-OAB), P. Boyd (GSFC-UMBC) on behalf of the Swift-XRT \nTeam report.\n\nWe have analyzed the Swift XRT data from the first orbit observation of \nGRB 050724 (Covino et al., GCN 3665). The new refined coordinates are: \nRA(J2000) =  16h 24m 45s  Dec(J2000) = -27 32 25.2. This position is 65 \narcseconds from the refined BAT position given in GCN 3667 (H. Krimm et \nal), and 9 arcseconds from the XRT position given in GCN 3665. We \nestimate an uncertainty of 6.3 arcseconds radius (90% containment). \nHowever, we note that there is accumulating evidence of a time-dependent \nsystematic shift in XRT positions derived from ground-processed data \ntowards lower declinations than the optical counterparts. This effect is \nbeing investigated but is not yet understood.  Extrapolation of earlier \npositional errors suggests that the correct position could be \napproximately 7 arcseconds north of the position given above, which \nwould be close to the on-board position given in GCN 3665.\n\nA preliminary spectral fit (simple absorbed power-law) to the WT data \nyields a photon index of 1.93-/+0.05 in the [0.5-10] keV band. The \nderived NH is (5.7)E21 cm^-2, which is higher than the Galactic value \n(1.46E+21 cm-2; Dickey & Lockman 1990). The average (79-342 seconds from \ntrigger) estimated unabsorbed 0.5-10 keV flux is 5.3E-9 ergs/s/cm2.\n\nThe light curves in Windowed Timing (WT) and Photon Counting (PC) mode \nstart 79 and 343 seconds from the BAT trigger (T0), and they show a \nfading afterglow which can be fitted with a broken power law of slopes \n-3.2+/-0.1 and -0.8+/-0.2. The unabsorbed 0.5-10.0 keV flux at 24 hours \nafter the burst is then estimated to 9E-14 ergs/s/cm2."
+}

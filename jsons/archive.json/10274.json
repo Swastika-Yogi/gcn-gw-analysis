@@ -1,0 +1,10 @@
+{
+  "subject": "GRB091208A: Swift/UVOT refined analysis",
+  "eventId": "GRB 091208A",
+  "bibcode": "2009GCN.10274....1D",
+  "createdOn": 1260366207000,
+  "circularId": 10274,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and E. Hoversten (PSU) report on the behalf of \nthe Swift team:\n\nSwift/UVOT observed the field of GRB091208A from 4.32 ks to 4.33 ks after \nthe BAT trigger in the v filter and then from 26.01 to 26.71 ks after the \ntrigger in u, v and white filters. No new source is detected in the BAT \nerror circle  (Barthelmy et al., GCN Circ. 10264). We caution though that \na small fraction of BAT error circle is not covered by UVOT exposures.\n3 sigma upper limits on magnitudes are as follows:\n\nFilter T_start(s)  T_stop(s)      Exp(s)     Mag\nv          4318       4328           10     >17.4\nv         26513      26717          200     >19.4\nwh        26261      26507          243     >21.1\nu         26008      26255          243     >20.1\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al., 2008, MNRAS 383,627). They are not corrected for\nthe expected strong Galactic extinction, corresponding to a reddening\nof E(B-V)=1.6."
+}

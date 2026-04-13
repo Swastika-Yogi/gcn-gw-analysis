@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070810B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070810B",
+  "bibcode": "2007GCN..6755....1B",
+  "createdOn": 1186860773000,
+  "circularId": 6755,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P.J. Brown and F.E. Marshall (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070810B (trigger #287409)\nstarting 65 s after the BAT trigger (Marshall et al., GCN Circ. 6743).\nWe do not find any new source in the UVOT observations inside the\nrefined BAT error circle (Sakamoto et al., GCN Circ. 6753) including\nthe two low significance XRT sources (Starling et al., GCN Circ. 6754).\nThe galaxy 2MASX J00355339+0849273 (= LEDA 1354367) is visible in\nall filters except uvm2, but does not show signs of variability.\nThe 3-sigma upper limits for detecting a source in the first\nfinding chart (FC) exposure and co-added frames are:\n\nFilter       T_start(s)   T_stop(s)     Exp(s)     Mag (3-sigma UL)\n\nwhite (FC)   66           165           98         >20.5\nwhite        66           13134         1345       >22.0\nv            172          7372          1296       >20.4\nb            653          12222         1299       >21.2\nu            628          7987          549        >20.3\nuvw1         604          7782          549        >20.5\nuvm2         579          7577          549        >20.4\nuvw2         683          13859         1237       >21.1\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E(B-V) = 0.053 mag towards\nthe direction of the burst (Schlegel et al. 1998)."
+}

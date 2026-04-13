@@ -1,0 +1,14 @@
+{
+  "subject": "EP250905a: FTW one optical and multiple NIR counterpart candidates",
+  "editedOn": 1757340173002,
+  "version": 2,
+  "eventId": "EP250905a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41734....1H",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Xander J Hall at Carnegie Mellon University <xjh@andrew.cmu.edu>",
+  "circularId": 41734,
+  "createdOn": 1757127051756,
+  "submitter": "xjh@andrew.cmu.edu",
+  "format": "text/markdown",
+  "body": "Xander J. Hall (Carnegie Mellon U.), Malte Busmann (LMU), Brendan O’Connor (Carnegie Mellon U.), Daniel Gruen (LMU), Antonella Palmese (Carnegie Mellon U.) report:\n\nWe observed the localization of the x-ray flare EP250905a (GCN 41725), with the Three Channel Imager (3KK) at the Fraunhofer Telescope at Wendelstein Observatory (FTW) in the r, i, and J bands starting at 2025-09-05T20:12:28 UTC (0.38 days after the X-ray flare) for 52 x 180s. \n\nIn the difference imaging with templates from PS1, we detect no new sources down to r ~ 23.2 and i ~ 23.1.\n\nHowever, our image depth is far deeper (r ~ 24.5, i ~ 24.3, J ~ 23.2). By eye, we compare to PS1 and 2MASS catalogs and present 5 potential new sources within the 20” error circle:\n\n| id | ra | dec | mag_J | mag_J_err | mag_r | mag_r_err | \n| ----------- | ------------- | ------------- | ---- | --- | ----- | ---- |\n| EP250905a_2 | 00:17:47.9940 | +37:28:19.306 | 21.3 | 0.1 | 22.14 | 0.04 |\n\nEP250905a_2 was reported by He et al. (GCN 41732), however in our difference imaging we see no source. In our science image, we note a distinct point source there below the galaxy. We report a noticeably brighter r ~ 22.14 than reported by He et al. (GCN 41732), but there is significant bleed from the nearby galaxy. There also appears to be a faint source at that position in the PS1 template.\n\nWe note that these following four sources are not detected above our three sigma limit in r band photometry, but have clear sources in J.\n\n| id | ra | dec | mag_J | mag_J_err |\n| ----------- | ------------- | ------------- | ---- | ----|\n| EP250905a_1 | 00:17:47.4836 | +37:28:25.975 | 22.1 | 0.1 | \n| EP250905a_3 | 00:17:46.8641 | +37:28:16.316 | 21.40 | 0.06 |\n| EP250905a_4 | 00:17:47.4834 | +37:28:07.901 | 21.9 | 0.1 |\n| EP250905a_5 | 00:17:47.4630 | +37:28:05.478 | 21.9 | 0.1 |\n\nWe encourage continued follow-up to determine the variable nature of these sources.\n\nThe magnitudes are reported in AB and calibrated against the PS1 and 2MASS catalog and not corrected for Galactic extinction.\n\nWe thank Michael Schmidt from the Wendelstein Observatory staff for obtaining these observations."
+}

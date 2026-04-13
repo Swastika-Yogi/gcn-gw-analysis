@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241215A: Mondy AZT-33IK optical observations",
+  "eventId": "GRB 241215A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38580....1P",
+  "createdOn": 1734352495112,
+  "circularId": 38580,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/markdown",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP) report on behalf of IKI-GRB-FuN:\n\nWe performed optical observations of the field of GRB 241215A (Mereghetti et. al, GCN 38573; Mohan et. al, GCN 38574; Leonini et. al, GCN 38575; Liu et. al, GCN 38576) in the R filter with AZT-33IK of Sayan (Mondy) observatory. The observations began on 2024-12-15 14:27 UT, i.e. ~1.08 hr since INTEGRAL trigger. We have covered the entire localization area assessed by the INTEGRAL team (Mereghetti et. al, GCN 38573). No candidate transients were found using image subtraction with ```apex_subtract``` pipeline against the PS1 template image. The preliminary upper limit of the stacked image is given below:\n\n| Date       | UTstart  | t-T0 (mid, days) | Exptime (n*s) | Filter | Magnitude | UL (3sigma) |\n| ---------- | -------- | ---------------- | ------------- | ------ | --------- | ----------- |\n| 2024-12-15 | 14:27:52 | 0.044875         | 30*120        | R      | n/d       | 21.3        |\n\nThe magnitudes were calibrated using nearby stars from USNO-B1.0 (R2 magnitudes) and are not corrected for the Galactic extinction."
+}

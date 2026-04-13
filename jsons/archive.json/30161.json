@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210610A: MITSuME Akeno optical observation",
+  "eventId": "GRB 210610A",
+  "bibcode": "2021GCN.30161....1H",
+  "createdOn": 1623341637000,
+  "circularId": 30161,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, K. L. Murata, M. Niwano, N. Ito, H. Takamatsu, Y. Imai,\nS. Sato, M. Takaku, R. Noto, R. Yamaguchi, Y. Yatsu, and N. Kawai\n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210610A (K. L. Page et al. GCN\nCircular #30160) with the optical three color (g', Rc, and Ic) CCD\ncameras attached to the\nMITSuME 50 cm telescope of Akeno Observatory, Yamanashi, Japan. The\nobservation with a series of 10 sec exposures started at 2021-06-10\n15:04:41 UT (58 seconds after Swift BAT trigger). We stacked the\nimages with good conditions. We detected the point source at the\nposition consistent with the afterglow detected previously (K. L. Page\net al. GCN Circular #30160)\nWe measured the magnitudes as follows.\n\nfilter MID-UT T-EXP[sec] measured magnitudes\n------------------------------------------------------------------------------------------------\ng' 15:08:47 10 16.4+/-0.4\nRc 15:08:29 50 15.3+/-0.1\nIc 15:08:29 50 15.0+/-0.2\n------------------------------------------------------------------------------------------------\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

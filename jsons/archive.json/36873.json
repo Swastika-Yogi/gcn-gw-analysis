@@ -1,0 +1,11 @@
+{
+  "subject": "GRB240715A: GRANDMA Optical Upper Limits",
+  "eventId": "GRB 240715A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36873....1H",
+  "createdOn": 1721059526009,
+  "circularId": 36873,
+  "submitter": "Thomas Hussenot-Desenonges at IJCLab <thomas.hussenot@ijclab.in2p3.fr>",
+  "format": "text/plain",
+  "body": "T. Hussenot-Desenonges, P. Hello (IJCLAB), N. Kochiashvili (AbAO), R. Strausbaugh (EIU), C. Andrade (UMN), S. Antier (OCA), M. Coughlin (UMN), P-A Duverne (APC),  N. Guessoum (AUS), S. Karpov (FZU), T. Pradier (Unistra/IPHC), D. Turpin (CEA-Saclay/Irfu), A. Klotz (CNRS-OMP-IRAP), M. Boer, S. Gervasoni, C. Limonta (OCA), De Almeida, L., Corradi, W. , Tosta e Melo, I, Sasaki, N., Navarete, F., Braga, L. (LNA)  on behalf of the GRANDMA collaboration.\n\nGRANDMA performed follow-up in response to the GRB240715A (presumably short GRB) detected by Fermi GBM (GCN 36866). TAROT-TCH observed the first image at 2024-07-15T07:21:24, 1.5 hours after the trigger time, and OPD started observations at 2024-07-15T08:06:49, 2.5 hours from trigger.\n\nWe did not detect any new source with SNR>5 in a 2x1.8 degrees field with RA from 7.5 to 9.6 degrees and DEC from -28.5 to -30.2 degrees; observed by TAROT-TCH in Clear, r,i and z at T0+1.5h, T0+3h, T0+4.5h and T0+5h respectively. The 5-sigma upper-limits we obtain are repectively 19.8, 20.2, 19.4 and 16.7, in G, r, i and z filters (AB magnitudes).\nIn the OPD field of view, a 0.2x0.2 degrees box centered on RA,DEC:8.396,-29.397 ; we obtain a deeper upperlimit of 21.3 in R filter (Vega magnitude).\n\nTAROT-TCH and OPD data have been reduced by a single data processing pipeline STDPIPE (Karpov et al., 2022)\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 49, 5518). "
+}

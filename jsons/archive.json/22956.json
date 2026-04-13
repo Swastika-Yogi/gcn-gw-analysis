@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180715A: CALET Gamma-Ray Burst Monitor detection",
+  "eventId": "GRB 180715A",
+  "bibcode": "2018GCN.22956....1T",
+  "createdOn": 1531893809000,
+  "circularId": 22956,
+  "submitter": "Takanori Sakamoto at AGU  <tsakamoto@phys.aoyama.ac.jp>",
+  "email": "tsakamoto@phys.aoyama.ac.jp",
+  "body": "S. Torii (Waseda U), A. Yoshida, T. Sakamoto, V. Pal'shin, S. Sugita, Y. Kawakubo,\nA. Tezuka, S. Matsukawa, H. Onozawa, T. Ito, H. Morita, Y. Sone (AGU),\nK. Yamaoka (Nagoya U), S. Nakahira (RIKEN), I. Takahashi (IPMU),\nY. Asaoka, S. Ozawa (Waseda U), Y. Shimizu, T. Tamura (Kanagawa U),\nW. Ishizaki (ICRR), M. L. Cherry (LSU), S. Ricciarini (U of Florence),\nA. V. Penacchioni, P. S. Marrocchesi (U of Siena)\nand the CALET collaboration:\n\nThe short, hard GRB 180715A (Swift-BAT trigger #848048:\nUkwatta, et al., GCN Circ. 22947, 22951; Fermi-GBM detection:\nHamburg and Meegan, GCN Circ. 22952) triggered the CALET Gamma-ray\nBurst Monitor (CGBM) at 18:07:04.799 UTC on 15 July 2018.\nThe burst signal was seen by all CGBM detectors.\n\nThe burst light curve shows a double-peaked pulse which starts\nat T+0.192 sec and ends at T+0.784 sec.\nThe T90 and the T50 durations measured by the SGM data are\n0.53 +- 0.07 sec and 0.34 +- 0.12 sec (40-1000 keV), respectively.\n\nThe time-averaged spectrum of the burst (measured by the SGM from\nT+0.192 sec to T+0.784 sec) is best fit in the 0.03-10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.64(-0.37, +0.46) and Ep = 707(-195, +337) keV (chi2 = 29.4/32 dof).\nThe resulting fluence in this energy range is 2.32(-0.50, +0.65)x10^-6 erg/cm2.\nThe quoted errors are at 90% CL.\n\nThe ground processed light curve is available at\n\nhttp://cgbm.calet.jp/cgbm_trigger/ground/1215713118/\n\nAll the quoted values are preliminary.\n\nThe CALET data used in this analysis are provided by the Waseda CALET\nOperation Center located at the Waseda University."
+}

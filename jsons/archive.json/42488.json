@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251023B: Swift-UVOT Upper Limits",
+  "eventId": "GRB 251023B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42488....1K",
+  "createdOn": 1761586723616,
+  "circularId": 42488,
+  "submitter": "noelklin@umbc.edu",
+  "format": "text/plain",
+  "body": "Swift-UVOT has performed follow-up observations of the EP-detected burst GRB 251023B (Wu et al. GCN 42415), collecting 1.7 ks of observations between T0+6.6 ks and T0+26.9 ks.  No source was detected in the UVOT data at the position of the optical afterglow (Mandarakas et al., 42404; He at al., GCN 42418; Adami et al., 42421; Méndez et al. 42424).\n\n3-sigma upper limits (AB) using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) are:\n\nFilter\t\tT_start(s)\tT_stop(s)\tExp(s)\t\tMag\nU\t\t6573\t\t26943\t\t1737\t\t>21.92\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.416 in the direction of the burst (Schlegel et al. 1998).\n\nWe note that in the first snapshot (1531.80 s worth of data), the optical afterglow's position landed on a UVOT detector patch of small scale sensitivity inhomogeneity.  In the U-band this can cause a source's flux to appear 5-16% lower than it actually is.  The above limits are not corrected for this.  See https://swift.gsfc.nasa.gov/analysis/uvot_digest/sss_check.html for more information."
+}

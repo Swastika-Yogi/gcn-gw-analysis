@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250527C: CrAO Optical Upper Limit",
+  "eventId": "GRB 250527C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40653....1P",
+  "createdOn": 1749464373941,
+  "circularId": 40653,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), S. Nazarov (CrAO), A. Pozanenko (IKI) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of GRB 250527C detected by Fermi/GBM (Trigger 770047117) and further localized by Swift/BAT-GUANO (Delaunay et. al, GCN 40563). The field has also been observed by Swift/XRT (Evans, GCN 40564), and Swift/UVOT (Klingler, GCN 40574). Our observations were carried out using the Sintez-Newton 0.36-meter telescope installed at the Crimean Astrophysical Observatory (CrAO). The series of images has taken in the R-filter. We do not detect candidate transients in comparison with USNO-B1.0, and PS1 catalogs in the stacked image of 22*120 sec. Particularly, we were searching for candidates inside localization circles of X-Ray sources provided in (Evans, GCN 40564). The preliminary upper limit is given below:\n\nDate       UTstart   T-T0   Exposure Filter OT  Err     UL\n                              (n*T)                  (3-sigma)\n2025-05-28 23:46:57 1.42390  22*120     R   n/d n/d    19.1\n\nThe photometry was calibrated using nearby USNO-B1.0 stars (R2 magnitudes) and has not been corrected for the Galactic extinction."
+}

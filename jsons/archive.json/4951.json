@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060403: Swift/UVOT upper limits",
+  "eventId": "GRB 060403",
+  "bibcode": "2006GCN..4951....1P",
+  "createdOn": 1144136596000,
+  "circularId": 4951,
+  "submitter": "Tracey Poole at MSSL  <tsp@mssl.ucl.ac.uk>",
+  "email": "tsp@mssl.ucl.ac.uk",
+  "body": "T. S. Poole (UCL-MSSL), and P. T. Boyd (NASA/GSFC) on behalf of the \nSwift/UVOT team.\n\n\nThe Swift/UVOT began observing the field of GRB060403 (BAT Trigger=203755,\nP. T. Boyd, et. al, GCN 4945) at 13:13:00 UT, 43s after the BAT trigger \n(which includes the 10s V filter settling  exposure). No new source is \ndetected at the XRT position (V. Mangano, GCN 4947) in coadded images with \nany of the filters. The following 5-sigma magnitude upper limits are not \ncorrected for Galactic extinction; E(B-V) = 1.270.\n\nFilter   T_range(s)  T_exp(s)  5sigma(mag)\n\nV        43-10090    1220.0    19.25\nB        4011-16788  1299.0    20.41\nU\t 3807-15876  1299.0    20.16\nUVW1     3602-11845  1242.6    20.18\nUVM2     3397-10994  1299.4    20.59\nUVW2     4421-6052   399.6     19.99\nWHITE\t 63-17630    1329.8    20.37\n\nWhere T_range is time post-trigger, and T_exp is the exposure time of\nthe observation. A 6 arcsec radius was used for all filters.\n\nThis message may be cited."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250806A: Mondy optical observations, and nearby bright galaxy photometry",
+  "eventId": "GRB 250806A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41285....1P",
+  "createdOn": 1754654924351,
+  "circularId": 41285,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of GRB 250806A detected by SVOM/ECLAIRs (Xie et. al, GCN 41243) with the 1.5m AZT-33IK telescope of the Solar Sayan Observatory (Mondy). The series of 28x120 s images were ingested in the R-filter starting on 2025-08-06 at 16:59 UT, i.e. ~0.39 days after the SVOM trigger. In the co-add image of 26x120 we do not detect the optical source reported in (Breeveld, GCN 41264). We note the presence of a nearby SDSS-DR12 galaxy at the coordinates (J2000) 23:13:43.45 01:21:21.9 located at the photometric redshift ~ 0.3 and has the SDSS photometry r = 21.383 +/- 0.141, and i = 21.113 +/- 0.163. This SDSS galaxy is the brighter one of the Legacy Survey galaxies reported in Malesani et al., GCN 41279. The preliminary photometry of the galaxy in the co-add image is presented below:\n\nDate       UT start     t-T0        Exp.   Filter    Mag    Err     UL\n                     (mid, days)  (n x s)                        (3sigma)\n2025-08-06 16:59:03    0.39362     26x120    R      21.27   0.22    22.4\n\nThe photometry was calibrated using nearby stars from the SDSS-DR12 catalog (R mags were obtained via Lupton 2005 transformations) and not corrected for the Galactic extinction. At present we cannot say anything about the change in brightness of the galaxy. The second Legacy Survey faint galaxy (RA = 23:13:43.42, Dec = +01:21:19.8) is not detected in our image.\n\nOur upper limits do not contradict the non-detections by other observations (Wu et. al, GCN 41244; Fortin et. al, GCN 41245; Freeberg et. al, GCN 41247; Xin et. al, GCN 41250; Zheng et. al, GCN 41251; Schneider et. al, GCN 41253). \n \nIndeed the bright galaxy might be the host of GRB 250806A (Malesani et al., GCN 41279). Further comparison of the early observation is necessary and the SN monitoring."
+}

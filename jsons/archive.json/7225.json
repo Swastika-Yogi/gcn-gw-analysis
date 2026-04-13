@@ -1,0 +1,9 @@
+{
+  "subject": "A new website of high-level data products for Swift GRBs",
+  "bibcode": "2008GCN..7225....1B",
+  "createdOn": 1201564873000,
+  "circularId": 7225,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), T. Sakamoto (GSFC/UMBC), P. Evans, J. P. Osborne\n(U. Leicester), N. Gehrels (GSFC)\non behalf of the Swift team, report:\n\nThere is a new website which contains high-level data products\nof GRBs detected Swift-BAT and have follow-up observations by Swift-XRT.\n    http://gcn.gsfc.nasa.gov/gcn/swift_gnd_ana.html\n\nThese are all ground-processed data products done via automated pipelines\nwithin an hour after the data are downlinked.  With each telelmetry downlink,\nif more data are received, the webpages are automatically updated.\nThe time delay (after the burst) ranges from an initial posting typically\nat ~T+2 hours and a final update after ~20 hours for BAT products and for XRT\nthe updates continue for as long the target is observed (days to weeks).\nIn addition to the automated posting of the data poducts, an assessment\nis made by humans as to the cause of the trigger (eg GRB, noise,\nXYZ J1234+456, etc) and posted within 1-4 days.\n\nThe data products available are:  BAT mask-weighted lightcurves on several\ntimescales and binnings (text and graphical) and fitted spectra; and\nXRT afterglow lightcurves (text and graphical), and hardness ratios\nas a function of time.  The text-forms of the lightcurves are suitable\nfor plotting to your needs and incorporation into papers.  Further details\nare described on the webpage."
+}

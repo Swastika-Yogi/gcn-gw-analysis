@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080229A: ROTSE-III Optical Limits",
+  "eventId": "GRB 080229A",
+  "bibcode": "2008GCN..7336....1S",
+  "createdOn": 1204306962000,
+  "circularId": 7336,
+  "submitter": "Brad Schaefer at LSU  <schaefer@grb.phys.lsu.edu>",
+  "email": "schaefer@grb.phys.lsu.edu",
+  "body": "B. E. Schaefer (Louisiana State) and E.S. Rykoff (UCSB), report on behalf\nof the ROTSE collaboration:\n\nROTSE-IIIa, located at Siding Spring Observatory, Australia, responded to\nGRB 080229A (Swift trigger 304379; Cannizzo et al. 2008, GCN 7335),\nproducing images beginning 9.8 s after the GCN notice time. An automated\nresponse took the first image at 17:05:31.8 UT, 32.3 s after the burst,\nand during the gamma-ray emission, under excellent conditions. We took 10\n5-sec, 10 20-sec and 20 60-sec exposures, with continuing exposures now\nongoing. These unfiltered images are calibrated relative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle; the field is not crowded.  Unfortunately,\nthe XRT position is close to a star of moderate brightness, so the optical\ntransient could possibly be hidden by the light from this star.  We do not\nsee any indication that the image of the star is not that of the PSF, and\npreliminary image subtractions do not reveal any extra sources.  \nIndividual images have limiting magnitudes ranging from 14.7-16.1; we set\nthe following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n17:05:31.8   17:05:36.8         5     14.7           32.3       N"
+}

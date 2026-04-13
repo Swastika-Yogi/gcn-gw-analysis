@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070521: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070521",
+  "bibcode": "2007GCN..6454....1M",
+  "createdOn": 1179850575000,
+  "circularId": 6454,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and C. Guidorzi (U. Bicocca & INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070521 starting 82 s after\nthe BAT trigger (Guidorzi et al., GCN Circ. 6431).  We do not find any source\nin any of the UVOT observations inside the refined XRT error circle\n(Guidorzi et al., GCN Circ. 6452). The 3-sigma upper limits for detecting \na source in the first finding chart (FC) exposure and co-added frames are:\n\nFilter            T_start(s)   T_stop(s)     Exp(s)     Mag (3-sigma UL)\n\nWhite (FC)        82           182           98         >20.6\nWhite             82           24605         1884       >22.3\nV                 187          17181         1451       >20.4\nB                 5304         23879         1967       >22.0\nU                 5099         22968         1278       >21.7\nUVW1              4894         18810         1111       >21.1\nUWM2              4869         18085         1279       >20.8\nUVW2              5713         12897         792        >21.1\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E(B-V) = 0.03 mag towards\nthe direction of the burst (Schlegel et al. 1998)."
+}

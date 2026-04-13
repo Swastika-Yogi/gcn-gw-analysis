@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 251011B: Swift-XRT refined Analysis",
+  "eventId": "GRB 251011B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.42205....1S",
+  "createdOn": 1760254158282,
+  "circularId": 42205,
+  "submitter": "Phil Evans at U of Leicester <pae9@star.le.ac.uk>",
+  "body": "B. Sbarufatti (INAF-OAB), C. Salvaggio (INAF-OAB), S. Lanava (PSU), S.\nDichiara (PSU), J.A. Kennea (PSU), J.P. Osborne (U. Leicester), K.L.\nPage (U. Leicester), A.P. Beardmore (U. Leicester), M. Ferro (INAF-OAB)\nand P.A. Evans report on behalf of the Swift-XRT team:\n\nWe have analysed 5.1 ks of XRT data for GRB 251011B, from 85 s to 61.7\nks after the   trigger. The data comprise 112 s in Windowed Timing (WT)\nmode (the first 9 s were taken while Swift was slewing) with the\nremainder in Photon Counting (PC) mode. \n\nThe light curve can be modelled with an initial power-law decay with an\nindex of alpha=3.12 (+/-0.08), followed by a break at T+579 s to an\nalpha of 0.57 (+0.07, -0.20).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 2.15 (+/-0.12). The\nbest-fitting absorption column is  1.8 (+0.4, -0.3) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.7 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.1 x 10^-11 (4.5 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the WT-mode spectrum is thus:\nTotal column:\t     1.8 (+0.4, -0.3) x 10^21 cm^-2\nGalactic foreground: 1.7 x 10^20 cm^-2\nExcess significance: 8.4 sigma\nPhoton index:\t     2.15 (+/-0.12)\n\nIf the light curve continues to decay with a power-law decay index of\n0.57, the count rate at T+24 hours will be 0.013 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 4.0 x\n10^-13 (5.7 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttps://www.swift.ac.uk/xrt_products/01403191.\n\nThis circular is an official product of the Swift-XRT team.\n"
+}

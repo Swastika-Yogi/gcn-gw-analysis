@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 991216: Updated BATSE parameters",
+  "eventId": "GRB 991216",
+  "bibcode": "1999GCN...504....1K",
+  "createdOn": 945708761000,
+  "circularId": 504,
+  "submitter": "R. Marc Kippen at BATSE/UAH/MSFC  <marc.kippen@msfc.nasa.gov>",
+  "email": "marc.kippen@msfc.nasa.gov",
+  "body": "R. M. Kippen (University of Alabama in Huntsville) reports on behalf\nof the BATSE GRB team the updated standard BATSE parameters for GRB\n991216 (trigger 7906):\n\nDuration (seconds)\n     T50:  6.2720 +/- 0.0905\n     T90: 15.1680 +/- 0.1109\n\nPeak Flux (photons / cm^2-s, 50-300 keV)\n    64ms: 91.4654 +/- 1.053570     (3rd brightest in BATSE catalog)\n   256ms: 82.0787 +/- 0.498275     (3rd brightest in BATSE catalog)\n  1024ms: 67.5055 +/- 0.226543     (2nd brightest in BATSE catalog)\n \nPeak Flux (ergs / cm^2-s, 50-300 keV)\n    64ms: 1.99303e-05 +/- 2.39823e-07\n   256ms: 1.78031e-05 +/- 1.12832e-07\n  1024ms: 1.45472e-05 +/- 1.27662e-07\n \nFluence in 4 discriminator channels (ergs / cm^2)\n    1: 1.72637e-05 +/- 5.28282e-08    ( 20.6  -  64.7 keV)\n    2: 2.29693e-05 +/- 5.43826e-08    ( 64.7  - 118.1 keV)\n    3: 6.50656e-05 +/- 1.36158e-07    (118.1  - 345.5 keV)\n    4: 1.50204e-04 +/- 1.16799e-06    (       > 345.5 keV)\n \nTotal fluence (ergs / cm^2, > 20.6 keV)\n       2.55503e-04 +/- 1.17834e-06    (13th largest fluence in \n                                      BATSE catalog)\n\nHigh time resolution lightcurves of this burst are available at\nhttp://gammaray.msfc.nasa.gov/batse/grb/lightcurve/\n\n-eof-"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-231004A: Upper limits from Fermi-GBM Observations",
+  "eventId": "IceCube-231004A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34851....1W",
+  "createdOn": 1697817036556,
+  "circularId": 34851,
+  "submitter": "Joshua Wood at NASA/MSFC <joshua.r.wood@nasa.gov>",
+  "body": "J. Wood (NASA/MSFC), Eric Burns (LSU), Michelle Hui (NASA/MSFC) report on behalf of the Fermi-GBM team:\n\nFor the IceCube high-energy neutrino candidate event IceCube-231004A\n(GCN 34797), at the event time Fermi-GBM was observing the reported\nneutrino location at:\n\nRA: 143.79 (+1.10, -1.01 deg  90% PSF containment) J2000\nDec: -25.04 (+1.03, -1.21 deg 90% PSF containment) J2000\n\nThere was no Fermi-GBM onboard trigger around the event time of the\nneutrino candidate. An automated, blind search for short gamma-ray\nbursts below the onboard triggering threshold in Fermi-GBM also\nidentified no counterpart candidates. The GBM targeted search,\nthe most sensitive, coherent search for GRB-like signals,\nwas run from +/-30 s around the neutrino candidate time.\nFrom this search, no significant signal was found related\nto IceCube-231004A.\n\nWe set upper limits on impulsive gamma-ray emission to aid\ntheoretical modeling of the potential optical counterpart\nAT2023uqf/ZTF23abidzvf (GCN 34837). Using the representative\nsoft, normal, and hard GRB-like templates described in\narXiv:2308.13666, we set the following 3 sigma flux upper limits over\n10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale   Soft     Normal   Hard\n-------------------------------------------\n0.128 s:    2.9      4.2      7.3\n1.024 s:    0.9      1.4      2.3\n8.192 s:    0.3      0.4      0.6\n\nAssuming the reported redshift z = 0.1503 (GCN 34837), we estimate\nthe following intrinsic luminosity upper limits over \nthe 1 keV-10 MeV energy range (in units of 10^49 erg/s):\n\nTimescale  Soft     Normal   Hard\n------------------------------------\n0.128s:    2.8      3.7      10.6\n1.024s:    0.8      1.2      3.3\n8.192s:    0.3      0.3      0.9\n\nThese results are preliminary."
+}

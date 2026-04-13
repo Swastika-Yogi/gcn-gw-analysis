@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130502A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130502A",
+  "bibcode": "2013GCN.14543....1B",
+  "createdOn": 1367593685000,
+  "circularId": 14543,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL-UCL) and E. Troja (NASA/GSFC/UMCP) report on behalf \nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130502A 96 \ns after the BAT trigger (Troja et al., GCN Circ. 14527).\nAn optical afterglow consistent with the position of the TNG candidate \n(Malesani et al. GCN Circ. 14531) is detected in the initial white \nexposure. Preliminary magnitude and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe first white finding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)    Exp(s)     Mag\n\nwhite_FC         96         246          147        20.90 � 0.3\nwhite           588         608           20        >20.06\nu               309         559          246        >20.6\nb               564         584           20        >19.25\nv              5288        5488          197        >19.81\nuvw1           5698        5898          197        >20.16\nuvm2           5492        5692          197        >19.96\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.03 in the direction of the \nburst (Schlegel et al. 1998)."
+}

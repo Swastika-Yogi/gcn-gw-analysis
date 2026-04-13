@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210411C: Swift/UVOT Detection",
+  "eventId": "GRB 210411C",
+  "bibcode": "2021GCN.29811....1K",
+  "createdOn": 1618265123000,
+  "circularId": 29811,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (UCL-MSSL) and Sbarrato (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 210411C\n66 s after the BAT trigger (Sbarrato et al., GCN Circ. 29794).\nA source consistent with the XRT position (Goad et al. GCN Circ. 29800)\nis detected in the initial UVOT exposures. Further detections were\nreported by Strausbaugh et al. (GCN Circ 29802)\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  19:46:26.81 = 296.61170 (deg.)\n    Dec (J2000) = -39:23:52.2  = -39.39784 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               66          216          147         17.16 +/- 0.03\nv                  609          801           39         17.43 +/- 0.18\nb                  535          555           20         17.82 +/- 0.17\nu                  279          528          246         17.82 +/- 0.07\nw1                 658         1280           78        >19.7\nm2                 633         5836           83        >19.6\nw2                 584         5600          255        >20.1\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.081 in the direction of the burst\n(Schlegel et al. 1998)."
+}

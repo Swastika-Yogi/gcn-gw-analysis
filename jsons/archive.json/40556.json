@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250527B / MAXI J1450-527 : MAXI/GSC detection",
+  "eventId": "GRB 250527B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40556....1K",
+  "createdOn": 1748385840380,
+  "circularId": 40556,
+  "submitter": "taiki.kawamuro@riken.jp",
+  "format": "text/plain",
+  "body": "T. Kawamuro (Osaka U.), M. Nakajima (Nihon U.), M. Serino (AGU), W. Iwakiri (Chiba U.),\nH. Negoro, K. Takagi, H. Takahashi, K. Tatano, H. Nishio (Nihon U.),\nT. Mihara, T. Tamagawa, N. Kawai, M. Matsuoka (RIKEN),\nT. Sakamoto, S. Sugita, Y. Kawakubo, H. Hiramatsu, Y. Kondo, A. Yoshida (AGU),\nY. Tsuboi, H. Sugai, N. Nagashima (Chuo U.),\nM. Shidatsu, Y. Niida, C. Kang, T. Nakamoto (Ehime U.),\nI. Takahashi, M. Niwano, N. Higuchi, Y. Yatsu (Tokyo Tech),\nS. Nakahira, S. Ueno, H. Tomida, M. Ishikawa, S. Ogawa, M. Kurihara (JAXA),\nY. Ueda, K. Fujiwara (Kyoto U.),\nM. Yamauchi, M. Nishio, C. Hiraizumi (Miyazaki U.),\nK. Yamaoka (Nagoya U.),\nM. Sugizaki (Kanazawa U.),\nS. Yamada (Tohoku U.)\n\nThe MAXI/GSC nova alert system triggered a bright uncatalogued X-ray transient source at 2025-05-27 17:38:05 UT.\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (222.622 deg, -52.704 deg) = (14 50 29, -52 42 14) (J2000)\nwith a statistical 90% C.L. elliptical error region\nwith long and short radii of 0.12 deg and 0.11 deg, respectively.\nThe roll angle of long axis from the north direction is 90.0 deg counterclockwise.\nThere is an additional systematic uncertainty of 0.1 deg (90% containment radius).\nThe X-ray flux averaged over the scan was 350 +- 36 mCrab\n(4.0-10.0keV, 1 sigma error).\n\nWithout assumptions on the source constancy, we obtain a rectangular error\nbox for the transient source with the following corners:\n(222.154, -51.832) deg = (14 48 36, -51 49 55) (J2000)\n(221.831, -51.930) deg = (14 47 19, -51 55 48) (J2000)\n(222.883, -53.207) deg = (14 51 31, -53 12 25) (J2000)\n(223.212, -53.106) deg = (14 52 50, -53 06 21) (J2000)\n\nThere was no significant excess flux in the previous transit at 17:17 UT\nand in the next transit at 18:50 UT with an upper limit of 20 mCrab for each."
+}

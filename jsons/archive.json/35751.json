@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240209A",
+  "eventId": "GRB 240209A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35751....1S",
+  "createdOn": 1708276961175,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 35751,
+  "body": "D. Svinkin, D. Frederiks,  A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nreport:\n\nThe long-duration GRB 240209A\n(Fermi-GBM detection: The Fermi GBM team, GCN 35712;\nMalacaria et al., GCN 35729)\nwas detected by Fermi (GBM trigger 729152364) and\nKonus-Wind, in the waiting mode, at about 22760 s UT (06:19:20).\n\nWe have triangulated it to a Konus-GBM annulus centered at\nRA(2000)=119.672 deg (07h 58m 41s) Dec(2000)=+19.090 deg (+19d 05' 25\"),\nwhose radius is 66.074 +/- 14.729 deg (3 sigma).\n\nThe annulus combined with the Fermi-GBM final position (GCN 35712;\nglg_healpix_all_bn240209263_v01) gives ~2019 sq. deg (3 sigma) localization region.\n\nThe reported optical counterpart candidate GOTO24pw/AT2024cew\n(Belkin et al., GCN 35715) is outside the Konus-GBM annulus,\nimplying that the optical transient is unrelated to the GRB.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240209_T22759/IPN\n\n"
+}

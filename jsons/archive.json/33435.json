@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230308A: AGILE/MCAL detection",
+  "eventId": "GRB 230308A",
+  "bibcode": "2023GCN.33435....1C",
+  "createdOn": 1678356570000,
+  "circularId": 33435,
+  "submitter": "Claudio Casentini at INAF-IAPS  <claudio.casentini@inaf.it>",
+  "email": "claudio.casentini@inaf.it",
+  "body": "C. Casentini (INAF/IAPS), F. Verrecchia (SSDC, and INAF/OAR),\nM. Tavani (INAF/IAPS and Uni. Roma Tor Vergata), C. Pittori,\nF. Lucarelli, F. Verrecchia (SSDC, and INAF/OAR), A. Argan,\nM. Cardillo, Y. Evangelista, L. Foffano, G. Piano (INAF/IAPS),\nA. Addis, L. Baroncelli, A. Bulgarelli, A. Di Piano, V. Fioretti,\nG. Panebianco, N. Parmiggiani (INAF/OAS-Bologna), M. Romani\n(INAF/OA-Brera), M. Marisaldi (INAF/OAS-Bologna, Bergen University),\nM. Pilia, A. Trois (INAF/OA Cagliari), I. Donnarumma, E. Menegoni,\nA.Ursi (ASI), A. Giuliani (INAF/IASF-Mi) and P. Tempesta (TeleSpazio),\nreport on behalf of the AGILE Team:\n\nThe AGILE satellite detected the short GRB 2300308A at\nT0 = 2023-03-08 13:32:27.400 (UTC), reported by Fermi/GBM (GCN #33420) and\nBALROG (GCN #33421).\n\nThe burst is clearly visible in the AGILE scientific ratemeters of the\nMiniCALorimeter (MCAL; 0.4-100 MeV), and in all the panels of the\nAntiCoincidence detectors (AC Top, 50-200 keV, ACLat, 80-200 keV).\nThe event lasted about 1 s and it released a total number of 1166 counts\nin the MCAL detector (above a background rate of 576 Hz), and 7526 counts\nin the AC Top detector (above a background rate of 3445 Hz).\nThe AGILE ratemeters light curves can be found at:\nhttp://www.agilescienceapp.it/notices/GRB230308A_AGILE_RM_ND.png .\n\nThe event also triggered a high-time resolution MCAL data acquisition,\nfrom T0 to T0+12 s (UTC), and released 1484 counts in the detector,\nabove a background rate of 590 Hz. The MCAL light curve can be found at:\nhttp://www.agilescienceapp.it/notices/GRB230308A_082579_605367147.400000.png\n.\n\nAt the T0 the event was 133 deg off-axis. Additional analysis of AGILE data\nis in progress. Automatic MCAL GRB alert Notices can be found at:\nhttps://gcn.gsfc.nasa.gov/agile_mcal.html"
+}

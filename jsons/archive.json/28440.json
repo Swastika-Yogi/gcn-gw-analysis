@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 200916B (short)",
+  "eventId": "GRB 200916B",
+  "bibcode": "2020GCN.28440....1R",
+  "createdOn": 1600363122000,
+  "circularId": 28440,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, R. Aptekar, D. Frederiks, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer,\nand A. Tohuvavohu on behalf of the Swift-BAT team, report:\n\nA short-duration GRB 200916B\nhas been detected by Konus-Wind, INTEGRAL (SPI-ACS),\nand Swift (BAT), so far, at about 56490 s UT (15:41:30).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   224.729 (14h 58m 55s) -39.130 (-39d 07' 47\")\n  Corners:\n   225.036 (15h 00m 09s) -37.463 (-37d 27' 46\")\n   225.754 (15h 03m 01s) -37.404 (-37d 24' 14\")\n   224.398 (14h 57m 35s) -40.797 (-40d 47' 48\")\n   223.640 (14h 54m 34s) -40.848 (-40d 50' 53\")\n  ---------------------------------------------\nThe error box area is 1.88 sq. deg, and its maximum\ndimension is 3.8 deg (the minimum one is 32 arcmin).\nThe Sun distance was about 61 deg.\n\nThis box may be improved.\n\nThis burst is spatially and temporally inconsistent with the \nIceCube-200916A event.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200916_T56489/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular.\n\nThe Swift (BAT) event data used for the IPN localization\ncame from the GUANO system (https://www.swift.psu.edu/guano/)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210704A: classification as long GRB and redshift estimating",
+  "eventId": "GRB 210704A",
+  "bibcode": "2021GCN.30452....1M",
+  "createdOn": 1626095228000,
+  "circularId": 30452,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "P. Minaev (IKI), A. Pozanenko (IKI),  I. Chelovekov (IKI), S. Grebenev \n(IKI)  report on behalf of GRB IKI FuN:\n\nWe analyzed GRB 210704A (Ursi et al., GCN 30372; Berretta et al., GCN \n30375; Prasad et al., GCN 30378; D'Ai et al., GCN 30379; Malacaria \netal., GCN 30380; Ridnaia et al., GCN 30388) using publicly available \ndata of GBM/Fermi. The burst consists of several episodes of emission \nwith duration of T_90 = 4.6 s, but the emission is visible up to 20 s \nafter the trigger. Energy spectrum constructed in the time interval of \n(-0.2, 6.5) seconds relative to the GBM trigger time is best described \nby Bandmodel with relatively low E_peak = 294 keV corroborating with \nE_peak reported by GBM team (Malacaria et al., GCN 30380) and Konus-Wind \n(Ridnaia et al., GCN 30388).\n\nBased on E_peak, Fluence in 1 keV ��� 10 MeV range (2.77e-5 erg cm^-2) and \nT_90 we draw a trajectory of the burst in EH - T_90 diagram varying the \nunknown source redshift \n(http://grb.rssi.ru/GRB210704A/GRB210704A_EH-T90_GBM.png , see [1-2] for \ndetails). The lower 2 sigma redshift limit of the source is z=0.11, \nwhich excludes the association of the GRB with the field galaxy at z = \n0.0817, but leaves a possibility of association with the field cluster \nat z = 0.203 (de Ugarte Postigo et al., GCN 30392). We also estimate \nE_iso = 8.2e50 erg at z = 0.11 and E_iso = 3.7e53 erg at z = 2.34 \n(marginally suggested after GTC spectroscopy, de Ugarte Postigo et al., \nGCN 30392).\nBased only on the trajectory at the EH - T_90 diagram we could suggest \nthe collapsar origin (Type II) of GRB 210704A.\n\n[1] - Minaev et al., MNRAS, 492, 1919, 2020\n[2] - Minaev et al., Astronomy Letters, 46, 9, 573, 2020"
+}

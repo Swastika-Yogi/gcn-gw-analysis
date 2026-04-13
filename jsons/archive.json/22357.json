@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180115A: Swift/UVOT Detection",
+  "eventId": "GRB 180115A",
+  "bibcode": "2018GCN.22357....1M",
+  "createdOn": 1516134387000,
+  "circularId": 22357,
+  "submitter": "Frank Marshall at Swift/UVOT  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and J. K. Cannizzo (NASA/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nAdditional observations of the optical afterglow of GRB 180115A\ndiscovered with Swift/UVOT (Cannizzo et al., GCN Circ. 22335)\nreveal an initially brightening and then fading source.\nThe source is not detected in any of the UV filters, consistent\nwith the redshift of 2.487 reported by de Ugarte Postigo et al. (GCN Circ. 22346).\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  00:48:09.27 =  12.03862 (deg.)\n    Dec (J2000) = -15:37:49.9  = -15.63054 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              140          290          147         17.61 +/- 0.04\nwhite              753          773           20         16.95 +/- 0.07\nwhite             5663         5863          197         19.18 +/- 0.08\nv                  628          648           20         16.50 +/- 0.16\nb                  554          574           20         16.93 +/- 0.11\nu                  299          548          246         16.32 +/- 0.04\nw1                1109        13068         1165        >20.7\nm2                4743        12296         1279        >21.8\nw2                5769         7329          318        >20.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

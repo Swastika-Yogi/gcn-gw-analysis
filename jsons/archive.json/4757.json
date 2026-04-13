@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060211A:  Further refined analysis of the Swift burst",
+  "eventId": "GRB 060211A",
+  "bibcode": "2006GCN..4757....1K",
+  "createdOn": 1139855963000,
+  "circularId": 4757,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (GSFC/UMD), C. Hurkett (U Leicester),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (ISAS), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-300 to T+303 sec from a recent telemetry\ndownlink, we report further analysis of the results from BAT GRB 060211A\n(trigger #181126) (Hurkett, et al., GCN 4736, Sato, et all, GCN 4751).\nThe BAT ground-calculated position is  RA,Dec = 58.380, 21.489  deg\n{3h 53m 31.1s, 21d 29' 20.0\"} (J2000) +- 1.5 arcmin, (radius,\nsys+stat, 90% containment).  The partial coding was 100%.\n\nThe mask-weighted lightcurve shows that this was a very long burst.\nThere was a weak, soft precursor starting at T-180 secs and lasting,\nin the lowest energy band, until T-90 secs.  There is another episode\nof weak emission from T-10 to T+50, and then two prominent peaks\nfrom T+50 to T+100 and from T+130 to T+180 secs.  The first of\nthe main peaks is harder than the second.  There is no significant\nemission beyond T+190 secs.  T90 (15-350 keV) is (126 +- 5) sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T+47.8 to T+191.0 is best fit by\na power law with an exponential cutoff.  This fit gives a photon\nindex of 0.85 +- 0.53, and Epeak of 58.3 +- 13.2 keV (chi squared 59\nfor 56 d.o.f.).  For this model the total fluence in the 15-150 keV band\nis (1.5 +- 0.1) x 10^-06 erg/cm2 and the 1-sec peak flux measured\nfrom T+145.58 sec in the 15-150 keV band is (0.4 +- 0.1) ph/cm2/sec.\nA fit to a simple power law gives a photon index of 1.76 +- 0.11\n(chi squared 70 for 57 d.o.f.).  All the quoted errors are at the 90%\nconfidence level."
+}

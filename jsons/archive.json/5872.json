@@ -1,0 +1,9 @@
+{
+  "subject": "Swift XRT on-board boresight update",
+  "bibcode": "2006GCN..5872....1K",
+  "createdOn": 1164645793000,
+  "circularId": 5872,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@astro.psu.edu>",
+  "email": "kennea@astro.psu.edu",
+  "body": "J. A. Kennea, D. N. Burrows (PSU), A. Moretti (INAF-OAB), M. Perri (ASDC), \nM. Capalbi (ASDC), L. Angelini (NASA/GSFC) and J. E. Hill (USRA) report on \nbehalf of the XRT instrument team:\n\nAs previously reported there has been a change in the XRT boresight since \nabout 1 May 2006 that resulted in decreased positional accuracy (Burrows \net al., GCN Circ. 5628, GCN Circ. 5750). On November 24th, 2006 the XRT \nteam updated the onboard boresight definition used to calculate automatic \nburst positions to correct for this change. As a result of this update the \non-board calculated position and position error reported in the XRT \nPosition Notices are now correct. We note that this change does not \ncorrect positions derived from ground processed data, which will require \nan update to the CALDB TELDEF file. This is due to be released to the \ncommunity with the next Swift software update. Note that the XRT Team are \ncurrently utilizing a pre-release of this new TELDEF file when reporting \npositions in GCN Notices and Reports."
+}

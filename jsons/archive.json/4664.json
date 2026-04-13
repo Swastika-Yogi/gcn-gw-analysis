@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060204C: ROTSE-III Optical Limits",
+  "eventId": "GRB 060204C",
+  "bibcode": "2006GCN..4664....1R",
+  "createdOn": 1139090129000,
+  "circularId": 4664,
+  "submitter": "Eli Rykoff at U of Michigan/ROTSE  <erykoff@umich.edu>",
+  "email": "erykoff@umich.edu",
+  "body": "E.S. Rykoff (U Mich), S.A. Yost (U Mich), B. E. Schaefer (Louisiana \nState), F. Yuan (U Mich), T. Guver (U Istanbul), report on behalf of the \nROTSE collaboration:\n\nROTSE-IIId, located at the Turkish National Observatory at Bakirlitepe, \nTurkey, responded to GRB 060204C (Swift trigger 180274, GCN 4663), \nproducing images beginning 6.8 s after the GCN notice time. An automated \nresponse took the first image at 20:35:04.8 UT, 81.8 s after the burst, \nunder windy conditions. We took 10 5-sec, 10 20-sec and 31 60-sec \neposures. These unfiltered images are calibrated relative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the \n3-sigma BAT error circle, for both single images and coadding into sets \nof 10. Individual images have limiting magnitudes ranging from \n16.1-17.7; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n20:35:04.8   20:35:09.8         5     16.1           81.8       N\n20:35:04.8   20:37:11.5       126     17.7           81.8       Y\n20:37:20.2   20:41:56.3       276     18.2          217.2       Y"
+}

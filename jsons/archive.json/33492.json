@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230320B: AstroSat CZTI detection",
+  "eventId": "GRB 230320B",
+  "bibcode": "2023GCN.33492....1N",
+  "createdOn": 1679389868000,
+  "circularId": 33492,
+  "submitter": "Gaurav Waratkar at IIT,Bombay  <gauravwaratkar@iitb.ac.in>",
+  "email": "gauravwaratkar@iitb.ac.in",
+  "body": "P K. Navaneeth (IUCAA), G. Waratkar (IITB), A. Vibhute (IUCAA), V. \nBhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao \n(IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat \nCZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., \n2021, JApA, 42, 73) showed the detection of a long GRB 230320B which was \nalso detected by Fermi GBM (TrigNum: 701039550), CALET (ID Num: \n1363381768) and GECAM (TrigNum: 163).\n\nThe source was clearly detected in the 20-200 keV energy range. The \nlight curve peaks at 2023-03-20 21:12:27.50 UTC. The measured peak count \nrate associated with the burst is 415 (+48, -33) counts/s above the \nbackground in the combined data of three quadrants (out of four), with a \ntotal of 1976 (+332, -251) counts. The local mean background count rate \nwas 360 (+2, -3) counts/s. Using cumulative rates, we measure a T90 of \n11.27 (+6, -4) s.\n\nThe source was also clearly detected in the CsI anticoincidence (Veto) \ndetector in the 100-500 keV energy range. The light curve peaks at \n2023-03-20 21:12:26.59 UTC. The measured peak count rate associated with \nthe burst is 377 (+80, -44) counts/s above the background in the \ncombined data of all quadrants, with a total of 1527 (+371, -423) \ncounts. The local mean background count rate was 1564 (+4, -4) counts/s. \nWe measure a T90 of 12.92 (+8, -4) s from the cumulative Veto light \ncurve.\n\nCZTI is built by a TIFR-led consortium of institutes across India, \nincluding VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research \nOrganisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb [1]\n\nLinks:\n------\n[1] http://astrosat.iucaa.in/czti/?q=grb"
+}

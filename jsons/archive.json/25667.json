@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190829A optical observation",
+  "eventId": "GRB 190829A",
+  "bibcode": "2019GCN.25667....1V",
+  "createdOn": 1567703644000,
+  "circularId": 25667,
+  "submitter": "Roberto Nesci at INAF/IAPS-Roma Italy  <roberto.nesci@inaf.it>",
+  "email": "roberto.nesci@inaf.it",
+  "body": "A. Vagnozzi (Stroncone Observatory), R. Nesci (INAF/IAPS-Roma)\n\nThe GRB 190829A (Dichiara et al. GCN Circ 25552) was observed at Stroncone \nObservatory (MPC 589) with the 50cm R-C telescope, a CCD SBIG camera\nand the I_Cousins filter. Nine frames with 300s exposure each were\nobtained: Bias, Flat and Dark current corrections were applied with IRAF\nstandard tasks.\nAperture photometry was performed with IRAF/apphot. The contribution\nfrom the underlying galaxy was subtracted assuming a symmetric light\ndistribution, and evaluated about 0.2 mag. Comparison stars were taken\nfrom PanSTARRS-DR1 (i') and GSC2.3.2 (N) with very consistent results\nbesides the zero point offset.\nMid-exposure time was 2019-08-30T00:47:15 UT; the magnitude of the GRB\nwas I_C=16.7 corrected for the galaxy contribution but not for reddening."
+}

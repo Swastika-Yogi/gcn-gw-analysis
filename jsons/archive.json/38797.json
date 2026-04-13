@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250103B: SVOM detection of a long burst",
+  "eventId": "GRB 250103B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38797....1B",
+  "createdOn": 1735921829804,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 38797,
+  "format": "text/plain",
+  "body": "T. Bouchet, D. Turpin (CEA), S. Guillot (IRAP), H. Goto (CEA), F. Daigne (IAP),  L. Zhang (IHEP) report on behalf of the SVOM team:\n\nThe SVOM/ECLAIRs telescope triggered (sb25010303) at 2025-01-03T15:44:04.223 UTC (Tb) and located the long duration GRB 250103B also detected by Swift (Eyles-Ferris et al. GCN 38796).\n\nThe following trigger information was received on the ground with low-latency by the SVOM VHF Alert Network.\n\nThe burst was detected by both the on-board Count-Rate Trigger (CRT) and Image Trigger (IMT) and 7 alerts were received. The best detection is obtained by IMT with a signal-to-noise ratio of 10.6 in the 5-8 keV energy band over a time window of 41 s starting at Tb.\n \nThe localization of the best Alert is RA, Dec =  54.660, -33.769 (J2000). \nR.A. = 03:38:38.46\nDec = -33:46:09.67\nThe uncertainty on this position is 7.6 arcminutes at 90% C.L., which includes a systematic uncertainty of 2 arcminutes in quadrature.\n\nThe light curve shows a main single episode in the GRM data with a preliminary T90 duration of about 25 s below 550 keV. Further analysis will be conducted once the X-band telemetry data of ECLAIRs and GRM are received.\n\nSVOM did not slew on this burst.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. \n\nThe SVOM point of contact for this burst is: Tristan Bouchet (tristan.bouchet@cea.fr)\n\n\n"
+}

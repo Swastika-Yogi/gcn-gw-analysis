@@ -1,0 +1,11 @@
+{
+  "subject": "GRBs 250702B/C/D/E / EP250702a: Swift/UVOT  Upper Limits",
+  "eventId": "EP250702a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40952....1S",
+  "createdOn": 1751638147240,
+  "submitter": "Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "circularId": 40952,
+  "format": "text/plain",
+  "body": "M. H. Siegel (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the Einstein Probe (GCN Circ. 40906) location of the source that showed repeated outbursts detected by Fermi/GBM (GCN Circ. 40883, 40885, 40886, 40890, 40891) and Swift/BAT-GUANO (GCN #40903) 82 ks after the initial EP detection. No optical afterglow consistent with the XRT position (Kennea et al., GCN Circ. 40919) is detected in the initial UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) using the initial EP detection as T_0 are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nb                82576        99156          235            >19.83\nuvm2             99570        99822          247            >19.33\nu                82491       104859          302            >19.73\nv                82985        99566          115            >18.44\nuvw1             82327       104787          628            >19.93\nuvw2             82661        99481          663            >20.12\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.27 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

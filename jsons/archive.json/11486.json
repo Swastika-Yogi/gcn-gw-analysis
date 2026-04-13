@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101224A, Swift-BAT refined analysis",
+  "eventId": "GRB 101224A",
+  "bibcode": "2010GCN.11486....1M",
+  "createdOn": 1293200381000,
+  "circularId": 11486,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (OSU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 101224A (trigger #440955)\n(Krimm, et al., GCN Circ. 11484).  The BAT ground-calculated position is\nRA, Dec = 285.939, 45.706 deg which is\n     RA(J2000)  =  19h 03m 45.4s\n     Dec(J2000) = +45d 42' 22.3\"\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 53%.\n\nThe light curve consists of a pair of overlapping peaks of total\nduration 0.2 sec, T90 (15-350 keV) is 0.2 +- 0.01 sec (estimated error\nincluding systematics).\n\nThe time-averaged spectrum from T+0.0 to T+0.3 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index -0.93 +- 1.52,\nand Epeak of 95.7 +- 35.2 keV (chi squared 62.87 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 5.8 +- 1.1 x 10^-8 erg/cm2\nand the 1-sec peak flux measured from T-0.34 sec in the 15-150 keV band is\n0.7 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.05 +- 0.26 (chi squared 71.61 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n\nThe hardness ratio S(50-100 keV)/S(25-50 keV) is 1.94, which when plotted\nagainst burst duration places GRB 101224A among the short-hard bursts in the\ndistribution.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/440955/BA/"
+}

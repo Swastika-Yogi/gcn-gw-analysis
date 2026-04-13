@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100518A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100518A",
+  "bibcode": "2010GCN.10781....1C",
+  "createdOn": 1274266850000,
+  "circularId": 10781,
+  "submitter": "Peter Curran at MSSL  <pac@mssl.ucl.ac.uk>",
+  "email": "pac@mssl.ucl.ac.uk",
+  "body": "P.A. Curran (MSSL-UCL)  and M. Stamatikos (OSU/NASA/GSFC) report on\nbehalf of the Swift/UVOT team:\n\nDuring Swift target of opportunity observations of GRB 100518A \n(Stamatikos et al. GCN Circ. 10775),  Swift/UVOT began settled \nobservations starting 9551 seconds after the INTEGRAL trigger \n(Mereghetti et al. GCN Circ. 10772). No optical afterglow consistent \nwith the enhanced XRT position (Beardmore et al. GCN Circ. 10780) or the \noptical counterpart (Cano et al. GCN Circ. 10776) is  detected in the \nUVOT exposures. Preliminary 3-sigma upper limits using the UVOT \nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for the first \nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter   T_start(s)   T_stop(s)   Exp(s)   Mag\n------------------------------------------------\nwhite    9551         9701        147      >21.4 (FC)\nwhite    9551         11529       1033     >22.4\nv        16324        17231       885      >20.7\nb        9711         10618       885      >21.7\nm2       17236        17899       652      >20.9\nw2       11536        16318       1137     >21.6\n\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.07 in the direction of the burst\n(Schlegel et al. 1998)."
+}

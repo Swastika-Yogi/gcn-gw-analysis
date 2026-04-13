@@ -1,0 +1,10 @@
+{
+  "subject": "Corrections to GRB 090531B Swift/UVOT Upper Limits",
+  "eventId": "GRB 090531B",
+  "bibcode": "2009GCN..9471....1S",
+  "createdOn": 1243866584000,
+  "circularId": 9471,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and J. R. Cummings (NASA/UMBC) report on behalf of \nthe Swift/UVOT team:\n\nWe report a mistake in a few of the times provided in GCN 9469, including \nthe start time of the observations, which was in fact 3849 s after the BAT \ntrigger (Cummings et al., GCN Circ. 9461). Also, the exposure times of the \nUVOT observations should have been two times the values given.\n\nThe corrected 3-sigma upper limits for the UVOT observations of the field \nof GRB 090531B are provided below.\n\nFilter T_mid(s)  Exp(s)  3-sig Mag UL\n\nwhite    3924      147      > 20.52\nv        4105      197      > 19.08\nb        4926      197      > 20.06\nu        4721      197      > 19.74\nuvw1     4515      197      > 19.65\nuvm2     4310      197      > 19.32\nuvw2     5336      197      > 19.61\n\nThe values quoted above are not corrected for the large Galactic \nextinction due to the reddening of E(B-V)=1.12 in the direction of the \nburst (Schlegel et al. 1998). The photometry is on the UVOT photometric \nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231117A: Swift/UVOT late time observations",
+  "eventId": "GRB 231117A",
+  "submittedHow": "email",
+  "bibcode": "2023GCN.35154....1K",
+  "createdOn": 1700604333530,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "circularId": 35154,
+  "body": "N.P.M. Kuin (MSSL/UCL) and S. L. Laha (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe initial Swift/UVOT observations of the field of GRB 231117A\n(Laha et al., GCN Circ. 35071) have been reported by Kuin and\nLaha (GCN Circ. 35134) based on the enhanced XRT position (Beardmore\net al. GCN Circ. 35074). A refined position was published by\nYang et al. (GCN Circ. 35083) which we use for the current\ncircular.\n\nWe report here exposures taken over the specified period and summed for\nbetter S/N. We also report here in AB magnitudes (Breeveld et al. 2011,\nAIP Conf. Proc. 1358, 373):\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           AB-Mag\n\nwhite              106         1713          392         22.3 +/- 0.5\nu                 5863       18,406          917         20.9 +/- 0.2\nwhite           67,725       68,529          675         21.7 +/- 0.2\nwhite          210,209      223,742         4848         22.4 +/- 0.4\n\nConsidering that these are AB magnitudes, we can compare the white and u\nvalues to see a likely peak around the time of the u magnitude with a\nsubsequent decay.\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.071 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/BAT Detection of GRB050603",
+  "eventId": "GRB 050603",
+  "bibcode": "2005GCN..3509....1R",
+  "createdOn": 1117786263000,
+  "circularId": 3509,
+  "submitter": "David Palmer at LANL  <palmer@nis.lanl.gov>",
+  "email": "palmer@nis.lanl.gov",
+  "body": "A. Retter (PSU), A. Parsons, N. Gehrels (GSFC), C. Gronwall (PSU),\nC. B. Markwardt (GSFC/UMD),  D. Palmer (LANL)\n\non behalf of the Swift Team report:\n\n\nAt 06:29:05 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB050603 (trigger=131560).   The BAT on-board calculated\nlocation is RA,Dec  39.978 (+02h 39m 55s), -25.183 (-25d 10' 57\")\n(J2000) with an uncertainty of 4 arcmin (radius, 3-sigma, including\nestimated systematic uncertainty).  The peak rate was\n22,000 counts/sec in 0.512 sec in the 50 - 350 keV band.\n\nThe Swift spacecraft did not slew because automated slewing was not\nenabled due to engineering  tests. XRT and UVOT observations will be\nperformed after the analysis of the ground data. This burst is near\nthe edge of the FOV (~8% coding) and so it is brighter than indicated\nby the nominal peak count rate.\n\nNo light curves will be available until the next Malindi ground contact\ndata is received and analyzed.  However, during the approximately 7\nseconds of image processing, no subsequent interval was found with a more\nsignificant rate increase than the initial 0.512 s trigger (although \nfurther emission at lower levels is not precluded by the data available \nat this time.) Thus preliminary indications suggest that this might be \na bright short-hard burst."
+}

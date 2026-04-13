@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070621: Swift-BAT refined analysis",
+  "eventId": "GRB 070621",
+  "bibcode": "2007GCN..6571....1F",
+  "createdOn": 1182520348000,
+  "circularId": 6571,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "E. Fenimore (LANL), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS), B. Sbarufatti (INAF-IASFPA),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+962 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 070621 (trigger #282808)\n(Sbarufatti, et al., GCN Circ. 6560).  The BAT ground-calculated position is\nRA, Dec = 323.806, -24.809 deg  which is \n   RA(J2000)  =  21h 35m 13.5s \n   Dec(J2000) = -24d 48' 32\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 31%.\n \nThe mask-weighted light curve shows several overlapping peaks starting at ~T-20 sec\nand ending at ~T+40 sec.  There is a low-significance bump (~3 sigma) from\nT+70 to T+105 sec.  T90 (15-350 keV) is 33.3 +- 1.0 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-5.2 to T+36.4 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.57 +- 0.06.  The fluence in the 15-150 keV band is 4.3 +- 0.1 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+21.56 sec in the 15-150 keV band\nis 2.5 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel."
+}

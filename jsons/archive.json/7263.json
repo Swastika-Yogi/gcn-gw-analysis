@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 080204",
+  "eventId": "GRB 080204",
+  "bibcode": "2008GCN..7263....1G",
+  "createdOn": 1202317880000,
+  "circularId": 7263,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe long hard GRB 080204 (Golenetskii et al., GCN 7256)\ntriggered Konus-Wind at T0=50190.835 (13:56:30.835).\n\nAs observed by Konus-Wind the burst\nhad a fluence of 2.65(-0.47, +0.37)x10^-5 erg/cm2,\nand a 64-ms peak flux measured from T0-0.032 s\nof 9.52(-2.49, +2.25)x10^-6 erg/cm2/s\n(both in the 20 keV - 6 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(not including the precursor; from T0 to T0+16.640 s)\nis well fitted (in the 20 keV - 6 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.35(-0.09, +0.06)\nand Ep = 1279(-382, +469) keV (chi2 = 79.2/78 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB080204_T50190/"
+}

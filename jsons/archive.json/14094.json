@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 121217A: Fermi GBM observation",
+  "eventId": "GRB 121217A",
+  "bibcode": "2012GCN.14094....1Y",
+  "createdOn": 1355826388000,
+  "circularId": 14094,
+  "submitter": "David Gruber at MPE  <dgruber@mpe.mpg.de>",
+  "email": "dgruber@mpe.mpg.de",
+  "body": "David Yu and David Gruber (both MPE)\nreport on behalf of the Fermi GBM Team:\n\n\"At 07:30:01.58 UT on 17 December 2012, the Fermi Gamma-Ray Burst Monitor\ntriggered and located a burst (trigger 377422204 / 121217313), whose\nlocation is consistent with the Swift GRB 121217A (Siegel et al. GCN 14089)\nwhich triggered BAT ~13 minutes prior to the GBM.\nUpon closer examination, we found that GRB 121217A is also present in the \nGBM data. GBM did not trigger on this earlier emission period owing to the\ntriggering being disabled while Fermi was passing through a\nregion of high geomagnetic latitude.\n\nThe GBM light curve consists of two epochs of emission,\nseparated by an epoch of quiescence of about 700 s.\nThe duration of the first pulse is about 50 s while \nthe second pulse is about 30 s long. The overall event T90 is \nabout 780 s (50-300 keV).\nThe time-averaged spectrum of the first emission epoch,\nfrom T0-749.6 s to T0-704.5 s, is well fit by a power law \nfunction with an exponential high-energy cutoff.  The power law index \nis -1.20 +/- 0.12 and the cutoff energy, parameterized as Epeak, \nis 264 +/- 75 keV. The time-averaged spectrum of the \nsecond emission epoch, from T0-8.2 s to T0+24.6 s, is well fit \nby the same model, having a power law index of -1.29 +/- 0.14 and an \nEpeak of 184 +/- 56 keV.\n\nThe event fluence (10-1000 keV) over the overall event is\n(1.11 +/- 0.03)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+2.68 s in the 10-1000 keV band\nis 3.47 +/- 0.29 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

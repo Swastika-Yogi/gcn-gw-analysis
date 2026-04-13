@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 160720A",
+  "eventId": "GRB 160720A",
+  "bibcode": "2016GCN.19727....1S",
+  "createdOn": 1469124918000,
+  "circularId": 19727,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov,  A. Tsvetkova, A. Lysenko, A. Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 160720A\n(Fermi-GBM detection: Hamburg and Burns, GCN Circ. 19724;\nIPN triangulation: Hurley et al., GCN Circ. 19726)\ntriggered Konus-Wind at T0=66314.254 s UT (18:25:14.254).\n\nThe burst light curve shows a multipeaked structure\nstarted at ~T0-80 s with a total duration of ~160 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB160720_T66314/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.50(-0.05,+0.05)x10^-4 erg/cm2,\nand a 64-ms peak flux, measured from T0+10.288 s,\nof 1.31(-0.16,+0.16)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the most intense part\n(measured from T0 to T0+27.392 s)\nis best fit in the 20 keV - 3 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.87(-0.04,+0.04),\nthe high energy photon index beta = -2.87(-0.18,+0.14),\nthe peak energy Ep = 227(-8,+9) keV\n(chi2 = 108/75 dof)\n\nThe spectrum near the maximum count rate\n(measured from T0+9.728 to T0+10.496 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.82(-0.08,+0.09)\nand Ep = 328(-28,+32) keV (chi2 = 66/54 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.7\n(chi2 = 66/53 dof)\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

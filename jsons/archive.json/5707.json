@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061007: Swift detection of a burst with an optical counterpart",
+  "eventId": "GRB 061007",
+  "bibcode": "2006GCN..5707....1S",
+  "createdOn": 1160217174000,
+  "circularId": 5707,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL), J. R. Cummings (NASA/UMBC),\nC. Guidorzi (Univ Bicocca&INAF-OAB), C. Pagani (PSU),\nD. M. Palmer (LANL), S. B. Pandey (UCL-MSSL),\nP. Romano (Univ. Bicocca & INAF-OAB), G. Sato (GSFC/ISAS),\nM. Stamatikos (NASA/ORAU), L. Vetere (PSU) and\nH. Ziaeepour (UCL-MSSL) report on behalf of the Swift Team:\n\nAt 10:08:08 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 061007 (trigger=232683).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA,Dec 46.318, -50.488 {03h 05m 16s, -50d 29' 15\"} (J2000)\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a multi-peaked\nstructure with a duration of about 100 sec.  The peak count rate\nwas ~25000 counts/sec (15-350 keV), at ~54 sec after the trigger. \n\nThe XRT began observing the field at 10:09:29 UT, 80 seconds after the\nBAT trigger. XRT found a bright, fading, uncatalogued X-ray source\nlocated at RA(J2000) = 03h 05m 19.5s, Dec(J2000) = -50d 30' 02.1\",\nwith an estimated uncertainty of 7.5 arcseconds (90% confidence\nradius). This location is 55 arcseconds from the BAT on-board\nposition, within the BAT error circle. The initial flux in the 0.1s\nimage was 3.4e-08 erg/cm2/s (0.2-10 keV). \n\nUVOT took a finding chart exposure of 400 seconds with the V filter\nstarting 195 seconds after the BAT trigger. There is a very bright\nsource in the 2.7' x 2.7' sub-image not present in DSS at RA(J2000) =\n03:05:19.51 = 46.3313 DEC(J2000) = -50:30:02.5 = -50.5007 with a\n1-sigma error radius of about 0.5 arc sec. This position is 0.7 arc\nsec. from the center of the XRT error circle. The estimated magnitude\nis 12.8 with a 1-sigma error of about 0.5 mag. No correction has been\nmade for the expected extinction of about 0.1 magnitudes."
+}

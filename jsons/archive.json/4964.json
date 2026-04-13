@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060413: Swift/UVOT upper limits",
+  "eventId": "GRB 060413",
+  "bibcode": "2006GCN..4964....1B",
+  "createdOn": 1145026466000,
+  "circularId": 4964,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), C. Pagani (PSU), J. Kennea (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began taking data on the field of GRB060413 at\n2006-04-13T18:42:28, 124 s after the BAT trigger (Pagani et al.,\nGCN 4957). No afterglow candidate was detected at the refined\nXRT position (Pagani et al., GCN 4959) in summed images from\nany of the filters down to the following three-sigma upper\nlimits.\n\nFilter  T_range(s)  Exp(s) 3sig_UL\n\nV       230-11744   1960   19.96\nB       707-24977   2014   20.90\nU       683-24287   2262   20.80\nUVW1    660-23374   2118   20.14\nUVM2    635-12648   1378   20.23\nUVW2    735-7623    388    19.74\nWhite   124-19078   1220   20.74\n\nThese upper limits are uncorrected for the estimated Galactic\nreddening of E_{B-V} = 1.95 mag (Schlegel et al. 1998); we\nestimate the V-band extinction A_v to be 6.24 magnitudes in this\ndirection."
+}

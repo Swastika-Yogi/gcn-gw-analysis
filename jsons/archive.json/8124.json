@@ -1,0 +1,10 @@
+{
+  "subject": "Trigger 321551: Continued Large Flaring of SGR 0501+4516",
+  "eventId": "SGR 0501+4516",
+  "bibcode": "2008GCN..8124....1G",
+  "createdOn": 1219492573000,
+  "circularId": 8124,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "N. Gehrels (NASA/GSFC), J. Mao (INAF-OAB), D. M. Palmer (LANL),\nM. Perri (ASDC), B. Preger (ASDC), G. Stratta (ASDC) and\nL. Vetere (PSU) report on behalf of the Swift Team:\n\nAt 11:27:35 UT, the Swift Burst Alert Telescope (BAT) triggered on\na large flare from the newly discovered SGR 0501+4516 (trigger=321551). \nSwift was already observing this source location due to a previous\ntrigger on this source. \nThe BAT on-board calculated location is \nRA, Dec 75.265, +45.281 which is \n   RA(J2000) = 05h 01m 04s\n   Dec(J2000) = +45d 16' 52\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a roughly \nflat-topped structure with a duration of about 0.256 sec. \nThe peak count rate was ~300k counts/sec (15-350 keV), \nat ~0.2 sec after the trigger. \n\nThe BAT burst response algorithm causes a TDRSS alert only\nwhen a known source exceeds twice its previous fluence, so\nadditional large flares may have occurred since the \npreviously-reported large flare at 4:47:48 UT.  Ground\nprocessing of Malindi data will be required to report\non other activity by this source. \n\n[GCN OPS NOTE(25aug08): Per author's request, the end of the\nsecond sentence was changed from \"...due to its previous.\" to\n\"...due to a previous trigger on this source.\".]"
+}

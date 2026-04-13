@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211025A: Swift/UVOT Detection",
+  "eventId": "GRB 211025A",
+  "bibcode": "2021GCN.30991....1O",
+  "createdOn": 1635172500000,
+  "circularId": 30991,
+  "submitter": "Samantha Oates at MSSL  <samantha.oates@alumni.ucl.ac.uk>",
+  "email": "samantha.oates@alumni.ucl.ac.uk",
+  "body": "S. R. Oates (U.Birmingham) and J. D. Gropp (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 211025A\n131 s after the BAT trigger (Gropp et al., GCN Circ. 30986).\nA source consistent with the XRT position (Evans et al. GCN Circ. 30987)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n RA  (J2000) =  10:49:31.93 = 162.38304 (deg.)\n Dec (J2000) = +31:30:44.3  =  31.51231 (deg.)\nwith an estimated uncertainty of 0.9 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\nwhite_FC           131          281          147       > 20.2\nwhite              131          943          220       19.90 +/- 0.25\nwhite             5965         6164          197       > 20.4\nv                 4940         6509          329       > 19.0\nb                 5760         5960          197       > 19.8 \nuvw1               669          688           19       > 17.5\nuvw1              5350         5550          197       > 19.5\nuvm2              5145         5345          197       > 19.4\nuvw2              4735         6370          393       > 20.0  \n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.027 in the direction of the burst\n(Schlegel et al. 1998)."
+}

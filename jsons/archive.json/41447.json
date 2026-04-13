@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250814C (short)",
+  "eventId": "GRB 250814C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41447....1K",
+  "createdOn": 1755701331748,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 41447,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nY. Zhang, C. Wang, S. Xiong, J. Wei, and B. Cordier\non behalf of the SVOM-GRM team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, A. Tohuvavohu,\nand J. DeLaunay on behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 250814C\n(SVOM-GRM detection: Wang et al., GCN 41385)\nwas detected by Konus-Wind, SVOM (GRM), Swift (BAT),\nand Mars-Odyssey (HEND) at about 12263 s UT (03:24:23).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  164.655 (10h 58m 37s) +47.526 (+47d 31' 35\")\n Corners:\n  164.814 (10h 59m 15s) +47.549 (+47d 32' 56\")\n  164.789 (10h 59m 09s) +47.597 (+47d 35' 48\")\n  164.497 (10h 57m 59s) +47.504 (+47d 30' 13\")\n  164.521 (10h 58m 05s) +47.456 (+47d 27' 21\")\n ---------------------------------------------\nThe error box area is 39 sq. arcmin, and its maximum\ndimension is 14 arcmin (the minimum one is 3 arcmin).\nThe Sun distance was 37 deg.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250814_T12259/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131004A: Swift/UVOT Detection",
+  "eventId": "GRB 131004A",
+  "bibcode": "2013GCN.15313....1D",
+  "createdOn": 1380991338000,
+  "circularId": 15313,
+  "submitter": "MSSL Swift/UVOT team at MSSL/Swift  <msslba@googlemail.com>",
+  "email": "msslba@googlemail.com",
+  "body": "M. De Pasquale (UCL-MSSL) and L. M. Z. Hagen (PSU) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 131004A\n75 s after the BAT trigger (Hagen et al., GCN Circ. 15303).\nA source consistent with the XRT position (Evans et al. GCN Circ. 15308)\nand the position of the source given in Xu et al. (GCN Circ. 15304)\nis detected in the initial and summed UVOT exposures.\n\nThe preliminary coordinates of this source are:\n\n    RA  (J2000) =  19:44:27.09 = 296.11287 (deg.)\n    Dec (J2000) = -02:57:30.4  =  -2.95844 (deg.)\n\nwith an estimated uncertainty of 0.55 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC            75          225          147         19.23 �� 0.11\nwhite               75         5688          520         20.18 �� 0.12\n\nu_FC               288          537          246         19.96 �� 0.34\nu                  288         6715          659         20.72 �� 0.40\n\nv                  617         6100          432         >20.24\nb                  543         6770          285         >21.0\n\nw1                 666         6510          432         >20.9\nm2                 814         6305          413         >20.8\nw2                 593         5895          432         >21.0\n\n\nThe magnitudes in the table are not corrected for substantial Galactic\nextinction\ndue to the reddening of E(B-V) = 0.28 in the direction of the burst\n(Schlegel et al. 1998)."
+}

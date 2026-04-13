@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251126A : MITSuME Akeno optical afterglow candidate detection",
+  "eventId": "GRB 251126A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42859....1S",
+  "createdOn": 1764245280528,
+  "circularId": 42859,
+  "submitter": "seki@hp.phys.titech.ac.jp",
+  "format": "text/plain",
+  "body": "H. Seki, I. Takahashi, M. Sasada, Y. Kubo, H. Hagio, A. Ochi, R. Kato, S. Joshima, Y. Yatsu and N. Kawai (Science Tokyo) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 251126A detected by Swift (Caputo et al., GCN 42843) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2025-11-26 19:11:15 UT (39 seconds after the trigger). We stacked the images taken under good conditions. We detected a point source in the g'-, Rc- and Ic-band images at a position of the reported optical candidate (Swain et al., GCN 42844; Fu et al., GCN 42848; Reguitti et al., GCN 42849; Broens et al., GCN 42850;  Angulo et al., GCN 42855; Pulido-Torres et al., GCN 42856; Gupta et al., GCN 42857; Cotter et al., GCN 42858).  Here we report the magnitudes of the source as follows.\n\nT0+[sec] | MID-UT | T-EXP[sec] | magnitudes\n---------------------------------------------------------------------------------------------------------------\n1310 | 2025-11-26 19:32:26 | 1560 | g'=20.5+/-0.3, Rc=18.7+/-0.1, Ic=18.2+/-0.1\n---------------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire)."
+}

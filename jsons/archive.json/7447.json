@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319A, Swift-BAT refined analysis",
+  "eventId": "GRB 080319A",
+  "bibcode": "2008GCN..7447....1B",
+  "createdOn": 1205939060000,
+  "circularId": 7447,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), J. Cummings (GSFC/UMBC), E. Fenimore (LANL),\nN. Gehrels (GSFC), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nK. McLean (GSFC/UMD), C. Pagani (PSU), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-120 to T+182 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 080319A (trigger #306754)\n(Pagani, et al., GCN Circ. 7426).  The BAT ground-calculated position is\nRA, Dec = 206.352, 44.080 deg, which is \n   RA(J2000)  =  13h 45m 24.6s \n   Dec(J2000) = +44d 04' 47.3\" \nwith an uncertainty of 1.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 7%.\n \nThe mask-weighted light curve shows two main over-lapping FRED-like peaks\nstarting at ~T-5 sec, peaking at T+5 and T+25 sec, and ending at ~T+70 sec.\nT90 (15-350 keV) is 64 +- 36 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-7.7 to T+72.3 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.60 +- 0.13.  The fluence in the 15-150 keV band is 4.8 +- 0.4 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+31.80 sec in the 15-150 keV band\nis 1.2 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/306754/BA/\n\nDue to a large backlog in downlinking the full data on this burst,\nwe currently do not have the usual data set out to long times yet.\nShould the remaining data show that there is ongoing activity \nfor this burst past the data cutoff at T+182sec, then we will\nissue an updated 'refined analysis' circular."
+}

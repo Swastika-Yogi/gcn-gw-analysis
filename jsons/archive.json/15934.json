@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140305A: Swift-BAT refined analysis",
+  "eventId": "GRB 140305A",
+  "bibcode": "2014GCN.15934....1C",
+  "createdOn": 1394063015000,
+  "circularId": 15934,
+  "submitter": "Takanori Sakamoto at AGU  <tsakamoto@phys.aoyama.ac.jp>",
+  "email": "tsakamoto@phys.aoyama.ac.jp",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), A. Y. Lien (NASA/UMBC),\nC. B. Markwardt (GSFC), A. Maselli (INAF-IASFPA), D. M. Palmer (LANL),\nT. Sakamoto (AGU), M. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-60 to T+243 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 140305A (trigger #590446)\n(Maselli, et al., GCN Circ. 15929).  The BAT ground-calculated position is\nRA, Dec = 344.497, 15.448 deg which is \n  RA(J2000)  =  22h 57m 59.4s \n  Dec(J2000) = +15d 26' 53.3\" \nwith an uncertainty of 1.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 48%.\n\nThe mask-weighted light curve shows a FRED-like peak starting at T-1 sec, \npeaking at T+0 sec, and ending at T+20 sec.  \nT90 (15-350 keV) is 13.7 +- 1.8 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-1.1 to T+16.3 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.32 +- 0.92, \nand Epeak of 70 +- 32 keV (chi squared 45.13 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 4.7 +- 0.7 x 10^-7 erg/cm2\nand the 1-sec peak flux measured from T+0.18 sec in the 15-150 keV band is\n1.0 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.49 +- 0.17 (chi squared 51.59 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/590446/BA/\n\n[GCN OPS NOTE(05mar14):  Per author's request, the peak time was changed\nfrom \"T\" to \"T+0\".]"
+}

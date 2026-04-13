@@ -1,0 +1,11 @@
+{
+  "subject": "EP241026B: GROWTH-India Telescope optical upper limit",
+  "eventId": "EP241026B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37920....1M",
+  "createdOn": 1730078911424,
+  "circularId": 37920,
+  "submitter": "Varun Bhalerao at IIT Bombay <varunb@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, R. Kumar, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the fast X-ray transient EP241026b (Lian et al., GCN 37902) with the 0.7m GROWTH-India Telescope (GIT). The observations started at 2024-10-27 16:15:46 UT, starting about 0.92 days after the trigger. We obtained multiple images of 360s each in the i' filter. We did not detect any new source in our stacked image around the coordinates in the error circle of the transient (GCN 37902).\nBelow is the upper limit in the stacked images:\n\n-------------------------------------------------------------------\n| MJD (mid)     | Filter | Exposure (s) | Limiting Magnitude (AB) |\n| ------------- | ------ | ------------ |:----------------------- |\n| 60610.6984491 | i'     | 10x360       | 21.5                    |\n-----------------------------------------------------------------\n\nOur upper limits are consistent with reports by Lipunov et al., (GCN 37905), Malesani et al., (GCN 37907).\n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB000615, further R-band photometry",
+  "eventId": "GRB 000615",
+  "bibcode": "2000GCN...709....1S",
+  "createdOn": 961192946000,
+  "circularId": 709,
+  "submitter": "Krzysztof Z. Stanek at CfA  <kstanek@cfa.harvard.edu>",
+  "email": "kstanek@cfa.harvard.edu",
+  "body": "K. Z. Stanek (CfA), P. M. Garnavich (Notre Dame), S. Jha (CfA) and\nP. Berlind (FLWO) report:\n\nWe have obtained additional images of the BeppoSAX error-box of\nGRB000615 (GCNs 703, 705) using the FLWO 1.2-meter telescope on\nMt. Hopkins.  We obtained two 4x300 sec R-band image sequences, with\nthe first sequence starting at UT June 16 04:19, and the second\nstarting at UT June 16 10:19. As was the case with our first night\nimages (GCN 706), visual comparison of these new images with the\nPOSS-II red plate, which reaches about R~20.0 mag, reveals no obvious\nnew objects.\n\nIn addition, by comparing our images from the two nights we are able\nto place much stronger limit on any variable optical afterglow of\nGRB000615.  Employing the image subtraction code ISIS-2 (Alard 1999)\nbetween the two nights reveals no variable objects brighter than about\nR~21.5. Using DAOPHOT-II (Stetson 1992) we detect about 350 objects\nwith R<21.5 mag in 11x11 arcmin field.\n\nOur FLWO R-band fits images from both nights can be accessed from\nftp://cfa-ftp.harvard.edu/pub/kstanek/GRB000615/.\n\nWe find one possible variable object detected in the first night\nimages, which is not present in the second night images. It is located\nnear at RA=15:33:06.04, DEC=+73:49:46.4 (J2000.0; uncertainty +/-\n0.3\"; x=431.7, y=614.5 in the \"ff1003\" image), and its brightness is\nabout R~21.6 (calibrated using the USNO R-band magnitudes).  However,\nas the object seems to move slightly in the first night images, we DO\nNOT think it is the GRB afterglow.\n\nFurther observations are planned at FLWO.\n\nThis message can be cited."
+}

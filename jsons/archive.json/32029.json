@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220511A: Swift-XRT observations",
+  "eventId": "GRB 220511A",
+  "bibcode": "2022GCN.32029....1D",
+  "createdOn": 1652361748000,
+  "circularId": 32029,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "V. D'Elia (SSDC & INAF-OAR), A. D'Ai (INAF-IASFPA), D.N. Burrows (PSU),\nJ. D. Gropp (PSU), J.A. Kennea (PSU), A.P. Beardmore (U. Leicester),\nJ.P. Osborne (U. Leicester), A. Melandri (INAF-OAB) and P.A. Evans (U.\nLeicester) report on behalf of the Swift-XRT team:\n\nSwift-XRT has performed follow-up observations of the\nSwift/BAT-GUANO-detected burst GRB 220511A (DeLaunay et al. GCN Circ.\n32023), collecting 5.0 ks of Photon Counting (PC) mode data between\nT0+37.4 ks and T0+49.1 ks. The burst was also detected by Fermi-GBM\n(GCN Circ. 32018), AGILE (Ursi et al., GCN 32021) and AstroSat CZTI\n(Gopalakrishnan et al., GCN 32028). \n\nTwo uncatalogued X-ray sources have been detected, however none of them\nis above the RASS limit or shows definitive signs of fading. Therefore,\nat the present time we cannot identify which, if any, is the afterglow.\nDetails of these sources are given below:\n\nSource 1:\n  RA (J2000.0):  287.4316  =  19:09:43.59\n  Dec (J2000.0): +17.7297  =  +17:43:46.9\n  Error: 5.4 arcsec (radius, 90% conf.)\n  Count-rate: (4.7 +/- 1.2)e-3 ct s^-1\t \n  Distance: 59 arcsec from Swift/BAT-GUANO position.\n  Flux: (1.94 +/- 0.51)e-13 erg cm^-2 s^-1 (observed, 0.3-10 keV)\n\nSource 3:\n  RA (J2000.0):  287.5100  =  19:10:2.41\n  Dec (J2000.0): +17.7394  =  +17:44:21.8\n  Error: 4.0 arcsec (radius, 90% conf. [Enhanced position])\n  Count-rate: (3.9 [+1.2, -1.0])e-3 ct s^-1   \n  Distance: 219 arcsec from Swift/BAT-GUANO position.\n  Flux: (7.9 [+2.5, -2.1])e-14 erg cm^-2 s^-1 (observed, 0.3-10 keV)\n\nA catalogued source was also detected.\n\nThe results of the XRT-team automatic analysis of the XRT observations,\nincluding a position-specific upper limit calculator, are available at\nhttps://www.swift.ac.uk/ToO_GRBs/00021498.\n\nThis circular is an official product of the Swift-XRT team."
+}

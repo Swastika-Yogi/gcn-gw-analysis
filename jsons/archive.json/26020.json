@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191017A: Fermi GBM Final Localization",
+  "eventId": "GRB 191017A",
+  "bibcode": "2019GCN.26020....1H",
+  "createdOn": 1571322120000,
+  "circularId": 26020,
+  "submitter": "Rachel Hamburg at UAH  <rkh0007@uah.edu>",
+  "email": "rkh0007@uah.edu",
+  "body": "R. Hamburg (UAH) reports on behalf of the Fermi GBM Team:\n\nThe Fermi Gamma-ray Burst Monitor (GBM) trigger (trigger 592997024 /\n191017391)\nat 09:23:39.27 UT on 17 October, 2019, was misclassified by the GBM flight\nsoftware as a particle event but is in fact due to a GRB.\n\nTherefore, the Fermi GBM team reports the detection of GRB 191017A. The\non-ground calculated location, using the Fermi GBM trigger data, is\nRA = 171.25, Dec = +38.05 (J2000 degrees, equivalent to J2000 11h 25m, 38d\n03'),\nwith a statistical uncertainty of 1.5 degrees. The angle from the Fermi LAT\nboresight is 131.44 degrees.\n\nThe skymap can be found here:\nhttp://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2019/bn191017391/quicklook/glg_skymap_all_bn191017391.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can\nbe found here:\nhttp://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2019/bn191017391/quicklook/glg_healpix_all_bn191017391.fit\n\nThe GBM light curve can be found here:\nhttp://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2019/bn191017391/quicklook/glg_lc_medres34_bn191017391.gif"
+}

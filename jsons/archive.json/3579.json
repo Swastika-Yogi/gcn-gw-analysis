@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050712: XRT refined analysis",
+  "eventId": "GRB 050712",
+  "bibcode": "2005GCN..3579....1G",
+  "createdOn": 1121225998000,
+  "circularId": 3579,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <grupe@astro.psu.edu>",
+  "email": "grupe@astro.psu.edu",
+  "body": "D. Grupe, D. Burrows, D. Morris, A. Falcone, J. Nousek,\nP. Meszaros, M. Chester (PSU), N. Gehrels (GSFC),\non behalf of the Swift-XRT team:\n\nTitle: GRB050712: XRT refined analysis\n\n\nWe analysed the XRT data of the first four\norbits of GRB050712 (GCN 3573, Grupe et al., 2005).  \n\nThe refined position using xrtcentroid is:\n\nRA  (2000):  05 10 47.31\nDec (2000): +64 54 49.76\n\nThe centroiding error is 6 arcsec. This is 62 arcseconds from the refined\nBAT position (GCN 3576, Markwardt et al., 2005) and\n5.5 arcseconds from the tentative UVOT counterpart (GCN 3575, Rol et \nal., 2005)\n\nThe WT mode data can be fitted by a single power law with an X-ray slope\nbeta=1.20+/-0.08. The neutral absorption parameter is 1.8e21 1/cm2, which is\nslightly higher than the Galactic value (1.3e21 1/cm2; Dickey & Lockman \n1990).\nThe PC mode data agree with this result within the errors.\n\nThe light curve shows a fading afterglow with a preliminary\ndecay slope of alpha=0.85+/-0.08.\nThe unabsorber 0.3-10.0 keV flux at 1 hour after the burst is estimated to\n6.3e-12 ergs/s/cm2"
+}

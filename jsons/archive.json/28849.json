@@ -1,0 +1,10 @@
+{
+  "subject": "Correcton to GCN 28848: Swift observes ZTF20acozryr",
+  "eventId": "ZTF20acozryr",
+  "bibcode": "2020GCN.28849....1E",
+  "createdOn": 1604649524000,
+  "circularId": 28849,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans reports on behalf of the Swift-XRT team:\n\nGCN CIrcular 28848 incorrectly referred to GRB 201104C. This was due to a software error, not recognising 'ZTF20acozryr��� as a GRB name.\n\nSwift is actually carrying out observations of the source ZTF20acozryr (Coughlin et al., GCN Circ. 28841) which has been possibly associated with GRB 201103B (Svinkin et al., GCN Circl. 28844), and has a redshift of 1.105 (Xu et al., GCN Circl. 28847).\n\nThe results of the automated search for an X-ray counterpart consistent with the ZTF position, and analysis of any source(s) found, will appear at the URL previous circulated, i.e.\n\nhttps://www.swift.ac.uk/ToO_GRBs/00021039\n\nAlthough the nature of this object has not been confirmed, the zeropoint for any source light curves will be set to the IPN trigger time, in the first instance.\n\nWe apologise for the confusion."
+}

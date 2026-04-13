@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250625A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 250625A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40840....1B",
+  "createdOn": 1750936887746,
+  "submitter": "Alice Breeveld at MSSL-UCL <a.breeveld@ucl.ac.uk>",
+  "circularId": 40840,
+  "body": "A.A. Breeveld (UCL-MSSL) and M. Ferro (INAF-OAB) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250625A 125 s after the BAT trigger (Ferro et al., GCN Circ. 40825).\nThe optical afterglow reported by Moskvitin et al. (GCN Circ. 40828), Xin et al. (GCN Cir. 40830), Zhu et al. (GCN Circ. 40834) Fortin et al. (GCN Circ. 40837), Adami et al. (GCN Circ. 40838) and Brosio et al. (GCN Circ. 40839) is not detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           125          275          147         >20.9\nu_FC               283          533          246         >20.5\nwhite              125         1529          392         >21.7\nv                  613         1579          117         >19.2\nb                  539         1505           97         >20.4\nu                  283         1480          324         >20.6\nw1                 662         1628          117         >19.6\nm2                 637         1431           78         >20.1\nw2                 589         1383           97         >20.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.054 in the direction of the burst (Schlegel et al. 1998).\n"
+}

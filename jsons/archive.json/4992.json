@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060421: Swift-XRT refined analysis",
+  "eventId": "GRB 060421",
+  "bibcode": "2006GCN..4992....1G",
+  "createdOn": 1145633538000,
+  "circularId": 4992,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "M.R. Goad, K.L. Page (U Leicester) and D.N. Burrows (PSU) report on \nbehalf of the Swift-XRT team:\n\nWe have analysed the first 14 ks of Photon Counting (PC) mode data,\nstarting 97 seconds after the BAT trigger time, determining a refined\nposition of\n\nRA (J2000):   22 54 32.63\nDec(J2000):  +62 43 50.07\n \nwith an estimated uncertainty of 3.8 arcsec (90% containment). This is 1.7 \narcsec from the initial XRT position given by Goad & Page in GCN 4987 and \n16.2 arcsec from the on-board BAT position quoted in GCN 4985 (Goad et \nal.)\n\nThe X-ray source was initially quite faint, with a peak count rate of only\n~1 count s^-1. The light-curve shows a flat decay of alpha = 0.49 +/-\n0.29, breaking to a steeper slope of alpha = 1.54 +/- 0.36, approximately\n1500 seconds after the burst.\n\nBecause of the faintness of the afterglow, only 3 seconds of data were\nobtained in Windowed Timing mode before switching into PC. The first orbit\nof PC data (97-717 seconds post-trigger) can be modelled with a simple\npower-law of Gamma = 1.54 +/- 0.34, with the Galactic absorbing column of\n1e22 cm^-2. The observed (unabsorbed) flux over 0.3-10 keV for this time\nperiod is 3.78e-11 (5.64e-11) erg cm^-2 s^-1.\n\nAssuming the current rate of decay continues, the estimated count rate at \n24 hours is 4.2e-3 count s^-1, corresponding to an observed (unabsorbed) \nflux of 4.55e-14 (6.38e-14) erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 050713A",
+  "eventId": "GRB 050713A",
+  "bibcode": "2005GCN..3619....1G",
+  "createdOn": 1121445247000,
+  "circularId": 3619,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 050713A (Swift-BAT trigger #145675; \nFalcone et al., GCN 3581, Palmer et al., GCN 3597)\ntriggered Konus-Wind at T0=16141.745 s UT (04:29:01.745).\nAs observed by Konus-Wind it had a duration of ~16 s,\nfluence (1.22 � 0.08)10-5 erg/cm2,\npeak flux on 64-ms time scale (1.7 � 0.4)10-6  erg/cm2 s\n(both in the 20 keV - 4 MeV energy range).\nKonus-Wind did not detect additional smaller peaks,\nreported by Swift-BAT.\nProbably they were too weak to be detected by Konus-Wind.\n\nThe spectrum integrated over the most instense part of the GRB\n(from T0 to T0+8.448 s) is well fitted (in 20 keV-4 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) exp(-E/E0) \nwith alpha = 1.12 +/- 0.08,\nand E0 = 355 � 70 keV.\nThe peak energy Ep = 312 � 50 keV.\n\n\n-- \n\nValentin Pal'shin\n\nIoffe Physico-Technical Institute\nLaboratory for Experimental Astrophysics\n26 Polytekhnicheskaya, St Petersburg 194021,\nRussian Federation \n\nemail: val@mail.ioffe.ru\nTel: (7)-812-2479177\nFax: (7)-812-2471963"
+}

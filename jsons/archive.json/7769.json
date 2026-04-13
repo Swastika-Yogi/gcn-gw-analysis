@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB 080523",
+  "eventId": "GRB 080523",
+  "bibcode": "2008GCN..7769....1K",
+  "createdOn": 1211630576000,
+  "circularId": 7769,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL), and M. C. Stroh (PSU), report on behalf\nof the Swift UVOT team\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began observations\nof GRB 080523, on May 23, 2008, at  UT,  112 seconds after the initial\nSwift BAT trigger (Stroh et al., GCN Circ. 7767). We detect no source\nat the enhanced Swift XRT position (Osborne, GCN Circ.7768).\n\nThe 3-sigma limiting magnitudes for GRB080523 are given below for\nthe two initial observations, and for summed observations in each\nof the UVOT filters:\n\nFilter Tstart(s) Tstop(s) Exp(s) Magnitude\n\nwhite    112       211     99.8    > 20.78\nv        218       617    399.8    > 19.93\n\nwhite    112     12001   1211.2    > 21.80\nv        218      6037    819.2    > 19.86\nuvm2     624      6242    439.2    > 20.15\nuvw1     649      6448    439.2    > 20.20\nu        673      6649    435.9    > 19.92\nb        698     11088   1118.9    > 21.56\nuvw2     728     12430    841.6    > 20.77\n\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al, 2008, MNRAS 383,627). They are not corrected for the\nexpected galactic reddening of E(B-V) = 0.025 in the direction of\nthe burst (Schlegel et al. 1998)."
+}

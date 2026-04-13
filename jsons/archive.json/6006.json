@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070107 Swift/UVOT Observations of a Fading Optical Afterglow",
+  "eventId": "GRB 070107",
+  "bibcode": "2007GCN..6006....1B",
+  "createdOn": 1168448692000,
+  "circularId": 6006,
+  "submitter": "Padi Boyd at GSFC  <padi@milkyway.gsfc.nasa.gov>",
+  "email": "padi@milkyway.gsfc.nasa.gov",
+  "body": "GRB 070107: UVOT Observations of a Fading Optical Afterglow\n\nP. T. Boyd and F. E. Marshall (NASA/GSFC) report on behalf of the Swift team:\n\nUVOT observed the field of GRB 070107 (Stamatikos et al. GCN Circ. 5999).\nThe complete data set through T=117,471s now available clearly shows a\nfading source at the position reported by Boyd et al. (GCN Circ 6002).\nThis afterglow candidate is visible at early times in the White and\nV filters, and probably also in the U filter.\n\nThe table below gives the measured magnitudes after correcting for\nflux in the source aperture due to the bright (V=15.9 mag) nearby\nstar. Reported significance levels were calculated based on rates\nin the source region, while magnitude errors include the contribution\nfrom aperture correction.\n\nFilter  TSTART  Exposure        Mag     Error   Significance\n\nWhite   181     98              19.5    0.3        5.6\nWhite   5355    197             20.5    0.3        3.5\nV       286     393             19.2    0.3        3.9\nV       971     393             19.8    0.4        2.0\nU       29220   590             20.6    0.4        2.8\nB       5151\t197             20.7  \t(3sigma UL)\nW1      6174\t197             20.0    (3sigma UL)\nM2      16718\t886             20.5    (3sigma UL)\nW2      22501\t886             20.8 \t(3sigma UL)\n\nThese magnitudes have not been corrected for the large and unreliable\nGalactic extinction at this position."
+}

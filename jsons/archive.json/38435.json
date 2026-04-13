@@ -1,0 +1,11 @@
+{
+  "subject": "EP241202b: Upper limits from Fermi-GBM Observations",
+  "eventId": "EP241202b",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38435....1R",
+  "createdOn": 1733257110050,
+  "circularId": 38435,
+  "submitter": "mariaedvige.ravasio@ru.nl",
+  "format": "text/plain",
+  "body": "M. E. Ravasio (Radboud Univ.), E. Burns (LSU), P.G. Jonker (Radboud Univ.), and  M. Hui (NASA MSFC) report on behalf of the Fermi-GBM Team:\n\n\nFermi-GBM had full spatial and temporal coverage of the EP-WXT signal of EP241202b (Zhou et al., GCN 38426). There was no Fermi-GBM onboard trigger around the EP-WXT trigger time T0=2024-12-02 15:12:55 UTC. \n\nThe GBM targeted search [1], the most sensitive, coherent search for GRB-like signals, was run in the time interval [-50;+500] s from the EP trigger time, seeking signals between 64 ms and 32.768 s in duration. A transient was found, but its localization is not consistent with the EP transient’s one. No signal consistent both temporally and spatially is identified, as confirmed by visual inspection of the data. \n\nAssuming a “normal” spectral template (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3), whose alpha value is consistent with the power law index reported by EP (Zhou et al., GCN 38426), and a duration of 8.192 s, we derive a sky-averaged upper limit of 5.2e-08 erg/cm2/s in the energy band 10-1000 keV.\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

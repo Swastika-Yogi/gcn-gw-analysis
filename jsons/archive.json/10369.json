@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100205A: Swift XRT refined analysis",
+  "eventId": "GRB 100205A",
+  "bibcode": "2010GCN.10369....1S",
+  "createdOn": 1265388448000,
+  "circularId": 10369,
+  "submitter": "Rhaana Starling at U of Leicester  <rlcs1@star.le.ac.uk>",
+  "email": "rlcs1@star.le.ac.uk",
+  "body": "R.L.C. Starling (U Leicester) and J.L. Racusin (NASA/GSFC) report on \nbehalf of the Swift-XRT team:\n\nWe have analysed 1.5 ks of XRT data for GRB 100205A \n(trigger=411248, Racusin et al. GCN Circ. 10361), from 157 s to 4.95 ks \nafter the BAT trigger. The data comprise 11 s of Windowed Timing (WT)\nmode settling data and the remainder is in Photon Counting (PC) mode. \nAt this point Swift coverage of the source stopped due to thermal \nconstraints, but further observations are now underway. \nThe enhanced XRT position is given in Evans et al. GCN Circ. 10367.\n\nThe light curve can be fit with a doubly broken power law. The difference \nbetween the initial WT mode settling data and the first PC data suggest \na steep initial decay of alpha~9.5. This power law decay breaks at ~180 s \nto a plateau with alpha~-0.05, which breaks at 330 +140/-60 s to a decay \nof alpha = 2.5 +0.4/-0.3.\n\nThe time-averaged PC mode spectrum can be fit with an absorbed power law \nof photon index Gamma = 2.2 +/-0.3, and absorption column\nN_H (intrinsic at z=0) = (7 +6/-5) x 10^20 cm^-2 in excess of the Galactic \ncolumn of 1.65 x 10^20 cm^-2 (Kalberla et al. 2005). \nThe observed (unabsorbed) 0.3-10 keV flux is (9.0 +1.6/-2.0) x 10^-12 (1.2 \nx 10^-11) erg cm^-2 s^-1.\nThe observed (unabsorbed) counts to flux conversion is 3.7 x 10^-11 (4.9 x \n10^-11) erg cm^-2 ct^-1.\n\nIf the light curve continues to decay with alpha = 2.5 the predicted count \nrate at T+24h is 1 x 10^-6 ct s^-1.\n\nThe results of the XRT-team automatic analysis are available at \nhttp://www.swift.ac.uk/xrt_products/00411248.\n\nThis circular is an official product of the Swift-XRT team."
+}

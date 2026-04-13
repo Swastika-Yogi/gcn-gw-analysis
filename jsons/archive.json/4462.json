@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060109: Refined Swift-XRT analysis",
+  "eventId": "GRB 060109",
+  "bibcode": "2006GCN..4462....1B",
+  "createdOn": 1136880916000,
+  "circularId": 4462,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "A.P. Beardmore, K.L. Page (U.Leicester), J. Kennea (PSU), M. De Pasquale\n(UCL-MSSL), P. Meszaros, M. Chester (PSU) report on behalf of the Swift\nXRT team:\n\nWe have analysed the first four orbits of Swift-XRT data from GRB 060109.\n8.3ks of PC mode data give a refined position of\n\nRA(J2000)   =  18h 50m 43.5s\nDec(J2000)  = +31d 59' 29.7\"\n\nwith an estimated uncertainty of 3.2 arcsec (90% containment). This\nposition is 7.7 arcsec away from the on-board XRT position quoted in De\nPasquale et al. (GCN 4455) and includes the latest XRT boresight\ncorrection.\n\nThe X-ray lightcurve shows a steeply declining early phase, with a decay\nslope of 5.1, which breaks to a shallower slope of 0.14 at about 300s.  \nThis is followed by a second break at 6100s to a slope of 1.2.\n\nThe X-ray spectrum 100s to 200s after the BAT trigger can be fitted with\nan absorbed power-law with a photon index of 1.85+/-0.09 and a column\ndensity consistent with the Galactic value in this direction of 1.0e21\ncm**2.  The observed (unabsorbed) 0.3-10.0 keV flux over this interval is\n5.1E-10 (6.2E-10) ergs cm**-2 s**-1.\n\nIf the source continues to fade at the current rate we predict an XRT\ncount rate of 0.006 counts/s 24hrs after the trigger, which corresponds\nto an observed (0.3-10 keV) flux of 2.4e-11 ergs cm**-2 s**-1."
+}

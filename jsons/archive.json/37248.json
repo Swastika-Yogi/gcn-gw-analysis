@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240822A: AstroSat CZTI detection of a short burst",
+  "eventId": "GRB 240822A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37248....1W",
+  "createdOn": 1724432650456,
+  "circularId": 37248,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a short-duration GRB 240822A which was also detected by Konus-Wind (IPN Notices).\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-08-22 02:46:21.632 UTC. The measured peak count rate associated with the burst, as measured with 16 ms binning, is 1522 (+554, -363) counts/s above the background in the combined data of three quadrants (out of four), with a total of 208 (+51, -47) counts. The local mean background count rate was 216 (+9, -22) counts/s. Using cumulative rates, we measure a T90 of 0.4 (+0.3, -0.1) s.\n\nIt was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2024-08-22 02:46:21.0 UTC. The measured peak count rate is 1010 (+74, -82) counts/s above the background in the combined Veto data of all quadrants, with a total of 1286 (+171, -194) counts. The local mean background count rate was 1267 (+10, -11) counts/s. Due to the intrinsic 1 s binning of veto data, we cannot reliably estimate a T90 from it.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

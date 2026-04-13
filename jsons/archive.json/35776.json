@@ -1,0 +1,9 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of EPW20240219aa as a likely GRB",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35776....1F",
+  "createdOn": 1708641102561,
+  "circularId": 35776,
+  "submitter": "Cori Fletcher at USRA <cfletcher@usra.edu>",
+  "body": "C. Fletcher (USRA), S. Lesage (UAH) and P. Jenke (UAH) report on behalf of the Fermi-GBM Team:\n\nEinstein Probe detected a bright X-ray flare (EPW20240219aa; ATel 16463; ATel 16472) at 06:21:42 UT on February 19, 2024. There was no Fermi-GBM onboard trigger around the event. Zhang et al. 2024 (GCN 35773) found a possible GRB event in Fermi-GBM data at that time.\n\nAn automated, blind search developed for short gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified EPW20240219aa with a low chance of being a short gamma-ray burst. The rate of GBM signals that meet the low reliability threshold (including onboard triggers) is 200/year. An initial estimate of the chance coincidence, including only temporal information, is ~4.1 sigma.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals identified a transient most significantly on the 8.192 s\ntimescale, with a false alarm rate of 7.7e-05 Hz and a location consistent with\nthe Einstein Probe event, using the standard search protocol with a S/N of 9.2. \nThe GBM targeted search event was found with the highest\nsignificance with a \"normal\" spectrum (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

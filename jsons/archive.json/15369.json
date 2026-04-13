@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131024A: Skynet R-COP optical observations",
+  "eventId": "GRB 131024A",
+  "bibcode": "2013GCN.15369....1T",
+  "createdOn": 1382641952000,
+  "circularId": 15369,
+  "submitter": "Adam S. Trotter at UNC-Chapel Hill/PROMPT/Skynet  <atrotter@physics.unc.edu>",
+  "email": "atrotter@physics.unc.edu",
+  "body": "A. Trotter, J. Haislip, D. Reichart, A. Verveer, T. Spuck, A. LaCluyze, \nN. Frank, J. Moore, T. Berger, H. T. Cromartie, R. Egger, A. Foster, K. \nIvarsen, M. Maples, M. Nysewander, E. Speckhard, and J. A. Crain report:\n\nSkynet observed the Swift/XRT localization of the field of GRB 131024A \n(Racusin et al., GCN 15365, Swift trigger # 575707) with the 14-inch \nR-COP telescope at Perth Observatory, Australia, starting at 2013-10-24, \n12:28:14 UT and continuing until 14:25 UT (t=1.9-118m post trigger). \nR-COP took a total of 44x20-80s exposures simultaneously in the BRI bands.\n\nIn a stack of 2 early R-band images at a mean time t=6.9m we marginally \ndetect (S/N~3.5 sigma) an uncataloged source in the R band within the \nXRT error circle, with R~18.9 mag. In later stacks at mean times \n~70-80m, we obtain only 3-sigma upper limits in all three bands:\n\nband    t(mean) exp     mag\nB       69m      9x80s  >19.2\nR       80m     12x80s  >19.8\nI       83m     16x80s  >18.9\n\nMagnitudes are in the Vega system, calibrated to four APASS-DR7 stars in \nthe field, and have not been corrected for line-of-sight Milky Way dust \nextinction, with expected E(B-V)=0.05 (Schlegel et al. 1998).\n\nNo further Skynet observations are scheduled."
+}

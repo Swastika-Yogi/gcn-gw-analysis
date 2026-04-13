@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190517h: IceCube Neutrino Search",
+  "eventId": "LIGO/Virgo S190517h",
+  "bibcode": "2019GCN.24573....1I",
+  "createdOn": 1558082670000,
+  "circularId": 24573,
+  "submitter": "Alex Pizzuto at ICECUBE/U of Wisconsin  <pizzuto@wisc.edu>",
+  "email": "pizzuto@wisc.edu",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nIceCube has performed a search for track-like muon neutrino events\nconsistent with the sky localization of S190517h in a time range of 1000\nseconds centered on the alert event time (2019-05-17 05:42:41.831 UTC to 2019-05-17 05:59:21.831 UTC)\nduring which IceCube was collecting good quality data. One track-like event\nis found in spatial coincidence with the 90% spatial containment region of\nS190517h calculated from the map circulated in the preliminary notice. This\nrepresents an overall p-value of 0.094 (1.32sigma) with respect\nto the background only hypothesis. Properties of the coincident event are shown below.\n\n dt           ra           dec         Angular Uncertainty(deg)         pvalue\n----------------------------------------------------------------------------------\n336.32         290.80         -69.39                 3.65                0.096\n\n\ndt = Time offset (sec) of track event with respect to GW trigger.\nAngular uncertainty = Angular uncertainty of track event: the radius of a circle representing 90% CL containment by area.\nPvalue = the pvalue for this specific track event with respect to a background only hypothesis\n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector operating at the geographic South Pole, Antarctica.\nThe IceCube realtime alert point of contact can be reached at roc@icecube.wisc.edu"
+}

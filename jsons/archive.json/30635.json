@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210812B: Fermi GBM Final Real-time Localization",
+  "eventId": "GRB 210812B",
+  "bibcode": "2021GCN.30635....1F",
+  "createdOn": 1628792469000,
+  "circularId": 30635,
+  "submitter": "Fermi GBM Team at MSFC/Fermi-GBM  <do_not_reply@GIOC.nsstc.nasa.gov>",
+  "email": "do_not_reply@GIOC.nsstc.nasa.gov",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\nAt 00:15:51 UT on 12 Aug 2021, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 210812B (trigger 650420156.733782 / 210812011).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 183.7, Dec = 2.4 (J2000 degrees, equivalent to J2000 12h 14m, 2d 23'), with a statistical uncertainty of 6.3 degrees.\n\nThe angle from the Fermi LAT boresight is 29.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2021/bn210812011/quicklook/glg_skymap_all_bn210812011.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2021/bn210812011/quicklook/glg_healpix_all_bn210812011.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2021/bn210812011/quicklook/glg_lc_medres34_bn210812011.gif"
+}

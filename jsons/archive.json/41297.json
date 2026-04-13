@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250808A: SVOM detection of a long burst",
+  "eventId": "GRB 250808A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41297....1A",
+  "createdOn": 1754679687206,
+  "circularId": 41297,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "D. Adrien, D. Turpin, N. Dagoneau (CEA), S. Guillot (IRAP), report on behalf of the SVOM mission team:\n\nAt 2025-08-08T18:25:49 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 250808A (SVOM burst-id sb25080803).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Image Trigger (IMT), which produced a sequence of 2 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 7.44 in the [5-20] keV energy band over a time window of 163.84 seconds starting at 2025-08-08T18:23:46.\n\nThe localization of the best alert is R.A., Dec. 63.5525, -22.9041 degrees:\nR.A. (J2000) = 4h14m12.61s\nDec. (J2000) = -22d54m14.75s\n with a 90% confidence level (C.L.) radius of 10.55 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThe time and position are consistent with the Fermi/GBM GRB 250808A (Fermi GBM, GCN 41296).\n\nThis burst was also detected by SVOM/GRM with a significance of 8.20.\nDue to the detection significance being below the slew threshold, no immediate slew was performed on this burst.\nNo X-ray observation could be performed by SVOM/MXT for the time being.No optical observation could be performed by SVOM/VT for the time being.\n\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Dylan ADRIEN: dylan.adrien@cea.fr.\nPlease contact the BA by email if you require additional information."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191004B: Swift/UVOT Detection",
+  "eventId": "GRB 191004B",
+  "bibcode": "2019GCN.25978....1S",
+  "createdOn": 1570481109000,
+  "circularId": 25978,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "GRB 191004B: Swift/UVOT Detection\n\nS. J. LaPorte (PSU) and S. B. Cenko (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 191004B\n69 s after the BAT trigger (Cenko et al., GCN Circ. 25947).\nA fading source consistent with the XRT position\n(Beardmore et al. GCN Circ. 25951)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  03:16:49.10 =  49.20459 (deg.)\n    Dec (J2000) = -39:38:03.9  = -39.63441 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence),\nconsistent with the positions reported by LCO (Strausbaugh et al. GCN Circ.\n25949),\nNOT (Heintz et al. GCN Circ. 25954), VLT/X-Shooter (D'Elia et al. GCN Circ.\n25956),\nCOATLI (Watson et al. GCN Circ. 25958), and GROND (Schady et al. GCN Circ.\n25960).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nb                    38697         38997          295           >20.42\nuvm2             44827         45727          885           >20.25\nu                       294              387            91           >19.04\n\nv                    43916         44822          885           >20.07\nuvw1             45734         46281          538            >19.96\nuvw2             39915         40544          618            >20.09\nwhite                   82             232          147\n18.01+-0.05\nwhite             39003         39909          885              20.51+-0.13\n\n\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

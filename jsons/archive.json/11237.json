@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100905A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100905A",
+  "bibcode": "2010GCN.11237....1S",
+  "createdOn": 1283800125000,
+  "circularId": 11237,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU) and F. E. Marshall (NASA/GSFC) report on behalf\nof the Swift/UVOT team.\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100905A 77s after the BAT trigger (Marshall et al.,\nGCN Circ. 11214).  Data summed from the first and second orbits\ndo not reveal a source at the enhanced position of the X-ray\nafterglow (Evans et al., GCN Circ. 11219).\n\nThe 3-sigma upper limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER     T_start(s)  T_stop    Exposure     Mag/3UL\n========================================================\nwhite fc      78        228        147        >20.77\nwhite         78       2055        450        >21.29\nV            619       1933        155        >19.01\nB            545       2031        155        >19.81\nu fc         290        540        245        >20.08\nu            290       2006        381        >20.17\nuvw1         668       1982        155        >19.53\nuvm2        5654       7290        393        >20.19\nuvw2        5245      12865       1278        >21.26\n=======================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.06 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

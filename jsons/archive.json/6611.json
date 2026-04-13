@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Observations of GRB070707",
+  "eventId": "GRB 070707",
+  "bibcode": "2007GCN..6611....1S",
+  "createdOn": 1183920990000,
+  "circularId": 6611,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and A. Parsons (GSFC) report on the behalf of the \nSwift UVOT team:\n\nThe Swift/UVOT observed the field of INTEGRAL burst, GRB070707 starting 8.8hrs \nafter the INTEGRAL trigger (Beckmann et al. 2007, GCN Circ. 6606). We do not \nfind any new source in any of the UVOT observations inside the refined INTEGRAL \nerror circle (Gotz et al. 2007, GCN Circ. 6607) or XRT error circle (Beardmore \net al. 2007, GCN 6610)\n\nThe 3-sigma upper limits for detecting a source inside the refined XRT\nerror circle in the initial data products are:\n\nFilter    T_mid(s) Exp(s) Mag (3-sigma upper limit)\n-------------------------------------------------------\nV         53885    543      19.7\nB         31910    324      20.6\nU         47905    97       19.5\nUVW1      47149    964      20.3\nUVM2      39328    1190     20.5\nUVW2      53182    1800     20.5\n-----------------------------------------------------------------\n\nwhere T_mid is the weighted mid time of the coadded exposure. The values\nquoted above are not corrected for the expected Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.08 mag in the direction of the\nburst (Schlegel et al. 1998)."
+}

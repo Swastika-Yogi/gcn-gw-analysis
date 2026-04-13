@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140508A: Swift/UVOT Detection",
+  "eventId": "GRB 140508A",
+  "bibcode": "2014GCN.16243....1M",
+  "createdOn": 1399662194000,
+  "circularId": 16243,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and A. Amarel-Rogers (U. of Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 140508A\n68965 s after the GBM trigger (Yu and Goldstein, GCN Circ. 16224).\nA source consistent with the optical position\n(Singer et al., GCN Circ. 16226) and the X-ray position\n(Amarel-Rogers, GCN Circ. 16232)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  17:01:51.95 = 255.46647 (deg.)\n    Dec (J2000) = +46:46:49.5  =  46.78043 (deg.)\nwith an estimated uncertainty of 0.46 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nv                68965        69792          814         19.38 +/- 0.10\nb                70632        71427          782         19.59 +/- 0.06\nu                69799        70626          814         18.81 +/- 0.05\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.031 in the direction of the burst\n(Schlegel et al. 1998)."
+}

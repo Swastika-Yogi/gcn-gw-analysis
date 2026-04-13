@@ -1,0 +1,10 @@
+{
+  "subject": "GRB201216C: No significant detection in HAWC",
+  "eventId": "GRB 201216C",
+  "bibcode": "2020GCN.29086....1A",
+  "createdOn": 1608311068000,
+  "circularId": 29086,
+  "submitter": "Hugo Ayala at Pennsylvania State University  <hgayala@psu.edu>",
+  "email": "hgayala@psu.edu",
+  "body": "On 2020/12/16 at 23:07:31 UTC, following the trigger by Swift-BAT\nand Fermi-GBM (GCN 29061, GCN 29063), HAWC observed the\nposition of GRB 201216C.\n\nThe position of the GRB at the time of trigger (t0) fell just inside the\nfield of\nview of HAWC, at 40 deg from zenith. We observed the position in the time\nrange\n[t0-100s,t0+3600s]. At the end of the analysis, the position was at 25 deg\nfrom zenith.\nWe scanned this range with time bins of 100s width. The time window advances\nevery 20s, producing 80% overlap between different time windows.\n\nNo emission was observed. The most conservative\n flux upper-limit at 95% C.L. measured during the time range is\n\ndN/dE = 4.05e-10 (E/TeV)^-2.0 [TeV^-1 cm^-2 s^-1]\n\nHAWC is a very-high-energy gamma-ray observatory operating in Central\nMexico at latitude 19 deg. north. Operating day and night with over\n95% duty cycle, HAWC has an instantaneous field of view of 2 sr and\nsurveys 2/3 of the sky every day. It is sensitive to gamma rays from\n300 GeV to 100 TeV."
+}

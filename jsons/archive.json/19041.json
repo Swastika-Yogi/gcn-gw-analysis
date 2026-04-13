@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160219A: Fermi GBM detection",
+  "eventId": "GRB 160219A",
+  "bibcode": "2016GCN.19041....1Y",
+  "createdOn": 1456051548000,
+  "circularId": 19041,
+  "submitter": "Hoi-Fung Yu at MPE  <sptfung@mpe.mpg.de>",
+  "email": "sptfung@mpe.mpg.de",
+  "body": "H.-F. Yu (MPE) and O. J. Roberts (UCD), \nreport on behalf of the Fermi GBM Team:\n\n\"At 06:56:18.14 UT on the 19th of February 2015, the Fermi \nGamma-Ray Burst Monitor (GBM) triggered and located GRB 160219A \n(trigger 477557782 / 160219289). The on-ground calculated location, \nusing the Fermi GBM trigger data, is RA = 350.6, Dec = -29.7 deg.\n(J2000 degrees, equivalent to 23h 22m 24s, -29d 42'), with a \nstatistical uncertainty of 6.34 degrees (radius, 1-sigma containment, \nstatistical only; there is additionally a systematic error which we \nhave characterized as a core-plus-tail model, with 90% of GRBs having \na 3.7 deg error and a small tail suffering a larger than 10 deg \nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32] ). \n\nThe angle from the Fermi LAT boresight for the IPN position \nis 51 degrees (Svinkin et al. 2016, GCN 19035).\n\nThe GBM light curve consists of two short pulses with a duration\n(T90) of about 3.5 s (50-300 keV). The time-averaged spectrum from\nT0-0.064 s to T0+3.456 s is best fit by a power law function with\nan exponential high-energy cutoff. The power law index is\n-0.97 +/- 0.15 and the cutoff energy, parameterized as Epeak, is\n689 +/- 308 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.25 +/- 0.12)E-06 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0+0.00 s in the 10-1000 keV band is\n19.2 +/- 1.1 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

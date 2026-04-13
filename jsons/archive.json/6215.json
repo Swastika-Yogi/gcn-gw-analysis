@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070318: Swift UVOT continuing observations",
+  "eventId": "GRB 070318",
+  "bibcode": "2007GCN..6215....1P",
+  "createdOn": 1174260903000,
+  "circularId": 6215,
+  "submitter": "Mat Page at MSSL/Swift  <mjp@mssl.ucl.ac.uk>",
+  "email": "mjp@mssl.ucl.ac.uk",
+  "body": "M. Page (MSSL-UCL), M. Chester (PSU), J. R. Cummings (NASA/UMBC) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began taking data in the field of GRB070318 88s after\nthe BAT trigger (Cummings et al., GCN 6210, Marshall et al., GCN 6213).\nThe afterglow is detected in all UVOT filters. The photometry results \nare given for the 7 UVOT filters below. The first White exposure was \naffected by the star tracker loss of lock, so results from this exposure \nare not reported below.\n\n\nFilter  T+(s)   Exp(s)  Mag\nWhite   706     10      15.53 +/- 0.08\n\nWhite  6364    197      18.14 +/- 0.07\n\nV       214    400      15.43 +/- 0.02\n\nB       692     10      16.25 +/- 0.12\nB      6159    197      18.91 +/- 0.13\n\nU       667     19      15.89 +/- 0.09\nU      5955    197      18.23 +/- 0.11\n\nUVW1     644     19     16.89 +/- 0.18\nUVW1    5750    197     19.62 +/- 0.30\n\nUVM2     619     19     17.97 +/- 0.37\nUVM2    5545    197     > 19.87 (3-sigma UL)\n\nUVW2     870     19     18.03 +/- 0.30\nUVW2    6569    197     > 20.37 (3-sigma UL)\n\nT+ is the start time of the exposure since the BAT trigger. These\nmagnitudes are not corrected for the expected extinction of\nE(B-V)=0.017."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250920C: Swift detection of a burst",
+  "eventId": "GRB 250920C",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41904....1G",
+  "createdOn": 1758382795514,
+  "circularId": 41904,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "R. Gupta (NASA GSFC), S. Dichiara (PSU), C. Gronwall (PSU),\nJ. A. Kennea (PSU), N. P. M. Kuin (UCL-MSSL), K. L. Page (U Leicester)\nand D. M. Palmer (LANL) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 15:25:17 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 250920C (trigger=1351039).  Swift slewed immediately to the burst.\nThe BAT on-board calculated location is \nRA, Dec 51.459, -29.646 which is \n   RA(J2000) = 03h 25m 50s\n   Dec(J2000) = -29d 38' 44\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a complex\nstructure with a duration of about 40 sec.  The peak count rate\nwas ~8500 counts/sec (15-350 keV), at ~0 sec after the trigger.\n\nThe XRT began observing the field at 15:27:21.2 UT, 123.8 seconds after\nthe BAT trigger. XRT found a bright, uncatalogued X-ray source located\nat RA, Dec 51.4644, -29.6566 which is equivalent to:\n   RA(J2000)  = 03h 25m 51.46s\n   Dec(J2000) = -29d 39' 23.8\"\nwith an uncertainty of 5.3 arcseconds (radius, 90% containment). This\nlocation is 41 arcseconds from the BAT onboard position, within the BAT\nerror circle. No event data are yet available to determine the column\ndensity using X-ray spectroscopy.\n\nThe initial flux in the 2.5 s image was 1.50e-09 erg cm^-2 s^-1 (0.2-10\nkeV).\n\nThere are no UVOT data available at this time.\n\nBurst Advocate for this burst is R. Gupta (rahulbhu.c157 AT gmail.com).\nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

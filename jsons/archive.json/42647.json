@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251111A: SVOM/VT optical observations with X-band data",
+  "eventId": "GRB 251111A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42647....1M",
+  "createdOn": 1762932750535,
+  "circularId": 42647,
+  "submitter": "Yinuo Ma <mayn@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. N. Ma, H. L. Li, L. P. Xin, Z. H. Yao, Y. L. Qiu, C. Wu, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), Y. H. Cheng (SWIFAR, YNU), B. T. Wang(YNAO) report on behalf of the SVOM/VT team. \n\nSVOM/VT performed an automatic slew on the burst GRB 251111A (sb25111101) triggered by SVOM/ECLAIRs (Cheng et al., GCN 42637). SVOM/VT began observing the field at 2025-11-11 06:01:57 UTC, 51.656 minutes after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nWith X-band data available, the optical counterpart (López-Cámara et al., GCN 42638; Wu et al., GCN 42639; Zheng et al., GCN 42640; Wu et al., GCN 42641) was detected in VT_R band within XRT's error box (Evans et al., GCN 42645) and EP-FXT's error box (Cheng et al., GCN 42643) at the mid time of 1.34 hour, followed with a decay slope of -0.7. The measurements are:\n\nmid time (h) | exposure time (s) | band |    mag (AB) \n-------------|-------------------|------|----------------\n    1.34     |      28*50        | VT_R |   22.3+/-0.2    \n    6.10     |      14*100       | VT_R |   23.5+/-0.3\n\nData analysis is on going. Our photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

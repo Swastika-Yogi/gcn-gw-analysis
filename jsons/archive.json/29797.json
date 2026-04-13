@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210410A",
+  "eventId": "GRB 210410A",
+  "bibcode": "2021GCN.29797....1R",
+  "createdOn": 1618164174000,
+  "circularId": 29797,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, S. Golenetskii, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline, report:\n\nThe long-duration GRB 210410A\n(Fermi-GBM detection: Fermi GBM team, GCN 29777,\nWood and Meegan, GCN 29788;\nFermi-LAT detection: Arimoto et al., GCN 29781;\nAGILE detection: Ursi et al., GCN 29782;\nSwift-BAT observation: Lien et al., GCN 29793)\ntriggered Konus-Wind at T0=3196.651 s UT (00:53:16.651).\n\nThe burst light curve starts at ~T0 with a narrow (~128 ms) pulse\nfollowed by a gradually decaying emission until ~T0+85s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210410_T03196/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 7.29(-0.44,+0.47)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+0.002 s,\nof 2.95(-0.69,+0.76)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+47.104 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.74(-0.07,+0.08)\nand Ep = 1081(-126,+150) keV (chi2 = 72/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.7\n(chi2 = 72/97 dof).\n\nThe spectrum of the initial pulse\n(measured from T0 to T0+0.128 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model\nwith  alpha = 0.11(-0.29,+0.38)\nand Ep = 1210(-250,+326) keV (chi2 = 38/32 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -1.9\n(chi2 = 36/31 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

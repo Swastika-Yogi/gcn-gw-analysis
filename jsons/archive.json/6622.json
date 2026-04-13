@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070714A, Swift-BAT refined analysis",
+  "eventId": "GRB 070714A",
+  "bibcode": "2007GCN..6622....1B",
+  "createdOn": 1184441915000,
+  "circularId": 6622,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S.D. Barthelmy (GSFC), L. Barbier (GSFC), J. Cummings (GSFC/UMBC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Grupe (PSU),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 070714A (trigger #284850)\n(Grupe, et al., GCN Circ. 6619).  The BAT ground-calculated position is\nRA, Dec = 42.933, 30.241 deg  which is\n   RA(J2000)  =  2h 51m 43.8s\n   Dec(J2000) = 30d 14' 28\"\nwith an uncertainty of 1.3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 96%.\n\nThe mask-weight lightcurve shows a single peak starting at T+0, peaking at\nT+0.7, and ending at T+2 sec, where the rise time is a little faster than\nthe decay.  T90 (15-350 keV) is 2.0 +- 0.3 sec (estimated error including\nsystematics).\n\nThe time-averaged spectrum from T-0.7 to T+2.3 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.6 +- 0.2.  The fluence in the 15-150 keV band is 1.5 +- 0.2 x 10^-7 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.30 sec in the 15-150 keV band\nis 1.8 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nWe note that the fluence ratio in a simple power-law fit between the\n25-50 keV band and the 50-100 keV band is 1.52.  This fluence ratio is larger\nthan 1.32, which can be achieved in the Band function of alpha=-1.0, beta=-2.5,\nand Epeak=30 keV.  Thus, preliminary analysis shows that Epeak of the burst\nis very likely around or below 30 keV.  Therefore the burst can be classified\nas an X-ray flash."
+}

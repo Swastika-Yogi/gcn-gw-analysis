@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100902A: Swift XRT refined analysis",
+  "eventId": "GRB 100902A",
+  "bibcode": "2010GCN.11194....1S",
+  "createdOn": 1283519571000,
+  "circularId": 11194,
+  "submitter": "Rhaana Starling at U of Leicester  <rlcs1@star.le.ac.uk>",
+  "email": "rlcs1@star.le.ac.uk",
+  "body": "R.L.C. Starling (U. Leicester) and T. Sakamoto (NASA/UMBC) report on behalf of \nthe Swift-XRT team:\n\nWe have analysed 7.9 ks of XRT data for GRB 100902A (Sakamoto et al. GCN Circ. \n11181), from 306 s to 18.2 ks after the BAT trigger. The data comprise 306 s in \nWindowed Timing (WT) mode (the first 8 s were taken while Swift was slewing) \nwith the remainder in Photon Counting (PC) mode. The enhanced XRT position for \nthis burst was given by Beardmore et al. (GCN. Circ 11188).\n\nThe light curve can be modelled with an initial power-law decay with an index \nof alpha=2.4 (+/-0.1), followed by a break at T+1730 (+/-210) s to an alpha of \n0.8 (+/-0.1). Overlaid on this broken power law decay are two large flares, \nwhich peak at 400 and 420 s with count rates of 1390 (+/-140) and 1440 (+/-150) \ncount s^-1 respectively.\n\nA spectrum formed from all the PC mode data to date can be fitted with an \nabsorbed power-law with a photon spectral index of 2.5 (+/-0.2). The \nbest-fitting absorption column is 3.39 (+/-0.6) x 10^21 cm^-2, in excess \nof the Galactic value of 1.1 x 10^21 cm^-2 (Kalberla et al. 2005). The\ncounts to observed (unabsorbed) 0.3-10 keV flux conversion factor deduced \nfrom this spectrum is 3.8 x 10^-11 (9.7 x 10^-11) erg cm^-2 count^-1.\nWe do not report a WT time averaged spectral fit here as this would be \naffected by the spectral evolution during the flaring activity, evident\nin the hardness ratio.\n\nIf the light curve continues to decay with a power-law decay index of 0.8, the \ncount rate at T+24 hours will be 0.013 count s^-1, corresponding to an \nobserved (unabsorbed) 0.3-10 keV flux of 5.7 x 10^-13 (1.4 x 10^-12) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at \nhttp://www.swift.ac.uk/xrt_products/00433160.\n\nThis circular is an official product of the Swift-XRT team."
+}

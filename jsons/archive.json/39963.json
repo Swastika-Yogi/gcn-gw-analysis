@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250331C: COLIBRÍ/DDRAGO optical upper limit",
+  "eventId": "GRB 250331C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39963....1D",
+  "createdOn": 1743402272452,
+  "circularId": 39963,
+  "submitter": "damien dornic <damiendornic@gmail.com>",
+  "format": "text/plain",
+  "body": "Damien Dornic (CPPM), Margarita Pereyra (UNAM), Jean-Grégoire Ducoin (CPPM), Jean-Luc Atteia (IRAP), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Dalya Akl (AUS), Camila Angulo (UNAM), Sarah Antier (OCA), Rosa L. Becerra (U Roma), Nathaniel R. Butler (ASU), Francis Fortin (IRAP), Ny Avo Rakotondrainibe (LAM), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Benjamin Schneider (LAM) and Antonio de Ugarte Postigo (LAM) report:\n\nWe imaged the field of Swift/BAT GRB 250331C (Cenko et al., GCN Circ. 39959) with the DDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico.\n\nWe started observing at 2025-03-31 04:43:50 UTC (370 s after the trigger) and obtained a total of 720 s of exposure time in the i filter. The data were coadded with the COLIBRÍ pipeline and analyzed in STDWeb/STDPipe (Karpov 2025), with photometric calibration against Pan-STARRS DR1 and image subtraction against Pan-STARRS DR2. Our photometry is in the AB system and is not corrected for Galactic extinction.\n\nAt the XRT localization (Evans et al. 39960), we do not find any optical counterpart to a 3-sigma limiting magnitude of:\n\ti > 22.26\n\t\nWe warmly thank the COLIBRÍ and DDRAGO engineering teams and the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir.\n"
+}

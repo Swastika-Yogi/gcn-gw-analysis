@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 110709B",
+  "eventId": "GRB 110709B",
+  "bibcode": "2011GCN.12135....1G",
+  "createdOn": 1310295410000,
+  "circularId": 12135,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, E. Mazets, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf\nof the Konus-Wind team, report:\n\nThe long GRB 110709B (Swift-BAT trigger #456967:\nCummings et al., GCN 12122; Barthelmy et al., GCN 12130)\ntriggered Konus-Wind at T0=77564.576s UT (21:32:44.576)\n\nThe burst light curve shows a multi-peaked\npulse with a total duration of ~70 s.\nThe emission is seen up to ~2 MeV.\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB110709_T77564/\n\nAs observed by Konus-Wind the burst\nhad a fluence of (2.6 � 0.2)x10-5 erg/cm2,\nand a 256-ms peak flux, measured from T0+13.824 s,\nof (1.1 � 0.1)x10-5 erg/cm2/s\n(both in the 20 keV - 5 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+41.216 s) is best fitted\nin the 20 keV - 5 MeV range by a power law\nwith exponential cutoff model, for which\nalpha = -1.0 (-0.13, +0.14),\nand Ep = 278(-32, +43) keV,\nchi2 = 62.7/73 dof.\n\nThe spectrum at the maximum count rate\n(measured from T0+8.448 to T0+16.640 s) is best fitted\nin the 20 keV - 5 MeV range by a power law\nwith exponential cutoff model, for which\nalpha = -0.56 (-0.26, +0.30),\nand Ep = 231(-28, +38) keV,\nchi2 = 65.9/73 dof.\n\nThe renewed source activity (Swift-BAT trigger #456969:\nBarthelmy et al., GCN 12124) fell into the telemetry gap\nbut was recorded by the instrument's spare count\nrate measurement channel. This low-resolution record\n(in the 70-300 keV energy range) shows a double-pulsed\nstructure lasting for ~100 s from T0+573 s to T0+675 s\n(21:42:17 - 21:43:59) and having slightly weaker intensity\nas compared to the initial burst.\n\nAll the quoted results are preliminary.\nAll the quoted errors are at the 90% confidence level."
+}

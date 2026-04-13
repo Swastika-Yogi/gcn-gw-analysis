@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250314A: SVOM detection of a burst",
+  "editedOn": 1741968215422,
+  "version": 2,
+  "eventId": "GRB 250314A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39719....1W",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 39719,
+  "createdOn": 1741961528676,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. Wang (PMO, CAS), Rui-Zhi Li (YNAO, CAS), M. Brunet, H. Yang (IRAP), T.Maiolino (LUPM), H. Goto (CEA)\non behalf of the SVOM mission team.\n\nSVOM/ECLAIRs triggered on the gamma-ray burst GRB 250314A (SVOM burst-id sb25031405) starting at 2025-03-14T12:56:42 UTC (Tb).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Count rate Trigger (CRT), from which we received 1 alert. CRT provided the alert with the best signal-to-noise-ratio (SNR) of 9.18 in the 8-120 keV energy band \nover a time window of 10.2 seconds starting at Tb. \n\nThe light curve shows a single main episode, lasting ~20 s in ECLAIRs (5-120 keV) and ~10 s in GRM (5-550 keV).\n\nThe localization of the best alert is R.A., Dec 201.272, -5.293 degrees:\nRA (J2000) = 13h25m05.28s  \nDec (J2000) = -05d17m36.30s\nwith a 90% C.L. radius of 8.62 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250314A.png\n\nSVOM slewed to the burst.\nMXT and VT began observing the field after the slew. The analysis of the recorded data will be published in a future circular. \n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe Burst Advocate (BA) on shift for this burst is Y. Wang: wangyun@pmo.ac.cn.\nPlease contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n"
+}

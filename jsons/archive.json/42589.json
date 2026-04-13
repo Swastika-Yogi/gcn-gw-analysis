@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 251105B",
+  "eventId": "GRB 251105B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42589....1H",
+  "createdOn": 1762360832810,
+  "circularId": 42589,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "R. Hamburg (USRA), P. Veres (UAH), E. Burns (LSU) report on behalf of the Fermi-GBM Team:\n\nThe SVOM/GRM detected GRB 251105B on 2025-11-05 at 00:58:34.700 UTC (Wang et al 2025, GCN 42586). There was an unrelated Fermi-GBM trigger approximately 2 minutes before this time, which disabled the onboarding triggering for 10 min.\n\nThe GBM Targeted Search [1], the most sensitive coherent search for short GRB signals in GBM, identified a GRB-like transient starting 0.128 seconds after the SVOM/GRM time, most significantly on the 0.256 s timescale with a \"hard\" GRB spectrum (i.e., Comptonized function with Epeak = 1500 keV, alpha = -0.5) and an SNR of 60.9. The GRB lightcurve consists of a bright, short peak about 0.5 s in duration seen up to ~1 MeV followed by a period of extended emission out to ~60 s. The Targeted Search localization is RA=279.5 deg, Dec=3.6 deg, with an error of 14.3 deg. (90% CI).\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190204A: MAXI/GSC detection",
+  "eventId": "GRB 190204A",
+  "bibcode": "2019GCN.23854....1O",
+  "createdOn": 1549265031000,
+  "circularId": 23854,
+  "submitter": "Satoshi Nakahira at RIKEN  <nakahira@crab.riken.jp>",
+  "email": "nakahira@crab.riken.jp",
+  "body": "T. Oeda (Tokyo Tech), M. Nakajima (Nihon U.), S. Nakahira (RIKEN),\nH. Negoro, A. Sakamaki, W. Maruyama, M. Aoki, K. Kobayashi (Nihon U.), \nT. Mihara, F. Yatabe, Y. Takao, M. Matsuoka (RIKEN),\nT. Sakamoto, M. Serino, S. Sugita, T. Hashimoto, A. Yoshida (AGU), \nN. Kawai, M. Sugizaki, Y. Tachibana, K. Morita (Tokyo Tech), \nS. Ueno, H. Tomida, M. Ishikawa, Y. Sugawara, N. Isobe, R. Shimomukai, T. Midooka (JAXA), \nY. Ueda, A. Tanimoto, T. Morita, S. Yamada, S. Ogawa (Kyoto U.), \nY. Tsuboi, W. Iwakiri, R. Sasaki, H. Kawai, T. Sato (Chuo U.), \nH. Tsunemi, T. Yoneyama, K. Asakura, S. Ide (Osaka U.), \nM. Yamauchi, K. Hidaka, S. Iwahori (Miyazaki U.), \nT. Kawamuro (NAOJ), \nK. Yamaoka (Nagoya U.),\nM. Shidatsu (Ehime U.),\nY. Kawakubo (LSU) \nreport on behalf of the MAXI team:\nThe MAXI/GSC nova alert system triggered a bright X-ray transient at 05:45:55 UT on February 4, 2019.\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (351.341 deg, 54.761 deg) = (23 25 21, +54 45 38) (J2000)\nwith a 90% C.L. statistical error of 0.10 deg and an additional systematic uncertainty of 0.1 deg (90% containment radius).\nThe X-ray flux averaged over the scan was 2286 +- 126 mCrab\n(4.0-10.0keV, 1 sigma error).\nWithout assumptions on the source constancy,we obtain a rectangular error\nbox for the transient source with the following corners:\n(R.A., Dec) = (350.693, 54.635) deg = (23 22 46, +54 38 05) (J2000)\n(R.A., Dec) = (350.828, 54.512) deg = (23 23 18, +54 30 43) (J2000)\n(R.A., Dec) = (352.146, 54.985) deg = (23 28 35, +54 59 05) (J2000)\n(R.A., Dec) = (352.013, 55.110) deg = (23 28 03, +55 06 35) (J2000).\n\nThe trigger time and position was consistent with that of GRB 190204A detected \nby Swift (Lien et al. 2019, GCN 23852)."
+}

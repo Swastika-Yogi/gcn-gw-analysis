@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220514B",
+  "eventId": "GRB 220514B",
+  "bibcode": "2022GCN.32056....1R",
+  "createdOn": 1652789392000,
+  "circularId": 32056,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A.Ridnaia, D. Frederiks, A.Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 220514B\n(MAXI/GSC detection: Kawakubo et al., GCN Circ. 32046)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in\nthe 20-1500 keV band reveals a ~10 sigma count rate increase\nover background in the interval from ~T0-26 s to ~T0+74 s,\nwhere T0 = T0(MAXI) = 84261 s UT (23:24:21).\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220514B/\n\nAs observed by Konus-Wind, the burst had a fluence of\n6.59(-1.19,+1.61)x10^-6 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0-14.4 s, of 1.54(-0.43,+0.50)x10^-7 erg/cm2/s\n(both in the 20 - 1500 keV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum\n(from ~T0-26.2 s to ~T0+73.9 s)\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.82(-0.21,+0.33) and Ep = 263(-65,+112) keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

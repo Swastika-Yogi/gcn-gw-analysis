@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to GCN Circular 21351: GRB 170714A: Swift/UVOT Observations",
+  "eventId": "GRB 170714A",
+  "bibcode": "2017GCN.21353....1M",
+  "createdOn": 1500327458000,
+  "circularId": 21353,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) \nreports on behalf of the Swift/UVOT team:\n\nSome of the Swift UVOT exposures of GRB 170714A\npreviously reported by Marshall and D'Ai (GCN Circular 21351)\ncontain readout streaks due to nearby bright sources.\nThese streaks make the determination of magnitudes very difficult,\nand this effect was not accounted for in the previous analysis.\nThe affected exposures have been removed from the corrected\ntable given below. As a result, the most significant detection\nof a source with UVOT has been removed, and there is now\nonly weak evidence for a UVOT source at the position of\nthe z-band afterglow candidate reported by\nde Ugarte Postigo et al. (GCN Circ. 21346).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\nv                  397         1695          175         >18.6\nb                  496         1644          155         20.0 +/- 0.33\nb                92917        93309          382         >20.3\nu                  471         1619          284         20.1 +/- 0.35\nu                81432        92912         1509         >20.7\nw1                 446         1594          136         >21.0\nm2               76276        98985         2438         >21.3\nw2               74458        86274         1771         >21.5\n\nI apologize for any confusion caused by the earlier report."
+}

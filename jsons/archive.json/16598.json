@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140716A BAT refined analysis",
+  "eventId": "GRB 140716A",
+  "bibcode": "2014GCN.16598....1C",
+  "createdOn": 1405548317000,
+  "circularId": 16598,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings, S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), A. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC),\nM. Stamatikos (OSU/NASA/GSFC), J. Tueller (GSFC), T. N. Ukwatta (GWU)\non behalf of the Swift-BAT team:\n\nWe report further analysis of the ground-detected GRB 140716A (Cummings,\nGCN # 16596) using 20 seconds of photon-event data that cover the first and third\npeaks, and BAT survey data covering the entire burst.\n\nThe best BAT position remains RA, Dec 108.133 -60.150, which is\n\nRA (J2000)    07h 12m 31.9s\nDec (J2000)  -60d 08' 59\"\n\nwith an estimated 90% confidence radius of 1.5 arcmin.  The source was 3% coded\nin BAT.\n\nThe burst had three peaks with similar maximum flux, the first 2 seconds long, the\nsecond 4 seconds long at T+90, and the third about 8 seconds long at T+100.  The\nemission was undetectable between the first and second peaks, while there was a\nslight overlap between peaks 2 and 3.  The total T90 was about 104 +- 2 seconds.\nAt T+112 seconds, Swift executed a preplanned slew, putting the source completely\nout of the BAT coded field of view, but we can say that there was no bright\nemission above about 50 keV after this time.\n\nThe average spectrum from 15 to 150 keV is best fit by a simple power law function\nwith a photon index of 1.61 +- 0.33.  The total fluence was\n(5.9 +- 1.2) x 10^-6 ergs/cm^2.  The peak 1-second flux was\n5.2 +- 1.5 photons/sec/cm^2 from T+0.2 to T+1.2 seconds.  All the quoted errors are\nat the 90% confidence level.\n\nA Swift TOO request has been approved and is being executed with the target number\n20390."
+}

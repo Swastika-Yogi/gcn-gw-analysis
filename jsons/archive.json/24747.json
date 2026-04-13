@@ -1,0 +1,10 @@
+{
+  "subject": "GRB190604B: Swift/UVOT detection",
+  "eventId": "GRB 190604B",
+  "bibcode": "2019GCN.24747....1B",
+  "createdOn": 1559680846000,
+  "circularId": 24747,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and K. L. Page (U Leicester) report on behalf \nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 190604B \n128 s after the BAT trigger (Page et al., GCN Circ. 24742). A faint \nsource is detected in the initial white UVOT exposure at a position \nconsistent with the enhanced XRT source position (Evans et al., GCN \nCirc. 24746).\n\nThe preliminary detection and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe early exposures are:\n\nFilter      T_start(s) T_stop(s)    Exp(s)      Mag\n\nwhite     \t128      276         146        19.90 �� 0.24\nwhite     \t618      812          39        >19.63\nv         \t669      861          39        >17.95\nb         \t594      787          39        >18.98\nu         \t338      588         246        >19.71\nuvw1      \t718      738          20        >17.44\nuvw2      \t645      837          39        >18.09\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.15 in the direction of the \n  burst (Schlegel et al. 1998)."
+}

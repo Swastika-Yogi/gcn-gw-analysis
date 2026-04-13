@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060211:  Swift detection of a long burst",
+  "eventId": "GRB 060211",
+  "bibcode": "2006GCN..4736....1H",
+  "createdOn": 1139652821000,
+  "circularId": 4736,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "C. Hurkett (U Leicester), A. Beardmore (U. Leicester), O. Godet (U. Leicester),\nJ. A. Kennea (PSU), H. Krimm (GSFC/USRA), F. Marshall (GSFC),\nJ. Osborne (U. Leicester), D. Palmer (LANL), A. Parsons (GSFC)\non behalf of the Swift Team:\n\nAt 09:39:11 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060211 (trigger=181126).   The BAT on-board calculated\nlocation is RA,Dec 58.402d, +21.486d {03h 53m 36s, +21d 29' 09\"} (J2000)\nwith an uncertainty of 3 arcmin (radius, 90% containment, including\nsystematic uncertainty).  Since this was a 128 second image trigger,\nwe cannot determine the nature of the light curve from the TDRSS light curve.\nWe will be able to comment on the time structure when we receive the\nfull data set in a few hours.  The Swift spacecraft slewed promptly onto the\nBAT position.\n\nThe XRT began observing the field at 09:42:07 UT, 177 seconds after the\nBAT trigger. XRT found a bright, fading, uncatalogued X-ray source\nlocated at RA(J2000) = 03h 53m 32.5s, Dec(J2000) = +21d 29' 19.3\", with\nan estimated uncertainty of 5.0 arcseconds (90% confidence radius).\nThis location is 55 arcseconds from the BAT on-board position, within\nthe BAT error circle. The initial flux in the 2.5s image was\n6.7e-09 erg/cm2/s (0.2-10 keV).\n\nUVOT took a finding chart exposure of 200 seconds with the V filter starting\n183 seconds after the BAT trigger. No afterglow candidate has been found in the\ninitial data products. The 2.7'x2.7' sub-image covers 100% of the XRT error\ncircle. The typical 3-sigma upper limit has been about 18th mag. The 8'x8'\nregion for the list of sources generated on-board covers 100% of the XRT error\ncircle. The list of sources is typically complete to about 18.0 mag. No\ncorrection has been made for the expected extinction of about 0.6 magnitudes."
+}

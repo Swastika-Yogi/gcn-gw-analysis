@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 010222: HST observations -- host galaxy and late-time decay",
+  "eventId": "GRB 010222",
+  "bibcode": "2001GCN..1087....1F",
+  "createdOn": 997814700000,
+  "circularId": 1087,
+  "submitter": "Andrew S. Fruchter at STScI  <fruchter@stsci.edu>",
+  "email": "fruchter@stsci.edu",
+  "body": "A. Fruchter, I. Burud, J. Rhoads and A. Levan (STScI) report:\n\nWe have reduced the now public archival HST images of GRB 010222, taken\non 28 February, 17 and 18 March, 5 and 6 April, and 4 and 5 May of \nthis year using the F606W (V/R) and F814W (I) filters on WFPC2.   Using\nthe most recent data, we find that OT of GRB 010222 is clearly superposed\non a host galaxy.  \n\nIn order to accurately determine the decay of the OT and the magnitude\nof the host, we have drizzled the images onto an output grid that\nallows interlacing of these 2-point dithered images.  We have then fit\nfor the decay of the OT and the host galaxy flux using a small (~0.\"2)\naperture, which provides the best estimate of the OT as a function of\ntime, as well as using a larger aperture (~0.\"5), which is more\nappropriate for determining the host galaxy magnitude.\n\nWe find that the late-time decay of the OT is significantly steeper\nthan previously reported.  We find a power-law decay between 28 February\n(day 6) and 5 May (day 71) of -1.7 +/- 0.05.  Formally, we find\na slightly steeper decay (-1.73 +/- 0.02) in F606W than in F814W \n(-1.64 +/- 0.04), but this discrepancy may indicate the level of\nsystematic error in the slope measurement rather than true color\nevolution of the OT.\n\nWe find that the host galaxy is dominated by a compact core (FWHM ~ 0.\"15)\nlocated directly under the OT.  The magnitude of the host is \nF606W(AB) = 26.0 +/- 0.1, F814W(AB) = 25.8 +/- 0.15.  \n\nImages of the host, as well as a plot of the coninuing decline of the OT,\nare available at\n\nhttp://www.stsci.edu/~fruchter/GRB/010222"
+}

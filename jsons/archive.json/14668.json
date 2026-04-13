@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 130515A",
+  "eventId": "GRB 130515A",
+  "bibcode": "2013GCN.14668....1G",
+  "createdOn": 1368698518000,
+  "circularId": 14668,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam report:\n\nThe short-duration GRB 130515A (Swift-BAT trigger #555880:\nMalesani et al., GCN 14650, Barthelmy et al., GCN 14658;\nFermi-GBM detection: Jenke, GCN 14663)\ntriggered Konus-Wind at T0=04880.440s UT (01:21:20.440)\n\nThe burst light curve shows a single pulse\nfrom ~T0-0.05 s to ~T0-0.2 s, with a total duration of ~0.25s.\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB130515_T04880/\n\nAs observed by Konus-Wind, the burst had a fluence\nof (1.1 � 0.2)x10-6 erg/cm2 and a 16-ms peak flux,\nmeasured from T0-0.016 s, of (2.1 � 0.5)x10-5 erg/cm2\n(both in the 20 - 1500 keV energy range).\n\nModelling the K-W 3-channel time-integrated spectrum\n(from T0-0.064 s to T0+0.192 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = 0.0 � 0.4, and Ep = 410 � 90 keV\n\nModelling the K-W 3-channel spectrum at the maximum count rate\n(from T0-0.064 s to T0)\nby a power law with exponential cutoff model\nyields alpha = -0.5 � 0.4, and Ep = 715 � 360 keV\n\n\nAll the quoted errors are at the 1 sigma confidence level."
+}

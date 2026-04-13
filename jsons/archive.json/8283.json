@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080922: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080922",
+  "bibcode": "2008GCN..8283....1H",
+  "createdOn": 1222181576000,
+  "circularId": 8283,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and B. Sbarufatti (INAF-IASFPa)\nreport on the behalf of the Swift UVOT team:\n\n      The Swift/UVOT observed the field of GRB 080922 starting 13,904 s\n(= 3.84 hr) after the INTEGRAL detection (Mereghetti et al. 2008, GCN\nCirc. 8281).  We do not find any new source, relative to the DSS or\n2MASS, or any variable source inside the INTEGRAL/IBAS error circle.\nThe 3-sigma upper limits for detecting a source in the co-added\nimages, using a 2.5 arcsecond radius circular aperture, are:\n\nFilter  T_start   T_stop   Exp(s)     Mag\n-----------------------------------------\n    v     15,622   15,834     208    >18.9\n    b     14,550   26,731     625    >20.6\n    u     14,333   31,298     834    >20.3\n  uvw1    13,904   30,081    1668    >20.5\n  uvm2    15,839   15,853      14    >16.1\n  uvw2    14,769   27,419    2341    >20.8\n-----------------------------------------\n\nThe quoted upper limits have not been corrected for the expected, and\nhighly uncertain, Galactic extinction along the line of sight\ncorresponding to a reddening of E_{B-V} = 20 mag (Schlegel, et al.,\n1998, ApJS, 500, 525).  All photometry is on the UVOT flight system\ndescribed in Poole et al. (2008, MNRAS, 383, 627)."
+}

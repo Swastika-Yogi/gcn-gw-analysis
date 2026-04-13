@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250530A: EP-FXT counterpart detection",
+  "eventId": "GRB 250530A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40583....1L",
+  "createdOn": 1748617574919,
+  "circularId": 40583,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "D.Y. Li (NAO, CAS), Z. H. Yang, Q. C. Zhao (IHEP, CAS), J. Yang (NJU), H. W. Pan (NAO, CAS) on behalf of the Einstein Probe (EP) team:\n\nEP-FXT performed a follow-up observation of the SVOM/ECLAIRs-detected burst GRB 250530A (SVOM/sb25053002, Wang et al. GCN #40576) at 2025-05-30T07:26:04 (UTC), about 1 hour after the SVOM/ECLAIRs trigger, with an exposure time of 2970s. Three uncatalogued sources are detected within the ECLAIRs error circle, among which Source 1 is spatially consistent with the candidate counterpart detected by Swift/XRT (Evans et al. GCN #40579). Preliminary analysis on these source are automatically conducted, and details are listed as follows. \nSource 1: EPF_J122650.7-023433\nRA (J2000): 186.7114\nDec (J2000): -2.5759\nFlux: 4.54 x 10^-12 erg/s/cm2 (observed, 0.5-10 kev)\nFlux_err: 4.89 x 10^-13 erg/s/cm2 (1 sigma)\nNote: This source is spatially consistent with the candidate counterpart detected by Swift/XRT, whose flux is (4.86 +/- 0.27) x 10^-11 erg/s/cm2 (0.3-10 keV).\n\nSource 2: EPF_J122627.9-023807\nRA (J2000): 186.6163\nDec (J2000): -2.6354\nFlux: 6.31 x 10^-14 erg/s/cm2 (observed, 0.5-10 kev)\nFlux_err: 1.94 x 10^-14 erg/s/cm2 (1 sigma)\n\nSource 3: EPF_J122655.8-023705\nRA (J2000): 186.7326\nDec (J2000): -2.5759\nFlux: 1.33 x 10^-13 erg/s/cm2 (observed, 0.5-10 kev)\nFlux_err: 2.74 x 10^-14 erg/s/cm2 (1 sigma)\n\nThe position uncertainty of the sources are about 10 arcsec in radius (90% C.L. statistical and systematic).\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). "
+}

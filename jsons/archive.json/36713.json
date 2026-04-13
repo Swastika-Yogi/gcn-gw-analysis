@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240615A: NOT optical observations",
+  "eventId": "GRB 240615A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36713....1J",
+  "createdOn": 1718891039298,
+  "circularId": 36713,
+  "submitter": "Dong Xu at NAOC/CAS <dxu@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "S.Q. Jiang, S.Y. Fu, X. Liu (NAOC), D. B. Malesani (DAWN/NBI and Radboud Univ.), Z.P. Zhu, J. An, D. Xu (NAOC), B. Gompertz (Birmingham), M. A. Diaz Teodori (NOT), report on behalf of a large collaboration:\n\nWe observed the Swift/BAT-GUANO field of GRB 240615A detected by Fermi/GBM (Fermi GBM team, GCN 36671), Swift/BAT-GUANO (DeLaunay et al., GCN 36672), Konus-Wind (Frederiks et al., GCN 36677) and GECAM (Tan et al., GCN 36682) using the 2.56-m Nordic Optical Telescope (NOT) equipped with the ALFOSC camera.\n\nObservations were carried out in the r band on 2024-06-16 and in the r and z bands on 2024-06-20. A red optical source is detected in the z-band of the second NOT epoch at the Wendelstein position (Busmann et al., GCN GCN 36706), which is consistent with the XRT Source #1 position (Page et al., GCN 36683). Preliminary photometry for the optical transient is as follows:\n\n     Tmid(UT)      Tmid-T0(hr)   Mag   MagErr  UL(5-sigma) Filter\n2024-06-16T03:50:07    9.98       -      -     >23.9        r\n2024-06-20T01:23:48    103.53     -      -     >22.8        r\n2024-06-20T01:41:45    103.83   21.95   0.14    -           z\n\ncalibrated against nearby Pan-STARRS stars and not corrected for Galactic extinction.\n\nPhotometry of the Pan-STARRS archival images yields r > 23.2 (5-sigma) and z > 22.1 (5-sigma). We notice that the NOT z-band magnitude is not significantly brighter than the Pan-STARRS limit, hence our data alone do not allow to robustly claim the detection of a new source. "
+}

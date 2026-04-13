@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210308A: Swift/UVOT Detection",
+  "eventId": "GRB 210308A",
+  "bibcode": "2021GCN.29630....1G",
+  "createdOn": 1615252561000,
+  "circularId": 29630,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "GRB 210308A: Swift/UVOT Detection\n\nJ. D. Gropp (PSU) and V. D'Elia (SSDC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 210308A\n95 s after the BAT trigger (D'Elia et al., GCN Circ. 29619).\nA source consistent with the XRT position\n(D'Elia et al., GCN Circ. 29619)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  04:28:17.73 =  67.07389 (deg.)\n    Dec (J2000) = +37:26:02.1  =  37.43391 (deg.)\nwith an estimated uncertainty of 0.46 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nb                       765            1189            38        >18.62\nuvm2                864            1115            38        >17.52\nu                       338            1164          284        >19.50\nv                       667            1090            58        >17.84\nuvw1               1120            1140            19        >17.25\nuvw2                 815            1231            50        >17.91\nwhite                 126             275           292\n18.54+-0.07\nwhite                 618            1213          205        >20.20\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 1.296 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 530441 is a false trigger",
+  "bibcode": "2012GCN.13612....1B",
+  "createdOn": 1344495120000,
+  "circularId": 13612,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "B. N. Barlow (PSU), S. D. Barthelmy (GSFC),\nJ. R. Cummings (NASA/UMBC), C. Gronwall (PSU), D. M. Palmer (LANL) and\nP. Romano (INAF-IASFPA) report on behalf of the Swift Team:\n\nAt 06:14:54 UT, the Swift Burst Alert Telescope (BAT) found a \nmarginal-significance peak in the vicinity of IGR J16283-4838 \n(trigger=530441).  Swift did not immediately slew to the burst \ndue to the low priority the onboard software gives to this source. \nThe BAT on-board calculated location is \nRA, Dec 246.932, -48.541 which is \n   RA(J2000) = 16h 27m 44s\n   Dec(J2000) = -48d 32' 26\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is usual for an image trigger, there\nis no obvious signal in the light curve. \n\nThis image peak is almost certainly a noise fluctuation in an\nimage.  As part of an ongoing sensitivity enhancement program,\nwe generate a GCN notice whenever a marginal significance\npeak is found within 12 arcminutes of a source in the on-board\ncatalog.  Given the low significance (6.43 sigma) and inconsistent\nposition (0.126 degrees from the catalogued position),\nthere is no reason to believe that this peak is due to the\nastrophysical source."
+}

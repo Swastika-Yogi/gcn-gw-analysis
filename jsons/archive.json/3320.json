@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/BAT possible detection of a weak burst GRB050430",
+  "eventId": "GRB 050430",
+  "bibcode": "2005GCN..3320....1Z",
+  "createdOn": 1114872437000,
+  "circularId": 3320,
+  "submitter": "Bing Zhang at U Nevada,Las Vegas  <bzhang@physics.unlv.edu>",
+  "email": "bzhang@physics.unlv.edu",
+  "body": "B. Zhang (UNLV), D. Palmer (LANL), S. Barthelmy (GSFC), A. Falcone\n(PSU), D. Burrows (PSU), M. Chester (PSU),\nJ. Kennea (PSU), C. Pagani (PSU), N. Gehrels (GSFC)\n\non behalf of the Swift Team.\n\nAt 13:29:35 UT, the Swift Burst Alert Telescope (BAT) triggered\nand located GRB050430 (trigger #115881).  The BAT on-board\ncalculated location is RA, Dec 328.684,+47.795 (J2000) with an\nuncertainty of 4 arcmin (radius, 3-sigma, including estimated\nsystematic uncertainty).  The BAT light curve has 4 or 5 small,\nnear-threshold peaks (800 cnts/sec, 15-350 keV) with a total\nduration of 25 (possible 55) sec.  This burst occurred while\nentering the SAA, and given the weakness of this trigger, the\nvalidity of this burst is a little in doubt.  Also, a problem\nwith the intranet inside building 2 at GSFC is limiting the\nanalysis on this trigger, and therefore the veracity of the\nconclusion.\n\nThe spacecraft executed a prompt slew and the XRT began observations\nof the BAT position at 13:31:59.2 UT.  The XRT sent out a centroid\nposition through TDRSS, but the Postage Stamp image shows that the\nobject in this image is a cosmic ray, not an X-ray source.  This\nstrongly suggests that there was no bright X-ray source in the XRT\nfield of view, raising the possibility that the trigger may not be a\nreal GRB.  Updated analysis results based on ground analysis of the\nfull data set will follow.  We emphasize that the XRT Position sent\nout in the GCN Notice is INCORRECT.  Any ground-based searches should\nbe based on the BAT position until an updated XRT position is\navailable.\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began observations at\nabout 13:32 UT.  Information on UVOT observations will be published in\na subsequent GCN Circular."
+}

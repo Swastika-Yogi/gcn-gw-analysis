@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050826: Swift-BAT detection of a long burst",
+  "eventId": "GRB 050826",
+  "bibcode": "2005GCN..3884....1M",
+  "createdOn": 1125039722000,
+  "circularId": 3884,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "V. Mangano (INAF-IASF), L. Barbier (GSFC), A. Blustin (UCL-MSSL),\nD. Burrows (PSU), J. Cummings (GSFC), S. Hunsberger (PSU),\nC. Markwardt (GSFC/UMD), D. Morris (PSU), K. Page (U. Leicester),\nD. Palmer (LANL),\non behalf of the Swift team:\n\nAt 06:18:10 UT, Swift-BAT triggered and located GRB 050826\n(trigger=152113).  The spacecraft slewed immediately.  The BAT\non-board calculated location is RA,Dec 87.729, -2.680 {+05h 50m 55s,\n-02d 40' 46\"} (J2000), with an uncertainty of 3 arcmin (radius, 90%\ncontainment, stat+sys).  The BAT light curve shows two peaks (T+10\nsec and T+30 sec) with a total duration of 45 sec.  The peak count\nrate was ~800 counts/sec (15-350 keV), at ~10 sec after the trigger.\n\nObservations by the Swift X-Ray Telescope (XRT) began at 06:19:56 UT\n(106 seconds after the BAT trigger) with the XRT in the auto\nstate. The on-board detection algorithm failed to find a centroid,\nsuggesting a very faint source.  More information will be available\naround 11:00 UT, after the next Malindi pass.\n\nThe UVOT began observing the field of GRB 050826 at 06:19:55 UT, 105 s\nafter the BAT trigger.  The UVOT image covers the whole of the 3\narcmin BAT error circle. A comparison of the parameterised UVOT\nfinding chart, based on a 100 sec V-band image, with the DSS image\nreveals no new source brighter than ~19th mag."
+}

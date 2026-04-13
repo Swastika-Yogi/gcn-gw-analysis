@@ -1,0 +1,14 @@
+{
+  "editedOn": 1731516901907,
+  "subject": "IceCube-241113A - IceCube observation of a high-energy neutrino candidate track-like event",
+  "eventId": "IceCube-241113A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38200....1I",
+  "editedBy": "Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov> on behalf of A. Zegarelli at Ruhr University Bochum <azegarelli@icecube.wisc.edu>",
+  "circularId": 38200,
+  "createdOn": 1731508713431,
+  "submitter": "A. Zegarelli at Ruhr University Bochum <azegarelli@icecube.wisc.edu>",
+  "format": "text/plain",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nOn 2024-11-13 00:22:20.68 UT IceCube detected a track-like event with a moderate probability of being of astrophysical origin. The event was selected by the ICECUBE_Astrotrack_Bronze alert stream. The average astrophysical neutrino purity for Gold alerts is 30%. This alert has an estimated false alarm rate of 3.8708 events per year due to atmospheric backgrounds. The IceCube detector was in a normal operating state at the time of detection.\n\nAfter the initial automated alert (https://gcn.gsfc.nasa.gov/notices_amon_g_b/140078_30891383.amon), more sophisticated reconstruction algorithms have been applied offline, with the direction refined to:\n\nDate: 2024-11-13\nTime: 00:22:20.68 UT\nRA: 196.17 (+0.60, -0.60 deg 90% PSF containment) J2000\nDec: 8.57 (+0.77, -0.83 deg 90% PSF containment) J2000\n\nWe encourage follow-up by ground and space-based instruments to help identify a possible astrophysical source for the candidate neutrino.\n\nNo Fermi 4FGL or 3FHL catalog sources are in the 90% uncertainty region. 4FGL J1301.6+0834 (4FGL catalog source) at RA = 195.41 deg and Dec = 8.57 deg is the closest known source, located just outside the 90% uncertainty region (0.75 deg away from the best-fit position).\n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector operating at the geographic South Pole, Antarctica. The IceCube realtime alert point of contact can be reached at roc@icecube.wisc.edu"
+}

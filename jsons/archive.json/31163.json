@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Upper limits for GRB 211203A",
+  "eventId": "GRB 211203A",
+  "bibcode": "2021GCN.31163....1M",
+  "createdOn": 1638552632000,
+  "circularId": 31163,
+  "submitter": "Christian Malacaria at NASA-MSFC/USRA  <cmalacaria@usra.edu>",
+  "email": "cmalacaria@usra.edu",
+  "body": "C. Malacaria (USRA) reports on behalf of the Fermi-GBM Team:\n\nSwift/BAT detected GRB 211203A at 09:02:38 UT (GCN 31160). \nThere was no Fermi-GBM onboard trigger around the event.\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM identified no counterparts.\n \nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals, was run from +/-30 s around the Swift/BAT time.\nFrom this search, no significant signal was found related\nto GRB 211203A.\n\nWe set upper limits on impulsive gamma-ray emission. Using the\nrepresentative soft, normal, and hard GRB-like templates described in\narXiv:1612.02395, we set the following 3 sigma flux upper limits over\n10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale   Soft     Normal   Hard\n-------------------------------------------\n0.128 s:    4.7      9.2      17.0\n1.024 s:    1.6      3.8      8.2\n8.192 s:    0.4      0.9      2.0\n\nThese results are preliminary.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

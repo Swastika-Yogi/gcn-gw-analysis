@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140301A: Zadko observatory - Gingin optical observations",
+  "eventId": "GRB 140301A",
+  "bibcode": "2014GCN.16064....1K",
+  "createdOn": 1396305021000,
+  "circularId": 16064,
+  "submitter": "Alain Klotz at IRAP-CNRS-OMP  <Alain.Klotz@free.fr>",
+  "email": "Alain.Klotz@free.fr",
+  "body": "A. Klotz, D. Turpin (IRAP-CNRS-OMP), D. Macpherson (UWA/ICRAR), D. \nCoward (UWA),\nM. Boer, B. Gendre, K. Siellez, H. Dereli, O. Bardho (UNS-CNRS-OCA),\nA. Williams (PO-UWA), R. Martin (PO-UWA)\nreport:\n\nWe imaged the field of GRB 140301A detected by SWIFT\n(trigger 589590) with the Zadko robotic telescope (D=100cm)\nlocated at the observatory - Gingin, Australia.\n\nThe observations started 70.7s after the GRB trigger\n(40.5s after the notice). The elevation of the field was at\n26 degrees above horizon and weather conditions\nwere good. Images were retrieved 30 days after their\nacquisitions due to a storage software problem.\n\nThe first image is trailed with a duration of 60.0s\n(see the description in Klotz et al., 2006, A&A 451, L39).\nWe do not detect any OT with a limiting magnitude of:\nt0+70.7s to t0+130.7s : Rlim = 18.4\n\nThe second image is 30.0s exposure in tracking mode:\nt0+159s to t0+189s : Rlim = 19.7\n\nWe co-added series of unfiltered exposures.\nThe OT discovered by Kruehler et al. (GCNC 15899)\nis marginally detected 841 s (+/-255 s) after\nthe trigger. More precisely the photometry is:\n\n=start= =end=\n  159 s   275 s  CRlim = 21.8\n  289 s   465 s  CRlim = 21.8\n  586 s  1096 s  CR = 21.7 +/- 0.4\n1217 s  1727 s  CRlim = 21.9\n\nThis suggests this faint afterglow had culminated in\nbrightness R=21.7 at t0+841s. Then it had declined\nto R=23.1 at t0+4.97h (Kruehler et al. GCN 15899)\nand to r'=23.8 at t0+11h (Elliott et al. GCNC 15904).\nThis is compatible with a temporal decay of ~0.5.\n\nA photometry follow-up was performed with the Zadko\ntelescope :\n\n=start= =end=\n20.4 h  20.8 h  CRlim = 22.2\n\nAll magnitudes were estimated with the nearby NOMAD1\nstars and are not corrected for galactic dust extinction."
+}

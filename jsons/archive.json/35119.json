@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231117A: MAAO 0.7-m telescope optical upper limit",
+  "eventId": "GRB 231117A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35119....1L",
+  "createdOn": 1700379135566,
+  "circularId": 35119,
+  "submitter": "Gu Lim at Pusan National University <lim9gu@gmail.com>",
+  "body": "Lim, Gu (PNU); Park, Junyeong (PNU); Kim, Dohyeong (PNU); Paek, Gregory S. H. (SNU); Im, Myungshin (SNU); Park, Keunhong (MAAO); Choi, Changmin (MAAO); and GECKO Collaboration\n\nWe searched for the optical afterglow of GRB 231117A (S. Laha et al., GCN 35071) with a 0.7m telescope at Miryang Arirang Astronomical Observatory (MAAO), one of the facilities of the GW EM-Counterpart Korean Observatory (GECKO). We started the observation at 2023-11-17 10:04:30 UT and obtained 30 images of each 120s with I-band after 6.9 hours after the Swift detection (GCN 35071). No significant source is found within the updated Swift-XRT position (Beardmore et al. GCN 35074). The photometry is performed using a 2xFWHM diameter aperture. The flux is calibrated using the PanStarrs DR1 photometric catalog (AB system) as a reference. The depth is the limiting magnitude for a point source without the galactic extinction correction.\n\nT0 = 2023-11-17T03:03:19 UT (Laha et al., GCN 35071)\nFilter Mean_Date-obs(UT)    exptime(s)   T-T0(d)        FWHM(\")    Depth_3sigma(AB)   Depth_5sigma(AB) zp       zper\n--------------------------------------------------------------------------------------------------------------------------------------------------\nI          2023-11-17T10:38:14  120x30           +0.32             3.41              >20.34                           >19.78                         25.99  0.02\n\nOur detection limit is deeper than the report from MITSuME (Takei et al., GCN 35076).\n\nGravitational-wave EM Counterpart Korean Observatory (GECKO) is a network of 10+ 0.4m to 1m class telescopes worldwide."
+}

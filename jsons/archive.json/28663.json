@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 201015A",
+  "eventId": "GRB 201015A",
+  "bibcode": "2020GCN.28663....1F",
+  "createdOn": 1602883533000,
+  "circularId": 28663,
+  "submitter": "Cori Fletcher at USRA  <cfletcher@usra.edu>",
+  "email": "cfletcher@usra.edu",
+  "body": "C. Fletcher (USRA) and P. Veres (UAH) report on behalf of the Fermi-GBM Team:\n\nSwift-BAT detected GRB 201015A at 22:50:13 UT (GCN 28632). There was no\nFermi-GBM onboard trigger around the event.\n\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM identified no counterparts.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals was run from +/-30 s around the BAT trigger time. A transient source was\nidentified whose most significant timescale according to the automated search is 1.024 s,\nwith a log likelihood ratio of 76 and a location consistent with the Swift-BAT event.\n\nThe time-averaged spectrum from T0-0.256 s to T0+0.896 s is adequately fit by a\nBand function with Epeak = 14 +/- 6 keV, alpha = -1.0 (fixed), and beta = -2.40\n+/- 0.21. Because the peak energy is close to the low energy threshold of GBM,\nthe low energy photon index is unconstrained. We fix it to the median value of\nthe GBM GRB sample, however it has no significant effect on the values for Epeak and beta.\nThe event fluence (10-1000 keV) in this time interval is(2.25 +/- 0.38)E-07 erg/cm^2.\nT0 here is 2020-10-15T22:50:13.22 UT = 624495018.22 (MET)\n\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

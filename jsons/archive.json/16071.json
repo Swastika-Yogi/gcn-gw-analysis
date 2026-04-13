@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140402A: Marginal BAT detection",
+  "eventId": "GRB 140402A",
+  "bibcode": "2014GCN.16071....1C",
+  "createdOn": 1396449850000,
+  "circularId": 16071,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings, S. Barthelmy (GSFC), Hans Krimm (USRA/GSFC)\n  on behalf of the Swift-BAT team\n\nAt 00:10:06 Swift-BAT triggered on GRB 140402A(trigger # 594308), also seen by\nFERMI-LAT (Bissaldi et al. GCN Circ #16069) and Fermi-GBM (Jenke & Yu, GCN Circ\n#16070) .  There is a marginal BAT source (6 sigma), which is consistent with\nthe Fermi-LAT position, at RA, Dec 207.651, +6.006, which is:\n\nRA (J2000) 13h 50m 36.2s\nDec (J2000) 06d 00m 22s\n\nwith an estimated 90% uncertainty radius of 4 arcmin.  The partial coding was\n73% (i.e. all of the Fermi-LAT error circle was in a fairly highly coded part\nof BAT's field of view).  This burst appears to have a very hard spectrum.\nWe may be able to improve the detection when we receive the photon event data.\n\nThe unweighted lightcurve shows a single peak of about 0.32 seconds duration.\n\nA previous Swift TOO at the Fermi-LAT position did not cover this position.\nA new TOO has been requested."
+}

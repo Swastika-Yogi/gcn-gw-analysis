@@ -1,0 +1,10 @@
+{
+  "subject": "GBM trigger 347620337 (GRB 120107A?) : High-energy photon emission in Fermi/LAT data",
+  "eventId": "GRB 120107A",
+  "bibcode": "2012GCN.12822....1Z",
+  "createdOn": 1326149033000,
+  "circularId": 12822,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "Weikang Zheng and Carl Akerlof, report on behalf of the ROTSE\ncollaboration:\n\nHigh-energy photon emission in Fermi/LAT data was found to be correlated\nwith GBM trigger 347620337 (probably GRB 120107A). Our LAT data\nprocessing pipeline which uses the matched filter technique (Akerlof et\nal, 2010, ApJ, 725, L15; 2011 ApJ, 726, 22; Zheng et al. 2012, ApJ\n745,72), detected the high-energy photon emission from 09:12:15 UT on\nJan. 7, 2012 (MET = 347620337) as a follow-up of a routine search in GBM\ntrigger catalogs. The GBM trigger location (Ra = 223.1, Dec = -77.96)\nwas about 56 degree from the LAT boresight, and the zenith angle was\nabout 106 degrees. ~7 photons above 100 MeV were detected within 50 s\nafter the burst, with the highest energy of ~1.78 GeV at 1.18s after the\nburst (note that class 1 photons are not included in the pipeline\nanalysis since it is not automatically available from LAT data server at\nthe moment). The new GRB location estimated by the matched filter\ntechnique is Ra = 246.40, Dec = -69.93 with uncertainty ~0.5 degree,\nthis is ~10 degrees away from the GBM trigger location.\n\nA likelihood analysis gives a TS value of 58.9 (duration of 50 s), and\nthe GRB location Ra = 246.31, Dec = -69.93, which is also consistent\nwith the location derived from the matched filter technique.\n\nAll the pipeline results can be found in the following link, including\nthe skymap and light curve figures:\nhttp://www.rotse.net/LAT/GBMTriggers/347620337/347620337_res.html"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Solar Orbiter STIX observation of GRB 230307A",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33410....1X",
+  "createdOn": 1678222744000,
+  "circularId": 33410,
+  "submitter": "Hualin Xiao at FHNW  <hualin.xiao@fhnw.ch>",
+  "email": "hualin.xiao@fhnw.ch",
+  "body": "Hualin Xiao, S�m Krucker on behalf of the STIX team report:\n\n\nAt 2023-03-07T15:44:09Z UT (Solar Orbiter onboard time), STIX detected GRB 230307A, when Solar Orbiter was 0.53 AU from the earth. The one-way light time between the earth and the Solar Orbiter was 264.46 sec.\n\n\n\nThe gamma-ray burst signal can be clearly seen in the STIX quick-look light curves in the range between 10 - 84 keV.  The GRB has a single peak and a  duration of about 40 seconds.\n\n\n\nThe STIX light curves for this GRB can be found here:\n\nhttps://datacenter.stix.i4ds.net/view/plot/lightcurves?start=1678203251&span=1200\n\n\nBy using the light time difference information, we also estimated the possible locations of the GRB.\n\nThe result can be found here:\n\nhttps://datacenter.stix.i4ds.net/pub/GRB/GRB230307A/GRB230307A_loc.png\n\n\n\nThe analysis results presented above are preliminary.  The science data will only be down-linked from the instrument in a month or two.  Detailed analysis of the event will be started after downloading the science data.\n\n\nThe Solar Orbiter (SolO) is a Sun-observing satellite developed by the European Space Agency, it was launched on 10th Feb. 2020.  It has a unique elliptical orbit around the sun, with distances varying from 0.3 - 1 AU. The Spectrometer Telescope for Imaging X-rays (STIX) is one of the ten instruments onboard the Solar Orbiter.  It measures X-rays emitted during solar flares in the energy range of 4 � 150 keV and takes X-ray images by using an indirect imaging technique, based on the Moir� effect.  Its detectors consist of thirty-two pixelated CdTe detectors with a total effective area of 6 cm^2.\n\nMore information about STIX can be found on the STIX data center website:  https://datacenter.stix.i4ds.net/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080310: ROTSE-III Observations of Optical Counterpart",
+  "eventId": "GRB 080310",
+  "bibcode": "2008GCN..7411....1Y",
+  "createdOn": 1205292751000,
+  "circularId": 7411,
+  "submitter": "Fang Yuan at ROTSE  <yuanfang@umich.edu>",
+  "email": "yuanfang@umich.edu",
+  "body": "F. Yuan (U Mich), R. Quimby (Caltech), H. Swan (U Mich), C. Akerlof (U \nMich), report on behalf of the ROTSE collaboration:\n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB \n080310 (Swift trigger 305288; Cummings et al., GCN 7382) and began \nimaging at UT 08:38:25.7 (5.7 sec after the GCN notice time) under \ncloudy conditions. The first usable image with a detection of the OT \n(Chornock et al. GCN 7381) starts at UT 09:03:03.4. Observations \ncontinued in fluctuating weather conditions until about 3 hours after \nthe trigger.\n \nThe OT is slightly blended with the two nearby stars in ROTSE images. To \nreduce the contamination, we tried two different methods to obtain the \nOT magnitudes, first by subtracting the scaled PSF of the two nearby \nstars, and, second, by subtracting a reference image constructed from \nimages taken on Mar. 11  between UT 05:26:28.5 and 06:00:53.6 (when the \nOT has dropped below our detection threshold). The two methods yield \nsimilar results. From 0.42 to 1.72 hour after the burst, the OT is \nobserved to decay with a power-law index 0.6+/-0.1, consistent with the \nobservation by the LBT (Garnavich et al., GCN 7390). The later images \nhave degraded seeing and don't constrain the time dependence of the OT \nvery well. The magnitudes reported below are unfiltered calibrated to \nSDSS r using standard stars in the pre-burst SDSS observations (Cool et \nal., GCN 7396).\n\nStart_UT     End_UT      mag    magerror    mlim(of image)\n---------------------------------------------------------------\n09:03:03.4  09:07:31.2   17.2    0.1         18.4\n09:56:17.5  10:09:49.8   18.0    0.1         19.4"
+}

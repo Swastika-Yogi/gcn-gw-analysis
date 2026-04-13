@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201014A: Swift-XRT refined Analysis",
+  "eventId": "GRB 201014A",
+  "bibcode": "2020GCN.28638....1P",
+  "createdOn": 1602813574000,
+  "circularId": 28638,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "M. Perri (ASDC), V. D'Elia (ASDC), A. D'Ai (INAF-IASFPA), D.N. Burrows\n(PSU), J. D. Gropp (PSU), J.A. Kennea (PSU), J.P. Osborne (U.\nLeicester), K.L. Page (U. Leicester), A.P. Beardmore (U. Leicester) and\nV.D���Elia report on behalf of the Swift-XRT team:\n\nWe have analysed 5.1 ks of XRT data for GRB 201014A (D���Elia et al.\nGCN Circ. 28626), from 176 s to 69.0 ks after the  BAT trigger. The\ndata comprise 17 s in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. Using 1385 s of PC mode data and 2 UVOT\nimages, we find an enhanced XRT position (using the XRT-UVOT alignment\nand matching UVOT field sources to the USNO-B1 catalogue): RA, Dec =\n20.79619, +27.66024 which is equivalent to:\n\nRA (J2000): 01h 23m 11.09s\nDec(J2000): +27d 39' 36.9\"\n\nwith an uncertainty of 1.8 arcsec (radius, 90% confidence).\n\nThe light curve can be modelled with an initial power-law decay with an\nindex of alpha=3.8 (+1.7, -0.7), followed by a break at T+360 s to an\nalpha of 0.58 (+0.09, -0.07).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.92 (+0.27, -0.24). The\nbest-fitting absorption column is  1.1 (+0.8, -0.4) x 10^21 cm^-2,\nconsistent with the Galactic value of 7.9 x 10^20 cm^-2 (Willingale et\nal. 2013). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 3.5 x 10^-11 (4.3 x\n10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.1 (+0.8, -0.4) x 10^21 cm^-2\nGalactic foreground: 7.9 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.92 (+0.27, -0.24)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/01000255.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061110B, Swift-BAT refined analysis",
+  "eventId": "GRB 061110B",
+  "bibcode": "2006GCN..5810....1S",
+  "createdOn": 1163215400000,
+  "circularId": 5810,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "M. Stamatikos (GSFC/ORAU), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), D. Fox (PSU),\nN. Gehrels (GSFC), D. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-119 to T+183 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 061110B (trigger #238174)\n(Fox, et al., GCN Circ. 5800).  The BAT ground-calculated position\nis RA,Dec = 323.916, 6.870 deg {21h 35m 39.8s, 6d 52' 12.2\"} (J2000)\n+- 1.7 arcmin, (radius, sys+stat, 90% containment).  The partial coding\nwas 100%.\n \nThe mask-weighted lightcurve has several peaks starting at ~T-18 sec \nout to ~T+38 sec.  There is ongoing low-level emission out to at least\nT+172 sec at which time the spacecraft slewed to a planned target and\nthe burst location slewed out of the BAT FOV.  T90 (15-350 keV) is\nis at least 128 +- 5 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-16.5 to T+127.9 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.03 +- 0.16.  The lower limit to the fluence in the 15-150 keV band\nis 1.3 +- 0.1 x 10^-6 erg/cm2.  The 1-sec peak photon flux measured\nfrom T+3.26 sec in the 15-150 keV band is 0.4 +- 0.1 ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level.\n\nThe GCN Notices for this burst were delayed (~10 min) because this trigger\noccurred during a Malindi downlink pass, during which the TDRSS data stream\nis buffered on-board the spacecraft.\n-"
+}

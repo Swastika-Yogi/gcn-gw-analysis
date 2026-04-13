@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060805: XRT Team Refined Analysis",
+  "eventId": "GRB 060805",
+  "bibcode": "2006GCN..5404....1P",
+  "createdOn": 1154797153000,
+  "circularId": 5404,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page, O. Godet (U Leicester) & H.Z. Ziaeepour (UCL-MSSL) report on\nbehalf of the Swift-XRT team:\n\nWe have analysed the first 4 orbits of the XRT data obtained for GRB\n060805 (trigger 222683), comprising 8.4 ks of Photon Counting mode data\nbetween 101 s - 18.3 ks after the BAT trigger. Using these data, we obtain\na refined position of:\n\nRA(J2000)  =  14 43 43.59\nDec(J2000) = +12 35 13.2\n\nwith an uncertainty of 3.9 arcsec (90% containment). This is 47.9 and 1.4\narcsec from the initial BAT and XRT positions respectively (GCN Circ 5398;\nZiaeepour et al).\n\nThe X-ray afterglow is faint, with a count rate of ~0.1 count s^-1 at 100\nseconds after the trigger. After the first orbit, during which the count\nrate was close to constant, the afterglow decays with a slope of alpha =\n1.06 +/- 0.35.\n\nThe spectrum (using the combined data from all 4 orbits) can be well\nfitted by a simple power-law, of Gamma = 2.39 +0.64/-0.51, with a total\nabsorbing column of about 1e21 cm^-2 (compared to the Galactic column\ndensity of 1.57e20 cm^-2). During the first orbit (between 101 and 935\nseconds after the trigger), the 0.3-10 keV unabsorbed flux was 4.72e-12\nerg cm^-2 s^-1.\n\nIf the afterglow continues to fade with alpha ~ 1.06, the count rate at 24 \nhours is predicted to be 1.6e-3 count s^-1, corresponding to an observed \n(unabsorbed) flux of 5.92e-14 (8.92e-14) erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

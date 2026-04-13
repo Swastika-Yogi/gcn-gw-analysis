@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140110A: Swift/UVOT Observations",
+  "eventId": "GRB 140110A",
+  "bibcode": "2014GCN.15724....1O",
+  "createdOn": 1389464919000,
+  "circularId": 15724,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates  (UCL-MSSL) and M. Stamatikos (OSU) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the error circle of the Fermi/LAT GRB 140110A \n(Bissaldi et al., GCN Circ. 15714) in a series of u band observations \ntiled on the sky. The total exposure time is 12.7 ks spread over 7 \nfields; each field was observed typically for 1.8 ks. Observations \nstarted 28.4 ks after the Fermi/LAT trigger. At the locations of the \nXRT candidates (Maselli et al., GCN Circ. 15721), we find sources \n2 and 6 lie outside of the UVOT field of view, while the rest are \nconsistent with known objects within the USNO-B1 catalogue. \nHowever, within the UVOT fields we find two uncatalogued sources:\n\nThe refined UVOT position for UVOT source 1 is:\n\n    RA (J2000)   1:57:11.98\n   Dec (J2000) -36:17:48.2\n\nThe refined UVOT position for UVOT source 2 is:\n\n    RA (J2000)   1:55:13.95\n   Dec (J2000) -35:54:14.0\n\nboth positions have an estimated uncertainty of 0.6 arcsec (radius, 90% confidence). \nAt this time we are unable to determine if either of these sources are fading. \n\nPreliminary magnitudes for the two UVOT uncatalogued sources using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures are:\n\nSource   Filter       T_start(s)   T_stop(s)      Exp(s)         Mag\n\nUVOT1    u           28798        30607          1734  19.63 +/- 0.10 \nUVOT2    u           30251        63599          1793  19.56 +/- 0.10 \n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

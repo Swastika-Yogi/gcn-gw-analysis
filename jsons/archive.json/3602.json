@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050713b: XRT refined analysis",
+  "eventId": "GRB 050713B",
+  "bibcode": "2005GCN..3602....1P",
+  "createdOn": 1121290649000,
+  "circularId": 3602,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "K. Page, S. Vaughan, M. Goad (Leicester), D. N. Burrows (PSU), M. Ajello \n(MPE), R. Fink and N. Gehrels (GSFC) report on behalf of the Swift XRT team:\n\nWe have analysed the first two orbits of data for GRB050713b (GCN 3590, \nVaughan et al., 2005).  Using xrtcentoid, the refined position is:\n\nRA(J2000) = 20h 31m 15.5s\nDec(J2000) = +60d 56' 40.4\"\n\nwith an uncertainty of 6 arcsec. This is only 2 arcsec from the original \nXRT position (GCN 3590, Vaughan et al., 2005).\n\nThe light-curve shows a steeply fading afterglow during the first orbit, \nwith a decay slope of\nalpha = 2.88 +/- 0.12 between 143 and 600 seconds after the trigger.  After \n~5000 seconds (i.e. on the second orbit), the light-curve flattens \nsignificantly; more data are required to constrain the slope following the \nbreak in the light curve.\n\nThe WT spectrum can be fitted by an absorbed power-law with a spectral\nindex, Gamma = 1.70 +0.11/-0.09 and excess NH of (1.97 +0.50/-0.43)e21\ncm^-2.\n\nThe unabsorbed 0.3-10 keV flux (averaged over 143 and 330 seconds after\nthe burst) is (9.02 +0.16/0.80)e-10 erg cm^-2 s^-1."
+}

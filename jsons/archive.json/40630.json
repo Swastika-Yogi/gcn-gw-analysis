@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250404B",
+  "eventId": "GRB 250404B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40630....1K",
+  "createdOn": 1749137578359,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 40630,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, A. Tohuvavohu,\nand J. DeLaunay on behalf of the Swift-BAT team,\n\nG. Waratkar, J.Joshi, V. Bhalerao, D. Bhattacharya,\nand S. Vadawale, on behalf of the Astrosat-CZTI team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 250404B\n(AstroSat CZTI detection: Salunke et al., GCN Circ. 40078)\nwas detected by Konus-Wind, Swift (BAT), AstroSat (CZTI),\nand Mars-Odyssey (HEND) at about 66970 s UT (18:36:10).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  273.629 (18h 14m 31s)  -2.251 ( -2d 15' 03\")\n Corners:\n  273.108 (18h 12m 26s)  -2.676 ( -2d 40' 35\")\n  274.127 (18h 16m 31s)  -1.659 ( -1d 39' 32\")\n  274.151 (18h 16m 36s)  -1.842 ( -1d 50' 30\")\n  273.131 (18h 12m 31s)  -2.866 ( -2d 51' 58\")\n ---------------------------------------------\nThe error box area is 768 sq. arcmin, and its maximum\ndimension is 1.6 deg (the minimum one is 9 arcmin).\nThe Sun distance was 100 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250404_T66970/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

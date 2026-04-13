@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110726A: Further Swift/UVOT Observations",
+  "eventId": "GRB 110726A",
+  "bibcode": "2011GCN.12203....1P",
+  "createdOn": 1311706816000,
+  "circularId": 12203,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "B.L. Porterfield (PSU), M.H. Siegel (PSU) and C.A. Wolf (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB\n110726A 60 s after the BAT trigger (Wolf et al., GCN Circ. 12196).\nA fading source consistent with the XRT position is detected in\nthe initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  19:06:52.08 = 286.71700 (deg.)\n    Dec (J2000) = +56:04:16.5  =  56.07126 (deg.)\nwith an estimated uncertainty of 0.51 arc sec. (radius, 90%\nconfidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT\nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for the\nearly exposures are listed below.\n\nFilter         T_start(s)   T_stop(s)    Exp(s)     Mag\n\nwhite fc          60          210        147      17.84 +/- 0.04\nwhite           6348         6520        169     >20.85\nv                602        11374        806      20.61 +/- 0.27\nb                528         6344        235      20.44 +/- 0.22\nu fc             272          522        246      18.41 +/- 0.08\nu               5938        17370       1081     >21.25\nw1               653         5934        216     >20.5\nm2               628        12301        825     >21.1\nw2               578        10448        649     >21.5\n\nThe magnitudes in the table are not corrected for the Galactic\nextinction due to the reddening of E(B-V) = 0.08 in the direction\nof the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP250125a: Upper limits from Swift/BAT-GUANO",
+  "eventId": "EP250125a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39060....1R",
+  "createdOn": 1738088450609,
+  "submitter": "Samuele Ronchini at PSU <sjs8171@psu.edu>",
+  "circularId": 39060,
+  "format": "text/markdown",
+  "body": "Samuele Ronchini (PSU), James DeLaunay (PSU), Tyler Parsotan (NASA GSFC), Jamie A. Kennea (PSU), Aaron Tohuvavohu (Caltech), Gayathri Raman (PSU)  report:\n\nSwift/BAT did not detect EP250125a onboard (T0: 2025-01-25T02:37:31.749 UTC, EP GCN 39028).\n\nThe EP notice distributed in near real-time, triggered the Swift Mission Operations Center operated Gamma-ray Urgent Archiver for Novel Opportunities (GUANO; [Tohuvavohu et al. 2020, ApJ, 900, 1](https://iopscience.iop.org/article/10.3847/1538-4357/aba94f)).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst Alert Telescope (BAT) to save 200 seconds of BAT event-mode data from [-50,+150] seconds around the time of the burst. All the requested event mode data was delivered to the ground.\n\nUsing the NITRATES analysis ([DeLaunay + Tohuvavohu 2022, ApJ, 941, 169](https://iopscience.iop.org/article/10.3847/1538-4357/ac9d38)), we searched for emission on 8 timescales from 0.128s to 16.384s in the interval [-20,+20] seconds around the trigger time. We find no evidence for a signal, and derive the following upper limits.\n\nWe quote the 5-sigma flux upper limits in the 15-350 keV band, computed at the EP250125a position RA = 175.36337 deg , Dec = -21.71347 deg provided in GCN 39029, for three spectral templates (soft, normal, and hard GRB-like templates described in [arXiv:1612.02395]) and for four time bins.\nIn units of 10^-7 erg/s/cm^2:\n\n|time_bin (s) |soft  |normal|hard \n|-|-|-|-\n|0.256        |7.23  |5.47\t| 5.08 \n|1.024        |3.68  |2.79\t| 2.59 \n|4.096        |1.98  |1.50\t| 1.39 \n|16.384       |1.21  |0.92\t| 0.85 \n\nGUANO is a fully autonomous, extremely low latency, spacecraft commanding pipeline designed for targeted recovery of BAT event mode data around the times of compelling astrophysical events to enable more sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be found at: [https://www.swift.psu.edu/guano/]()"
+}

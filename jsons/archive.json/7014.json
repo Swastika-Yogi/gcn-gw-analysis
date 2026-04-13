@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 071028:  Swift-XRT Team refined analysis",
+  "eventId": "GRB 071028",
+  "bibcode": "2007GCN..7014....1R",
+  "createdOn": 1193613192000,
+  "circularId": 7014,
+  "submitter": "Judith Racusin at PSU  <racusin@astro.psu.edu>",
+  "email": "racusin@astro.psu.edu",
+  "body": "J. Racusin (PSU) reports on behalf of the Swift-XRT Team:\n\nWe have analysed the first 2 orbits of Swift-XRT data obtained for GRB\n071028 (Racusin et al. GCN Circ. 7012), totaling 61 s of Windowed Timing\n(WT) data and 2.9 ks of Photon Counting (PC) data.\n\nUsing 399 s of overlapping XRT Photon Counting mode and UVOT V-band data,\nwe find an astrometrically corrected X-ray position (using the XRT-UVOT\nalignment and matching UVOT field sources to the USNO-B1 catalogue): RA,\nDec = 119.81936, 21.48482 which is equivalent to:\n\nRA (J2000):  07 59 16.65\nDec (J2000): +21 29 05.4\n\nwith an uncertainty of 1.9 arcsec (radius, 90% confidence).  This is 6.5\narcsec from the previous XRT position (GCN Circ. 7012), and 51 arcsec from\nthe refined BAT position (Cummings et al., GCN Circ. 7013).\n\nThe bright X-ray light-curve can be fit by a broken power-law, with an\ninitial steep decay index of 3.3 +/- 0.4 followed by a flatter decay index\nof 1.1 +/- 0.3 after a break at 475 +/- 150 seconds.\n\nThe WT data (124-182 seconds) can be modeled as an absorbed power-law,\nwith photon index of 1.9 +/- 0.2 and a total absorbing column of NH = (5.9\n+/- 5.6)e20 cm^-2, consistent with the Galactic value of 5.1e20 cm^-2. The\n0.3-10 keV observed (unabsorbed) flux during this time is 3.1e-10\n(3.6e-10) erg cm^-2 s^-1.\n\nAssuming the source continues to decay with the same decay index of 1.1,\nwe predict an XRT count rate of 5.5e-4 counts/s at T+24 hours, which\ncorresponds to an 0.3-10.0 keV observed flux of 2.3e-14 ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

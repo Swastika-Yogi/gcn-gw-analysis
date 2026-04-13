@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060418, BVRcIc field calibration",
+  "eventId": "GRB 060418",
+  "bibcode": "2006GCN..4979....1H",
+  "createdOn": 1145396933000,
+  "circularId": 4979,
+  "submitter": "Arne A. Henden at AAVSO  <arne@aavso.org>",
+  "email": "arne@aavso.org",
+  "body": "A. Henden (AAVSO) reports on behalf of the AAVSO\nHigh Energy Network and Sonoita Research Observatory (SRO):\n\nWe have acquired BVRcIc all-sky photometry for a 20x20arcmin\nfield centered on the coordinates of the afterglow for\nGRB060418 (Falcone et al. GCN 4966) with the SRO 0.35m telescope\non one marginally photometric night.  The current zeropoint\nerror is approximately 0.04mag and will be improved with\nadditional nights of photometry.  As opposed to previous\ncalibrations, this one is quite shallow, saturating at\nabout V=11.  Further reductions will extend this calibration\nabout two magnitudes fainter.\n\nWe have placed the photometric data on our anonymous ftp site:\n\nftp://ftp.aavso.org/public/grb/grb060418.dat\n\nNote#1:  the USNO-FS ftp site (ftp.nofs.navy.mil) that used\nto contain all of the calibrations by Henden had a hard disk\nfailure about a month ago.  All of the calibrations have been\nmoved to the AAVSO site, where they will be maintained for\nthe forseeable future.\n\nNote#2: the grb060418 file has a modified format that includes\n(V-Ic).  This will be the format for subsequent calibrations.\n\nAs always, you should check the dates on the .dat file prior to\nfinal publication to get the latest photometry.  There is\na README file on the ftp directory to give you information\nabout the procedures used to calibrate these fields."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP241217a: e-MERLIN radio observations ",
+  "eventId": "EP241217a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38652....1R",
+  "createdOn": 1734974645552,
+  "submitter": "Roberto Ricci at INAF-IRA <ricci@ira.inaf.it>",
+  "circularId": 38652,
+  "format": "text/plain",
+  "body": "R. Ricci (U Rome), E. Troja (U Rome) and M. Yadav (U Rome) report on behalf of a larger collaboration:\n\nOn Dec 19th the e-MERLIN UK radio interferometer observed EP241217a (Zhou et al., GCN 38586) \nas part of the ORP project CY18M011 (PI: Troja et al.) at the position provided by Gemini-North \n(Levan et al GCN 38587).\nThe observations started at 12:00 UT and terminated at 20:54 UT (mid elapsed time = 2.45 days after the trigger). e-MERLIN observed at 5 GHz with a total Bandwidth of 512 MHz in four sub-bands of \n128 channels each. 1331+3030 (3C286) was used as flux calibrator and 0301+3037 as phase calibrator.\nThe data were processed using the e-MERLIN CASA calibration pipeline (v1.1.19) [1] and also imaged \nin CASA with a restoring beam size of 60 x 40 mas.\nNo clear detection was found in the final image. We estimated a 3-sigma rms noise of 96 microJy/beam. \n\nThe Authors thank the e-MERLIN support team and in particular David Williams for promptly scheduling and performing these observations.        \ne-MERLIN is a National Facility operated by the University of Manchester at Jodrell Bank Observatory on behalf of STFC, part of UK Research and Innovation.\n\n[1] e-MERLIN CASA pipeline (eMCP): https://ui.adsabs.harvard.edu/abs/2021ascl.soft09006M/abstract\n"
+}

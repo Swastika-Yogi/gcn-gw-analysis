@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090709A: Swift XRT Timing Analysis",
+  "eventId": "GRB 090709A",
+  "bibcode": "2009GCN..9696....1M",
+  "createdOn": 1248178704000,
+  "circularId": 9696,
+  "submitter": "Nestor Mirabal at U.Complutense de Madrid  <mirabal@gae.ucm.es>",
+  "email": "mirabal@gae.ucm.es",
+  "body": "N. Mirabal (U. Complutense de Madrid) and E. V. Gotthelf (Columbia U.)\nreport:\n\nIn light of recent reports of quasi-periodic variations in the\ngamma-ray light curve of GRB 090709A (Markwardt et al., GCN 9645;\nGolenetskii et al., GCN 9647, Gotz et al., GCN 9649; Ohno et al.,\nGCN 9653), we have analyzed Swift XRT observations of GRB 090709A\nobtained between 2009 July 9.319 UT and 2009 July 11.862 UT\n(79s - 61 hr after the trigger assuming T at 2009 July 9, 07:38:34 UT).\nThis period overlaps the BAT light curve from T+79 s to T+150 s\n(Markward et al., GCN 9645). The first set of observations (390 s) was\ntaken in WT mode (1.77 ms timing resolution),  followed by three\npointings in PC mode (2.5 s timing resolution). Fast Fourier\nTransform (FFT) analysis applied to the light curves\nin each interval shows no significant power down to the Nyquist\nlimit of f < 283 Hz and f < 2 Hz, for the WT and PC mode data,\nrespectively. Furthermore, the power spectrum of the first 120 s\nof WT mode data (79-469 s after the trigger) does not reveal\nany significant signal. The FFTs show typical characteristics of both\nwhite and red noise during the interval. The absence of oscillations in\nthe X-ray band appears to rule out coherent quasi-periodic variations\nextending beyond T+150 s. We note that the 8-second cycle derived from\nthe gamma-ray light curve seems at odds with the spin period P ~ 1 ms\nrequired to produce an energy release Egamma ~ 10^50 erg from a magnetar\nengine (Thompson et al. 2004, ApJ, 611, 380), unless the neutron star \nwas born\na millisecond pulsar and spun down to a 1-8 s period (depending on the\nactual GRB redshift) on a ~10 s timescale.\n\nThe power spectrum of the GRB 090709A light curve (WT mode, 79-469 s\nafter the trigger) can be found at:\n\nhttp://www.gae.ucm.es/~mirabal/grbs/grb090709a/grb090709a_fft.gif"
+}

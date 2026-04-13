@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140817A: Swift/UVOT Afterglow Detection",
+  "eventId": "GRB 140817A",
+  "bibcode": "2014GCN.16710....1M",
+  "createdOn": 1408398021000,
+  "circularId": 16710,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and B. Sbarufatti (INAF-OAB/PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 140817A\n101 s after the BAT trigger (Sbarufatti et al., GCN Circ. 16695).\nA fading source consistent with the UVOT-enhanced XRT position\n(Osborne et al. GCN Circ. 16697) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n  RA  (J2000) =  08:29:03.21 = 127.26336 (deg.)\n  Dec (J2000) =  58:11:24.7  =  58.19020 (deg.)\nwith an estimated uncertainty of 0.53 arc sec. (radius, 90% confidence).\n\nPreliminary detection and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              101         1017          334         20.3 +/- 0.17\nwhite             5426        18414         1794        >21.6\nv                  642         1068           58        >18.0\nb                  568          762           39        >18.5\nu                  313         4899          435        >20.5\nw1                 692         1117           39        >19.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.15 in the direction of the burst\n(Schlegel et al. 1998)."
+}

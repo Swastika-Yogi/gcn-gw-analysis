@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250309B: Swift-XRT refined Analysis",
+  "eventId": "GRB 250309B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.39649....1P",
+  "createdOn": 1741591146113,
+  "circularId": 39649,
+  "submitter": "K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "body": "K.L. Page and P.A. Evans report on behalf of the Swift-XRT team:\n\nWe have analysed 3.9 ks of XRT data for the Fermi/GBM-detected GRB\n250309B, from 46.1 to 57.7 ks after the Fermi trigger (GCN Circs. 39635,\n39642). The data are entirely in Photon Counting (PC) mode.\n\nWe detect a previously uncatalogued X-ray source at the following\ncoordinates: RA/Dec(J2000) = 210.80129, -8.50302, which is equivalent to\n\nRA (J2000): 14 03 12.31\nDec(J2000): -08 30 10.9\n\nwith an uncertainty of 3.0 arcsec (radius, 90% confidence). This source\nis 1.8 arcsec from the optical counterpart AT2025dws discovered by the\nZwicky Transient Facility (GCN Circ. 39639), and also detected by LCO (GCN\nCirc. 39643), SAO RAS (GCN Circ. 39645), the Liverpool telescope (GCN\nCirc. 39646) and the Swift UVOT (GCN Circ. 39644). A redshift of 1.898 has\nbeen reported from OSIRIS+/GTC spectroscopy in GCN Circ. 39647.\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=2.7 (+1.1, -2.6).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.74 (+0.24, -0.23). The\nbest-fitting absorption column is consistent with the Galactic value of\n3.0 x 10^20 cm^-2 (Willingale et al. 2013). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this spectrum\nis 3.8 x 10^-11 (4.0 x 10^-11) erg cm^-2 count^-1.\n\nA summary of the PC-mode spectrum is thus:\nGalactic foreground column: 3.0 x 10^20 cm^-2\nPhoton index:\t\t    1.74 (+0.24, -0.23)\n\nIf the light curve continues to decay with a power-law decay index of 2.7,\nthe count rate at T+24 hours will be 0.015 count s^-1, corresponding to an\nobserved (unabsorbed) 0.3-10 keV flux of 5.7 x 10^-13 (6.0 x 10^-13) erg\ncm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team.\n"
+}

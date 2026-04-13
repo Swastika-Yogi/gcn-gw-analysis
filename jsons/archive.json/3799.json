@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050814: Swift detection of a burst",
+  "eventId": "GRB 050814",
+  "bibcode": "2005GCN..3799....1R",
+  "createdOn": 1124022937000,
+  "circularId": 3799,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "A. Retter (PSU), L. Barbier (GSFC), S. Barthelmy (GSFC), A. Blustin \n(UCL-MSSL), D. Burrows (PSU), C. Markwardt (GSFC/UMD), F. Marshall (GSFC), \nD. Morris (PSU), D. Palmer (LANL), J. Racusin (PSU), P. Roming (PSU), and \nN. Gehrels (GSFC) report on behalf of the Swift team:\n\nAt 11:38:57 UT, Swift-BAT triggered and located GRB050814\n(trigger=150314).  The BAT on-board calculated location is\nRA,Dec 264.204,+46.333, {+17h 36m 49s, +46d 19' 58\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment,\nstat+sys).  There is a single peak with an approximate\nduration of 25 sec FWHM.  The peak rate is approx 800 ct/s in the\n15-350 keV band.  We note that no BAT Position Notice was\ndistributed through the GCN for this burst.\n\nThe S/C slewed immediately and the XRT began taking data at 11:41:15, 138 s \nafter the BAT trigger.  The XRT on-board centroid algorithm did not \nconverge and no prompt position is available.  However, the lightcurve \nshows a bright, decaying source in the field of view, and the spectrum \nlooks like a GRB.  We are waiting for down-linked data to determine a position.\n\nThe UVOT began observing at 11:41:43.9 UT, 167 s after the BAT trigger. In \na 100 s V-band image, no new source is detected with respect to the DSS \nimage down to a 5 sigma upper limit of 18.0 mag."
+}

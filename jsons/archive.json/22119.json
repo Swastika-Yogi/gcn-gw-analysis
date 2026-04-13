@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 171108A",
+  "eventId": "GRB 171108A",
+  "bibcode": "2017GCN.22119....1K",
+  "createdOn": 1510600661000,
+  "circularId": 22119,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A.Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration, soft-spectrum GRB 171108A\n(Fermi GBM detection: Hamburg et al., GCN 22112;\nIPN triangulation: Svinkin et al., GCN 22117)\ntriggered Konus-Wind at T0=56686.93 s UT (15:44:46.930).\n\nThe burst light curve shows a single pulse\nwhich starts at T0-22 ms and has a total duration of ~30 ms.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.73(-0.38,+0.48)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.016 s,\nof 1.25(-0.23,+0.27)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the most intense part of the burst was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0-0.022 s to T0+0.008 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = 0.86 (-1.20,+4.43), and Ep = 115 (-20,+30) keV.\n\nFitting this spectrum by a blackbody function\nyields kT = 26.6 (-3.3, +4.3) keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB171108_T56686/\n\nThe burst is not seen in the waiting mode data.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

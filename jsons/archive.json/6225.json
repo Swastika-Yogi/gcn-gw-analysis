@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070328, Swift-BAT refined analysis",
+  "eventId": "GRB 070328",
+  "bibcode": "2007GCN..6225....1S",
+  "createdOn": 1175068188000,
+  "circularId": 6225,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "M. Stamatikos (GSFC/ORAU), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-120 to T+183 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 070328 (trigger\n#272773) (Markwardt et al., GCN Circ. 6224).  The BAT\nground-calculated position is RA, Dec = 65.110, -34.077 deg which is\n   RA(J2000) = 4h 20m 26.4s \n   Dec(J2000) = -34d 4' 38.9\" \nwith an uncertainty of 0.6 arcmin, (radius, sys+stat, 90%\ncontainment).  The partial coding was 60%.\n\nThe mask weighted light curve shows a burst profile which consists\nof a rise starting at T-10, multiple spikes peaking between T+0\nand T+22, and a gradual decay detected out to T+140.  T90 (15-350 keV)\nis 69 +- 5 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-8.5 to T+133 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.26 +- 0.04.  The fluence in the 15-150 keV band is 8.9 +- 0.2 x\n10^-6 erg/cm2.  The 1-sec peak photon flux measured from T+0.78 sec in\nthe 15-150 keV band is 4.2 +- 0.2 ph/cm2/sec.  All the quoted errors\nare at the 90% confidence level."
+}

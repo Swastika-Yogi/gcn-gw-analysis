@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100322A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 100322A",
+  "bibcode": "2010GCN.10550....1S",
+  "createdOn": 1269909825000,
+  "circularId": 10550,
+  "submitter": "Satoshi Sugita at Aoyama Gakuin U.  <sugita@phys.aoyama.ac.jp>",
+  "email": "sugita@phys.aoyama.ac.jp",
+  "body": "S. Sugita (Nagoya U.), K. Yamaoka (Aoyama  Gakuin U.), M. Ohno, M. Suzuki,\nM. Kokubun, T. Takahashi (ISAS/JAXA), Y. E. Nakagawa, T. Tamagawa\n(RIKEN), N. Vasquez (Tokyo Tech.), Y. Urata, H.M  Lin (NCU),\nY. Nishioka, H. Hayashi, N. Ohmori, A. Daikyuji, E. Sonoda, K. Kono,\nK. Noda, M. Yamauchi (Univ. of Miyazaki), T. Sugasahara, M. Tashiro,\nY. Terada, A. Endo, K. Onda, W. Iwakiri (Saitama U.),\nY. Hanabata, T. Uehara, T. Takahashi, Y. Fukazawa (Hiroshima U.),\nT. Enoto, K. Nakazawa, K. Makishima (Univ. of Tokyo), S. Hong (Nihon U.),\non behalf of the Suzaku WAM team, report\n\nThe bright long GRB 100322A  (Fermi/GBM trigger #290912711\n; van der Host et al., GCN 10539)\ntriggered the Suzaku Wide-band All-sky Monitor (WAM)\nwhich covers an  energy range of 50 keV - 5 MeV\nat 2010-03-22 01:05:09.65 UT (=T0).\n\nThe observed light curve shows a multi-peaked structure\nlasting from T0 to T0+50s and a weak post cursor\nseen at T0+70s with T90 of about 37 seconds.\nThe fluence in 100 - 1000 keV was 5.00 (-0.17, +0.09)x10^-5 erg/cm^2.\nThe 1-s peak flux measured from T0+33s was\n8.04 (-0.39, +0.26) photons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0 to T0+42s is well fitted by a power-law with exponential cutoff model:\ndN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha       1.42 (-0.15, +0.13), and\nEpeak       601 (-57, +70) keV (chi^2/d.o.f. = 26.2/24).\n\nDue to the brightness of this burst, a 2% systematic error\nwas added for each energy channel.\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe light curves for this burst are available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

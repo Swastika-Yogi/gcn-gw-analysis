@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 140413A",
+  "eventId": "GRB 140413A",
+  "bibcode": "2014GCN.16107....1G",
+  "createdOn": 1397477364000,
+  "circularId": 16107,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, A. Tsvetkova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long GRB 140413A (Swift-BAT trigger #595616:\nD'Elia et al., GCN 16098; T0(BAT)=00:09:40 UT)\nwas detected by Konus-Wind in the waiting mode.\n\nThe light curve shows a broad emission pulse which started\n~65 s before the BAT trigger, peaked at ~T0(BAT)+80 s,\nand lasted till ~T0(BAT)+120 s.\n\nA possible soft precursor is seen at ~T0(BAT)-950 s\nin the softest KW energy band, however its association with\nGRB 140413A is not confirmed yet.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB140413A/\n\nAs observed by Konus-Wind, the burst had a fluence of\n(2.9 � 0.3)x10^-5 erg/cm2 and a 2.944-s peak energy flux,\nmeasured from ~T0(BAT)+80 s, of (5.2 � 0.5)x10^-7 erg/cm2\n(both in the 20 - 10000 keV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0(BAT)-60 s to T0(BAT)+121 s) by a power law\nwith exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.37 � 0.11, and Ep = 228 � 42 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

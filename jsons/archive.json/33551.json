@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230307A: Bad Time Intervals for Fermi GBM data",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33551....1D",
+  "createdOn": 1680314254000,
+  "circularId": 33551,
+  "submitter": "Sarah Dalessi at UAH  <sd0104@uah.edu>",
+  "email": "sd0104@uah.edu",
+  "body": "S. Dalessi (UAH) reports on behalf of the Fermi GBM Team:\n\n\"The Fermi Gamma-ray Burst Monitor data for GRB 230307A has a period\nof bad time intervals, affecting all data types. At particularly high\nrates the TTE data has data loss due to the bandwidth limit between\nthe instrument and the spacecraft. CTIME and CSPEC data experience\ndeadtime but do not experience similar losses due to electronics\nbandwidth. However, at particularly high rates both CTIME and CSPEC\nare affected by pulse pile-up, which will distort the spectra (see\nhttps://arxiv.org/abs/2303.14172). For CTIME and CSPEC, pulse pile-up\noccurs for GRB pulses during the time interval of 2.5-11.0 seconds for\nthe BGO detector B1 and the interval 2.5-7.5 seconds for the NaI\ndetector Na, with T0 referenced to the GBM trigger time. The TTE\nlosses happen within these time intervals, with packet losses for\nhigh-rate GRB pulses between 3 to 7 seconds. We recommend the\nexclusion of these time intervals for GBM analysis of this burst, as\nwell as caution in using bins adjacent to these selections.\n\n\nAdditionally, due to the orientation of the burst, we recommend only\nusing BGO detector B1 and NaI detector Na for analysis of this burst.\nAll the other detectors either have >60deg source angles or are\nblocked by the spacecraft itself.\""
+}

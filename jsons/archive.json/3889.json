@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050826: Swift XRT preliminary analysis results",
+  "eventId": "GRB 050826",
+  "bibcode": "2005GCN..3889....1M",
+  "createdOn": 1125091883000,
+  "circularId": 3889,
+  "submitter": "Milvia Capalbi at ISAC/ASDC  <capalbi@asdc.asi.it>",
+  "email": "capalbi@asdc.asi.it",
+  "body": "V. Mangano (INAF-IASF), D. Morris  (PSU), D. Burrows (PSU),\nJ. Kennea (PSU), L. Angelini (GSFC-JHU), N. White (GSFC)\nreport on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first\nobservation  of GRB 050826 (four orbits).\nThe new refined coordinates are:\n\nRA(J2000) = 05h 51m 01.3s  Dec(J2000) = -02:38:41.9\n\nwith an uncertainty of 6 arcseconds radius (90% containment).\nThis position is 2.6 arcmin from the BAT position given\nin GCN 3384 (Mangano et al 2005a) and consistent with\nthe previously distributed coodinates given in GCN 3385\n(Mangano et al 2005b).\n\nThe 0.2-10 keV light curve in Photon Counting (PC) mode\nstarts 114.97 seconds from the BAT trigger.\nThe light curve shows a single power law decay with slope\n-1.16 +/- 0.07 (90% confidence level).\n\nA preliminary spectral fit to the first orbit PC data\ngives a spectral power law photon index of 2.0 +/- 0.4\nin the [0.2-10] keV band, with an absorption column\nof 8e21 cm^2, in excess of the Galactic value (2e21 cm^2).\n\nThe average (in the time range 100-700 seconds from trigger)\nestimated unabsorbed 0.5-10 keV flux is then\n6.9E-11 erg cm-2 s-1.\n\nThe predicted flux at T=24 h after the trigger is\nat the level of 7.0e-14 erg cm-2 s-1 (or 1.0e-3 counts/s)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200115A: MITSuME Okayama optical upper limits",
+  "eventId": "GRB 200115A",
+  "bibcode": "2020GCN.26776....1N",
+  "createdOn": 1579100470000,
+  "circularId": 26776,
+  "submitter": "Masafumi Niwano at Tokyo Institute of Tech  <niwano@hp.phys.titech.ac.jp>",
+  "email": "niwano@hp.phys.titech.ac.jp",
+  "body": "M. Niwano, K. L. Murata, M. Oeda, K. Shiraishi, K. Iida, R. Adachi, F. \nOgawa, S. Toma, R. Hosokawa, N. Nakamura, Y. Yatsu, and N. \nKawai(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe searched for the optical counterpart of GRB 200115A (S. B. Cenko et \nal.,GCN Circular #26771) with the optical three color (g', Rc, and Ic) \nCCD cameras attached to the MITSuME 50 cm telescope of Okayama \nAstrophysical Observatory, Okayama, Japan.\nThe observation started on 11:52:38.68 UT. We did not find any new point \nsources within the Swift/BAT circle (S. B. Cenko et al., GCN Circular \n#26771) in all three bands.\nWe obtained the 5-sigma limits as follows.\n\nT0+[sec]���� MID-UT������ T-EXP[sec]������ 5-sigma limits\n------------------------------------------------------------------------------------------------\n135���� 12:23:04.98���� 3060���� g'>18.3, Rc>17.6, Ic>17.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used UCAC4 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU reduction \npipeline (Niwano et al. ,in prep; https://github.com/MNiwano/Eclair)"
+}

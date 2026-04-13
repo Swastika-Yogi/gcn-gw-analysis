@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120624B: Fermi GBM detection",
+  "eventId": "GRB 120624B",
+  "bibcode": "2012GCN.13377....1G",
+  "createdOn": 1340617194000,
+  "circularId": 13377,
+  "submitter": "David Gruber at MPE  <dgruber@mpe.mpg.de>",
+  "email": "dgruber@mpe.mpg.de",
+  "body": "D. Gruber (MPE), J. M. Burgess (UAH) and V. Connaughton (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 22:23:54.92 UT on 24 June 2012, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 120624B (trigger 362269436 / 120624933).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 172.9, DEC = 6.5 (J2000 degrees,\nequivalent to 11 h 31 m 36 s, 06 d 30 '), with an uncertainty\nof 1 degree (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\n\nThe angle from the Fermi LAT boresight is 71 degrees.\nMoreover, this burst was bright enough to result in a Fermi spacecraft\nautonomous rapid repoint (ARR) maneuver.\n\nThis burst was also independently detected by INTEGRAL SPI-ACS.\n\nThe GBM light curve consists of 3 bright, highly variable pulses\nstarting ~ 250 s prior to the GBM trigger. The first pulse\nlasted ~100 s, the second pulse lasted ~120 s and the final pulse,\nwhich triggered GBM, lasted ~50 s.\nThe event duration (T90) is about 271 s (50-300 keV).\nGBM triggered on the third episode because the first and second\nepisode occurred during the brief part of the Fermi orbit at high \ngeomagnetic latitude where triggering is currently disabled \nowing to particle activity and ensuing false triggers.\n\nThe time-averaged spectrum from T0-270 s to T0+22.5 s is\nbest fit by a Band function with Epeak = 566 +/- 20 keV,\nalpha = -0.85 +/- 0.01, and beta = -2.36 +/- 0.08.\n\nThe event fluence (10-1000 keV) in this time interval is\n(8.980 +/- 0.007)E-03 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+11.4 s in the 10-1000 keV band\nis 846 +/- 17 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

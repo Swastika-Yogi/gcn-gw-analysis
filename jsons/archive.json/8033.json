@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080727B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080727B",
+  "bibcode": "2008GCN..8033....1L",
+  "createdOn": 1217183127000,
+  "circularId": 8033,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W.B. Landsman (NASA/GSFC/Adnet) and S. Immler (PSU) report on behalf of \nthe Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080727B starting 105s after the \nBAT trigger (Immler et al., GCN Circ. 8022).   We do not find any \nsource, in any of the UVOT observations, at either the UVOT-enhanced XRT \nposition of the afterglow (Goad et al. GCN Circ. 8026) or the proposed \nKAIT afterglow position (Li et al., GCN 8024).     The 3-sigma upper \nlimits for detecting a source at this location in single exposures are:\n\nFilter       T_start      Exp(s)    Mag (3-sigma upper limit)\n----------------------------------------------------------\n   v          211        393     >20.6\n  uvw1        642         15     >17.9\n  uvm2        617         19     >17.6\n  white       105         98     >21.0\n----------------------------------------------------------\n\n\nThe quoted upper limits have not been corrected for the expected \nGalactic extinction along the line of sight corresponding to a large \nreddening of E_{B-V} = 1.9 mag.  All photometry is on the UVOT flight \nsystem described in Poole et al. (2008, MNRAS, 383, 627).\n\nCombining the UVOT upper limits with the KAIT detection at R~18.3 (Li et \nal., GCN 8024) suggest that there is either high extinction, very fast \ndecline in brightness (the UVOT observations began 57 seconds after the \nKAIT observations ), or high redshift.      The UVOT results are \nobtained at shorter wavelengths, and for example, the UVOT v filter is \nexpected to suffer an additional ~1.4 mag of extinction, assuming that  \nE(B-V) = 1.9 and that the KAIT clear filter corresponds roughly to the R \nband.    The results may also be consistent with a high redshift burst \n(5.5 < z <6.5) which is only observable at wavelengths longward of ~6000 A."
+}

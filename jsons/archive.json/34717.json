@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230904n: Correction of the coordinates of the ZTF candidate counterpart",
+  "eventId": "LIGO/Virgo/KAGRA S230904n",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34717....1N",
+  "createdOn": 1694901678198,
+  "circularId": 34717,
+  "submitter": "Jannis Necker at DESY <jannis.necker@desy.de>",
+  "body": "We reported the detection of one ZTF candidate counterpart [1] in the combined localization region of the gravitational-wave candidate S230904n [2] and the coincident track-like neutrino event reported by IceCube [3]. \n\nThe previously reported right ascension was wrong and would have put the transient outside the localization region. The correct coordinates are:\n\n+------------+--------------+----------+---------+\n| iau name   | alias        |       ra |     dec |\n|------------+--------------+----------+---------+\n| AT2023rkw  | ZTF23abawyxp | 349.8224 | 37.7884 |\n+------------+--------------+----------+---------+\n\n[1] ZTF and GRWOTH collaborations, GCN 34688\n[2] The LIGO Scientific Collaboration, the Virgo Collaboration and the KAGRA collaboration, GCN 34612\n[3] IceCube Collaboration, GCN 34616"
+}

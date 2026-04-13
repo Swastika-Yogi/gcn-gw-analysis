@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060927: Swift/UVOT Optical Observations",
+  "eventId": "GRB 060927",
+  "bibcode": "2006GCN..5643....1O",
+  "createdOn": 1159442057000,
+  "circularId": 5643,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S.R. Oates (UCL-MSSL), L.M. Barbier (GSFC) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 0609027 at\n14:08:45 on 2006-09-27, 51s after the BAT trigger (Barbier\net al., GCN 5627). No new source was detected within the XRT\nerror circle in the V band 10s settling exposure or in coadded\nimages in any filter down to the following 3-sigma magnitude upper \nlimits:\n\nFilter      Start        End        Exposure   3-sigma UL\n-------------------------------------------------------------------\nV              51           60              10            18.0\n\nV              175        10273       1302      19.73\nB              4197      5829         393        20.93\nU              3992      5624         393        20.52\nUVW1      3788     11355       561        21.44\nUVM2      3583     11177       1279      20.42\nUVW2      4606     6182         338        19.84\nWHITE     70          6033         491        19.65\n-------------------------------------------------------------------\n\nThese upper limits are not corrected for Galactic extinction\nE(B-V) = 0.062."
+}

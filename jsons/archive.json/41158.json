@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250725A: SVOM/VT optical candidate",
+  "editedOn": 1753449806839,
+  "eventId": "GRB 250725A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41158....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 41158,
+  "createdOn": 1753436296685,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, Z. H. Yao, Y. N. Ma, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. Palmerio (CEA), J. S. Deng, J. Y. Wei (NAOC), R. Z. Li (YNAO), X. L. Chen (YNU) report on behalf of the SVOM/VT team.\n\nSVOM performed a Target of Opportunity observation of GRB 250725A detected by Fermi/GBM (Fermi GBM Team, GCN 41150) and Swift/BAT (Evans et al., GCN 41152). SVOM/VT began observing the field at 2025-07-25 02:27:11 UTC,  36.1 min after the Swift trigger time, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nAn uncatalogued source compared to DESI catalogue, is found using VT X-band data, within the error box of Swift/XRT (Osborne et al., GCN 41153) at R.A., Dec 35.480401, -82.791125 degrees:\n \n RA (J2000) =  02:21:55.30\nDec (J2000) = -82:47:28.05\nwith an uncertainty of 0.5 arcsec.\n \nThe source was consistent with the detection of Buckley et al. (GCN 41151). It was detected in both VT_R and VT_B and fading in VT_R by 0.3 mag within about one hour during our observation. The AB magnitudes are:\n \nMid time            | exposure time     | band | mag (AB) | mag err\n--------------------|-------------------|------|----------|--------\n0.93 hour           | 70×13 sec         | VT_B | 22.30    | 0.10    \n0.93 hour           | 70×10 sec         | VT_R | 19.33    | 0.02    \n\nOur measurements are not corrected for Galactic extinction.\n\nConsidering the red color of VT_B-VT_R of about 2.9, the burst is supposed to be probable at medium/high redshift (Wang et al. 2020). \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

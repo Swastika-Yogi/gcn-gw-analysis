@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130313A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130313A",
+  "bibcode": "2013GCN.14314....1P",
+  "createdOn": 1363383717000,
+  "circularId": 14314,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and B. P. Gompertz (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130313A\n81 s after the BAT trigger (Gompertz et al., GCN Circ. 14293).\nNo optical afterglow consistent with the XRT position\n(Osborne et al. GCN Circ. 14300)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            81          231          147         >20.6\nu_FC               293          543          246         >20.3\nwhite               81        17899         2332         >22.4\nv                  625        22348         1681         >20.4\nb                  550        16987         1327         >21.4\nu                  293         6955          697         >20.3\nw1                 674         6750          471         >20.9\nm2                 649         6545          413         >21.0\nw2                 600        18671         2110         >21.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.09 in the direction of the burst\n(Schlegel et al. 1998)."
+}

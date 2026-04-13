@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220310A: [KAO-Egypt] SDSS r, i observation",
+  "eventId": "GRB 220310A",
+  "bibcode": "2022GCN.31750....1F",
+  "createdOn": 1647159459000,
+  "circularId": 31750,
+  "submitter": "Ahmed Fouad at NRIAG  <ahmed.fouad@nriag.sci.eg>",
+  "email": "ahmed.fouad@nriag.sci.eg",
+  "body": "Ahmed M. Fouad, Ali Takey, Mona Molham, Saad Ata, Ola Ali (NRIAG)\nreport:\n\nWe observed the optical counterpart of GRB 220310A\n(H. Negoro et al., GCN 31725)\nusing a 1.88-m telescope at the Kottamia Astronomical Observatory (KAO),\nNRIAG, Egypt.\n\nThe source was visible at the position discovered by\n(V. Lipunov et al., GCN 31732)\nwhere the SDSS galaxy (ObjID: 1237667910586532614) is located.\nKAO observations started from 22:05:22 to 23:06:00 UT on 10-03-2022,\n~ 21.5 hrs after the MAXI/GSC trigger.\nThe combined images of 10 x 150sec were created for SDSS r,i images.\n\nWe report the preliminary photometry as:\n--------------------------------------------------------\nObject                           / r-mag    / r-err     / i-mag     / i-err\n-------------------------------/------------/-----------/------------/---------\nGRB220310A by KAO  / 19.723  / 0.141   / 19.727  / 0.090\nPublished SDSS-gal.   / 21.94     / 0.19    / 21.62     / 0.22\n-------------------------------------------------------------------------------\n\nAperture photometry was done based on 9 stars around the GRB in\na FoV = 8' x 8', selected from the SDSS-DR16.\n\nThe magnitude is not corrected for Galactic extinction\nin the direction of the GRB."
+}

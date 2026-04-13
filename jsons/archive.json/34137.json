@@ -1,0 +1,9 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230627c: observations of ZTF23aaptsuy/AT2023lx in AbAO observatory",
+  "eventId": "LIGO/Virgo/KAGRA S230627c",
+  "bibcode": "2023GCN.34137....1P",
+  "createdOn": 1688342059147,
+  "circularId": 34137,
+  "submitter": "Alexei Pozanenko at IKI, Moscow <apozanen@iki.rssi.ru>",
+  "body": "We observed the ZTF23aaptsuy/AT2023lxu transient (Anumarlapudi et. al, GCN 34089), found in the localization region of LVK S230627c (LVK collaboration, GCN 34086), using the AS-32 telescope on 2023-06-27 (UT) 17:45:15 and 2023-07-01 (UT) 17:56:01. Since we cannot discriminate the source of ZTF23aaptsuy/AT2023lxu from the host galaxy due to FWHM of about 3.7\" we performed (1) aperture photometry of the host galaxy and (2) subtraction of stacked images of the two epochs. (1) Preliminary photometry of the host galaxy (+ ZTF23aaptsuy/AT2023lxu source) is following:\n\nDate        UT start  t-T0,d    Exp.  Filter galaxy  Err.  UL(3sigma)\n                      (mid exposure) (s)\n\n2023-06-27  17:45:15 0.675440   42*60 R    17.9     0.2   21.0\n2023-07-01  17:56:01 4.690903   65*60 R    17.8     0.1   21.2\n\nThe photometry is based on nearby USNO-B1.0 R2 stars:\nRA Dec R2\n160.2330 41.9734 17.95\n160.2882 42.0158 18.94\n\n(2) Image subtraction did not reveal a point like source with an upper limit of 20.4 magnitudes, assuming no source at one epoch.\n\nThe results above (1,2) confirm a flat LC of the source (Ahumada et al, GCN 34100) and may exclude   ZTF23aaptsuy/AT2023lxu from candidates of optical counterpart of LVK S230627c as evidenced by ATLAS (Fulton et al., GCN 34096). \n\n"
+}

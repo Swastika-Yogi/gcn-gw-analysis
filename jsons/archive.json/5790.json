@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061109: Swift detection of a possible burst",
+  "eventId": "GRB 061109",
+  "bibcode": "2006GCN..5790....1F",
+  "createdOn": 1163033869000,
+  "circularId": 5790,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "A. D. Falcone (PSU), S. D. Barthelmy (GSFC),\nA. P. Beardmore (U Leicester), M. M. Chester (PSU),\nJ. R. Cummings (NASA/UMBC), N. Gehrels (NASA/GSFC),\nJ. A. Kennea (PSU), C. B. Markwardt (GSFC/UMD),\nF. E. Marshall (NASA/GSFC), K. M. McLean (LANL/UTD), C. Pagani (PSU),\nD. M. Palmer (LANL), G. Sato (GSFC/ISAS) and L. Vetere (PSU) report on\nbehalf of the Swift Team:\n\nAt 00:30:19 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a possible GRB 061109 (trigger=237821). Swift slewed\nimmediately to the location. The BAT on-board calculated location is\nRA,Dec 311.747, +24.166 {+20h 46m 59s, +24d 09' 59\"} (J2000) with an\nuncertainty of 3 arcmin (radius, 90% containment, including\nsystematic uncertainty). \n\nThe XRT began taking data at 00:31:28 UT, 69 seconds after the BAT\ntrigger. The XRT on-board centroid algorithm did not find a source in\nthe image and no prompt position is available. The prompt lightcurve\nfrom XRT reveals no detectable emission. We are waiting for\ndown-linked data to detect and determine if an afterglow is present. \n\nThe usual UVOT data products (finding charts and source lists)\nwill be available when the full data set is down and processed\nat ~02:15 UT. \n\nDue to a problem in the telemetry stream that started part way through \nthe sequence of messages that come down TDRSS for each trigger, we do\nnot have any BAT lightcurves, XRT images or any of the UVOT messages."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB110719A",
+  "eventId": "GRB 110719A",
+  "bibcode": "2011GCN.12180....1D",
+  "createdOn": 1311099486000,
+  "circularId": 12180,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale, C.J. Saxton (MSSL-UCL) and T. Sakamoto (NASA/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110719A\n121 s after the BAT trigger (Sakamoto et al., GCN Circ. 12173).\nNo optical afterglow consistent with the XRT position (Pagani et al., GCN \nCirc. 12173) is detected in the initial UVOT exposures and in the \nsummed exposures taken in all filters.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           121          271          147 \t>20.2\nu_FC               279          529          246 \t>19.2\nwhite              121        17904         1080 \t>21.3\nv                 4848        10563         1143 \t>20.2\nb                  535        17151         1101 \t>21.1\nu                  279        16239         1328 \t>20.5\nw1                5258        12124          836 \t>20.4\nm2                5053        11468         1082 \t>20.8\nw2                4643         6280          393 \t>20.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

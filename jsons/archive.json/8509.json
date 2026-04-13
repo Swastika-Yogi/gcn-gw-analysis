@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081109A: Possible Swift-UVOT detection",
+  "eventId": "GRB 081109A",
+  "bibcode": "2008GCN..8509....1I",
+  "createdOn": 1226280923000,
+  "circularId": 8509,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (CRESST/UMD/GSFC), N. P. M. Kuin (MSSL/UCL), and S. T. Holland \n(CRESST/USRA/GSFC) report on behalf of the Swift UVOT team:\n\nFurther analysis of Swift Ultraviolet/Optical Telescope (UVOT) data of \nGRB 081109A (Immler et al., GCN Circ. 8500), starting 75 sec after the \nBAT trigger, gives a tentative detection of an optical source at the \nreported REM position (D'Avanzo et al., GCN Circ 8501) in the white \nfilter at a 3.3-sigma level of confidence. The source is not detected in \nany of the other UVOT filters at the limiting magnitudes reported below.\n\nFilter Tstart(s) Tstop(s)  Exp(s)  Magnitude\n\nwh      75       6592     745      21.6+/-0.3\nu      287       6181     501      >21.5  (3-sigma UL)\nb      543       6387     452      >20.9  (3-sigma UL)\nuvw2   593       5362     274      >21.6  (3-sigma UL)\nv      617       5566     274      >20.9  (3-sigma UL)\nuvm2   641       5771     274      >21.5  (3-sigma UL)\nuvw1   666       5976     255      >21.5  (3-sigma UL)\n\nThe possible detection in the white filter, combined with the lack of a \ndetection in the v filter, is consistent with the source having a \nredshift greater than 5.5.\n\nFollow-up observations, especially in the infrared, are encouraged."
+}

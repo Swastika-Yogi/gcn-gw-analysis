@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240422ed: P200 observations of AT2024hit",
+  "eventId": "LIGO/Virgo/KAGRA S240422ed",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36422....1A",
+  "createdOn": 1715384926995,
+  "circularId": 36422,
+  "submitter": "Tomas Ahumada Mena at Caltech <tahumada@caltech.edu>",
+  "body": "Tomas Ahumada (Caltech), Sam Rose (Caltech), Kaustav Das (Caltech),  Viraj Karambelkar (Caltech), Mansi Kasliwal (Caltech), Igor Andreoni (UMD), Antonella Palmese (CMU), Lei Hu (CMU), Tomas Cabrera (CMU), Robert Stein (Caltech), report on behalf of a larger collaboration:\n\nOn 2024-05-02 (UTC) we observed the candidate AT2024hit with the Double Beam Spectrograph (DBSP) and the Wide-Field Infrared Camera (WIRC), both mounted on the Palomar 200-in telescope. With WIRC, we obtained J- and Ks-band data. We do not recover the transient after subtracting VISTA reference images, to a magnitude limit of 20.5 AB mag. Our DBSP setup used a red grating of 316/7500, a blue grating of 600/400, a D55 dichroic, and a slitmask of 1.5\". The data were reduced using a custom DBSP pipeline relying on Pypeit (Prochaska et al. 2019, Roberson et al. 2021). The spectrum between 3800A-9000A matches an S0 galaxy at z=0.060 +/- 0.003. This redshift is at ~3-sigma from the GW mean distance at this spatial location. \n\nTaking into account that further analysis of the DECam images showed some possible spurious detections at the location of AT2024hit, the WIRC non-detections, and that the redshift is only marginally consistent with the GW candidate distance, we conclude that 2024hit is likely unrelated to S240422ed.\n"
+}

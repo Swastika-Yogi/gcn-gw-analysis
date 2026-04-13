@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 155072 is probably not a GRB",
+  "bibcode": "2005GCN..3974....1G",
+  "createdOn": 1126700182000,
+  "circularId": 3974,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. Greiner (MPE), A. Beardmore (U. Leicester), D.N. Burrows (PSU), \nM. Chester (PSU), J. Cummings (GSFC/NRC), N. Gehrels (GSFC), J. Kennea (PSU),\nK. Page (U. Leicester), J. Osborne (U. Leicester), O. Godet (U. Leicester),\nP. Schady (MSSL)\non behalf of the Swift team:\n\nAt 11:27:15 UT, Swift-BAT triggered on a rate increase (trigger=155072).\nThe spacecraft was entering the SAA at this time.  The spacecraft slewed\nimmediately.  The BAT on-board calculated location is 46 degrees off the\ninstrument boresight, in the extreme partially coded field of view.  The\nposition was RA,Dec 59.507d, -16.634d {03h 58m 02s,-16d 38' 00\"} (J2000),\nwith an uncertainty of 4 arcmin (radius, 90% containment, stat+sys).  The\nBAT light curve showed very weak peaks. The image significance was 6.5\nsigma, meaning the trigger was questionable .\n\nThe XRT began to observe at 11:28:54 UT, 99 seconds after the BAT trigger \n(GCN circ. 3973) The postage stamp image looks like a cosmic ray\nrather than an X-ray source.  The XRT lightcurve was only 2.7 seconds long\nbefore terminating due to the spacecraft entering the SAA.\n\nThe UVOT did not observe the trigger location immediately due to the SAA.\nThe UVOT will begin observing at approximately 12:34.\n\nWe expect the full Malindi downlink data to be available within an hour,\nat which time we can make a better judgement of the reality of this trigger."
+}

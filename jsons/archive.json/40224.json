@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250424A: Swift detection of a burst with an optical counterpart",
+  "editedOn": 1752341033996,
+  "eventId": "GRB 250424A",
+  "version": 2,
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40224....1C",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "circularId": 40224,
+  "createdOn": 1745478750251,
+  "submitter": "K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "format": "text/plain",
+  "body": "S. B. Cenko (GSFC), V. D'Elia (SSDC & INAF-OAR), J. J. DeLaunay (PSU),\nR. Gupta (NASA GSFC), A. Melandri (INAF-OAR), K. L. Page (U Leicester)\nand M. H. Siegel (PSU) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 06:52:28.51 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 250424A (trigger=1306404). Swift slewed immediately to the burst.\nThe BAT on-board calculated location is RA, Dec 217.513, -35.022 which is \n   RA(J2000) = 14h 30m 03s\n   Dec(J2000) = -35d 01' 19\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single peak\nstructure with a duration of about 30 sec.  The peak count rate\nwas ~25000 counts/sec (15-350 keV), at ~15 sec before the trigger.\n\nThe XRT began observing the field at 06:56:39.3 UT, 250.9 seconds after\nthe BAT trigger. Using promptly downlinked data we find an uncatalogued\nX-ray source with an enhanced position: RA, Dec 217.50010, -35.02493\nwhich is equivalent to:\n   RA(J2000)  = 14h 30m 00.03s\n   Dec(J2000) = -35d 01' 29.7\"\nwith an uncertainty of 1.9 arcseconds (radius, 90% containment). This\nlocation is 39 arcseconds from the BAT onboard position, within the BAT\nerror circle. This position may be improved as more data are received;\nthe latest position is available at https://www.swift.ac.uk/sper. \n\nA power-law fit to a spectrum formed from promptly downlinked event\ndata does not constrain the column density.\n\nUVOT took a finding chart exposure of 150 seconds with the White filter\nstarting 254 seconds after the BAT trigger. There is a candidate afterglow in\nthe rapidly available 2.7'x2.7' sub-image at\n  RA(J2000)  =\t14:30:00.00 = 217.49998\n  DEC(J2000) = -35:01:30.6  = -35.02518\nwith a 90%-confidence error radius of about 0.63 arc sec. This position is 1\narc sec. from the center of the XRT error circle. The estimated magnitude is\n18.80 with a 1-sigma error of about  0.15. No correction has been made for the\nexpected extinction corresponding to E(B-V) of 0.064.\n\nBurst Advocate for this burst is S. B. Cenko (brad.cenko AT nasa.gov).\nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

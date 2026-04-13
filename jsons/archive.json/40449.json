@@ -1,0 +1,11 @@
+{
+  "subject": "EP250511a: Gemini optical counterpart observation",
+  "eventId": "EP250511a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40449....1S",
+  "createdOn": 1747127243161,
+  "submitter": "Antonio Martin-Carrillo at UCD,Space Science Group <antonio.martin-carrillo@ucd.ie>",
+  "circularId": 40449,
+  "format": "text/plain",
+  "body": "J. Sanchez-Sierras (Radboud), R. A. J. Eyles-Ferris (Leicester), A. Martin-Carrillo (UCD), A. J. Levan (Radboud and Warwick), G. Corcoran (UCD), P. G. Jonker (Radboud), F. E. Bauer (SSI and UTA), D. B. Malesani (DAWN/NBI and Radboud), J. A. Quirola-Vasquez (Radboud), report on behalf of a larger collaboration:\n\nWe observed the field of the fast X-ray transient EP250511a (Lian et al., GCN 40429) using the Gemini-South telescope. Observations started on 2025 May 12 at 01:19:15 UT (17.32 hr after the EP trigger), and consisted of 5x60 s exposures in each of the SDSS i and z bands.\n\nAt the location of the optical counterpart reported by Schneider et al. (GCN 40431) and Li et al. (GCN 40433) an extended source is clearly visible, with a magnitude of i = 23.04 +/- 0.06 (AB system, calibrated against nearby Pan-STARRS objects). This magnitude is brighter than the archival value reported in the Legacy Survey for the underlying candidate host galaxy (Schneider et al., GCN 40431). Image subtraction using PyZOGY (Zackay et al. 2016, doi:10.3847/0004-637X/830/1/27), using the Legacy Survey as template, reveals indeed a residual source with magnitude, i = 23.64 +/- 0.26 (AB system).\n\nWe thank excellent support from the observing staff at Gemini, in particular Cinthya Rodrigez and Joan Font."
+}

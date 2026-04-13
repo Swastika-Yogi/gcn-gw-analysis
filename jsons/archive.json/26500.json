@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S191213g: Palomar 60-inch imaging of AT2019wxt",
+  "eventId": "LIGO/Virgo S191213g",
+  "bibcode": "2019GCN.26500....1F",
+  "createdOn": 1576749924000,
+  "circularId": 26500,
+  "submitter": "Christoffer Fremling at Caltech  <fremling@caltech.edu>",
+  "email": "fremling@caltech.edu",
+  "body": "C. Fremling (Caltech), M. Kasliwal (Caltech), D. A. Perley (LJMU), and R. Walters (Caltech) report:\n\nWe observed AT2019wxt (GCN #26485) with the Spectral Energy Distribution Machine (SEDM)\non the 60 inch telescope at Palomar Observatory. The SEDM is a\nlow resolution (R ~ 100) integral field unit spectrometer with a multi-\nband (ugri) rainbow camera imager (see Blagorodnova et al. 2018,\nPASP, 130, 035003, and Rigault et al. 2019, A&A, 627, A115).\n\nThe SEDM began observing using the rainbow camera at 2019-12-19 04:25:33.70 UTC.\nWe obtained a series of 180s exposures in ugri filters finding the following magnitudes (AB)\nafter host galaxy subtraction using SDSS images:\n\nJD         | mag    | err  | filter\n2458836.69 | 19.62  | 0.10 | g\n2458836.70 | 19.61  | 0.11 | g\n\n2458836.69 | 19.38  | 0.12 | i\n2458836.71 | 19.40  | 0.11 | i\n\n2458836.68 | 19.41  | 0.11 | r\n2458836.70 | 19.40  | 0.18 | r\n\n2458836.69 | <17.10 | -    | u\n2458836.70 | <16.90 | -    | u\n\nCompared to the photometry reported in GCN #26485, AT2019wxt has stayed at a constant brightness\nin the the i-band over the last few days (within the reported uncertainties)."
+}

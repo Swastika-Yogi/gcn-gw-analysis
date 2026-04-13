@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250502A: Early optical counterpart detection by LCO.",
+  "eventId": "GRB 250502A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40322....1G",
+  "createdOn": 1746190322381,
+  "circularId": 40322,
+  "submitter": "ankur ghosh at CAPP, University of Johannesburg <ghosh.ankur1994@gmail.com>",
+  "format": "text/plain",
+  "body": "Ankur Ghosh, Soebur Razzaque (CAPP, University of Johannesburg),  Alexander Moskvitin, Yulia Sotnikova (SAO RAS), Naveen Dukiya (ARIES), Rahul Gupta (NASA GSFC) on behalf of a larger collaboration. \n\nWe observed the field of the GRB 250502A triggered by the SVOM/ECLAIRs(Wang et al., GCN 40313) in the V, r filter of the 0.4 m SCICAM QHY600 at the Las Cumbres Observatory Global Telescope (LCOGT) node located at Haleakala Observatory, Hawai.  The 0.4 m SCICAM QHY600 is equipped with 9576 x 6388 pixel CCD (FOV: 1.9 x 1.2 degrees, scale: 0.74 arcsec/pixel) but we only used the FOV of 30 x 30 arcmin for our observation.\n\nObservations began on May 02, 2025, starting 2.00 hours after the GRB trigger.\n\nWe clearly detect the optical transient (OT) reported by GCNs (Rakotondrainibe et al., GCN 40315; An et al., GCN 40319, Li et al., GCN 40320) in our V, r band image. \n\n------------------------------------------------------------------------------------------------------\n|Date|\t\t|JD start|\t|t-T0 (hours)|\t|Exp (sec)|\t|Filter|\t|Magnitude|\n------------------------------------------------------------------------------------------------------       \n2025-05-02\t2460797.94930\t2.00\t\t1 x 600 \tV\t\tV = 19.08 +/- 0.04\n2025-05-02\t2460797.95500\t2.15\t\t1 x 600 \tr\t\tr = 19.02 +/- 0.04\n------------------------------------------------------------------------------------------------------\n\nThe field was calibrated against nearby APASS stars, with magnitudes converted using Lupton (2005) equations, and has not been corrected for Galactic extinction.\n"
+}

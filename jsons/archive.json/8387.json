@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081016B, Swift-BAT refined analysis",
+  "eventId": "GRB 081016B",
+  "bibcode": "2008GCN..8387....1S",
+  "createdOn": 1224279425000,
+  "circularId": 8387,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "M. Stamatikos (GSFC/ORAU), S. D. Barthelmy (GSFC), W. H. Baumgartner \n(GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), K. McLean (GSFC/UMD),\nK. L. Page (U Leicester),D. M. Palmer (LANL), A. M. Parsons (GSFC),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), J. Tueller (GSFC),\nT. N. Ukwatta (GWU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry \ndownlink,\nwe report further analysis of BAT GRB 081016B (trigger #331856)\n(Page, et al., GCN Circ. 8381).  The BAT ground-calculated position is\nRA, Dec = 14.582, -43.536 deg which is\n  RA(J2000)  =  00h 58m 19.8s\n  Dec(J2000) = -43d 32' 07.9\"\nwith an uncertainty of 2.3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 98%.\n\nThe BAT mask-weighted light curve showed a single peak of duration ~2.5 \nseconds.\nT90 (15-350 keV) is 2.6 +- 0.8 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-0.0 to T+3.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n0.92 +- 0.32.  The fluence in the 15-150 keV band is 9.9 +- 1.8 x 10-08 \nerg/cm2.\nThe 1-sec peak photon flux measured from T+0.50 sec in the 15-150 keV band\nis 0.5 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/331856/BA/"
+}

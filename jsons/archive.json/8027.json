@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080727A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080727A",
+  "bibcode": "2008GCN..8027....1L",
+  "createdOn": 1217169503000,
+  "circularId": 8027,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W.B. Landsman (NASA/GSFC/Adnet) and S. Immler (PSU) report on behalf of \nthe Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB080727A starting 113s after the \nBAT trigger (Immler et al., GCN Circ. 8021).   We do not find any \nsource, in any of the UVOT observations, at the UVOT-enhanced XRT \nposition of the afterglow (Evans et al. GCN Circ. 8025).  The 3-sigma \nupper limits for detecting a\nsource at this location in the co-added images are:\n\nFilter    T_start   T_stop    Exp(s)    Mag (3-sigma upper limit)\n-----------------------------------------------------------------\n    v          219     7675     1165    >20.6\n    b          700     7083      471    >20.9\n    u          675     6878      490    >20.6\n   uvw1        650     6673      491    >20.5\n   uvm2       1541     6468      236    >20.0\n   uvw2        730     7486      471    >20.8\n  white        113     7284      623    >21.8\n-----------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected \nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.07 mag.  All photometry is on the UVOT flight \nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

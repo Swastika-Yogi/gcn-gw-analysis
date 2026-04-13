@@ -1,0 +1,9 @@
+{
+  "subject": "Introducing Self-Service Configuration of GCN Notices over Email for Transient Alerts",
+  "bibcode": "2022GCN.32517....1B",
+  "createdOn": 1662156951000,
+  "circularId": 32517,
+  "submitter": "Eric Burns at GSFC  <erickayserburns@gmail.com>",
+  "email": "erickayserburns@gmail.com",
+  "body": "Scott Barthelmy (GSFC), Eric Burns (LSU), Dakota Dutko (GSFC),\nMeredith Gibb (GSFC), Tess Jaffe (GSFC), Israel Martinez\n(GSFC/UMD), Judy Racusin (GSFC), David Simpson (GSFC), Leo Singer\n(GSFC), Teresa Sheets (GSFC), Alan Smale (GSFC), and Dongguen Tak\n(DESY) report on behalf of GCN, TACH, and HEASARC:\n\nThe new General Coordinates Network (GCN Circular #32419) is\npleased to announce self-service configuration of GCN Notice\nnotifications over email. This new feature will greatly simplify\nand enhance the user experience for subscribing to GCN Notices.\nUsing the same accounts on https://gcn.nasa.gov as GCN Classic\nOver Kafka, users can now sign up to subscribe to any of the\npublic GCN Notice types in any of the 3 legacy formats (text,\nbinary, VOEvent), and edit their settings at will.\n\nTo get started, sign in or sign up at https://gcn.nasa.gov, and\nthen select \"Email Notifications\" from the account dropdown menu.\nNote that signing up for receiving emails via the new GCN does not\nedit users' prior subscriptions to GCN Classic. When you would\nlike to unsubscribe from GCN Classic, please contact us via:\nhttps://heasarc.gsfc.nasa.gov/cgi-bin/Feedback?selected=gcnclassic\n\nFor questions, issues, or bug reports, please contact us via:\n\nHEASARC feedback form -\nhttps://heasarc.gsfc.nasa.gov/cgi-bin/Feedback?selected=kafkagcn\n\nGitHub issue tracker -\nhttps://github.com/nasa-gcn/gcn.nasa.gov/issues"
+}

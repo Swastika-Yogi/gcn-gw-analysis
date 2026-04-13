@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231115A: Wendelstein Optical/Infrared Observations",
+  "eventId": "GRB 231115A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35092....1H",
+  "createdOn": 1700281125434,
+  "submitter": "Antonella Palmese at Carnegie Mellon University <apalmese@andrew.cmu.edu>",
+  "circularId": 35092,
+  "body": "Lei Hu (CMU), Malte Busmann (LMU), Daniel Gruen (LMU),  Antonella Palmese (CMU), Brendan O’Connor (CMU), Arno Riffeser (LMU/MPE), Ananya Shankar (LMU), Raphael Zoeller (LMU) report:\n\nWe observed the position of GRB 231115A (Fermi GBM team, GCN 35035) with the 2m Fraunhofer telescope at Wendelstein Observatory, Germany. Observations were obtained using the 3kk imager in the r, i, and J bands simultaneously, and then in r, i, and H bands. Observations started on 2023-11-16 at 00:39 UT with a total exposure time of 7200 seconds in r and i, and 3600 seconds in J, H.\n\nWe performed difference imaging in r band with deep archival Wendelstein Wide Field Imager observations of M82 using the SFFT pipeline (Hu et al. 2022). We do not detect any source at the location of GIT231115AA / AT2023xvj (Kumar et al, GCN 35041) to depth r> 22.5 (5sigma depth). We identify 2 new sources:\n\nName | RA (J2000 deg) | dec (J2000 deg) | r (AB mag)\n----------------------\nW231115a | 148.9711390 | 69.6730597 | 20.54 +/- 0.04\nW231115b | 148.9950500 | 69.6912555 | 21.26 +/- 0.08 \n\nW231115a is also detected in i, J, and H, while W231115b is only detected in r and i. We cannot exclude that these are variable objects associated with previously detected sources in archival HST data. Further analysis is underway.\n\nThe magnitudes are not corrected for Milky Way extinction and the photometry was calibrated against nearby stars in the PS1 and 2MASS catalogs. We thank the staff of the Wendelstein Observatory for obtaining these observations.\n"
+}

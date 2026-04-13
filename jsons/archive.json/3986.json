@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050915: Swift/UVOT upper limits",
+  "eventId": "GRB 050915",
+  "bibcode": "2005GCN..3986....1B",
+  "createdOn": 1126816957000,
+  "circularId": 3986,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), D. Grupe (PSU), T. Poole (UCL-MSSL),\nP. Roming (PSU), N. White (GSFC), D. Hinshaw (GSFC-SPSYS),\nN. Gehrels (GSFC) report on behalf of the Swift-UVOT team:\n\nThe Swift/UVOT began observing the field of GRB050915 85 s\nafter the BAT trigger (Grupe et al. GCN 3977). No new source is\ndetected at the position of the refined XRT error circle (Grupe\net al. GCN 3983) in the initial 100 s V-band image down to a\n3-sigma upper limit of 19.0, or in summed exposures with any of\nthe filters down to the following 3-sigma magnitude upper limits:\n\nFilter T_range (s) Exp (s) 3sig UL\n\nV      85-6154     1049    20.3\nB      230-17031   324     20.6\nU      216-12846   958     20.9\nW1     203-11939   958     20.5\nM2     188-6743    640     20.2\nW2     246-677     59      19.6\n\nThe magnitudes are uncorrected for extinction."
+}

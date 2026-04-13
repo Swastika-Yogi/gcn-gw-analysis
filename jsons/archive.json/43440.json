@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260117A: SVOM/C-GFT upper limit",
+  "eventId": "GRB 260117A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43440....1W",
+  "createdOn": 1768715674962,
+  "circularId": 43440,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "C. Wu (NAOC), Z. Kang (CHO), L.P. Xin, X.H. Han, P.P. Zhang, X.M. Lu (NAOC), Z.W. Li, Y. Lv (CHO), R.S. Zhang, Y.J. Xiao, Y.L. Qiu, J. Wang, J.S. Deng, L. Huang, J.Y. Wei (NAOC), J. T. Palmerio, D. Adrien(CEA/Irfu) report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of GRB 260117A (SVOM trigger: sb26011705) detected by SVOM/ECLAIRs (Palmerio et al., GCN 43437) with LATIOS on SVOM/C-GFT. Observations started at 2026-01-17T19:44:47 UTC, ~82 seconds after the trigger. \n\nWe obtained g, r, and i-band follow-up imaging.  After preliminary analysis，no credible candidate was detected within the error box provided by EP/FXT and Swift/XRT (Evans\net al., GCN 43438; Salvaggio et al., GCN 43439) in our images.\nThe 3-upper limits in the early phase are:\n| Mid_t - T0 (min) | Exposure Time (s) | Band | Upper Limit (AB) |\n|-----------------|-------------------|------|------------------|\n| 4.6             | 5×10              | i    | 18.5            |\n| 14.1            | 10×30              | g    | 19.7           |\n\nThe photometry was calibrated against  UCAC4 catalogue and no correction for Galactic dust extinction was applied.\n\n\nWe thank the observation assistants Bo-Wen Li and Hong-Xv Xue at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

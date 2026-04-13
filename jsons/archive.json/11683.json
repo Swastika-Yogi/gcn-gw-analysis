@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB110208a",
+  "eventId": "GRB 110208A",
+  "bibcode": "2011GCN.11683....1D",
+  "createdOn": 1297278977000,
+  "circularId": 11683,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and V. D'Elia (ASI-ASDC) report on\nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110208a 85s\ns after the BAT trigger (D'Elia, GCN Circ. 11674).  No optical afterglow\nconsistent with the enhanced XRT position (Evans et al, GCN Circ. 11678)\nor the Magellan position (Berger et al., GCN Circ. 11681) is detected in \nthe initial UVOT exposures or in the summed ones.\n  Preliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\n  exposures and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)  Exp(s)   Mag\n\nwhite_FC           85          240     147 \t>20.6\nwhite              85        18443    1425 \t>21.5\n\nu_FC               298         548     246 \t>20.0\nu                  298       30010    3111 >\t21.2\n\nv                  628       11030    1190 \t>20.0\nb                  553       24229    2021 \t>21.4\nw1                 703       29283    2919 \t>21.3\nm2                 652       28376    1771 \t>21.1\nw2                 603        6810     393 \t>20.5\n\nWe note that there is a bright galaxy a few arcminutes from\nthe GRB position.\n\nThe values quoted above are not corrected for the Galactic\nextinction due to the reddening of E(B-V) = 0.02 in the\ndirection of the burst (Schlegel et al. 1998)."
+}

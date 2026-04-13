@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250119C: Fermi GBM Observation",
+  "eventId": "GRB 250119C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39030....1S",
+  "createdOn": 1737816344090,
+  "submitter": "Jacob Smith at Fermi-GBM Team <jrs0118@uah.edu>",
+  "circularId": 39030,
+  "format": "text/plain",
+  "body": "Jacob Smith (UAH) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\nAt 22:41:06.30 UT on 19 January 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 250119C (trigger 759019271/250119945).\nwhich was also detected by Swift/BAT-GUANO (Ronchini, S. et al. 2025, GCN 39008).\nThe Fermi GBM on-ground location is consistent with the Swift/BAT-GUANO position.\n\nThe angle from the Fermi LAT boresight is 66 degrees.\n\nThe GBM light curve consists of a single short emission episode with a duration (T90)\nof about 1 s (50-300 keV). The time-averaged spectrum\nfrom T0-0.2 to T0+0.2 s is best fit by\na power law function with an exponential high-energy cutoff. The power law index is -0.63 +/- 0.2 and the cutoff energy,\nparameterized as Epeak, is 1120 +/- 420 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(5.4 +/- 0.4)E-07 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0-0.064 s in the 10-1000 keV band is 4.9 +/- 0.7 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/"
+}

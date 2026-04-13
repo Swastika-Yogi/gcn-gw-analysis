@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G270580: Identification of a GW Burst Candidate",
+  "eventId": "LIGO/Virgo G270580",
+  "bibcode": "2017GCN.20486....1L",
+  "createdOn": 1484923083000,
+  "circularId": 20486,
+  "submitter": "Gergely Dalya at Eotvos U  <dalyag@caesar.elte.hu>",
+  "email": "dalyag@caesar.elte.hu",
+  "body": "The LIGO Scientific Collaboration and Virgo report:\n\nThe online CWB Burst analysis identified a candidate with GraceDB ID\nG270580 during processing of data from LIGO Hanford Observatory (H1)\nand LIGO Livingston Observatory (L1) at 2017-01-20 12:30:59.350 UTC\n(GPS time: 1168950677.350).\n\nG270580 is an event of interest because its false alarm rate, as\ndetermined by preliminary analysis, is 1.6e-07 Hz (about one in 2.4\nmonths). The event's properties can be found at this URL:\n\nhttps://gracedb.ligo.org/events/G270580\n\nThis event candidate does *not* have a chirp signature, and thus does\nnot suggest a compact binary merger. The initial GCN Notice for this\ncandidate (ivorn=ivo://nasa.gsfc.gcn/LVC#G270580-6-Initial)\nerroneously included \"ProbHasNS\" and \"ProbHasRemnant\" values due to a\nsoftware bug; we regret any confusion that may have caused. (These\nprobabilities are only calculated for CBC event candidates.)\n\nTwo sky maps have been calculated and can be retrieved from the\nGraceDB event page. LIB_skymap.fits.gz, a rapid localization using\nLALInference (Veitch et al., PRD 91, 042003) for Burst reconstruction,\nis the preferred sky map at this time. The 50% credible region spans\nabout 600 deg2 and the 90% region about 3100 deg2. The CWB skymap has\na consistent shape but is broader.\n\nWe will provide updated information about this event candidate as it\nbecomes available."
+}

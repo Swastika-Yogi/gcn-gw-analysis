@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230726a: Updated Sky localization",
+  "eventId": "LIGO/Virgo/KAGRA S230726a",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34270....1L",
+  "createdOn": 1690392144837,
+  "circularId": 34270,
+  "submitter": "naresh.adhikari@ligo.org",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the\nKAGRA Collaboration report:\n\nWe have conducted further analysis of the LIGO Livingston Observatory\n(L1) data around the time of the compact binary merger (CBC) candidate\nS230726a (GCN Circular 34264).\nParameter estimation has been performed using Bilby [1] and a new sky\nmap, Bilby.multiorder.fits,0, distributed via GCN Notice, is available\nfor retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S230726a\n\nFor the Bilby.multiorder.fits,0 sky map, the 90% credible region is\n27774 deg2. Marginalized over the whole sky, the a posteriori\nluminosity distance estimate is 2132 +/- 714 Mpc (a posteriori mean\n+/- standard deviation).\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide\nhttps://emfollow.docs.ligo.org/userguide/.\n\n\n [1] Ashton et al. ApJS 241, 27 (2019)"
+}

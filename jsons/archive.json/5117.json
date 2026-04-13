@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060512: Swift detection of a burst with an optical afterglow",
+  "eventId": "GRB 060512",
+  "bibcode": "2006GCN..5117....1C",
+  "createdOn": 1147478245000,
+  "circularId": 5117,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (NASA/ORAU), M. M. Chester (PSU),\nN. Gehrels (NASA/GSFC), O. Godet (U Leicester),\nH. A. Krimm (GSFC/USRA), K. L. Page (U Leicester),\nD. M. Palmer (LANL) and M. Stamatikos (NASA/GSFC/ORAU) report on\nbehalf of the Swift Team:\n\nAt 23:13:20 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060512 (trigger=209755).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA,Dec 195.772, +41.212 {13h 03m 05s, +41d 12' 43\"} (J2000)\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single peak\nwith a duration of about 20 sec.  The peak count rate\nwas ~500 counts/sec (15-350 keV), at ~3 sec after the trigger. \n\nThe XRT began observing the field at 23:15:02 UT, 102 seconds after the\nBAT trigger. XRT found a bright, uncatalogued X-ray source\nlocated at RA(J2000) = 13h 03m 05.8s, Dec(J2000) = +41d 11' 30.4\", with an\nestimated uncertainty of 7.6 arcseconds (90% confidence radius). \nThis location is 73 arcseconds from the BAT on-board position, within\nthe BAT error circle. The initial flux in the 2.5s image was\n2.6e-10 erg/cm2/s (0.2-10 keV). \n\nUVOT took a finding chart exposure of 100 seconds with the White\n(160-650 nm) filter starting 112 seconds after the BAT trigger. There\nis a candidate afterglow in the rapidly available 2.7'x2.7' sub-image\nat (RA,DEC) (J2000) of (195.7742,41.1909) or\n(13h03m05.81s,+41o11'27.2\")  with a 1-sigma error radius of about 0.5\narc sec. This position is 3.2 arc sec. from the center of the XRT\nerror circle. The estimated magnitude is 16.2 with a 1-sigma error of\nabout 0.5 mag. No correction has been made for the expected extinction\ncorresponding to E(B-V) of  0.02."
+}

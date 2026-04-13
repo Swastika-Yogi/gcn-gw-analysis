@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221009A: Fermi LAT data rate effects due to extremely high flux",
+  "eventId": "GRB 221009A",
+  "bibcode": "2022GCN.32760....1O",
+  "createdOn": 1665818461000,
+  "circularId": 32760,
+  "submitter": "Elisabetta Bissaldi at INFN,Bari  <elisabetta.bissaldi@ba.infn.it>",
+  "email": "elisabetta.bissaldi@ba.infn.it",
+  "body": "N. Omodei (Stanford Univ.), P. Bruel (CNRS/IN2P3),\nJ. Bregeon (CNRS/IN2P3),  M. Pesce-Rollins (INFN Pisa),\nD. Horan (CNRS/IN2P3),  E. Bissaldi (Politecnico and INFN Bari),\nand R. Pillera (Politecnico and INFN Bari)\nreport on behalf of the Fermi-LAT team:\n\n\nWe report updated observations of GRB 221009A which was detected by\nSwift (Kennea et al. GCN #32635), Fermi-GBM (Veres et al. GCN #32636,\nLesage et al. GCN #32642), Fermi-LAT (Bissaldi et al. GCN #32637,\nPillera et al. #32658), and the IPN (Svinkin et al. GCN #32641).\n\nGRB 221009A triggered Fermi-GBM on October 9, 2022, at 13:16:59.99 UT\n(T0, trigger 687014224/221009553).\n\nDuring some time periods of the main emission episode of GRB 221009A\nas seen in GBM, the LAT gamma-ray flux was so high that\nmore than one photon was recorded at the same time,\nwhich strongly affected event reconstruction.\nWe are currently investigating the consequences of such a pile-up but,\nuntil further notice, we discourage the use of LAT data in the time\nintervals T0+225 to T0+236 seconds and T0+257 to T0+265 seconds\nwith respect to the GBM trigger time.\n\nThe photon with 99 GeV observed 240 seconds\nafter the GBM trigger is not affected by thesedata rate effects.\n\nThe Fermi-LAT point of contact for this burst is\nElisabetta Bissaldi (elisabetta.bissaldi@ba.infn.it).\n\nThe Fermi-LAT is a pair conversion telescope designed to\ncover the energy band from 20 MeV to greater than 300 GeV.\nIt is the product of an international collaboration\nbetween NASA and DOE in the U.S. and many scientific\ninstitutions across France, Italy, Japan and Sweden."
+}

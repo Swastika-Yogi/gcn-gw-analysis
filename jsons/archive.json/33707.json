@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230427A: OHP/T193 spectroscopy observations of WISEA J101316.01+481158.7",
+  "eventId": "GRB 230427A",
+  "bibcode": "2023GCN.33707....1A",
+  "createdOn": 1682696452620,
+  "circularId": 33707,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "body": "C. Adami, M. Garnichey, F. Michel (LAM), B. Schneider (MIT),\nS. Basa (LAM), S. D. Vergani (GEPI, Obs. de Paris), D. Turpin, \nD. Götz, E. Le Floc'h (CEA Paris-Saclay), report on behalf \nof a larger collaboration:\n\nWe re-observed the field of GRB 230427A (Troja et al., GCN 33687) using \nthe T193cm telescope at Observatoire de Haute-Provence (France) equipped \nwith the MISTRAL spectro-imager. This time, we targeted in spectroscopy \nthe galaxy close to the GRB line of sight: WISEA J101316.01+481158.7, at \nr'SDSS(PSF) = 19.6 (AB). Two exposures of 900s were obtained in the blue \nconfiguration (4200A-8000A) from 2023 28 April 00:25:02 UT to 2023 28 April \n00:55:59 UT. The wavelength calibration was performed using the MISTRAL \ncalibration lamp, exposed just after the science observation. Data were \nreduced using the ASPIRED package (https://github.com/cylammarco/ASPIRED) \nconfigured for MISTRAL data.\n\nIn the combined frame, we clearly detect the [NII]@6548A, Halpha, [NII]@6583A, \nand [SII]@6718A. Halpha is the dominant line of the spectrum. Based on these \nlines, we inferred a redshift of z = 0.1524 +/- 0.0005, in good agreement \nwith the SDSS photometric redshift of z = 0.13 +/- 0.03.\n\nThe GRB is at an offset of ~18 arcsec from the WISEA J101316.01+481158.7 \ncenter. At the redshift of this galaxy, the burst would have a projected \noffset of ~48 kpc and a probability of chance coincidence of ~0.16, \nwhich is not commonly observed for the long GRB population. For this reason, \nthis object is probably not the host galaxy of GRB 230427A.\n\nWe acknowledge the excellent support from Observatoire de Haute-Provence, \nin particular Jean Balcaen."
+}

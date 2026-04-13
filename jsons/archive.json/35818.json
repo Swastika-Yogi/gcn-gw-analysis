@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240218A: CMO SAI NIR upper limit",
+  "eventId": "GRB 240218A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35818....1V",
+  "createdOn": 1709035494155,
+  "submitter": "Alexei Pozanenko at IKI, Moscow <apozanen@iki.rssi.ru>",
+  "circularId": 35818,
+  "body": "A. Volnova (IKI), A. Pozanenko (IKI), B. Safonov (SAI MSU),  A. Tatarnikov (SAI MSU), N. Pankov (HSE, IKI),  S. Belkin (IKI, HSE) report on behalf of IKI-GRB-FuN: \n\nWe observed the field of GRB 240218A (Page et al., GCN 35742;  Veres et al., GCN 35755; Svinkin et al., GCN 35758) with the Astronomical Near-Infrared Camera-spectrograph (ANC) of the 2.5-meter telescope (SAI-2.5) of the Caucasian Mountain Observatory (CMO SAI) on Feb.23, 2024 starting on 22:16:46 UT, taking 47 frames of 1-minute exposure in the H-band under moderate conditions with seeing of 1.4\". We do not detect the NIR counterpart (D'Avanzo et al., GCN 35747; Saccardi et al., 35756; Schroeder et al., GCN 35794; Rossi et al., GCN 35762; de Wet et al., GCN 35765) within the enhanced XRT error box (Evans et al., GCN 35748). \nPreliminary photometry of the stacked image is following\n\nDate       UT start   t-T0     Filter  Exp.    OT     UL(3sigma)\n                      (mid, days)  (s)\n2024-02-23 22:16:46   5.86743  H       47*59   n/d    20.8   \n\nThe photometry is based on nearby 2MASS stars:\n\n2MASS_ID         RA              Dec           H      errH\n10471145+0118146 10:47:11.45808 +01:18:14.6268 15.422 0.098\n10471594+0117439 10:47:15.94200 +01:17:43.9836 14.562 0.062\n10471583+0116464 10:47:15.83136 +01:16:46.4844 14.243 0.045\n\n"
+}

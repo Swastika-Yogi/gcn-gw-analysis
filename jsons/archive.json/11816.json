@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110318B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 110318B",
+  "bibcode": "2011GCN.11816....1H",
+  "createdOn": 1300719209000,
+  "circularId": 11816,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) and\nR. Margutti (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\n      The Swift/UVOT observed the field of GRB 110318B starting 58 s\nafter the BAT trigger (Margutti, et al., 2011, GCN Circ. 11799).\nSettled observations started at 76 s.  We do not detect an optical\nafterglow at the UVOT-enhanced XRT position (Evans, et al., 2011, GCN\nCirc. 11803) in any of the UVOT filters.  Preliminary 3-sigma upper\nlimits for detecting a source in the finding charts and in the\nco-added images, are\n\nFilter      T_start   T_stop    Exp(s)      Mag\n-----------------------------------------------\nwhite (fc)       76      226       147    >21.5\n                868     1018       147    >21.5\n\n    v           619     7035       529    >20.6\n    b           545     7693       370    >21.2\n    u           289     7649       756    >21.2\n uvw1           668     7445       529    >20.8\n uvm2          5602     7239       393    >20.5\n uvw2          1024     6829       236    >20.3\nwhite            76     6623       626    >22.2\n-----------------------------------------------\n\n     The quoted magnitudes and upper limits have not been corrected\nfor the expected Galactic extinction along the line of sight\ncorresponding to a reddening of E_{B-V} = 0.46 mag (Schlegel, et al.,\n1998, ApJS, 500, 525)."
+}

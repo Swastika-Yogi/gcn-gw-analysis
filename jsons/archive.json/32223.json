@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 1110865 is probably not an astrophysical event",
+  "bibcode": "2022GCN.32223....1G",
+  "createdOn": 1655585203000,
+  "circularId": 32223,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "C. Gronwall (PSU), K. L. Page (U Leicester), D. M. Palmer (LANL) and\nA. Tohuvavohu (U Toronto) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 20:26:02 UT, the Swift Burst Alert Telescope (BAT) triggered on\na marginal-significance peak in a 1 minute survey image (trigger=1110865). \nSwift could not slew to the location due to a Sun angle constraint. \nThe BAT on-board calculated location is \nRA, Dec 103.793, -1.531 which is \n   RA(J2000) = 06h 55m 10s\n   Dec(J2000) = -01d 31' 49\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is usual for an image trigger,\nthe immediately available BAT light curve does not show any significant\nvariation. \n\nDue to a Sun observing constraint, Swift cannot slew to the BAT\nposition until 17:56 UT on 2022 August 19. There will thus be no XRT or\nUVOT data for this trigger before this time. \n\nDue to the marginal significance of the original detection\n(7.5 sigma in on-board imaging, and no significant peak found in\nground-based re-analysis), and the lack of a BAT rate increase,\nwe believe that this image peak is not due to an astrophysical\nevent.  Further analysis of full data set after downlink will\nclarify the reality of this event."
+}

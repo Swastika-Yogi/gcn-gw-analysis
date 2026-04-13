@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180904A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 180904A",
+  "bibcode": "2018GCN.23205....1S",
+  "createdOn": 1536163114000,
+  "circularId": 23205,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "M. H. Siegel (PSU) and A. D'Ai (INAF-IASFPA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180904A\n131 s after the BAT trigger (D'Ai et al., GCN Circ. 23194).\nNo optical afterglow consistent with the XRT position (Osborne et al. GCN Circ. 23196)\nis detected in the initial UVOT exposures, consistent with the non-detections\nof Malesani et al. (GCN Circ. 23195), Izzy et al. (GCN Circ 23197), \nMoskvitin et al. (GCN Circ. 23198) and Guidorzi et al. (GCN Circ. 23199).\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           131          281          147         >21.1\nu_FC               289          539          246         >20.1\nwhite              131          589          167         >21.1\nv                  620          640           19         >20.1\nb                  545          565           19         >19.4\nu                  289          539          246         >20.1\nw1                 670          690           19         >18.1\nw2                 595          615           19         >18.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

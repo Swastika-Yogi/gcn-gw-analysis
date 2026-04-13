@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170206A: POLAR observation",
+  "eventId": "GRB 170206A",
+  "bibcode": "2017GCN.20624....1W",
+  "createdOn": 1486502026000,
+  "circularId": 20624,
+  "submitter": "Yuanhao Wang at IHEP/CAS  <wangyuanhao@ihep.ac.cn>",
+  "email": "wangyuanhao@ihep.ac.cn",
+  "body": "Yuanhao Wang (IHEP), Shaolin Xiong (IHEP), Yi Zhao (IHEP)\nreport on behalf of the POLAR collaboration:\n\nAt 2017-02-06T10:51:57.70 UT (T0), during a routine on-ground \nsearch of data, POLAR detected the GRB 170206A, which was \nalso detected by Fermi/GBM\n(trigger 508071122/170206453; A. von Kienlin et al. GCN 20616), \nFermi/LAT(F. Fana Dirirsa et al. GCN 20617) and \nINTEGRAL/SPIACS(trigger_num 7680).\n\nThe POLAR light curve consists of multiple peaks,\nwith a duration (T90) of 1.194 s measured from T0+0.147 s.\nThe 0.1s peak rate measured from T0+0.4s is 16145.2 cnts/s.\nThe total counts is about 12918 cnts.\nLC_URL:\nhttp://polar.ihep.ac.cn/grb/2017/02/GRB170206A/lc/POLAR_lc_grb170206A.png\n\nThe above result is not dead time corrected. The above \nmeasurements are in the energy range of about 20-500 keV.\n\nUsing the best location from the Fermi/LAT, which is (J2000):\nRA:   212.79��[deg]\nDec:  +14.48��[deg]\nErr:  0.85����[deg] (90% containment, statistical error only)\n\nthe incident angle in POLAR coordinate at T0 is:\ntheta: 19.5   [deg]\nphi:   148.70 [deg]\n\nThe Minimum Detectable Polarization(MDP) for this burst is\nestimated to be ~5.7% [1-sigma, statistical only]. \nFollow-up observations are strongly encouraged.\n\nAll analysis results presented above are preliminary.\n\nPOLAR is a dedicated Gamma-Ray Burst polarimeter (50-500 keV)\non-board the Chinese space laboratory Tiangong-2 launched on\nSep 15,2016. More information about POLAR can be found at \nhttp://polar.ihep.ac.cn/en/ , http://isdc.unige.ch/polar/\nand http://polar.psi.ch/pub/ ."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 241117A",
+  "eventId": "GRB 241117A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38304....1P",
+  "createdOn": 1732462997209,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 38304,
+  "format": "text/plain",
+  "body": "V. Panteleeva, D. Frederiks, A. Lysenko, A. Ridnaia,\nD. Svinkin, A. Tsvetkova, M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration (or possible short GRB with extended emission;\nFermi-GBM detection: The Fermi GBM Team, GCN 38258;\nScotton and Meegan, GCN 38265;\nSVOM-GRM observation: Wang et al., GCN 38266;\nSwift-BAT/GUANO detection: Ronchini et al., GCN 38273;\nIPN triangulation: Kozyrev et al., GCN 38300)\ntriggered Konus-Wind at T0=10845.029 s UT (03:00:45.029).\n\nThe burst light curve shows the initial short-duration,\nbright multipeaked emission episode which starts at ~T0-0.2 s\nand has a total duration of ~1.8 s, followed by a weaker\nemission traced up to ~77 s.\nThe emission is seen up to ~5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241117_T10845/\n\nAs observed by Konus-Wind, the burst initial pulse\nhad a fluence of 1.24(-0.16,+0.34)x10^-5 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.132 s,\nof 1.72(-0.53,+0.67)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the initial episode\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 16 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.39(-0.27,+0.40),\nthe high energy photon index beta = -3.54(-6.46,+1.20),\nthe peak energy Ep = 733(-178,+204) keV\n(chi2 = 50/79 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

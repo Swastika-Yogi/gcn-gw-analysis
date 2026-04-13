@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150202A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 150202A",
+  "bibcode": "2015GCN.17392....1C",
+  "createdOn": 1422990879000,
+  "circularId": 17392,
+  "submitter": "Margaret Chester at PSU  <chester@swift.psu.edu>",
+  "email": "chester@swift.psu.edu",
+  "body": "M. M. Chester (PSU) and H. A. Krimm (CRESST/GSFC/USRA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150202A\n93 s after the BAT trigger (Krimm et al., GCN Circ. 17376).\nNo optical afterglow consistent with the XRT position (Beardmore et al. \nGCN Circ. 17382) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            93          243          147         >20.6\nu_FC               305          555          246         >20.2\nwhite               93         6568          624         >21.5\nv                  634         6980          530         >20.4\nb                  560         7617          350         >21.3\nu                  305         7594          756         >20.7\nw1                 683         7390          510         >20.9\nm2                 658         7185          452         >21.7\nw2                 610         6774          490         >20.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

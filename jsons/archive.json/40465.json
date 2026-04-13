@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250512B / EP250512a: SVOM/GRM analysis",
+  "eventId": "GRB 250512B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40465....1S",
+  "createdOn": 1747402485930,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 40465,
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Nicolas Dagoneau, Stéphane Schanne (CEA)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered in-flight by the burst GRB 250512B (SVOM trigger reference: sb sb25051203) at 2025-05-12T11:20:08 UTC (T0), which is also detected by SVOM/ECLAIRs (Pierre Maggi et al., GCN #40439) , Einstein Probe (Zhao et al. GCN 40437) and Konus-Wind (D. Svinkin et al., GCN #40460).\n\nWith the event-by-event data downloaded through the X-band ground station, we conducted the standard analysis pipeline of GRB 250512B. The GRM light curve shows that this burst consists of multi-episodes with a T90 of 179 +19/-7 s in the 15-5000 keV band. \n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250512B.png\n\nWith the localization of ECLAIRs (RA=215.22, DEC=-10.1086), the time-averaged spectrum from T0-3 to T0+50 s (the main episode before the slew) is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -0.23 +0.42/-0.44 and the cutoff energy, parameterized as Epeak, is 70 +9/-6 keV. The event fluence (10-1000 keV) in this time interval is (3.1 +0.3/-0.2)E-06 erg/cm^2.\n\nWe note that the calibration of SVOM/GRM is undergoing thus these results are preliminary. Refined analysis will be reported later.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n"
+}

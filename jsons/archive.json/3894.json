@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050827: Swift-BAT refined analysis",
+  "eventId": "GRB 050827",
+  "bibcode": "2005GCN..3894....1S",
+  "createdOn": 1125185947000,
+  "circularId": 3894,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/NRC), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hinshaw (GSFC-SPSYS), D. Hullinger (UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), K. McLean (LANL), D. Palmer (LANL),\nA. Parsons (GSFC),  G. Sato (ISAS),  J. Tueller (GSFC),\non behalf of the Swift-BAT team:\n\nUsing the full data set from T-300 to T+300 sec from the recent telemetry\ndownlink, we report further analysis of Swift-BAT GRB 050827\n(trigger #152325) (Capalbi, et al., GCN 3893).  The refined BAT ground\nposition is (RA,Dec) = 64.297,+18.217 {04h 17m 11s, +18d 13' 01\"}\n[deg; J2000] +-1.3 arcmin, (90% containment).  The partial coding was 61%.\n\nThe mask-weighted light curve shows two peaks, with the first peak\nsignificantly larger than the second.  The first peak is triangular in\nshape beginning at T-15 sec, rising to a maximum at T+0 and returning\nto background at T+9 sec.  This peak shows a hint of spectral hardening\nas it progresses.  There is a smaller second peak of duration ~3 sec,\nbeginning at T+25 sec and a hint of a ~4-sec peak at T+31 sec.\nT90 (15-350 keV) is (49 +- 2) seconds (estimated error including\nsystematics).\n\nThe power law index of the time-averaged spectrum is 1.37 +- 0.10.\nThe fluence in the 15-150 keV band is  (2.11 +- 0.12) x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+2.5 sec in the 15-150 keV\nband is (1.78 +- 0.19) ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level.\n\n[GCN OPS NOTE(28aug05):  The \"05027: in the subject-line was changed to \"050827\".]"
+}

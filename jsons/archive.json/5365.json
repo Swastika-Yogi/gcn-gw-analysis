@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060729: Swift detection of a burst with an UVOT optical counterpart",
+  "eventId": "GRB 060729",
+  "bibcode": "2006GCN..5365....1G",
+  "createdOn": 1154202836000,
+  "circularId": 5365,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "D. Grupe (PSU), L. M. Barbier (NASA/GSFC), S. D. Barthelmy (GSFC),\nD. N. Burrows (PSU), M. M. Chester (PSU),\nC. Guidorzi (Univ Bicocca&INAF-OAB), J. A. Kennea (PSU),\nC. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL), J. L. Racusin (PSU)\nand M. Stamatikos (NASA/ORAU) report on behalf of the Swift Team:\n\nAt 19:12:29 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060729 (trigger=221755).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is RA,Dec 95.338, -62.345\n{06h 21m 21s, -62d 20' 41\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% containment, including systematic uncertainty). \nThe BAT light curve shows a small peak at T_zero of ~5 sec duration\nand a possible much larger peak starting at ~T+70 until ~T+120. \nThe peak count rate was ~2000 counts/sec (15-350 keV),\nat ~T+90 sec after the trigger. \n\nThe XRT began observing the field at 19:14:33 UT, 124 seconds after the\nBAT trigger. XRT found a bright, fading, uncatalogued X-ray source\nlocated at RA(J2000) = 06h 21m 31.3s, Dec(J2000) = -62d 22' 13.4\", with an\nestimated uncertainty of 4.7 arcseconds (90% confidence radius). \nThis location is 116 arcseconds from the BAT on-board position, within\nthe BAT error circle. The initial flux in the 0.1s image was\n7.7e-08 erg/cm2/s (0.2-10 keV). \n\nUVOT began observing in the White filter at 19:14:43.95 UT, 134.7 sec\nafter the BAT trigger. An uncataloged source is detected at RA, DEC =\n95.3827, -62.3702, 3.2 arcsecs from ground-determined XRT position,\nwhich brightens from 19.2 to 17.8 in the second White image. The\nmagnitudes have not been corrected for galactic absorption in this\ndirection, E(B-V) = 0.054. \n\nWe are currently in the Malindi gap so we will not have the full data set\nfor this burst for another 7 hours."
+}

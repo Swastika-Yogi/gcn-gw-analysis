@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240411A",
+  "eventId": "GRB 240411A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36090....1S",
+  "createdOn": 1713103248385,
+  "circularId": 36090,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "body": "D. Svinkin, D. Frederiks,  A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 240411A\n(Fermi-GBM detection: The Fermi GBM team, GCN 36061;\nGRBAlpha detection: Pal et al., GCN 36068)\nwas detected by Fermi (GBM trigger 734492703),\nINTEGRAL (SPI-ACS), Swift (BAT), Konus-Wind, and GRBAlpha\nat about 6298 s UT (01:44:58).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  246.889 (16h 27m 33s) +45.010 (+45d 00' 36\")\n Corners:\n  251.205 (16h 44m 49s) +41.318 (+41d 19' 05\")\n  251.479 (16h 45m 55s) +41.818 (+41d 49' 03\")\n  241.660 (16h 06m 38s) +48.434 (+48d 26' 03\")\n  241.553 (16h 06m 13s) +47.881 (+47d 52' 53\")\n ---------------------------------------------\nThe error box area is 4.6 sq. deg, and its maximum\ndimension is 9.8 deg (the minimum one is 29 arcmin).\nThe Sun distance was 111 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240411_T06302/IPN/\n\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular.\n\n"
+}

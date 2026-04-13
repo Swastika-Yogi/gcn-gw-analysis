@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319B: UVOT Observations",
+  "eventId": "GRB 080319B",
+  "bibcode": "2008GCN..7496....1H",
+  "createdOn": 1206099279000,
+  "circularId": 7496,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) & J. L. Racusin (PSU) report on\nbehalf of the Swift/UVOT team:\n\n      The Swift/UVOT observed the field of GRB 080319B starting 51 s\nafter the BAT trigger (Racusin et al., GCN Circ. 7427).  We detect the\noptical afterglow all filters.  Preliminary magnitudes are reported\nbelow.\n\nFilter    T_start (s) T_stop  Exposure      Mag  Err  Comment\n    v          175        575      393    <11.5        Saturated\n    b          654        664       10     13.39 0.01\n    u          630        649       19     12.44 0.01\n   uvw1        605        625       19     12.49 0.02\n   uvm2        581        600       19     13.39 0.05\n   uvw2        685        705       19     13.36 0.04\n  white         67        169       98    <13.9        Saturated\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0 .01 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT flight system\ndescribed in Poole et al. (2008, MNRAS, 383,627)."
+}

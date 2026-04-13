@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090621B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090621B",
+  "bibcode": "2009GCN..9552....1C",
+  "createdOn": 1245678339000,
+  "circularId": 9552,
+  "submitter": "Peter Curran at MSSL  <pac@mssl.ucl.ac.uk>",
+  "email": "pac@mssl.ucl.ac.uk",
+  "body": "P.A. Curran (MSSL-UCL) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 090621B\n76s after the BAT trigger (Curran et al., GCN 9545). No optical\nafterglow consistent with the refined XRT position (Beardmore et al.,\nGCN 9550) or the optical source observed by Levan et al. (GCN  9547) is\ndetected in the UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first exposures are:\n\nFilter\tT_start(s) T_stop(s)  Exp(s)  Mag\nwh      76         18173      1221    >22.29\nv       618        10774      1142    >20.67\nb       544        23952      1986    >21.88\nu       289        29731      2675    >21.77\nuw1     668        29017      2882    >21.63\num2     643        28110      2006    >21.32\nuw2     594        6589       432     >20.50\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.44 in the direction of the burst\n(Schlegel et al. 1998)."
+}

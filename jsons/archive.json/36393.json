@@ -1,0 +1,13 @@
+{
+  "subject": "IPN triangulation of GRB 240501B and GRB 240501A - possible episodes of ultra long GRB",
+  "editedOn": 1714877977579,
+  "version": 2,
+  "eventId": "GRB 240501B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36393....1K",
+  "createdOn": 1714867790165,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 36393,
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nG. Waratkar (IITB), J.Joshi (IUCAA), A. Vibhute (IUCAA),\nV. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA),\nA. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL)\non behalf of the Astrosat-CZTI team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 240501B\n(AstroSat CZTI detection: Waratkar et al., GCN 36360;\nGRBAlpha detection: Dafcikova et al., GCN 36374)\nwas detected by INTEGRAL (SPI-ACS), Konus-Wind,\nAstroSat (CZTI), GRBAlpha, and Mars-Odyssey (HEND)\nat about 38616 s UT (10:43:36).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  265.232 (17h 40m 56s) +27.954 (+27d 57' 15\")\n Corners:\n  265.021 (17h 40m 05s) +32.390 (+32d 23' 24\")\n  265.108 (17h 40m 26s) +32.347 (+32d 20' 48\")\n  265.394 (17h 41m 34s) +23.414 (+23d 24' 51\")\n  265.314 (17h 41m 15s) +23.466 (+23d 27' 56\")\n ---------------------------------------------\nThe error box area is 2315 sq. arcmin, and its maximum\ndimension is 9.0 deg (the minimum one is 4 arcmin).\nThe Sun distance was 115 deg.\n\nThis localization is consistent with the \nGBM-HEND annulus (180.767 1.045 84.864 0.509)\nand the Fermi-GBM final localization (The Fermi GBM Team, GCN 36359)\nreported for the GRB 240501A (occurred ~660 s after GRB 240501B),\nindicating that GRB 240501B and GRB 240501A are likely distinct \nemission episodes of the same ultra-long GRB.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240501_T38616/IPN/\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

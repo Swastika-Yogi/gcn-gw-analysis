@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190828l: Upper limits from Insight-HXMT/HE observations",
+  "eventId": "LIGO/Virgo S190828l",
+  "bibcode": "2019GCN.25547....1Y",
+  "createdOn": 1567087314000,
+  "circularId": 25547,
+  "submitter": "Qi Luo at IHEP  <luoqi@ihep.ac.cn>",
+  "email": "luoqi@ihep.ac.cn",
+  "body": "J. M. Yao, Y. G. Zheng, C. Cai, Q. Luo, S. Xiao, Q. B. Yi, \nY. Huang, C. K. Li, G. Li, X. B. Li, J. Y. Liao, S. L. Xiong,\nC. Z. Liu, X. F. Li, Z. W. Li, Z. Chang, A. M. Zhang, \nY. F. Zhang, X. F. Lu, C. L. Zou (IHEP), Y. J. Jin, \nZ. Zhang (THU), T. P. Li (IHEP/THU), F. J. Lu, L. M. Song, \nM. Wu, Y. P. Xu, S. N. Zhang (IHEP), \nreport on behalf of the Insight-HXMT team:\n\nInsight-HXMT was taking data normally around the reported LIGO/Virgo \nS190828l event (GCN #25503), trigger time 2019-08-28T06:55:09.887 UTC. \nAt T0, about 77% of the LIGO localization region was covered by the \nInsight-HXMT without occultationby the Earth.\n\nWithin T0 +/- 100 s, no significant excess events (SNR > 3 sigma) are \nfound in a search of the Insight-HXMT/HE raw light curves.\n\nAssuming the GW counterpart GRB with three typical GRB Band spectral \nmodels, two typical duration timescales (1 s, 10 s) from the center \nof the LIGO-Virgo location probability map (RA=145 deg, DEC=-50 deg), \nthe 5-sigma upper-limits fluence (0.2 - 5 MeV, incident energy) are \nreported below:\n\nBand model 1 (alpha=-1.9, beta=-3.7, Ep=70 keV):\n1 s:   2.5e-07 erg cm^-2\n10 s:  1.1e-06 erg cm^-2\n\nBand model 2 (alpha=-1.0, beta=-2.3, Ep=230 keV):\n1 s:   4.0e-07 erg cm^-2\n10 s:  1.8e-06 erg cm^-2\n\nBand model 3 (alpha=-0.0, beta=-1.5, Ep=1000 keV):\n1 s:   8.8e-07 erg cm^-2\n10 s:  2.8e-06 erg cm^-2\n\nAll measurements above are made with the CsI detectors operating in the\nregular mode with the energy range of about 80-800 keV (deposited energy).\nOnly gamma-rays with energy greater than about 200 keV can penetrate\nthe spacecraft and leave signals in the CsI detectors installed inside\nof the spacecraft."
+}

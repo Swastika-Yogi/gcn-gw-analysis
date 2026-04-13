@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170607A: Swift-BAT refined analysis",
+  "eventId": "GRB 170607A",
+  "bibcode": "2017GCN.21230....1U",
+  "createdOn": 1496978115000,
+  "circularId": 21230,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "T. N. Ukwatta (LANL), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), A. D'Ai (INAF-IASFPA),\nH. A. Krimm (NSF/USRA), A. Y. Lien (GSFC/UMBC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (AGU), M. Stamatikos (OSU),\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 170607A (trigger #756284)\n(D'Ai et al., GCN Circ. 21214).  The BAT ground-calculated position is\nRA, Dec = 7.358, 9.225 deg which is\n  RA(J2000)  =  00h 29m 26.0s\n  Dec(J2000) = +09d 13' 30.8\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 57%.\n\nThe mask-weighted light curve show two prominent pulses. The first pulse\nstarts before it came into the BAT FOV at T0-217.9 s during a preplanned\nspacecraft slew. It peaks at ~T0-210 s and ends at ~T0-190 s. The second\npulse starts at ~T0-10 s, peaks at T0, and ends at ~T0+40 s, with a tail\nlasting till ~T0+140 s.\n\nThe time-averaged spectrum from T0-207.896 to T0+144.104 s is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.61 +- 0.07.  The fluence in the 15-150 keV band is 7.5 +- 0.3 x 10^-6 erg/cm2.\nAll the quoted errors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/756284/BA/"
+}

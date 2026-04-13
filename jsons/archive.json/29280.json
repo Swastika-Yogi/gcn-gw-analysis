@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to GCN 29278: GRB 201216C XRT refined analysis",
+  "eventId": "GRB 201216C",
+  "bibcode": "2021GCN.29280....1E",
+  "createdOn": 1610107170000,
+  "circularId": 29280,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans (U. Leicester) reports on behalf of the Swift-XRT team:\n\nThe XRT refined analysis of GRB 201216C contained in GCN Circ. 29278\nwas incorrect, some of the data had been excluded from the analysis.\nThe corrected analysis is below.\n\nWe apologise for the confusion.\n\n\nWe have analysed 5.2 ks of XRT data for GRB 201216C (Beardmore et al.\nGCN Circ. 29061), from 3.0 ks to 1938.0 ks after the  BAT trigger. The\ndata comprise 466 s in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The enhanced XRT position for this burst was\ngiven by Osborne et al. (GCN Circ. 29067).\n\nThe light curve can be modelled with an initial power-law decay with an\nindex of alpha=2.09 (+0.16, -0.10), followed by a break at T+9078 s to\nan alpha of 1.07 (+0.15, -0.10).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index  of 2.35 (+0.17, -0.16). The\nbest-fitting absorption column is  7.7 (+1.2, -1.1) x 10^21 cm^-2, in\nexcess of the Galactic value of 5.0 x 10^20 cm^-2 (Willingale et al.\n2013). The PC mode spectrum has a photon index of 2.03 (+0.16, -0.15)\nand a best-fitting absorption column of 5.6 (+1.0, -0.9) x 10^21 cm^-2.\nThe counts to observed (unabsorbed) 0.3-10 keV flux conversion factor\ndeduced from this spectrum  is 4.2 x 10^-11 (8.0 x 10^-11) erg cm^-2\ncount^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:        5.6 (+1.0, -0.9) x 10^21 cm^-2\nGalactic foreground: 5.0 x 10^20 cm^-2\nExcess significance: 9.3 sigma\nPhoton index:        2.03 (+0.16, -0.15)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/01013243."
+}

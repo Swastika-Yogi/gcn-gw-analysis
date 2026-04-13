@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181110A: MITSuME Akeno optical observation",
+  "eventId": "GRB 181110A",
+  "bibcode": "2018GCN.23415....1M",
+  "createdOn": 1541851882000,
+  "circularId": 23415,
+  "submitter": "Katsuhiro L. Murata at Nagoya U  <murata@u.phys.nagoya-u.ac.jp>",
+  "email": "murata@u.phys.nagoya-u.ac.jp",
+  "body": "K. L. Murata, R. Itoh, Y. Tachibana, S. Harita, K. Morita,\nK. Shiraishi, K. Iida, M. Oeda, M. Niwano, R. Adachi, Y. Yatsu, and N.\nKawai (Tokyo Tech) report on behalf of the MITSuME collaboration\n\nWe searched for the optical counterpart of GRB 181110A (Evans  et al., GCN\nCircular #23413) with the optical three color (g', Rc, and Ic) CCD cameras\nattached to the MITSuME 50 cm telescope of AkenoObservatory, Yamanashi,\nJapan.\n\nThe observation for the position of the 1st GCN of this trigger (trigger\n#871316) started on 08:44:56 UT which corresponds to 85 sec after the\ntrigger.\n\nHere we report the result of the images after 08:55:15 UT.\nWe detected the point source at the position consistent with the Swift/UVOT\nobservation (Evans  et al., GCN Circular #23413) and the Kanata observation\n(Yamanaka et al., GCN Circular # 23414).\nThe measured magnitudes are listed as follows.\n\nT0+[min]    MID-UT      T-EXP[sec]        g'       Rc        Ic\n-------------------------------------------------------------------------------------------------------\n~12      09:00:58.3           420               ~14      ~14        ~14\n-------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used GSC2.3 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\n\nFurther analysis is ongoing."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060804: Swift detection of a burst with a possible UVOT counterpart",
+  "eventId": "GRB 060804",
+  "bibcode": "2006GCN..5394....1Z",
+  "createdOn": 1154679013000,
+  "circularId": 5394,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "H. Z. Ziaeepour (UCL-MSSL), S. D. Barthelmy (GSFC),\nD. N. Burrows (PSU), J. R. Cummings (NASA/UMD),\nN. Gehrels (NASA/GSFC), C. Guidorzi (Univ Bicocca&INAF-OAB),\nJ. A. Kennea (PSU), C. B. Markwardt (GSFC/UMD),\nM. J. Page (UCL-MSSL), K. L. Page (U Leicester), D. M. Palmer (LANL),\nG. Sato (GSFC/ISAS), M. Stamatikos (NASA/ORAU) and\nG. Tagliaferri (INAF-OAB) report on behalf of the Swift Team:\n\nAt 07:28:19 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060804 (trigger=222546).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is RA,Dec 112.201, -27.231 \n{07h 28m 48s, -27d 13' 52\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% containment, including systematic uncertainty). \nThe BAT light curve shows a single peak with a duration of about 10 sec. \nThe peak count rate was ~600 counts/sec (15-350 keV), at ~5 sec\nafter the trigger. \n\nThe XRT began taking data at 07:30:21 UT, 121 seconds after the BAT\ntrigger. Although the XRT on-board centroid algorithm did not find a\nsource in the image, ground analysis revealed an uncatalogued point\nsource at a position of RA(J2000) = 07h 28m 49.40s, Dec(J2000) = -27d\n12' 58.9\", with an estimated error of 3.9 arcsec radius (90%\ncontainment). \n\nUVOT took a finding chart exposure of 100 seconds with the White\n(160-650 nm) filter starting 128 seconds after the BAT trigger. A\npossible afterglow candidate is seen in the 2.7'x2.7' sub-image\nwith an estimated magnitude of V=17 at position RA(J2000) =\n07h 28m 49.36s Dec(J2000) = -27d 12' 56.7\" with an estimated error of 1\". \n\nThe Be star SPH 10 is in the BAT error circle.  However, it is \ninconsistent with the XRT and UVOT source location (2 arcminutes) \nand is therefore unlikely to be associated with the burst."
+}

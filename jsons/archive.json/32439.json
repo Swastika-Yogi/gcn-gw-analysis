@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220730A (short)",
+  "eventId": "GRB 220730A",
+  "bibcode": "2022GCN.32439....1F",
+  "createdOn": 1659458925000,
+  "circularId": 32439,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 220730A (Swift detection: Dichiara et al., GCN Circ 32431;\nSwift-BAT refined analysis: Markwardt et al., GCN Circ 32438;\nFermi GBM detection:  Poolakkil & Meegan, GCN Circ 32437)\ntriggered Konus-Wind (KW) at T0=56937.381 s UT (15:48:57.381).\n\nThe burst light curve shows a single emission pulse\nwhich starts at ~T0-0.032 s and has a duration of ~0.1 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220730_T56937/\n\nAs observed by Konus-Wind, the burst had\na total fluence of (1.20 �� 0.38)x10^-6 erg/cm^2 and\na 16-ms peak energy flux, measured from T0,\nof (1.62 �� 0.51)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst (measured from T0 to T0+0.064 s)\nis best fit in the 20 keV - 15 MeV range by a power law with exponential\ncutoff (CPL) model: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.14(-0.34,+0.40) and Ep = 369(-59,+92) keV (pgstat = 50/54 dof).\nA Band function fits the spectrum equally well with alpha = -0.08 (-0.36,+0.42),\nbeta = -2.61(-1.33, + 0.45), and Ep = 347 (-54, +86) keV (pgstat = 48/53 dof).\n\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

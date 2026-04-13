@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100526A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100526A",
+  "bibcode": "2010GCN.10807....1P",
+  "createdOn": 1274984629000,
+  "circularId": 10807,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and Vetere (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100526A\n151 s after the BAT trigger (Vetere et al., GCN Circ. 10797).\nNo optical afterglow consistent with the enhanced XRT position\n(A. P. Beardmore et al.,GCN Circ. 10800) is detected in the initial\nUVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n--------------------------------------------------------------\nwhite (FC)         151          301          147         >21.1\nu (FC)             310          559          246         >20.1\nwhite              151         7321          783         >22.4\nv                  640         6296          313         >20.3\nb                  565         7116          491         >21.5\nu                  310         6911          717         >21.3\nw1                 690         6706          471         >20.9\nm2                4865         6501          393         >20.6\nw2                 791         7374          263         >20.6\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)"
+}

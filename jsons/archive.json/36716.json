@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 240619C",
+  "eventId": "GRB 240619C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36716....1B",
+  "createdOn": 1718918184837,
+  "submitter": "sumanbala2210@gmail.com",
+  "circularId": 36716,
+  "format": "text/plain",
+  "body": "S. Bala (USRA) reports on behalf of the Fermi-GBM Team:\n\nAstroSat CZTI detected GRB 240619C at 2024-06-19 23:44:51.50 UTC (GCN 36711).\nThere was a Fermi-GBM onboard accidental trigger around 420s before GRB 240619C.\nDue to the Fermi-GBM trigger latency, we were unable to trigger immediately on the GRB.\n\nThe GRB 240619C can be partially seen in the trigger data (trigger 740533060 / 240619984).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 340.68, Dec = -71.85 (J2000 degrees, equivalent to\nJ2000 22h 43m, -71d 51'), with a statistical uncertainty of 1.15 degrees.\n\nThe angle from the Fermi LAT boresight is 56 degrees.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals, was used to identify GRB-like emission episodes at around the AstroSAT GCN time. We find multiple emission peaks, each with a localization consistent with the on-ground localization from the Trigdat data. The brightest peak (at Fermi MET 740533496.5 s) was\nfound to be the most significant (S/N of 15) on the 2.048 s timescale, with a false alarm rate of 5.4e-06 Hz, using the standard search protocol. The GBM targeted search found this\nbrightest peak to have a \"hard\" GRB spectrum (Cut-off Power Law function with Epeak=1500 keV, alpha = -1.5 )\n\n\n[1] Goldstein et al. 2019 arXiv:1903.12597\n"
+}

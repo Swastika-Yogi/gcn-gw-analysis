@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250812A: SVOM detection of a faint long burst",
+  "eventId": "GRB 250812A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41322....1X",
+  "createdOn": 1754970799322,
+  "circularId": 41322,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "L. P. Xin(NAOC), Z.M. Wang(BNU), W.J. Xie(NAOC), H. Goto(Kanazawa univ.) report on behalf of the SVOM mission team:\n\nAt 2025-08-12T02:46:03 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 250812A (SVOM burst-id sb25081201).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Image Trigger (IMT), which produced a sequence of 2 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 7.38 in the [8-120] keV energy band over a time window of 40.96 seconds starting at 2025-08-12T02:45:22.\n\nThe localization of the best alert is R.A., Dec. 32.6058, -43.0702 degrees:\nR.A. (J2000) = 2h10m25.40s\nDec. (J2000) = -43d04m12.86s\nwith a 90% confidence level (C.L.) radius of 10.62 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nDue to the detection significance being below the slew threshold, no immediate slew was performed on this burst. No X-ray observation could be performed by SVOM/MXT for the time being. No optical observation could be performed by SVOM/VT for the time being.\n\nFollow-ups with MXT and VT would be scheduled.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is xlp AT nao.cas.cn.\nPlease contact the BA by email if you require additional information.\n"
+}

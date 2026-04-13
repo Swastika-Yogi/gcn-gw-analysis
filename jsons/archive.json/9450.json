@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090530: Swift/UVOT afterglow detection",
+  "eventId": "GRB 090530",
+  "bibcode": "2009GCN..9450....1S",
+  "createdOn": 1243703319000,
+  "circularId": 9450,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and J. K. Cannizzo (NASA/UMBC) report on behalf of \nthe Swift UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 090530 158s \nafter the BAT trigger (Cannizzo et al., GCN Circ. 9438) and a decaying \nsource is detected in all UVOT filters within the XRT error circle \n(Beardmore et al., GCN Circ. 9445), putting an upper limit on the redshift \nof z < 1.7. The source initially rises, and at around 100s after the BAT \ntrigger decays at a constant rate of 0.73+/-0.03 for the duration of \nintial UVOT observations, out to ~20ks after the BAT trigger.  The best \nUVOT position determined from a co-added white band exposure is\n\nRA (J2000)  11:57:40.50   =  179.41873 (deg)\nDec (J2000) +26:35:38.4   =  +26.59400 (deg)\n\nwith an estimated uncertainty of 0.5 arcsec (radius, 90% confidence, \nstatistical + systematic), consistent with the ROTSE-IIIb afterglow \nposition (Flewelling et al., GCN Circ. 9439).\n\nThe magnitudes for the observations currently available are as follows:\n\nFilter   T_start(s)  T_stop(s)  Exp(s)       Mag\nwhite       83         233       147    17.43 +/- 0.03\nv           624        644       19     17.69 +/- 0.29\nb           550        570       19     18.60 +/- 0.27\nu           295        545       246    17.46 +/- 0.05\nuvw1        5735       5935      197    20.15 +/- 0.37\nuvm2        5530       11687     1082   20.31 +/- 0.22\nuvw2        5121       17468     1279   21.31 +/- 0.32\n\nThe values quoted above are not corrected for the Galactic extinction due \nto the reddening of E(B-V) = 0.02 in the direction of the burst (Schlegel \net al. 1998). The photometry is on the UVOT photometric system described \nin Poole et al. (2008, MNRAS, 383, 627)."
+}

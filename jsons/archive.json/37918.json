@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241026A: GROWTH-India Telescope optical observations",
+  "eventId": "GRB 241026A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37918....1M",
+  "createdOn": 1730078453326,
+  "circularId": 37918,
+  "submitter": "Varun Bhalerao at IIT Bombay <varunb@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, R. Kumar, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of GRB 241026A (Fermi GBM Team, GCN 37894; Melandri et al., GCN 37896, Evans et al., GCN 37897) with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2024-10-27 15:02:21 UT, i.e., 16.3 hours after the Fermi GBM trigger. We obtained multiple exposures of 360 seconds in the r' and i' filters. We detected the afterglow in our images at the positions given by Swift XRT (GCN 37904) and COLIBRI (GCN 37900)\nIn our stacked images, we detected the optical afterglow in the r' filter at the enhanced Swift-XRT position (GCN 37904). The photometry results follow as:\n\n----------------------------------------------------------------\n| MJD (mid)     | Filter | Total Exposure (s) | Magnitude (AB) |\n| ------------- | ------ | ------------------ | -------------- |\n| 60610.6474653 | r'     | 10x360             | 20.8 +/- 0.06  |\n| 60610.7360417 | i'     | 7x360              | 20.5 +/- 0.06  |\n----------------------------------------------------------------\nAbove optical afterglow is also observed by Moskvitin et al., (GCN 37899), Watson et al., (GCN 37900), Zheng et al., (GCN 37903), Shrestha et al., (GCN 37913), and a spectroscopic redshift has been identified by Moskvitin et al., (GCN 37916)\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

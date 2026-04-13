@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070508: Swift/UVOT Observations",
+  "eventId": "GRB 070508",
+  "bibcode": "2007GCN..6392....1M",
+  "createdOn": 1178663056000,
+  "circularId": 6392,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and D. Grupe (PSU) report on behalf of the \nSwift/UVOT team:\n\nUVOT began observing GRB 070508 68s after the BAT trigger \n(Grupe et al., GCN Circ. 6383). A fading afterglow is  \ndetected in the White and V filters, while no afterglow is seen\nin the B, U, or UV  filters. We use the first white exposure \nto obtain an improved position of\n\nRA(J2000) = 20h 51m 11.68s  Dec(J2000) = -78d 23' 05.0\"\n\nwith a 90% confidence statistical uncertainty in each axis of 0.5\".\nThere is also a 1-sigma systematic uncertainty in the UVOT\naspect solution of about 0.3\". This revised position is 0.6\" from \nthe initial UVOT position reported by Grupe et al. and 2.3\" from the \nposition for the I-band object reported by Berger and Burgasser \n(GCN Circ. 6386).\n\nThoene et al. (GCN Circ. 6389) have suggested a redshift of\ngreater than 3.5 based on their detections in the I and R bands\nand lack of detection in V band. The UVOT detection in the V filter \nindicates a redshift of less than 5.\n\nPhotometry results with statistical errors are given below\nfor the 7 UVOT filters. The start and stop times (in seconds)\nare referenced to the trigger time, and the total exposure\ntime (Exp.) is given in seconds.\n\n           T_start  T_stop    Exp.          Mag\n\nWhite         86      185      98         19.8+/-0.12 (1-sigma)\nV            192      571     393         19.7+/-0.22 (1-sigma)\nB            669     1946      86        >19.6 (90% confidence)\nU            644     1933     117        >18.4 (90% confidence)\nUVW1         620     7389     283        >18.2 (90% confidence)\nUWM2        1705     7215     236        >17.8 (90% confidence)\nUVW2         698     6806     294        >18.6 (90% confidence)\n\nNo correction has been made for the expected Galactic reddening of \nE(B-V)=0.14"
+}

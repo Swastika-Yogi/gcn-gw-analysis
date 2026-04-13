@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090518: Skynet/PROMPT Observations",
+  "eventId": "GRB 090518",
+  "bibcode": "2009GCN.10002....1H",
+  "createdOn": 1255058349000,
+  "circularId": 10002,
+  "submitter": "Josh Haislip at U.North Carolina  <haislip@physics.unc.edu>",
+  "email": "haislip@physics.unc.edu",
+  "body": "J. Haislip, D. Reichart, K. Ivarsen, A. LaCluyze, A. Foster, J. Moore, A. \nOza, M. Schubel, J. Styblova, A. Trotter, J. A. Crain, and M. Nysewander \nreport:\n\nSkynet observed the Swift/BAT localization of GRB 090518 (Evans et al., GCN \n9386) with four of the 16\" PROMPT telescopes at CTIO beginning 3.3 minutes \nafter the trigger in UVRI.\n\nWe do not detect the afterglow (Evans et al., GCN 9386) within the enhanced \nSwift/XRT localization (Evans et al., GCN 9387).  Stacking only images that \nincrease the limiting magnitude yields:\n\nmean                                                  1-sig.  1-sig.\ntime                             3-sig.               sys.    stat.\nsince                            lim.    cal.         cal.    cal.\ntrig.  tel.      exp.      fil.  mag.    stars        unc.    unc.\n(m)              (# x s)                              (mag)   (mag)\n\n5.2    PROMPT-4  4 x 40    I    18.2     229 USNO B1  0.372   0.001\n                  + 1 x 10\n5.8    PROMPT-5  2 x 40    V    18.3     72 NOMAD     0.146   0.001\n6.4    PROMPT-2  1 x 80    R    19.3     217 USNO B1  0.305   0.001\n                  + 2 x 40"
+}

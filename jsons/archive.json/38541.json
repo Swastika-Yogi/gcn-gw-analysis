@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 241212A: SVOM detection of a bright long burst",
+  "editedOn": 1734016758397,
+  "eventId": "GRB 241212A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38541....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 38541,
+  "createdOn": 1734000013076,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Zhang Li (IHEP), Wenjin Xie (NAOC), Nicolas Dagoneau, Stéphane Schanne (CEA), Maria-Grazia Bernardini (INAF, LUPM), Clara Plasse (CEA), Shaolin Xiong (IHEP) report:\n\nAt 2024-12-12T09:21:49 (Tb) SVOM/ECLAIRs triggered on GRB 241212A (SVOM burst-id sb24121201), also detected by Fermi GBM (GCN Circular 38540).\n\nThe following trigger information was received on the ground with low-latency by the SVOM VHF Alert Network. A total of 12 Alerts were received from Count-Rate Trigger (CRT) and Image Trigger (IMT). The best Alert was produced by CRT with a signal-to-noise ratio of 35.5 in the 8-120 keV energy band over a time window of 20.48 s starting at Tb. The light curve shows a single broad peak of duration of about 40 s.\n\nThe localization of the best Alert is RA, Dec = 45.119, 6.701 (J2000) with a 90% C.L. radius of 2.9 arcmin (including a systematic error of 2 arcmin added in quadrature).\n\nGRM light curve showed a broad peak structure with a T90 duration of about 40 s. The SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb241212A.png\n\nSVOM slewed automatically to the burst.\n\nMXT began observing the field at 2024-12-12T09:24:05, 133 seconds after Tb, during an exposure of 6 seconds, before SAA entry.\n\nUsing onboard processed data we found one uncatalogued X-ray source located at RA, Dec 45.087, 6.719 degrees with a 90% C.L. radius of 70 arcseconds, corresponding to:\n\nRA = 03h 00m 21s \nDec = 06° 43' 08\"\n\nThis location is 2.2 arcminutes from the ECLAIRs onboard position. \n\nVT began observing the field after the slew. The analysis of the recorded images will be published in a future circular on the follow-up of the SVOM optical instruments.\n\nBurst Advocate for this burst is Zhangli (zhangli@ihep.ac.cn). Please contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\n\n"
+}

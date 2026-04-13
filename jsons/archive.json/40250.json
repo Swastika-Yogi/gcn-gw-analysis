@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250424A: WINTER J-band detection",
+  "eventId": "GRB 250424A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40250....1S",
+  "createdOn": 1745614307395,
+  "circularId": 40250,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "format": "text/plain",
+  "body": "Benjamin Schneider (LAM), Geoffrey Mo (MIT), Tomas Ahumada (Caltech), Viraj Karambelkar (Caltech), Danielle Frostig (CfA), Robert Stein (UMD), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the GRB 250424A (Cenko et al., GCN 40224; Harsha et al., GCN 40231; Ridnaia et al., GCN 40243) in the near-infrared with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). Observations started on 2025-04-24 at 07:33:24 UT (40.92 min after the Swift trigger) and consisted of 15 exposures of 120 s in the J-band.\n\nIn the stacked image, we detect the optical counterpart reported by Cenko et al., GCN 40224; Brivio et al., GCN 40225; Becerra et al., GCN 40226; Saccardi et al., GCN 40228; de Wet et al., GCN 40229; Ducoin et al., GCN 40230; Turpin et al., GCN 40240, Dutton et al., GCN 40241; Siegel et al., GCN 40244. The preliminary AB magnitude derived for that source is:\n\nJ = 18.1 +/- 0.2\n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). The photometric calibration was performed using nearby stars from the 2MASS catalog and the magnitude is not corrected for Galactic extinction.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050908: Swift detection of a burst",
+  "eventId": "GRB 050908",
+  "bibcode": "2005GCN..3942....1G",
+  "createdOn": 1126160918000,
+  "circularId": 3942,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "M. Goad (U. Leicester), H. Krimm (GSFC/USRA), D. Burrows (PSU),\nM. Chester (PSU), N. Gehrels (GSFC), C. Markwardt (GSFC/UMD),\nJ. Osborne (U. Leicester), C. Pagani (PSU), K. Page (U. Leicester),\nD. Palmer (LANL), A. Parsons (GSFC) on behalf of the Swift team:\n\nAt 05:42:31 UT, Swift-BAT triggered and located GRB050908\n(trigger=154112). The BAT on-board calculated location is RA,Dec 20.464,\n-12.971 {01h 21m 51s, -12d 58' 16\"} (J2000), with an uncertainty of\n3 arcmin (radius, 90% containment, stat+sys).  The BAT light curve shows\na roughly triangular shape with a possible two peaks and total duration\nof ~25 seconds.  The peak count rate is ~1000 cts/sec.\n\nThe S/C slewed immediately and the XRT began observations at\n05:44:18 UT, T+106.2 seconds. The instrument was not able to calculate\nan on-board centroid. No bright source was initially apparent, but the initial\nlightcurve suggests that a source in the field of view may have brightened\nand then decayed in the first few minutes of the observation.  Further\nanalysis will require processing of the full telemetry data following the\nnext ground station contact.\n\nThe UVOT began observations at 05:44:15.6.  Further analysis will require\nprocessing of the full telemetry data following the next ground \nstation contact."
+}

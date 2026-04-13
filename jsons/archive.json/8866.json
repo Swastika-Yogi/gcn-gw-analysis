@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090201: ROTSE-III Optical Limits",
+  "eventId": "GRB 090201",
+  "bibcode": "2009GCN..8866....1S",
+  "createdOn": 1233514896000,
+  "circularId": 8866,
+  "submitter": "Brad Schaefer at LSU  <schaefer@grb.phys.lsu.edu>",
+  "email": "schaefer@grb.phys.lsu.edu",
+  "body": "B. E. Schaefer (Louisiana State) reports on behalf of the ROTSE \ncollaboration:\n\nROTSE-IIIc, located at the H.E.S.S. site at Mt. Gamsberg, Namibia,\nresponded to GRB 090201 (Swift trigger 341749; S. R. Oates et al., GCN\n8865), producing images beginning 41 minutes after the burst trigger.  \nWeather constraints in Namibia were the cause of the delay, as we had to\nawait the clearing of the skies.  Our first image was at 18:28:03.6 UT,\n2460.9 s after the burst, under fair conditions. We took 10 5-sec, 10\n20-sec and -8 60-sec exposures. These unfiltered images are calibrated\nrelative to USNO A2.0 (R). Imaging is on going.\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle, for both single images and coadding into\nsets of 10; the field is not crowded.  Swift has not slewed to this burst\nyet, so there is no XRT position to examine in detail.  Individual images\nhave limiting magnitudes ranging from 16.6-17.4; we set the following\nspecific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n18:28:03.6   18:29:03.6        60     16.6         2460.9       N\n18:28:03.6   18:30:15.5       131     16.9         2460.9       Y\n18:42:25.4   18:54:11.1       705     18.2         3322.7       Y"
+}

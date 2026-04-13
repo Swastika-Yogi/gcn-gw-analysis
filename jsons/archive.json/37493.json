@@ -1,0 +1,14 @@
+{
+  "editedOn": 1726322249283,
+  "subject": "EP240913a: A GRB Event",
+  "eventId": "EP240913a",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37493....1Y",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Iris Yin at Nanjing University <iris.yin@smail.nju.edu.cn>",
+  "circularId": 37493,
+  "createdOn": 1726287041012,
+  "submitter": "Iris Yin at Nanjing University <iris.yin@smail.nju.edu.cn>",
+  "format": "text/plain",
+  "body": "Yi-Han Iris Yin (NJU), Jun Yang (NJU), Bin-Bin Zhang (NJU), Hui Sun (NAOC) and Xuefeng Wu (PMO) report on behalf of large collaboration:\n\nOur team has conducted a follow-up high-energy data search of the X-ray transient detected by the Einstein Probe (EP) at 2024-09-13T11:39:33 UTC (EP240913a; GCN Circular 37492). We discovered a bright gamma-ray transient in the Fermi/GBM data approximately 180 seconds after T0 of EP240913a, coinciding with the peak time of the X-ray transient. Additionally, we note that this event is listed as a burst trigger (bn240913488) in the GBM database.\n\nThe GBM light curve shows a single emission episode with a duration (T90) of approximately 5 seconds (10-1000 keV). The time-averaged spectrum from T0+181 to T0+188 seconds is well fitted by a cutoff power-law function, N(E) = A*(E^-Gamma)*exp(-E*(2-Gamma)/Ep), with a peak energy of about 100 keV and a photon index, Gamma, of approximately 0.5. The fluence (10-1000 keV) during this interval is estimated to be ~ 1.88e-6 erg/cm^2, and the 0.26-s binned peak flux in the 10-1000 keV band is ~ 1.74e-6 erg/s/cm^2.\n\nGiven that the gamma-ray transient is consistent with EP240913a in both timing and location, we propose that this is a GRB event.\n\nWe strongly recommend further follow-up observations of EP240913a to confirm its physical nature and to search for potential afterglows."
+}

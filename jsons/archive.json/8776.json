@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 090102",
+  "eventId": "GRB 090102",
+  "bibcode": "2009GCN..8776....1G",
+  "createdOn": 1230985945000,
+  "circularId": 8776,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam, report:\n\nThe long GRB 090102 (Swift-BAT trigger #338895: Mangano et al., GCN \n8762; Sakamoto et al., GCN 8769) triggered Konus-Wind at T0=10536.283 s \nUT (02:55:36.283).\n\nThe burst light curve shows a multipeaked structure with a duration of \n~30 s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of 3.09(-0.25, +0.29)x10^-5 erg/cm2,\nand a 256-ms peak flux measured from T0+12.016 s\nof 5.10(-0.72, +0.74)x10^-6 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+33.024 s) can be fitted (in the 20 keV - 2 MeV\nrange) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.86(-0.13, +0.14),\nand Ep = 451(-58, 73) keV (chi2 = 48.8/65 dof).\nFitting by GRB (Band) model yields the same alpha and Ep,\nand only an upper limit on the high energy\nphoton index: beta < -2.73 (chi2 = 68.8/64 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nAssuming z = 1.547 (de Ugarte Postigo et al., GCN 8766)\nand a standard cosmology model with H_0 = 70 km/s/Mpc, Omega_M = 0.27,\nOmega_\\Lambda = 0.73, the isotropic energy release E_iso ~1.9x10^53 erg,\nthe peak luminosity (L_iso)_max ~ 7.8x10^52 erg/s, and Ep_rest ~1100keV.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.ru/LEA/GRBs/GRB090102_T10536/"
+}

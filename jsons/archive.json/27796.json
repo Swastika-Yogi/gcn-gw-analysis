@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of short/hard GRB 200521A",
+  "eventId": "GRB 200521A",
+  "bibcode": "2020GCN.27796....1S",
+  "createdOn": 1590273912000,
+  "circularId": 27796,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R.Aptekar, D. Frederiks, A. Ridnaia,\nA. Lysenko,  A. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 200521A\n(AGILE detection: Verrecchia et al., GCN Circ. 27776;\nCALET-GBM detection: Yoshida et al., GCN Circ. 27777;\nCGBM-SPI-ACS triangulation: Sakamoto et al., GCN Circ. 27790;\nIPN triangulation: Svinkin et al., GCN Circ. 27795)\ntriggered Konus-Wind (KW) at T0=44201.268 s UT (12:16:41.268).\n\nThe light curve of the burst shows a single pulse\nwith a total duration of ~0.3 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200521_T44201/\n\nAs observed by Konus-Wind, the burst had\na fluence of (1.28 +/- 0.15)x10^-5 erg/cm^2 and\na 16-ms peak energy flux, measured from T0+0.080 s,\nof (7.38 +/- 0.87)x10^-5 erg/cm^2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst (measured from T0 to T0+0.256 s)\nis well fitted in the 20 keV - 15 MeV range\nby a cutoff power-law (CPL) function with the following model\nparameters: the photon index alpha = -0.26(-0.16,+0.18),\nand the peak energy Ep = 1358(-170,+196) keV, chi2 = 46/61 dof.\nFitting this spectrum with a GRB (Band) function yields\nnearly the same alpha and Ep, and an upper limit on beta of -2.7.\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

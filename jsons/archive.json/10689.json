@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100425A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100425A",
+  "bibcode": "2010GCN.10689....1O",
+  "createdOn": 1272218455000,
+  "circularId": 10689,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and D. Grupe (PSU) report on behalf of the  \nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100425A 88s after the BAT trigger (Grupe et al., GCN 10673).\nWe do not detect a new source at the enhanced Swift XRT position\n(Goad et al. GCN 10686) and at the location of source B detected\nby the VLT telescope (Malesani  et al. GCN 10680) and GROND\ntelescope (Olivares et al. GCN 10683). Photometry is complicated\nby the prescence of the VLT source A within the source aperture.\n\nThe 3-sigma upper limits for the finding chart exposures (FC)\nand summed images are:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite (FC)  88      238      147         >19.37\nwhite       88      5778     513         >19.59\nu     (FC)  301     551      246         >18.92\nu\t    301     6796     650         >19.08\nv           631     11961    1317        >19.76\nb           556     5573     236         >19.71\nuvw1        680     6600     432         >19.44\nuvm2        4757    12580    997         >20.87\nuvw2        606     11048    1318        >21.26\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.15 mag.\nAll photometry is on the UVOT photometric system described in Poole et\nal. (2008, MNRAS, 383, 627)."
+}

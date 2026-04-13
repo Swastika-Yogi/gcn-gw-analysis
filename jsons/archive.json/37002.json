@@ -1,0 +1,14 @@
+{
+  "editedOn": 1722537858184,
+  "subject": "EP240801a: Kinder follow-up observations of the candidate counterpart ",
+  "version": 2,
+  "eventId": "EP240801a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37002....1A",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Amar Aryan at National Central University, Institute of Astronomy (NCUIA) <amararyan941@gmail.com>",
+  "circularId": 37002,
+  "createdOn": 1722536552387,
+  "submitter": "Amar Aryan at National Central University, Institute of Astronomy (NCUIA) <amararyan941@gmail.com>",
+  "format": "text/plain",
+  "body": "A. Aryan (NCU), A. K. H. Kong (NTHU), H.-Y. Hsiao, W.-J. Hou, T.-W. Chen, Y. J. Yang (all NCU), S. Yang (HNAS), J. Gillanders (Oxford), C.-C. Ngeow, C.-S. Lin, C.-H. Lai, A. Sankar. K, M.-H. Lee, Y.-C. Pan, H.-C. Lin, J.-K. Guo (all NCU), S. J. Smartt (Oxford/QUB), H.-W. Lin (UMich), G. H. Sun, Z. N. Wang (both HNAS), H. F. Stevance, S. Srivastav, L. Rhodes (all Oxford), M. Nicholl, M. Fulton, T. Moore, K. W. Smith, C. Angus, A. Aamer (all QUB), A. Schultz and M. Huber (both IfA, Hawaii) report: \n\nWe observed the field of the fast X-ray transient EP240801a (Zhou et al., GCN 36997) using the 40cm SLT at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen & Yang et al., 2024arXiv240609270C). The first SLT epoch of observations started at 13:45 UTC on the 1st of August 2024 (MJD = 60523.573), 4.66 hrs after the EP trigger. \n\nWe utilized the astroalign (Beroiz et al., 2020, A&C, 32, 100384) and astropy (Astropy Collaboration et al., 2022, ApJ, 935, 167) packages to align and stack the individual frames. In the stacked frames, we clearly detect the optical counterpart reported by Fu et al., (GCN 36998), and confirmed by Li et al. (GCN 36999) and Zheng et al. (GCN 37000). \n\nMoreover, we utilized the Python-based package AutoPhOT (Brennan & Fraser, 2022, A&A, 667, A62) to perform the PSF photometry on our stacked frame. The details of the observations and measured photometry (in the AB system) are as follows:\n\nTelescope | Filter | MJD (start) | t-t0 | Exposure | Magnitude | avg. Seeing | med. Airmass\nSLT | r | 60523.573 | 4.66 hrs | 300 sec * 12 | 20.9 +/- 0.3 | 1\".83 | 1.63\n\nThe presented magnitudes are calibrated using the field stars from the Pan-STARRS1 catalog and are not corrected for the expected Galactic foreground extinction corresponding to a reddening of E_(B-V) = 0.10 mag in the direction of the transient (Schlafly & Finkbeiner 2011)."
+}

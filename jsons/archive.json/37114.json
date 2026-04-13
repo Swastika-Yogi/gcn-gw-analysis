@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240809A: Skynet & Photon Ranch Optical Afterglow Observations",
+  "eventId": "GRB 240809A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37114....1D",
+  "createdOn": 1723207101795,
+  "submitter": "maedubay@unc.edu",
+  "circularId": 37114,
+  "format": "text/plain",
+  "body": "Megan Dubay, Dylan Dutton, Donovan Schlekat, Daniel Reichart, Joshua Haislip, Vladimir Kouprianov, Ruide Fu, Arie Verveer, Daryl Janzen, John Kennewall, Colin Armstrong, Ken Stranger (Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill); Michael Fitzgerald, Wayne Rosing, Andrew Yen (Photon Ranch/Las Cumbres Observatory).\n\nWe observed the field of GRB 240809A with one of the Photon Ranch’s 0.4m telescopes at Eltham College Observatory (ECO1) beginning at ~540s post-trigger by the Swift-BAT instrument. Continuing observations on both the ECO1 telescope and Skynet’s PROMPT telescopes at both Meckering Observatory and Perth Observatory are underway. Our first detection occurred at 09:42 UTC on August 9, 2024, approximately 40 minutes after the optical counterpart discovery by Swift (Evans et al., GCN 37110).\n\nWe detect the optical afterglow at coordinates consistent with the reported coordinates from the Swift-UVOT observation.\n\nThe coordinates are:\nR.A. (J2000): 15:50:10.47\nDec. (J2000): -02:19:02.89\n\nWe report the most recent photometry below. Additional measurements are underway. \n\nExpLen  | Telescope   | Filter | Mag    | Mag Error | MJD         \n——————————————————————————————————————————————————————————————————\n155     | PROMPT-MO-1 | I      | 17.798 | 0.101     | 60531.4581\n186     | PROMPT-MO-1 | R      | 18.125 | 0.069     | 60531.4561\n254     | R-COP       | R      | 18.634 | 0.253     | 60531.4669\n\nOur images have been calibrated using stars from the APASS catalog.\n"
+}

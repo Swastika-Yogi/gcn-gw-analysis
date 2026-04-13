@@ -1,0 +1,10 @@
+{
+  "subject": "Possible GRB 081211B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 081211B",
+  "bibcode": "2008GCN..8669....1H",
+  "createdOn": 1229362064000,
+  "circularId": 8669,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) reports, on the behalf of the Swift\nUVOT team:\n\n       The Swift/UVOT observed the field of the possible BAT Slew\nSurvey burst GRB 081211B (Copete et al., GCN Circ. 8661) starting 81.7\nks after the start of the slew that this source was detected in.  We\nfind no new source, relative to the DSS, USNO-B1.0, or 2MASS, or a\nvariable source, inside the UVOT-enhanced XRT error circle (Page et\nal. 2008, GCN Circ. 8666).  Preliminary 3-sigma upper limits for\ndetecting a source in the co-added images, using an aperture-corrected\n2.5 arcsecond radius circular aperture, are\n\nFilter   T_start   T_stop  Exp(s)      Mag\n------------------------------------------\n    v      81,651  132,774    2318    >21.4\n    b      85,687  126,980    1770    >22.5\n  uvm2    132,780  133,265     478    >20.8\n  uvw2     87,513  128,664    1426    >21.8\n  white    86,600  127,893    1770    >23.1\n------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.01 mag (Schlegel et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070920B: ROTSE-III Early Optical Limits",
+  "eventId": "GRB 070920B",
+  "bibcode": "2007GCN..6824....1S",
+  "createdOn": 1190747480000,
+  "circularId": 6824,
+  "submitter": "Heather Swan at U.of Michigan/ROTSE  <hflewell@umich.edu>",
+  "email": "hflewell@umich.edu",
+  "body": "H. Swan (U Mich), E.S. Rykoff (UCSB), F. Yuan (U Mich), report on\nbehalf of the ROTSE collaboration:\n\nROTSE-IIIc, located at the H.E.S.S. site at Mt. Gamsberg, Namibia,\nresponded to GRB 070920B (Swift trigger 291728; J. L. Racusin, GCN\n6808), producing images beginning 8.5 s after the GCN notice time. An\nautomated response took the first image at 21:05:16.5 UT, 44.1 s after\nthe burst, under partly cloudy conditions. We took 10 5-sec, 10 20-sec\nand 386 60-sec exposures. These unfiltered images are calibrated\nrelative to USNO A2.0 (R).  We lost internet contact with ROTSE-IIIc\nshortly after the GCN trigger, thus we were unable to retrieve the burst\ndata until Sept. 25.\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle or the XRT error circle , (J. L. Racusin,\nGCN 6820) for both single images and coadding into sets of 10; the field\nis not crowded. Individual images have limiting magnitudes ranging from\n12.8-17.8; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n21:05:16.5   21:05:21.5         5     15.7           44.1       N\n21:05:16.5   21:06:34.5        78     16.7           44.1       Y\n21:29:06.7   21:34:44.6       337     17.8         1474.3       Y"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT refined analysis of outburst from 1E 1841-04.5",
+  "bibcode": "2011GCN.11690....1B",
+  "createdOn": 1297348044000,
+  "circularId": 11690,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+221 sec from recent telemetry downlinks,\nwe report further analysis of the outburst from 1E 1841-04.5 (trigger #445033)\n(Barthelmy, et al., GCN Circ. 11673).  The BAT ground-calculated position is\nRA, Dec = 280.332, -4.939 deg, which is \n   RA(J2000)  =  18h 41m 19.7s \n   Dec(J2000) = -04d 56' 19.9\" \nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 97%.\n \nThe mask-weighted light curve shows two pairs of overlapping peaks\nstarting at ~T-0.02 and ending at ~T+0.15 sec.\nT90 (15-350 keV) is 0.1 +- 0.0 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-0.008 to T+0.144 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index -0.26 +- 0.66, \nand Epeak of 42.2 +- 3.2 keV (chi squared 54.4 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 7.5 +- 0.6 x 10^-8 erg/cm2\nand the 1-sec peak flux measured from T-0.43 sec in the 15-150 keV band is\n1.3 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/445033/BA/"
+}

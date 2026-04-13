@@ -1,0 +1,9 @@
+{
+  "subject": "Confirming no variability for GRB02081",
+  "bibcode": "2002GCN..1517....1L",
+  "createdOn": 1029943695000,
+  "circularId": 1517,
+  "submitter": "Ingunn Burud at Space Telescope Science Inst  <burud@stsci.edu>",
+  "email": "burud@stsci.edu",
+  "body": "Andrew Levan, Ingunn Burud, Andy Fruchter, James Rhoads (STScI)\nMaureen van den Berg, Jeroen Homan (Osservatorio Astronomico di Brera,\nItlay), Evert Rol (University of Amsterdam, Netherlands) and\nNial Tanvir (University of Hertfordshire, UK) on behalf of a larger\ncollaboration, report:\n\nThe error box of GRB 020819 was observed on August 19 at the JKT (La\nPalma) beginning at 23.814, 8.9 hours after burst.  R band\nobservations in three epochs were obtained as described by Salamanca\net al (GCN 1512), these observations reach a limiting magnitude shown\nbelow\n\nStart time (UT)   Exp. Time     R_lim\n23:32:30.117      2250          22.15\n01:59:32.974      3000          22.30\n05:04:11.925      1500          21.75\n\n(The exposure time is shorter in the third epoch since one of the\nframes was contaminated by a satellite track and was not used for\ndetailed analysis).\n\nComparison shows no new object brighter than the DSS-2 limit\nin any exposure. Confirming the results of GCN 1506 and GCN\n1509.\n\nCombined images from each of the three epochs of observations were\nsubtracted using the method of Alard (Alard, 2000, A&AS, 144, 363).\nThe subtraction residuals were found to be of order 3% for\nbright (though not saturated) objects. For fainter objects the\ndetection is limited by the noise in the image. With the exception of\nthe faintest objects the limit on the fading detection is ~0.1 mags.\n\nWe find that no objects in the frame exhibit variability beyond the\nsystematic errors for the entire period of the observation (5.365\nhours).\n\nWe would like to thank L. Strolger for allowing us use his software\nfor image registration and subtraction."
+}

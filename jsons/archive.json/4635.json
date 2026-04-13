@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060202:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060202",
+  "bibcode": "2006GCN..4635....1H",
+  "createdOn": 1138901375000,
+  "circularId": 4635,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "D. Hullinger (GSFC/UMD), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hinshaw (GSFC-SPSYS), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), \nK. McLean (LANL), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-300 to T+303 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060202 (trigger #179968)  \n(Fox, et al., GCN 4629).  The BAT ground-calculated position\nis (RA,Dec) = 35.822, 38.381  deg {2h 23m 17.3s, 38d 22' 53.3\"} (J2000)\n+- 2.0 arcmin, (radius, sys+stat, 90% containment).  The partial coding \nwas 61%.\n\nThe mask-tagged light curve shows two broad main peaks with roughly\nequal peak count rates.  The first peak is from approximately T-40 to\nT+40 sec and the second roughly from T+ ~70 to T+210 sec. The second\npeak appears to be spectrally softer than the first peak.  We note\nthat XRT observations (Morris, et al, GCN 4632) started at T+148.8\nseconds and thus overlapped with ~70 seconds of the prompt emission\ndetected by BAT.  T90 (15-350 keV) is (203.7 +- 20) sec (estimated\nerror including systematics).\n \nThe time-averaged spectrum from T-36.1 to T+196.6 is best fit by \na simple power-law model.   The power law index of the time-averaged \nspectrum is 1.78 +- 0.13. The fluence in the 15-150 keV band \nis (2.4 +- 0.2) x 10^-06 erg/cm2.  The 1-sec peak photon flux measured from \nT-6.46 sec in the 15-150 keV band is (0.5 +- 0.2) ph/cm2/sec.  \nAll the quoted errors are at the 90% confidence level."
+}

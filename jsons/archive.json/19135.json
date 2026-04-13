@@ -1,0 +1,9 @@
+{
+  "subject": "Swift possibly triggered on IGR17091-3624",
+  "bibcode": "2016GCN.19135....1B",
+  "createdOn": 1457046559000,
+  "circularId": 19135,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC) and K. L. Page (U Leicester) report on behalf\nof the Swift Team:\n\nAt 22:40:08 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated IGR17091-3624 (trigger=677582).  Swift was already observing this source. \nThe BAT on-board calculated location is \nRA, Dec 257.217, -36.401, which is \n   RA(J2000)  =  17h 08m 52s\n   Dec(J2000) = -36d 24' 02\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers (6 min in this case),\nthe light curve does not show anything significant except for two brief\npeaks (each ~10 sec long) separated by ~450 sec. These peaks could easily be due\nto a noisy detector.  We will not be able to say until the full data has been\ndownloaded and a mask-weight light curve generated. The peak count rate\nwas ~300 counts/sec (15-350 keV). \n\nNo source was detected in the 2.5-s promptly available image, taken 434.s seconds \nafter the BAT trigger. We are waiting for the full dataset to detect and localise \nthe XRT counterpart. \n\nUVOT took a finding chart exposure of 150 seconds with the White filter\nstarting 438 seconds after the BAT trigger. No credible afterglow candidate has\nbeen found in the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle. The typical 3-sigma upper limit has been about 19.6 mag. \nThe 8'x8' region for the list of sources generated on-board covers 100% of the\nBAT error circle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the large, but uncertain extinction expected."
+}

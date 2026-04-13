@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090323: Possible XRT Counterpart",
+  "eventId": "GRB 090323",
+  "bibcode": "2009GCN..9024....1K",
+  "createdOn": 1237865500000,
+  "circularId": 9024,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@astro.psu.edu>",
+  "email": "kennea@astro.psu.edu",
+  "body": "J. Kennea (PSU), P. Evans and M. Goad (U Leicester) report on behalf of \nthe Swift/XRT Team:\n\nAt 19:27UT on March 23rd, 2009, Swift began a TOO observation of the \nFermi/LAT error circle of GRB 090323 (GCN #9021). Ground analysis of the \ninitial data finds an uncatalogued point source inside the LAT error \ncircle. Currently only one orbit of data has been downlinked so it is not \npossible to determine if the source is fading.\n\nUsing 1137 s of XRT Photon Counting mode data and 2 UVOT images, we find \nan astrometrically corrected X-ray position (using the XRT-UVOT alignment \nand matching UVOT field sources to the USNO-B1 catalogue): RA, Dec = \n190.70940, 17.05390 which is equivalent to:\n\nRA (J2000):  12 42 50.26\nDec (J2000): +17 03 14.2\n\nwith an uncertainty of 2.7 arcsec (radius, 90% confidence). This position \nis 1.9 arcminutes from the LAT on-ground localization given in GCN #9021.\n\nThis position may be improved as more data are received. The latest \nposition can be viewed at http://www.swift.ac.uk/xrt_positions. Position \nenhancement is described by Goad et al. (2007, A&A, 476, 1401 \nhttp://www.swift.ac.uk/xrt_positions/Goad.pdf), the current algorithm is \nan extension of this method."
+}

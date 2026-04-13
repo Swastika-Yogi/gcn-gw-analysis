@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050219b: Swift-BAT detection of a burst",
+  "eventId": "GRB 050219B",
+  "bibcode": "2005GCN..3044....1C",
+  "createdOn": 1108861427000,
+  "circularId": 3044,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Cummings, S. Barthelmy, L. Barbier, J. Cannizzo (GSFC), M. Chester (PSU),\nE. Fenimore, M. Galassi (LANL), N. Gehrels (GSFC), D. Hullinger (GSFC/UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC), G. Sato (ISAS), M. Suzuki (Saitama),\nT. Takahashi (ISAS), J. Tueller (GSFC), B. Zhang (UNLV)\non behalf of the Swift-BAT team:\n\nAt 21:05:51 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB050219b.  Because of the Earth-limb constraint,\nthe spacecraft could not immediately slew to the burst location.\nThe location became unconstrained at T+50 min, and the spacecraft slewed.\nThe XRT and UVOT instruments then began their standard set of pre-programmed\nobserving sequences.\n\nUsing the time interval of the burst, the ground-calculated location\nis RA,Dec 81.287,-57.770 (J2000) with an uncertainty of 4 arcmin\n(radius, including a systematic uncertainty, 90% containment).\nThe burst was 54 degrees off the BAT boresight (10% encoding).\n\nThe burst lightcurve has five overlapping peaks preceeded by a slow rise,\nwith a T90 duration of ~27 sec (and T50 is 6.8 sec).  The peak flux\nis 26 ph/cm2/sec for a 1-sec interval (15-350 keV).  Using a simple power law\nmodel, the fluence is ~2.3 (+/-30%) e-5 erg/cm^2 (15-350 keV)."
+}

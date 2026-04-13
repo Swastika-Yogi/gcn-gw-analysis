@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080805: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080805",
+  "bibcode": "2008GCN..8071....1W",
+  "createdOn": 1217976534000,
+  "circularId": 8071,
+  "submitter": "Paul Ward at MSSL  <paw@mssl.ucl.ac.uk>",
+  "email": "paw@mssl.ucl.ac.uk",
+  "body": "P. Ward (MSSL-UCL) and C. Pagani (PSU) report on behalf of\nthe Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080805 starting 74 s after the \nBAT trigger (Pagani et al., GCN Circ. 8059).  We do not find a source in \nany of the UVOT observations inside the XRT error circle or at the \nposition reported by Kruehler et al. (GCN 8060). The 3-sigma upper limits \nfor detecting a source are:\n\nFilter   T_start T_stop   Exp   Mag\n\nWhite    76      175      98.5  > 20.70\nWhite    5473    18024    1082  > 22.12\nv        182     6083     332   > 19.81\nb        5268    17112    1082  > 21.43\nu        5061    5260     197   > 20.11\nuvw1     4856    5055     197   > 19.99\nuvm2     4650    6267     371   > 20.09\nuvw2     5680    18053    219   > 20.12\n\nThe values quoted above are in the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627). No correction has been\nmade for the expected extinction corresponding to E(B-V) of\n0.043 mag in the direction of the burst (Schlegel et al. 1998)."
+}

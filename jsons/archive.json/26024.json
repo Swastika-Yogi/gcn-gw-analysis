@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191016A: Swift/UVOT Detection",
+  "eventId": "GRB 191016A",
+  "bibcode": "2019GCN.26024....1S",
+  "createdOn": 1571354033000,
+  "circularId": 26024,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <mhs18@psu.edu>",
+  "email": "mhs18@psu.edu",
+  "body": "M. H. Siegel and J. D. Gropp (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 191016A\n45 ks after the BAT trigger (Gropp et al., GCN Circ. 26008).  A \nsource is detected consistent with the XRT position and the optical source reported\nby Watson et al. (GCN Circ. 26010, 26015), Zheng and Filippenko (GCN Circ. 26011),\nHu et al. (GCN Circ. 26017), Kim et al. (GCN Circ. 26018) and Toma et al.\n(GCN Circ. 26019).\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  02:01:04.68 =  30.26948 (deg.)\n    Dec (J2000) = +24:30:35.7  =  24.50990 (deg.)\nwith an estimated uncertainty of 0.5 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limit using the UVOT photometric\nsystem (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite            45023        46878         1822        21.09+/-0.17\nwhite            50812        52638         1794        21.21+/-0.19\nwhite            56420        56938          506        >21.23\n\nThe magnitudes in the table are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.09 in the direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 140610A",
+  "eventId": "GRB 140610A",
+  "bibcode": "2014GCN.16379....1G",
+  "createdOn": 1402482669000,
+  "circularId": 16379,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, A. Tsvetkova, A.Lyssenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long GRB 140610A (Swift-BAT trigger #601259:\nEvans et al., GCN 16375; T0(BAT)=16:31:29 UT)\nwas detected by Konus-Wind in the waiting mode.\n\nThe light curve shows a broad emission pulse which started\n~3 s before the BAT trigger, peaked at ~T0(BAT)+3 s,\nand lasted till ~T0(BAT)+150 s.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB140610A/\n\nAs observed by Konus-Wind, the burst had a fluence of\n(1.6 � 0.3)x10^-5 erg/cm2 and a 2.944-s peak energy flux,\nmeasured from ~T0(BAT)+3 s, of (2.3 � 0.3)x10^-7 erg/cm2\n(both in the 20 - 10000 keV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0(BAT)-3 s to T0(BAT)+150 s) by a power law\nwith exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.75 � 0.15, and Ep = 200 � 93 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

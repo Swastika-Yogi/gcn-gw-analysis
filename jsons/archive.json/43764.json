@@ -1,0 +1,11 @@
+{
+  "subject": "EP260214b: Liverpool Telescope optical observations",
+  "eventId": "EP260214b",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43764....1B",
+  "createdOn": 1771251154234,
+  "circularId": 43764,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/plain",
+  "body": "A. Bochenek, D. A. Perley (LJMU) report:\n\nWe observed the field of EP 260214b (Yang et al., GCN 43744; Yang et al., GCN 43760) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 5x100s exposures in SDSS g filter and 6x100s in SDSS r and i, starting at 2026-02-16 02:51:39.908 UT, approximately 28.8 hours after trigger.\n\nSome exposures were discarded prior to stacking due to poor seeing. They were subtracted from PanSTARRS reference images using PSF matching with the use of PSFEx. We report detections in stacked images in all filters at the position first reported by He et al., GCN 43745 and Watson et al., GCN 43747.\n\nMJD (mid)       T_mid-T_0       Filter       Mag. (AB)\n61087.12195\t28.86 h         g        22.45 ± 0.27\n61087.13116\t29.08 h         r        22.22 ± 0.33\n61087.13913\t29.27 h         i        21.75 ± 0.24\n\nThe photometry was obtained using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

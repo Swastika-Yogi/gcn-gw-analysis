@@ -1,0 +1,10 @@
+{
+  "subject": "EP260327a: Gemini-North optical upper limits",
+  "eventId": "EP260327a",
+  "submittedHow": "web",
+  "createdOn": 1774619081142,
+  "circularId": 44129,
+  "submitter": "Rob Eyles-Ferris at U of Leicester <raje1@leicester.ac.uk>",
+  "format": "text/plain",
+  "body": "A. van Hoof (Radboud), G. Corcoran (UCD), J. Quirola-Vasquez (Radboud), R. A. J. Eyles-Ferris (Leicester),  A. J. Levan (Radboud), A. Martin-Carrillo (UCD), F. E. Bauer (SSI and UTA), J. Chácon (PUC) and P. G. Jonker (Radboud) report on behalf of a larger collaboration:\n\nWe observed the field of the fast X-ray transient EP260327a (Dai et al., GCN 44126) using the GMOS-N instrument mounted on the Gemini-North telescope. A series of 4x120 s exposures were taken in each of the r’ and z’ filters, starting at 2026-03-27 08:55:05 UT (3.00 hr after the trigger).\n\nWe performed subtractions on our stacked images using template images from Hyper Suprime-Cam Strategic Program (Aihara et al. 2021, doi:10.1093/pasj/psab122) and compared the stacks and templates manually. Within the EP-FXT localisation (Dai et al., GCN 44126), we do not identify any new sources in our stacked images or subtractions in either band. For our stacked images, we calculate 3-sigma limits of r > 24.72 and z > 24.62 calibrated to nearby stars from PanSTARRS DR1 and not corrected for Galactic extinction.\n\nWe do note the presence of a residual within the EP-FXT localisation in some of our subtractions at a position RA 215.3703, Dec 42.1406. This position is coincident with a DESI Legacy Survey object with a photometric redshift of 0.481 +/- 0.023. Given the magnitude of this object and depth of our images, we believe this to be a subtraction artefact rather than a real source.\n\nWe thank the Gemini-North staff, particularly Denise Hung, for their rapid execution of these observations."
+}

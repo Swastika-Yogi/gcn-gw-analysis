@@ -1,0 +1,9 @@
+{
+  "subject": "False GRB alarm from RXTE/ASM on 8 Sept 2000",
+  "bibcode": "2000GCN...789....1S",
+  "createdOn": 968682457000,
+  "circularId": 789,
+  "submitter": "Don Smith at MIT  <dasmith@space.mit.edu>",
+  "email": "dasmith@space.mit.edu",
+  "body": "iD. A. Smith (UofMich) and A. M. Levine (MIT) report on behalf of the\nASM team at MIT:\n\nFor those of you who received the RXTE_ASM TRANSIENT RAPID POSITION\nNOTICE over the GCN on Fri Sep 8 at 14:00:27 GMT, you should know that\nthe ASM seems to have developed a systematic error in the data\nanalysis pipeline.  This error leads to known sources being\nmisidentified as new, unknown, TOO sources, with associated error\nboxes that tend to cross, triggering the automatic alert system.  The\nASM team is working to identify and correct this error, and in the\nmeantime we have disabled the automatic alert distribution function.\nWe hope this false alarm did not cause too much confusion, and that\nthere was enough information in the alert (such as the fact that there\nwas no short-term variability in the ASM time-series data) and the\nassociated web page (such as the extremely large error box) for you to\nhave made a productive evaluation of the situation."
+}

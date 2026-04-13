@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070917: KAIT optical limits",
+  "eventId": "GRB 070917",
+  "bibcode": "2007GCN..6795....1L",
+  "createdOn": 1190070315000,
+  "circularId": 6795,
+  "submitter": "Weidong Li at UC Berkeley KAIT/LOSS  <weidong@astron.berkeley.edu>",
+  "email": "weidong@astron.berkeley.edu",
+  "body": "W. Li, University of California, Berkeley, on behalf of the KAIT GRB\nteam, report:\n\nThe robotic 0.76-m Katzman Automatic Imaging Telescope (KAIT)\nat Lick Observatory observed GRB 070917 detected with Swift\n(Trigger 291292; Cummings et al. GCN 6791, Tueller et al. GCN \n6792). The automatic sequence started at 07:34:52, 56 s after\nthe burst. The BAT location has been monitored in V, I, and\nclear filters, with varying exposure times. Our image processing\npipeline did not find any new objects within the BAT error circle,\nwith the following photometry limits (calibrated with USNO B1.0).\nThese magnitudes have not been corrected for Galactic extinction\n(E(B - V) = 0.45 mag; Misra et al. GCN 6793).  \n\n======================================================================\n\nStart UT   t(GRB)   Filter    Exp(s)  3sigma-limit      \n\n07:34:52     56s    clear      5.0      16.8 \n07:34:58     62s    clear      5.0      16.7 \n07:35:04     68s    clear      5.0      16.8 \n07:35:10     74s    clear      5.0      16.7 \n07:35:17     81s    clear      5.0      16.9 \n07:35:48    112s    V         20.0      16.2\n07:36:19    143s    I         20.0      17.3\n07:36:49    173s    clear     20.0      17.9\n========================================================================\n\nMore images, mostly 20 s exposures in the I and clear filters,\nhave been obtained. No obvious OA was found in the BAT error\ncircle to a limiting magnitude of 16.9 - 18.0 mag, at \nt= 204 s to 2204 s after the burst. \n\nThis message may be cited."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100219A: Swift/UVOT Detection of a Source near the XRT Position",
+  "eventId": "GRB 100219A",
+  "bibcode": "2010GCN.10432....1H",
+  "createdOn": 1266600564000,
+  "circularId": 10432,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA),\nN. P. M. Kuin (UCL-MSSL), and\nA. Rowlinson (U Leicester)\nreport on the behalf of the Swift/UVOT team:\n\n       The Swift/UVOT observed the field of GRB 100219A (Rowlinson et\nal. 2010, GCN Circ. 10430) starting 183 s after the BAT detection.  We\ndo not detect any source inside the XRT error circle, but we do detect\na source 3.8 arcsec north of the centre of the 2.1 arcsec XRT error\ncircle.  This source is not present in the SDSS DR7, USNO B1.0, or\n2MASS point source catalogues.  It is at the detection limit of the\nDSS, so it is unclear if this is a new source.  The preliminary UVOT\nposition is\n\n     RA (J2000)  10:16:48.54  =  154.20225 (deg)\n    Dec (J2000) -12:33:57.9   =  -12.56608 (deg)\n\nwith an estimated uncertainty of 1.0 arcsec (radius, 90% confidence,\nstatistical + systematic).\n\nPreliminary magnitudes for this source are\n\nFilter   TSTART    TSTOP   Exposure      Mag   Err   Sigma\n---------------------------------------------------------------\nwhite       183      333        150    20.70  0.34     3.2\nwhite       875     1025        150   >20.9            3-sigma UL\nu           341      591        250    21.00  0.56     2.0\n---------------------------------------------------------------\n\nIt is not clear if this source is fading, or if it is associated with\nGRB 100219A.\n\n     The quoted magnitudes have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.08 mag (Schlegel et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

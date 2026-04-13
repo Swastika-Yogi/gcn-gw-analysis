@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi-GBM Sub-Threshold Detection of GRB 200701A",
+  "eventId": "GRB 200701A",
+  "bibcode": "2020GCN.28053....1M",
+  "createdOn": 1593644344000,
+  "circularId": 28053,
+  "submitter": "Christian Malacaria at NASA-MSFC/USRA  <cmalacaria@usra.edu>",
+  "email": "cmalacaria@usra.edu",
+  "body": "C. Malacaria (NASA-MSFC/USRA) reports on behalf of the Fermi-GBM Team:\n\nSwift-BAT detected GRB 200701A at 12:46:59 UT (Bernardini et al. 2020, GCN 28052). \nThere was no Fermi-GBM onboard trigger around the event.\nAn automated, blind search for short gamma-ray bursts below the onboard triggering \nthreshold in Fermi-GBM also identified no counterparts.\n\nThe GBM targeted search [1], the most sensitive, coherent search for GRB-like \nsignals, was run from +/-30 s around BAT trigger time.\nA transient source was identified whose most significant timescale according to \nthe search is 8.192 s, with a log likelihood ratio of 39.\n\nThe location is consistent with that from Swift-BAT.\nThe spectrum is consistent with a \"normal\" GRB template \n(Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3).\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

@@ -1,0 +1,14 @@
+{
+  "editedOn": 1751483412434,
+  "subject": "Fermi GBM Triggers 250702B, C, D and E are likely from the same source",
+  "eventId": "GRB 250702D",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40891....1N",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov>",
+  "circularId": 40891,
+  "createdOn": 1751483067556,
+  "submitter": "eliza.neights@gmail.com",
+  "format": "text/plain",
+  "body": "E. Neights (GWU, NASA GSFC), O.J. Roberts (USRA, NASA MSFC), E. Burns (LSU), P. Veres (UAH) report on behalf of the Fermi-GBM Team:\n\nAt 13:09:02.03 UT, Fermi GBM triggered on GRB 250702D and was initially localized to an RA and Dec of 292.9 and 3.6 (19h, 31m, +03,33’; J2000), with an error of 14.7 deg. The light curve shows several peaks occurring over ~60 seconds.\n\nSince then, an additional three bursts have triggered GBM with similar lightcurve characteristics and localizations. The trigger times and localizations are summarized as follows:\n\nGRB Name\tMET (s)\t\tTime (UT)\tRA (deg)\tDec (deg)\tErr (deg)\n250702E\t\t773166098\t16:21:33.07\t286.8\t\t-17.7\t\t11.6\t(GCN 40890)\n250702C\t\t773160576\t14:49:31.91\t270.3\t\t1.4\t\t12.7\t(GCN 40885)\n250702B\t\t773157370\t13:56:05.77\t286.0\t\t-8.7\t\t7.8\t(GCN 40883)\n250702D\t\t773154547\t13:09:02.03\t292.9\t\t3.6\t\t14.7\t(GCN 40886)\n\nDespite the similar position lying close to or on the galactic plane, we observe photons in the BGO up to 1 MeV, with the majority of the photons occurring in the 50-300 keV range, which suggest the source may not be a typical galactic source and might be an ultra-long GRB or another source class. If a GRB origin is confirmed, it is 11.5 ks long, making it one of the longest ultra-long GRBs detected.\n\nThe combined GBM skymap can be found here: https://zenodo.org/records/15793558. The skymaps are all associated with each other with confidence between 89.2 and 98.5%.\n\nThere were no joint-GW detections during these triggered times.\n\nWe strongly suggest follow-up of the region to determine the nature of the source over multiple wavelengths."
+}

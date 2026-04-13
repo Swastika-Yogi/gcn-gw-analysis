@@ -1,0 +1,9 @@
+{
+  "subject": "Confirmation that Swift trigger 635306 is not an astrophysical source",
+  "bibcode": "2015GCN.17607....1K",
+  "createdOn": 1426715404000,
+  "circularId": 17607,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "H. A. Krimm (CRESST/GSFC/USRA) and C. Pagani (U Leicester) report on behalf of \nthe Swift Team:\n\nWe conclude that Swift trigger #635306 (Breeveld, et al., GCN Circ. 17601) was \nthe result of noise fluctuations and is not due to a GRB or other astrophysical \nevent.\n\nWe have analyzed the BAT data set from T-239 to T+963 sec from the recent \ntelemetry downlink.  We find that there is no sign of significant emission from \nthe trigger location at any point in this interval.\n\nXRT observations in Photon Counting mode data started 164 s after the BAT \ntrigger. In 1ks of PC data no source is detected inside the BAT error circle. \nThe three sigma upper limit is 6e-3 counts/second."
+}

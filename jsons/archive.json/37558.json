@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240918B: Fermi GBM Detection",
+  "eventId": "GRB 240918B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37558....1F",
+  "createdOn": 1726760855252,
+  "submitter": "rachel.hamburg@ijclab.in2p3.fr",
+  "circularId": 37558,
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB.\n\nAt approximately 20:56:58 UT on 18 Sep 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ndetected GRB 240918B, which was observed about 107 s after GBM triggered on\nGRB 240918A (trigger 748385716/240918872) (Fermi GBM Team 2024; GCN 37549).\nDue to the GBM trigger buffer of 10 min, the GBM did not trigger on this GRB.\n\nThe on-ground calculated location, using the Fermi GBM trigger data from 107.52 s\nto 115.71 s after trigger time, is RA = 142.54, Dec = -17.36 (J2000 degrees,\nequivalent to J2000 9h 30m, -17d 36'), with a statistical uncertainty of 2.03 degrees.\n\nThe angle from the Fermi LAT boresight is 64 degrees.\n\nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals,\nwas also used to identify GRB-like emission around the time of GRB 240918B. This search\nfinds a multi-peaked emission episode on timescales up to 4.096 s and showing a \nlocalization consistent with the on-ground location. The brightest peak (at 20:57:01 UT)\nwas found to be the most significant (FAR = 5.4e-06 Hz) on the 0.512 s timescale and \nbest fit with a \"normal\" GRB spectrum as described in [1].\"\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT refined analysis of AXP 1E1547.0-5408 (Trigger 330353)",
+  "bibcode": "2008GCN..8318....1K",
+  "createdOn": 1223076599000,
+  "circularId": 8318,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nC. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+829 sec from recent telemetry downlinks,\nwe report further analysis of BAT trigger 330353 (Krimm, et al.,\nGCN Circ. 8312).   We are not quoting the usual refined ground position\nat this time because the automated processing did not choose an optimum\ntime interval for the position analysis.  Howver, it is consistant\nwith the catalog position of the 1E1547.0-5408 source.\nThe partial coding was 95%.\n \nThe mask-weighted light curve shows a spike with a duration of about 64 msec\nat the time of the trigger.  There were multiple spikes from this source:\na smaller one at T-2.45 sec, slightly larger ones at ~T+105 and ~T+290 sec,\nand much larger ones at ~T+420 and ~T+520 sec.\n \nThe time-averaged spectrum from T-0.016 to T+0.080 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index -0.11 +- 0.79,\nand Epeak of 21.9 +- 9.5 keV (chi squared 43.1 for 49 d.o.f.).\nA simple power law fit yields and index 1.81 +- 0.15."
+}

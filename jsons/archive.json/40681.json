@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250610B: EP-FXT follow-up observation and afterglow counterpart ",
+  "eventId": "GRB 250610B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40681....1L",
+  "createdOn": 1749609860454,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "circularId": 40681,
+  "format": "text/plain",
+  "body": "Y. F. Liang, Y. L. Hua (PMO, CAS), X. P. Xu, H. W. Pan(NAO, CAS), A. Saccardi, J. Rodriguez, N. Dagoneau (CEA), C. Van Hove (IJCLab) report on behalf of the Einstein Probe and SVOM team\n\nWe performed a follow-up observation of GRB 250610B (detected through offline search of SVOM/ECLAIRs, Saccardi et al, GCN #40671; followed by Swift/XRT, Evans et al. GCN #40679), with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) mission. The observation began at 2025-06-10T17:04:27 (T-TGRB ~ 1.9ks), and the exposure time is about 5.8 ks.\nOnly 1 uncatalogued source was detected both by FXTA and FXTB in the 90% localization error circle provided by SVOM/ECLAIRs (with a radius of 3.22 arcmin centered at RA, DEC = 200.1831 deg, +31.1028 deg), as listed below (the FXT flux is taken from FXTB module).\n-------------------------------------------------------------------------------------------------\n    Source name      | RA       | DEC     | Estimated Flux       | SNR | Dist from SVOM/ECLAIRs |\n                     | deg      | deg     | (erg/s/cm^2)         |     | offset (in arcmin)     |\n\u0001\nEPF_J132043.1+310615 | 200.1795 | 31.1043 | 2.8(+/-0.2) x 10^-12 | 5.9 | 0.21 | \n-------------------------------------------------------------------------------------------------\nNote: * EPF_J132043.1+310615 was also detected by Swift/XRT (GCN #40679) in a ~2.0 ks observation, with a mean flux of ~3.9(+/-0.3)e-12 erg/s/cm^2, the position of this source is also associated with the Optical counterpart detected by SVOM/VT (Li et al. GCN #40678). \n\nThe above observation was made with the EP-FXT instrument. Launched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). EP is a mission of the Chinese Academy of Sciences in collaboration with ESA, MPE and CNES.\n"
+}

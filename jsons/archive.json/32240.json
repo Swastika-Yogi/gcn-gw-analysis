@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Detection of MAXI J0655-013",
+  "bibcode": "2022GCN.32240....1G",
+  "createdOn": 1655826468000,
+  "circularId": 32240,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "J.D. Gropp (PSU), N. J. Klingler (GSFC/UMBC/CRESSTII),\nA. Y. Lien (U Tampa), T. M. Parsotan (GSFC/UMBC/CRESSTII) and\nM. H. Siegel (PSU) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 15:19:30 UT, the Swift Burst Alert Telescope (BAT) located the\nsource MAXI J0655-013 (trigger=1111242). \nDue to observing constraints, Swift could not slew to the location. \nThe BAT on-board calculated location is \nRA, Dec 103.829, -1.479 which is \n   RA(J2000) = 06h 55m 19s\n   Dec(J2000) = -01d 28' 43\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is usual for an image trigger, the immediately\navailable lightcurve does not show clear variation due to this source. \n\nDue to a Sun observing constraint, Swift cannot slew to the BAT\nposition until 19:28 UT on 2022 August 19. There will thus be no XRT or\nUVOT data for this trigger before this time. \n\nThis source, MAXI J0655-013 (GCN #32223; ATEL #15442, #15443),\nhas been seen by BAT multiple times in 64s or longer image triggers. \nThese include\n2022-06-18T10:59\n2022-06-18T15:43\n2022-06-18T18:46\n2022-06-18T20:24\n2022-06-19T10:33\n2022-06-19T15:34\n2022-06-20T12:14\nThe strength of the source is ~100-200 mCrab during the above detections. \n\nThe average location of these detections is RA, Dec 103.806, -1.491\nwith a standard deviation of ~1.5 arcmin in each coordinate."
+}

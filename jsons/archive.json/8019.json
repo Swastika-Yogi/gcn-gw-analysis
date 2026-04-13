@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080725, Swift-BAT refined analysis",
+  "eventId": "GRB 080725",
+  "bibcode": "2008GCN..8019....1U",
+  "createdOn": 1217017746000,
+  "circularId": 8019,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "T. Ukwatta (GWU), S. D. Barthelmy (GSFC), W. Baumgartner (GSFC/UMBC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), K. McLean (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+130 sec from the recent telemetry \ndownlink, we report further analysis of BAT GRB 080725 (trigger #317888)\n(Krimm, et al., GCN Circ. 8014).  The BAT ground-calculated position is\nRA, Dec = 121.699, -13.984 deg which is\n   RA(J2000)  =  08h 06m 47.7s\n   Dec(J2000) = -13d 59' 03.4\"\nwith an uncertainty of 1.3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 42%.\n\nThe mask-weighted light curve starts with a short, faint precursor from\nT-105 to T-100 sec.  The main emission peak begins at T-20 sec and rises \nto a peak at T+2 sec.  There is a second peak at T+13 sec, and the \nemission falls to background levels by T+25 sec. T90 (15-350 keV) is 120 \n(+5, -75) sec (estimated error including systematics).  The spacecraft \nslewed away from the burst location starting at T+100 sec, so there is \nno data beyond T+130 sec.\n\nThe time-averaged spectrum from T-105.5 to T+51.8 sec is best fit by a \nsimple power-law model.  The power law index of the time-averaged \nspectrum is 1.50 +- 0.10.  The fluence in the 15-150 keV band is 3.7 +- \n0.2 x 10-6 erg/cm2. The 1-sec peak photon flux measured from T+3.54 sec \nin the 15-150 keV band is 2.3 +- 0.3 ph/cm2/sec.  All the quoted errors \nare at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/317888/BA/"
+}

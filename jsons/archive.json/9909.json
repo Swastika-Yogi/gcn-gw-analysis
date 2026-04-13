@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090912, Swift-BAT refined analysis",
+  "eventId": "GRB 090912",
+  "bibcode": "2009GCN..9909....1U",
+  "createdOn": 1252867792000,
+  "circularId": 9909,
+  "submitter": "Tilan Ukwatta at GSFC/GWU  <tilan.ukwatta@gmail.com>",
+  "email": "tilan.ukwatta@gmail.com",
+  "body": "T. N. Ukwatta (GSFC/GWU), S. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), A. M. Parsons (GSFC),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent\ntelemetry downlink,we report further analysis of BAT\nGRB 090912 (trigger #362633) (Ukwatta, et al.,\nGCN Circ. 9905). The BAT ground-calculated position is\nRA, Dec = 188.046, 61.475 deg which is\n   RA(J2000)  =  12h 32m 11.1s\n   Dec(J2000) = +61d 28' 29.4\"\nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90%\ncontainment). The partial coding was 30%.\n\nThe mask-weighted light curve shows two peaks. The first\nstart around T-4 sec, shows three sub peaks at ~T+0 sec,\n~T+4 sec, and ~T+7 sec, and ends around T+25 sec. The\nsecond peak starts at ~T+70 sec, peaks at ~T+88, and ends\naround T+145 sec. T90 (15-350 keV) is 144.0 +- 22.6 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-15.9 to T+160.1 sec is\nbest fit by a power law with an exponential cutoff.\nThis fit gives a photon index 0.91 +- 0.44, and Epeak\nof 69.3 +- 19.5 keV (chi squared 42.50 for 56 d.o.f.).\nFor this model the total fluence in the 15-150 keV band\nis 4.5 +- 0.3 x 10^-6 erg/cm2 and the 1-sec peak flux\nmeasured from T+87.56 sec in the 15-150 keV band is\n1.0 +- 0.1 ph/cm2/sec.  A fit to a simple power law\ngives a photon index of 1.66 +- 0.09\n(chi squared 52.84 for 57 d.o.f.). All the quoted\nerrors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/362633/BA/"
+}

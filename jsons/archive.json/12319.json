@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 502024: Swift detection of KS 1741-293",
+  "bibcode": "2011GCN.12319....1B",
+  "createdOn": 1314881042000,
+  "circularId": 12319,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), S. Campana (INAF-OAB), V. D'Elia (ASDC),\nN. Gehrels (NASA/GSFC), B. Gendre (ASDC), J. A. Kennea (PSU),\nH. A. Krimm (CRESST/GSFC/USRA), C. J. Mountford (U Leicester),\nD. M. Palmer (LANL), P. Romano (INAF-IASFPA) and B.-B. Zhang (PSU)\nreport on behalf of the Swift Team:\n\nAt 12:07:22 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated an outburst from what we tentatively associate with KS 1741-293\n(aka M 1741-293 and AX J1744.8-2921) (trigger=502024).  Swift did not slew\nimmediately because the on-board merit system gives these sources a low merit\nvalue. The BAT on-board calculated location is \nRA, Dec 266.252, -29.346, which is \n   RA(J2000)  =  17h 45m 00s\n   Dec(J2000) = -29d 20' 45\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single weak\npeak with a duration of about 10 sec.  The peak count rate\nwas ~1200 counts/sec (15-350 keV), at ~3 sec after the trigger. \n\nThe XRT began observing the field at 12:31:49.6 UT, 1467.2 seconds\nafter the BAT trigger. No source was detected in 117 s of promptly\ndownlinked data. We are waiting for the full dataset to detect and\nlocalise the XRT counterpart. \n\nAlthough the BAT position is consistent with the LMXRB\nKS 1741-293, this an extremely crowded field near the\nGalactic center, so it is possible that the burst\ncame from another Galactic source."
+}

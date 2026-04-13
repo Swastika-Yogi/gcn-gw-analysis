@@ -1,0 +1,10 @@
+{
+  "subject": "GRB040106, likely optical afterglow",
+  "eventId": "GRB 040106",
+  "bibcode": "2004GCN..2515....1M",
+  "createdOn": 1073672200000,
+  "circularId": 2515,
+  "submitter": "Evert Rol at U.Amsterdam  <evert@science.uva.nl>",
+  "email": "evert@science.uva.nl",
+  "body": "Nicola Masetti, Eliana Palazzi (IASF/CNR, Bologna), Evert Rol, Elena\nPian (INAF, OA Trieste) and Emanuela Pompei (ESO) on behalf of GRACE,\nreport:\n\n\nWe have observed the Integral error circle of GRB 040106 (Mereghetti\net al., GCN 2505), on two consecutive nights (6-7 and 7-8 Jan 2004) at\nthe ESO NTT with EMMI in R band.\n\nWithin the error circle of the XMM-Newton counterpart (Ehle et al.,\nGCN 2508), we find only one source which shows a clear fading\nbehaviour, as follows:\n\n  mid obsdate, UT\tfilter\texptime    magnitude   err(magn)\n\n  07/01/04, 08:33\tR\t10 min\t    22.4         0.1\n  08/01/04, 08:25\tR\t20 min\t    23.7 (*)\t 0.3\n\n* 2 sigma detection\n\nThe magnitudes are calibrated using the USNO-A2.0 star U0375_14656270,\nlocated at coordinates RA = 11:52:18.18, Dec = -46:46:54.3 (J2000),\nassuming it has magnitude R = 17.1. The magnitude errors are\nstatistical only, i.e. they do not include any zero point errors.\n\nAll other sources within the XMM-Newton error circle show no sign of\nfading, confirming the findings by Fox et al. (GCN 2514). We therefore\nidentify the fading source as the likely optical afterglow of GRB\n040106.\n\n\nThe position of the afterglow is \n\n  RA  =  11 52 12.27    (J2000)\n  Dec = -46 47 15.8\t(J2000)\n\nwith a 0.5 arcsecond error in both coordinates.\n\nThe NTT images can be viewed at\nhttp://www.bo.iasf.cnr.it/~masetti/grb040106.html (source 5 in the\nimages is the afterglow).\n\n\nFurther observations at all wavelengths are encouraged."
+}

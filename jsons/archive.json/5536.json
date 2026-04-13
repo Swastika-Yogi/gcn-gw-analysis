@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060906: Swift-UVOT observations",
+  "eventId": "GRB 060906",
+  "bibcode": "2006GCN..5536....1S",
+  "createdOn": 1157567486000,
+  "circularId": 5536,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and J.L. Racusin (PSU) report on behalf of the\nSwift-UVOT team:\n\nThe Swift UVOT began observing GRB 060906 152 seconds after the BAT\ntrigger (GCN 5528). No optical afterglow is detected at the 3-sigma level\nin the XRT error circle (GCN 5528) or at the location of the afterglow reported \nby Cenko et al. (GCN 5529) in individual or coadded exposures of any of the \nUVOT filters.\n\nThe 3-sigma limiting magnitudes for the coadded images of the\nUVOT filters are listed below:\n\nFilter  T_range(s)      Exp(s)  Upper limit (3sig)\nWHITE   201-8121        583     20.6\nV       457-7210        1297    20.1\nB       739-8029        520     20.3\nU       720-7824        529     20.0\nW1      697-7619        549     19.6\nM2      672-7415        549     19.9\nW2      773-7006        320     19.7\n\nwhere T_range is the start and end times of the coadded exposures. No\ncorrection has been made for Galactic reddening along the line of sight\n(E(B-V) = 0.20 mag)."
+}

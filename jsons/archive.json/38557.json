@@ -1,0 +1,14 @@
+{
+  "editedOn": 1769437389334,
+  "subject": "EP 241208A : Detection of a long soft transient by SVOM/ECLAIRs",
+  "eventId": "EP241208a",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38557....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "circularId": 38557,
+  "createdOn": 1734099043176,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/ECLAIRs Commissioning Team: Jean-Luc Atteia, Laurent Bouchet, Marius Brunet,\nSebastien Guillot, Juliette Alaux, Hui Yang (IRAP), Stéphane Schanne, Damien Turpin,\nNicolas Dagoneau, Frédéric Chateau, Hervé Le Provost (CEA), Wenjin Xie, Donghua Zhao\n(NAOC), Floriane Cangemi (APC), Tais Maiolino (LUPM), Karine Mercier, Marie-Claire\nCharmeau, Stefano Crepaldi (CNES)\n\nSVOM JSWG: Jian-Yan Wei (NAOC), Bertrand Cordier (CEA), Shuang-Nan Zhang (IHEP),\nStéphane Basa (LAM), Olivier Godet (IRAP), Arnaud Claret (CEA), Zi-Gao Dai (USTC),\nFrédéric Daigne (IAP), Jin-Song Deng (NAOC), Andrea Goldwurm (APC), Diego Götz\n(CEA), Xu-Hui Han (NAOC), Cyril Lachaud (APC), En-Wei Liang (GXU), Yu-Lei Qiu (NAOC),\nSusanna Vergani (Obs.Paris), Jing Wang (NAOC), Chao Wu (NAOC), Li-Ping Xin (NAOC),\nBing Zhang (UNLV)\n\nreport on behalf of the SVOM team:\n\nDuring the commissioning phase, the SVOM/ECLAIRs telescope detected and localized the\nlong soft transient EP241208A, also detected by Einstein Probe ( GCN circular 38477) at 2024-12-08T16:35:50.016 UTC (Tb) through an offline search with the event-by-event data downloaded through the X-band ground station.\n\nThe burst was detected by several methods and within several energy ranges and\ntimescales. The best detection is obtained by the image trigger with a signal-to-noise ratio of\n6.1 within 4-8 keV over a time window of 10.24 seconds starting at Tb. The lightcurve shows\na single peak of duration of about 10s. No emission has been detected above 20 keV.\n\nThe localization of the best Alert is RA, Dec = 127.785, 48.861 (J2000) which is consistent\nwith EP one.The statistical uncertainty on this position is 13 arcminutes, to which we\nrecommend adding 2 arcminutes of systematic uncertainty in quadrature.\n\nSpectral analysis is ongoing and will be published in a future circular.\n\nECLAIRs did not detect this burst onboard because its significance was below the onboard trigger\nAlert threshold.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the\nChinese National Space Administration (CNSA), French Space Agency (CNES), and the\nChinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts\nand other transient phenomena in the energetic universe. ECLAIRs was developed jointly by\nAPC, CEA, CNES, and IRAP.\n\nThe SVOM point of contact for this burst is: Marius Brunet (IRAP) marius.brunet@irap.omp.eu"
+}

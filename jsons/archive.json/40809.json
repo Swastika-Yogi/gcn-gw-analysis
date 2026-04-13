@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250620С (long/bright)",
+  "eventId": "GRB 250620",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40809....1S",
+  "createdOn": 1750586292806,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <dmitrysvinkin@gmail.com>",
+  "circularId": 40809,
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, A. Tohuvavohu,\nand J. DeLaunay on behalf of the Swift-BAT team, report:\n\nThe bright long-duration GRB 250620C\n(Fermi-GBM detection: The Fermi GBM team, GCN 40794;\nMukherjee, GCN 40799;\nSVOM-GRM detection: Wang et al., GCN 40807)\nwas detected by Fermi (GBM trigger 772128434), Swift (BAT),\nKonus-Wind, and SVOM (GRM) at about 58030 s UT (16:07:10).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose area is 17.6 sq. deg, and its maximum\ndimension is 25.5 deg (the minimum one is 51.0 arcmin).\nThe Sun distance was ~50 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM (GCN 40794) and BALROG \n(https://grb.mpe.mpg.de/grb/GRB250620672/?data_version=tte_v00) localizations.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250620_T58026/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

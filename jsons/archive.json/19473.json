@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160530A: discovery with the Compton Spectrometer and Imager",
+  "eventId": "GRB 160530A",
+  "bibcode": "2016GCN.19473....1T",
+  "createdOn": 1464648460000,
+  "circularId": 19473,
+  "submitter": "John Tomsick at SSL at UCB  <jtomsick@ssl.berkeley.edu>",
+  "email": "jtomsick@ssl.berkeley.edu",
+  "body": "John A. Tomsick (UC Berkeley/Space Sciences Laboratory) reports on behalf \nof the Compton Spectrometer and Imager (COSI) team:\n\nCOSI is a large field of view (1/4-sky) gamma-ray (0.1-10 MeV) instrument on \na Superpressure Balloon flight that began on May 16.  \n\nA likely Gamma-ray Burst (GRB 160530A) was detected by COSI in both the \ncesium iodide shields and the germanium strip detectors (GeDs).  The GRB \nstarted at 2016 May 30, 07:03:46 UT and lasted until 07:04:23 UT (based on \nthe shield rates).  During the burst, the light curve shows several large amplitude \nfluctuations.\n\nBased on the GeD rates and assuming a Band function with alpha=1.0, \nbeta=2.5, and E_break = 150 keV, we calculated a preliminary burst fluence of \n1.3E-5 erg/cm2.  This value may be revised in the future using the spectral \ncapabilities of the GeDs.\n\nThe position of the GRB is R.A. = 120.2 deg, Decl. = -26.2 deg (J2000, 90% \nconfidence error radius = 1.5 degrees), which corresponds to Galactic coordinates \nof l = 243.9 deg, b = 2.1 deg.  Due to the proximity to the Galactic plane, a Galactic \norigin cannot be ruled out.\n\nWe searched the SIMBAD database for possible counterparts, and three known \ngamma-ray sources are present in the COSI error region:  GRB 080516, \n2FGL J0758.0-2615c, and 3FGL J0755.2-2633 are, respectively, 0.4, 0.6, and \n1.3 degrees from the center of the COSI error circle. \n\nFollow-up observations with Swift/XRT are underway (see P.A. Evans et al., GCN \nCirc. 19472) to search for an afterglow that may allow us to improve the position \nand provide a definitive classification of the COSI burst."
+}

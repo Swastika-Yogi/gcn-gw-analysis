@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090531B: Swift-BAT refined analysis",
+  "eventId": "GRB 090531B",
+  "bibcode": "2009GCN..9465....1U",
+  "createdOn": 1243814582000,
+  "circularId": 9465,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "T. N. Ukwatta (GWU), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-61 to T+242 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 090531B (trigger #353728)\n(Cummings, et al., GCN Circ. 9461).  The BAT ground-calculated position is\nRA, Dec = 252.070, -36.015 deg, which is \n   RA(J2000)  =  16h 48m 16.8s \n   Dec(J2000) = -36d 00' 53.4\" \nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n \nThe mask-weighted light curve shows an initial bright spike with a total\nwidth of 1.3 sec.  It returns to baseline and then starts (!T+15 sec)\na long smooth rise to a peak around T+40 sec and a smooth decline\nending at ~T+110 sec.  The spike is spectrally harder than the long smooth peak.\nThis lightcurve is consistance with a short hard burst with an extended emission.\nT90 (15-350 keV) is 80 +- 23 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-13.0 to T+67.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.51 +- 0.22.  The fluence in the 15-150 keV band is 7.1 +- 0.9 x 10^-7 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.2 sec in the 15-150 keV band\nis 1.25 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/353728/BA/"
+}

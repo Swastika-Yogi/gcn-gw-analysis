@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090126A: Swift-XRT Refined Analysis",
+  "eventId": "GRB 090126A",
+  "bibcode": "2009GCN..8854....1S",
+  "createdOn": 1233019421000,
+  "circularId": 8854,
+  "submitter": "Michael Stroh at PSU/Swift  <stroh@astroh.org>",
+  "email": "stroh@astroh.org",
+  "body": "M. C. Stroh (PSU) reports on behalf of the Swift-XRT team:\n\nWe have analyzed the first 3.1 ks of XRT data for GRB 090126A  \n(Evangelista et al., GCN Circ. 8852), from T+48 ks to T+60 ks after  \nthe trigger. The data is all taken in Photon Counting (PC) mode.\n\nUsing 1435 s of XRT Photon Counting mode data and 2 UVOT images, we  \nfind an astrometrically corrected X-ray position (using the XRT-UVOT  \nalignment and matching to the USNO-B1 catalogue): RA, Dec = 3.6577,  \n81.3733 which is equivalent to:\n\nRA (J2000): 00 14 37.85\nDec (J2000): +81 22 24.0\n\nwith an uncertainty of 2.2 arcsec (90% confidence).\n\nThis position may be improved as more data are received. The latest  \nposition can be viewed at http://www.swift.ac.uk/xrt_positions.  \nPosition enhancement is described by Goad et al. (2007, A&A, 476, 1401 http://www.swift.ac.uk/xrt_positions/Goad.pdf) \n, the current algorithm is an extension of this method.\n\nA spectrum formed from the PC mode data can be fitted with an absorbed  \npower-law with a photon spectral index of 1.8 (+0.6, -0.4). The best- \nfitting absorption column is 1.8 (+/- 1.8) x 10^21 cm^-2, which is  \nconsistent with the Galactic value of 1.4 x 10^21 cm^-2 (Kalberla et  \nal. 2005). The observed (unabsorbed) flux in the 0.3-10.0 keV band is  \n1.49 (1.9) x 10^-12 erg cm^-2 s^-1.\n\nThe light curve shows a potentially decaying source which can be fit  \nusing a single power-law decay with a slope, alpha = 1.2 (+/- 1.1).  \nAssuming the light curve decays at the current rate, we predict count  \nrates at T+24 and T+48 hours to be 1.6 x 10^-2 and 7.0 x 10^-3  \nrespectively.\n\nThis is an official product of the Swift-XRT team."
+}

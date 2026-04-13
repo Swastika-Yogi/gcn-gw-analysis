@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081109: Swift/UVOT upper limits",
+  "eventId": "GRB 081109",
+  "bibcode": "2008GCN..8504....1K",
+  "createdOn": 1226243899000,
+  "circularId": 8504,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL) and S. Immler (CRESST/GSFC/UMD)\nreport on behalf of the Swift UVOT team.\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began observing\nGRB 081109 (Swift BAT trigger number 334112; Immler et al.,\nGCN Circ. 8500) on November 9, 2008, with a white filter finding\nchart at 07:03:23 UT, 75 seconds after the trigger.\n\nNo new source is detected in any of our images at the position\nconsistent with the reported XRT position in GCN Circ. 8500.\n\nThe magnitudes and upper limits for GRB081109 at this position\nare given below:\n\nFilter Tstart(s) Tstop(s)  Exp(s)  Magnitude\n\nwh      75       6592     745      >21.49  (3-sigma UL)\nu      287       6181     501      >20.57  (3-sigma UL)\nb      543       6387     452      >20.35  (3-sigma UL)\nuvw2   593       5362     274      >20.03  (3-sigma UL)\nv      617       5566     274      >19.09  (3-sigma UL)\nuvm2   641       5771     274      >19.87  (3-sigma UL)\nuvw1   666       5976     255      >20.00  (3-sigma UL)\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al, 2008, MNRAS 383, 627). They are not corrected for\nthe expected galactic reddening of E(B-V) = 0.019 in the direction\nof the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "BAT GRB 060204C is probably not a GRB",
+  "eventId": "GRB 060204C",
+  "bibcode": "2006GCN..4679....1S",
+  "createdOn": 1139180977000,
+  "circularId": 4679,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/ORAU), L. Barbier (GSFC), S. Barthelmy (GSFC),\nP. Boyd (GSFC-UMBC), J. Cummings (GSFC/ORAU), E. Fenimore (LANL),\nN. Gehrels (GSFC), D. Hullinger (UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nG. Sato (ISAS), J. Tueller (GSFC), W. Voges (MPE)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-299.0 to T+303.1 sec from the recent telemetry\ndownlink, we report further analysis of BAT trigger #180274 \n(Grupe, et al., GCN 4663).  The BAT ground-calculated position is\n(RA,Dec) = 92.715, 70.174 deg {6h 10m 58.5s, 70d 10' 41.7\"} (J2000)\n+- 3.6 arcmin, (radius, sys+stat, 90% containment).  The partial coding\nwas 39%.  The mask-weighted light curve shows a single broad peak in \nthe 15-50 keV band with no significant emission above 50 keV.  \nT90 (15-350 keV) is (60 +- 5) sec (estimated error including systematics).\n\nThe time-averaged spectrum from T+0 to T+64 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.4 +- 0.6.  The fluence in the 15-150 keV band is\n(3.5 +- 1.2) x 10^-07 erg/cm2.  The average photon flux measured from\nT+0 to T+64 sec in the 15-150 keV band is (0.10 +- 0.03) ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level.  \n\nThis source was detected at the 4.8-sigma level 1.5 days earlier\nat the same location.  There is 0.1% probability that this pre-trigger\ndetection is a chance coincidence.  This plus the very soft nature\nof the spectrum forces us to conclude that this is probably not a \nreal GRB, but is very likely a hard X-ray transient.  \n\nFurther analysis has shown that even though the star tracker had a\nloss-of-lock during the initial trigger, the tracking error was much \nsmaller than our stated location uncertainty."
+}

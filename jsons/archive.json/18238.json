@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150902A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 150902A",
+  "bibcode": "2015GCN.18238....1B",
+  "createdOn": 1441381045000,
+  "circularId": 18238,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and L. Hagen (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150902A\n59510 s after the LAT trigger (Arimoto et al., GCN Circ. 18228).\nNo optical afterglow consistent with the XRT Source 1 position given in \nMcCauley et al. (GCN Circ. 18237) is detected in the initial UVOT \nexposures. Source 2 is outside the UVOT field of view.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial \nexposures for source 1 are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\nwhite            60331        60972          631         >21.7\nv                61152        61997          828         >20.3\nu                59510        66787         1184         >20.7\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.40 in the direction of the \nburst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070714A: Swift/UVOT Upper limits",
+  "eventId": "GRB 070714A",
+  "bibcode": "2007GCN..6633....1C",
+  "createdOn": 1184618298000,
+  "circularId": 6633,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M.M. Chester (PSU) and D. Grupe (PSU) report on the behalf of the\nSwift UVOT team:\n\nThe Swift/UVOT observed the field of GRB070714A (trigger=284850)\nstarting 2007-195-03:21:15, 44 s after the BAT trigger (Grupe et al.\n2007, GCN Circ. 6619). We do not find any new source in any of the UVOT\nobservations inside the refined XRT error circle (Grupe 2007, GCN Circ.\n6628).\n\nThe 3-sigma upper limits for detecting a source inside the XRT error\ncircle in the first finding chart (FC) exposure and the co-added frames\n(including the finding chart) are:\n\nFilter   Tstart   Tstop    Exp     Magnitude\n            (s)     (s)     (s)    (3-sigma UL)\nWhite FC    61     161      98.2     20.19\nWhite       61    1641     235       20.63\nv           44    1690     855       19.69\nb          647    5955     138       19.55\nu          622    5868     274       19.71\nuvw1       598    5664     274       19.03\nuvm2      5258    5458     197       18.96\nuvw2       677    1666      77.8     18.49\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.186 mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

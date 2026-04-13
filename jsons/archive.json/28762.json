@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201024A: MASTER correction to GCN 28760",
+  "eventId": "GRB 201024A",
+  "bibcode": "2020GCN.28762....1V",
+  "createdOn": 1603509520000,
+  "circularId": 28762,
+  "submitter": "Vladimir Lipunov at Moscow State U/Krylov Obs  <lipunov@xray.sai.msu.ru>",
+  "email": "lipunov@xray.sai.msu.ru",
+  "body": "Due to a typo, the OT datetime data in the table(GCN 28760) was wrong\nHere are the correct values\n\n  T-Tmid      Date      Time       Expt.        Ra                Dec         Mag\n---------|---------------------|-------|-----------------|-----------------|-----\n       66   2020-10-24 02:51:20     10   (08h 23m 48.58s,   +03d 21m 13.8s) 14.9\n\nThe OT position is coincident with UVOT and XRT position. The afterglow appears to be fading rapidly."
+}

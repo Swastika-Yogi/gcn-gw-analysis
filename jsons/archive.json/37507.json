@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240913C: Joint location by ETJASMIN",
+  "eventId": "GRB 240913C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37507....1Z",
+  "createdOn": 1726326333061,
+  "submitter": "yqzhang_cl@163.com",
+  "circularId": 37507,
+  "format": "text/plain",
+  "body": "Yanting Zhang, Yanqiu Zhang, Shaolin Xiong, Yue Huang, Shuo Xiao, Xiaoyun Zhao, Ping Wang, report on behalf of a larger collaboration team:\n\nYin et al. (GCN Circ. 37493) reported that the burst, GRB 240913C, detected by Fermi/GBM at 2024-09-13T11:42:36.12 UTC coincide with EP240913a detected by EP/WXT (Li et al., GCN Circ. 37492) in terms of timing and location. We noticed that this burst was also detected by INTEGRAL/SPI-ACS (trignum=10902). With the public data of Fermi/GBM and INTEGRAL/SPI-ACS, we did a joint location for this burst with the ETJASMIN pipeline (Energetic Transients joint analysis system for Multi-INstrument, Xiao et al., MNRAS, 514, 2397, 2022). In this pipeline, we applied the Li-CCF method (Xiao et al., ApJ, 920, 43, 2021) to the high temporal resolution (~0.1 ms) light curve of Fermi/GBM and the low-latency 50 ms light curve of INTEGRAL/SPI-ACS, and derived a low-latency triangulation location as the following annuli:\n--------------------------------------------------------------------------------------------------\nAnnulus                 R.A. (deg)      Dec (deg)     Radius (deg)      Radius-Error (deg, 1sigma)\nGBM + SPI-ACS           56.378        86.003        73.064           13.17\n--------------------------------------------------------------------------------------------------\n\nThis location is well consistent with the EP location within the error, supporting that GRB 240913C is the high energy counterpart of EP240913a. \n\nWe note that this ETJASMIN location may be improved as more data from other instruments are used.\n\nETJASMIN is dedicated for joint observation of high energy transients with multiple instruments. ETJASMIN was initially developed for GECAM satellites and has been extended to accommodate other instruments. We acknowledge the public data of Fermi/GBM and INTEGRAL/SPI-ACS."
+}

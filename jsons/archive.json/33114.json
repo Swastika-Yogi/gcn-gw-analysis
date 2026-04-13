@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221226B: Swift-UVOT Detection",
+  "eventId": "GRB 221226B",
+  "bibcode": "2022GCN.33114....1K",
+  "createdOn": 1672161788000,
+  "circularId": 33114,
+  "submitter": "Noel Klingler at NASA-GSFC / UMBC  <njk5441@psu.edu>",
+  "email": "njk5441@psu.edu",
+  "body": "N. Klingler (UMBC/NASA-GSFC/CRESST II) reports on behalf of the Swift/UVOT team:\n\nThe Swift-UVOT began settled observations of the field of GRB 221226B\n76 s after the BAT trigger (Cenko et al., GCN Circ. 33108).  A source\nconsistent with the XRT position (Goad et al., GCN Circ. 33109) and consistent\nwith the  optical  counterpart reported by VLT/X-shooter\n(Xu et al., GCN Circ. 33110) is detected in the initial UVOT exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT\nphotometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               76          226          147         20.54 +/- 0.22\nv                 4408         4608          197        >19.3\nb                 3793         3993          197        >20.0\nu                  288         5132          278        >20.1\nw1                4818         5018          197        >20.0\nm2                4613         4813          197        >19.5\nw2                4204         4404          197        >20.0\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.017 in the direction of the burst\n(Schlegel et al. 1998)."
+}

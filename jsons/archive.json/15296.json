@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131002B: Swift-XRT Refined Analysis",
+  "eventId": "GRB 131002B",
+  "bibcode": "2013GCN.15296....1S",
+  "createdOn": 1380819549000,
+  "circularId": 15296,
+  "submitter": "Michael Stroh at PSU/Swift  <stroh@astroh.org>",
+  "email": "stroh@astroh.org",
+  "body": "M.C. Stroh and B. Sbarufatti report on behalf of the Swift-XRT team:\n\nWe have analysed 1.8 ks of XRT data for GRB 131002B,  from 58 s to 6.5\nks after the  BAT trigger. The data comprise 282 s in Windowed Timing\n(WT) mode with the remainder in Photon Counting (PC) mode. \n\nThe light curve consists of a relatively flat region of WT data from\nT+58 to T+333 s with a count rate ranging between 10 and 50 cts/s. The\nWT observation ended when Swift entered the SAA. PC data exists from\nT+5.0 to T+6.5 ks with a count rates between 0.1 and 0.04 cts/s. Since\nthere is only 1.8ks of data on this source, it is difficult to be\nconfident that a fit to these data points truly models the overall\nbehavior in this GRB.\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.46 (+0.04, -0.03). The\nbest-fitting absorption column is  consistent with the Galactic value\nof 9.1 x 10^20 cm^-2 (Kalberla et al. 2005). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum  is 4.7 x 10^-11 (5.2 x 10^-11) erg cm^-2 count^-1. \n\nA summary of the WT-mode spectrum is thus:\nGalactic foreground: 9.1 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.46 (+0.04, -0.03)\n\nIf the light curve continues to decay with a power-law decay index of\n2.05, the count rate at T+24 hours will be 2.0 x 10^-4 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 9.2 x\n10^-15 (1.0 x 10^-14) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00572742.\n\nThis circular is an official product of the Swift-XRT team."
+}

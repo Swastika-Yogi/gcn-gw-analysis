@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190930t: ATLAS Forced photometry of ZTF19acbpqlh (AT2019rpn)",
+  "eventId": "LIGO/Virgo S190930t",
+  "bibcode": "2019GCN.25923....1S",
+  "createdOn": 1570021360000,
+  "circularId": 25923,
+  "submitter": "Stephen Smartt at Queen's U/Belfast  <s.smartt@qub.ac.uk>",
+  "email": "s.smartt@qub.ac.uk",
+  "body": "S. J. Smartt, K. W. Smith (QUB), S. Srivastav, T.-W. Chen (MPE), D. R.\nYoung, M. Fulton, (QUB) L. Denneau, H. Flewelling, A. Heinze, J.\nTonry, H. Weiland (IfA, Univ. Hawaii), A. Rest (STScI), B. Stalder\n(LSST), C. Stubbs (Harvard), O. McBrien, M. Dobson, J. Gillanders, D.\nO'Neil, P. Clark, S. Sim (QUB)\n\nThe transient ZTF19acbpqlh (AT2019rpn) was reported by Stein et al.\n(GCN 25899) at r = 20.02 within the 95% localisation bayestar map (LVC\net al. GCN 25876).\n\nATLAS covered this region on 6 recent epochs, and forced PSF\nphotometry on the difference images at the position of this transient\ngives the following 3-sigma limiting magnitudes and two 4-sigma detections. \n\n58752.21516 c < 18.24    \n58754.21109 o < 18.71    \n58755.35411 c < 21.00    \n58756.60703339205 == s190930t discovery \n58756.2132  c < 19.47    \n58757.23448 o 19.84 +/- 0.26\n58758.21185 o 19.68 +/- 0.27\n\nAll mags are AB. \n\nc = cyan filter (a g+r composite)\no = orange filter (a i+r composite) \n\nTan et al. (GCN 25916) reported r = 20.7 +/- 0.3 which could imply a\nsignificant fade, although the uncertainty is significant. Our\nmeasurements imply the transient is flat or slowly rising.\n\nKarambelkar et al (GCN 25921) give a tentative identification of broad\nH-alpha in their blue spectrum. Our ATLAS photometry would support\ntheir conclusion of a young, relatively faint, type II SN. But further\ndata are required to confirm."
+}

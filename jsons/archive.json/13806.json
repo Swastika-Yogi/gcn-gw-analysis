@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120922A: Swift-BAT refined analysis",
+  "eventId": "GRB 120922A",
+  "bibcode": "2012GCN.13806....1K",
+  "createdOn": 1348407362000,
+  "circularId": 13806,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (OSU), J. Tueller (GSFC),\nT. N. Ukwatta (MSU), V. N. Yershov (UCL-MSSL)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+303 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 120922A (trigger #534394)\n(Yershov, et al., GCN Circ. 13793).  The BAT ground-calculated position is\nRA, Dec = 234.758, -20.181 deg, which is \n   RA(J2000)  =  15h 39m 02.0s \n   Dec(J2000) = -20d 10' 51.8\" \nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 33%.\n \nThe mask-weighted light curve shows low-level emission starting at T-200 sec,\npossibly sooner before the data capture started, with peaks at ~T_0, ~T+60, & ~T+105 sec,\nand ending at ~T+205 sec.  T90 (15-350 keV) is 173 +- 33 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-22.58 to T+215.73 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 1.58 +- 0.36, \nand Epeak of 38.2 +- 0.0 keV (chi squared 54.3 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 6.2 +- 0.7 x 10^-6 erg/cm2\nand the 1-sec peak flux measured from T+99.21 sec in the 15-150 keV band is\n2.0 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 2.09 +- 0.08 (chi squared 61.1 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/534394/BA/"
+}

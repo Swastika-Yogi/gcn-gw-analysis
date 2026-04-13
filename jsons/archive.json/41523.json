@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250823A: SVOM/VT optical observation",
+  "eventId": "GRB 250823A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41523....1M",
+  "createdOn": 1756038024410,
+  "circularId": 41523,
+  "submitter": "Yinuo Ma <mayn@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. N. Ma, Z. H. Yao, L. P. Xin, Y. L. Qiu, C. Wu, H. L. Li, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM/VT team. \n\nSVOM performed a Target of Opportunity observation of GRB 250823A detected by Swift/BAT (Siegel et al., GCN 41511) and Fermi/GBM (Fermi GBM Team, GCN 41510). SVOM/VT began observing the field at 2025-08-23T20:38:57 UTC,  0.48 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nWith X-band data availible, the optical counterpart (Gompertz & Dimple, GCN 41512; Fernandez-Garcia et al., GCN 41513; Strausbaugh & Cucchiara, GCN 41514; Malesani et al., GCN 41520; Kuin & Siegel, GCN 41521) at the position consistent with the locations of Swift/XRT (Siegel et al., GCN 41511; Evans et al., GCN 41515), was clearly detected in both VT_B and VT_R. It decayed by about 2 mag in 8 hours. The magnitudes are:\n\nmid time (h) | exposure time (s) | band | mag (AB) | mag err\n-------------|-------------------|------|----------|--------\n    1.934    |      37*70        | VT_B |  21.80   |  0.08 \n    1.934    |      37*70        | VT_R |  20.92   |  0.06 \n    9.913    |      28*70        | VT_R |  22.8    |  0.3    \n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

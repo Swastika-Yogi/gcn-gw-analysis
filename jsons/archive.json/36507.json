@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240514B (short)",
+  "eventId": "GRB 240514B",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36507....1S",
+  "createdOn": 1715967313242,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 36507,
+  "body": "D. Svinkin, D. Frederiks,  A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe short-duration GRB 240514B\n(Fermi-GBM detection: The Fermi GBM team, GCN 36469;\nRoberts and Meegan, GCN 36481;\nGRBAlpha detection: Ripa et al., GCN 36484)\nwas detected by Fermi (GBM trigger 737352230), Swift (BAT),\nINTEGRAL (SPI-ACS), GRBAlpha, and Konus-Wind, in the waiting mode,\nat about 14625 s UT (04:03:45).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  77.510  (05h 10m 02s) +53.570 (+53o 34' 12\")\n Corners:\n  147.796 (09h 51m 11s) +57.777 (+57d 46' 37\")\n    7.396 (00h 29m 35s) +57.580 (+57d 34' 49\")\n    7.207 (00h 28m 50s) +47.865 (+47d 51' 55\")\n  148.019 (09h 52m 04s) +48.062 (+48d 03' 43\")\n ---------------------------------------------\nThe error box area is 816 sq. deg, and its maximum\ndimension is 69 deg (the minimum one is 9.7 deg).\nThe Sun distance was 46 deg.\n\nThis localization may be improved.\n\nThe optical transient reported by Kumar et al., GCN 36488 is outside the IPN error box and the updated Fermi-GBM localization (glg_healpix_all_bn240514169_v02).\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240514_T14625/IPN/\n\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 201218A",
+  "eventId": "GRB 201218A",
+  "bibcode": "2020GCN.29090....1H",
+  "createdOn": 1608340330000,
+  "circularId": 29090,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "K. Hurley, on behalf of the IPN,\n\nI. G. Mitrofanov, D. V. Golovin, A. S. Kozyrev, M. L. Litvak,\nand A. B. Sanin, on behalf of the HEND-Odyssey GRB team,\n\nD. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nS. Barthelmy, J. Cummings, H. Krimm, and D. Palmer,\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, and R. Starr,\non behalf of the GRS-Odyssey GRB team, report:\n\nThe long-duration, very bright GRB 201218A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 29081;\nBALROG localization: Biltzinger et al., GCN Circ. 29083)\nhas been detected by Fermi (GBM trigger 629957660),\nKonus-Wind,  Mars-Odyssey (HEND), and Swift (BAT),\nso far, at about 15256 s UT (04:14:16).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   288.498 (19h 13m 59s) +28.356 (+28d 21' 23\")\n  Corners:\n   288.470 (19h 13m 53s) +28.144 (+28d 08' 38\")\n   288.400 (19h 13m 36s) +28.556 (+28d 33' 23\")\n   288.526 (19h 14m 06s) +28.569 (+28d 34' 08\")\n   288.596 (19h 14m 23s) +28.156 (+28d 09' 22\")\n  ---------------------------------------------\nThe error box area is 168 sq. arcmin, and its maximum\ndimension is 26 arcmin (the minimum one is 6.7 arcmin).\nThe Sun distance was 56 deg.\n\nThe IPN localization is consistent with, but reduces the area of, the \nFermi RoboBA and BALROG localizations (GCN Circ. 29081 and 29083).\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB201218_T15255/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

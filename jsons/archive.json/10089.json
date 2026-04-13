@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091026: Swift-BAT refined analysis",
+  "eventId": "GRB 091026",
+  "bibcode": "2009GCN.10089....1U",
+  "createdOn": 1256599898000,
+  "circularId": 10089,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "T. N. Ukwatta (GWU), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nA. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-60 to T+243 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 091026 (trigger #373871)\n(Markwardt, et al., GCN Circ. 10081).  The BAT ground-calculated position is\nRA, Dec = 276.657, -86.113 deg which is \n   RA(J2000)  =  18h 26m 37.7s \n   Dec(J2000) = -86d 06' 47.2\" \nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 36%.\n \nThe mask-weighted light curve shows a single FRED-like peak which starts\nto rise around T-5 sec, peaks near T+0 sec, and has a long tail extending \nto about T+120 sec.  T90 (15-350 keV) is 41.6 +- 7.2 sec (estimated error \nincluding systematics).\n \nThe time-averaged spectrum from T-3.7 to T+47.9 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.53 +- 0.11.  The fluence in the 15-150 keV band is 1.8 +- 0.1 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.18 sec in the 15-150 keV band\nis 2.2 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/373871/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191024A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 191024A",
+  "bibcode": "2019GCN.26070....1B",
+  "createdOn": 1571934063000,
+  "circularId": 26070,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and K. L. Page (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 191024A 833 s after the BAT trigger\n(Page et al., GCN Circ. 26063).\nNo optical afterglow consistent with the XRT position (Beardmore et al., GCN Circ. 26064) is\ndetected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf.\nProc. 1358, 373) for the first finding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           833          982          147         >21.2\nwhite              833        13531          360         >22.0\nv                  989         6893          274         >19.9\nb                 1087        13389         1043         >21.6\nu                 1062        19531          716         >21.3\nw1                1038        19072         1160         >21.1\nm2                6898         7098          197         >20.2\nw2                1137         1506           39         >19.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of\nE(B-V) = 0.02 in the direction of the burst (Schlegel et al. 1998)."
+}

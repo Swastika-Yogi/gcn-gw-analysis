@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120320A, Swift-BAT refined analysis",
+  "eventId": "GRB 120320A",
+  "bibcode": "2012GCN.13078....1B",
+  "createdOn": 1332259819000,
+  "circularId": 13078,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+512 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 120320A (trigger #518200)\n(Markwardt, et al., GCN Circ. 13071).  The BAT ground-calculated position is\nRA, Dec = 212.517, 8.682 deg which is\n    RA(J2000)  =  14h 10m 04.0s\n    Dec(J2000) = +08d 40' 54.9\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 60%.\n\nThe mask-weighted light curve shows two overlapping weak peaks.  There is\npossible low-level emission out to approximately T+90 sec.  T90\n(15-350 keV) is 25.74 +- 3.55 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-0.01 to T+29.86 sec is best fit by a power\nlaw with an exponential cutoff.  This fit gives a photon index 0.31 +- 0.95,\nand Epeak of 62.8 +- 23.4 keV (chi squared 57.5 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 5.9 +- 1.6 x 10^-07 erg/cm2\nand the 1-sec peak flux measured from T+24.10 sec in the 15-150 keV band is\n0.5 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.58 +- 0.18 (chi squared 64.7 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/518200/BA/\n\n[GCN OPS NOTE(20mar12):  The subject line was fixed (added the missing 0).\nAppreciation goes to D.Fox for pointing out the omission.]"
+}

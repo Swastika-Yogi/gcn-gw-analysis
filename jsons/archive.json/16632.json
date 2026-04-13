@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 607399: Swift detection of SGR1806-20",
+  "bibcode": "2014GCN.16632....1B",
+  "createdOn": 1406602310000,
+  "circularId": 16632,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "M. G. Bernardini (INAF-OAB), P. D'Avanzo (INAF-OAB),\nC. B. Markwardt (NASA/GSFC), D. M. Palmer (LANL) and\nM. H. Siegel (PSU) report on behalf of the Swift Team:\n\nAt 02:41:23 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a burst from the Soft Gamma Repeater SGR 1806-20 (trigger=607399).  \nSwift slewed immediately to the burst location. \nThe BAT on-board calculated location is \nRA, Dec 272.172, -20.437 which is \n   RA(J2000) = 18h 08m 41s\n   Dec(J2000) = -20d 26' 13\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty), which is 1.8 arcminutes from the location \nof the SGR.  The BAT light curve showed a single-peaked\nstructure with a duration of about 0.25 sec.  The peak count rate\nwas ~15000 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nThe XRT began observing the field at 02:42:52.6 UT, 88.9 seconds after\nthe BAT trigger. No source was detected in 303 s of promptly downlinked\ndata. We are waiting for the full dataset to detect and localise the\nXRT counterpart. \n\nUVOT took a finding chart exposure of 150 seconds with the White filter\nstarting 93 seconds after the BAT trigger. No credible afterglow candidate has\nbeen found in the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle. The typical 3-sigma upper limit has been about 19.6 mag. \nThe 8'x8' region for the list of sources generated on-board covers 100% of the\nBAT error circle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the large, but uncertain extinction expected."
+}

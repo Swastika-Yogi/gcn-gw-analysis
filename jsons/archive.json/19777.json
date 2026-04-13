@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-160731A: Konus-Wind limits",
+  "eventId": "IceCube-160731A",
+  "bibcode": "2016GCN.19777....1F",
+  "createdOn": 1470412336000,
+  "circularId": 19777,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nUsing Konus-Wind (KW) data, we have performed a search for a gamma-ray\ntransient around the time of the cosmic neutrino candidate IceCube-\n160731A (http://gcn.gsfc.nasa.gov/notices_amon/6888376_128290.amon)\n\nNo triggered KW event happened from ~5 days before to ~1 day after\nthe IceCube event. The nearest KW triggers are GRB 160726A\n(Frederiks et al, GCN 19733) and GRB 160802A (Kozlova et al, GCN 19767)\n\nUsing Konus-Wind waiting mode data in the interval ��1000 s around the\nIceCube trigger (July 31, 2016, 1:55:04 UTC), we estimate an upper\nlimit (90% conf.) on the 20 ��� 1200 keV fluence to ~7.7x10^-7 erg/cm^2\nfor a burst with duration less than 2.944 s and with a typical\nKW short GRB spectrum (an exponentially cut off power law with\nalpha\u000b=-0.5 and Ep=500 keV, Svinkin et al. 2016).\nFor a typical long GRB spectrum (the Band function with alpha=-1,\nbeta=-2.5, and Ep=250 keV), the corresponding limiting peak flux\nis ~5.8x10^-7 erg/cm^2/s (20 ��� 1200 keV, 2.944 s scale).\n\nA plot of the KW waiting mode data can be found at\nhttp://www.ioffe.ru/LEA/IceCube/kw20160731_06904_bg.png\n\n\nAll the quoted values are preliminary."
+}

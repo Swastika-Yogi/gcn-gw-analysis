@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050908 : Swift-XRT refined analysis",
+  "eventId": "GRB 050908",
+  "bibcode": "2005GCN..3952....1G",
+  "createdOn": 1126201305000,
+  "circularId": 3952,
+  "submitter": "Michael Goad at U Leicester  <mrg@star.le.ac.uk>",
+  "email": "mrg@star.le.ac.uk",
+  "body": "M. Goad (UL), K. Page (UL), D. Burrows (PSU) \nreport on behalf of the Swift XRT team:\n\nWe have analysed the XRT data for GRB050908 (BAT trigger 154112),\nbetween 118s and 24000 s after the trigger. As previously reported\nby Goad et al. (GCN3946), there is an uncatalogued fading X-ray source \nin the field of view. The refined coordinates for this burst are\n\nRA(J2000) : 01 21 50.38 \nDec(J2000): -12 57 19.89\n\nwith an uncertainty of 6 arcseconds (90% containment). This is \n43 arcseconds from the refined BAT position (GCN3951) and 6 arcseconds\nfrom the position of the candidate optical counterpart (GCN3943).\n\nThe initial lightcurve displays 2 large flares with approximately equal\namplitude peaking at T0+145 s and T0+397 s.\n\nThe spectrum of the burst in the first orbit of data is well fit by a single\npowerlaw with photon index 3.9 +1.1/-0.5 (0.3-10 keV), with evidence for\nexcess column above the Galactic value of 2.1e20 cm^-2 of NH~3e20 cm^-2.\n\nThe spectrum of the burst from T0+4200 to T0+24000 s appears to be harder\nwith a powerlaw slope of 2.0 +/-0.6.\n\nAfter the flares the light-curve declines with a slope of -1.33.\n\nIf the light-curve continues to decline at this rate the predicted count-rate\nat 24 hours after the burst is 5.3e-4 ct s^-1, corresponding to a 0.3-10 keV\nunabsorbed flux of 3.3e-14 erg cm^-2 s^-1."
+}

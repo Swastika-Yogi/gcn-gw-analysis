@@ -1,0 +1,14 @@
+{
+  "editedOn": 1733272957914,
+  "subject": "GRB 241127B: detection of a long GRB by SVOM/ECLAIRs",
+  "version": 2,
+  "eventId": "GRB 241127B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38413....1L",
+  "editedBy": "Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov> on behalf of Miguel Llamas Lanza at IRAP - Université de Toulouse III, France  <miguel.llamas.lanza@gmail.com>",
+  "circularId": 38413,
+  "createdOn": 1733092029247,
+  "submitter": "miguel.llamas.lanza@gmail.com",
+  "format": "text/markdown",
+  "body": "SVOM/ECLAIRs Commissioning Team: Miguel Llamas Lanza, Jean-Luc Atteia, Laurent Bouchet, Marius Brunet, Sebastien Guillot, Juliette Alaux, Hui Yang (IRAP), Stéphane Schanne, Damien Turpin, Nicolas Dagoneau, Frédéric Chateau, Hervé Le Provost (CEA), Wenjin Xie, Donghua Zhao (NAOC), Floriane Cangemi (APC), Tais Maiolino (LUPM), Karine Mercier, Marie-Claire Charmeau, Stefano Crepaldi (CNES)\n\nSVOM JSWG: Jian-Yan Wei (NAOC), Bertrand Cordier (CEA), Shuang-Nan Zhang (IHEP), Stéphane Basa (LAM), Olivier Godet (IRAP), Arnaud Claret (CEA), Zi-Gao Dai (USTC), Frédéric Daigne (IAP), Jin-Song Deng (NAOC), Andrea Goldwurm (APC), Diego Götz (CEA), Xu-Hui Han (NAOC), Cyril Lachaud (APC), En-Wei Liang (GXU), Yu-Lei Qiu (NAOC), Susanna Vergani (Obs.Paris), Jing Wang (NAOC), Chao Wu (NAOC), Li-Ping Xin (NAOC), Bing Zhang (UNLV)\n\nreport on behalf of the SVOM team:\n\nDuring the comissioning phase, the SVOM/ECLAIRs telescope detected and localized a long duration GRB (GRB 241127B) at 2024-11-27T20:56:28.248 UT (Tb) through an offline search with the event-by-event data downloaded through the X-band ground station.\n\nThe burst was detected by several methods and within several energy ranges and timescales. The best detection is obtained by the Wavelet Count-Rate trigger with a signal-to-noise ratio of 55.5 within 4-120 keV over a time window of 20.48 seconds starting at Tb. The lightcurve shows a slow rise of about 50 seconds and a faster decay of about 20 seconds. \n\nThe localization of the best Alert is RA, Dec = 10.9757, 17.8559 (J2000).The statistical uncertainty on this position is 1.4 arcminutes, to which we recommend adding 2 arcminutes of systematic uncertainty in quadrature.\n\nSVOM did not slew on this burst. The ECLAIRs onboard trigger was not activated at the time of the burst. The burst is also observed in SVOM/GRM.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by APC, CEA, CNES, and IRAP.\n\nThe SVOM point of contact for this burst is: Miguel Llamas Lanza (IRAP) miguel.llamas.lanza@irap.omp.eu"
+}

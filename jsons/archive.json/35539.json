@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240112C",
+  "eventId": "GRB 240112C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35539....1R",
+  "createdOn": 1705332670103,
+  "circularId": 35539,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 240112C\n(Swift-BAT detection: Eyles-Ferris et al., GCN 35522;\nFermi-GBM detection: Veres at al., GCN 35533;\nGRBAlpha detection: Dafcikova et al., GCN 34436)\ntriggered Konus-Wind at T0=63441.633 s UT (17:37:21.633).\n\nThe burst light curve shows a double-peaked structure,\nwhich starts at ~T0-0.5 s and has a total duration of ~4 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240112_T63441/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.70(-0.39,+0.46)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+2.384 s,\nof 3.30(-0.84,+0.88)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.59(-0.22,+0.26)\nand Ep = 79(-18,+18) keV (chi2 = 66/74 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.3\n(chi2 = 64/73 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary.\n"
+}

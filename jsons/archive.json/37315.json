@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240825A: GECAM detection",
+  "eventId": "GRB 240825A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37315....1W",
+  "createdOn": 1724836051719,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 37315,
+  "format": "text/plain",
+  "body": "Chen-Wei Wang (IHEP), Shao-Lin Xiong (IHEP) report on behalf of the GECAM team:\n\nGECAM-B was triggered in-flight by a long burst, GRB 240825A at 2024-08-25T15:53:00 UTC (denoted as T0), which was also detected by many missions, including Swift (R. Gupta et al., GCN 37274), Fermi/LAT (N. Di Lalla et al., GCN 37288), AstroSat (J. Joshi et al., GCN 37298), Fermi/GBM (V. Sharma et al., GCN 37301) and Konus-Wind (D. Frederiks et al., GCN 37302).\n\nAccording to the event-by-event data of GECAM-B, this burst mainly consists of a short bright pulse followed by many overlapping short pulses with a T90 of 5.6 s +/- 0.3 s from 40 keV to 6000 keV. \n\nThe time-averaged spectrum from T0 to T0+10 s could be adequately fit by Band function with Epeak = 264 +/- 19 keV, alpha = -0.79 +/- 0.08, and beta = -2.10 +/- 0.05. The fluence of this time interval is (1.43 +/- 0.07) E-4 erg/cm2 in 40-8000 keV. With the redshift reported by VLT/X-shooter (A. Martin-Carrillo et al., GCN 37293), the isotropic energy release Eiso is about 1.7E53 erg.\n\nThe GECAM-B light curve can be found here:\nhttps://www.bursthub.cn//admin/static/gecamgrb240825A.png\t\n\nDuring GRB 240825A, GECAM-C was in the high latitude region where only two gamma-ray detectors (i.e. GRD01 and GRD07) are set to collect data normally, and both of them clearly detected this bright burst.\n\nWe note that these results are preliminary. Refined analysis will be reported later.\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor (GECAM) mission originally consists of two micro-satellites (GECAM-A and GECAM-B) launched in Dec. 2020. As the third member of GECAM constellation, GECAM-C was launched onboard SATech-01 experimental satellite in July 2022. GECAM mission is funded by the Chinese Academy of Sciences (CAS).\n"
+}

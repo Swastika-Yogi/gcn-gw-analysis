@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Observations of GRB070721A",
+  "eventId": "GRB 070721A",
+  "bibcode": "2007GCN..6648....1S",
+  "createdOn": 1185044216000,
+  "circularId": 6648,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and H. Ziaeepour (MSSL-UCL) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070721A starting 69 s after the \nBAT trigger (Ziaeepour et al. GCN Circ.6639). We do not find any source, \nin any of the UVOT observations inside the refined XRT error circle (Evans \net al., GCN Circ.6644). However, we note that there is an 18th mag star 4 \narcseconds from the XRT refined position.\n\nThe 3-sigma upper limits for detecting a source inside the XRT error \ncircle are:\n\nFilter  T_mid(s)  Exp(s)  Mag (3-sig upper limit)\n=================================================\nWhite   1088      156     > 21.7\nV       1194      453     > 20.9\nB       1509      97      > 19.5\nU       1359      117     > 20.0\nUVW1    1334      117     > 19.6\nUVM2    1309\t  117     > 19.2\nUVW2    1530      97      > 19.4\n\nwhere T_mid is the weighted mid time of the coadded exposure. The values \nquoted above are not corrected for the expected Galactic extinction \ncorresponding to a reddening of E(B-V) = 0.01 mag in the direction of the \nburst (Schlegel et al. 1998)."
+}

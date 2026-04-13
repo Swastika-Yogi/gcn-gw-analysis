@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 121226A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 121226A",
+  "bibcode": "2012GCN.14113....1B",
+  "createdOn": 1356643077000,
+  "circularId": 14113,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL-UCL) and H. A. Krimm (CRESST/GSFC/USRA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 121226A \n104 s after the BAT trigger (Krimm et al., GCN Circ. 14105). No optical \nafterglow consistent with the XRT position (Littlejohns et al. GCN Circ. \n14112) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system \n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding \nchart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           104          254          147         >20.6\nu_FC               317          566          246         >19.6\nwhite              104        18160         1317         >21.6\nv                  646        10716         1121         >20.4\nb                  572        17397         1317         >21.3\nu                  317        16485         1544         >20.9\nw1                 696        12390         1163         >20.7\nm2                 671        11621         1298         >21.0\nw2                 622         6620          351         >20.2\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.055 in the direction of \nthe burst (Schlegel et al. 1998)."
+}

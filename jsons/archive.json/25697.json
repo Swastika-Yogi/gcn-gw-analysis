@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF19abvizsw: No counterpart candidates from Swift/BAT targeted search",
+  "eventId": "ZTF19abvizsw",
+  "bibcode": "2019GCN.25697....1T",
+  "createdOn": 1568086319000,
+  "circularId": 25697,
+  "submitter": "Aaron Tohuvavohu at PSU/Swift  <auc444@psu.edu>",
+  "email": "auc444@psu.edu",
+  "body": "Aaron Tohuvavohu (U Toronto) reports:\n\nWe have performed a search for an un-triggered GRB counterpart to the\nclaimed afterglow candidate ZTF19abvizsw (GCN 25616, 25643, 25658) in\nthe Swift/BAT raw light curves. The temporal window for the search was\nchosen to be 2019-09-01 07:35 --- 2019-09-02 03:08 corresponding to\nthe times of the last ZTF non-detection and of the discovery\nobservation respectively.\n\nDuring this time period, the location of ZTF19abvizsw was above the\nEarth-limb with respect to the spacecraft (and thus a priori capable\nof depositing flux onto the detector) 64.2% of the time. The location\nwas inside the BAT coded field-of-view 19% of the time.\n\nNo compelling candidates were found in the BAT raw light curves with\ntime bins of 64ms, 1 s and 1.6 s. Due to the long temporal window for\nthe search, the average background, and thus upper-limit sensitivity,\nvaries widely over the search window. After excising times when the\nspacecraft was near the South Atlantic Anomaly, the average 5-sigma\nflux upper limit achieved for a long GRB in the 1-s binned data with a\ntypical spectrum corresponds to ~3 x 10^-7 erg/s/cm^2 in the BAT coded\nfield-of-view, and approximately an order of magnitude higher for\nlocations outside of the field-of-view.\n\nWe also performed spot checks for the three candidates reported from\nINTEGRAL (GCN 25686). None of these candidates are seen in the\nSwift/BAT data."
+}

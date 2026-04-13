@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240419A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 240419A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36193....1S",
+  "createdOn": 1713609998638,
+  "submitter": "Sam Shilling at Lancaster University <shilling.sam@gmail.com>",
+  "circularId": 36193,
+  "body": "S. P. R. Shilling (Lancaster U.), S. R. Oates (Lancaster U.), A. A. Breeveld (UCL-MSSL), M. De Pasquale (Univ. of Messina) and M. H. Siegel (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240419A\n113 s after the BAT trigger (Siegel et al., GCN Circ. 36169).\nNo optical afterglow consistent with the enhanced XRT position (Goad et al., GCN Circ. 36174) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposures and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           113          263          147         >20.7\nu_FC               271          521          246         >20.0\nwhite              113         1025          334         >21.3\nv                  602         1075           58         >18.6\nb                  527          721           39         >19.3\nu                  271          869          285         >20.1\nw1                 652          845           39         >18.2\nm2                 627         1099           58         >18.3\nw2                 578         1050           58         >18.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.070 in the direction of the burst\n(Schlegel et al. 1998)."
+}

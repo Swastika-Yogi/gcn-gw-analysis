@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 210506A",
+  "eventId": "GRB 210506A",
+  "bibcode": "2021GCN.29968....1S",
+  "createdOn": 1620514149000,
+  "circularId": 29968,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, D. Frederiks, A. Ridnaia,\nA. Lysenko, and T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Xiao, S. L. Xiong, X. B. Li, Y. Huang, and S. N. Zhang,\non behalf of the Insight-HXMT team, report:\n\nThe short-duration GRB 210506A\n(Swift/BAT-GUANO detection: Tohuvavohu et al., GCN Circ. 29947)\nwas detected by Swift (BAT), INTEGRAL (SPI-ACS), Insight-HXMT (HE),\nand Konus-Wind at about 2388 s UT (00:39:48).\n\nWe have triangulated it to a preliminary, error box\nwhose coordinates are:\n  ------------------------------------\n   RA(2000), deg       Dec(2000), deg\n  ------------------------------------\n  Corners:\n     224.231           -32.736\n     175.778           -26.218\n     177.243           -30.663\n     225.586           -36.393\n  ------------------------------------\nThe error box area is about 160 sq. deg, and its maximum\ndimension is 43 deg (the minimum one is 3.7 deg).\nThe Sun distance was 93 deg.\n\nThis box may be improved.\n\nThe IPN box is consistent with the Fermi-GBM nondetection,\ninconsistent with the BAT-GUANO localization, and\nis outside the BAT coded FoV.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210506_T02388/IPN/"
+}

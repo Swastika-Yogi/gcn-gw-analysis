@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050730: Swift-BAT detection of a weak burst",
+  "eventId": "GRB 050730",
+  "bibcode": "2005GCN..3704....1H",
+  "createdOn": 1122757241000,
+  "circularId": 3704,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S.T. Holland (GSFC/USRA), S. Barthelmy (GSFC), D.N. Burrows (PSU),\nC. Gronwall (PSU), J. Kennea (PSU), N. Gehrels (GSFC), D. Palmer (LANL),\nA. Parsons (GSFC), P. Schady (MSSL),\non behalf of the Swift team:\n\nAt 19:58:23 UT, Swift-BAT triggered and located GRB050730 (trigger=148225).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 212.065d,-3.762d {14h 08m 16s,-03d 45' 41\"} (J2000), with an\nuncertainty of 3 arcmin (radius, 90% containment, stat+sys).  The BAT\nlight curve shows a broad weak bump with a total duration of 30-40 sec.\nThe peak count rate was ~500 counts/sec (15-350 keV).\n\nThe XRT began observing at 20:00:33 UT, 130 seconds after the BAT trigger.\nXRT was unable to centroid on any source, however the downlinked lightcurve\nshows a bright variable source is present in the XRT field of view.\nThere are no catalogued X-ray sources in the field, suggesting that this\nbright source is the GRB afterglow.\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) observations began at\n20:00:22 UT, 119 seconds after the BAT trigger.  The first data taken\nin the V band after the spacecraft settled was a 100 sec exposure.\nA comparison against the DSS catalogue reveals a possible new source inside\nthe BAT error circle at 14h 08m 17.09s,-3d 46' 18.9\" +- 1 arcsec (radius,\nsys+stat, 90% c.l., J2000).  The V band magnitude was 17.62 +- 0.22.\n\nIt is noted that the position of this GRB lies in the direction\nof the Galaxy Cluster ZwCl 1406-0334 (z=0.088).  The s/c is currently\nin the gap of downlink passes, so further analysis will not be forthcoming\nfor at least 5 hours."
+}

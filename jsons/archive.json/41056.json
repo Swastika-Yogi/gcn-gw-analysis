@@ -1,0 +1,11 @@
+{
+  "subject": "IceCube-250708A: No Candidates from WINTER",
+  "eventId": "IceCube-250708A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41056....1S",
+  "createdOn": 1752110078399,
+  "circularId": 41056,
+  "submitter": "Robert David Stein at JSI <rdstein@umd.edu>",
+  "format": "text/plain",
+  "body": "Robert Stein (UMD), Danielle Frostig (CfA), Viraj Karambelkar (Caltech), Mansi Kasliwal (Caltech), Nathan Lourie (MIT), Geoffrey Mo (MIT), and Robert Simcoe (MIT) report:\n\nOn behalf of Wide-Field Infra-Red Transient Explorer (WINTER) collaboration: \n\nWe observed the localization region of the neutrino event IceCube-250708A (Zegarelli et. al, GCN 41039) with the 1.2 sq. degree near-IR WINTER camera on the Palomar 1-m telescope (Lourie et al. 2021, Frostig et al. 2024). We conducted observations in J-band beginning at 2025-07-09 02:42 UTC, approximately 12.6 hours after event time. Our observations covered a total of 0.8 sq. deg. of sky for which reference images were available, corresponding to 89.9% of the total probability. Our observations reached a median depth of 18.7 mag AB. \n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). We use data from the UKIRT Hemisphere survey (Dye et al. 2018) as references for image subtraction. \n\nWe search for WINTER sources with multiple detections, and for WINTER sources with cross-matches in the alert stream of the Zwicky Transient Facility (Bellm et al. 2019). \n\nAfter removing likely stellar sources and likely subtraction artefacts, we find no candidate counterparts.\n\nObservations of this field will continue as part of the WINTER neutrino follow-up program.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240125A",
+  "eventId": "GRB 240125A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35699....1R",
+  "createdOn": 1707317478776,
+  "circularId": 35699,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 240125A\n(Glowbug gamma-ray detection: Cheung et al., GCN 35630;\nAstroSat CZTI detection: Joshi et al., GCN 35637;\nCALET CGBM detection: Marrocchesi et al., GCN 35639;\nGRBAlpha detection: Dafcikova et al., GCN 35645;\nIPN triangulation: Kozyrev et al., GCN 35652)\ntriggered Konus-Wind at T0=34503.601 s UT (09:35:03.601).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.5 s and has a total duration of ~1.0 s.\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240125_T34503/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.79(-1.52,+5.06)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.220 s,\nof 1.13(-0.57,+1.27)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the main fraction of the burst emission was detected\nbefore the trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-0.512 s to T0+0.448 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = 0.01(-0.59,+1.53) and Ep = 982(-418,+1876) keV.\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary.\n\n"
+}

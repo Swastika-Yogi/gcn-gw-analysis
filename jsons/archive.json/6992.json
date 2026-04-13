@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 071025: ROTSE-III Refined Analysis",
+  "eventId": "GRB 071025",
+  "bibcode": "2007GCN..6992....1R",
+  "createdOn": 1193295268000,
+  "circularId": 6992,
+  "submitter": "Eli Rykoff at U of Michigan/ROTSE  <erykoff@umich.edu>",
+  "email": "erykoff@umich.edu",
+  "body": "E.S. Rykoff (UCSB), F. Yuan (U Mich), B. E. Schaefer (Louisiana\nState), H. Swan (U Mich), R. Quimby (Caltech), report on behalf of the\nROTSE collaboration:\n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB\n071025 (Swift trigger 295301, GCN 6986, Pagani, et al.) and detected\nan optical counterpart as reported in GCN 6987 (Rykoff, et al.).  We\nhave improved the photometry and recalibrated the images relative to\nUSNO-B1.0 R-band, which is significantly offset from the magnitudes in\nUSNO-A2.0 R-band.\n\n From our initial observations at T+80.3s we see the counterpart rise\nto a peak of 17.3+/-0.2 at T+332s (midtime for a 40s coadd), and then\nfade slowly over the next 1500 s.  At T+595s (midtime for a 280s\ncoadd) the magnitude is 17.6+/-0.1.  This integration is nearly\nsimultaneous with the NIR detections of H~13.8 (Covino, et al., GCN\n6988) and J=14.95 (Bloom, et al., GCN 6989).\n\nAlthough the ROTSE-III images are calibrated relative to R-band, the\nunfiltered CCD has significant sensitivity redward of R.  Our\nobservations are thus consistent with a possible R-band dropout (Im,\net al., GCN 6991) and UVOT non-detection (Pangani, et al., GCN 6986).\n\nWe can assume that the intrinsic GRB spectrum as an R-J color of ~1,\nand the reddening is entirely caused by the intergalactic medium\n(IGM).  We then use the ROTSE-III magnitude and the integrated\nROTSE-III response curve convolved with the IGM absorption model of\nMeiksin (2005) to estimate an upper limit on the burst redshift of\nz~5.3 (for more details see Ruiz-Velasco, et al, 2007).  We note that\nat this redshift the R-band offset would be ~1.2 mag, which may be\nconsistent with the limits of Im, et al.  However, if the reddening is\nnot caused by absorption in the IGM then the burst redshift may be\nlower."
+}

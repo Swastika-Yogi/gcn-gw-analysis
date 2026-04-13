@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080915: Swift-XRT afterglow detection and analysis",
+  "eventId": "GRB 080915",
+  "bibcode": "2008GCN..8231....1E",
+  "createdOn": 1221482051000,
+  "circularId": 8231,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans (U. Leicester) and S.R. Oates (MSSL/UCL)\nreport on behalf of the Swift-XRT team.\n\nWe have analysed 1.7 ks of XRT data on GRB080915 (Oates et al, GCN Circ\n8227), beginning  4.9 ks after the GRB trigger. Swift did not slew\nimmediately to the burst due to an Earth limb constraint.\n\nWe find a faint, fading source with a mean count rate ~0.01 counts per\nsecond at a position of RA, Dec=17.9473, -76.0204 degrees, which is\nequivalent to:\n\nRA (J2000):  01h 11m 47.35s\nDec (J2000): -76d 01' 13.4\"\n\nwith an uncertainy of 6.5 arcsec (radius, 90% containment). This\nposition is 54 arcsec from the BAT position, within the BAT error\ncircle.\n\nThe light curve shows a power-law decay with an index of 0.94\n(+1.19/-0.58); the large uncertainty arises because the light curve\ncontains only 2 points.\n\nA spectrum formed from the PC data can be modelled with an absorbed\npower-law. The absorption column is poorly constained, but consistent\nwith the Galactic value of 6.7 x 10^20 cm^-2 (Kalberla et al. 2005), and\nthe photon index is 2.3 (+2.6, -1.3).\n\nIf the light curve continues to decay at alpha=0.94 we predict a count\nrate at T0+24 hrs of 0.0018  counts per second. This corresponds to an\nobserved (unabsorbed) 0.3-10 keV flux of 6.36 x 10^-14 (1.22 x 10^-13)\nerg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

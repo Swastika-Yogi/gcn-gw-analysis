@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061121: Swift/UVOT Observations",
+  "eventId": "GRB 061121",
+  "bibcode": "2006GCN..5833....1M",
+  "createdOn": 1164163793000,
+  "circularId": 5833,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "GRB 061121: Swift/UVOT Observations\n\nF. E. Marshall (NASA/GSFC), S. T. Holland (NASA/GSFC & USRA),\nand K. L. Page (U Leicester) report on behalf of the Swift/UVOT team:\n\n  The Swift/UVOT began observing the field of GRB 061121 at\n15:23:32 on 2006-11-21, 62 s after the BAT trigger (Page et al.,\nGCN Cir. 5823).  An optical counterpart was detected in the White\nfilter (160-650 nm) at a position (RA,Dec) = (09:48:54.55,\n-13:11:42.4) (J2000) with a 90% confidence interval of 0.6 arcsec.\n\n  The afterglow was detected in each of the UVOT filters,\nand was still easily detected in the most recent exposure with the\nWhite filter 7026 seconds after the BAT trigger.\n\n  The early photometry results are given for the UVOT filters\nbelow where Midpoint is the average time of the exposure, in seconds,\nsince the BAT trigger.  The quoted errors do not include the 0.1 mag\nsystematic uncertainty in the photometric zero points.\n\n  Filter   Midpoint  Exposure  Mag  Err\n  V         368       393     17.06 0.05\n  B         650        10     17.7  0.2\n  U         631        10     17.2  0.2\n  UVW1     4981       197     19.6  0.2\n  UVM2     6208       197     19.8  0.3\n  UVW2     5800       197     20.4  0.3\n  White     112        98     16.23 0.03\n           7026       197     18.7  0.1\n\nThe values quoted above are not corrected for the expected Galactic\nextinction of E_{B-V} = 0.04 mag (Schlegel et al. 1998)."
+}

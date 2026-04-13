@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170827B",
+  "eventId": "GRB 170827B",
+  "bibcode": "2017GCN.21775....1S",
+  "createdOn": 1504188800000,
+  "circularId": 21775,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A.Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 170827B\n(IPN Triangulation: Svinkin et al., GCN Circ. 21735)\ntriggered Konus-Wind at T0=70686.844 s UT (19:38:06.844).\n\nThe burst light curve shows a single pulse which starts\nat ~T0-0.150 s and has a total duration of ~0.180 s.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.2(-0.8,+1.1)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.018 s,\nof 3.8(-1.3,+1.5)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0-0.148 s to T0+0.032 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.21(-0.34,+0.56) and Ep = 345(-79,+121) keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170827_T70686/\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

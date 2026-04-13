@@ -1,0 +1,14 @@
+{
+  "editedOn": 1731773616086,
+  "subject": "LIGO/Virgo G274296: Observations of initial skymap by project Mini-GWAC of SVOM",
+  "version": 2,
+  "eventId": "LIGO/Virgo G274296",
+  "bibcode": "2017GCN.20695....1W",
+  "createdOn": 1487467635000,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov>",
+  "submitter": "Chao Wu at NAOC  <wuchao.lamost@gmail.com>",
+  "circularId": 20695,
+  "email": "wuchao.lamost@gmail.com",
+  "format": "text/plain",
+  "body": "J.Y. Wei (NAOC), X.H. Han (NAOC), C. WU (NAOC), N. Leroy (LAL),\nS. Antier (LAL), L.P. Xin (NAOC), X.M. Meng (NAOC), L. Huang (NAOC),\nY. Xu (NAOC), H.B. Cai (NAOC), J. Wang (NAOC), X.M. Lu (NAOC),\nY.L. Qiu (NAOC), J.S. Deng (NAOC), L. Cao (NAOC), S. Wang (NAOC),\nL. Jia (NAOC), S.C. Zou (NAOC), S.F. Liu (NAOC), Q.C. Feng (NAOC),\nH.L. Li (NAOC), D.W. Xu (NAOC), Y.J. Xiao (NAOC), W.L. Dong (NAOC),\nY.T. Zheng (NAOC), E.W.Liang (GXU), X.G.Wang (GXU), Y.G. Yang (HBNU),\nB. Cordier (CEA), S.N. Zhang (NAOC), D. Dornic (CPPM), B.B. Wu (IHEP),\nJ.L. Atteia (IRAP), D. Götz (CEA), C.Lachaud (APC),\non behalf of the SVOM Gravitational Astronomy group report:\n\nWe observed about 1200 square degree (3 sky regions) of the skymap\nof the advanced LIGO trigger G274296, with SVOM/Mini-GWAC, at Xinglong\nObservatory of NAOC equipped with U9000 camera (FOV~400 square\ndegree/camera).\nSVOM/Mini-GWAC comprises 12 wide field angle cameras (aperture=7cm),\nworking with unfiltered band. The observations are operated in time-series\nmode, taking one exposure in 15 seconds (10s exposure + 5s readout).\nThe limit magnitude is ~12 mag in R band. We estimate a 52% prior\nprobability that these 3 regions contain the true location of the\nsource.\n\nThe coordinates of the 3 regions and observation time are list following:\n\nstart-obs(UTC) end-obs(UTC) Ra Dec Camera_ID\n2017-02-17 12:20:29.0 2017-02-17 13:45:04.7 10:34:48.326 +29:29:08.60 C1\n2017-02-17 13:45:30.2 2017-02-17 17:12:33.6 11:58:53.431 +29:29:28.69 C1\n2017-02-18 10:53:52.3 2017-02-18 12:57:00.8 09:12:10.933 +10:39:50.19 C6\n\nThe first image was taken ~6 hours 20 minutes after the event trigger.\nNote that the observations on Feb. 18th. have been done under poor\nweather conditions. The limit magnitude is ~10 mag in R band.\nNo any significant transient is found in our online pipeline. The\nimage analysis is ongoing in detailed processing with our offline\npipeline."
+}

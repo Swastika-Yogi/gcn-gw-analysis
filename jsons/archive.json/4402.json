@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051227: XRT refined analysis",
+  "eventId": "GRB 051227",
+  "bibcode": "2005GCN..4402....1B",
+  "createdOn": 1135740311000,
+  "circularId": 4402,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "A. Beardmore (U. Leicester), D. N. Burrows (PSU), K. Page (U. Leicester), \nF. Marshall (GSFC), M. Chester (PSU) report on behalf of the Swift XRT team:\n\nWe have analysed the first 3 orbits of XRT data from GRB 051227.\nA 2.8ks photon counting mode image provides a refined XRT position:\n\nRA(J2000) =  08h 20m 57.92s,\nDec(J2000) = +31d 55m 30.43s\n\nwith an uncertainty of 3.5 arcsec (90% containment). This position is 5.1 \narcsec away from the on-board XRT position quoted in Barbier et al. \n(GCN4397) and includes the latest XRT boresight correction.  This position \nis 106 arcseconds from the refined BAT position (Hullinger et al., GCN 4400).\n\nThe X-ray light curve displays multiple small flares, with the largest\npeaking at a count rate of approximately 25 counts/s at T + 115s\n(where T is the BAT trigger time). The underlying decay can be fit\nwith a broken power-law with an initial decay slope of -2.2+/-0.2, a\nbreak at 475+235-80s, and a post-break slope of -0.95+/-0.15.\n\nA power-law fit to the X-ray spectrum from T + 101s to T + 180s\ngave a photon index of 1.4+/-0.2 and a column density of\n(1.8+/-1.0)e21 cm**-2. We note the galactic hydrogen column density in the\ndirection of the burst is 4.3e20cm**-2. The 0.2-10.0keV observed flux was\n4.2e-10 ergs cm**-2 s**-1, which corresponds to an unabsorbed flux of\n5.0e-10 ergs cm**-2 s**-1.\n\nIf the burst continues decaying at the current rate we estimate an XRT\ncount rate of 0.0022 counts/s at T + 24hr, which corresponds to an\nobserved 0.2-10.keV flux of 1.1e-13 ergs cm**-2 s**-1."
+}

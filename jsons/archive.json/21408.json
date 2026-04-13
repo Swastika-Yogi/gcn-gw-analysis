@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170803A: Swift-XRT refined Analysis",
+  "eventId": "GRB 170803A",
+  "bibcode": "2017GCN.21408....1S",
+  "createdOn": 1501819185000,
+  "circularId": 21408,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "B. Sbarufatti (INAF-OAB/PSU), D.N. Burrows (PSU), J.P. Osborne (U.\nLeicester), K.L. Page (U. Leicester), B. Mingo (U. Leicester), A.\nMelandri (INAF-OAB), P. D'Avanzo (INAF-OAB), V. D'Elia (ASDC), A.\nCholden-Brown (PSU) and S.J. LaPorte report on behalf of the Swift-XRT\nteam:\n\nWe have analysed 6.1 ks of XRT data for GRB 170803A (LaPorte et al. GCN\nCirc. 21405), from 68 s to 30.1 ks after the  BAT trigger. The data\ncomprise 312 s in Windowed Timing (WT) mode (the first 9 s were taken\nwhile Swift was slewing) with the remainder in Photon Counting (PC)\nmode. The enhanced XRT position for this burst was given by Beardmore\net al. (GCN Circ. 21407).\n\nThe late-time light curve (from T0+5.6 ks) can be modelled with a\npower-law decay with a decay index of alpha=1.00 (+/-0.28).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.86 (+0.13, -0.12). The\nbest-fitting absorption column is  1.3 (+/-0.4) x 10^21 cm^-2, in\nexcess of the Galactic value of 3.5 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.7 x 10^-11 (4.5 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.3 (+/-0.4) x 10^21 cm^-2\nGalactic foreground: 3.5 x 10^20 cm^-2\nExcess significance: 4.5 sigma\nPhoton index:\t     1.86 (+0.13, -0.12)\n\nIf the light curve continues to decay with a power-law decay index of\n1.00, the count rate at T+24 hours will be 6.3 x 10^-3 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 2.3 x\n10^-13 (2.8 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00766081.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060928: Suzaku/WAM observation of the prompt emission",
+  "eventId": "GRB 060928",
+  "bibcode": "2006GCN..5688....1O",
+  "createdOn": 1159981162000,
+  "circularId": 5688,
+  "submitter": "Masanori Ohno at Hiroshima U  <ohno@hirax7.hepl.hiroshima-u.ac.jp>",
+  "email": "ohno@hirax7.hepl.hiroshima-u.ac.jp",
+  "body": "M. Ohno, T. Takahashi, T. Asano, T. Uehara, Y. Fukazawa (Hiroshima U.),\n M. Suzuki, Y. Terada, T. Tamagawa (RIKEN),\n K. Yamaoka, S. Sugita (Aoyama Gakuin U.), \n M. Tashiro, K. Abe, K. Onda, Y. Sato, M. Suzuki, Y. Urata (Saitama U.),\n T. Enoto, R. Miyawaki, K. Kokubun, K. Makishima (Univ. of Tokyo),\n K. Nakazawa, T. Takahashi (ISAS/JAXA), S. Hong (Nihon U.), \n on behalf of the Suzaku WAM team report:\n\n  The bright, long burst, GRB 060928 (Hurley et al., GCN 5684), \n  triggered the Suzaku Wideband All-sky Monitor (WAM), which covers \n  the energy range of 50 keV - 5 MeV, at 01:17:01.74 (UT).\n  Two distinct strong bursts were seen in the light curve observed\n  with the WAM. The duration of the first and second burst was \n  about 14 seconds and 70 seconds, respectively. These two bursts \n  were separated by about 200 seconds. \n  Here we report the analysis result only for the first burst.\n  The fluence in 100 - 1000 keV was 2.18(-0.11, +0.11)x10-5 erg/cm2,\n  while the 1-s peak flux was 9.75(-0.47, +0.51) photons/cm2/s in the\n  same energy range.\n\n  Preliminary result shows that the time-averaged spectrum is\n  well described by a power law with an exponential\n  cutoff as follows.\n\n  dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak)\n  alpha       1.18 (-0.18, +0.17), and\n  Epeak       580  (-70,   +112) keV.\n  \n  All the quoted errors are at statistical 90% confidence level,\n  while systematic errors are not included.\n\n\n--"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "NuEm-230927A: Swift-XRT follow-up",
+  "submittedHow": "email-legacy",
+  "bibcode": "2023GCN.34782....1A",
+  "createdOn": 1696022417763,
+  "circularId": 34782,
+  "submitter": "Hugo Ayala at Pennsylvania State University <hgayala@psu.edu>",
+  "body": "The AMON group reports:\n\nWe requested follow-up time for the AMON alert NuEM230927A (GCN 34776).\nThe follow-up looks for any x-ray source inside the 90% region of the AMON\nalert:\nRA (J2000): 331.92 deg\nDec (J2000): 12.44 deg\nLocation uncertainty (90% containment): 0.24 deg (statistical only).\n\nWe used the available software in www.swift.ac.uk\n\nSwift-XRT started the follow up on 2023-09-28 08:08:01 and ended\non 2023-09-28 11:32:27.\nIt collected 3735 sec of photon counting (PC) mode data.\n\nOne uncatalogued X-ray source has been detected:\nSource :\n  RA (J2000.0):  331.877  =  22:07:30.50\n  Dec (J2000.0): 12.357  =  +12:21:24\n  Error: 4.9 arcsec (radius, 90% conf.)\n  Count-rate: (3.7 (+2.1, -1.7))e-3 ct s^-1\n\nThe results can be found in:\nhttps://www.swift.ac.uk/user_objects/tprods/USERPROD_114407/index.php\n\nSource detection is based on Evans, et al. 2020 ApJ Supplemental, 247\n\nAMON seeks to perform a real-time correlation analysis of the\nhigh-energy signals across all known astronomical messengers. More\ninformation about AMON can be found in https://www.amon.psu.edu/\nInformation on the IceCube collaboration: http://icecube.wisc.edu/\nInformation on the HAWC collaboration: https://www.hawc-observatory.org\n"
+}

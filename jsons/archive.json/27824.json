@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200524A: optical upper limits from further MITSuME Akeno observation",
+  "eventId": "GRB 200524A",
+  "bibcode": "2020GCN.27824....1H",
+  "createdOn": 1590477776000,
+  "circularId": 27824,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, N. Nakamura, K. L. Murata, R. Adachi, M. Niwano, F.\nOgawa, Y. Yatsu, and N. Kawai (TokyoTech) report on behalf of the\nMITSuME collaboration:\n\nWe performed further observation of the field of GRB 200524A\n(Fermi-LAT detection: Dirirsa et al., GCN #27797, Fermi-GBM detection:\nPookalil et al., GCN #27809, Swift-XRT afterglow detection: Capalbi et\nal. GCN #27811, and others) with the optical three color (g', Rc, and\nIc) CCD cameras attached to the MITSuME 50 cm telescope of Akeno\nObservatory, Yamanashi, Japan.\n\nThe observation started on 2020-05-25 11:27:25.65 UT. We did not\ndetect the optical afterglow (Ho et al., GCN #27799, Kumar et al., GCN\n#27800, Rumyantsev et al., GCN #27802, Sanwal et al., GCN #27803,\nPerley et al., GCN #27805, Kumar et al., GCN #27806, de Ugarte Postigo\net al., GCN #27807, Blazek et al., GCN #27810, Ogawa et al., GCN\n#27813, Zheng et al., GCN #27814, Izzo et al., GCN #27817, Belkin et\nal., GCN #27820, Belkin et al., GCN #27821) in the stacked images. We\nobtained the 5-sigma limits as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n30.5 2020-05-25 11:34:26 660 g'>18.7, Rc>18.7, Ic>18.0\n------------------------------------------------------------------------------------------------\nT0+: Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used the GSC2.3 catalog for flux calibration. The magnitudes are\nexpressed in the Vega system. The images were processed in real-time\nthrough the MITSuME GPU reduction pipeline (Niwano et al. ,in prep;\nhttps://github.com/MNiwano/Eclair)"
+}

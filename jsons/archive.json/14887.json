@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130612A: Swift/UVOT Detection",
+  "eventId": "GRB 130612A",
+  "bibcode": "2013GCN.14887....1B",
+  "createdOn": 1371058942000,
+  "circularId": 14887,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL-UCL) and J. L. Racusin (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130612A 94 \ns after the BAT trigger (Racusin et al., GCN Circ. 14874).\nA fading source consistent with the XRT position (Beardmore et al. GCN \nCirc. 14884) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  17:19:10.58 = 259.79408 (deg.)\n     Dec (J2000) = +16:43:11.9  =  16.71996 (deg.)\nwith an estimated uncertainty of 0.53 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               94          185           89         18.97 � 0.07\nv                  763         7763          549        >20.6\nb                  688        13692         1307        >21.3\nu                  664         1655          117         19.68 � 0.24\nw1                 639        18651         2143        >21.6\nm2                 614        17743         1406        >21.6\nw2                 738         7559          549        >21.1\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.08 in the direction of the \nburst (Schlegel et al. 1998)."
+}

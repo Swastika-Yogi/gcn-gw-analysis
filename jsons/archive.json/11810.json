@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110319A: Swift-XRT refined Analysis",
+  "eventId": "GRB 110319A",
+  "bibcode": "2011GCN.11810....1M",
+  "createdOn": 1300543182000,
+  "circularId": 11810,
+  "submitter": "Andrea Melandri at INAF-OAB  <andrea.melandri@brera.inaf.it>",
+  "email": "andrea.melandri@brera.inaf.it",
+  "body": "A. Melandri, B. Sbarufatti and R. Margutti (INAF-OAB) reports on behalf\nof the Swift-XRT team:\n\nWe have analysed 9.9 ks of XRT data for GRB 110319A (Melandri  et al.\nGCN Circ. 11807), from 47 s to 23.4 ks after the  BAT trigger. The data\ncomprise 33 s in Windowed Timing (WT) mode (the first 7 s were taken\nwhile Swift was slewing) with the remainder in Photon Counting (PC)\nmode. The enhanced XRT position for this burst was given by Goad et al.\n(GCN. Circ 11808).\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=3.7 (+0.6, -0.3). At T+151 s  the decay\nflattens to an alpha of -0.63 (+0.07, -0.65). The light curve breaks\nagain at T+4335 s to a decay with alpha=0.98(+0.11, -0.10).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 3.4 (+0.4, -0.3). The\nbest-fitting absorption column is  2.4 (+0.7, -0.6) x 10^21 cm^-2, in\nexcess of the Galactic value of 2.6 x 10^20 cm^-2 (Kalberla et al.\n2005). The PC mode spectrum has a photon index of 2.33 (+0.13, -0.14)\nand a best-fitting absorption column of 1.16 (+0.32, -0.18) x 10^21\ncm^-2. The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.3 x 10^-11 (5.0 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.16 (+0.32, -0.18) x 10^21 cm^-2\nGalactic foreground: 2.6 x 10^20 cm^-2\nExcess significance: 10.8 sigma\nPhoton index:\t     2.33 (+0.13, -0.14)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00449578.\n\nThis circular is an official product of the Swift-XRT team."
+}

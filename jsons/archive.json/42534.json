@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251103A: SVOM detection of a bright burst",
+  "eventId": "GRB 251103A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42534....1H",
+  "createdOn": 1762148045286,
+  "circularId": 42534,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y.-D. Hu, X. Tian (GXU), W.-J. Xie, D.-H. Zhao (NAOC), P. Maggi (ObAS) report on behalf of the SVOM mission team:\n\nAt 2025-11-03T04:46:21 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 251103A (SVOM burst-id sb25110301).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was detected both by the Count-Rate Trigger (CRT) and the Image Trigger (IMT), which produced a sequence of 24 alerts. CRT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 103.94 in the [8-120] keV energy band over a time window of 10.20 seconds starting at 2025-11-03T04:46:26.\n\nThe localization of the best alert is R.A., Dec. 146.8375, 16.1296 degrees:\nR.A. (J2000) = 9h47m21.00s\nDec. (J2000) = 16d07m46.66s\n with a 90% confidence level (C.L.) radius of 2.13 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nDue to the angle constraints of sun, no immediate slew was performed on this burst.\nNo X-ray observation could be performed by SVOM/MXT for the time being. No optical observation could be performed by SVOM/VT for the time being.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Youdong Hu: hyd@gxu.edu.cn .\nPlease contact the BA by email if you require additional information."
+}

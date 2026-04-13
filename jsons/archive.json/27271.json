@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200228B: Liverpool Telescope imaging",
+  "eventId": "GRB 200228B",
+  "bibcode": "2020GCN.27271....1P",
+  "createdOn": 1582984662000,
+  "circularId": 27271,
+  "submitter": "Daniel Perley at Liverpool JMU  <d.a.perley@ljmu.ac.uk>",
+  "email": "d.a.perley@ljmu.ac.uk",
+  "body": "D. A. Perley and A. M. Cockeram (LJMU) report:\n\nOn 2020-02-29 UT we obtained imaging of the position of GRB 200228B \n(Fermi GBM team, GCN 27253; Laha et al., GCN 27254) using the 2m robotic \nLiverpool Telescope.  We collected 3x120s of exposure time in each of \nthe the i-band and z-band filters, beginning at 05:53:44 and ending at \n06:07:33 (UTC).\n\nNo unambiguous source is detected in either stacked image, although a \npossible marginal (~3-sigma) source is present close to the center of \nthe latest enhanced XRT error circle in the z-band image.  Photometry of \nthis potential source (calibrating relative to PS1 catalog stars in the \nfield) gives an approximate magnitude of z = 21.7 +/- 0.3.\n\n3-sigma limits are:\n\ndt(days)  filter   mag\n0.7794    i       >22.6\n0.7844    z       >21.7\n\nWe additionally note that Pan-STARRS1 imaging of the field shows several \nfaint, probably-resolved sources close to the survey detection limit \ninside or closely outside the XRT error circle, which could represent a \npossible host galaxy or host group.\n\nImaging of the field is available at:\nhttp://www.astro.ljmu.ac.uk/~aridperl/grb/200228b/GRB200228B_LT_PS1.png\n\n(The enhanced XRT error circle is shown in cyan with the marginal \n\"detection\" highlighted in red.)\n\n\n\n\n\n\n\n\n\n\nDisclaimerNone"
+}

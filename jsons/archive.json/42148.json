@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251007B: SVOM detection of a faint burst",
+  "eventId": "GRB 251007B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42148....1W",
+  "createdOn": 1759869446228,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42148,
+  "format": "text/plain",
+  "body": "N. A. Webb, O. Godet, S. Guillot (IRAP), F. Lacreu (IAP) report on behalf of the SVOM mission team\n\n\nAt 2025-10-07T19:43:23 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 251007B (SVOM burst-id sb25100703), also detected by Swift/BAT (GCN #42147, Melandri et al. 2025).\n\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\n\nThe burst was detected both by the Count-Rate Trigger (CRT) and the Image Trigger (IMT), which produced a sequence of 7 alerts. CRT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 9.53 in the [8-50] keV energy band over a time window of 20.40 seconds starting at 2025-10-07T19:42:57.\n\n\nThe localization of the best alert is R.A., Dec. 101.997, -10.279 degrees:\n\nR.A. (J2000) = 6h47m59.29s\n\nDec. (J2000) = -10d16m42.81s\n\nwith a 90% confidence level (C.L.) radius of 8.33 arcmin (including systematic error of 2 arcmin added in quadrature).\n\n\nThe SVOM/ECLAIRs light curve showed a single peak structure with a T90 duration of about 23.26 (-8.032 +4.41) s.\n\n\nThe platform did not slew to the source. No observations could be performed in the X-rays by SVOM/MXT nor in the optical with SVOM/VT for the time being.\n\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\n\nThe Burst Advocate (BA) on shift for this alert is Natalie Webb: natalie.webb@irap.omp.eu.\n\nPlease contact the BA by email if you require additional information."
+}

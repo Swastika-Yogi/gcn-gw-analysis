@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF22aabjpxh/AT2022cva: Assy optical observations",
+  "eventId": "ZTF22aabjpxh",
+  "bibcode": "2022GCN.31628....1K",
+  "createdOn": 1645489009000,
+  "circularId": 31628,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "V. Kim (FAI, HSE), A. Pozanenko (IKI),  M. Krugov (FAI), I. Reva (FAI), \nN. Pankov (HSE, IKI),  S. Belkin (IKI) report on behalf of GRB IKI FuN:\n\nWe observed ZTF22aabjpxh/AT2022cva transient (Ho et al., GCN 31619) what \nis considered the likely afterglow of GRB 220219B (Ho et al., GCN 31619; \nSvinkin et al., GCN 31624) with AZT-20 telescope of Assy-Turgen \nobservatory starting on 2022-02-21 (UT) 19:44:30.\n\nWe clearly detect the SDSS galaxy at photo_z = 0.248 (Ho et al., GCN \n31619). Due to non-optimal seeing (FWHM of about 2.4\") we could not \ndiscriminate the afterglow source from the galaxy. We use aperture \nphotometry and preliminary photometry (AB) of a source (afterglow+host \ngalaxy) is following\n\nDate       UT start  JD         Exp.    Filter  OT    Err.  UL(3sigma)\n                    (mid, days)  (s)\n\n2022-02-21 19:44:30  2459632.327  40*60   r'    19.20 0.03   22.1\n2022-02-21 21:57:59  2459632.416  40*60   r'    19.45 0.02   22.7\n\nThe photometry is based on nearby PS1 stars\nid\t\t       r\nJ160337.10+311328.5    16.987\nJ160343.10+311452.9    18.700\n\nThe photometry of the the source is brighter than reported either in PS1 \nor SDSS DR12, and source  is variable. We can conclude that the \nafterglow is detected and dominate over host galaxy brightness."
+}

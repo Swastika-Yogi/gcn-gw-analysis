@@ -1,0 +1,9 @@
+{
+  "subject": "BATSE Flight Anomaly",
+  "bibcode": "1999GCN...264....1F",
+  "createdOn": 919724770000,
+  "circularId": 264,
+  "submitter": "Jerry Fishman at NASA-MSFC  <jerry.fishman@msfc.nasa.gov>",
+  "email": "jerry.fishman@msfc.nasa.gov",
+  "body": "Jerry Fishman (PI BATSE team, MSFC) reports:\n\nThe BATSE instrument on the Compton Observatory is experiencing an anomaly\nwhich began sometime about 12:00 UT, 2/22/99, TJD 11231.  Indications are\nthat it is being caused by a soft fault (single event upset) in the flight\nsoftware.  Preparations are underway to restore BATSE to normal operation,\nhopefully by ~20:00 UT, 2/23.  Any triggered data from BATSE should be\nignored until the problem is rectified.\n\n\n[GCN OP NOTE:  This anomaly is most noticable in the C1 and BC rates\nlisted in the BATSE-MAXBC Notices.  It also effects the Intensity field\nwhich has seen some rather large values.  Obviously, since the rates\nin the MAXBC data are corrupted, the locations derived from those rates\nis completely invalid.]"
+}

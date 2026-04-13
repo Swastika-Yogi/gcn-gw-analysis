@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240918B: AstroSat CZTI detection",
+  "eventId": "GRB 240918B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37588....1J",
+  "createdOn": 1727050903920,
+  "circularId": 37588,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "J. Joshi (IUCAA), G. Waratkar (IITB), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a long-duration GRB 240918B which was also detected by Fermi/GBM (Fermi-GBM Team, GCN Circ. 37558) and INTEGRAL SPI-ACS (Pawar et al., GCN Circ. 37560).\n\nThe source was detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-09-18 20:57:00.50 UTC. The measured peak count rate associated with the burst is 123 (+35, -30) counts/s above the background in the combined data of all quadrants, with a total of 339 (+116, -102) counts. The local mean background count rate was 316 (+3, -5) counts/s. Using cumulative rates, we measure a T90 of 4 (+2, -1) s.\n\nThe source was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2024-09-18 20:57:01.32 UTC. The measured peak count rate associated with the burst is 295 (+60, -56) counts/s above the background in the combined data of three quadrants (out of four), with a total of 1092 (+181, -204) counts. The local mean background count rate was 1049 (+6, -6) counts/s. We measure a T90 of 6 (+1, -2) s from the cumulative Veto light curve.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220408A: LOAO, DOAO, and, SAO optical upper limit",
+  "eventId": "GRB 220408A",
+  "bibcode": "2022GCN.31867....1P",
+  "createdOn": 1649559802000,
+  "circularId": 31867,
+  "submitter": "Gregory SungHak Paek at SNU  <shpaek@astro.snu.ac.kr>",
+  "email": "shpaek@astro.snu.ac.kr",
+  "body": "Gregory S.H. Paek (SNU ARC/SNU), Myungshin Im (SNU ARC/SNU), Taewoo Kim\n(DOAO), Jinguk Seo (SAO), Yuji Urata (NCU), Hyun-Il Sung (KASI) on behalf\nof a larger collaboration\n\n We searched for the optical counterpart of GRB 220408A possibly associated\nwith M51 (Caputo et al., and GCN #31848; Fermi/GBM detection, GCN #31847)\nwith the 1-m class telescopes in Lemonsan Optical Astronomy Observatory\n(LOAO), Deokheung Optical Astronomy Observatory (DOAO), and Seoul National\nUniversity Astronomy Observatory (SAO), facilities of the GW EM-Counterpart\nKorean Observatory (GECKO).\n\n We observed the center of UVOT localization (RA, Dec = 202.41548,\n+47.06931) +2.94 hours after the report, but could not find any detection.\nWe calibrated flux with the PANSTARRS catalog and used an AB magnitude\nsystem. Depth means 5 sigma upper limit for a point source detection. The\nmagnitudes are not corrected for galactic extinction.\n\n------------------- ----------- ---------- ----=------ ------ -----------\n---------- -----\nDATE-OBS[UTC]       JD          t-t0[days] t-t0[hours] FILTER Observatory\nEXPTIME[s] DEPTH\n------------------- ----------- ---------- ----=------ ------ -----------\n---------- -----\n2022-04-08T11:29:38 2459677.979 0.239      5.7         R      LOAO\n 180s*12    21.42\n2022-04-08T15:44:59 2459678.156 0.416      10.0        V      SAO\n 180s*21    19.75\n2022-04-08T15:57:20 2459678.165 0.424      10.2        R      DOAO\n 300s*37    21.90\n2022-04-08T16:58:50 2459678.208 0.467      11.2        R      SAO\n180s*21    19.77\n\nGravitational-wave EM Counterpart Korean Observatory (GECKO) is a network\nof 10+ 0.5m to 1m class telescopes over the world."
+}

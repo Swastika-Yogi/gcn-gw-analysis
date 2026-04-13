@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 151122A: Swift detection of a burst",
+  "editedOn": 1744224318704,
+  "version": 2,
+  "eventId": "GRB 151122A",
+  "bibcode": "2015GCN.18637....1P",
+  "createdOn": 1448310359000,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Tyler Barna at University of Minnesota <tylerpbarna@gmail.com>",
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "circularId": 18637,
+  "email": "palmer@lanl.gov",
+  "format": "text/plain",
+  "body": "David Palmer reports on behalf of the Swift team:\n\nOn November 22, at 17:00:40 UT, BAT rate-triggered and detected a 6.0 sigma \npeak in an image. Because this was below the nominal 6.5 sigma threshold, \nBAT did not trigger a burst response.  However, ground analysis leads us to \nbelieve that this is a real burst, GRB 151122A (trigger #664653) with an\nonboard-calculated location RA,dec = 299.704, -19.899, which is\nRA(J2000) = 19h 58m 49s\ndec(J2000) = -19d 53��� 56���\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The lightcurve shows a slow-rise, fast decay peak\nfrom T-5 s to T+12 s, following by a possible second lower peak extending\nto T+45 s.  The peak count rate was ~1500 counts/sec (15-350 keV), \nat ~6 sec after the trigger.\n\nThe peak of this burst was after a pre-planned slew had started, thus\nonly the initial rise of this burst was imaged on board.  However, the\nburst was also seen by Fermi GBM (trigger #469904449) which\ngave a final ground-calculated position of RA,dec = 292.950, -21.350\nwith an 11.1 degree statistical error radius and a 1-sigma location contour\nthat contains the BAT location.  The GBM lightcurve is also consistent with\nthe BAT lightcurve.  Therefore we believe that both of these triggers\nare the same astrophysical GRB at the location found by BAT\n\nA Target Of Opportunity Swift observation has been accepted for this GRB."
+}

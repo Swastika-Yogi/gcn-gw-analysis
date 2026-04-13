@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 060427B",
+  "eventId": "GRB 060427B",
+  "bibcode": "2006GCN..5038....1G",
+  "createdOn": 1146405891000,
+  "circularId": 5038,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe short hard GRB 060427B localized by IPN (Golenetskii et al.,\nGCN 5030) triggered Konus-Wind at T0=85912.029 s UT (23:51:52.029).\n\nAs observed by Konus-Wind it had the fluence 4.95(-3.53,+0.71)x10^-6 \nerg/cm2, and the 16-ms peak flux measured from T0-0.012 s\n4.30(-3.27, +1.27)x10^-5  erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst integrated from T0 to T0+0.128 s is well \nfitted (in the 20 keV - 10 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 0.573 (-0.404,  +0.284)\nand Ep = 1746 (-582, +962) keV (chi2 = 24.5/22 dof).\n\nAll the quoted errors are at the 90% confidence level."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201221D: Swift/UVOT Upper Limits",
+  "eventId": "GRB 201221D",
+  "bibcode": "2020GCN.29129....1B",
+  "createdOn": 1608643627000,
+  "circularId": 29129,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and K. L. Page (U. Leicester) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 201221D 92 s after the BAT trigger \n(Page et al., GCN Circ. 29112). No optical afterglow consistent with the NOT or XRT position \n(Malesani et al. GCN Circ. 29117; Evans et al. GCN Circ. 29119) is detected in the initial UVOT \nexposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. \nProc. 1358, 373) for the first finding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            92          242          147         >20.3\nu_FC               305          554          246         >19.3\nwhite             4047         4247          197         >21.0\nv                  634         4657          216         >19.2\nu                  305         5110          282         >19.4\nw1                 684         5068          216         >19.7\nm2                4663         4863          197         >19.5\nw2                4253         4453          197         >19.9\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of \nE(B-V) = 0.02 in the direction of the burst (Schlegel et al. 1998)."
+}

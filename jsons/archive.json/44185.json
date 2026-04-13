@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 260402A: Kilonova-Catcher optical upper limit",
+  "eventId": "GRB 260402A",
+  "submittedHow": "web",
+  "createdOn": 1775135394368,
+  "circularId": 44185,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "M. Freeberg (KNC), D. Turpin (CEA-Saclay/Irfu), C. Andrade(UMN), S. Antier (IJCLab), M. Coughlin (UMN), S. Karpov (FZU), P. Hello (IJCLAB), M. Pillas (IAP) on behalf of the GRANDMA/Kilonova-Catcher collaboration:\n\nWe observed the field of GRB 260402A detected by SVOM/ECLAIRs (Tan et al., GCN 44181) with the GRANDMA citizen science project Kilonova-catcher (KNC). Our observations were performed with the TEC160FL telescope operated by M. Freeberg. Our observations started at TGRB+20.8 min and were taken with the sdssr filter.\n\nIn our stacked frames, subtracted from the PanSTARRS DR2 template image, we do not detect any optical counterpart in the SVOM/ECLAIRs error radius.\n\nWe report our follow-up results in the table below:\n+----------------+----------+---------+---------------+--------------+\n| Tmid-TGRB (min)| Exp (s)  | Filter  | Magnitude     | Instrument   |\n+================+==========+=========+===============+==============+\n| 29.97          | 5 x 180s | r (AB)  | 19.5 (5 sigma)| TEC160FL     | \n+----------------+----------+---------+---------------+--------------+\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022).  Images obtained with the Sloan filters were calibrated using the PanSTARRS DR1 catalog.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023). \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

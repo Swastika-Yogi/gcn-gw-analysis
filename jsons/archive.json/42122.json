@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251005C: AstroSat CZTI detection",
+  "eventId": "GRB 251005C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42122....1A",
+  "createdOn": 1759757517067,
+  "circularId": 42122,
+  "submitter": "Anuraag Arya at IIT Bombay <aryaanuraag910@gmail.com>",
+  "format": "text/plain",
+  "body": "A. Arya (IITB), U. Pathak (IITB),  A. Goyal (IITB), Harsha K. H. (IUCAA), M. Tembhurnikar (IUCAA), S. Salunke (IUCAA), G. Waratkar (Caltech/IITB), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of GRB251005C which was also detected by Fermi/GBM (GCN Circ. 42118), Swift BAT (GCN Circ. 42113). \n\nThe source was clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2025-10-05 16:06:52.04 UTC. The measured peak count rate associated with the burst is 218 (+69, -55) counts/s above the background in the combined data of all quadrants, with a total of 801 (+399,  -369)  counts. The local mean background count rate was 1373 (+5,  -9) counts/s. Using cumulative rates, we measure a T90 of 9.6 (+5.3,  -5.8) s.\n\nThe source was also faintly detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2025-10-05 16:06:54.50 UTC. The measured peak count rate associated with the burst is 90 (+28,  -31) counts/s above the background in the combined data of three quadrants (out of four), with a total of 133 (+86,  -91) counts. The local mean background count rate was 225 (+3, -3) counts/s. Due to poor statistics, we cannot reliably estimate the T90 from it. \n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

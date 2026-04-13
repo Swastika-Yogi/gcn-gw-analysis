@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251017A: COLIBRÍ photometric redshift",
+  "eventId": "GRB 251017A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42348....1A",
+  "createdOn": 1760778351469,
+  "submitter": "Ny Avo Rakotondrainibe at LAM <nyavo.rakotobe@gmail.com>",
+  "circularId": 42348,
+  "format": "text/plain",
+  "body": "Camila Angulo (UNAM), Ny Avo Rakotondrainibe (LAM), Alan M. Watson (UNAM), Sarah Antier (IJCLAB), Dalya Akl (NYUAD), Enrique Moreno Méndez (UNAM), Noémie Globus (UNAM), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Jean-Luc Atteia (IRAP), Rosa L. Becerra (U Roma), Nathaniel R. Butler (ASU) , Damien Dornic (CPPM),  Jean-Grégoire Ducoin (CPPM), Francis Fortin (IRAP), Leonardo García-García (UNAM), Ramandeep Gill (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Margarita Pereyra (UNAM), Fredd Sánchez Álvarez (UNAM), Benjamin Schneider (LAM), and Antonio de Ugarte Postigo (LAM) report:\n\nCOLIBRÍ performed follow-up observations of the Swift Swift GRB 251017A (Gupta et al., GCN Circ. 42322) using the DDRAGO two-channel wide-field imager on the COLIBRÍ telescope. We observed from 2025-10-18 02:20 to 03:20 UTC (from 17.65 h to 18.65 h after the trigger) and obtained 60 minutes of exposure in the g/r/i/z/y filters.\n\nThe data were reduced and coadded with the COLIBRÍ pipeline and analysed with STDWeb/STDPipe (Karpov 2025). The photometry was calibrated using nearby stars from the PanSTARRS DR1 catalog, is in the AB system, and is not corrected for Galactic extinction.\n\nAfter correcting for the Galactic foreground extinction corresponding to a reddening of E(B-V) = 0.092 mag (Schlafly & Finkbeiner 2011) and fitting a power-law model to the grizy-bands using the SMC extinction curve, we derive a photometric redshift of z = 4.34+0.15-0.42 (1-sigma c.l.).\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n\nCOLIBRÍ is an astronomical observatory developed and operated jointly by France (AMU, CNES and CNRS) and Mexico (UNAM and SECIHTI). It is located at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir, Baja California, Mexico."
+}

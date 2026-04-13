@@ -1,0 +1,14 @@
+{
+  "subject": "GRB260208A: Liverpool Telescope optical follow-up observations",
+  "editedOn": 1770745167727,
+  "eventId": "GRB 260208A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43676....1B",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 43676,
+  "createdOn": 1770684674058,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/plain",
+  "body": "A. Bochenek, J. Wise, D. A. Perley (LJMU), report:\n\nWe observed the field of GRB260208a (Fermi GBM team, GCN 43635; Sonawane et al., GCN 43642; Longo et al., GCN 43645; Luo et al., GCN 43658; Mukherjee et al. GCN 43673; Waratkar et al., GCN 43674, Cheung et al., GCN 43675) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained two epochs of 3x100s exposures in the SDSS r, i, z filters and 4x100s in SDSS g, starting at 2026-02-09 02:49:11 UT, approximately 21.7 hours after trigger, and the second epoch at 24.4 hours after the trigger.\n\nWe report detections in stacked images in all filters at the position first reported by Lipunov et al., GCN 43640 and Wortley et al., GCN 43641, although we note some exposures were discarded due to poor seeing or telescope movement.\n\nMJD (mid)         T_mid-T_0       Filter       Mag. (AB)\n61080.11951       21.74 h         z         20.03 ± 0.16\n61080.12395       21.85 h         i         20.24 ± 0.25\n61080.12842       21.95 h         r         20.75 ± 0.10\n61080.13428       22.09 h         g         21.34 ± 0.24\n61080.22567       24.29 h         z         20.35 ± 0.11\n61080.23080       24.41 h         i         20.49 ± 0.09\n61080.23595       24.54 h         r         20.97 ± 0.15\n61080.23595       24.64 h         g         21.39 ± 0.14\n\nThe photometry is consistent with measurements taken at similar time by Dimple et al., GCN 43661 and Magnani et al., GCN 43664. The photometry was obtained using nearby PanSTARRS secondary standards and was not corrected for extinction.\n"
+}

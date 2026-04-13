@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 882561: Swift detection of MAXI J1631-479",
+  "bibcode": "2019GCN.23639....1B",
+  "createdOn": 1546911856000,
+  "circularId": 23639,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. D. Barthelmy (GSFC), C. Gronwall (PSU), J. A. Kennea (PSU),\nH. A. Krimm (NSF/USRA), D. M. Palmer (LANL) and A. Tohuvavohu (PSU)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 01:21:53 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated the new source MAXI J1631-479 (trigger=882561).  Swift did not slew\ndue an observing constraint.  The BAT on-board calculated location is \nRA, Dec 247.810, -47.725, which is \n   RA(J2000)  =  16h 31m 14s\n   Dec(J2000) = -47d 43' 28\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for an image trigger, there is nothing\nvisible in the real-time light curve. \n\nWe confirm that Trigger 878548 on 2018-12-23 (D'Avanzo et al. \nGCN #23550) was also due to MAXI J1631-479 as reported by \nMiyasaka et al. (ATel #12340).   BAT has been detecting this \nsource continuously since discovery. \n\nXRT and UVOT observations are planned for when this\nsource comes out of Sun constraint around January 14."
+}

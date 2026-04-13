@@ -1,0 +1,14 @@
+{
+  "editedOn": 1748617980175,
+  "subject": "GRB 250530A: SVOM/VT optical upper limit",
+  "eventId": "GRB 250530A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40582....1L",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 40582,
+  "createdOn": 1748614026746,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, Z. H. Yao, Y. N. Ma (NAOC) and J. Palmerio (CEA), Y. Wang (PMO, CAS), R.-Z. Li (YNAO, CAS), J. X. Cao, D. F. Kong (GXU),  report on behalf of the SVOM mission team.\n\nSVOM performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Wang et al., GCN 40576). SVOM/VT began observing the field at 2025-05-30T06:34:57 UTC, about 183 seconds after Tb, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nNo credible candidate was detected in our single or stacked images within the error box of SVOM/Eclalirs (Wang et al., GCN 40576) or Swift/XRT (Source 1, Evans et al., GCN 40579), after excluding more than 9 minor planets found in our images. The 3 sigma limits are:\n\n| mid-time    | exposure time (s)    | band    | upper limit (AB)    |\n| ------------ | ------------ | ------------ | ------------ |\n| 868 sec | 29*50 | VT_B | 23.1 |\n| 868 sec | 29*50 | VT_R | 23.1 |\n\nThe results are consistent with the SVOM/COLIBRÍ reports (de Ugarte Postigo et al., GCN 40578).\n\nA bright source Gaia DR3 3693833129108758912 is near at the location of XRT Source 1 with a distance of about 6.0 arcseconds. The photometry shows that the brightness of the source is stable at the level of 1% of uncertainties in both channels in VT images during our observations. This result does not favor the possiblity that the event is a stellar flare.\n\nGiven the detection of the bright X-ray candidate and the optical upper limit at the early phase, this event is likey a high-redshift or heavy extinctied GRB. Deeper or redder follow-ups are encouraged to investigate the nature of the burst.\n \nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n\nThe SVOM/VT point of contact for this burst is: Rui-Zhi Li (liruizhi AT ynao.ac.cn)"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 260207B (short/hard with EE)",
+  "eventId": "GRB 260207B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43691....1K",
+  "createdOn": 1770755633539,
+  "circularId": 43691,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB with extended emission GRB 260207B\n(Fermi-GBM detection: Fermi GBM team, GCN 43629;\nSonawane & Bala, GCN 43634;\nGECAM-B observation: Zao et al., GCN 43644;\nAstroSat CZTI detection: Goyal et al., GCN 43680)\nwas detected by Fermi (GBM trigger 792162735),\nKonus-Wind, GECAM-B, AstroSat (CZTI), and \nMars-Odyssey (HEND) at about 47531 s UT (13:12:11).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  283.695 (18h 54m 47s) +51.643 (+51d 38' 34\")\n Corners:\n  284.134 (18h 56m 32s) +51.778 (+51d 46' 39\")\n  283.959 (18h 55m 50s) +51.758 (+51d 45' 29\")\n  283.258 (18h 53m 02s) +51.506 (+51d 30' 22\")\n  283.432 (18h 53m 44s) +51.527 (+51d 31' 36\")\n ---------------------------------------------\nThe error box area is 67 sq. arcmin, and its maximum\ndimension is 36 arcmin (the minimum one is 2 arcmin).\nThe Sun distance was 74 deg.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260207_T47529/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

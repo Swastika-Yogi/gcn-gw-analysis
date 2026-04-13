@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250823A: Swift-BAT refined analysis",
+  "eventId": "GRB 250823A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41539....1M",
+  "createdOn": 1756125864857,
+  "circularId": 41539,
+  "submitter": "Rahul Gupta at NASA GSFC <rahul.gupta@nasa.gov>",
+  "format": "text/plain",
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC),\nR. Gupta (GSFC), H. A. Krimm (NSF),\nS. Laha (GSFC/UMBC), A. Y. Lien (U Tampa),\nM. J. Moss (GSFC), D. M. Palmer (LANL),\nT. Parsotan (GSFC), D. Sadaula (GSFC/UMBC),\nT. Sakamoto (AGU), M. H. Siegel (PSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 250823A (trigger #1344586)\n(Siegel, et al., GCN Circ. 41511).  The BAT ground-calculated position is\nRA, Dec = 297.465, -24.986 deg which is\n   RA(J2000)  =  19h 49m 51.7s\n   Dec(J2000) = -24d 59' 09.0\"\nwith an uncertainty of 1.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 75%.\n\nThe mask-weighted BAT light curve shows multi-peaked emission \nstarting from ~T-25 to ~T+180 sec.\nT90 (15-350 keV) is 193.60 +- 10.19 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-23.84 to T+180.82 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.76 +- 0.16.  The fluence in the 15-150 keV band is 1.8 +- 0.2 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+4.24 sec in the 15-150 keV band\nis 1.1 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n \nThe results of the batgrbproduct analysis are available at\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1344586\n "
+}

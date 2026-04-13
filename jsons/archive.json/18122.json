@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150811A: Swift/UVOT Detection",
+  "eventId": "GRB 150811A",
+  "bibcode": "2015GCN.18122....1K",
+  "createdOn": 1439280172000,
+  "circularId": 18122,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (MSSL/UCL) and P. A. Evans (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150811A\n147 s after the BAT trigger (Evans et al., GCN Circ. 18119). A source\nconsistent with the XRT position and the optical transient reported\nby Butler et al.(GCN Circ. 18120) and Zheng et al. (GCN Circ. 18121)\nis detected in the promptly available UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  19:25:21.4\n    Dec (J2000) = -15:25:31.1\nwith an estimated uncertainty of 0.6 arc sec. (radius, 90% confidence).\n\nThe transient source is at a distance of 4.6 arcsec of a weak nearby\nsource.\n\nPreliminary detections for the White and U finding charts using the\nUVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc.\n1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC           147          297          147         20.43 +/- 0.23\nu_FC               306          549          241         18.24 +/- 0.11\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.17 in the direction of the burst\n(Schlegel et al. 1998)."
+}

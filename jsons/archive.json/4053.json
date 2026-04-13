@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051001: AAT infra-red observations",
+  "eventId": "GRB 051001",
+  "bibcode": "2005GCN..4053....1R",
+  "createdOn": 1128214952000,
+  "circularId": 4053,
+  "submitter": "Evert Rol at U.Leicester  <er45@star.le.ac.uk>",
+  "email": "er45@star.le.ac.uk",
+  "body": "E. Rol (U. of Leicester), A. Levan, N. Tanvir (U. of Hertfordshire),\nreport on behalf of a larger collaboration:\n\nWe have observed the field of GRB 051001 (Moretti, GCN 4051) with the\nIRIS2 instrument on the Anglo-Australian Telescope. Two epochs of\nobservations were performed in each of the ZJHKs bands, roughly 2\nhours and 6 hours after the trigger, respectively. Our observations\ncovered the entire BAT error box, albeit with a small section (<5%) on\nthe edge of the FOV. Comparison between the two epochs shows no\nvariable sources.\n\nInside the XRT error circle, one source is visible, which appears to\nbe extended. Its location is, calibrated to the 2MASS:\n\n  RA    23:23:49.04    (J2000)\n  Dec  -31:31:18.8     (J2000)\n\nwith an estimated error of 0.16\" in each coordinate.\n\nMagnitude estimates for the first epoch, calibrated with respect to\nthe 2MASS, are as follows:\n\n filter   mid-time      exposure     magnitude        limiting\n         after trigger    time      of extended        magnitude\n           (hours)      (minutes)    source           (3 sigma)\n   Ks       1.40           20         18.7 (0.1)        20.3\n   H        1.85           20         20.0 (0.1)        20.7\n   J        2.36           10         20.9 (0.3)        20.7\n\nThe first epoch Ks image can be seen at\nhttp://www.star.le.ac.uk/~er45/grb051001/"
+}

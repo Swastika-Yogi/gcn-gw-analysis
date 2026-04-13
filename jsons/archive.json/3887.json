@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050826: Swift/UVOT early upper limits",
+  "eventId": "GRB 050826",
+  "bibcode": "2005GCN..3887....1B",
+  "createdOn": 1125087532000,
+  "circularId": 3887,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), V. Mangano (INAF-IASF),\nF. Marshall (GSFC), M. Ajello (MPE), M. Trippico (GSFC-SSAI),\nN. Gehrels (GSFC) on behalf of the Swift/UVOT team\n\nThe Swift/UVOT began observing the field of GRB050826 at\n06:19:55 UT, 105 s after the BAT trigger (Mangano et al.,\nGCN 3884). No new source with respect to the DSS image was\ndetected in the 100 s V-band UVOT Image down to a 3-sigma\nupper limit (in the XRT error circle: Mangano et al., GCN\n3885) of 17.9 mag.\n\nThere was also no optical/UV counterpart detected in summed\nimages from all filters, down to the following 3-sigma magnitude\nupper limits:\n\nFilter T_range (s) Exp (s) 3sig UL\n\nV      105-6545    777     19.4\nB      251-16450   1857    21.2\nU      236-12331   823     19.0\nUVW1   223-11570   968     19.7\nUVM2   209-10662   968     19.3\nUVW2   266-17318   1818    20.3\n\nWhere T_range is the time range post-trigger over which the\nsummed images were accumulated and Exp is the total exposure time\nof the summed image. The magnitude upper limits are not corrected\nfor extinction.\n\nThese magnitudes are based on preliminary zero-points, measured\nin orbit, and will require refinement with further calibration."
+}

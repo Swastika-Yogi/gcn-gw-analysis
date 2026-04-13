@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130408A, Swift-BAT refined analysis",
+  "eventId": "GRB 130408A",
+  "bibcode": "2013GCN.14373....1B",
+  "createdOn": 1365551137000,
+  "circularId": 14373,
+  "submitter": "Craig Markwardt at NASA/GSFC  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), A. Y. Lien (NASA/GSFC/ORAU),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (OSU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+960 sec from the recent telemetry \ndownlink, we report further analysis of BAT GRB 130408A (trigger \n#553132) (Lien, et al., GCN Circ. 14361).  The BAT ground-calculated \nposition is\nRA, Dec = 134.398, -32.363 deg which is\n    RA(J2000)  =  08h 57m 35.5s\n    Dec(J2000) = -32d 21' 45.9\"\nwith an uncertainty of 2.2 arcmin, (radius, sys+stat, 90% containment). \nThe partial coding was 6%.\n\nT90 (15-350 keV) is 28 +- 13 sec (estimated error including \nsystematics).  The mask weighted light curve has a main FRED-like \ncomponent with a rise time of about 2 sec and decline of 5 sec, peaking \nat time T+1 sec, followed by a smaller peak at T+12 sec.  There is \npossible low-level emission out to about T+33 sec.\n\nThe time-averaged spectrum from T-0.1 to T+33.5 sec is best fit by a \nsimple power-law model.  The power law index of the time-averaged \nspectrum is 1.28 +- 0.26.  The fluence in the 15-150 keV band is 2.3 +- \n0.4 x 10^-6 erg/cm2. The 1-sec peak photon flux measured from T+1.12 sec \nin the 15-150 keV band is 4.9 +- 1.0 ph/cm2/sec.  All the quoted errors \nare at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/553132/BA/"
+}

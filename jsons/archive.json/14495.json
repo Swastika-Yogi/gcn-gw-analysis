@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130427A: Nishi-Harima NIR Observations",
+  "eventId": "GRB 130427A",
+  "bibcode": "2013GCN.14495....1T",
+  "createdOn": 1367194261000,
+  "circularId": 14495,
+  "submitter": "Daisuke Kuroda at OAO/NAOJ  <dikuroda@oao.nao.ac.jp>",
+  "email": "dikuroda@oao.nao.ac.jp",
+  "body": "J. Takahashi, K. Morihana, S. Honda and Y. Takagi (Univ. of Hyogo)\nreport on behalf of Nayuta team:\n\nWe observed the field of GRB 130427A (Masell et al., GCNC 14448)\nin near-infared three bands (J, H and Ks) with NIC attached to the\nNayuta 2-m telescope at the Nishi-Harima Astronomical Observatory.\n\nThe observations were conducted from 2013-04-27 12:26 UT to 2013-04-27\n17:25 UT (from ~4.7 h to ~9.6 h after the burst).\nWe detected the previously reported afterglow (Elenin et al., GCNC 14450)\nin all the three bands.\n\nPhotometric results of our observations are listed below.\nWe used 2MASS 11323755+2743196 as the reference star for flux calibration.\n\n# MID-UT   T-EXP[sec]  J    J_err H    H_err  Ks    Ks_err\n-----------------------------------------------------------------------\n12:26:56     150       14.7  0.2  13.5  0.2   13.5   0.2\n13:27:59     150       14.7  0.2  14.2  0.2   13.2   0.3\n14:39:42     150       14.7  0.3  14.3  0.2   13.4   0.3\n17:17:31     150       --*   --*  14.8  0.2   14.6   0.2\n17:24:52     300       15.2  0.2  14.8  0.2   14.0   0.2\n------------------------------------------------------------------------\nT-EXP: Total Exposure time [sec]\n* Photometry was not possible because the signal from the reference star\nwas too low."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241217A / EP241217B: GRANDMA/T1MPicduMidi optical upperlimits",
+  "eventId": "GRB 241217A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38628....1H",
+  "createdOn": 1734558690870,
+  "circularId": 38628,
+  "submitter": "Thomas Hussenot-Desenonges at IJCLab <thomas.hussenot@ijclab.in2p3.fr>",
+  "format": "text/plain",
+  "body": "T. Hussenot-Desenonges (IJCLAB), F.Colas (Obs-Paris), L. De Almeida, W. Corradi, N. Sasaki, F. Navarete (LNA), H. Peng (THU), H. Lau Jun Xian (Tsinghua Univ.), S. Antier (OCA), C. Andrade (UMN), S. Karpov (FZU), I. Tosta e Melo (UniCT-DFA), P. Hello (IJCLAB), P-A Duverne (APC), T. Pradier (Unistra/IPHC), N. Guessoum (AUS), A. Klotz (IRAP), D. Turpin (CEA-Saclay/Irfu) on behalf of the GRANDMA collaboration:\n\nWe observed the field of GRB 241217A / EP241217B, detected by SVOM/ECLAIRs (GCN 38594) and Einstein Probe (GCN 38606), using T1MPicduMidi, starting 5 hours after T0.\n\nWe obtain the following optical 5-sigma upperlimit at the SVOM/VT position (GCN 38600):\n\n| Tstart (UTC) | Telescope | Exposure | Filter | Magnitude |\n\n| 2024-12-17T22:09:50 | T1MPicduMidi  | 126x60s | r | >21.46 (AB) | \n\nWe also do not detect any uncatalogued sources within the SVOM/ECLAIRs error region, down to a 5-sigma upper limit of r > 21.35 (AB).\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022), and calibrated with the Pan-STARRS DR1 catalogue. \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518)."
+}

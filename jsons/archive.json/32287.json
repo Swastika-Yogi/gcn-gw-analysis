@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220627A: Swift/BAT-GUANO detection outside the coded FOV",
+  "eventId": "GRB 220627A",
+  "bibcode": "2022GCN.32287....1R",
+  "createdOn": 1656445027000,
+  "circularId": 32287,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Gayathri Raman (PSU), Aaron Tohuvavohu (U Toronto), James DeLaunay\n(UAlabama), Jamie A. Kennea (PSU), report:\n\nSwift/BAT did not localize GRB 220627A onboard (T0:\n2022-06-27T21:21:00 UTC, Fermi/GBM GCN 32278, INTEGRAL trig #9970, ).\n\nThe INTEGRAL and Fermi/GBM notices, distributed in near real-time,\ntriggered the Swift Mission Operations Center operated Gamma-ray\nUrgent Archiver for Novel Opportunities (GUANO; Tohuvavohu et al.\n2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst\nAlert Telescope (BAT) to save 90 seconds of BAT event-mode data from\n[-45,+45] seconds around the time of the burst. All the requested\nevent mode data was delivered to the ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu,\narXiv:2111.01769), detects the burst with a sqrt(TS) of 31 in a 16.384\ns analysis time bin.\n\nNITRATES results indicate a burst coming from outside of the coded\nFoV, with DeltaLLHOut of -70. The NITRATES maximum likelihood sky\nposition is consistent with the Fermi GBM and LAT localization region.\n\nSee Section 9.1 and Figure 20 in the NITRATES paper for brief\ndescriptions and interpretation of sqrt(TS), DeltaLLHPeak, and\nDeltaLLHOut.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090516: Swift/UVOT Observations",
+  "eventId": "GRB 090516",
+  "bibcode": "2009GCN..9377....1S",
+  "createdOn": 1242499543000,
+  "circularId": 9377,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU) and B. A. Rowlinson (Leicester) report on behalf\nof the Swift/UVOT team.\n\nThe Swift/UVOT began observing the field of GRB 090516 171s after\nthe BAT trigger (Beardmore et al., GCN Circ. 9374).  Data summed\nfrom the first and second orbits does not reveal a source at the\nrefined position of the X-ray afterglow (Beardmore et al., GCN Circ.\n9376).\n\nThe 3-sigma upper limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER     T_start(s)  T_stop    Exposure     Mag/3UL\n=============================================================\nwhite fc      171        321        147       > 20.85\nwhite        3843       5478        393       > 21.06\n\nv            4254       5890        393       > 19.63\n\nb             585        601         15       > 18.74\nb            5073       5273        196       > 20.32\n\nu             329        579        245       > 20.12\nu            4868       6384        274       > 20.20\n\nuvw1         4664       6301        393       > 20.36\n\nuvm2         4458       6096        393       > 20.18\n\nuvw2         4049       5685        393       > 20.41\n=================================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.05 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

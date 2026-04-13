@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 121123A: Swift-BAT refined analysis",
+  "eventId": "GRB 121123A",
+  "bibcode": "2012GCN.13990....1B",
+  "createdOn": 1353723612000,
+  "circularId": 13990,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), E. A. Helder (PSU),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (AGU), G. Sato (ISAS), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 121123A (trigger #539358)\n(Helder, et al., GCN Circ. 13982).  The BAT ground-calculated position is\nRA, Dec = 307.334, -11.873 deg, which is \n   RA(J2000)  =  20h 29m 20.2s \n   Dec(J2000) = -11d 52' 24.3\" \nwith an uncertainty of 1.8 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 82%.\n \nThe mask-weighted light curve shows the burst starting off at a weak level\nat ~T-90 sec, with the triggering peak at ~T+10 sec, then a level period\nuntil ~T+200 sec with the onset of a large FRED peak extending out\nto ~T+700 sec.  T90 (15-350 keV) is 317 +- 14 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-6.34 to T+419.00 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.96 +- 0.20, \nand Epeak of 65.0 +- 5.1 keV (chi squared 45.4 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 1.5 +- 0.1 x 10^-5 erg/cm2\nand the 1-sec peak flux measured from T+232.56 sec in the 15-150 keV band is\n2.6 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.78 +- 0.04 (chi squared 101.58 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/539358/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050819: refined XRT analysis",
+  "eventId": "GRB 050819",
+  "bibcode": "2005GCN..3832....1P",
+  "createdOn": 1124528027000,
+  "circularId": 3832,
+  "submitter": "Kim Page at U.of Leicester,Swift SDC  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester), J.A. Kennea, D.N. Burrows (PSU), M. Ajello\n(MPE), M. Trippico (GSFC-SSAI) report on behalf of the Swift/XRT team:\n\nWe have analysed the XRT data for GRB050819 (BAT Trigger 151131), between\n146 and 3.7e4 seconds after the trigger. As previously reported by Kennea\net al in GCN 3827, there is an uncatalogued, fading X-ray source in the\nfield of view. The refined coordinates for this burst are\n\nRA(J2000):  23:55:01.37\nDec(J2000): 24:51:31.28\n\nwith an uncertainty of 8 arcseconds radius (90% containment). This is 5.7\narcseconds from the XRT position given in GCN 3827 and 75 arcseconds from\nthe initial BAT position reported in GCN 3826.\n\nXRT observations began in Windowed Timing mode 146 seconds after the\ntrigger, switching down to Photon Counting mode 58 seconds later. The\nlight-curve shows a steep initial decline with a decay index of alpha =\n3.7 +/- 0.3, breaking to a very flat slope of < 0.28 at around 850\nseconds.\n\nThe spectrum of the early afterglow shows no evidence for excess NH above\nthe Galactic value (4.6e20 cm^-2), and can be well fitted by a power-law\nwith Gamma = 2.2 +/- 0.2. Between 146 and 203 seconds, the unabsorbed\n0.3-10 keV flux was 1.62e-10 erg cm^-2 s^-1.\n\nIf the light-curve continues without a further break, the predicted\ncount-rate at 24 hours will be 0.009 counts s^-1, corresponding to 0.3-10\nkeV flux of 3.2e-13 erg cm^-2 s^-1 (unabsorbed)."
+}

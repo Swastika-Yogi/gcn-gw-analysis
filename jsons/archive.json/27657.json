@@ -1,0 +1,10 @@
+{
+  "subject": "Swift detection of multiple bursts from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2020GCN.27657....1B",
+  "createdOn": 1588013294000,
+  "circularId": 27657,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. D. Barthelmy (GSFC), M. G. Bernardini (INAF-OAB),\nP. D'Avanzo (INAF-OAB), J.D. Gropp (PSU), J. A. Kennea (PSU),\nA. Y. Lien (GSFC/UMBC), A. Melandri (INAF-OAB), D. M. Palmer (LANL),\nT. Sbarrato (INAF-OAB) and M. H. Siegel (PSU) report on behalf of the\nNeil Gehrels Swift Observatory Team:\n\nAt 18:26:20 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a burst from the Soft Gamma Repeater SGR 1935+2154 (Trigger #968211). \nBecause this is a known source Swift did not automatically slew.  \nThe on-board location is\nRA, Dec 293.735, +21.895 which is \n   RA(J2000) = 19h 34m 56s\n   Dec(J2000) = +21d 53' 43\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single\n64 ms bin with a peak count rate of 25k counts/sec (15-350 keV),\nat the time of the trigger. \n\nA second BAT trigger from this source was seen at 18:32:59 \n(trigger #968212) with comparable intensity. \n\nFollow-up observations with Swift are planned."
+}

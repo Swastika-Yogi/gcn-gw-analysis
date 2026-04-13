@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 080513",
+  "eventId": "GRB 080513",
+  "bibcode": "2008GCN..7729....1G",
+  "createdOn": 1210867364000,
+  "circularId": 7729,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 080513 localized by IPN (Golenetskii et al., GCN 7728)\ntriggered Konus-Wind at T0=18849.927 s UT (05:14:09.927).\n\nAs observed by Konus-Wind the burst\nhad a fluence of 2.02(-0.17, +0.20)x10^-5 erg/cm2,\nand a 16-ms peak flux measured from T0+24.016 s\nof (1.15 +/- 0.30)x10^-5 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+32.256 s) can be fitted (in the 20 keV-2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.48(-0.13, +0.12)\nand Ep = 223(-38, +62) keV (chi2 = 76.6/61 dof).\nFitting by GRBM (Band) model yields the same alpha and Ep,\nand only an upper limit on the high energy photon index: beta < -2.19\n(chi2 = 76.0/60 dof).\n\nThe spectrum of the most intense part (from T0+16.640 to T0+24.064 s)\nis well fitted (in the same range)\nby a power law with exponential cutoff model\nwith alpha =  -1.31(-0.12, +0.11)\nand Ep = 317(-50, +73) keV (chi2 = 56.7/61 dof).\nFitting by GRBM (Band) model yields the same alpha and Ep,\nand only an upper limit on the high energy photon index: beta < -2.20\n(chi2 = 56.5/60 dof).\nThe fluence of this part is (1.18 +/- 0.10)x10^-5 erg/cm2\n(in the 20 keV - 2 MeV energy range).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB080513_T18849/\n\n[GCN OPS NOTE(15may08): Per author's request, \"080515\" in the first line\nwas chanegd to \"080513\".]"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 140428B",
+  "eventId": "GRB 140428B",
+  "bibcode": "2014GCN.16188....1G",
+  "createdOn": 1398871118000,
+  "circularId": 16188,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf\nof the Konus-Wind team, report:\n\nThe short-duration GRB 140428B (IPN triangulation: Golenetskii et al., \nGCN 16184) triggered Konus-Wind at T0=78275.456 s UT (21:44:35.456).\n\nThe burst light curve shows a single pulse with a total\nduration of ~0.15 s.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 9.23(-0.95,+0.88)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.014 s,\nof (1.43 +/- 0.38)x10^-5 erg/cm2/s\n(both in the 20 keV - 1.2 MeV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum\n(from T0-0.064 s to T0+0.80 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep) yields\nalpha = -0.75(-0.24, +0.26), and\nEp = 1050(-343,+1750) keV\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the quoted results are preliminary.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB140428_T78275/"
+}

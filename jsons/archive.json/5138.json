@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060515: Swift/UVOT Upper Limits",
+  "eventId": "GRB 060515",
+  "bibcode": "2006GCN..5138....1B",
+  "createdOn": 1147699028000,
+  "circularId": 5138,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aad@mssl.ucl.ac.uk>",
+  "email": "aad@mssl.ucl.ac.uk",
+  "body": "A. Breeveld (MSSL/UCL) and J. Cummings (GSFC) report on behalf of the\nSwift/UVOT team:\n\nThe Swift UVOT began taking data on the field of GRB 060515, 3364s\n(including the 10s V settling exposure) after the trigger (trigger\n#210084). Swift did not slew immediately after the trigger because of an\nearth constrait (Cummings et al., GCN Circular 5132). At the position of\nthe XRT error circle (Page and Kennea, GCN 5137) there are no new\nsources to the following 3 sigma upper limits:\n\nFilter  T_range(s)  Exp(s)  3sig_UL(mag)\nV       3364-11674  1062.4  20.1\nB       4309-5893   347.0   20.4\nU       4104-5735   393.3   20.2\nUVW1    3900-5531   393.3   20.4\nUVM2    3695-5326   393.3   20.7\nUVW2    4718-10989  1082.2  21.4\nWhite (160-650nm)  3384-10084  1179.9  20.9\n\nThese upper limits are uncorrected for the estimated Galactic reddening\nof E(B-V) = 0.03 mags."
+}

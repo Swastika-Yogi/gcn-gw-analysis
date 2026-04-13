@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 060614",
+  "eventId": "GRB 060614",
+  "bibcode": "2006GCN..5264....1G",
+  "createdOn": 1150464105000,
+  "circularId": 5264,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 060614 (Swift-BAT trigger #214805;\nParsons et al., GCN 5252; Barthelmy et al., GCN 5256)\ntriggered Konus-Wind at T0=45831.590 s UT (12:43:51.590).\n\nThe Konus-Wind light shows an intense multipeaked\ninitial pulse with a duration of ~6 sec,\nfollowed by a weaker softer highly variable emission\nseen up to T-T0 ~110 sec.\n\n\nThe spectrum of the initial intense pulse\n(accumulated from T-T0=0 to T-T0=8.448 sec)\ncan be fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nwith alpha = 1.57(-0.14, +0.12)\nand Ep = 302(-85, +214) keV (chi2 = 73/59 dof).\nThe fluence of this part is 8.19(-2.52, +0.56)x10^-6 erg/cm2\n(in the 20 keV - 2 MeV range).\n\nThe spectrum of the remaining part of the burst\n(accumulated from T-T0=8.448 to T-T0=106.752 sec)\ncan be fitted (in the 20 keV - 1 MeV range)\nby a simple power law with photon index\n2.13 +/- 0.05 (chi2 = 63/49 dof).\nThe fluence of this part is 3.27(-0.23,+0.17)x10^-5 erg/cm2\n(in the 20 keV - 2 MeV range).\nWe note that because the derived photon index is ~2,\nthis fluence value is very sensitive to the upper boundary\nof the energy range.\n\nThe burst total fluence is 4.09(-0.34, +0.18)x10^-5 erg/cm2\nand peak flux on 64-ms time scale measured from T-T0=0.032 sec\n4.50(-1.53, +0.72)x10^-6 erg/cm2/sec\n(both in the 20 keV - 2 MeV energy range).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB060614_T45831/"
+}

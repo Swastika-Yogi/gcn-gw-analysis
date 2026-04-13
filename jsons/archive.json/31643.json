@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF22aabjpxh/AT2022cva (GRB 220219B): Mondy optical observations",
+  "eventId": "ZTF22aabjpxh",
+  "bibcode": "2022GCN.31643....1B",
+  "createdOn": 1645655764000,
+  "circularId": 31643,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "S. Belkin (IKI, HSE), A. Pozanenko (IKI), N. Pankov (HSE), E. Klunko \n(ISTP) report  on behalf of GRB IKI FuN:\n\nWe observed ZTF22aabjpxh/AT2022cva discovered by ZTF (Ho et al., GCN \n31619) with AZT-33IK telescope of Mondy observatory on 2022-02-21  and \n2022-02-22. ZTF22aabjpxh/AT2022cva was observed also in optic (Kim  et \nal., GCN 31628; Hu et al., GCN 31639) and in X-ray by NICER (Pasham et \nal., GCN 31635). ZTF22aabjpxh/AT2022cva is considered the likely \nafterglow of GRB 220219B (Ho et al., GCN 31619; Svinkin et al., GCN 31624).\n\nWe clearly detect the SDSS galaxy at z=0.293 (Fremling et al., GCN \n31629). Due to non-optimal seeing we could not  discriminate the \nafterglow from the galaxy. We use aperture  photometry and preliminary \nphotometry of a source (afterglow+host  galaxy) is following\n\nDate       UT start  JD         Exp.    Filter  OT    Err.  UL(3sigma)\n                     (mid, days)  (s)\n\n2022-02-21 19:30:32  2.43966  30*120   R    19.19    0.03    22.8\n2022-02-22 19:31:06  3.43936  29*120   R    19.34    0.03    22.8\n\nThe photometry is based on nearby SDSS DR12 stars\nid                  r      R(Lupton) V(Lupton)\nJ160337.10+311328.5 16.987 16.79     17.19\nJ160343.10+311452.9 18.700 18.51     18.90\n\nAssuming the host galaxy has R = 19.7 we subtract a host galaxy flux \nfrom a flux of the source (afterglow+host  galaxy) and estimated power \nlaw index of a light curve of the afterglow as -1.2,  which is typical \nfor a GRB afterglow."
+}

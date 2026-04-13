@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130605A: TAROT La Silla observatory optical decay",
+  "eventId": "GRB 130605A",
+  "bibcode": "2013GCN.14777....1K",
+  "createdOn": 1370487711000,
+  "circularId": 14777,
+  "submitter": "Alain Klotz at IRAP-CNRS-OMP  <Alain.Klotz@free.fr>",
+  "email": "Alain.Klotz@free.fr",
+  "body": "Klotz A. (IRAP-CNRS-OMP), Gendre B. (IRAP-CNRS-OMP),\nBoer M., Siellez K., Dereli H., Bardho O. (UNS-CNRS-OCA),\nAtteia J.L. (IRAP-CNRS-OMP) report:\n\nWe analyzed TAROT La Silla images taken during the first hours\nafter the GRB 130605A (Holland et al. GCNC 14773).\nWe have a photometric follow-up of the afterglow\ndetected by Nicuesa Guelbenzu et al. (GCNC 14774).\n\nAll TAROT magnitudes are computed using the reference star\nNOMAD-1 0565-0204137 (RA = 134.5240528 Dec. = -33.4675072 R=12.50).\n\nThe first TAROT image is trailed with a duration of 60.0s\n(see the description in Klotz et al., 2006, A&A 451, L39).\nAfter substraction of an overlaped star we can mesure the\ncontinuous photometry between 32.7 and 92.7s:\n\n From 32.7s to 58.5s the magnitude rises steeply until R = 14.85\n From 58.5s to 92.7s the magnitude stays at about the level R = 14.9\n\nThen the decay is recorded using the later images:\n\n  Tstart  Tstop  Rmag  1sig\n  (sec)   (sec)\n   106.3  136.3  15.20 0.02\n   146.8  176.8  15.43 0.02\n   187.4  217.4  15.56 0.02\n   227.7  257.7  15.70 0.03\n   268.5  298.5  16.10 0.02\n   308.8  398.8  16.17 0.02\n   409.4  499.4  16.45 0.04\n   509.9  599.9  16.71 0.08\n   610.5  700.5  16.98 0.04\n   711.3 1161.3  17.88 0.07\n  1113.3 1203.3  18.36 0.29\n  1414.9 1684.9 >18.57\n  1515.5 4845.5 >19.41\n\nThe light curve can be fitted in three parts implying\ntwo breaks at 284s and 656s:\n\n From  76s to 284s alpha=0.65\n From 284s to 656s alpha=1.3\nBeyond 656s       alpha=2.2\n\nThis message can be cited."
+}

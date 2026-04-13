@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190707q: Updated sky localization",
+  "eventId": "LIGO/Virgo S190707q",
+  "bibcode": "2019GCN.25048....1L",
+  "createdOn": 1562767567000,
+  "circularId": 25048,
+  "submitter": "Sarah Antier at APC  <antier@apc.in2p3.fr>",
+  "email": "antier@apc.in2p3.fr",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO and Virgo data around\nthe time of the compact binary coalescence (CBC) candidate S190707q\n(GCN 25012). Parameter estimation has been performed using\nLALInference [1] and a new sky map, LALInference.offline.fits.gz,\ndistributed via GCN Notice, is available for retrieval from the\nGraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190707q\n\nLALInference.offline.fits.gz is the preferred sky map at this time.\nThe 90% credible region is 921 deg2. Marginalized over the whole sky,\nthe a posteriori luminosity distance estimate is 781 �� 211 Mpc\n(a posteriori mean �� standard deviation).\n\nFor further information about analysis methodology and the contents\nof this alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https/emfollow.docs.ligo.org/userguide/>.\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

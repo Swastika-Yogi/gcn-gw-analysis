@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi-GBM Sub-Threshold Detection of GRB 241002D",
+  "eventId": "GRB 241002D",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37697....1R",
+  "createdOn": 1727973022032,
+  "circularId": 37697,
+  "submitter": "Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "format": "text/plain",
+  "body": "O.J. Roberts (USRA/NASA-MSFC), E. Burns (LSU), A. Goldstein (USRA/NASA-MSFC), J. Wood (NASA-MSFC) report on behalf of the Fermi-GBM Team:\n\nSVOM detected GRB 241002D on 2024-10-02 at 22:08:07.000 UTC (Tan et al., GCN #37693). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates. \n\nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals, identified an unambiguous transient starting -0.128 s before the SVOM trigger time most significantly on the 1.024 s timescale, with a LogLR = 297. Fermi-GBM did not trigger on-board due to intentional suppression of soft transients. The Fermi-MET of the start time of this transient is 749599691.872 s. Using the standard search protocol, the Targeted Search localized the signal to an RA=24.6 deg., Dec.= 20.3 deg., with an error of 11.4 deg. (90 % confidence level, includes the systematic error), at a SNR of 24.0. \n\nAdditionally, the GBM Targeted Search event was found with the highest significance using a \"soft\" spectrum (Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7) for a GRB. The duration is about 5s, consistent with the T90 reported previous by Tan et al.\n\nThe Targeted Search data release product for this event can be found here: https://zenodo.org/uploads/13886511\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

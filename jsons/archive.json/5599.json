@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060923A: Swift XRT refined analysis",
+  "eventId": "GRB 060923A",
+  "bibcode": "2006GCN..5599....1C",
+  "createdOn": 1159038842000,
+  "circularId": 5599,
+  "submitter": "Maria Laura Conciatore at ASDC  <conciatore@asdc.asi.it>",
+  "email": "conciatore@asdc.asi.it",
+  "body": "M.L. Conciatore, M. Capalbi, M. Perri, D.N. Burrows (PSU) and M.\nStamatikos (NASA/ORAU) report on behalf of the Swift XRT team:\n\nWe have analysed the first five orbits of Swift XRT data from GRB\n060923A (Stamatikos et al., GCN 5583). A ~2.5ks PC mode image provides\na refined X-ray position of:\n\nRA(J2000)  =  16h 58m 28.2s\nDec(J2000) = +12d 21' 40.0\"\n\nwith an uncertainty of 6.0 arcseconds radius (90% containment).This is\n3.4 arcseconds from the XRT position given by Stamatikos et al.(GCN\n5583) and 74.8 arcsec from the refined (ground-calculated) BAT\nposition (Tueller et al., GCN 5589). This position is 1.14 arcseconds\nfrom the detected source reported by Tanvir et al. (GCN 5587), and\n1.32 arcseconds from the one reported by Fox et al. (GCN 5597) as a\ncandidate counterpart afterglow.\n\nX-ray light curve shows an initial power-law decay with a decay index\nof 2.7+/-0.3. Then, after a slow rebrightening starting at ~650s, from\nT+4200 the source decays with a slope of 1.23 +/-0.1.\n\nAn absorbed power-law fit to the X-ray spectrum from T+100s to T+960s\ngave a photon index of 2.1+/-0.2 and a column density of (1.2+/0.1)e21\ncm**-2. We note the galactic hydrogen column density in the direction\nof the burst is 5.1e20 cm**-2. The 0.2-10.0 keV observed flux for this\nspectrum is 4.1e-11 ergs cm**-2 s**-1, which corresponds to an unabsorbed\nflux of 4.9e-11 ergs cm**-2 s**-1.\n\nAssuming that the X-ray emission continues to decline at the same\nrate, we predict a 0.2-10 keV XRT count rate of 0.006 count/s at\nT+24hr, which corresponds to an observed 0.2-10 keV flux of 2.4e-13\nerg/cm**2/s.\n\nThis circular is an official product of the Swift XRT Team.\n\n[GCN OPS NOTE(24sep06): Per author's request, the author list was added.]"
+}

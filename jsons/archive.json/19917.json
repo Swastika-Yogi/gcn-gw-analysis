@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160912A: Swift-XRT refined Analysis",
+  "eventId": "GRB 160912A",
+  "bibcode": "2016GCN.19917....1M",
+  "createdOn": 1473744371000,
+  "circularId": 19917,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "L.M. McCauley (PSU), J.A. Kennea (PSU), B. Sbarufatti (INAF-OAB/PSU),\nB. Mingo (U. Leicester), A.P. Beardmore (U. Leicester), P.A. Evans (U.\nLeicester), V. D'Elia (ASDC), A. D'Ai (INAF-IASFPA), A. Melandri\n(INAF-OAB) and J.K. Cannizzo report on behalf of the Swift-XRT team:\n\nWe have analysed 8.0 ks of XRT data for GRB 160912A (Cannizzo et al.\nGCN Circ. 19912), from 119 s to 36.9 ks after the  BAT trigger. The\ndata comprise 776 s in Windowed Timing (WT) mode (the first 9 s were\ntaken while Swift was slewing) with the remainder in Photon Counting\n(PC) mode. The enhanced XRT position for this burst was given by\nBeardmore et al. (GCN Circ. 19915).\n\nThe late-time light curve (from T0+5.8 ks) can be modelled with a\npower-law decay with a decay index of alpha=.\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.63 (+/-0.04). The\nbest-fitting absorption column is  2.80 (+/-0.20) x 10^21 cm^-2, in\nexcess of the Galactic value of 2.4 x 10^21 cm^-2 (Willingale et al.\n2013). The PC mode spectrum has a photon index of 1.81 (+0.11, -0.10)\nand a best-fitting absorption column of 3.0 (+/-0.5) x 10^21 cm^-2. The\ncounts to observed (unabsorbed) 0.3-10 keV flux conversion factor\ndeduced from this spectrum  is 4.2 x 10^-11 (5.6 x 10^-11) erg cm^-2\ncount^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.0 (+/-0.5) x 10^21 cm^-2\nGalactic foreground: 2.4 x 10^21 cm^-2\nExcess significance: 2.1 sigma\nPhoton index:\t     1.81 (+0.11, -0.10)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00711914.\n\nThis circular is an official product of the Swift-XRT team."
+}

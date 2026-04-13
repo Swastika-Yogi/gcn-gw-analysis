@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251013D: LAST optical upper limit on Swift/BAT-GUANO localization",
+  "eventId": "GRB 251013D",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42264....1K",
+  "createdOn": 1760462418937,
+  "submitter": "Ruslan Konno at Weizmann Institute of Science <ruslankonno@gmail.com>",
+  "circularId": 42264,
+  "format": "text/plain",
+  "body": "R. Konno (WIS), S. Garrappa (WIS), E. A. Zimmerman (WIS), A. Horowicz (WIS), E. O. Ofek (WIS), S. Ben-Ami (WIS), D. Polishook (WIS), O. Yaron (WIS), S. Fainer (WIS), A. Krassilchtchikov (WIS), Y. M. Shani (WIS), E. Segre (WIS), A. Gal-Yam (WIS), and S. Spitzer (WIS) report on behalf of the LAST Collaboration.\n\nWe report observations of GRB 251013D, detected by Fermi (Fermi GBM Team, GCN 42224). Observations were conducted with the Large Array Survey Telescope (LAST; Ofek et al. 2023, PASP 135, 5001; Ben-Ami et al. 2023, PASP 135, 5002).\n\nWe observed the field of GRB 251013D using 20 divergent telescopes (each with a 7.4 deg^2 FoV) in clear band (similar to the Gaia Bp band) over several epochs. Each coadd consists of 20x20 s exposures, yielding a limiting magnitude of about 20.5 AB mag.\n\nOur observations cover about 80% of the localization region within the HEALPix FITS file glg_healpix_all_bn251013762.fit (Fermi GBM Team, GCN 42224) and include the Swift/BAT-GUANO localization (DeLaunay et al., GCN 42244). We coadded the Swift/BAT-GUANO coverage obtained between 2025-10-13 22:22:33 UTC (T − T0 = 4.09 h) and 2025-10-14 01:02:54 UTC (T − T0 = 6.77 h) for a total integration of 120 x 20 s and performed image subtraction using reference images of this field. No new source was detected within the Swift/BAT-GUANO region down to a limiting magnitude of 21.14 (AB). No source brighter than 19.44 mag (AB) with significant variability (> 0.5 mag) was observed between the start and end of the observations of the same field.\n\nLAST is a survey telescope array of the Weizmann Astrophysical Observatory (https://www.weizmann.ac.il/wao/)."
+}

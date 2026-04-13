@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050827: Swift/UVOT upper limits",
+  "eventId": "GRB 050827",
+  "bibcode": "2005GCN..3901....1B",
+  "createdOn": 1125282311000,
+  "circularId": 3901,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), M. Capalbi (ASDC), F. Marshall (GSFC),\nJ. Nousek (PSU), N. Gehrels (GSFC) on behalf of the Swift UVOT team\n\nSwift/UVOT began observing the field of GRB050827 17.8 hours after\nthe BAT trigger (Capalbi, et al., GCN 3893); previous to that, the\ntarget was unobservable due to a moon constraint. No new source with \nrespect to the DSS image is detected in the XRT error circle\n(Capalbi, et al., GCN 3899) down to the following upper limits in\nthe six filters:\n\nFilter  T-range (hrs)  Exp (s)  3sig_limit\n\nV        20.9-24.3     1800     20.1\nB        19.5-26.2     2444     21.0\nU        19.3-25.9     2699     21.1\nUVW1     18.1-25.7     2939     20.6\nUVM2     17.8-24.6     2531     20.7\nUVW2     20.6-24.1     1800     20.8\n\nWhere T_range is the time range in hours post-trigger over which the\nsummed images were accumulated and Exp is the total exposure time\n(in seconds) of the summed image. The magnitude upper limits are not\ncorrected for extinction.\n\nThese magnitudes are based on preliminary zero-points, measured\nin orbit, and will require refinement with further calibration."
+}

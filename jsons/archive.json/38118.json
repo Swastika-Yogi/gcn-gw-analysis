@@ -1,0 +1,11 @@
+{
+  "subject": "EP241107a: GIT optical observations",
+  "eventId": "EP241107a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38118....1M",
+  "createdOn": 1731014075936,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "circularId": 38118,
+  "format": "text/plain",
+  "body": "T. Mohan, V. Swain, A. P. Saikia, R. Kumar, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of EP241107a (Zhou et al., GCN 38112) with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2024-11-07 17:43:35 UT, i.e., 3.55 hours after the EP-WXT trigger. We obtained multiple exposures of 300 seconds in the g', r', and i' filters. We detected the optical afterglow in our individual as well as stacked images at position reported by Odeh et al., GCN 38115 and also observed by SVOM/C-GFT team GCN 38116. The photometry results follow as:\n\n----------------------------------------------------------------\n| MJD (mid)     | Filter | Total Exposure (s) | Magnitude (AB) |\n| ------------- | ------ | ------------------ | -------------- |\n| 60621.751482  |   r'   |      1x300         | 19.42 +/- 0.07 |\n| 60621.762569  |   g'   |      1x300         | 19.86 +/- 0.1  |\n| 60621.777315  |   i'   |      3x300         | 19.17 +/- 0.06 |\n----------------------------------------------------------------\n\nBased on our results and other reported detections, source is red and decaying.\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

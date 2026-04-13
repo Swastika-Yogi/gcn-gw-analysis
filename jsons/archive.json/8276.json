@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080919: Swift-XRT refined analysis",
+  "eventId": "GRB 080919",
+  "bibcode": "2008GCN..8276....1P",
+  "createdOn": 1221842458000,
+  "circularId": 8276,
+  "submitter": "Matteo Perri at ISAC/ASDC  <perri@asdc.asi.it>",
+  "email": "perri@asdc.asi.it",
+  "body": "B. Preger (ASDC), G. Stratta (ASDC), M. Perri (ASDC) report on behalf\nof the Swift XRT team:\n\nThe Swift XRT started observing the field of GRB080919 (trigger=325268;\nPreger et al., GCN Circ. 8270) at 00:06:23.8 UT, 70.8 seconds\nafter the trigger.\n\nThe position of the X-ray afterglow is: RA, Dec= 265.223958, -42.368667\nwhich is equivalent to:\n\nRA (J2000): 17 40 53.75\nDec (J2000): -42 22 07.2\n\nwith an uncertainty of 2.0 arcsec (90% confidence).\n\nThe X-ray light curve from T0+74 s to T0+25 ks shows a fading behavior.\nAt ~T0 + 200 data show a 200 s long flare peaking\nat ~T0 + 240 s with peak count rate of (1.2+/-0.3) cts/s\nthat is about a factor of 4 above the underlying continuum.\nExcluding the flare, the light curve can be well modelled with\na broken power law, with best fit first decay index\nalpha_1 = 2.2+/-0.2, a temporal break at ~T0 + 891 s and second\ndecay index alpha_2= 0.8+/-0.2.\n\nA 4.5 ks exposure X-ray spectrum from T0+100 s to T0+7811 s can be\nfit by an absorbed power-law model with a photon index of 2.0 (+0.5 -0.4)\nand a column density of 3.9 (+3.2) (-2.3) x 10^21 cm^-2 in addition to\nthe Galactic column density value in the direction of the burst\n(2.6 x 10^21 cm^-2, Kalberla et al. 2005).\n\nProviding the source continues to decay at the same rate, we predict an\nobserved flux of about 2 x 10^-14 erg cm^-2 s^-1 at T0+1 days.\n\nThis circular is an official product of the Swift-XRT team."
+}

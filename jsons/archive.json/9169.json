@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090419: GROND detection of afterglow candidate",
+  "eventId": "GRB 090419",
+  "bibcode": "2009GCN..9169....1A",
+  "createdOn": 1240216084000,
+  "circularId": 9169,
+  "submitter": "Jochen Greiner at MPI  <jcg@mpe.mpg.de>",
+  "email": "jcg@mpe.mpg.de",
+  "body": "P. Afonso (MPE Garching), S. Klose (Tautenburg) T. Kruehler and J.Greiner \n(both MPE Garching) report on behalf of the GROND team:\n\nWe observed the field of GRB 090419 (Swift trigger 349592, G. Stratta et \nal.,GCN #9161) simultaneously in g'r'i'z'JHK with GROND mounted at the 2.2m \nESO/MPI telescope at La Silla Observatory (Chile). Observations started on \n19 Apr. 2009 at 23:12 UT, 9.5 h after the burst.\n\nInside the enhanced XRT error circle (J.P. Osborne et al., GCN #9164) we \ndetect a single faint source in the z' and J band at:\n\nRA  (J2000.0) =  13:07:43.13\nDEC (J2000.0) = -75:36:22.4\n\nwith an uncertainty of 0.5\" in each coordinate.\n\nPreliminary photometry yields the following AB magnitudes and upper limits \nin stacked images:\n\nFilter  T_mid[h]  Exp[s]  AB Mag  MagErr\n----------------------------------------\ng       11.5792   12x369  >24.6\nr       11.5792   12x369  >25.1\ni       11.5792   12x369  24.9    0.5\nz       11.5792   12x369  24.2    0.1\nJ       11.5859   360x10  23.0    0.2\nH       11.5859   360x10  >22.1\nK       11.5859   360x10  >21.2\n\n\nThe quoted error is statistical only. There is an additional systematic \nerror in the absolute calibration using the GROND zeropoints and 2MASS \nfield stars which is expected to be in the 0.2 mag range. Quoted magnitudes \nare not corrected for the significant Galactic foreground extinction \ncorresponding to a reddening of E_(B-V)=0.30.\n\nGiven the lack of information about variability and the rather high density \nof foreground stars we cannot definitely associate this source with GRB \n090419 at this point. Because of the high Galactic foreground extinction, \nthe upper limits in g'r' as well as the i'-z' color are not constraining, and \nthe redshift is only constrained to below about 5."
+}

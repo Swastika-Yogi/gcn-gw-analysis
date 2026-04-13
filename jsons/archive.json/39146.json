@@ -1,0 +1,14 @@
+{
+  "editedOn": 1769437379339,
+  "subject": "EP 250108A: Upper limits from Fermi-GBM Observations",
+  "eventId": "EP250108a",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39146....1R",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "circularId": 39146,
+  "createdOn": 1738698781811,
+  "submitter": "mariaedvige.ravasio@ru.nl",
+  "format": "text/plain",
+  "body": "M. E. Ravasio (Radboud Univ.), E. Burns (LSU), Colleen Wilson-Hodge (NASA Marshall Space Flight Center) and P.G. Jonker (Radboud Univ.) report on behalf of the Fermi-GBM Team:\n\nThe location of the EP-WXT event EP250108A (Li et al., GCN 38861) was occulted by the Earth for Fermi at the EP trigger time T0=2025-01-08T12:30:28.34 UTC. There was no Fermi-GBM onboard trigger around EP-WXT times. The location becomes visible at around ~T0+415 s.\n\nThe GBM targeted search [1], the most sensitive, coherent search for GRB-like signals, was run in the time interval [-50;+500] s centred at different times, from T0 up to T0+2500s, to cover the whole reported duration of the EP transient, seeking signals between 64 ms and 32.768 s in duration. A transient was found at ~T0+500 s, but its localization is consistent with the Crab nebula, which exited Earth occultation at that time. No signal consistent with the EP transient both temporally and spatially is identified, as confirmed by visual inspection of the data.\n\nAssuming a “soft” spectral template  (Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7), and a duration of 8.192 s, the most conservative sky-averaged upper limit is found in the time interval [T0+1450; T0+2000] s, corresponding to a flux of 2.6e-08 erg/cm2/s in the energy band 10-1000 keV.\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP251124a: GROWTH-India Telescope optical upper limits",
+  "eventId": "EP251124a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42817....1M",
+  "createdOn": 1763996561311,
+  "circularId": 42817,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan (IITB), S. Patil (IITB), D. Eappachen (IIA), V.Swain (IITB), A.P. Saikia (IITB), V. Bhalerao (IITB), G.C. Anupama (IIA), S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of EP transient (Zhou et al., GCN 42816), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-11-24T13:25:59 UT, i.e., about  2.27 hours after the EP-WXT trigger. Two exposures were obtained each in r' and g' filters. We did not detect any transient in our images within the WXT localization region and at the position of FXT sources - FXTA, FXTB1, and FXTB2. The photometric upper limits are as follows:\n\n\n| MJD (mid)    | Filter | tmid-t0 (min) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | ------------- | ------------------- | ---------------- |\n| 61003.55971  | r'     | 135.9         | 300                 | 20.5             |\n| 61003.56539  | g'     | 144.1         | 300                 | 20.8             |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

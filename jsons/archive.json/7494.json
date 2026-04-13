@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080320: Swift XRT refined analysis",
+  "eventId": "GRB 080320",
+  "bibcode": "2008GCN..7494....1G",
+  "createdOn": 1206070394000,
+  "circularId": 7494,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <grupe@astro.psu.edu>",
+  "email": "grupe@astro.psu.edu",
+  "body": "Dirk Grupe reports on behalf of the Swift-XRT team:\n\n\nThe XRT began observing the field of GRB 080320 (trigger=306858; Grupe \net al.,\nGCN Circ 7473) at 04:40:29.4 UT, 171.0 seconds after\nthe BAT trigger.\n\nThe astrometrically corrected X-ray position (using the XRT-UVOT \nalignment and\nmatching UVOT field sources to the USNO-B1 catalogue) is: RA, Dec = \n177.7353,\n+57.1574 which is equivalent to:\n\nRA (J2000):  11 50 56.46\nDec (J2000): +57 09 26.8\n\nwith an uncertainty of 1.4 arcsec (radius, 90% confidence).\n\n\nThe 0.3-10 keV X-ray light curve starts with three flares up to 12 \ncounts/s.\nThe afterglow decays very fast and started to flatten at the end of the \nfirst orbit\nabout 1000 s after the burst. The light curve is currently decaying with a\nshallow decay slope of 0.63 +/- 0.05.\n\nThe spectrum of the Photon Counting data of the first three orbits\ncan be well fitted by an absorbed single powerlaw with a photon\nindex Gamma = 1.96 +/- 0.20 and column density of (6.9 +/- 4.0)e20 cm-2\nThis is slightly in excess of the Galactic column density of 1.35e20 \ncm-2 in this direction.\nUsing this spectrum we estimated a count rate to flux conversion of\n 1 count/s converts to 4.22e-11 ergs/cm2/s.\n\nIf the underlying powerlaw decay continues as is, we predict an XRT \ncount rate\nof 0.026 counts/s at T+24 hours or 1.1e-12 ergs/s/cm2."
+}

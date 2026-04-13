@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101008A: Swift/XRT Detection of an Afterglow with no UVOT Counterpart",
+  "eventId": "GRB 101008A",
+  "bibcode": "2010GCN.11319....1B",
+  "createdOn": 1286562871000,
+  "circularId": 11319,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC),\nP. A. Evans (U Leicester),\nS. T. Holland (CRESST/GSFC/USRA),\nN. P. M. Kuin (UCL-MSSL),\nC. Pagani (U Leicester),\nK. L. Page (U Leicester), and\nM. H. Siegel (PSU)\nreport on the behalf of the Swift UVOT team:\n\n    The XRT began observing the field of GRB 101008A (Baumgartner et al. 2010,\nGCNC 11318) at 17:35:56.9 UT, 3161.7 seconds after the BAT trigger.  Using promptly\ndownlinked data we find an uncatalogued X-ray source located at RA, Dec 328.87463,\n37.06580 which is equivalent to:\n\n    RA(J2000) =  21h 55m 29.91s\n   Dec(J2000) = +37d 03' 56.9\"\n\nwith an uncertainty of 3.9 arcseconds (radius, 90% containment).  This\nlocation is 48 arcseconds from the BAT onboard position, within the BAT\nerror circle.  This position may be improved as more data are received;\nthe latest position is available at http://www.swift.ac.uk/sper.  We\ncannot determine whether the source is fading at the present time.\n\n    A power-law fit to a spectrum formed from promptly downlinked event\ndata gives a column density in excess of the Galactic value (1.44 x\n10^21 cm^-2, Kalberla et al. 2005), with an excess column of 3\n(+4.38/-2.94) x 10^21 cm^-2 (90% confidence).\n\n    UVOT took a finding chart exposure of 150 seconds with the white filter\nstarting 3167 seconds after the BAT trigger.  No credible afterglow candidate\nhas been found in the initial data products.  The 2.7' x 2.7' sub-image covers\n100% of the XRT error circle.  The preliminary 3-sigma upper limit in the white\nfilter is 20.3 mag.  No correction has been made for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} =  0.19 mag.  Photometry is\non the UVOT photometry system of Poole et al. (2008)."
+}

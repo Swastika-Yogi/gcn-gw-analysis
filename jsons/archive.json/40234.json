@@ -1,0 +1,14 @@
+{
+  "editedOn": 1745586639821,
+  "subject": "GRB 250419A: SVOM/ECLAIRs refined analysis",
+  "eventId": "GRB 250419A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40234....1B",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 40234,
+  "createdOn": 1745503978672,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "M. Brunet (IRAP), M. G. Bernardini (INAF-OAB, LUPM), A. Coleiro, F. Cangemi (APC), O. Godet (IRAP), W. J. Xie, D. H. ZHAO (NAO, CAS), B.-T. Wang (YNAO, CAS), Y. H. Cheng (SWIFAR,YNU)\n\nUsing the event-by-event data downloaded through the X-band ground station, we report further analysis of ECLAIRs observations of GRB 250419A (SVOM burst-id sb25041901). \n\nThe burst that triggered ECLAIRs onboard (GCN 40168) consists of a single pulse with a duration of T90 = 11.44 -2.58/+2.85 s in the 5-8 keV energy band. However, the full dataset shows another pulse with a duration of ~15 s at ~Tb-120 s.  No counts are detected above 12 keV for the first pulse and above 10 keV for the second one, making this event very soft. \n\nThe time-averaged spectrum of the first pulse (from Tb-118s to Tb-102s) in the energy range 4-12 keV is best fit by a simple power-law model with a photon index 3.01 -0.69/+0.80. \n\nThe time-averaged spectrum of the second pulse (from Tb to Tb+20s) in the energy range 4-10 keV is best fit by a simple power-law model with a photon index 3.02 -0.53/+0.56. \n\nThe total fluence in the 4-10 keV band is (1.41 -0.37/+0.03) e-7 erg/cm^2.\n\nIn both time intervals, a black-body model (zbb model in Xspec with z = 0.845, GCN 40174) provides an adequate fit to the data. The first pulse has a temperature of 2.44 -0.54/+0.64 keV, and the second one a temperature of 2.28 - 0.31/+0.38 keV. In that case, the total fluence is (1.38 -0.10/+0.06) e-7 erg/cm^2.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe spectral fits suggest that the Epeak of this burst is below the ECLAIRs energy range, i.e. <4 keV. Therefore this burst could be classified as an X-Ray Flash (XRF). \n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n"
+}

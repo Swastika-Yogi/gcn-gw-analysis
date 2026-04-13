@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210308A: MITSuME Okayama optical upper limits",
+  "eventId": "GRB 210308A",
+  "bibcode": "2021GCN.29621....1O",
+  "createdOn": 1615211481000,
+  "circularId": 29621,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "S. Ogata, R. Hosokawa, K. L. Murata, R. Adachi, M. Niwano, F. Ogawa,\nN. Nakamura, N. Ito, H. Takamatsu, H. Hara, Y. Yatsu, and N. Kawai\n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210308A (D'Elia et al.,GCN Circular\n#29619) with the optical three color (g', Rc, and Ic) CCD cameras\nattached to the MITSuME 50 cm telescope of Okayama Astrophysical\nObservatory, Okayama, Japan. The observation with a series of 60 sec\nexposures started at 2021-03-08 11:03:59 UT.(4.5 hours after Swift BAT\ntrigger) We stacked the images with good conditions. We did not detect\nthe optical afterglow reported previously (D'Elia et al.,GCN Circular\n#29619) in all three bands.\nWe obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n4.5 11:51:53 4440 g'>17.6, Rc>17.8, Ic>17.8\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "IceCube-230707B - IceCube observation of a high-energy neutrino candidate track-like event",
+  "eventId": "IceCube-230707B",
+  "bibcode": "2023GCN.34166....1I",
+  "createdOn": 1688758660218,
+  "submitter": "Marcos Santander at U of Alabama <jmsantander@ua.edu>",
+  "circularId": 34166,
+  "body": "\nThe IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nOn 23-07-07 at 18:56:51.44 UT IceCube detected a track-like event with a moderate probability of being of astrophysical origin.\n\nThe event was selected by the ICECUBE_Astrotrack_Bronze alert stream. The average astrophysical neutrino purity for Bronze alerts is 30%. This alert has an estimated false alarm rate of 1.358 events per year due to atmospheric backgrounds.  The IceCube detector was in a normal operating state at the time of detection.  After the initial automated alert (https://gcn.gsfc.nasa.gov/notices_amon_g_b/138125_29513102.amon), more sophisticated reconstruction algorithms have been applied offline, with the direction refined to:\n\nDate: 23-07-07\nTime:  18:56:51.44 UT\nRA: 127.18 (+11.41 deg, -8.66 deg  90% PSF containment) J2000\nDec: 20.74 (+11.41 deg, -9.16 deg 90% PSF containment) J2000\n\nThe large directional uncertainty is due to the muon that triggered the event clipping a corner of the detector and therefore producing a short track. \n\nWe encourage follow-up by ground and space-based instruments to help identify a possible astrophysical source for the candidate neutrino.\n\nGiven the size of the uncertainty region, there is a large number (>30) of Fermi 4FGL-DR3 or 3FHL catalog sources in the 90% uncertainty region. \n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector operating at the geographic South Pole, Antarctica. The IceCube realtime alert point of contact can be reached at roc@icecube.wisc.edu\n\n\n"
+}

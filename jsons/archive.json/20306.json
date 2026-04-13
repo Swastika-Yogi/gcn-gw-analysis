@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 161219B: Swift/UVOT Detection",
+  "eventId": "GRB 161219B",
+  "bibcode": "2016GCN.20306....1M",
+  "createdOn": 1482253721000,
+  "circularId": 20306,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and A. D'Ai (INAF-IASFPA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 161219B\n112 s after the BAT trigger (D'Ai et al., GCN Circ. 20296).\nA source consistent with the XRT position\n(Beardmore et al. GCN Circ. 20297)\nis detected in the initial UVOT exposures.\n\nThe source is detected in the first white exposure at the position:\n  RA(J2000)  =\t06:06:51.43 =  91.71428\n  DEC(J2000) = -26:47:29.5  = -26.79152\nwith an uncertainty of 0.42\" (90% confidence)\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are\nin the table below. Fading is seen in all filters.\nThe detection in the w2 filter is consistent\nwith a  relatively low redshift as suggested by\nKruehler et al. (GCN Circ. 20299).\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\nwhite              112          261          147         16.1 +/- 0.1\nv                  653          673           19         16.7 +/- 0.2\nb                  579          599           20         16.9 +/- 0.1\nu                  324          573          246         16.0 +/- 0.1\nu                44962        45868          875         18.0 +/- 0.1 \nw1                 702          722           20         15.6 +/- 0.1\nm2                 677          697           19         15.7 +/- 0.2\nw2                 629          649           20         15.9 +/- 0.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst."
+}

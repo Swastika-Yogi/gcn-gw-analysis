@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221216A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 221216A",
+  "bibcode": "2022GCN.33078....1K",
+  "createdOn": 1671295813000,
+  "circularId": 33078,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (MSSL/UCL) and Simone Dichiara(PSU) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 221116A\n113 s after the BAT trigger (Dichiara et al., GCN Circ. 33067).\nNo optical afterglow consistent with the enhanced XRT position is\ndetected in the initial UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite              113          263          147         >20.3\nwhite             4797         4997          197         >20.4\nu                  325          358           32         >18.3\nb                 4592         6041          197         >19.7\nuvw1              5618         5818          197         >19.4\nuvm2              5413         5613          197         >19.4\nuvw2              5003         5203          197         >19.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.042 in the direction of the burst\n(Schlegel et al. 1998)."
+}

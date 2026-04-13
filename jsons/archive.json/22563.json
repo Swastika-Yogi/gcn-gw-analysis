@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 819863 is not a GRB",
+  "bibcode": "2018GCN.22563....1D",
+  "createdOn": 1522380212000,
+  "circularId": 22563,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "A. Deich (PSU), H. A. Krimm (NSF/USRA), F. E. Marshall (NASA/GSFC),\nK. L. Page (U Leicester), D. M. Palmer (LANL) and A. Tohuvavohu (PSU)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 03:09:02 UT, the Swift Burst Alert Telescope (BAT) triggered during\nthe count rate increase during the approach to the SAA, and found\na low-significance peak in the resulting image (trigger=819863).  \nSwift slewed immediately to the location. \nThe BAT on-board calculated location is \nRA, Dec 95.803, -64.954 which is \n   RA(J2000) = 06h 23m 13s\n   Dec(J2000) = -64d 57' 12\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a continuous\nincrease as expected on entering the SAA. \n\nThe XRT began observing the field at 03:10:27.2 UT, 85.1 seconds after\nthe BAT trigger. However, the source automatically identified on-board\nwas a cosmic ray, caused by the proximity of Swift to the SAA. \n\nDue to the low significance of the image (6.55 sigma), the lack\nof a GRB-like peak during the increasing particle background, and\nthe non-detection of an afterglow by XRT, we believe that\nthis is not a GRB."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB041223: Swift-BAT detection of a bright long burst",
+  "eventId": "GRB 041223",
+  "bibcode": "2004GCN..2898....1T",
+  "createdOn": 1103824732000,
+  "circularId": 2898,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller, L. Barbier, S. Barthelmy (GSFC), A. Beardmore (U.Leicester),\nL. Cominsky (Sonoma State U), J. Cummings (GSFC), E. Fenimore (LANL),\nN. Gehrels (GSFC), S.T. Holland (GSFC/USRA), D. Hullinger (GSFC/UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), K. McLean, D. Palmer (LANL),\nA. Parsons (GSFC), G. Sato (ISAS), M. Suzuki (Saitama), G. Tagliaferri (OAB)\non behalf of the Swift BAT team:\n\nAt 14:06:18 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB041223.  The spacecraft did not autonomously slew\nto the burst since automated slewing was not yet enabled.\n\nThe BAT ground-calculated location is RA,Dec 100.183,-37.066 (J2000)\nwith an uncertainty of 7 arcmin (radius, 3-sigma, including systematic\nuncertainty using a preliminary bore-sight alignment calibration).\nThis is 27 degrees off the BAT bore sight and was in the partially encoded\nfield of view.\n\nThe burst lightcurve is multi-peaked with structure within the peaks\nwith the main emission lasting ~60 sec.  The peak flux was 7.5 events/cm^2/sec\n(1-sec sampling; unsaturated; ~15 to 100 keV; ~28 Crab).\nThe total duration was ~130 sec.  The fluence was ~2e-5erg/cm^2.\nA reduced energy band is being quoted because of our response uncertainty\nin the >100 keV band, and because of strong emission by this burst \nin this band."
+}

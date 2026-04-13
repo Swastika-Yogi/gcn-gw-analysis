@@ -1,0 +1,14 @@
+{
+  "editedOn": 1752783239040,
+  "subject": "GRB 270713A: Kitab and AbAO Optical Observations",
+  "eventId": "GRB 270713A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41112....1P",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "circularId": 41112,
+  "createdOn": 1752782669055,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), A. Schmalz (KIAM), R. Ya. Inasaridze (AbAO) and A. Volnova (IKI) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of GRB 250713A detected by SVOM/ECLAIRs (Maggi et. al, GCN 41078) using the RC-36 telescope of the ISON-Kitab Observatory and the AS-32 telescope of the Abastumani Observatory (AbAO). The observations at Kitab began on 2025-07-13 at 19:29 UT, i.e. ~0.13 days after the trigger, while AS-32 started observations 2025-07-13 at 19:59 UT, i.e. ~0.14 days since trigger. We obtained a series of 120x60 sec images in the clear light with RC-36 and a series of 71x60 sec images in the R-band with AS-32. We have inspected the co-added images from both telescopes for any new optical sources spatially consistent with the X-ray candidates found by EP-FXT (Liang et. al, GCN 41085) and Swift/XRT (Evans et. al, GCN 41086). No new optical sources were found in our observations. However, our searches revealed one known, but brightened optical source J222746.80+384743.9 from the SDSS-DR12 catalog found within the localization of EPF_J222746.7+384738 (90% error radius is 10 arcsec). The magnitudes of J222746.80+384743.9 in SDSS-DR12 are g = 21.54 +/- 0.06 and r = 20.58 +/- 0.04, and i = 20.13 +/- 0.04, which can be transformed by Lupton 2005 transformation into R = 20.31 +/- 0.11. The preliminary photometry of SDSS J222746.80+384743.9 is provided below:\n\nDate       UT start      t-T0     Exp.    Filter  OT     Err.      UL     Telescope\n                     (mid, days)  (n*s)                         (3sigma)\n2025-07-13 19:29:20    0.13431    101*60    R     n/d    n/d      18.5      Kitab\n2025-07-13 19:59:02    0.14313    67*60     R     19.28  0.14     19.7      AS-32\n\nThe photometry was calibrated using nearby stars from the SDSS-DR12 catalog (R-mags obtained with Lupton 2005 transformations) and not corrected for the Galactic extinction. We can tentatively assume that SDSS J222746.80+384743.9 is a stellar flare if indeed the gamma-ray and X-ray emission came from SDSS J222746.80+384743.9. The optical source reported by NOT (Saccardi et. al, GCN 41091) was not detected by our telescopes.\n\nRef. stars\nSDSS-DR12\nRA Dec R(Lupton 2005 transformation)\n336.9314 38.7641 14.28\n336.9030 38.7712 16.08\n336.9267 38.7809 15.76\n336.9080 38.7704 16.35"
+}

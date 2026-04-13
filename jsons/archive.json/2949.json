@@ -1,0 +1,10 @@
+{
+  "subject": "Triangulation of Short Hard GRB050112 (large error box)",
+  "eventId": "GRB 050112",
+  "bibcode": "2005GCN..2949....1G",
+  "createdOn": 1105722042000,
+  "circularId": 2949,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks\non behalf of Konus-Wind and Helicon/Coronas-F teams,\n\nT. Cline on behalf of the Konus-Wind team, and\n\nA. Rau, A. von Kienlin, G. Lichti on behalf of the INTEGRAL SPI-ACS\nGRB team report:\n\nA short hard intense GRB 050112 was detected\nby Konus-Wind at 11:10:22.358 UT\nand Helicon-Coronas-F at 11:10:24.351 UT.\nIt was also detected by INTEGRAL SPI-ACS.\nIt consisted of two separate pulses, first of which\nwas multipeaked and had a duration of ~0.150 s,\nthe second contained a single peak and had a duration of ~0.080 s.\nThe time separation between pulses was about 0.3 s.\nThe total duration of the burst was about 0.52 s.\n\nWe have triangulated it to Wind-Helicon annulus centered at\nRA(2000) = 297.993 deg, Decl(2000) = -16.680 deg,\nwhose radius is 68.634 � 0.045 deg (3 sigma)\nand Wind-Integral annulus centered at\nRA(2000) = 300.904 deg, Decl(2000) = -18.663 deg,\nwhose radius is 69.489 � 0.192 deg (3 sigma).\n\nThese annuli intersect to form 2 error boxes,\none of which may be eliminated by the Konus\necliptic latitude response.\n\nThe resulting error box has an approximate\narea of ~1300 sq. arcmin.  Its coordinates are:\n\n\t\t     RA(2000)   DEC(2000)\n   ERROR BOX CENTER:   221.935  -42.778\n   ERROR BOX CORNER 1: 222.084  -40.378\n   ERROR BOX CORNER 2: 221.620  -46.583\n   ERROR BOX CORNER 3: 221.831  -45.150\n   ERROR BOX CORNER 4: 222.347  -38.905\n\n\nAs observed by Konus-Wind, the burst had a\nfluence  ~1.0x10^-5 erg/cm2, a peak flux ~1.6x10^-4 erg/cm2 s\n(both in 20-5000 keV range), and a Ep ~700 keV"
+}

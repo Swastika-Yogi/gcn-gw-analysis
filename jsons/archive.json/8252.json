@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080916B: Swift UVOT Refined Analysis",
+  "eventId": "GRB 080916B",
+  "bibcode": "2008GCN..8252....1H",
+  "createdOn": 1221612173000,
+  "circularId": 8252,
+  "submitter": "Erik Hoversten at Swift/Penn State  <hoversten@astro.psu.edu>",
+  "email": "hoversten@astro.psu.edu",
+  "body": "E. A. Hoversten (PSU) and G. Stratta (ASDC) report on behalf of the\nSwift UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 080916B, 1359s after the BAT trigger (Stratta et al., GCN 8240).\nThere is a possible detection of an afterglow in the UVOT white filter\nat:\n\n     RA (J2000)  10:54:39.78\n    Dec (J2000)  69: 3:57.9\n\nwith an estimated uncertainty of 0.8 arcsec (radius, 90% confidence).\nThis position is consistent with the UVOT enhanced XRT position (Evans\net al., GCN 8247).  The afterglow candidate does not appear in the DSS\nimages, and photometry from the second orbit of Swift observations\nsuggests that it has faded.\n\nUVOT magnitudes and 3-sigma upper limits are reported in the following\ntable:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-----------------------------------------------------\nwhite    1359.0    1458.8    98.2   20.50 +/- 0.21\nwhite    7826.0    8025.7   196.6     > 21.27\nv        1340.9    2920.7   342.1     > 19.62\nb        1516.3    2676.5   155.6     > 20.32\nu        1491.6    2651.7   155.6     > 19.91\nuvw1     1467.3    2627.3   155.5     > 19.91\nuvm2     1604.9    3076.8   285.0     > 20.06\nuvw2     1556.0    2716.0   155.5     > 19.91\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_{B-V} = 0.02 mag.\nAll photometry is on the UVOT flight system described in Poole et al.\n(2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130606A, Swift-BAT refined analysis",
+  "eventId": "GRB 130606A",
+  "bibcode": "2013GCN.14819....1B",
+  "createdOn": 1370648353000,
+  "circularId": 14819,
+  "submitter": "Tilan Ukwatta at MSU  <tilan.ukwatta@gmail.com>",
+  "email": "tilan.ukwatta@gmail.com",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nA. Y. Lien (NASA/GSFC/ORAU), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), G. Sato (ISAS),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry\ndownlink,\nwe report further analysis of BAT GRB 130606A (trigger #557589)\n(Ukwatta, et al., GCN Circ. 14781).  The BAT ground-calculated position is\nRA, Dec = 249.390, 29.796 deg which is\n   RA(J2000)  =  16h 37m 33.6s\n   Dec(J2000) = +29d 47' 44.5\"\nwith an uncertainty of 2.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 96%.\n\nThe mask-weighted light curve shows multiple peaks. The first peak starts\naround T-5 secs and last for 15 seconds, a cluster of weak peaks can be seen\nfrom T+80 sec to T+110 sec, bright two peak structure is seen from T+150 sec\nto T+ 170 sec, finally very weak extended multi-peak structure is observed\nbeyond\nT+200 sec up to T+500 sec. T90 (15-350 keV) is 276.58 +- 19.31 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-1.34 to T+297 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.52 +- 0.12.  The fluence in the 15-150 keV band is 2.9 +- 0.2 x 10^-6\nerg/cm2.\nThe 1-sec peak photon flux measured from T+160.36 sec in the 15-150 keV band\nis 2.6 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/557589/BA/"
+}

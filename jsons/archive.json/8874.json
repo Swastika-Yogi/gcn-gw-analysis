@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090201: Swift UVOT upper limits",
+  "eventId": "GRB 090201",
+  "bibcode": "2009GCN..8874....1S",
+  "createdOn": 1233572700000,
+  "circularId": 8874,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and S. Oates (MSSL-UCL) report on behalf of the  \nSwift UVOT team\n\nThe Swift/UVOT began settled observations of the field of GRB 090201  \n3668s after the BAT trigger (Oates et al., GCN 8865). We do not detect  \nany source at the enhanced Swift XRT position (Beardmore et al. GCN  \n8872) or at the VLT optical and NIR afterglow candidate (D'Avanzo et  \nal. GCN 8873) down to the following 3-sigma upper limits:\n\nFilter    T_start(s)   T_stop(s)  Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nWhite     3668           5051       344       > 21.53\nv             3825          10589      1159    > 20.63\nb             4646          16906      834      > 21.38\nu             4440          16245      1082    > 21.15\nuvw1      4235          14730      448      > 20.16\nuvm2     4030           11123     717       > 20.53\nuvw2      5056          5256        197       > 20.03\n\nThe quoted upper limits have not been corrected for the expected  \nGalactic extinction along the line of sight of E_(B-V) = 0.07 mag. All  \nphotometry is on the UVOT photometric system described in Poole et al.  \n(2008, MNRAS, 383, 627)."
+}

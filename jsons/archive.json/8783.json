@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090107: Swift-BAT refined analysis",
+  "eventId": "GRB 090107",
+  "bibcode": "2009GCN..8783....1S",
+  "createdOn": 1231336307000,
+  "circularId": 8783,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "G. Sato (ISAS), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+962 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 090107 (trigger #339295)\n(Ukwatta, et al., GCN Circ. 8782).  The BAT ground-calculated position is\nRA, Dec = 302.409, 4.744 deg, which is \n   RA(J2000)  =  20h 09m 38.2s \n   Dec(J2000) = +04d 44' 37.9\" \nwith an uncertainty of 2.4 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 74%.\n \nThe mask-weighted light curve shows two peaks.  The first is about 1.2 sec wide\nand peaks at ~T+0.9 sec.  The second is about 6 sec wide and peaks at ~T+11 sec.\nBecause of the Sun observing constraint and because of a regular pre-planned \ntarget slew, the BAT has no data on this event past T+260 sec, until the next orbit.\nT90 (15-350 keV) is 12.2 +- 0.7 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T+0.2 to T+12.9 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.69 +- 0.27.  The fluence in the 15-150 keV band is 2.3 +- 0.5 x 10^-7 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.30 sec in the 15-150 keV band\nis 1.1 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/339295/BA/"
+}

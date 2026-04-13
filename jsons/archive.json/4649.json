@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-BAT trigger is GRB 060203",
+  "eventId": "GRB 060203",
+  "bibcode": "2006GCN..4649....1C",
+  "createdOn": 1139027524000,
+  "circularId": 4649,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC/NRC), L. Barbier (GSFC), S. Barthelmy (GSFC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hullinger (GSFC/UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), G. Sato (ISAS),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the partial data set from T-60.0 to T+123.1 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060203 (trigger #180151)\n(Retter, et al., GCN 4641).  The BAT ground-calculated position\nis RA,Dec = 103.468,+71.841 deg {06h 53m 52s,+71d 50' 28\"} (J2000)\n+- 2.8 arcmin, (radius, sys+stat, 90% containment).  This is 2 arcmin\nfrom the ground-calculated XRT position in Circ 4644.  The partial coding\nwas 50%.\n \nThe burst has a single broad shallow peak starting at T-20 to T+65 sec.\nWe are waiting for more data to be downlinked and may find that this burst\nlasts longer than our current estimate.  T90 (15-350 keV) is (83 +- 5) sec\n(estimated error including systematics).\n \nWe note that our initial doubts about the reality of this burst have significantly \ndiminished after analyzing the Malindi data set, but these doubts have not\nbeen completely eliminated.  There is still a small possibility that this trigger\nis a hard x-ray transient, and not a GRB.  It is, however, not at all related\nto a phantom trigger due to the star tracker problem."
+}

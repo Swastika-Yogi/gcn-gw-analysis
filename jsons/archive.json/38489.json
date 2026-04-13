@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 241209D: Swift detection of a burst",
+  "eventId": "GRB 241209D",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.38489....1P",
+  "createdOn": 1733743404819,
+  "circularId": 38489,
+  "submitter": "K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "body": "T. M. Parsotan (GSFC), E. Ambrosi (INAF-IASFPA),\nA. D'Ai (INAF-IASFPA), V. D'Elia (SSDC & INAF-OAR),\nJ. J. DeLaunay (PSU), P. A. Evans (U Leicester),\nR. A. J. Eyles-Ferris (U Leicester) and A. Melandri (INAF-OAR) report\non behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 10:59:46 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 241209D (trigger=1273106).  Swift slewed immediately to the burst.\nThe BAT on-board calculated location is \nRA, Dec 190.111, -2.879 which is \n   RA(J2000) = 12h 40m 27s\n   Dec(J2000) = -02d 52' 42\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a complex\nstructure with a duration of about 150 sec.  The peak count rate\nwas ~3200 counts/sec (15-350 keV), at ~0 sec after the trigger.\n\nThe XRT began observing the field at 11:01:20.0 UT, 93.6 seconds after\nthe BAT trigger. XRT found a bright, uncatalogued X-ray source located\nat RA, Dec 190.1129, -2.8901 which is equivalent to:\n   RA(J2000)  = 12h 40m 27.09s\n   Dec(J2000) = -02d 53' 24.5\"\nwith an uncertainty of 5.0 arcseconds (radius, 90% containment). This\nlocation is 41 arcseconds from the BAT onboard position, within the BAT\nerror circle. No event data are yet available to determine the column\ndensity using X-ray spectroscopy.\n\nThe initial visibility window of the GRB was very short and no prompt\nUVOT data were generated. We await the full dataset to search for any\nUV/optical afterglow.\n\nBurst Advocate for this burst is T. M. Parsotan (tyler.parsotan AT nasa.gov).\nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050422: Swift XRT Position",
+  "eventId": "GRB 050422",
+  "bibcode": "2005GCN..3315....1P",
+  "createdOn": 1114167911000,
+  "circularId": 3315,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "C. Pagani (INAF-OAB), D. N. Burrows (PSU), A. P. Beardmore (U. Leicester), \nand N. Gehrels (GSFC) report on behalf of the Swift XRT team:\n\nThe Swift BAT instrument detected a GRB at 07:52:40 UT on 22nd April 2005 \n(GCN Circ 3314). The spacecraft executed a prompt slew and the XRT began \ntaking data on the target at 07:54:29.4 UT.  Due to the presence of a \ncosmic ray in the initial image the on-board software could not properly \ncentroid on the GRB, and the position generated on-board and sent out \nautomatically through BACODINE was incorrect (the Notice indicated that \nthis position was probably a cosmic ray).  From ground processed data we \nfind a uncataloged, rapidly X-ray source within the BAT error circle, \nlocated at:\n\nRA(J2000) = 21:37:54.5,\nDec(J2000) = +55:46:46.6.\n\nWe estimate an uncertainty of about 5 arcseconds radius (90% \ncontainment).  This position is 84 arcseconds from the BAT position \nreported in GCN 3314."
+}

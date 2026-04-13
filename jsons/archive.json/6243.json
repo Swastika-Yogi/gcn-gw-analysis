@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind and Konus-A observations of GRB 070402",
+  "eventId": "GRB 070402",
+  "bibcode": "2007GCN..6243....1G",
+  "createdOn": 1175689549000,
+  "circularId": 6243,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind and Konus-A teams report:\n\nThe long GRB 070402 (Hurley et al., GCN 6241, 6242),\ntriggered Konus-Wind at T0=56914.653 s UT (15:48:34.653).\nKonus-A observed this GRB in the waiting mode.\n\nThe Konus-Wind light curve shows a single multipeaked pulse\nwith a total duration of ~12 s.\nAs observed by Konus-Wind the burst\nhad a fluence of 1.17(-0.22, +0.06)x10^-5 erg/cm2,\nand a 256-ms peak flux measured from T0+3.184 s\n3.18(-0.72, +0.42)x10^-6 erg/cm2/s\n(both in the 20 keV - 3 MeV energy range).\n\nThe spectrum of the most intense part integrated from T0 to T0+8.192 s\n(this interval comprises ~90% of the burst total counts)\nis well fitted (in the 20 keV - 3 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nwith alpha = 0.92(-0.12, +0.11)\nand Ep = 325(-40, +52) keV (chi2 = 60/68 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB070402_T56914/"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 1015615 is not a GRB",
+  "bibcode": "2021GCN.29220....1B",
+  "createdOn": 1609547585000,
+  "circularId": 29220,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), M. G. Bernardini (INAF-OAB),\nP. D'Avanzo (INAF-OAB), C. Gronwall (PSU), J.D. Gropp (PSU),\nJ. A. Kennea (PSU), N. J. Klingler (PSU), N. P. M. Kuin (UCL-MSSL),\nS. Laha (GSFC/UMBC/CRESST), A. Y. Lien (GSFC/UMBC),\nF. E. Marshall (NASA/GSFC), A. Melandri (INAF-OAB),\nD. M. Palmer (LANL) and T. Sbarrato (INAF-OAB) report on behalf of the\nNeil Gehrels Swift Observatory Team:\n\nAt 00:17:12 UT, the Swift Burst Alert Telescope (BAT) triggered on\nbackground noise during high background increase while entering \nthe SAA (trigger=1015615). The BAT light curve shows the background \nincrease near the SAA, without any significant burst structure. \n\nThe XRT began observing the field at 00:18:47.7 UT, 95.1 seconds after\nthe BAT trigger. No valid point source was found in the XRT data. Automated\nposition reported through GCN Notices is due to a cosmic ray, and should \nbe ignored. \n\nThis event was initiated by the BAT rate increase on approach to \nthe SAA, which yielded an image with a marginal (6.5 sigma) fluctuation. \nBased on the lack of a GRB-like rate increase above the ramping up\nBAT rates on SAA approach, the low significance of the image peak, \nand the non-detection of an XRT afterglow, we believe that this is\nnot an astrophysical event."
+}

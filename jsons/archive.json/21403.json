@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 765783 is not an astrophysical event.",
+  "bibcode": "2017GCN.21403....1B",
+  "createdOn": 1501607984000,
+  "circularId": 21403,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. D. Barthelmy (GSFC), A. Cholden-Brown (PSU), D. M. Palmer (LANL),\nB. Sbarufatti (INAF-OAB/PSU) and M. H. Siegel (PSU) report on behalf\nof the Swift Team:\n\nAt 17:03:16 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a noise fluctuation (trigger=765783).  Swift did not slew because\nthe preplanned target had a higher merit value than this trigger. \nThe BAT on-board calculated location is \nRA, Dec 290.481, -17.308, which is \n   RA(J2000)  =  19h 21m 55s\n   Dec(J2000) = -17d 18' 27\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers, there is nothing\nvisible in the real-time light curve. \n\nSwift triggered on this location as part of program that reduces \ntrigger thresholds in the vicinity of known sources to either \nconfirm or refute the detection. However, such follow-ups\nare of low priority and so Swift did not slew to this detection. \n\nDue to the marginal significance of the BAT detection (5.86 sigma),\nthe lack of a rate trigger, and the distance to the putative source \n(10 arcmin), we believe that this is merely a statistical fluctuation \nin the image and not an astrophysical source.  No follow-up observations\nare planned."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB080328",
+  "eventId": "GRB 080328",
+  "bibcode": "2008GCN..7530....1W",
+  "createdOn": 1206726549000,
+  "circularId": 7530,
+  "submitter": "Paul Ward at MSSL  <paw@mssl.ucl.ac.uk>",
+  "email": "paw@mssl.ucl.ac.uk",
+  "body": "P. Ward (MSSL-UCL), P. Schady (MSSL-UCL) and M. Perri (ASDC) report on  \nbehalf of the Swift-UVOT team\n\nThe Swift/UVOT observed the field of GRB 080328 starting 110s after  \nthe BAT trigger (Perri et al., GCN 7525). The afterglow is detected at\n\nRA:      05h 21m 55.87s\nDEC:  +47d 30' 39.4\"\n\nonly in the white and v filters, with an error radius of 0.6 arcsec  \n(90% confidence).\nThe afterglow is seen to decay in both these filters, and has the  \nfollowing magnitudes and 3-sigma upper limits (in the UVOT photometric  \nsystem, Poole et al. (2008, MNRAS, 383, 627)).\n\nFilter\tTstart(s) \tExp(s)\t Magnitude\n\nwhite\t110\t\t99.8\t17.84 +/- 0.05\nwhite\t867\t\t99.8\t20.43 +/- 0.27\nwhite\t5611\t399.8\t> 21.60\nv\t\t217\t\t399.8\t17.90 +/- 0.08\nv\t\t973\t\t399.8\t19.25 +/- 0.20\nv\t\t6023\t399.8\t> 20.00 \t\n\nThe afterglow is not detected in any other filters, perhaps due to the  \nhigh Galactic extinction value of  E(B-V) = 0.58 mag. The following  \nare the 3-sigma upper limits for these filters.\n\nFilter\tTstart(s) \tExp(s)\t Magnitude\n\nb\t\t851\t\t493.6      > 20.96\nu \t\t673\t\t338.5   \t> 20.59\nuvw1\t648\t\t362.8  \t> 20.54\nuvm2\t623\t\t393.2\t> 20.38\nuvw2\t728\t\t498.5  \t> 20.88\n\nThe values quoted above are not corrected for Galactic extinction  \ncorresponding to a reddening of E(B-V) = 0.58 mag in the direction of  \nthe burst (Schlegel et al. 1998)."
+}

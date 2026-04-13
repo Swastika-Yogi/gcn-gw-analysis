@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060814: Swift XRT refined analysis",
+  "eventId": "GRB 060814",
+  "bibcode": "2006GCN..5451....1M",
+  "createdOn": 1155648059000,
+  "circularId": 5451,
+  "submitter": "Alberto Moretti at Obs Brera Merate  <alberto.moretti@brera.inaf.it>",
+  "email": "alberto.moretti@brera.inaf.it",
+  "body": "A. Moretti (INAF-OAB), C. Guidorzi (Univ. Bicocca & INAF-OAB),\nP. Romano (INAF-OAB) report on behalf of the Swift-XRT team:\n\nWe have analysed the first 4 orbits of Swift-XRT data obtained for GRB\n060814 (trigger number 224552). The data consist of 428 s in Windowed\nTiming (WT) mode, starting 72 seconds after the BAT trigger and 9.2 ks\nin Photon Counting (PC) mode. Using PC data we obtain a refined\nposition of:\n\nRA(J2000) =   14 45 21.48\nDec(J2000) = +20 35 11.8\n\nwith an estimated uncertainty radius of 3.5 arcsec (90% containment).\n\nThe light-curve, initially, shows a steep decay (alpha1=2.3+/-0.1) up to a\nbreak at t_break1=1292+/-140.s. On top of this steep decay there is a\nflare peaking at 150 s. After the break, the afterglow shows a\nshallow decay (alpha2=0.3+/-0.1) up to t_break2=7500+/-2000 s, when\nthe light-curve steepens (alpha3=1.0+/-0.2).\n\nThe spectrum formed from all the WT data (< t_break1) can be modelled\nwith a power-law of photon index Gamma = 1.67 +/- 0.03, with an excess\nabsorbing column of NH = (2.7 +/- 0.2)e21 cm^-2 in addition to the\nGalactic value of 2.40e20 cm^-2. The spectrum formed from the PC data\n(> t_break1) is significantly softer than the pre-break spectrum: it\ncan be modelled with a power-law of photon index Gamma = 2.2 +/- 0.10,\nwith an absorbing column of NH = (3.6 +/- 0.4)e21 cm^-2, which is\nmarginally consistent with the previous one.\n\nAssuming the light-curve continues to decay with alpha3=1.0, the\ncount rate at 24 hours is predicted to be 0.030 count s^-1. This\ncorresponds to an observed (unabsorbed) flux of 1.5e-12 (2.7e-12)\nerg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team.\n\n\n[GCN OPS NOTE(15aug06): This Circular was delayed by ~4 hrs due to problems\nat the GCN end.]"
+}

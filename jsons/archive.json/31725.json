@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220310A: MAXI/GSC detection",
+  "eventId": "GRB 220310A",
+  "bibcode": "2022GCN.31725....1N",
+  "createdOn": 1646875473000,
+  "circularId": 31725,
+  "submitter": "Motoko Serino at Aoyama Gakuin U.  <serino@phys.aoyama.ac.jp>",
+  "email": "serino@phys.aoyama.ac.jp",
+  "body": "H. Negoro, M. Nakajima (Nihon U.), M. Serino (AGU), Y. Kawakubo (LSU),\nK. Kobayashi, K. Asakura, K. Seino (Nihon U.),\nT. Mihara, T. Tamagawa, J. Li, M. Matsuoka (RIKEN),\nT. Sakamoto, S. Sugita, K. Komachi, H. Hiramatsu, A. Yoshida (AGU),\nY. Tsuboi, W. Iwakiri, H. Kawai, Y. Okamoto, S. Kitakoga, J. Kohara (Chuo U.),\nM. Shidatsu, M. Iwasaki (Ehime U.),\nN. Kawai, M. Niwano, R. Hosokawa, Y. Imai, N. Ito, Y. Takamatsu (Tokyo Tech),\nS. Nakahira, S. Ueno, H. Tomida, M. Ishikawa, M. Tominaga, T. Nagatsuka, M. Kurihara (JAXA),\nY. Ueda, S. Yamada, S. Ogawa, K. Setoguchi, T. Yoshitake, Y. Goto, R. Uematsu, K. Inaba (Kyoto U.),\nH. Tsunemi (Osaka U.),\nM. Yamauchi, Y. Nonaka, T. Sato, R. Hatsuda, R. Fukuoka (Miyazaki U.), T. Kawamuro (UDP/NAOJ),\nK. Yamaoka (Nagoya U.),\nM. Sugizaki (NAOC) \nreport on behalf of the MAXI team:\nThe MAXI/GSC nova alert system triggered on a bright uncatalogued X-ray \ntransient source at 2022-03-10T00:27:57 UT.\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (168.612 deg, 23.451 deg) = (11 14 26, +23 27 03) (J2000)\nwith a 90% C.L. statistical error of 0.16 deg and an additional systematic \nuncertainty of 0.1 deg (90% containment radius).\nWithout assumptions on the source constancy, we obtain a rectangular error\nbox for the transient source with the following corners:\n(168.038, 23.325) deg = (11 12 09, +23 19 29) (J2000)\n(168.176, 23.093) deg = (11 12 42, +23 05 34) (J2000)\n(169.335, 23.670) deg = (11 17 20, +23 40 12) (J2000)\n(169.197, 23.903) deg = (11 16 47, +23 54 10) (J2000)\nThe X-ray flux averaged over the scan was 348 +- 37 mCrab\n(4.0-10.0keV, 1 sigma error).\nThere was no significant excess flux in the previous transit at 3/9 22:55 UT\nwith an upper limit of 20 mCrab."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "EP-WXT 01709258455: NOT optical upper limits",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43776....1Q",
+  "createdOn": 1771374032445,
+  "circularId": 43776,
+  "submitter": "javisansie@gmail.com",
+  "format": "text/plain",
+  "body": "J. Quirola-Vasquez (Radboud), G. Corcoran (UCD), J. Sanchez-Sierras (Radboud), A. Martin-Carrillo (UCD) and P. G. Jonker (Radboud) report on behalf of a larger collaboration:\n\nWe observed the field of the Einstein Probe trigger WXT 01709258455, using the Nordic Optical Telescope (NOT) equipped with the ALFOSC camera. Observations were triggered using the recently implemented automatic “rapid response mode” (RRM) and were obtained in the SDSS r (5x180 s) and z (9x150 s) bands, starting on 2026-02-17 at 21:56:02 UT (9.94 min after the WXT trigger).\n\nWe carried out subtraction in both bands using Pan-STARRS archival images as templates. The subtractions were performed using the ZOGY algorithm (Zackay et al. 2016), as implemented in PyZOGY (Guevel et al. 2021). We do not find any new, uncatalogued sources within the EP-WXT uncertainty region. From the stacked images we obtain the following 3-sigma upper limits:\n\nr > 23.8\nz > 22.0\n\nThese limits are in the AB system, were calibrated using nearby stars from the Pan-STARRS catalog and are not corrected for Galactic extinction. \n\nWe note the presence of an M-class dwarf with ROSAT X-ray emission within the error region. We cannot discard whether this trigger can be attributed to a stellar flare, because we cannot measure its brightness due to the source being saturated in our images.\n"
+}

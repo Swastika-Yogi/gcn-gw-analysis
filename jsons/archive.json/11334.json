@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101011A: Swift/UVOT Observations of a Possible Optical Afterglow",
+  "eventId": "GRB 101011A",
+  "bibcode": "2010GCN.11334....1H",
+  "createdOn": 1286838987000,
+  "circularId": 11334,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and M. De Pasquale (UCL-MSSL)\nreport on the behalf of the Swift UVOT team:\n\n      The Swift/UVOT observed the field of GRB 101011A starting 66 s\nafter the BAT trigger (Cannizzo, et al., 2010, GCN Circ. 11331).\nSettled observations started at 85 s.  We detect an optical source\nthat may be fading and is not present in the USNO-B1.0 catalogue,\n2MASS point source catalogue, or the DSS.  The preliminary UVOT\nposition is:\n\n     RA (J2000) =  03:13:10.47  =  48.29363 (deg)\n    Dec (J2000) = -65:58:54.7   = -65.98186 (deg)\n\nwith an estimated uncertainty of 1.14 arcsec (radius, 90% confidence,\nstatistical + systematic).  This is 1.84 arcsec west of the\nUVOT-enhanced XRT position (Evans, et al., 2010, GCN Circ. 11333).\n\n     Preliminary white magnitudes and 3-sigma upper limits for\nthe source are:\n\nFilter      T_start   T_stop    Exp(s)      Mag  Err\n-----------------------------------------------------------\nwhite (fc)       85      235       147    21.38 0.34\nwhite           876     1025       147   >21.7\n-----------------------------------------------------------\n\n     The quoted magnitudes and upper limits have not been corrected\nfor the expected Galactic extinction along the line of sight\ncorresponding to a reddening of E_{B-V} = 0.03 mag (Schlegel, et al.,\n1998, ApJS, 500, 525).  All photometry is on the UVOT photometry\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB081007: Swift/UVOT Observations",
+  "eventId": "GRB 081007",
+  "bibcode": "2008GCN..8340....1B",
+  "createdOn": 1223469642000,
+  "circularId": 8340,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU) and W. H. Baumgartner (GSFC/UMGC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 081007\nstarting about 109 s after the BAT detection\n(Baumgartner et al., GCN Circ. 8330).  We report additional\ndetections and 3 sigma upper limits of the fading afterglow\n(where T_start and T_stop represent the\nelapsed time since the BAT trigger in seconds).\n\nFilter  T_start(s) T_stop  Exp(s)   Mag or 3 Sigma Limit\nuvw2    725        1508    40       >18.8\nuvm2    621        1394    59       >18.8\nuvw1    646        1419    59       >19.3\nu       670        1443    59       18.5 +/- 0.2\nb       695        1468    39       19.1 +/- 0.2\nv       215        615     394      17.5 +/- 0.1\nv       969        1369    393      18.6 +/- 0.1\nwhite   109        209     98       17.0 +/- 0.1\nwhite   862        962     98       18.8 +/- 0.1\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E(B-V) = 0.015 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383,627)."
+}

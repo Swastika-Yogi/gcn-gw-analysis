@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140402A BAT refined analysis",
+  "eventId": "GRB 140402A",
+  "bibcode": "2014GCN.16073....1C",
+  "createdOn": 1396490033000,
+  "circularId": 16073,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings on behalf of the BAT team\n\nBased on 10 seconds of photon event data, we present refined analysis of\nthe BAT data on GRB 140402A (Bissaldi et al. GCN Circ #16069, Cummings\net al. GCN Circ #16071).\n\nThe best BAT location is RA, Dec 207.592, +5.971, which is:\n\nRA(J2000) 13h 50m 22.2s\nDec(J2000) 05d 58' 16\"\n\nwith an estimated 90% confidence radius of 2.8 arcmin.  This is 4 arcmin\nfrom the previously reported BAT position based on the immediately\ntransmitted data (4 arcmin estimated 90% error), and 9.5 arcmin from the\nFermi-LAT position (12 arcmin estimated statistical 90% error).\n\nThe mask-weighted lightcurve shows a single nearly square pulse. T90\nwas about 0.031 +/- 0.003 seconds (estimated 90% confidence).\n\nA powerlaw fit to the spectrum from 15 to 150 keV has a photon index of\n0.89 +/- 0.44 (90% confidence). In 0.034 seconds the fluence was\n(3.8 +/- 1.2) x 10^-8 ergs/cm^2 (62% confidence)."
+}

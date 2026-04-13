@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100915A: Swift-BAT refined analysis",
+  "eventId": "GRB 100915A",
+  "bibcode": "2010GCN.11281....1B",
+  "createdOn": 1284555998000,
+  "circularId": 11281,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), O. M. Littlejohns (U Leicester),\nC. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 100915A (trigger #434178)\n(Littlejohns, et al., GCN Circ. 11277).  The BAT ground-calculated position is\nRA, Dec = 315.664, 65.676 deg, which is \n   RA(J2000)  =  21h 02m 39.4s \n   Dec(J2000) = +65d 40' 32.3\" \nwith an uncertainty of 2.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 54%.\n \nThe mask-weighted light curves shows two broad peaks, the first starting\nat ~T-90sec, peaking at ~T+5 sec, and ending at ~T+90 sec.  The second,\nweaker peak starts at ~T+110, peaks at ~T+170 sec and ends at ~T+190 sec.\nT90 (15-350 keV) is 200 +- 31 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-36.3 to T+72.2 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 2.88 +- 0.00, \nand Epeak of 265.2 +- 0.0 keV (chi squared 66.1 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 1.5 +- 0.2 x 10^-6 erg/cm2\nand the 1-sec peak flux measured from T+8.76 sec in the 15-150 keV band is\n0.5 +- 0.3 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.50 +- 0.23 (chi squared 73.1 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/434178/BA/"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240619A: J-band detection with WINTER",
+  "eventId": "GRB 240619A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36739....1M",
+  "createdOn": 1719105870012,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "circularId": 36739,
+  "format": "text/plain",
+  "body": "Geoffrey Mo (MIT), Robert Stein (Caltech), Benjamin Schneider (MIT), Viraj Karambelkar (Caltech), Danielle Frostig (MIT), Nathan Lourie (MIT), Tomas Ahumada (Caltech), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 240619A (Fermi GBM team, GCN 36694; Greiner et al., GCN 36695; Dalessi et al., GCN 36717; Torii et al., GCN 36719; Dafcikova et al., GCN 36724) in the near-infrared J-band with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020). \n\nObservations began at 2024-06-21T03:44:09 UTC (~48 hours after the GRB) and consisted of 30 x 120 s exposures. The images were processed using the WINTER data reduction pipeline (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.10888436), with image subtraction performed relative to J-band images from the UKIRT Hemisphere survey (Dye et al., 2017). \n\nWe report the marginal (3-sigma) detection of a source at the position of the GOTO-discovered counterpart (Gompertz et al., GCN 36715; Lipunov et al., GCN 36708; Evans et al., GCN 36720; Capalbi et al., GCN 36721), with magnitude J ~ 19.3 (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

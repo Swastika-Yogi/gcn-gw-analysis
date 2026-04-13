@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111228A: Possible host detected by Swift/UVOT",
+  "eventId": "GRB 111228A",
+  "bibcode": "2012GCN.12908....1K",
+  "createdOn": 1328219837000,
+  "circularId": 12908,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (MSSL/UCL) and Tilan Ukwatta (MSU) reports on behalf of\nthe Swift UVOT Team:\n\nUntil recently, Swift UVOT continued observations in multiple filters\nof GRB 111228A (Ukwatta et al., GCN Circ. 12737).\n\nBased on the observations taken up to January 31, 2012 in the white filter,\na possible host is detected.\n\nThe UVOT position in decimal degrees of the GRB during the early and peak\nemission period is:  RA=150.06684  DEC=+18.297834, J2000 (sexagesimal\n10:00:16.04, +18:17:52.20),  consistent with the enhanced XRT position\nreported in GCN Circ. 12747 by Goad et al..  The position of the late time\nemission/possible host is:  RA=150.06643  DEC=+18.297903, J2000\n(sexagesimal 10:00:15.94, +18:17:52.45).   The position of the late-time\nemission is offset by 0.9\" which is significantly larger than the\nposition error for a single uvot image of 0.5\" (Breeveld et al., 2010,\nMNRAS 406, 1587), and the unknown smaller position error when\ncomparing between summed UVOT images.  The offset suggests that\nthe late-time emission is due to a different source, possibly the host.\n\nOther evidence comes from a late time flattening of the light curve.\n\nThe late time count-rate light curve decays with a power index of -1.3\nin nearly all bands. Taking that as the decay rate, the light curves\nin white and uvw2 deviate at times more than 800ks after the trigger.\n\nExtrapolating the power law decay and subtracting from the late-time\nwhite count rate, we estimate a host magnitude in white = 24.6 (+0.4/-0.6) mag,\nwhich corresponds to a host flux in the broadband white filter of\n(2.05+/-0.8)x10^-7 Jy (3471 A)."
+}

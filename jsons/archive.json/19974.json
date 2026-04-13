@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 161001A, Swift-BAT refined analysis (likely a short GRB)",
+  "eventId": "GRB 161001A",
+  "bibcode": "2016GCN.19974....1M",
+  "createdOn": 1475339372000,
+  "circularId": 19974,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC),\n\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC),\n\nH. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC),\n\nJ. P. Norris (BSU), K. L. Page (U Leicester)\n\nD. M. Palmer (LANL), T. Sakamoto (AGU),\n\nM. Stamatikos (OSU), T. N. Ukwatta (LANL)\n\n(i.e. the Swift-BAT team):\n\n\nUsing the data set from T-274 to T+962 sec from the recent telemetry downlink,\n\nwe report further analysis of BAT GRB 161001A (trigger #714404)\n\n(Page, et al. GCN Circ. 19967).  The BAT ground-calculated position is\n\nRA, Dec = 71.923, -57.261 deg which is\n\n  RA(J2000)  =  04h 47m 41.5s\n\n  Dec(J2000) = -57d 15' 39.8\"\n\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\n\nThe partial coding was 78%.\n\n\nThe mask-weighted light curve shows several overlapping pulses\n\nthat stars at ~T-0.3, and ends at ~T+3 s. The highest peak occurs at\n\n~ T+1.6 s. T90 (15-350 keV) is 2.6 +- 0.4 sec (estimated error including\n\nsystematics).\n\n\nThe time-averaged spectrum from T-0.2 to T+3.1 sec is best fit by a simple\n\npower-law model.  The power law index of the time-averaged spectrum is\n\n1.14 +- 0.09.  The fluence in the 15-150 keV band is 6.7 +- 0.4 x 10^-7 erg/cm2.\n\nThe 1-sec peak photon flux measured from T+1.40 sec in the 15-150 keV band\n\nis 3.5 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\n\nlevel.\n\n\nUsing a 16-ms binned light curve, the lag analysis finds a lag of\n\n7 (+/- 13) ms for the 100-350 keV to 25-50 keV band, and -7.5 (+26, -19) ms\n\nfor the 50-100 keV to 15-25 keV band, which is consistent with\n\nthose of a short GRB.\n\n\nThe results of the batgrbproduct analysis are available at\n\nhttp://gcn.gsfc.nasa.gov/notices_s/714404/BA/"
+}

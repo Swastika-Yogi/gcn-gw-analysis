@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319B: Change in power law decay index",
+  "eventId": "GRB 080319B",
+  "bibcode": "2008GCN..7438....1L",
+  "createdOn": 1205926597000,
+  "circularId": 7438,
+  "submitter": "Weidong Li at UC Berkeley KAIT/LOSS  <weidong@astron.berkeley.edu>",
+  "email": "weidong@astron.berkeley.edu",
+  "body": "W. Li, R. Chornock, D. A. Perley, and A. V. Filippenko, University of\nCalifornia at Berkeley, on behalf of the KAIT GRB team:\n\nWe have analyzed the KAIT data on GRB 080319B (GCN 7472, 7428) as reported\nin GCN 7430. Preliminary reduction of the unfiltered data, calibrated to\nSDSS observations of the field, shows a smooth light curve from t = 20 to\n120 minutes after the BAT trigger, with an apparent change in power-law\ndecay index at t ~ 35 minutes. The power-law decay index is measured to be\n-1.89 +/- 0.04 between t = 20.1 to 26.3 minutes after the BAT trigger, and\n-1.23 +/- 0.02 between t=60.9 to 117.2 minutes after the BAT trigger.\nThe shallower decay is also observed at t ~ 80 minutes as noted in GCN 7435.\nWe note this change in power-law decay index is reminiscent of what has\nbeen observed in GRB 990123 (e.g. Akerlof et al. 1999, Nature 398, 400) and\nGRB 021211 (e.g. Li et al. 2003, ApJ 586, L9), and suggests a transition from\nreverse shock to forward shock emission.\n\nSelected KAIT unfiltered photometry, all unfiltered data calibrated to\nthe R band via the SDSS calibration:\n\nt(start; seconds after BAT trigger)  exp    mag   merr\n\n       1207                         20.0   14.110 0.008 \n       1394                         20.0   14.417 0.011\n       1576                         20.0   14.645 0.011\n       1991                         20.0   15.063 0.011\n       2912                         20.0   15.710 0.014\n       3770                         20.0   16.053 0.015\n       4380                         20.0   16.247 0.014\n       5005                         20.0   16.415 0.019\n       6820                         20.0   16.843 0.017"
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 241217A : SVOM/ECLAIRs,GRM,MXT detection of a long burst with a bright X-ray afterglow candidate",
+  "editedOn": 1734459364306,
+  "eventId": "GRB 241217A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38594....1M",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 38594,
+  "createdOn": 1734457400192,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Brunet Marius, Fortin Francis (IRAP), Turpin Damien, Stéphane Schanne, Clara Plasse (CEA), Frédéric Piron (LUPM), Shi-Jie Zheng (IHEP) \n\nreport on behalf of the SVOM team:\n\nDuring the commissioning phase, the SVOM/ECLAIRs telescope triggered and located the long duration GRB 241217A (sb24121704) starting at 2024-12-17T16:57:13 UTC (Tb).\n\nThe following trigger information was received on the ground with low-latency by the SVOM VHF Alert Network.\n\nThe burst was detected by both the on-board Count-Rate Trigger (CRT) and Image Trigger (IMT) and 9 alerts were received. The best detection is obtained by IMT with a signal-to-noise ratio of 11.9 in the 8-120 keV energy band over a time window of 82 s starting at Tb. The light light curve shows multiple broad peaks in 5-50 keV in ECLAIRs and below 550 keV in GRM.\n\nThe localization of the best Alert is RA, Dec =  84.160, -25.324 (J2000).\n\nThe statistical uncertainty on this position is 6.8 arcminutes, which includes a systematic uncertainty of 2 arcminutes in quadrature.\n\nSVOM slewed automatically on this burst.\n\nMXT began observing the field at 2024-17-12T17:01:36, 263 seconds after Tb.\n\nUsing onboard processed data we found one very bright uncatalogued X-ray source located at RA, Dec 84.152, -25.295 degrees with a 90% C.L. radius of 25 arcsec (statistic + systematic), corresponding to:\n\nR.A. = 05h 36m 36s \n\nDec = -25° 17' 42''\n\nThis location is 1.8 arcminutes from the ECLAIRs onboard position.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. \n\nThe SVOM point of contact for this burst is: Brunet Marius (marius.brunet@irap.omp.eu)\n"
+}

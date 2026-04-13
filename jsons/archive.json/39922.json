@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250329A: Fading optical counterpart detection by LCO.",
+  "eventId": "GRB 250329A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39922....1G",
+  "createdOn": 1743247241796,
+  "circularId": 39922,
+  "submitter": "ankur ghosh at CAPP, University of Johannesburg <ghosh.ankur1994@gmail.com>",
+  "format": "text/plain",
+  "body": "Ankur Ghosh, Soebur Razzaque (CAPP, University of Johannesburg), Rahul Gupta (NASA GSFC),  Alexander Moskvitin, Yulia Sotnikova (SAO RAS), Naveen Dukiya (ARIES) on behalf of a larger collaboration.\n \nWe observed the field of the GRB 250329A triggered by the SVOM/ECLAIRs (Wang et al., GCN 39916) in the B, V filter of the 1-meter Sinistro telescope at the Las Cumbres Observatory Global Telescope (LCOGT) node located at McDonald Observatory. The 1-m Sinistro telescope is equipped with a 4K x 4K CCD (FOV: 26 x 26 arcmin, scale: 0.39 arcsec/pixel).\n\nObservations began on March 29, 2025, starting 1.49 hours after the GRB trigger.\n\nWe clearly detect the optical transient (OT) reported by GCNs (Watson et al., GCN 39915, Wang et al. GCN 39917, Schneider et al., GCN 39918)  in our  B, V band image. \n\n--------------------------------------------------------------------------------------------------\n|Date|\t\t|UTstart|\t|t-T0 (hours)|\t|Exp (sec)|\t|Filter|\t|Magnitude| \n--------------------------------------------------------------------------------------------------      \n2025-03-21\t05:46:30.432\t1.49\t\t1 x 600 \tB\t\tB = 22.28 +/- 0.08\n2025-03-21\t05:47:59.424\t1.51\t\t3 x 300 \tV\t\tV = 21.95 +/- 0.16\n--------------------------------------------------------------------------------------------------\n\nThe field was calibrated against nearby APASS stars, with magnitudes converted using Lupton (2005) equations, and has not been corrected for Galactic extinction.\n"
+}

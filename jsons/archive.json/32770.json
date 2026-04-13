@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of a short burst coincident with a bright radio burst from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2022GCN.32770....1F",
+  "createdOn": 1665936089000,
+  "circularId": 32770,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, A. Ridnaia, D. Svinkin, A. Lysenko,\nM. Ulanov (all - Ioffe Institute), and A. Tsvetkova\n(Ioffe Institute/University of Cagliari), report:\n\nKonus-Wind (KW) detected a short X-ray burst on 2022-10-14\nin time interval from 19:21:39.205 UTC to 19:21:42.149 UTC.\n\nCorrected for the propagation from low-Earth orbit to Wind (~1.05 s),\nthe burst arrival time is consistent with the detection time\nof a bright short X-ray burst from SGR 1935+2154, reported\nby GECAM and HEBS (Atel #15682), which, in turn, is consistent\nwith the dedispersed topocentric time of a bright radio burst\ndetected from SGR 1935+2154 by CHIME (Atel #15681).\n\nThe event was detected by KW in the waiting mode and no detailed\ninformation on its temporal structure is available.\nThe emission is seen in two instrument's energy bands:\nG1(20-80 keV) and G2 (80-320 keV), while no statistically\nsignificant signal is visible above 320 keV.\n\nA time-averaged spectrum of the burst can be described\nin the 20-1300 keV range by a power law with exponential\ncutoff model: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith the peak energy Ep of (40 �� 6) keV, which is slightly\nhigher than a typical Ep of multiple bright SGR 1935+2154\nbursts detected by KW recently (GCN Circ. 32768).\nWe also note that the October 14 burst Ep is about twice\nas lower as the peak energy (~85 keV) measured by KW for\nthe much radio-brighter event SGR/FRB200428 from the same\nmagnetar (Ridnaia et al. 2021, NatAstr. 5, 372).\n From the KW detection, we estimate the total 20-500 keV fluence\nof the burst to (5.7 �� 0.6)x10^-7 erg/cm2, about two times\nlower than that of SGR/FRB200428.\n\nThis GCN circular duplicates ATel #15686."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP251102a (WXT 11900459650): LCO observations confirm COLIBRÍ candidate",
+  "eventId": "EP251102a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42546....1E",
+  "createdOn": 1762170332318,
+  "submitter": "Rob Eyles-Ferris at U of Leicester <raje1@leicester.ac.uk>",
+  "circularId": 42546,
+  "format": "text/plain",
+  "body": "R. A. J. Eyles-Ferris (U. Leicester), J. A. Quirola-Vasquez (Radboud), J. A. Chacón (PUC), G. Corcoran (UCD), A. Martin-Carrillo (UCD), P. G. Jonker (Radboud), D. B. Malesani (DAWN/NBI and Radboud), F. E. Bauer (SSI and UTA), and A. J. Levan (Radboud and Warwick) report on behalf of a larger collaboration:\n\nWe observed the field of the new transient event EP251102a (Trigger ID: 11900459650) detected by the Einstein Probe Wide-field X-ray Telescope (EP-WXT) with the Las Cumbres Observatory (LCO) network in the r-band on 2025-11-03 08:33:04. The total exposure time was 6x300s. We performed image subtraction on the stacked image using the ZOGY algorithm (Zackay et al. 2016), as implemented in PyZOGY (Guevel et al. 2021), with archival reference r-band images from Pan-STARRS.\n\nThe candidate counterpart identified by Schneider et al. (GCN 42544) is faintly detected in our subtraction, and we measure r = 20.18 +/- 0.14, consistent with the measurement of Schneider et al. at a similar time. We note the proximity of a bright source ~3 arcsec from the counterpart.\n\nWe do not identify any further candidates within the WXT error region down to a limiting magnitude of r >~ 21.2. Observations are ongoing."
+}

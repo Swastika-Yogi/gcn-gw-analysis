@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230328B: Swift/UVOT Detection",
+  "eventId": "GRB 230328B",
+  "bibcode": "2023GCN.33556....1S",
+  "createdOn": 1680477018000,
+  "circularId": 33556,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <mhs18@psu.edu>",
+  "email": "mhs18@psu.edu",
+  "body": "M. H. Siegel (PSU) and J. D. Gropp (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 230328B\n114 s after the BAT trigger (Gropp et al., GCN Circ. 33527).\nA source consistent with the XRT position (Osborne et al. GCN Circ. 33529) is\ndetected in the initial UVOT exposures, confirming the initial\noptical detections (Pankov et al., GCN Circ. 33528; Catapano & Izzo, GCN Circ.\n33535; Suresh et al., GCN Circ. 33536; Adami et al., GCN Circ. 33537; Komesh\net al., GCN Circ. 33539).\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  19:24:01.88 = 291.00783 (deg.)\n    Dec (J2000) = +80:00:34.6  =  80.00962 (deg.)\nwith an estimated uncertainty of 0.44 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite (fc)         114          264          147         18.38 +/- 0.05\nWhite             5537         5735          196         20.16 +/- 0.14\nwhite            28147        28879          713         21.88 +/- 0.32\nv                  655          849           39        >17.6\nb                  582          774           39        >18.3\nu (fc)             326          576          246         19.20 +/- 0.16\nw1                 705          725           19        >18.5\nw2                 805          825           19        >18.0\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.070 in the direction of the burst\n(Schlegel et al. 1998)."
+}

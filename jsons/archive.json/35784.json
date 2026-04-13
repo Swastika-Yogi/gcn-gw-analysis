@@ -1,0 +1,9 @@
+{
+  "subject": "Swift BAT Sub-Threshold Detection of EPW20240219aa",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35784....1D",
+  "createdOn": 1708716028809,
+  "circularId": 35784,
+  "submitter": "Jimmy DeLaunay at Penn State <delauj2@gmail.com>",
+  "body": "James DeLaunay (PSU), Aaron Tohuvavohu (U Toronto), Samuele Ronchini (PSU), Gayathri Raman (PSU), Jamie A. Kennea (PSU), Tyler Parsotan (NASA GSFC)  report:\n\nSwift/BAT did not localize EPW20240219aa onboard (ATel 16463; ATel 16472).\n\nIn a ground analysis of a 300 s BAT survey exposure starting at 2024-02-19T06:18:06 we find a source matching the position of EPW20240219aa at a SNR of 5.4. \n\nThe BAT position is \nRA, Dec =  80.046, +25.500 deg which is\n   RA(J2000)  = 05h 20m 11.04s\n   Dec(J2000) = +25d 30′ 00.0″\nwith an estimated uncertainty of 4 arcmin radius.\n\nAn inspection of the BAT rates data shows this burst starting at ~2024-02-19T06:21:44 and lasting ~55 s, matching the observation by Fermi GBM (GCN 35773, GCN 35776). \n\nWith the observation by BAT that matches spatially and temporally we conclude that EPW20240219aa is most likely a GRB. "
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170710B: Swift detection of a burst",
+  "eventId": "GRB 170710B",
+  "bibcode": "2017GCN.21316....1P",
+  "createdOn": 1499734117000,
+  "circularId": 21316,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL) and A. Y. Lien (GSFC/UMBC)\nreport on behalf of the Swift Team:\n\nAt 08:10:06.251 UT on 2017-07-10, the Swift Burst Alert Telescope (BAT)\ndetected a GRB during a pre-planned slew to a scheduled target.\nGround analysis using data from T-25 to T+79 s finds the source at a\nlocation of\nRA, Dec = 43.122, 42.679 deg which is\n  RA(J2000)  =  02h 52m 29.3s\n  Dec(J2000) = +42d 40' 43.6\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\n\nThe mask-weighted light curve shows a single FRED-like pulse that starts\nand peaks at ~T0, and ends at ~T+60 s. T90 (15-350 keV) is 54.4 +- 1.6 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T+0.0 to T+59.2 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.38 +- 0.08.  The fluence in the 15-150 keV band is 2.4 +- 0.1 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+5.10 sec in the 15-150 keV band\nis 1.2 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThis GRB also triggered Fermi/GBM (GBM trigger# 521367012).\n\nA Swift Target of Opportunity observation has been requested.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/00086619001/BA/"
+}

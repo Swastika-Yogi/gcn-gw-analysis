@@ -1,0 +1,11 @@
+{
+  "subject": "EP250828a: SVOM/VT optical candidate",
+  "eventId": "EP250828a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41583....1Y",
+  "createdOn": 1756438581041,
+  "submitter": "zhyao@bao.ac.cn",
+  "circularId": 41583,
+  "format": "text/plain",
+  "body": "Z. H. Yao, L. P. Xin, Y. L. Qiu, H. L. Li, C. Wu, Y. N. Ma, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM/VT team. \n\nSVOM/VT performed a Target of Opportunity observation of EP250828a detected by EP/WXT (Liu et al. GCN 41574). SVOM/VT began observing the field at 2025-08-28T11:45:13.5 UTC, 4.21 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nAn uncatalogued source compared to Legacy survey is found using VT Xband data, within the error box of EP/FXT (Liu et al. GCN 41574) at R.A., Dec 327.89185, 20.54341 degrees: \n\nRA (J2000) = 21:51:34.04 \nDec (J2000) = 20:32:36.27 \n \nwith an uncertainty of 0.5 arcsec.\n\nThe optical candidate is detected in both VT_B and VT_R band, and the magnitudes are: \n\nMid-Time (T - T0)   | exposure time   | band | mag (AB) | mag err \n--------------------|-----------------|------|----------|-------- \n4.33 hour           | 13*70 sec       | VT_B |  23.5    | 0.3\n4.33 hour           | 12*70 sec       | VT_R |  22.27   | 0.08 \n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

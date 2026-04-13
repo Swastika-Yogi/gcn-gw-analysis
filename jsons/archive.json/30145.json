@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210602A",
+  "eventId": "GRB 210602A",
+  "bibcode": "2021GCN.30145....1F",
+  "createdOn": 1623078525000,
+  "circularId": 30145,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, A.Lysenko, D. Svinkin,\nA. Ridnaya, A. Tsvetkova,  M. Ulanov, and T. Cline, report:\n\nThe bright GRB 210602A (MAXI/GSC detection: Serino et al., GCN 30113;\nCALET Gamma-Ray Burst Monitor detection: Pal'shin et al., GCN 30117)\ntriggered Konus-Wind (KW) at T0=43439.748 s UT (12:03:59.748).\n\nThe burst light curve shows a single pulse which starts at ~T0-0.5 s,\npeaks at ~T0+0.512 s, and has the total duration of ~3.1 s (T100, 20-1500 keV).\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210602_T43439/\n\nAs observed by Konus-Wind, the burst had\na fluence of (6.3 �� 0.6)x10^-6 erg/cm^2 and\na 64-ms peak energy flux, measured from T0+0.384,\nof (9.5 �� 1.0)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.25(-0.23,+0.26) and Ep = 188(-33,+58) keV (chi2 = 75/97 dof).\nFitting this spectrum by a Band function yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.2 (chi2 = 75/96 dof).\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB011121: fainter still",
+  "eventId": "GRB 011121",
+  "bibcode": "2001GCN..1160....1S",
+  "createdOn": 1006647295000,
+  "circularId": 1160,
+  "submitter": "Krzysztof Z. Stanek at CfA  <kstanek@cfa.harvard.edu>",
+  "email": "kstanek@cfa.harvard.edu",
+  "body": "K. Z. Stanek (Harvard-Smithsonian CfA) and L. Wyrzykowski (Warsaw\nUniversity Observatory) report:\n\n\nAdditional R-band observations of the GRB011121 OT carried out with\nthe OGLE 1.3m telescope indicate continuing fading behavior of the\nafterglow (GCNs 1151, 1152, 1154):\n\nHJD-2450000         UT           R_c       exp\n2237.8276     011124 07:47  21.97+-0.07  6x900 sec\n\nThe R-band magnitudes are relative to star \"A\" of Wyrzykowski et\nal. (GCN 1150), which we now take to be R=18.2 after correction by 0.8\nmag determined by Olsen et al. (GCN 1157) and Brown et al. (GCN 1158).\n\nThis measurement might be fairly significantly contaminated by the\npossible host galaxy. It was derived with DaoPhot/Allstar PSF-fitting\nsoftware (Stetson 1992), which near the OT finds another source\nlocated about 0.8\"S and 1.8\"E (see deep finding chart and PSF-fitting\nresidua at http://cfa-www.harvard.edu/cfa/oir/Research/GRB/) with\nmagnitude R=21.91+-0.07.\n\nWe also correct our previous measurements by 0.8 mag:\n\nHJD-2450000         UT           R_c       exp\n2235.71890    011122 05:19  19.11+-0.03  200 sec\n2235.80322    011122 07:20  19.44+-0.03  200 sec\n2235.85176    011122 08:30  19.60+-0.03  600 sec\n2236.71036    011123 05:06  21.15+-0.07  3x600 sec\n\nFurther, deep observations of the OT are strongly encouraged. We\ndesignate fainter comparison star \"C\" (see the WWW finding chart),\nwhich by comparison to \"A\" we measure to be R=20.09+-0.02 (statistical\nerror only, no color term correction included).\n\n\nThis message can be cited."
+}

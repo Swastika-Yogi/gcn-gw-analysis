@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230102A: Fermi GBM Observation",
+  "eventId": "GRB 230102A",
+  "bibcode": "2023GCN.33151....1F",
+  "createdOn": 1672942877000,
+  "circularId": 33151,
+  "submitter": "Cori Fletcher at USRA  <cfletcher@usra.edu>",
+  "email": "cfletcher@usra.edu",
+  "body": "C. Fletcher (USRA) and C. Meegan (UAH) report on behalf of the\nFermi Gamma-ray Burst Monitor Team:\n\n\"At 00:22:13 UT on 02 January 2023, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 230102A (trigger 694311737/230102015).\nwhich was also detected by Swift/BAT-GUANO (J. DeLaunay et al. 2023, GCN 33147),\nGRBAlpha (M. Dafcikova et al 2023, GCN 33143) and AGILE (A. Ursi et al. 2023, GCN 33138).\nThe Fermi GBM Localization was reported in GCN 33137.\n\nThe angle from the Fermi LAT boresight is 65 degrees.\n\nThe GBM light curve consists of a single peak with a duration (T90)\nof about 0.18 s (50-300 keV). The time-averaged spectrum\nfrom T0-0.06 to T0+0.19 s is best fit by\na power law function with an exponential high-energy cutoff.\nThe power law index is -0.94 +/- 0.05 and the cutoff energy,\nparameterized as Epeak, is 1508 +/- 260 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.43 +/- 0.05)E-06 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0+0 s in the 10-1000 keV band is 36 +/- 1 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\"\nFSSC: Data � Data Access � GBM - Fermi Gamma-ray Space Telescope<https://fermi.gsfc.nasa.gov/ssc/data/access/gbm/>\nID Name Description; GS-106: GBM Burst Catalog Entry: Parameters describing the burst (e.g., durations, fluences). This file is used to create GBM Burst Catalog.: GS-109\nfermi.gsfc.nasa.gov"
+}

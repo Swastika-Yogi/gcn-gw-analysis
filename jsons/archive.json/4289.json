@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051117A:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 051117A",
+  "bibcode": "2005GCN..4289....1P",
+  "createdOn": 1132264340000,
+  "circularId": 4289,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "D. Palmer (LANL), L. Barbier (GSFC), S. Barthelmy (GSFC),\nL. Cominsky (Sonoma State U.), J. Cannizzo (GSFC-UMBC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (GSFC/UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), \nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), G. Sato (ISAS),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the full data set from the recent telemetry downlink,\nwe report further analysis of Swift-BAT GRB 051117A (trigger #164268)\n(Band, et al., GCN 4280).  The ground-analysis position is\nRA,Dec 228.399,+30.870 {15h 13m 35.7s,+30d 51' 10.3\"} (J2000)\nwith an uncertainty of 1.0 arcmin (radius, 90%, stat+sys).\nT90 is at least 140 +- 10 sec.  The partial coding fraction is 72%.\nThe lightcurve has a long FRED-like peak at T-15 sec\nlasting out to at least T+190 sec.  There is a hint of emission \npeaks at T+225 and T+350 (each ~30 sec in duration).\nFitting a simple power law over the interval from T-29 to T+157 sec,\nthe photon index is 1.83 +/- 0.07 with a fluence of at least\n4.6 +/- 0.16 X 10^-6 erg/cm^2.  The peak flux in a 1-sec wide window\nstarting at T+2.47 sec is 0.93 +/- 0.17 ph/cm^2/sec.  All values are\nin the 15-150 keV band at the 90% confidence level."
+}

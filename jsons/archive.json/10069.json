@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091024: Swift-XRT team refined analysis",
+  "eventId": "GRB 091024",
+  "bibcode": "2009GCN.10069....1P",
+  "createdOn": 1256395879000,
+  "circularId": 10069,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) and F.E. Marshall (NASA/GSFC) report on behalf of \nthe Swift-XRT team:\n\nFollowing an Earth-limb constraint, Swift-XRT began observing the field of \nGRB 091024 at 09:49:13, about 53 minutes after the BAT trigger. We detect \na bright, uncatalogued X-ray source at a position of RA, Dec = 339.25167, \n56.88928, which is equivalent to\n\nRA (J2000):   22 37 00.40\nDec (J2000):  56 53 21.4\n\nwith an uncertainty of 6 arcsec (radius, 90% confidence). This is 6.1 \narcsec from the optical afterglow candidate given by Mundell et al. (GCN \nCirc. 10063) and 6.0 arcsec from the position given by Nissinen & Hentunen \n(GCN Circ. 10064).\n\nOnly one orbit of data has been collected thus far (spanning 3.2-5.4 ks \nafter the burst), but the source does appear to be fading, albeit with a \nrelatively large uncertainty: alpha = 1.2 +/- 0.4.\n\nThe spectrum of the source, extracted from the 2.2 ks of Photon Counting \nmode data, can be fitted by an absorbed power-law with Gamma = 1.70 +/- \n0.17, the Galactic column of NH = 4.86 x 10^21 cm^-2 and an intrinsic \ncolumn of (2.3 +1.0/-0.9) x 10^22 at a redshift of 1.092 (Cucchiara, Fox & \nTanvir, GCN Circ. 10065). The observed (unabsorbed) flux over this time is \n7.23 x 10^-11 (1.15 x 10^-10) erg cm^-2 s^-1, corresponding to a counts to \nobserved (unabsorbed) flux conversion of 7.5 x 10^-11 (1.2 x 10^-10) erg \ncm^-2 count^-1.\n\nIf the source continues to fade with alpha ~ 1.2, the predicted count rate \nat 24 hours will be 0.034 count s^-1, corresponding to an observed \n(unabsorbed) flux of 2.6x10^-12 (4.1x10^-12) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at \nhttp://www.swift.ac.uk/xrt_products/00373674.\n\nThis circular is an official product of the Swift-XRT team."
+}

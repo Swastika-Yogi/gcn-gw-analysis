@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250314A: CIDER NB1008 upper limit",
+  "eventId": "GRB 250314A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40553....1Z",
+  "createdOn": 1748349668732,
+  "submitter": "Zhen-Ya Zheng at Shanghai Astronomical Observatory, CAS <zhengzy@shao.ac.cn>",
+  "circularId": 40553,
+  "format": "text/plain",
+  "body": "Z.-Y. Zheng (SHAO), S.R. Zhu (SHAO), J. X. Wang (USTC), J. E. Rhoads (NASA/GSFC), S. Malhotra (NASA/GSFC), I. G. B. Wold (NASA/GSFC), F. Barrientos (PUC), L. Infante (LCO), W. Hu (TAMU), C. Jiang (SHAO), D. Xu (NAOC), and F. Valdes (NOIRLab) report on behalf of the CIDER collaboration:\n\nWe observed the near-infrared NB1008 narrowband counterpart (Malesani et al., GCN 39727; see also Kennea et al., GCN 39734; Turpin et al., GCN 39739) of the SVOM/ECLAIRs GRB 250314A (Wang et al., GCN 39719), using the Blanco 4m Telescope equipped with the Dark Energy Camera and a small fraction of the CIDER project’s observing time. A sequence of 19 exposures of 540 s each and 4 exposures of 180s each (3.1 hrs in total) was secured in the NB1008 band, with mid time 2025 April 3 (on Apr. 2-4, about 20 days after the GRB).\n\nIn a preliminary reduction, no source is detected at the GRB position down to a 1-sigma upper limiting magnitude NB1008 ~ 23.5 (AB), calibrated with the communication pipeline for DES.\n\nWe also took a 0.35 hrs exposure in the i-band with DECam and no source is detected down to a 1-sigma upper limiting magnitude of i ~ 26.7 (AB), consistent with the high redshift of this GRB. \n\nIf the redshift 7.27 is correct from the previous spectroscopic and photometric confirmation (z ~ 7.27; Malesani et al., GCN 39732; Rakotondrainibe et al., GCN 39743), the NB1008 filter would cover the pure Lya flux of the GRB host galaxy. The NB1008 band‘s 1-sigma upper limit of 23.5 (AB) can be converted to a Lya flux of < 4.2e-17 erg/cm^2/s, and a Lya luminosity of < 3.1e+43 erg/s at z=7.27. Based on the line emission ratio of Lya to Ha in Case B recombination (Osterbrock et al. 1989) and the relation between SFR and the Ha luminosity (Kennicutt 1998), the derived SFR of the GRB host galaxy is < 28 M_sun/yr (1-sigma upper limit). \n"
+}

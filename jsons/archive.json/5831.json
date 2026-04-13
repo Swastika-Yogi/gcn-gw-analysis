@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061121, Swift-BAT refined analysis",
+  "eventId": "GRB 061121",
+  "bibcode": "2006GCN..5831....1F",
+  "createdOn": 1164145031000,
+  "circularId": 5831,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "E. Fenimore (LANL), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), N. Gehrels (GSFC), D. Hullinger (BYU-Idaho),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), K. L. Page (U Leicester),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/ORAU),\nG. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-240 to T+421 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 061121 (trigger #239899)\n(Page, et al., GCN Circ. 5823).  The BAT ground-calculated position\nis RA,Dec = 147.228, -13.188 deg {9h 48m 54.8s, -13d 11' 16.6\"} (J2000)\n+- 0.9 arcmin, (radius, sys+stat, 90% containment).  The partial coding\nwas 100%.\n \nThe mask-weighted lightcurve starts with small smooth pulse at ~T-5 sec\nand returning to instrumental background level at T+20 sec.  The the second\nand much brighter started at ~T+50 sec with a series of overlapping peaks\nthe last of which was the brightest.  Then there was roughly exponential decay\nout to ~T+200 sec.  T90 (15-350 keV) is 81 +- 5 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-0.8 to T+121.8 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum\nis 1.41 +- 0.03.  The fluence in the 15-150 keV band is \n 1.37 +- 0.02 x 10^-5 erg/cm2.  The 1-sec peak photon flux measured\nfrom T+74.48 sec in the 15-150 keV band is 21.1 +- 0.5 ph/cm2/sec.\n\nThe isotropic equivalent energy using the reported redshift of 1.314 \n(GCN Circ. 5826; Bloom, Perley & Chen) is 7e52 erg in \nthe 35 keV -  347 keV band at the GRB rest frame.  \n\nAll the quoted errors are at the 90% confidence level."
+}

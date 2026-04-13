@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050820 Swift-BAT refined analysis",
+  "eventId": "GRB 050820",
+  "bibcode": "2005GCN..3835....1C",
+  "createdOn": 1124547063000,
+  "circularId": 3835,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC/NRC), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cannizzo (GSFC-UMBC), L. Cominsky (Sonoma State U.),\nD. Hullinger (GSFC/UMD), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), G. Sato (ISAS),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the full data set from the recent telemetry downlink, we \nreport further analysis of Swift-BAT GRB 050820 (trigger #151207)\n(Page, et al., GCN 3830).  The ground-analysis position is\nRA,Dec 337.418, +19.560 (J2000) with an uncertainty of 2 arcmin\n(radius, 90%, stat+sys).  This is 31 arcseconds from the optical\ntransient reported by Fox et al. in GCN Circ. 3829.\n\nThe light curve is multi-peaked and the spectrum clearly evolves \nfrom hard to soft within each of the two main peaks.  There is a \nprobable small precursor at ~ T-15 seconds, the largest peak at \nT+0 seconds, and two other peaks at T+9 and T+13 seconds.  T90 is \n26 +- 2 seconds.  Fitting a simple power law over the interval from \nT-17 to T+22 seconds, the photon index is 1.7 +/- 0.1 with a fluence \nof 1.9 +/- 0.2 x 10^-6 erg/cm^2 in the 15-350 keV band (90% c.l).  \nThe peak flux in a 1-second wide window starting at T-0.25 seconds\nis 1.3 +/- 0.2 ph/cm^2/sec (15-350 keV).  \n\nThe isotropic-equivalent energy using the redshift of 2.612 \n(Prochaska, et al. GCN 3833) is 9.7 (-2.6/+3.5) x 10^51 ergs \nin the 4.2-41.5 keV band in the GRB rest frame (15-150 keV band in \nthe observer's frame) using a simple power-law model."
+}

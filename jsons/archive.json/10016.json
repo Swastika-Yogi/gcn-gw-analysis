@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090531A: Skynet/PROMPT Observations",
+  "eventId": "GRB 090531A",
+  "bibcode": "2009GCN.10016....1L",
+  "createdOn": 1255296762000,
+  "circularId": 10016,
+  "submitter": "Aaron LaCluyze at U.North Carolina  <lacluyze@physics.unc.edu>",
+  "email": "lacluyze@physics.unc.edu",
+  "body": "A. LaCluyze, D. Reichart, J. Haislip, K. Ivarsen, A. Foster, J. Moore, A. \nOza, M. Schubel, J. Styblova, A. Trotter, J. A. Crain, and M. Nysewander \nreport:\n\nSkynet observed the Swift/BAT localization of GRB 090531A (Stamatikos et \nal., GCN 9454) with three of the 16\" PROMPT telescopes at CTIO beginning \n6.1 minutes after the trigger in UVRI.\n\nWe do not detect the afterglow (Sbarufatti & Mangano, GCN 9525).  Stacking \nonly images that increase the limiting magnitude yields:\n\nmean                                                1-sig.  1-sig.\ntime                             3-sig.             sys.    stat.\nsince                            lim.    cal.       cal.    cal.\ntrig.  tel.      exp.      fil.  mag.    stars*     unc.    unc.\n(m)              (# x s)                            (mag)   (mag)\n\n6.5    PROMPT-5  1 x 40    I     17.6    32 SDSS 7  0.055   0.002\n15.3   PROMPT-5  11 x 80   I     19.4    32 SDSS 7  0.055   0.000\n84.0   PROMPT-3  75 x 80   U     19.3    7 SDSS 7   0.037   0.001\n92.6   PROMPT-5  85 x 80   I     20.5    32 SDSS 7  0.055   0.000\n                  + 1 x 40\n94.1   PROMPT-4  43 x 80   V     21.1    37 SDSS 7  0.007   0.000\n104.8  PROMPT-4  54 x 80   R     21.3    40 SDSS 7  0.018   0.000\n\n* Transformed using Jester et al., 2005, ApJ, 130, 873."
+}

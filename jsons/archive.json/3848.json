@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to Eiso calculation in GCN 3835 on GRB 050820A",
+  "eventId": "GRB 050820A",
+  "bibcode": "2005GCN..3848....1S",
+  "createdOn": 1124663720000,
+  "circularId": 3848,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/NRC) on behalf of the Swift-BAT team:\n\nThe isotropic-equivalent energy of GRB050820A reported in GCN 3835 \nis not correctly represented.  We want to correct the last paragraph \nof GCN 3835 to the following.  \n\n\"The isotropic-equivalent energy using the redshift of 2.612 \n(Prochaska, et al. GCN 3833) is (2.2 +- 0.13) x 10^52 ergs \nin the 54-542 keV band in the GRB rest frame (15-150 keV band \nin the observer's frame) using a simple power-law model.\"  \n\nWe would like to thank Dr. Arnon Dar for reporting about this mistake."
+}

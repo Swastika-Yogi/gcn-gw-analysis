@@ -1,0 +1,9 @@
+{
+  "subject": "Swift detection of flare on CC Eri",
+  "bibcode": "2008GCN..8378....1E",
+  "createdOn": 1224157250000,
+  "circularId": 8378,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "P. A. Evans (U Leicester), A. P. Beardmore (U Leicester),\nS. Campana (INAF-OAB), P.A. Curran (MSSL-UCL),\nN. Gehrels (NASA/GSFC), S. T. Holland (CRESST/USRA/GSFC),\nH. A. Krimm (CRESST/GSFC/USRA), W.B Landsman (GSFC),\nJ. Mao (INAF-OAB), F. E. Marshall (NASA/GSFC),\nP. T. O'Brien (U Leicester), J. P. Osborne (U Leicester),\nK. L. Page (U Leicester), D. M. Palmer (LANL),\nP. Romano (INAF-IASFPA), R. L. C. Starling (U Leicester),\nE. Troja (INAF-IASFPA) and T. N. Ukwatta (GSFC/GWU) report on behalf\nof the Swift Team:\n\nAt 11:22:52 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a flare from a position consistent with V* CC Eri (trigger=331821). \nSwift slewed immediately to the location. The BAT on-board calculated \nlocation is RA, Dec 38.602, -43.797 which is \n   RA(J2000) = 02h 34m 25s\n   Dec(J2000) = -43d 47' 47\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is usual with image triggers, the promptly\navailable BAT light curve does not show significant structure. \n\nThe XRT began observing the field at 11:25:20.0 UT, 147.2 seconds after\nthe BAT trigger. XRT found a bright X-ray source located at RA, Dec\n38.5904, -43.7971 which is equivalent to:\n   RA(J2000)  = 02h 34m 21.69s\n   Dec(J2000) = -43d 47' 49.5\"\nwith an uncertainty of 5.5 arcseconds (radius, 90% containment). This\nlocation is 30 arcseconds from the BAT onboard position, within the BAT\nerror circle. This position is consistent with the catalogued position of \n2RXP J023422.2-434751 = CC Eri."
+}

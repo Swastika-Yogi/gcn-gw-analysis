@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 122203 is not a real GRB",
+  "bibcode": "2005GCN..3428....1B",
+  "createdOn": 1116377780000,
+  "circularId": 3428,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), C. Markwardt (GSFC/UMD), D. Palmer (LANL)\non behalf of the Swift-BAT team:\n\nThe Swift-BAT trigger (trigger=122203) at 23:09:20 UT on 17 May 2005\nis not due to a real GRB or any other astrophysical source.\nAt this early time in the analysis, we have only the limited data products\nthat come down via the TDRSS link.  What we can say is that the RA,Dec values\ngiven in the GCN Notices are wrong.  And we believe the BAT lightcurve\nhas data corruption problems.  It should it also be noted that due\nto some of these irregularities in the data, the filtering within GCN\nwas not complete, and a small fraction of the GCN clients did in fact\nreceive some notices on this trigger (especially the BAT lightcurve notice)."
+}

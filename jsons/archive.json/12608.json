@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111201A found in ground analysis of BAT data",
+  "eventId": "GRB 111201A",
+  "bibcode": "2011GCN.12608....1S",
+  "createdOn": 1322775207000,
+  "circularId": 12608,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC), \nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC), \nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC), D. M. Palmer (LANL), \nG. Sato (ISAS), M. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nAutomated BAT ground analysis found a burst that occurred at 14:22:45 UT \nwith a significance of 10.8 sigma (15-200 keV) from the failed event data \nof trigger #508800.  The event is temporary coincident with the Fermi GBM \n344442167.  The best BAT location is RA, Dec = 190.4854, 32.9935 deg, which is\n\n  RA(J2000)  =  12h 41m 56.5s \n  Dec(J2000) = +32d 59' 36.6\" \n\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 32%.\n\nThe mask-weighted light curve created from the failed event data \n(available from 14:22:41 to 14:22:51 UT) shows an increase in the rate ~1 sec \nafter the event data start time.  The count rate stays constant until the \nend of the event data.  From the BAT raw light curve, the duration of the \nevent is ~20 sec long.  \n\nThe spectrum extracted using the full event data is best fit by a simple \npower-law model.  The power law index of the spectrum is 1.6 +- 0.3.  The \nfluence in 15-150 keV band measured from the 10 sec long event data is \n4.6 +- 0.8 x 10^-7 erg/cm2.  The 1-sec peak photon flux measured from \n14:22:46 UT is 1.1 +- 0.3 ph/cm2/sec.  All the quoted errors are at the \n90% confidence level.  \n\nSwift ToO observation of this burst has been scheduled."
+}

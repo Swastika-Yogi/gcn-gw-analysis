@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 071117: Swift-XRT revised position",
+  "eventId": "GRB 071117",
+  "bibcode": "2007GCN..7115....1G",
+  "createdOn": 1195487519000,
+  "circularId": 7115,
+  "submitter": "Cristiano Guidorzi at INAF-OAB  <cristiano.guidorzi@brera.inaf.it>",
+  "email": "cristiano.guidorzi@brera.inaf.it",
+  "body": "C. Guidorzi, P. Romano (Univ. Bicocca & INAF-OAB),\nA. Moretti (INAF-OAB) and T.N. Ukwatta (GSFC/GWU),\nreport on behalf of the Swift-XRT team:\n\nWe recalculated the XRT refined position of GRB 071117\n(trigger=296805, Ukwatta et al., GCN Circ. 7098)\nby excluding the first orbit data, which were affected\nby the presence of a dead pixel column.\nIn 8.3 ks of Photon Counting mode data spanning 8.7-28 ks after\nthe trigger the position of the X-ray afterglow is\nRA,Dec =335.04336,-63.44278 degrees, which corresponds to\n\nRA(J2000) =  22 20 10.41\nDec(J2000)= -63 26 34.0\n\nwith error circle of radius 3.8 arcsec (90%, including\nboresight uncertainties). The optical afterglow reported by\nBloom et al. (GCN Circ. 7110) now lies 1.5\" away from the new\nXRT centroid.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180703B",
+  "eventId": "GRB 180703B",
+  "bibcode": "2018GCN.22914....1F",
+  "createdOn": 1530878217000,
+  "circularId": 22914,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, A. Kozlova,\nA.Lysenko,  D. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nGRB 180703B (IPN Triangulation: Hurley et al., GCN 22908;\nFermi-LAT detection: Racusin et al., GCN 22884;\nFermi-GBM detection: Poolakkil & Meegan, GCN 22897)\ntriggered Konus-Wind at T0=82008.633 s UT (22:46:48.633)\n\nThe burst light curve shows two prominent peaks,\nwith a total duration of ~2.0 s.\nThe emission in the main peak is seen up to ~2 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(6.4 �� 0.4)x10^-6 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+1.088, of (1.60 �� 0.09)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 2 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -0.74(-0.18,+0.19),\nand the peak energy Ep = 131(-9,+11) keV,\nchi2 = 55/57 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and only an upper limit on beta (<-3.3).\n\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180703_T82008/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

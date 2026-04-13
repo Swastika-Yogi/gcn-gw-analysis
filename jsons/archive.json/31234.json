@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211211A: SAO RAS optical observations",
+  "eventId": "GRB 211211A",
+  "bibcode": "2021GCN.31234....1M",
+  "createdOn": 1639589309000,
+  "circularId": 31234,
+  "submitter": "Moskvitin Alexander at SAO RAS  <mosk@sao.ru>",
+  "email": "mosk@sao.ru",
+  "body": "A. Moskvitin (SAO), O. Spiridonova (SAO), S. Belkin (IKI),\nA. Pozanenko (IKI), N. Pankov (HSE, IKI)  report\non behalf of GRB IKI FuN:\n\nWe observed  the field of GRB 211211A (Fermi team GCN 31201,\nD'Ai et al. GCN 31202; Mangan et al. GCN 31210; Tamura et al.\nGCN 31226) with Zeiss-1000 telescope of SAO RAS in Rc-filter\non 2021.12.14 (UT) 02:03:33.\n\nWe marginally detected an afterglow (Zheng and Filippenko GCN 31203;\nJiang  et al. GCN 31213; Strausbaugh et al. GCN 31214; Ito  et al.\nGCN 31217; de Ugarte Postigo et al. GCN 31218,31228,31229; Malesani et\nal. GCN 31221; Belles et al. GCN 31222; Kumar et al. GCN 31227; Pankov\net al. GCN 31233).\n\nPreliminary photometry of the afterglow is following\n\nDate       UT start   t-T0    Filter Exp.   OT   Err.     UL(3sigma)\n                        (mid, days)    (s)\n2021-12-14 02:03:33   2.55803   Rc   6*600  23.2 S/N=2.5  23.1\n\nThe photometry is based on the nearby SDSS stars:\nSDSS-DR12\nRA          DEC          R(Lupton transformations)\n14:09:08.84 +27:53:54.56 15.833\n14:09:04.53 +27:54:10.48 16.701\n14:08:57.03 +27:54:50.26 17.677\n14:08:57.88 +27:55:06.09 17.805\n14:09:03.81 +27:55:56.55 17.104\n14:09:07.89 +27:55:44.00 18.640\n\nThe light curve based on published photometry can be found in\nhttp://grb.rssi.ru/GRB211211A/GRB211211A_LC.png\n\nUsing R-photometry we found a single power law decay index of -1.5\nbetween 0.4 and 2.6 days after the burst trigger. However the power\nlaw index between 1.6 days (Pankov et al. GCN 31233) and 2.6 days\n(this circ.) we may assume power law index of -3.25 which confirm\nvery fast decay in i-filter observed by CAFOS/2.2mCAHA\n(de Ugarte Postigo et al. GCN 31229). Based on a typical power law\ndecay of afterglows we may suggest a bump in the LC at ~ 2.5 days\nfollowed by a power law decay index of 1.5."
+}

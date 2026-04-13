@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210306A: Swift/UVOT Detection",
+  "eventId": "GRB 210306A",
+  "bibcode": "2021GCN.29636....1S",
+  "createdOn": 1615298728000,
+  "circularId": 29636,
+  "submitter": "Kira Simpson at PSU  <kira.simpson1984@gmail.com>",
+  "email": "kira.simpson1984@gmail.com",
+  "body": "GRB 210306A: Swift/UVOT Detection\n\nK. K. Simpson (PSU) and V. D'Elia (SSDC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 210306A\n85 s after the BAT trigger (D'Elia et al., GCN Circ. 29597).\nA source consistent with the XRT position\n(D'Elia et al. GCN Circ. 29597)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  08:39:49.98 = 129.95824 (deg.)\n    Dec (J2000) = +60:12:19.2  =  60.20533 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               85          235          147         16.23 +/- 0.03\nv                  628          648           20         17.42 +/- 0.24\nb                  553          573           20         17.32 +/- 0.13\nu                  297          547          246         16.86 +/- 0.04\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.052 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250713A: EP-FXT counterpart detection",
+  "eventId": "GRB 250713A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41085....1L",
+  "createdOn": 1752462379565,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "circularId": 41085,
+  "format": "text/plain",
+  "body": "Y. F. Liang (PMO, CAS), M. H. Zhang (NAO, CAS), C. Y. Dai (NJU), Y. Liu (NAO, CAS) on behalf of the Einstein Probe (EP) team:\n\nEP-FXT performed a follow-up observation of the SVOM/ECLAIRs-detected burst GRB 250713A (SVOM/sb25071320) at 2025-07-13T18:52:11 (UTC), about 2 hours after the SVOM/ECLAIRs trigger, with an exposure time of 4919s. Five uncatalogued sources are detected within the ECLAIRs error circle, among which Source 2 is spatially consistent with the candidate counterpart detected by SVOM/MXT (Maggi et al. GCN #41078). Preliminary analysis on these source are automatically conducted, and the details are listed as follows. \n\nSource 1: EPF_J222746.7+384738\nRA (J2000): 336.9445\nDec (J2000): 38.7939\nFlux: 2.68 x 10^-13 erg/s/cm^2 (observed, 0.5-10 kev)\nFlux_err: 4.65 x 10^-14 erg/s/cm^2 (1 sigma)\n\nSource 2: EPF_J222734.0+384613\nRA (J2000): 336.8919\nDec (J2000): 38.7702\nFlux: 1.05 x 10^-13 erg/s/cm^2 (observed, 0.5-10 kev)\nFlux_err: 4.09 x 10^-14 erg/s/cm^2 (1 sigma)\nNote: This source is spatially consistent with the candidate counterpart detected by SVOM/MXT.\n\nSource 3: EPF_J222734.3+384800\nRA (J2000): 336.8931\nDec (J2000): 38.8000\nFlux: 1.39 x 10^-13 erg/s/cm^2 (observed, 0.5-10 kev)\nFlux_err: 3.05 x 10^-14 erg/s/cm^2 (1 sigma)\n\nSource 4: EPF_J222729.6+384709\nRA (J2000): 336.8733\nDec (J2000): 38.7859\nFlux: 9.13 x 10^-13 erg/s/cm^2 (observed, 0.5-10 kev)\nFlux_err: 2.37 x 10^-13 erg/s/cm^2 (1 sigma)\n\nSource 5: EPF_J222815.4+384825\nRA (J2000): 337.0641\nDec (J2000): 38.8070\nFlux: 8.94 x 10^-14 erg/s/cm^2 (observed, 0.5-10 kev)\nFlux_err: 3.54 x 10^-14 erg/s/cm^2 (1 sigma)\n\nThe Source 1, 2, and 3 were detected by both FXT-A and FXT-B, while Source 4 and 5 were detected only by FXT-B. The positional uncertainty of the sources are about 10 arcsec in radius (90% C.L. statistical and systematic).\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). \n"
+}

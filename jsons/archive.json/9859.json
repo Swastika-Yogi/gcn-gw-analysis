@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090831C: Swift/UVOT upper limits",
+  "eventId": "GRB 090831C",
+  "bibcode": "2009GCN..9859....1S",
+  "createdOn": 1251801729000,
+  "circularId": 9859,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) reports on behalf of the Swift/UVOT team.\n\nThe Swift/UVOT began settled observations of the field of GRB 090831C 121s \nafter the BAT trigger (Schady et al., GCN Circ 9854). No new source is \ndetected within the XRT error circle (Evans et al., GCN Circ 9855) in any \nof the individual or combined UVOT filters.\n\nThe 3-sigma upper limits of detecting a source at the position of the \nX-ray afterglow in the first white band finding chart (fc) observation and \nin consecutive coadded observations for each of the UVOT filters are as \nfollows:\n\nFilter\tT_start(s) T_stop(s) Exp(s) Mag 3-sig UL\nwh (fc)    121       270     147      > 20.78\nwh         561       1183    206      > 20.73\nvv         610       1060    58       > 18.47\nbb         536       1159    58       > 19.30\nuu         279       1134    285      > 19.95\nw1         660       1109    58       > 18.74\nm2         635       1084    58       > 18.48\nw2         586       1209    78       > 18.95\n\n\nThe values quoted above are not corrected for the Galactic extinction due \nto the large reddening of E(B-V) = 0.38 in the direction of the burst \n(Schlegel et al., 1998). The photometry is on the UVOT photometric system \ndescribed in Poole et al. (2008, MNRAS, 383, 627)."
+}

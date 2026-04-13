@@ -1,0 +1,11 @@
+{
+  "subject": "EP251023a: GROWTH-India Telescope optical observations",
+  "eventId": "EP251023a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42411....1M",
+  "createdOn": 1761264724676,
+  "circularId": 42411,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan (IITB), D. Eappachen (IIA), V. Swain (IITB), A.P. Saikia (IITB), V. Bhalerao (IITB), G.C. Anupama (IIA), S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of EP transient EP251023a (Wu et al., GCN 42388), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-10-23 20:05:36 UT, i.e., 17.57 hours after the EP trigger. We obtained multiple exposures in g', r', and i' filters. We detect the optical afterglow in our stacked images, at the position reported by GOTO (Wortley et al., GCN 42387). The photometry result follows as:\n\n| MJD (mid) | tmid - t0 (hours) | Filter | Exposure (s) | Magnitude (AB) |\n| --------- | ----------------- | ------ | ------------ | -------------- |\n|60971.87998|     18.60         |   r'   |   5 x 360    |   20.39+-0.09  |\n|60971.90145|     19.12         |   i'   |   5 x 360    |   20.24+-0.11  |\n|60971.92296|     19.63         |   g'   |   5 x 360    |   20.88+-0.10  |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur magnitude is consistent with other optical observations (Wortley et al., GCN 42387; Li et al., GCN 42389; Liu et al., GCN 42391; Mandarakas et al., GCN 42400; Lipunov et al., GCN 42405; Selezneva et al., GCN 42406).\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

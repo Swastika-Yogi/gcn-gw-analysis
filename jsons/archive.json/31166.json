@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211124A: Fermi GBM Observation",
+  "eventId": "GRB 211124A",
+  "bibcode": "2021GCN.31166....1H",
+  "createdOn": 1638570585000,
+  "circularId": 31166,
+  "submitter": "Boyan A. Hristov at UAH  <bah0046@uah.edu>",
+  "email": "bah0046@uah.edu",
+  "body": "Boyan A. Hristov (UAH) reports on behalf of the Fermi GBM Team:\n\n\"At 02:29:53.56 UT on 24 November 2021, the Fermi Gamma-Ray Burst\nMonitor (GBM) triggered and located GRB 211124A (trigger 659413798\n/ 211124104),\n\nThe results from Swift/BAT + NITRATES (DeLaunay et al. 2021, GCN 31113)\nare consistent with a burst coming from out of the FOV,\nwhich is also consistent with the GBM in-flight location.\n\nThe GBM location, using the GBM trigger data, is RA = 94.967,\nDEC = -61.433 (J2000 degrees, equivalent to 06h 20m, -61d 26'), with a\nstatistical uncertainty of 5.98 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic error which we\nhave characterized as a core-plus-tail model, with 90% of GRBs having\na 3.7 deg error and a small tail suffering a larger than 10 deg\nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is\n45.00 degrees.\n\nThe GBM light curve shows two peaks with a duration (T90) of about\n0.5 s (50-300 keV).  The time-averaged spectrum from T0-0.128 s to\nT0+0.576 s is well fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -0.65 +/- 0.16 and the\ncutoff energy, parameterized as Epeak, is 357.50 +/- 80.10 keV.\nThe event fluence (10-1000 keV) in this time interval is\n(1.004 +/- 0.120)E-06 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0 s in the 10-1000 keV band is 27 +/- 3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

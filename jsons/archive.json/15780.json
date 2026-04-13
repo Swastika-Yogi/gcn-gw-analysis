@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140129B: Swift/UVOT Detection",
+  "eventId": "GRB 140129B",
+  "bibcode": "2014GCN.15780....1S",
+  "createdOn": 1391109106000,
+  "circularId": 15780,
+  "submitter": "Craig Swenson at PSU/Swift  <cswenson@astro.psu.edu>",
+  "email": "cswenson@astro.psu.edu",
+  "body": "C. A. Swenson (PSU) and M. G. Bernardini (INAF-OAB) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 140129B\n356 s after the BAT trigger (Bernardini et al., GCN Circ. 15765).\nA source consistent with the XRT position (Goad et al. GCN Circ. 15770)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  21:47:01.66 = 326.75691 (deg.)\n     Dec (J2000) = +26:12:23.0  =  26.20638 (deg.)\nwith an estimated uncertainty of 0.50 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              356          506          147         17.05 � 0.03\nv                  663         5031           72         18.04 � 0.20\nb                  588          608           20         17.90 � 0.20\nu                  562          582           20         17.24 � 0.17\nw1                 538          732           39         17.27 � 0.16\nm2                 513         1089           58         17.57 � 0.19\nw2                 638         1039           58         17.99 � 0.19\n\nThe clear detection in all UVOT filters indicate this burst is at a redshift\nof z < ~1.5.\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.09 in the direction of the burst\n(Schlegel et al. 1998)."
+}

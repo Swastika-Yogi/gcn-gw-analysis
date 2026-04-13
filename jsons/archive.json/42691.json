@@ -1,0 +1,11 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S251112cm: DECam GW-MMADS candidates",
+  "eventId": "LIGO/Virgo/KAGRA S251112cm",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42691....1H",
+  "createdOn": 1763176595431,
+  "circularId": 42691,
+  "submitter": "Xander J Hall at Carnegie Mellon University <xjh@andrew.cmu.edu>",
+  "format": "text/markdown",
+  "body": "Xander J. Hall (CMU), Tomás Cabrera (CMU), Julius Gassert (CMU/LMU), Lei Hu (UPenn), Antonella Palmese (CMU), Brendan O’Connor (CMU), Igor Andreoni (UNC), on behalf of the Gravitational Wave MultiMessenger Astronomy DECam Survey (GW-MMADS) team report:\n\nWe observed the high probability area of the LVK gravitational wave candidate S251112cm (GCN 42650) using the wide-field Dark Energy Camera (DECam) on the 4m Blanco telescope. Observations started at 2025-11-14 00:03 UTC (Prop ID: 2023B-851374; PI Palmese & Andreoni) and focused on the southern lobe of the Bilby skymap (GCN 42690; 30% of the total posterior probability).\n\nWe run the SFFT difference imaging (Hu et al. 2022) on the available images, filter out likely stars and moving objects, and then visually inspect the remaining transients. We report on TNS 54 new transients within the observed area, and we report here select transients:\n\n| id | AT name | ra | dec | discovery_date (UT) | mag_g | mag_g_err | mag_g-mag_i | NED separation |\n| ------------------------ | ---------- | ---------- | ---------- | ----------------------- | ------ | ----- | ----- | ----- |\n| T202511140018095m335115* | AT 2025adjp | 4.539622 |  -33.854284 | 2025-11-14 02:08:26.016 | 21.13 | 0.04 | 0.25 | 92.7\", 94.5\", 94.6\"\n| T202511140030086m410443 | AT 2025adkl | 7.535766 |  -41.078709 | 2025-11-14 02:13:43.104 | 20.91 | 0.03 | -0.14 | 90.5\"\n\n*This transient is within 2' of three NED in-volume galaxies.\n\nWe note while both of these transients are within 2' of a NED in-volume galaxy (GCN 42653), they are both near galaxies with LS DR9 photo-z > 0.12 which would place them outside of the volume. \n\nFurther analysis is underway.\n\nWe thank the CTIO and NOIRLab staff for supporting these observations and the data calibration."
+}

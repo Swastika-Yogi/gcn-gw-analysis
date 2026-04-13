@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050803: early Swift XRT analysis results",
+  "eventId": "GRB 050803",
+  "bibcode": "2005GCN..3752....1R",
+  "createdOn": 1123127432000,
+  "circularId": 3752,
+  "submitter": "Judith Racusin at PSU  <racusin@astro.psu.edu>",
+  "email": "racusin@astro.psu.edu",
+  "body": "J. Racusin (PSU), C. Pagani (INAF-OAB), D. Burrows (PSU), K. Page (U. \nLeicester), on behalf on the Swift XRT team:\n\nWe have analyzed the first 3 orbits of Swift XRT data from GRB 050803 \n(Band et al., GCN 3748).  The refined coordinates from the downlinked \nground processed data of the X-ray afterglow are:\n\nRA(J2000): 23h 22m 37.8s\nDec(J2000): +5d 47' 5.5\"\n\nThis position is 60 arcseconds from the BAT position given in GCN 3748 \n(Band et al.), and 2.1 arcseconds from the on-board determined XRT \nposition reported in GCN 3748.  We estimate an uncertainty of 6 arcseconds \nradius (90% containment).\n\nData in Window Timing (WT) mode began at 19:16:40 UT, 160 seconds after \nthe BAT trigger, and continued for 84s before switching into Photon \nCounting (PC) mode.  The 0.3-10 keV afterglow light curve shows a rapidly \nfading X-ray source which can be fitted with a power law of slope \nalpha=-5.4+/-0.1 up to a break around 290 s, after which the light curve \nflattens where it can be fitted with a power law of slope \nalpha=-0.53+/-0.02 as far as current data extends.\n\nThe predicted flux at 24 hours after the trigger is 2.96E-12 erg cm^-2 \ns^-1.\n\nA preliminary spectral fit to this data gives a spectral power law photon \nindex of 1.8 +/- 0.1 with nH=(19.8+/-3.2)E20 cm^-2.  This is significantly \nhigher than the Galactic nH along the line of sight which is 5.6E+20 \ncm^-2."
+}

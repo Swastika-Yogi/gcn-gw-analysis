@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of short/hard GRB 200623B",
+  "eventId": "GRB 200623B",
+  "bibcode": "2020GCN.28037....1T",
+  "createdOn": 1593367683000,
+  "circularId": 28037,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R.Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Lysenko, A. Ridnaia and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration, hard-spectrum GRB200623B\n(IPN triangulation: Ridnaia et al., GCN 28024)\ntriggered Konus-Wind at T0=64972.561 s UT (18:02:52.561).\n\nThe light curve of the burst shows two pulses\nin the interval from ~T0-0.2 s to ~T0+0.3�� s.\nThe emission is seen up to ~1 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.02(-0.23,+0.57)x10^-6 erg/cm2,\nand a 64-ms peak energy flux, measured from T0-0.086 s,\nof 6.65(-1.47,+3.74)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nFitting the time-integrated 3-channel spectrum of the burst\n(measured from T0-0.118 s to T0+0.304 s)\nin the 20 keV - 1.5 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.37(-0.41,+0.59),\nand Ep = 753(-217,+582) keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200623_T64972/\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221027B: FRAM-ORM and Ondrejov SBT optical limits",
+  "eventId": "GRB 221027B",
+  "bibcode": "2022GCN.32873....1J",
+  "createdOn": 1666961108000,
+  "circularId": 32873,
+  "submitter": "Martin Jelinek at Astro.Inst-AVCR,Ondrejov  <martin.jelinek@asu.cas.cz>",
+  "email": "martin.jelinek@asu.cas.cz",
+  "body": "Martin Jelinek, Jan Strobl, Rene Hudec and Cyril Polasek\n(ASU CAS Ondrejov, CZ),\nSergey Karpov, Martin Masek, Petr Janecek, Jakub Jurysek,\nJan Ebr, Ronan Cunniffe, Petr Travnicek and Michael Prouza\n(Institute of Physics, Prague, CZ)\n\nreport:\n\nThe 2x20cm robotic telescope BART-SBT in Ondrejov (CZ) reacted robotically\nto the Swift alert of GRB221027B (Lien et al., GCNC 32867 and Perri et al.\nGCNC 32870, GCNC 29119 and 29124), obtaining a series of 12s unfiltered\nframes at 19:19:46 UT, i.e. 367s post trigger.\n\nThe 25cm robotic telescope FRAM-ORM at La Palma (Spain) reacted to the same\nalert, providing a series of 60s unfiltered images from 19:28:20 UT, i.e.\n882s post trigger.\n\nSimilarly to Hu et al. (GCNC 32869) and Lipunov et al. (GCNC 32871), we do\nnot detect any new or strongly variable source neither in single or in\ncombined frames with the following limits:\n\nTel.    T-T0[mid,s]  Texp[s]  Limit[ABmag]  Note\nSBT     374          12       <15.5         (similar during the following\n30 min)\nSBT     494          240      <17.0\nSBT     674          600      <17.3\nSBT     1574         2400     <17.7\nFRAM    912          60       <17.0         (similar next 60 minutes)\nFRAM    1238         10x60    <18.0"
+}

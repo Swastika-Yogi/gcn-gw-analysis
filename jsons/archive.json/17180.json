@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141212A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 141212A",
+  "bibcode": "2014GCN.17180....1O",
+  "createdOn": 1418468350000,
+  "circularId": 17180,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (IAA-CSIC/UCL-MSSL) and T. N. Ukwatta (LANL)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 141212A\n72 s after the BAT trigger (Ukwatta et al., GCN Circ. 17158).\nNo optical afterglow consistent with the XRT position\n(Osborne et al. GCN Circ. 17164)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            72          222          147         >20.6\nu_FC               286          535          246         >19.9\nwhite               72         1531          392         >21.2\nv                  615         1581          117         >18.8\nb                  541         1681          117         >19.8\nu                  286         1655          343         >20.1\nw1                 664         1631          117         >19.3\nw2                 591         1210           39         >18.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.10 in the direction of the burst\n(Schlegel et al. 1998)."
+}

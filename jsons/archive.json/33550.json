@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 230328B : GRANDMA/Kilonova-Catcher optical detection",
+  "editedOn": 1731923379595,
+  "version": 2,
+  "eventId": "GRB 230328B",
+  "bibcode": "2023GCN.33550....1K",
+  "createdOn": 1680295042000,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov>",
+  "circularId": 33550,
+  "submitter": "Damien Turpin at NAOC (CAS)  <dturpin-astro@hotmail.com>",
+  "email": "dturpin-astro@hotmail.com",
+  "format": "text/plain",
+  "body": "F. Kugel (KNC), D. Turpin (CEA), S. Karpov (FZU), T. Hussenot-Desenonges \n(IJCLab), S. Antier (OCA/Artemis), P.A. Duverne (APC, U. Paris Cité),\nP. Hello (IJCLab), A. Klotz (OMP/IRAP) report on behalf of the \nGRANDMA/Kilonova-Catcher collaboration:\n\nThe Kilonova-Catcher telescope network responded to the alert of \nGRB 230328B (Swift detection: Gropp et al., GCN 33527;\nFermi GBM detection: Veres et al., GCN 33526). \n\nThe KNC observations were taken by F. Kugel with an ARTEMIS CCD ATIK-460ex \ncamera mounted in the 0.4-m f/2.8 reflector telescope in the Chante-Perdrix \nObservatory (France).\nThe afterglow is detected in the 36x60s unfiltered coadded images at\nabout 5.2 hours (midtime of the exposure) after the Swift/BAT trigger time.\n\nBelow, we report our photometric measurement in Rc magnitude.\n-------------------------------------------------------------\nT-T0 (day)  |Exposure| Filter | Mag +/- err |Mag.Lim. (AB)\n-------------------------------------------------------------\n0.22172 | 36 x 60s | Rc | 20.19 +/- 0.10 | 21.4 (3 sigma)\n\nOur detection is consistent with the detections and limits previously reported\nin Pankov et al., GCN 33528.; Belkin, GCN 33530; Lu et al., GCN 33534;\nCatapano et al., GCN 33535; Suresh et al., GCN 33536.; Adami et al., \nGCN 33537; Gompertz et al., GCN 33538; Komesh et al., GCN 33539;\nLu et al., GCN 33540; Ror et al., GCN 33547; Agui Fernandez et al., GCN 33549\n\nThe GRANDMA/Kilonova-Cacther images have been calibrated using field\nstars from the PanSTARRS-DR1 catalog using the STDpipe pipeline\n(Karpov 2022) and the ps1/r to Rc mag conversion from (Pancino et al. 2022).\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr)\ndevoted to the observation of transients in the context of multi-messenger\nastrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is\nthe citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Time Correction to GRB 060102",
+  "eventId": "GRB 060102",
+  "bibcode": "2006GCN..4424....1B",
+  "createdOn": 1136240030000,
+  "circularId": 4424,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), D. Burrows (PSU), M. Chester (PSU),\nN. Gehrels (GSFC), S. Immler (GSFC), A. Retter (PSU), T. Sakamoto (GSFC)\non behalf of the Swift team:\n\nWe correct the trigger time for GRB 060102 (trigger=175603)\nin GCN Circular #4423.  A data corruption problem caused \nthe conversion from spacecraft time to Universal Time to be off \nby 16 million seconds.  The correct trigger time for GRB 060102 \nis 21:17:28 UT (+/- ~2 sec for the unknown correction factor).\n\n[GCN OPS NOTE(03feb06): per author's request, \"E.Retter\" was changed to \"A.Retter\".]"
+}

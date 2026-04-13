@@ -1,0 +1,10 @@
+{
+  "subject": "HETE fluences for GRB021004",
+  "eventId": "GRB 021004",
+  "bibcode": "2002GCN..1600....1L",
+  "createdOn": 1034024771000,
+  "circularId": 1600,
+  "submitter": "Don Lamb at U.Chicago  <lamb@oddjob.uchicago.edu>",
+  "email": "lamb@oddjob.uchicago.edu",
+  "body": "D. Lamb, G. Ricker, J-L Atteia, N. Kawai, and S. Woosley on behalf of\nthe HETE Science Team;\n\nJ-F Olive, M. Boer, J-P Dezalay, and K. Hurley on behalf of the HETE\nFREGATE Team;\n\nY. Shirasaki, M. Matsuoka, T. Tamagawa, K. Torii, T. Sakamoto,\nA. Yoshida, E. Fenimore, M. Galassi, T. Tavenner, C. Graziani, and\nT. Donaghy, on behalf of the HETE WXM Team;\n\nJ. Villasenor, R. Vanderspek, J. Doty, G. Crew, G. Monnelly, N. Butler,\nT. Cline, J.G. Jernigan, A. Levine, F. Martel, E. Morgan, G. Prigozhin,\nG. Azzibrouck, J. Braga, R. Manchanda, and G. Pizzichini, on behalf of\nthe HETE Operations and HETE Optical-SXC Teams;\n\nwrite:\n\nAnalysis of the FREGATE data for GRB021004 (=H2380) shows that\nthe fluence-averaged photon number spectrum of the burst is well-fit\nby a single power-law spectrum with slope alpha = 1.64 +/- 0.09, and\ngives the following values for the fluences of the burst:\n\nS = 1.8 x 10-6 erg cm-2 (50-300 keV), and\n\nS = 3.2 x 10-6 erg cm-2 (7-400 keV).\n\nUsing the latter value and assuming Omega_Lambda = 0.7, Omega_m = 0.3,\nand H_0 = 70 km s-1 Mpc-1, the isotropic-equivalent energy of the\nburst is\n\nE_iso = 2.06 x 10^(52) ergs.\n\nUsing this value of E_iso and equation (1) of Frail et al. (ApJ 562,\nL55, 2001) [see also Sari et al. (ApJ 519, L17, 1999)] to estimate the\njet break time, we find\n\nt_j = 1.3 [(1+z)/2.60] (theta_j/0.070)^(8/3) [E_iso/2 x 10^(52) ergs]\n           x (eta/0.2)^(-1/8) (n/0.1 cm-3)^(-1/8)  days.\n\n\nAnalysis of the WXM data for GRB021004 gives the following value for the\nfluence of the burst in the WXM energy band:\n\nS = 7.5 x 10-7 erg cm-2 (2-25 keV).\n\nThe fluence ratio S(2-25)/S(50-300)= (7.5 x 10-7)/(1.8 x 10-6) = 0.42\nimplies that GRB021004 is an X-ray rich GRB [log (S_x/S_gamma) > -0.5].\n\nThis message is citable."
+}

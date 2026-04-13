@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221028A: HCT optical upper limit",
+  "eventId": "GRB 221028A",
+  "bibcode": "2022GCN.32886....1K",
+  "createdOn": 1667033376000,
+  "circularId": 32886,
+  "submitter": "Harsh Kumar at Indian Inst of Tech,Bombay  <harshkosli13@gmail.com>",
+  "email": "harshkosli13@gmail.com",
+  "body": "H. Kumar (IITB), A. Dutta (IIA), D.K. Sahu (IIA), G. C. Anupama (IIA), S.\nBarway (IIA), V. Bhalerao (IITB), R. Gupta (ARIES), K. Misra (ARIES), D.\nPanchal (ARIES), S.B. Pandey (ARIES), report on behalf of the HCT team:\n\nWe observed GRB 221028A detected by Swift-BAT (A. Y. Lien et al. GCN #\n32874) with the 2.0m Himalayan Chandra Telescope (HCT) of the Indian\nAstronomical Observatory (IAO). We obtained exposures in the Bessel V, Rc\nand Ic filters and did not detect any afterglow within the Swift-XRT\nuncertainty circle (A. Y. Lien et al. GCN # 32874). The obtained upper\nlimits follow as:\n\n-------------------------------------------------------------------\n\n JD (mid) | T_mid-T0(hrs) | Exposure (sec) | Filter | Lim_mag (5-sigma) |\n\n-------------------------------------------------------------------\n\n 2459881.075085 | 0.52 | 60  | Rc | > 19.94 |\n\n 2459881.091424 | 0.92 | 300 | Rc | > 22.06 |\n\n 2459881.1037215| 1.21 | 300 | Ic | > 20.74 |\n\n 2459881.108775 | 1.33 | 420 | V | > 22.30 |\n\n-------------------------------------------------------------------\n\nThe upper limits are consistent with Kumar et al., GCN #32876; Hu et al.,\nGCN #32878; Lipunov et al., GCN #32879, R. Strausbaugh et al., GCN #32881.\nThe reported magnitudes are in the AB system of magnitude, calibrated\nagainst PanSTARRS DR1 (Chambers et al., 2016) using Lupton's transformation\nequations available at\nhttp://classic.sdss.org/dr4/algorithms/sdssUBVRITransform.html#Lupton2005\nand not corrected for Galactic extinction.\n\nThese observations were carried out under the ToO program HCT-2022-C3-P12.\nWe thank the HCT staff for their support during the observations. The\nIndian Astronomical Observatory is operated by the Indian Institute of\nAstrophysics, Bengaluru, India."
+}

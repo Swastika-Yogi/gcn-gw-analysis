@@ -1,0 +1,9 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230702an: Updated Sky localization",
+  "eventId": "LIGO/Virgo/KAGRA S230702an",
+  "bibcode": "2023GCN.34150....1G",
+  "createdOn": 1688663478395,
+  "circularId": 34150,
+  "submitter": "jgolomb@caltech.edu",
+  "body": "We have conducted further analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data around the time of the compact binary merger (CBC) candidate S230702an (GCN Circular 34136). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.multiorder.fits,0, distributed via GCN Notice, is available for retrieval from the GraceDB event page:  \n\nhttps://gracedb.ligo.org/superevents/S230702an\n\nFor the Bilby.multiorder.fits,0 sky map, the 90% credible region is 2267 deg2. Marginalized over the whole sky, the a posteriori luminosity distance estimate is 2428 +/- 849 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/userguide/.\n\n\n [1] Ashton et al. ApJS 241, 27 (2019)"
+}

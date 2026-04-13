@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131227A: KAIT light curve analysis",
+  "eventId": "GRB 131227A",
+  "bibcode": "2014GCN.15649....1Z",
+  "createdOn": 1388609753000,
+  "circularId": 15649,
+  "submitter": "Weikang Zheng at UC Berkeley  <zwk@astro.berkeley.edu>",
+  "email": "zwk@astro.berkeley.edu",
+  "body": "WeiKang Zheng, Alexei V. Filippenko, Adam Morgan (UC Berkeley), and\nS. B. Cenko (NASA/Goddard Space Flight Center) report on behalf of the\nKAIT GRB team:\n\nWe analyzed the early time KAIT data of GRB 131227A (Oates et al., GCN\n15616). The afterglow is easily detected in our clear and I band\nimages, but not in V band images (single or co-added). After correcting\nfor the large Galactic extinction (A_V = 2.8 mag, A_I = 1.5 mag;\nSchlegel et al., 2011, ApJ, 737, 103), we found the afterglow had a\ncolor of (V - I) > 1.2 mag at early times (~200 s - 900 s). This is\nconsistent with the spectral break around 7600 A reported by Cucchiara &\nCenko (GCN 15624), but still not so constraining to say the break is\ncaused by Lyman-alpha.\n\nDue to lack of emission below 7600 A (either because of extinction\nor Lyman-alpha break), we calibrated the KAIT clear image to the i'\nband. Our preliminary result shows the afterglow decays as a power law\nwith alpha = -0.99. The late time upper limit reported by Kann et al.\n(GCN 15632) is below the extrapolation of the line. \n\nThe preliminary light curve can be found at the following link:\nhttp://128.32.15.133/kait/grb/131227A/GRB131227A.png"
+}

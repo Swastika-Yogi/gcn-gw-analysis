@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250721A: MAXI/GSC detection",
+  "eventId": "GRB 250721A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41129....1K",
+  "createdOn": 1753104702925,
+  "circularId": 41129,
+  "submitter": "Motoko Serino at Aoyama Gakuin U. <serino@phys.aoyama.ac.jp>",
+  "format": "text/plain",
+  "body": "C. Kang (Ehime U.), M. Serino, Y. Kawakubo (AGU), H. Negoro (Nihon U.),\nM. Nakajima, K. Takagi, H. Takahashi, K. Tatano, H. Nishio (Nihon U.),\nT. Mihara, T. Tamagawa, N. Kawai, M. Matsuoka (RIKEN),\nT. Sakamoto, S. Sugita, H. Hiramatsu, Y. Kondo, A. Yoshida (AGU),\nY. Tsuboi, H. Sugai, N. Nagashima (Chuo U.),\nM. Shidatsu, Y. Niida, T. Nakamoto (Ehime U.),\nI. Takahashi, Y. Yatsu (Science Tokyo),\nS. Nakahira, S. Ueno, H. Tomida, M. Ishikawa, S. Ogawa, M. Kurihara (JAXA),\nY. Ueda, K. Fujiwara (Kyoto U.),\nM. Yamauchi, M. Nishio, C. Hiraizumi (Miyazaki U.),\nK. Yamaoka (Nagoya U.),\nM. Sugizaki (Kanazawa U.),\nW. Iwakiri (Chiba U.),\nT. Kawamuro (Osaka U.),\nS. Yamada (Tohoku U)\n\nThe MAXI/GSC nova alert system triggered a bright uncatalogued X-ray transient \nsource at 09:38:05 UT on July 21, 2025. Assuming that the source flux was constant\nover the transit, we obtain the source position at\n(R.A., Dec) = ( 82.805, -25.592) = (05 31 13, -25 35 31) (J2000)\nwith a statistical 90% C.L. elliptical error region with long and short radii of 0.37 deg\nand 0.32 deg, respectively.\nThe roll angle of long axis from the north direction is 24.0 deg counterclockwise.\nThere is an additional systematic uncertainty of 0.1 deg (90% containment radius).\nThe X-ray flux averaged over the scan was 119 +- 23 mCrab\n(4.0-10.0keV, 1 sigma error).\n\nWithout assumptions on the source constancy, we obtain a rectangular error\nbox for the transient source with the following corners:\n(81.815, -25.748) deg = (05 27 15, -25 44 52) (J2000)\n(82.171, -26.333) deg = (05 28 41, -26 19 58) (J2000)\n(84.986, -24.908) deg = (05 39 56, -24 54 28) (J2000)\n(84.621, -24.329) deg = (05 38 29, -24 19 44) (J2000)\n\nThere was no significant excess flux in the next transit at 11:10 UT with an upper limit of 20 mCrab.\n\nWe also note that a transient was detected by Fermi (GCN Circular #41128), \nwhich is probably associated with the event."
+}

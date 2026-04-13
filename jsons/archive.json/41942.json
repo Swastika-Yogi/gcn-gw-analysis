@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 250920B",
+  "eventId": "GRB 250920B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41942....1S",
+  "createdOn": 1758566272063,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 41942,
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nA. Tsvetkova, M. Ulanov, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 250920B\n(Fermi-GBM detection: The Fermi GBM team, GCN 41897; \nSonawane and Meegan, GCN 41919;\nSwift-BAT detection: Gupta et al., GCN 41898; \nSakamoto et al., GCN 41923;\nGlowbug detection: Cheung et al., GCN 41937)\ntriggered Konus-Wind at T0=31587.304 s UT (08:46:27.304).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-3.0 s and has a total duration of ~141 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250920_T31587/\n\nAs observed by Konus-Wind, the burst\nhad the total fluence of 3.80(-0.78,+0.93)x10^-5 erg/cm2,\nand the 64-ms peak flux, measured from T0+6.368 s,\nof 6.72(-1.17,+1.16)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+131.328 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -1.41(-0.10,+0.11),\nthe high energy photon index beta = -2.41(-7.59,+0.35),\nthe peak energy Ep = 310(-69,+94) keV\n(chi2 = 94/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -1.06(-0.10,+0.10),\nthe high energy photon index beta = -2.33(-0.38,+0.18),\nthe peak energy Ep = 296(-38,+52) keV\n(chi2 = 87/81 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

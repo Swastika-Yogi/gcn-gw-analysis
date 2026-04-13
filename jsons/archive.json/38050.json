@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241030A: Rapid release of TESS data.",
+  "eventId": "GRB 241030A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38050....1M",
+  "createdOn": 1730602757038,
+  "submitter": "Glen Petitpas at MIT <petitpas@mit.edu>",
+  "circularId": 38050,
+  "format": "text/plain",
+  "body": "From: The TESS Mission\n\nThe Transiting Exoplanet Survey Satellite (TESS) observed GRB 241030A during scheduled observations of Sector-85, and the GRB is contained within Camera 3 CCD 3. The window of observation encompasses the initial Fermi GCN trigger at UTC 05:48:03 on 30 Oct 2024 (GCN Circular 37955), as well as the entire error regions from the refined localizations by Swift (GCN Circular 37956).\n\nThe TESS Mission is making the TICA-processed full frame images (FFIs) for only Camera 3 CCD 3 in Sector 85 available to the public to accommodate rapid analysis by the community prior to the full data sets being available on MAST. Camera 3 CCD 3 FITS files will be available by approximately UTC 06 hours on 03 Nov 2024, and instructions for downloading are here:\nhttps://tess.mit.edu/public/grb241030A/README.txt\nDetails and references regarding TICA  data products can be found at MAST (https://archive.stsci.edu/hlsp/tica). The FITS header timestamps are in TESS time and can be converted to UTC using the Astropy Time conversion from TDB to UTC.\n\nThe TESS Mission is also making SPOC calibrated FFIs for Sector-85 available for download at the following link by approximately UTC 13 hours 03 Nov 2024:\nhttps://data.nas.nasa.gov/viz/vizdata/armichae/space/index.html\nThe SPOC data products are documented in the TESS Archive Manual at MAST (https://outerspace.stsci.edu/display/TESS/TESS+Archive+Manual). The SPOC FFI FITS header timestamps are provided in barycentric-corrected TESS Julian date : BTJD = BJD – 2457000.\n\nThe full TESS data set from the first orbit of Sector-85 (including full TICA and SPOC FFIs) should be available early this coming week, following the standard processing and release process.\n"
+}

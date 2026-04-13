@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220403C: Further Swift-XRT observations",
+  "eventId": "GRB 220403C",
+  "bibcode": "2022GCN.31924....1T",
+  "createdOn": 1650442047000,
+  "circularId": 31924,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. Tohuvavohu (U. Toronto), B. Sbarufatti (PSU), D.N. Burrows (PSU),\nJ.P. Osborne (U. Leicester), K.L. Page (U. Leicester), A. Melandri\n(INAF-OAB), T. Sbarrato (INAF-OAB), P. D'Avanzo (INAF-OAB) and P.A.\nEvans (U. Leicester) report on behalf of the Swift-XRT team:\n\nSwift-XRT has performed a second follow-up observation of GRB 220403C,\ndetected outside the BAT coded FOV by GUANO NITRATES (Aaron Tohuvavohu\net al. GCN Circ. 31824), and later triangulated by IPN (GCN Circ.\n31877). This time the XRT pointed at the centre of the IPN error\nregion, collecting 2.5 ks of Photon Counting (PC) mode data between\nT0+1311.3 ks and T0+1324.1 ks. \n\nTwo uncatalogued X-ray sources have been detected, however neither of\nthem is above the RASS limit or shows definitive signs of fading.\nTherefore, at the present time we cannot identify which, if either, is\nthe afterglow. Details of these sources are given below:\n\nSource 1:\n  RA (J2000.0):  17.5547  =  01:10:13.12\n  Dec (J2000.0): -56.2345  =  -56:14:04.2\n  Error: 5.5 arcsec (radius, 90% conf. [Enhanced position])\n  Count-rate: (5.7 [+2.0, -1.6])e-3 ct s^-1   \n  Distance: 46 arcsec from IPN position.\n  Flux: (6.8 [+2.4, -2.0])e-13 erg cm^-2 s^-1 (observed, 0.3-10 keV)\n\nSource 2:\n  RA (J2000.0):  17.9074  =  01:11:37.77\n  Dec (J2000.0): -56.1775  =  -56:10:38.9\n  Error: 9.7 arcsec (radius, 90% conf.)\n  Count-rate: (5.0 [+3.2, -2.3])e-3 ct s^-1   \n  Distance: 695 arcsec from IPN position.\n\nWe note that neither of these sources is consistent with the location\nof the galaxy LEDA 3080270 which lies within the IPN error box.\n\nThe results of the XRT-team automatic analysis of the XRT observations,\nincluding a position-specific upper limit calculator, are available at\nhttps://www.swift.ac.uk/ToO_GRBs/00021485.\n\nThis circular is an official product of the Swift-XRT team."
+}

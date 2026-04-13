@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130803A, Swift-BAT refined analysis",
+  "eventId": "GRB 130803A",
+  "bibcode": "2013GCN.15063....1C",
+  "createdOn": 1375556626000,
+  "circularId": 15063,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "GRB 130803A, Swift-BAT refined analysis\n  \nJ. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC),  W. H. Baumgartner (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nA. Y. Lien (NASA/GSFC/ORAU), C. B. Markwardt (GSFC), K. L. Page (U Leicester),\nD. M. Palmer (LANL), T. Sakamoto (AGU), G. Sato (ISAS), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n  \nUsing the data set from T-60 to T+243 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 130803A (trigger #565263) (Page, et al.,\nGCN Circ. 15059).  The BAT ground-calculated position is\nRA, Dec = 220.256, -2.499 deg which is\n    RA(J2000)  =  14h 41m 01.4s\n    Dec(J2000) = -02d 29' 58\"\nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 30%.\n  \nThe mask-weighted light curve shows two well-separated symmetrical peaks.  The\nfirst, larger peak starts at about T0-2 seconds and lasts until about T+8 seconds.\nThe second peak, which was softer, starts about T0+41 seconds and lasts until about\nT0+48 seconds.  T90 (15-350 keV) is 44 +- 2 sec (estimated error including\nsystematics).\n  \nThe time-averaged spectrum from T-1.24 to T+45.76 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.69 +- 0.14.  The fluence in the 15-150 keV band is 1.5 +- 0.1 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+2.09 sec in the 15-150 keV band\nis 5.1 +- 0.4 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n  \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/565263/BA/"
+}

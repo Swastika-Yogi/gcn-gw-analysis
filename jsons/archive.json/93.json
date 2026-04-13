@@ -1,0 +1,9 @@
+{
+  "subject": "BATSE on-board GRB trigger change",
+  "bibcode": "1998GCN....93....1K",
+  "createdOn": 896726157000,
+  "circularId": 93,
+  "submitter": "R Marc Kippen at BATSE/UAH/MSFC  <marc.kippen@msfc.nasa.gov>",
+  "email": "marc.kippen@msfc.nasa.gov",
+  "body": "RE:    BATSE on-board trigger changes\n\nThe BATSE on-board transient event trigger energy range was changed\nfrom channels 3+4 (>100 keV) to channels 1+2 (~20-100 keV) on 31 May,\n1998 18:47:38 UT.  The revised trigger definition will be enabled for\napproximately two weeks to increase the chance of detecting oubursts\nfrom an active Soft Gamma Repeater (SGR) source.  At the end of this\ninterval the trigger will be returned to its previous state of using\nchannels 3+4.  The new trigger setting may result in an unacceptable\nnumber of solar flare triggers, in which case some detectors would be\nexcluded from the on-board trigger algorithm.  We hesitate to\nimplement the later, since it leads to very anisotropic trigger\nexposure."
+}

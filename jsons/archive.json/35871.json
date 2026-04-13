@@ -1,0 +1,10 @@
+{
+  "subject": "Improved IPN triangulation of GRB 240227A (short)",
+  "eventId": "GRB 240227A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35871....1K",
+  "createdOn": 1709648210249,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 35871,
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\nreport:\n\nUsing the BepiColombo (MGNS) data we have improved\nthe previous IPN error box (Svinkin et al., GCN 35821).\n\nThe coordinates of the updated 3 sigma error box are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n   18.725 (01h 14m 54s) -34.410 (-34d 24' 34\")\n Corners:\n   18.512 (01h 14m 03s) -35.909 (-35d 54' 32\")\n   18.933 (01h 15m 44s) -33.175 (-33d 10' 30\")\n   18.900 (01h 15m 36s) -32.912 (-32d 54' 42\")\n   18.488 (01h 13m 57s) -35.644 (-35d 38' 37\")\n ---------------------------------------------\nThe error box area is 561 sq. arcmin, and its maximum\ndimension is 3.01 deg (the minimum one is 3.4 arcmin).\nThe Sun distance was 44 deg.\n\nThis box may be further improved.\n\nUpdated triangulation map and HEALPix FITS files are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240227_T16812/IPN/\n\n"
+}

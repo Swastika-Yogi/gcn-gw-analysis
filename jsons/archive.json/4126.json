@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051021B: Swift detection of a burst",
+  "eventId": "GRB 051021B",
+  "bibcode": "2005GCN..4126....1R",
+  "createdOn": 1129940490000,
+  "circularId": 4126,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "A. Retter (PSU), S. Barthelmy (GSFC), D. Burrows (PSU),\nM. Chester (PSU), N. Gehrels (GSFC), J. Kennea (PSU),\nF. Marshall (GSFC), D. Palmer (LANL), J. Racusin (PSU)\non behalf of the Swift team:\n\nAt 23:31:53 UT, Swift-BAT triggered and located GRB 051021B (trigger=160672).\nThe BAT on-board calculated location is RA,Dec 126.037d,-45.519d\n{8h 24m 09s,-45d 31' 09\"} (J2000), with an uncertainty of 3 arcmin\n(radius, 90% containment, stat+sys).  The BAT light curve shows\na single FRED-like peak with structure with a total duration of ~25 sec.\nThere is some pre-trigger emission starting at T-8 sec.  The peak count rate\nwas ~1800 counts/sec (15-350 keV), at ~2 seconds after the trigger.\n\nThe spacecraft slewed immediately and the XRT began observing at 23:33:14 UT\n(81 sec after the BAT trigger).  The on-board centroiding algorithm was not\nable to determine a position, but the prompt lightcurve and spectrum strongly\nsuggest that a fading source is present in the field of view.  Further analysis\nwill require ground-processed data.\n\nUVOT began observing 23:33:11 UT or 78 sec after the BAT trigger\nwith a 200 sec V-band image.  It is a crowded field with high,\nbut uncertain extinction.  No new sources are seen in either\nthe small image or the list of sources produced in the on-board processing.\nThe limiting magnitude in the small image is about 19th mag.\nThe on-board list of sources covers the entire BAT error region and\nis typically complete to about 17th mag.\n\nFurther analysis will be delayed due the lack of telemetry downlink passes\nfor several hours."
+}

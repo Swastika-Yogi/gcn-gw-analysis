@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221216A: Swift-BAT refined analysis",
+  "eventId": "GRB 221216A",
+  "bibcode": "2023GCN.33254....1K",
+  "createdOn": 1675375431000,
+  "circularId": 33254,
+  "submitter": "Hans Krimm at NSF/NASA-GSFC  <hkrimm@nsf.gov>",
+  "email": "hkrimm@nsf.gov",
+  "body": "H. A. Krimm (NSF), S. D. Barthelmy (GSFC), S. Dichiara (PSU),\r\nS. Laha (GSFC/UMBC), A. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\r\nD. M. Palmer (LANL), T. Parsotan (GSFC/UMBC), T. Sakamoto (AGU),\r\nM. Stamatikos (OSU) (i.e. the Swift-BAT team):\r\n\r\nUsing the data set from T-60 to T+243 sec from the recent telemetry downlink,\r\nwe report further analysis of BAT  GRB 221216A (trigger #1144698)\r\n(Dichiara, et al., GCN Circ. 33067).  The BAT ground-calculated position is\r\nRA, Dec = 326.023, -34.394 deg which is\r\n   RA(J2000)  =  21h 44m 05.6s\r\n   Dec(J2000) = -34d 23' 37.4\"\r\nwith an uncertainty of 1.3 arcmin, (radius, sys+stat, 90% containment).\r\nThe partial coding was 100%.\r\n\r\nThe mask-weighted light curve shows two broad peaks, one centered around T+0,\r\nand the other at T+165 seconds.  There is a third, more narrow and weaker peak\r\nat T+50 seconds and some possible subsidiary peaks.  Note that not all of the event\r\ndata is available, so it is possible that the burst extended before or after this period.\r\nT90 (15-350 keV) is 174.48 +- 5.26 sec (estimated error including systematics).\r\n\r\nThe time-averaged spectrum from -9.68 to T+175.22 sec is best fit by a power law\r\nwith an exponential cutoff.  This fit gives a photon index 1.02 +- 0.36,\r\nand Epeak of 91.0 +- 44.0 keV (chi squared 37.14 for 56 d.o.f.).  For this\r\nmodel the total fluence in the 15-150 keV band is 4.6 +- 0.3 x 10^-6 erg/cm2\r\nand the 1-sec peak flux measured from T+0.23 sec in the 15-150 keV band is\r\n1.8 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\r\nof 1.56 +- 0.08 (chi squared 44.55 for 57 d.o.f.).  All the quoted errors\r\nare at the 90% confidence level.\r\n\r\nThe results of the batgrbproduct analysis are available at\r\nhttp://gcn.gsfc.nasa.gov/notices_s/1144698/BA/"
+}

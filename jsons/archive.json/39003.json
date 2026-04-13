@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250119B: Fermi GBM Observation",
+  "eventId": "GRB 250119B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39003....1P",
+  "createdOn": 1737391538667,
+  "circularId": 39003,
+  "submitter": "Utkarsh Pathak at IIT Bombay <utkarshpathak.07@gmail.com>",
+  "format": "text/plain",
+  "body": "U. Pathak (IITB), R. Sonawane (IISER, TVM), and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 08:27:01.67 UT on 19 January 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 250119B (trigger 758968026/250119352) which was also\ndetected by INTEGRAL/SPI-ACS (Barria et al. 2025, GCN 38997).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 306.74, Dec = 21.23 (J2000 degrees, equivalent to\nJ2000 20h 26m, +21d 13'), with a statistical uncertainty of 1.00 degrees.\n(radius, 1-sigma containment, statistical only; there is additionally a\nsystematic error which we have characterized as a mixture of two Gaussians,\none with a radius of 1.8 degrees (52% contribution) and one with a radius\nof 4.1 degrees (47% contribution) [A. Goldstein et al. 2020, ApJ, 895, 1]).\n\nThe angle from the Fermi LAT boresight is 106 degrees.\n\nThe GBM light curve consists of two emission episodes with multiple spikes \nfor a duration (T90) of about 255.5 s (50-300 keV). The time-averaged spectrum\nfrom T0-4 to T0+300 s is best fit by\na Band function with Epeak = 297 +/- 14 keV,\nalpha = -0.98 +/- 0.02, and beta = -2.6 +/- 0.2.\n\nThe event fluence (10-1000 keV) in this time interval is\n(9.2 +/- 0.1)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+44 s in the 10-1000 keV band is 17.6 +/- 0.4 ph/s/cm^2.\n\nA power law function with an exponential high-energy cutoff fits the spectrum \nequally well with Epeak= 314 +/- 11 keV, and alpha = -0.99 +/- 0.02.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

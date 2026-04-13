@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT upper limits for GRB 071117",
+  "eventId": "GRB 071117",
+  "bibcode": "2007GCN..7112....1O",
+  "createdOn": 1195477728000,
+  "circularId": 7112,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and T. N. Ukwatta (GSFC/GWU) report on behalf of \nthe Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 071117 (Ukwatta et al., GCN 7098)\n48 minutes after the BAT trigger, once the Earth had come out of observing\nconstraint. No new source is found in any of the UVOT observations in\neither single or co-added exposures at the position of s2 reported by\nBloom et al. (GCN 7110) or within the XRT error circle (Guidorzi et al., \nGCN 7103).\n\nThe following 3-sigma upper limits were determined at the position\nof the Gemini detection (RA=22:20:10.42, DEC=-63:26:35.5, J2000 ):\n\nFilter  Tstart   Tend    Exp       Magnitude\n          (s)     (s)     (s)      (3-sigma UL)\n-------------------------------------------------\nv      2960     44497   1608        >21.2\nwhite  2852     62512   1812        >22.9\nb      3779     61600   3125        >22.5\nu      3574     56599   3075        >22.2\nuvw1   3369     55834   4154        >22.4\nuvm2   3164     32613   2368        >21.8\nuvw2   4190     62783   2227        >22.1\n-------------------------------------------------\nThe values quoted above are not corrected for the expected Galactic \nextinction corresponding to a reddening of E(B-V) =\n0.024 mag in the direction of the GRB (Schlegel et al. 1998)."
+}

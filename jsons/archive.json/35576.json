@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240118C: Fermi GBM Final Localization",
+  "eventId": "GRB 240118C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35576....1S",
+  "createdOn": 1705673365337,
+  "circularId": 35576,
+  "submitter": "rachel.hamburg@ijclab.in2p3.fr",
+  "body": "V. Sharma (NASA-GSFC/UMBC) and R. Hamburg (CNRS/IN2P3) report on behalf of the Fermi Gamma-ray Burst Monitor Team:\n\nAt 17:23:23.93 UT on 18 January 2024, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 240118C (trigger 727291408/240118725).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 305.33, Dec = -12.39 (J2000 degrees, equivalent to J2000 20h 21m, 12d 23'), with a statistical uncertainty of 1.8 degrees.\n\nThe angle from the Fermi LAT boresight is 90.00 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240118725/quicklook/glg_skymap_all_bn240118725.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240118725/quicklook/glg_healpix_all_bn240118725.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240118725/quicklook/glg_lc_medres34_bn240118725.gif"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120807A: Fermi/LAT upper limit",
+  "eventId": "GRB 120807A",
+  "bibcode": "2012GCN.13608....1Z",
+  "createdOn": 1344376853000,
+  "circularId": 13608,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "Weikang Zheng and Carl Akerlof (Umich), report on behalf of the ROTSE\ncollaboration:\n\nWe analyzed Fermi/LAT data of GRB 120807A (Marshall et al., GCN 13602)\nas a follow-up of routine search in Swift trigger catalogs in our LAT\ndata processing pipeline using both the matched filter technique\n(Akerlof et al. 2010, ApJ, 725, L15; 2011 ApJ, 726, 22; 2012,\narXiv:1205.3066; Zheng et al. 2012, ApJ 745,72; 2012, arXiv:1203.5113)\nand likelihood method. We do NOT detect high energy photon emission from\nboth methods by using a standard data selection (with Energy above 100\nMeV) in 47.5s duration.\n\nThe burst location was about 50 degree from the LAT boresight, and the\nzenith angle was about 96 degrees at trigger time. This location is very\nclose to Galactic plane (gb = 333.3 and gb= 3.6 degree).\n\nUsing the likelihood method, we estimated the upper limit in LAT energy\nrange (0.1 - 10 GeV) is 1.27e-05 (photons cm^-2 s^-1) by assuming a\nspectral index of -2.2.\n\nThe pipeline result is given in the following link:\nhttp://rotse.net/LAT/SwiftTriggers/366016180/"
+}

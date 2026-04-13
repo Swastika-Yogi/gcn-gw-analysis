@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170403A: Fermi GBM observation",
+  "eventId": "GRB 170403A",
+  "bibcode": "2017GCN.20975....1R",
+  "createdOn": 1491262643000,
+  "circularId": 20975,
+  "submitter": "Oliver J Roberts at USRA/NASA  <oliver.roberts@nasa.gov>",
+  "email": "oliver.roberts@nasa.gov",
+  "body": "O.J. Roberts (USRA/NASA) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 13:59:17.80 UT on the 3rd of April 2017, the\nFermi Gamma-Ray Burst Monitor triggered and\nlocated GRB 170403A (trigger 512920762 / 170403583).\nThe on-ground calculated location using the GBM\ntrigger data is,\n\nRA = 267.08, DEC = +14.53 (J2000 degrees)\n\nwith an uncertainty of 7.16 degrees (radius, 1-sigma\ncontainment, statistical only; there is additionally\na systematic error which we have characterized as a\ncore-plus-tail model, with 90% of GRBs having a 3.7 deg.\nerror and a small tail suffering a larger than 10 deg.\nsystematic error [Connaughton et al. 2015, ApJS, 216, 32]).\n\nThe angle from the Fermi LAT boresight at the GBM trigger\ntime is 88 degrees.\n\nThe GBM light curve consists of a short, bright GRB with\nemission over a duration (T90) of about 1s\n(50-300 keV). The time-averaged spectrum from T0-0.096 s to\nT0+0.384 s is best fit by a power law function with an\nexponential high-energy cutoff.  The power law index is\n-1.01 +/- 0.14 and the cutoff energy, parameterized as\nEpeak is 470 +/- 163 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(3.9 +/- 0.2)E-07 erg/cm^2. The 64 ms peak photon flux\nmeasured starting from T0+0 s in the 10-1000 keV band\nis 16.6 +/- 1.5 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

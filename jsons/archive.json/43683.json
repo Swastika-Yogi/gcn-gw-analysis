@@ -1,0 +1,11 @@
+{
+  "subject": "EP260210a: SVOM/C-GFT upper limit",
+  "eventId": "EP260210a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43683....1K",
+  "createdOn": 1770730522147,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 43683,
+  "format": "text/markdown",
+  "body": "Z. Kang (CHO), C. Wu, L.P. Xin, X.H. Han, P.P. Zhang, X.M. Lu (NAOC), Z.W. Li, Y. Lv (CHO), R.S. Zhang, Y.J. Xiao, Y.L. Qiu, J. Wang, J.S. Deng, L. Huang, J.Y. Wei (NAOC)  report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of  EP260210a detected by EP/WXT (Shi et al., GCN 43681) with LATIOS on SVOM/C-GFT. Observations started at 2026-02-10T10:32:54 UTC, ~ 9.88 min after the trigger. \n\nWe obtained g, r, and i-band follow-up imaging.  After preliminary analysis，no credible candidate was detected within the error box provided by EP/FXT (Shi et al., GCN 43681) in our images. The 3-sigma upper limits are: \n\n| Mid_T - T0 (min) | Exposure Time (s) | Band | Upper Limit (AB) |\n|------------------|---------------------|------|------------------|\n| 36.13          | 10×60               | i    | 20.02            |\n| 47.01          | 10×60               | g    | 20.15            |\n| 59.39          | 10×60               | r    | 20.23            |\n\n\nThe photometry was calibrated against  UCAC4 catalogue and no correction for Galactic dust extinction was applied.\n\nWe thank the observation assistants Chun-Lei Guo and Yin-Huai Hao at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

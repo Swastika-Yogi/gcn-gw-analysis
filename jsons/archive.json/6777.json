@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070911: Swift detection of a burst",
+  "eventId": "GRB 070911",
+  "bibcode": "2007GCN..6777....1K",
+  "createdOn": 1189491620000,
+  "circularId": 6777,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "H. A. Krimm (GSFC/USRA), C. B. Markwardt (CRESST/GSFC/UMD),\nK. L. Page (U Leicester), D. M. Palmer (LANL) and\nM. Stamatikos (NASA/ORAU) report on behalf of the Swift Team:\n\nAt 05:57:44 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 070911 (trigger=290624).  Swift automatic slews are\ncurrently disabled, as we are currently recovering from a safehold. \nThe BAT on-board calculated location is \nRA, Dec 25.799, -33.473 which is \n   RA(J2000) = 01h 43m 12s\n   Dec(J2000) = -33d 28' 21\"\nwith an uncertainty of 4 arcmin (radius, 90% containment, including \nsystematic uncertainty, however there is an uncalibrated boresight\nshift due to operations with a different set of gyros than we have\nused previously).  The BAT light curve showed a complex multi-peaked\nstructure with a duration of about 150 sec.  The peak count rate\nwas ~8000 counts/sec (15-350 keV), at ~36 sec after the trigger. \n\nBecause we are in the process of resuming normal operations,\nthere is no automatic follow-up observation by\nthe XRT and UVOT. \n\nBurst Advocate for this burst is H. A. Krimm (krimm AT milkyway.gsfc.nasa.gov). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/too.html.)"
+}

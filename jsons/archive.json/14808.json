@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 130606A",
+  "eventId": "GRB 130606A",
+  "bibcode": "2013GCN.14808....1G",
+  "createdOn": 1370614181000,
+  "circularId": 14808,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam report:\n\nThe long GRB 130606A (Swift-BAT trigger #557589: Ukwatta et al., GCN\n14781) was detected by Konus-Wind in the waiting mode.\n\nThe burst light curve shows a weak initial pulse followed in ~150 s by a \nmuch brighter peak.\n\nAs observed by Konus-Wind, the burst had a fluence of (4.4 +/- \n0.8)x10^-6 erg/cm2 (in the 20 - 1300 keV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum (from T0(BAT)+153 s \nto T0(BAT)+165 s) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.14 +/- 0.15, and Ep = 294(-50,+90) keV.\n\nAssuming z = 5.91 (Castro-Tirado et al., GCN 14796; Chornock et al. GCN \n14798) and a standard cosmology model with H_0 = 71 km/s/Mpc, Omega_M = \n0.27, Omega_Lambda = 0.73, the isotropic energy release is E_iso =\n(2.83 +/- 0.52)x10^53 erg in 1 keV to 10 MeV at the GRB rest frame\nextrapolating the best exponential cutoff function fit.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB130606A/"
+}

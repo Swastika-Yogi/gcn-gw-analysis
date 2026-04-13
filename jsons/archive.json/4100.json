@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051016: Swift XRT refined analysis.",
+  "eventId": "GRB 051016",
+  "bibcode": "2005GCN..4100....1B",
+  "createdOn": 1129475580000,
+  "circularId": 4100,
+  "submitter": "Andy Beardmore at U Leicester  <apb@star.le.ac.uk>",
+  "email": "apb@star.le.ac.uk",
+  "body": "A. Beardmore (U. Leicester), D. Burrows, J. Kennea (PSU),\nN. Gehrels (GSFC) report on behalf of the Swift XRT team:\n\nWe have analysed the first two orbits of data from the Swift XRT\nobservation of GRB051016 (Boyd et al., GCN4096). The refined ground\nprocessed coordinates are :\n\n RA(J2000)  =  08h 11m 16.3s\n Dec(J2000) = -18d 17m 56.3s\n\nwith an estimated uncertainty of 8 arcsecs radius (90% containment).\nThis is 7.1 arcsecs awsy from the XRT position reported in Boyd et al.\n\nThe XRT light curve from this interval shows a steep initial decline,\nfollowed by a break to a shallower decay slope. A broken power-law fit\nto the light curve gives parameters :\n\nalpha_1 = 4.8 +0.5-0.4\nt_break = 247 +/- 15s\nalpha_2 = 0.7 +/- 0.1.\n\nThe Windowed Timing (WT) and Photon Counting mode spectra from the first\ntwo orbits can be fit with an absorbed power-law with a photon index of\n3.14+/-0.45 and a column density of 4.5+/-1.5 E21 cm-2, which is slightly\nin excess of the Galactic column density of 1.19E+21 cm-2 in this\ndirection. The observed 0.2-10 keV flux for the WT data (exposure time\n22.2s, centered at T+130s) was 1.31E-10 ergs cm**-2 s**-1, corresponding\nto an unabsorbed flux of 9.98E-10 ergs cm**-2 s**-1.\n\nAssuming the X-ray emission from the GRB continues to decline at the\nsame rate, the predicted XRT count rate at T+24hrs is 0.0036 counts/s,\nwhich  corresponds to  an observed  0.2-10 keV  flux  of 1.1e-13\nergs cm**-2 s**-1."
+}

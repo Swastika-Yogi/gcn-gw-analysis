@@ -1,0 +1,10 @@
+{
+  "subject": "GRB110102A: Swift/UVOT observations",
+  "eventId": "GRB 110102A",
+  "bibcode": "2011GCN.11514....1O",
+  "createdOn": 1294058476000,
+  "circularId": 11514,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and M. De Pasquale (MSSL-UCL) report on behalf  \nof the Swift-UVOT team\n\nThe Swift/UVOT began settled observations of the field of GRB 110102A\n156 s after the BAT trigger (Oates et al., GCN Circ. 11509). The optical\nafterglow is detected in the white, v, b and u filters at a refined UVO\nposition RA(J2000)= 245.88087 deg, DEC(J2000) = 7.61383, which is:\n\n  RA (J2000) =   16:23:31.41\n  Dec (J2000) = +07:36:49.8\n\nwith an estimated uncertainty of 0.5 arcsec (radius, 90% confidence).\nThis position is consistent with the enhanced XRT position (Goad et  \nal., GCN Circ. 11510).\nThe detection in u suggests a redshift of <2.5.\n\nPreliminary magnitudes using the UVOT photometric system (Poole et al.  \n2008,\nMNRAS, 383, 627) for single and summed exposures are:\n\nFilter  T_start(s)  T_stop(s)   Exp(s)       Mag/3sigUL\n#####################################################\nwh (FC) 156          306        147       17.97 +/- 0.06\nwh          868          1018      147       18.39 +/- 0.08\nu  (FC)   314          564        246       17.98 +/- 0.09\nu             1122       1315      39          18.89 +/- 0.62\nv             816          835        19          17.86 +/- 0.53\nb             597          589        19          17.60 +/- 0.20\nuvw1      693         6331      452        > 20.09\nuvm2      668         6126      292        > 19.87\nuvw2      619         7152      471        > 20.35\n#####################################################\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.08 in the direction of the burst\n(Schlegel et al. 1998)."
+}

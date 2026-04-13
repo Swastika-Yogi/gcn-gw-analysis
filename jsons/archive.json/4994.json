@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060421: Swift/UVOT observations",
+  "eventId": "GRB 060421",
+  "bibcode": "2006GCN..4994....1B",
+  "createdOn": 1145639053000,
+  "circularId": 4994,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU), M. R. Goad (U Leicester),\nS. T. Holland (GSFC/USRA), & P. O'Brien (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began taking settled exposures of the\nfield of GRB0604213 at 2006-04-21 00:40:48,\n84 s after the BAT trigger (Goad et al., GCN 4985).\nWithin the revised XRT error circle (Goad, Page,\n& Burrows GCN 4992) we detect a V=19.0 +/- 0.2 source at\n22:54:32.18, +62:43:49.5 (+/- 1\") which is coincident\nwith 2MASS 22543217+6243493 and also visible in the\nDSS.  This source does not vary over ~5 hours of\nobservations and is not considered an afterglow\ncandidate.\n\nWe do not detect this or any other sources in\nsummed images from any of the other filters down\nto the following three-sigma upper limits.\n\nFilter  T_range(s)  Exp(s) 3sig_UL\n\nV        84-17355   1700   19.0\nB       562-23873   1116   20.6\nU       538-23145   2035   20.5\nUVW1    514-22233   2204   20.2\nUVM2    490-18091   2074   20.4\nUVW2    578-16442   1318   20.2\n\nThese upper limits are uncorrected for extinction.\nThe Galactic latitude is +2.83 degrees and the\nSchlegel et al. (1998) reddening in this direction\nis E(B-V)=1.28 mag.  As noted in GCN 4985 the\nCepheus OB3 molecular cloud association in our Galaxy\nis near this line of sight."
+}

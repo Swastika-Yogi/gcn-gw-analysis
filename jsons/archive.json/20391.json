@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 730874 is not astrophysical",
+  "bibcode": "2017GCN.20391....1B",
+  "createdOn": 1483798308000,
+  "circularId": 20391,
+  "submitter": "Boris Sbarufatti at INAF-OAB/IASFPA  <boris.sbarufatti@brera.inaf.it>",
+  "email": "boris.sbarufatti@brera.inaf.it",
+  "body": "S. D. Barthelmy (GSFC), P. D'Avanzo (INAF-OAB), J. A. Kennea (PSU),\nA. Y. Lien (GSFC/UMBC) and B. Sbarufatti (INAF-OAB/PSU) report on\nbehalf of the Swift Team:\n\nAt 13:37:25 UT, the Swift Burst Alert Telescope (BAT) detected a\npeak in an image at a location near to the known source NGC 1023 \n(trigger=730874).  Swift slewed immediately to the location. \nThe BAT on-board calculated location is \nRA, Dec 40.038, +39.132 which is \n   RA(J2000) = 02h 40m 09s\n   Dec(J2000) = +39d 07' 57\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed no obvious structure,\nas usual to an image trigger. \n\nThe XRT began observing the field at 13:39:27.2 UT, 121.7 seconds after\nthe BAT trigger. No source was detected in 1.2 ks of promptly\ndownlinked data. \n\nUVOT took a finding chart exposure of 150 seconds with the White filter\nstarting 125 seconds after the BAT trigger. No credible afterglow candidate has\nbeen found in the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle. The typical 3-sigma upper limit has been about 19.6 mag. \nThe 8'x8' region for the list of sources generated on-board covers 100% of the\nBAT error circle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the expected extinction corresponding to E(B-V) of\n0.06. \n\nGiven that this is a low significance detection in BAT (5.9 sigma) and that there is\nno XRT source, we think this is a non-astrophysical fluctuation in the BAT image\nthat happens to be close the NGC1023 source."
+}

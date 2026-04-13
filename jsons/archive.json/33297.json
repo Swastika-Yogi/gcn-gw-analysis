@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF23aabmzlp/AT2023azs: Neil Gehrels Swift Observatory X-ray observations",
+  "eventId": "ZTF23aabmzlp",
+  "bibcode": "2023GCN.33297....1A",
+  "createdOn": 1675782872000,
+  "circularId": 33297,
+  "submitter": "Igor Andreoni at JSI  <igor.andreoni@gmail.com>",
+  "email": "igor.andreoni@gmail.com",
+  "body": "Igor Andreoni (JSI/UMD/NASA-GSFC) reports on behalf of a larger\ncollaboration\n\n\nFollow-up observations of the optical fast transient ZTF23aabmzlp/AT2023azs\n(Andreoni et al., GCN #33229, AstroNote 2023-21) were carried out with the\nNeil Gehrels Swift Observatory starting on 2023-01-29 09:54 UT. The total\nexposure time on target was 1.9ks.\n\nA faint source is tentatively detected in Swift XRT data at the location of\nZTF23aabmzlp/AT2023azs in the 0.3-10 keV energy range. The source has a\nbackground-subtracted count rate of (2.5 +- 1.1) * 10^(-3) ct/s, which was\nobtained using an aperture with a radius of 18 arcsec.\n\nUsing WebPIMMS [1], we converted the count rate to flux assuming a\npowerlaw model with a photon index of 2 and Galactic NH of 9.85E19 cm^(-2)\n[2]. The resulting flux in the 0.3-10 keV band is (8.6 +- 3.8) * 10^(-14)\nerg/s/cm^2.\n\nThe possible detection of an X-ray counterpart and the detection of a radio\ncounterpart with VLA (Perley et al., GCN #33253) further suggest that the\nfast optical transient ZTF23aabmzlp/AT2023azs is a cosmological afterglow.\n\n\nWe thank the Swift team for approving and scheduling ToO observations of\nthis source (target ID 15860).\n\n[1] https://heasarc.gsfc.nasa.gov/cgi-bin/Tools/w3pimms/w3pimms.pl\n[2] HI4PI Collaboration, N. Ben Bekhti, L. Floer, et al., 2016, Astronomy &\nAstrophysics, 594, A116 (HI4PI Map)."
+}

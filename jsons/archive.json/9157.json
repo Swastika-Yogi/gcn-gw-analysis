@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090418: Swift-BAT refined analysis",
+  "eventId": "GRB 090418",
+  "bibcode": "2009GCN..9157....1F",
+  "createdOn": 1240077273000,
+  "circularId": 9157,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "E. E. Fenimore (LANL), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC/UMD), V. Mangano (INAF-IASFPA), D. M. Palmer (LANL),\nA. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+705 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 090418 (trigger #349510)\n(Mangano, et al., GCN Circ. 9149).  The BAT ground-calculated position is\nRA, Dec = 269.320, 33.407 deg, which is \n   RA(J2000)  =  17h 57m 16.8s \n   Dec(J2000) = +33d 24' 24.4\" \nwith an uncertainty of 1.4 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 31%.\n \nThe mask-weighted light curve shows two clusters of peaks.  The first\nstarts at ~T-8 sec, peaks at ~T+1 sec, and reaches a minimum at T+15 sec.\nThe second cluster peaks at around T+40 sec and returns to background\nat ~T+70 sec.  T90 (15-350 keV) is 56 +- 5 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-8.5 to T+61.1 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.48 +- 0.07.  The fluence in the 15-150 keV band is 4.6 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.06 sec in the 15-150 keV band\nis 1.9 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/349510/BA/"
+}

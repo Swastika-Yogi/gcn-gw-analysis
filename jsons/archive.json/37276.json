@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240825A: Skynet Optical Afterglow observations",
+  "eventId": "GRB 240825A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37276....1D",
+  "createdOn": 1724605112214,
+  "circularId": 37276,
+  "submitter": "Dylan Dutton at UNC Chapel Hill <ddutton59@gmail.com>",
+  "format": "text/plain",
+  "body": "Dylan Dutton, Megan Dubay, Donovan Schlekat, Ruide Fu, Daniel Reichart, Joshua Haislip, Vladimir Kouprianov, John Kennewall, Arie Veever, and Daryl Janzen report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 240825A with the PROMPT telescope located in Meckering, Australia. The observation began at 15:55:45 UT on August 25 2024, roughly 150 seconds post-trigger by the Swift-BAT instrument.\n\nWe detect a bright object with coordinates consistent with the Swift UVOT candidate (GCN 37274) at:\nR.A. (J2000): 22:58:17.287\nDec. (J2000): 01:01:37.121\n\nThe object is fading with a temporal index of roughly 1.1 and appears to be very red. We detect the object in the V, R, and I band. The initial I-band detection photometry is reported below.\n\nTmid - T0 | Telescope | Filter | Exposure Duration | Mag\t | Mag Error \n360s      | PROMPT-MO | I      | 14s\t           | 14.955      | 0.035\n\nOur images have been calibrated using stars from the APASS catalog. Additional Skynet observations are ongoing."
+}

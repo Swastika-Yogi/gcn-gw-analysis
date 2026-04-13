@@ -1,0 +1,10 @@
+{
+  "subject": "GRB041219b: A Swift-BAT burst",
+  "eventId": "GRB 041219B",
+  "bibcode": "2004GCN..2883....1C",
+  "createdOn": 1103528228000,
+  "circularId": 2883,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. Cummings, L. Barbier, S. Barthelmy (GSFC), M. Chester (PSU),\nE. Fenimore (LANL), N. Gehrels (GSFC), P. Giommi (ASDC),\nM. Goad (U.Leicester), D. Hullinger (UMD), K. Hurley (UCB),\nH. Krimm (USRA), C. Markwardt (UMD), K. McLean (LANL), D. Palmer (LANL),\nA. Parsons (GSFC), G. Sato (ISAS), M. Suzuki (Saitama), J. Tueller (GSFC) \non behalf of the Swift BAT team.\n\nAt 15:38:48 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB041219b.  The spacecraft did not autonomously slew\nto the burst since automated slewing is not yet enabled.  Automated\nnotification through TDRSS is also disabled during this early commissioning\nphase of the mission.\n\nThe ground-calculated location is RA,Dec 167.674,-33.458 (J2000)\nwith an uncertainty of 12 arcmin (radius, including a large systematic\nuncertainty due to the lack of an on-orbit bore-sight alignment calibration).\nThis is ~25 degrees off the BAT bore sight and is ~90% encoded.  It was \na 82 sigma detection.\n\nThe burst lightcurve has one strong peak (width ~5 sec) of 10 events/cm^2/sec\nin the ~15 to 200 keV band.  It is preceded by one small peak and followed\nby two small peaks.  The total duration was 30 sec."
+}

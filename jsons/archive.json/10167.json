@@ -1,0 +1,10 @@
+{
+  "subject": "GRB091111: Swift XRT refined analysis",
+  "eventId": "GRB 091111",
+  "bibcode": "2009GCN.10167....1M",
+  "createdOn": 1258121946000,
+  "circularId": 10167,
+  "submitter": "Vanessa Mangano at INAF-IASFPA  <vanessa@ifc.inaf.it>",
+  "email": "vanessa@ifc.inaf.it",
+  "body": "V. Mangano, B. Sbarufatti (INAF-IASF PA),\nH. A. Krimm (CRESST/GSFC/USRA) and D. M. Palmer (LANL)\nreport on behalf of the Swift-XRT team:\n\nThe INTEGRAL burst GRB091111 (Gotz et al. GCN Circ. 10159)\nhas been observed by Swift on 2009 11 12 with a 5 ks ToO started\nat 19:00 UT (trigger 020120).\nWe have analysed 5.4 ks of XRT data in PC mode, from 100361 s\nto 115.3 ks after the INTEGRAL trigger.\n\nAn X-ray source is detected at\nRA, Dec 137.82427, -45.92541 which is equivalent to:\n   RA(J2000)  = 09h 11m 17.82s\n   Dec(J2000) = -45d 55' 31.5\"\nwith an uncertainty of 5.1 arcseconds (radius, 90% containment).\n\nThe light curve is probably decaying but more data are needed\nto estimate the decay slope.\n\nA spectrum formed from the PC mode data (30 counts within a\ncircular region of 15 pixel radius) can be fitted with an absorbed\npower-law with a photon spectral index of 2.5 (+5, -3.4)\nThe best-fitting absorption column is < 5 x 10^22 cm-2, consistent\nwith the Galactic value of 6.2 x 10^21 cm-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 7.0 x 10^-11 (2.7 x 10^-10) erg\ncm^-2 count^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00020120.\n\nAt the time of GRB 091111, the Swift/BAT was active, sensitive and pointing\nsuch that the burst was in the BAT field of view with 25% mask coding.\nThere is no count rate increase detected in any of the four BAT energy bands\n\nThis circular is an official product of the Swift-XRT team.\n\n[GCN OPS NOTE(30dec12): In response to S.Mereghetti's communication,\nthis Subject-line was changed from \"09111\" to \"091111\".]"
+}

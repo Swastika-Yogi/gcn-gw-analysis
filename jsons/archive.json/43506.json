@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260120B: SVOM/GRM observation",
+  "eventId": "GRB 260120B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43506....1S",
+  "createdOn": 1769183840604,
+  "submitter": "renyz16607@163.com",
+  "circularId": 43506,
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Yang-Zhao Ren, Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Sebastien Guillot(IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered on-ground by GRB 260120B at 2026-01-20T18:00:26.200 UTC (T0), which is also detected by Fermi/GBM (Fermi GBM Team, GCN #43477) and Swift/BAT (Ferro et al., GCN #43479).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of a pulse with a T90 of 8.5 +5.0/-3.5 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb260120B.png\n\nIn addition, the position of this burst, as determined by Swift/BAT (RA = 284.666, Dec = 61.912, GCN #43479), is located at about 89 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view.\n\nWith this localization, the time-averaged spectrum from T0 to T0+5 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.16 +0.16/-0.18 and the cutoff energy, parameterized as Epeak, is 307 +106/-62 keV. The event fluence (10-1000 keV) in this time interval is (3.78 +0.32/-0.33)E-06 erg/cm^2. \n\nThe localization of GRB 260120B in the 'Amati' relation diagram is shown at: \nhttps://www.bursthub.cn//admin/static/svgrb260120B_amati.png\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM point of contact for this burst is: Yang-Zhao Ren (IHEP)(renyz@ihep.ac.cn)"
+}

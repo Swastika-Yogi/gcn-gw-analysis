@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 886266: Another Swift trigger on MAXI J1348-630",
+  "bibcode": "2019GCN.23801....1P",
+  "createdOn": 1548685551000,
+  "circularId": 23801,
+  "submitter": "Aaron Tohuvavohu at PSU/Swift  <aaronb@swift.psu.edu>",
+  "email": "aaronb@swift.psu.edu",
+  "body": "K. L. Page (U Leicester), B. Sbarufatti (PSU) and A. Tohuvavohu (PSU)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 13:54:09 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated MAXI J1348-630 (trigger=886266).  Swift slewed immediately to the target. \nThe BAT on-board calculated location is \nRA, Dec 207.045, -63.265 which is \n   RA(J2000) = 13h 48m 11s\n   Dec(J2000) = -63d 15' 54\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty). As is normal for an image trigger, the \nlight-curve showed no significant structure. \n\nThe XRT began observing the field at 13:56:25.2 UT, 135.5 seconds after\nthe BAT trigger. XRT found a bright X-ray source located\nat RA, Dec 207.0563, -63.2742 which is equivalent to:\n   RA(J2000)  = 13h 48m 13.51s\n   Dec(J2000) = -63d 16' 27.1\"\nwith an uncertainty of 5.9 arcseconds (radius, 90% containment). No\nevent data are yet available to determine the column density using\nX-ray spectroscopy. \n\nThe initial flux in the 0.1 s image was 1.82e-08 erg cm^-2 s^-1 (0.2-10\nkeV). \n\nUVOT took a finding chart exposure of\t5 seconds with the White filter\nstarting 143 seconds after the BAT trigger. There is a candidate afterglow in\nthe rapidly available 2.7'x2.7' sub-image at\n  RA(J2000)  =\t13:48:12.86 = 207.05359\n  DEC(J2000) = -63:16:28.5  = -63.27459\nwith a 90%-confidence error radius of about 0.69 arc sec. This position is 4.6\narc sec. from the center of the XRT error circle. The estimated magnitude is\n16.60 with a 1-sigma error of about  0.18. No correction has been made for the\nlarge, but uncertain, extinction expected."
+}

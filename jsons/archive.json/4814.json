@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060223: Swift/UVOT Confirmation of Optical Afterglow",
+  "eventId": "GRB 060223",
+  "bibcode": "2006GCN..4814....1M",
+  "createdOn": 1140682112000,
+  "circularId": 4814,
+  "submitter": "Padi Boyd at GSFC  <padi@milkyway.gsfc.nasa.gov>",
+  "email": "padi@milkyway.gsfc.nasa.gov",
+  "body": "F. Marshall (GSFC) P. Boyd (GSFC), M. Chester (PSU), J. Cummings (ORAU)\non behalf of the Swift/UVOT team report:\n\nWe have further analyzed the four individual finding chart sub-images\nsent via TDRSS from the Swift UVOT containing the afterglow of\nGRB 060223 (Cummings et al., GCN 4813).\n\nThe source is detected in the first 3 finding charts with an\nupper limit in the fourth finding chart as follows:\n\n\nFilter  T_start(s)      Exp(s)  (mag/UL (detection significance))\n\nV       86              200     18.0 +/- 0.14 (10 sigma)\nB       293             200     21.0     0.5  (2.5 sigma)\nV       835             200     19.6     0.4  (3.5 sigma)\nB       1042            200    >21.3          (2 sigma)\n\nReported times are in seconds since the BAT trigger.\nThese magnitudes are uncorrected for the expected\nGalactic extinction corresponding to E(B-V) = 0.12.\n\nWe note that the higher than expected B-V inferred from the first\nthree images could be caused by a redshift of z=3.3 or greater."
+}

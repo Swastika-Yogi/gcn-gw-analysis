@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observations of GRB 090827",
+  "eventId": "GRB 090827",
+  "bibcode": "2009GCN..9848....1G",
+  "createdOn": 1251645792000,
+  "circularId": 9848,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, E. Mazets, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long GRB 090827 (Cummings et al., GCN 9846)\ntriggered Konus-Wind at T0=68787.702 s UT (19:06:27.702)\n\nThe burst time profile had a FRED-like structure with a duration of ~8 s.\nThe Konus-Wind light curves of this GRB are available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB090827_T68787/\n\nAs observed by Konus-Wind the burst had\na fluence of 3.0(-0.5,+0.6)x10-6 erg/cm2, and\na 256-ms peak flux, measured from T0-0.256,\nof 1.7(-0.5,+0.7)x10-6 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst (from T0 to T0+8.848 s)\nis well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.6(-0.45,+0.58),\nand  Ep = 200(-39,+69)keV (chi2 = 62/57 dof).\n\nFitting by the GRB (Band) model yields the same alpha and Ep\nvalues with the high energy photon index Beta of -9 (< -2.3)\n\nAll the quoted values are preliminary.\nAll the quoted errors are at the 90% confidence level."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 080602",
+  "eventId": "GRB 080602",
+  "bibcode": "2008GCN..7784....1G",
+  "createdOn": 1212425065000,
+  "circularId": 7784,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe second, most intense pulse of the GRB 080602 (Swift-BAT trigger \n#312958: Beardmore et al., GCN 7781) triggered Konus-Wind\nat T0=5486.229 s UT (01:31:26.229).\n\nAs observed by Konus-Wind the burst\nhad a fluence of 7.92(-1.45, +1.47)x10^-6 erg/cm2,\nand a 256-ms peak flux measured from T0+1.280 s\nof (1.92 +/- 0.58)x10^-6 erg/cm2/s\n(both in the 20 keV - 1 MeV energy range).\n\nThe spectrum of the most intense part\n(from T0 to T0+8.448 s) is well fitted (in the 20 keV-1 MeV range)\nby a simple power law with the photon index of 1.48(-0.17, +0.18) (chi2 \n= 39.7/53 dof). We note that because of the derived photon index is <2,\nthe fluence is very sensitive to the upper boundary of the energy range.\nFitting by a power law with exponential cutoff model:\ndN/dE ~ (E^-alpha)*exp(-E*(2-alpha)/Ep)\nyields alpha = 0.96(-0.76, +0.52),\nand only a lower limit on the peak energy: Ep > 226 keV\n(chi2 = 36.6/52 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB080602_T05486/"
+}

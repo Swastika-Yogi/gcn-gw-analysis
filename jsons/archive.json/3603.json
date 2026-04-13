@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050713B :Swift/UVOT observations",
+  "eventId": "GRB 050713B",
+  "bibcode": "2005GCN..3603....1R",
+  "createdOn": 1121293024000,
+  "circularId": 3603,
+  "submitter": "Simon Rosen at MSSL-UCL  <srr@mssl.ucl.ac.uk>",
+  "email": "srr@mssl.ucl.ac.uk",
+  "body": "S. Rosen (MSSL), S. Vaughan (Leicester), R. Fink\n(GSFC-SPSYS), M. Chester (PSU) report on behalf of\nthe Swift UVOT team:\n\nUsing summed images from Swift/UVOT of the field of\nGRB 050713B, taken from 136 seconds after the BAT\ntrigger, no new source is detected within the XRT\nerror circle (Vaughan et al., GCN 3590) in any of\nthe six filters down to the following 3-sigma\nmagnitude upper limits:\n\nFilter   Exposure (s)  T_mid (s)   3-sig limit\nV        252           598         19.26\nB         88           624         19.58\nU         88           610         19.31\nUVW1      88           596         19.46\nUVM2      88           582         19.83\nUVW2      88           639         19.87\n\nwhere T_mid is the mid-point of the summed observation.\n\nWe caution that the instrument is not yet fully\ncalibrated and that the magnitude limits presented here\nmay need to be refined."
+}

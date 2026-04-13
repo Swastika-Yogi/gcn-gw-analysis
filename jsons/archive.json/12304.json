@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT refined analysis of SFXT IGR J08408-4503 (trigger 501368)",
+  "bibcode": "2011GCN.12304....1B",
+  "createdOn": 1314277087000,
+  "circularId": 12304,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+2700 sec from recent telemetry downlinks,\nwe report further analysis of BAT trigger #501368 on SFXT IGR J08408-4503.\nThe BAT ground-calculated position is RA, Dec = 130.189, -45.120 deg, which is \n   RA(J2000)  =  08h 40m 45.5s \n   Dec(J2000) = -45d 07' 13.2\" \nwith an uncertainty of 2.8 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 61%.\n \nThe mask-weighted light curve shows emission from this source when the position\ncame in to the BAT FoV during a planned slew at T-120 sec.  The flux showed\na mostly linear decay to half the initial observed value out to ~T+900 sec\nwhen it started to increase, peaking at ~T+1500 sec, and returning to zero\naround T+2500 sec.  Any activity beyond this time is not known at this time.\n \nThe time-averaged spectrum from T+0.0 to T+64.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.56 +- 0.50.  The fluence in the 15-150 keV band is 2.9 +- 0.9 x 10^-07 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.00 sec in the 15-150 keV band\nis 0.1 +- 0.0 ph/cm2/sec.  The emission was soft throughout the 2700 sec\nof BAT observations.  All the quoted errors are at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/501368/BA/"
+}

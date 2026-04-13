@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250917B: Swift detection of a short burst",
+  "eventId": "GRB 250917B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41848....1C",
+  "createdOn": 1758091694165,
+  "circularId": 41848,
+  "submitter": "K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "body": "R. Caputo (GSFC), C. Gronwall (PSU) and K. L. Page (U Leicester)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 06:27:44 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 250917B (trigger=1350381).  Swift slewed immediately to the burst.\nThe BAT on-board calculated location is \nRA, Dec 291.378, +11.113 which is \n   RA(J2000) = 19h 25m 31s\n   Dec(J2000) = +11d 06' 48\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a short, single peaked\nstructure with a duration of about 0.5 sec.  The peak count rate\nwas ~8000 counts/sec (15-350 keV), at ~0 sec after the trigger.\n\nThe XRT began observing the field at 06:29:58.5 UT, 134.2 seconds after\nthe BAT trigger. No source was detected in 681 s of promptly downlinked\ndata. We are waiting for the full dataset to detect and localise the\nXRT counterpart.\n\nUVOT took a finding chart exposure of 150 seconds with the White filter\nstarting 138 seconds after the BAT trigger. No credible afterglow candidate has\nbeen found in the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle. The typical 3-sigma upper limit has been about 19.6 mag.\nThe 8'x8' region for the list of sources generated on-board covers 100% of the\nBAT error circle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the large, but uncertain, extinction expected.\n\nBurst Advocate for this burst is R. Caputo (regina.caputo AT nasa.gov).\nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

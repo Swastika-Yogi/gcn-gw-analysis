@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250520A: Gemini-South optical afterglow detection",
+  "eventId": "GRB 250520A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40559....1R",
+  "createdOn": 1748406821640,
+  "submitter": "Wen-fai Fong at Northwestern University <wfong@northwestern.edu>",
+  "circularId": 40559,
+  "format": "text/plain",
+  "body": "Jillian Rastinejad, Wen-fai Fong (Northwestern), and Genevieve Schroeder (Cornell) report on behalf of a larger collaboration:\n\nWe re-observed the location of the short-duration GRB 250520A (Eyles-Ferris et al., GCN 40491) with the Gemini Multi-Object Spectrograph (GMOS) mounted on Gemini-South under Program GS-2025A-Q-112 (PI: Fong). We obtained 20x120-sec imaging in i-band starting at 2025-05-24 04:50:10.7 UT (4.1 days post-burst), at a median airmass of 1.3 and seeing of 0.6\".  Calibrated to Pan-STARRS DR2 (Flewelling et al., 2020, ApJS, 251, 7), we measure a 3-sigma limiting magnitude of 24.9 AB mag for the image.\n\nWe perform image subtraction between our GMOS i-band images observed at 1.06 hours (Rastinejad et al., GCN 40504) and at 4.1 days post-burst. We detect a clear residual coincident within the X-ray position (Goad et al., GCN 40494) and coincident with the radio afterglow position (Schroeder et al., GCNs 40518, 40545) at:\n\nR.A. = 18:49:08.58 (J2000)\nDecl. = -11:52:07.9 (J2000)\n\nwith an uncertainty of ~0.3\". We do not detect any other significant residuals within or around the XRT localization. Given its rapid fading and spatial coincidence with the X-ray and radio afterglows, we consider this source to be the optical afterglow of the short GRB 250520A. We note that this source is distinct from the optical candidate reported previously (e.g., Xin et al., GCN 40500). \n\nCalibrated to Pan-STARRS DR2, we measure a magnitude for the optical afterglow of i = 23.9 +/- 0.2 AB mag, uncorrected for high Galactic extinction (Schlafly and Finkbeiner 2011, ApJ, 737, 103), at 1.06 hours post-burst.\n\nWe thank the Gemini staff for the rapid scheduling and execution of these observations."
+}

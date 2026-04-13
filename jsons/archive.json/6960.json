@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 071020",
+  "eventId": "GRB 071020",
+  "bibcode": "2007GCN..6960....1G",
+  "createdOn": 1192973503000,
+  "circularId": 6960,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 071020 (Swift-BAT trigger #294835:\nHolland et al., GCN 6949, Tueller et al., GCN 6954) triggered\nKonus-Wind at T0=25346.637 s UT (07:02:26.637).\n\nThe burst light curve shows a multipeaked structure\nwith a duration of ~3.5 s.\nAs observed by Konus-Wind the burst\nhad a fluence of 7.71(-4.76, +0.39)x10^-6 erg/cm2,\nand a 64-ms peak flux measured from T0+2.416 s\nof 6.04(-3.88, +1.12)x10^-6 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+8.448 s) is well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 0.65(-0.32, +0.27)\nand Ep = 322(-53, +80) keV (chi2 = 64.4/61 dof).\nFitting by GRBM (Band) model yields only an upper limit\non the high energy photon index: beta < -1.97.\nAll the quoted errors are at the 90% confidence level.\n\nAssuming z = 2.145 (Jakobsson et al., GCN 6952)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.3, Omega_\\Lambda = 0.7,\nthe isotropic bolometric energy release is E_iso ~8x10^52 erg, and\nthe maximum bolometric luminosity is (L_iso)_max ~2x10^53 erg/s.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB071020_T25346/"
+}

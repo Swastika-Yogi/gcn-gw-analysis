@@ -1,0 +1,14 @@
+{
+  "editedOn": 1720111710723,
+  "subject": "Konus-Wind detection of GRB 240703A (a counterpart of EP240703a)",
+  "version": 2,
+  "eventId": "GRB 240703A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36809....1F",
+  "createdOn": 1720014480000,
+  "editedBy": "Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov> on behalf of Dmitry Frederiks at Ioffe Institute <ddfrederiks@gmail.com>",
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 36809,
+  "format": "text/plain",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nA long-duration GRB 240703A was detected by Konus-Wind (KW)\nin the waiting mode at ~00:38:32 UT.\nThe burst source is located in the northern ecliptic hemisphere.\n\nCorrected for the propagation time, the burst was detected\n~2 s before the start time of the fast X-ray transient EP240703a\n(T0=T0(EP)=00:38:40 UT; Wang et al., GCN 36807).\nThe positional and temporal coincidence of this burst with\nthe EP transient supports the conclusion that EP240703A\nis the GRB counterpart.\n\nA Bayesian block analysis of the KW waiting mode data\nin the 20-1250 keV band reveals a >12 sigma count rate\nincrease in the interval from T0-2 s to T0+136 s.\nThe burst light curve shows a multi-peaked structure\nwith the brightest peak around ~T0+13 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240703A/\n\nThe time-integrated spectrum of the burst, measured from T0-2 s to T0+136 s,\nis best described by a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.09(-0.30,+0.47) and Ep = 180(-44,+62) keV.\n\nThe spectrum near the peak count rate, measured from T0-2 s to T0+33 s,\ncan be described by a CPL model with\nalpha = -0.75(-0.33,+0.41) and Ep = 276(-58,+81) keV.\n\nThe total burst fluence is 1.36(-0.18,+0.18)x10^-5 erg/cm^2,\nand the 2.944 s peak energy flux, measured from T0+12.5 s,\nis 2.8(-0.4,+0.4)x10^-7 erg/cm^2.\n(both in the 20 keV - 10 MeV energy range).\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n\n"
+}

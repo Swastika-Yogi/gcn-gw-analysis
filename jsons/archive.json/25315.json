@@ -1,0 +1,10 @@
+{
+  "subject": "HAWC-190806A: Upper limits from Insight-HXMT/HE observations",
+  "eventId": "HAWC-190806A",
+  "bibcode": "2019GCN.25315....1Z",
+  "createdOn": 1565657638000,
+  "circularId": 25315,
+  "submitter": "YaoGuang Zheng at IHEP  <zhengyg@ihep.ac.cn>",
+  "email": "zhengyg@ihep.ac.cn",
+  "body": "Y. G. Zheng, C. Cai, Q. Luo, S. Xiao, Q. B. Yi, \nY. Huang, C. K. Li, G. Li, X. B. Li, J. Y. Liao, S. L. Xiong,\nC. Z. Liu, X. F. Li, Z. W. Li, Z. Chang, A. M. Zhang, \nY. F. Zhang, X. F. Lu, C. L. Zou (IHEP), Y. J. Jin, \nZ. Zhang (THU), T. P. Li (IHEP/THU), F. J. Lu, L. M. Song, \nM. Wu, Y. P. Xu, S. N. Zhang (IHEP), \nreport on behalf of the Insight-HXMT team:\n\nInsight-HXMT was taking data normally around the trigger time\n(T0=2019-08-06T13:20:48.00 UTC) of HAWC-190806A event \n(GCN #25284), which was monitored without any occultation by \nthe Earth. \n\nWithin T0 +/- 100 s, no significant excess events (SNR > 3 sigma) are \nfound in a search of the Insight-HXMT/HE raw light curves.\n\nAssuming the counterpart GRB with three typical GRB Band spectral \nmodels, two typical duration timescales (1 s, 10 s) from the center \nof the position of the alert is (RA=78.125 deg, DEC=6.589 deg), \nthe 5-sigma upper-limits fluence (0.2 - 5 MeV, incident energy) are \nreported below:\n\nBand model 1 (alpha=-1.9, beta=-3.7, Ep=70 keV):\n1 s:   1.8e-08 erg cm^-2\n10 s:  1.8e-07 erg cm^-2\n\nBand model 2 (alpha=-1.0, beta=-2.3, Ep=230 keV):\n1 s:   3.6e-08 erg cm^-2\n10 s:  3.3e-07 erg cm^-2\n\nBand model 3 (alpha=-0.0, beta=-1.5, Ep=1000 keV):\n1 s:   1.8e-07 erg cm^-2\n10 s:  1.2e-06 erg cm^-2\n\nAll measurements above are made with the CsI detectors operating in the\nregular mode with the energy range of about 80-800 keV (deposited energy).\nOnly gamma-rays with energy greater than about 200 keV can penetrate\nthe spacecraft and leave signals in the CsI detectors installed inside\nof the spacecraft."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050911: Swift UVOT followup observations",
+  "eventId": "GRB 050911",
+  "bibcode": "2005GCN..3969....1B",
+  "createdOn": 1126538435000,
+  "circularId": 3969,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL), K. Page (U. Leicester), T. S. Poole\n(UCL-MSSL), F. Marshall (GSFC), M. Chester, P. Meszaros,\nJ. Nousek (PSU) on behalf of the Swift/UVOT team:\n\nUVOT started observing GRB050911 16408 s (4.56 hours) after the\nburst (Page et al. GCN 3961). The delay was caused by firstly\nan earth limb constraint and then Swift spacecraft loss of lock\non the star tracker. No new source was found within the XRT error\ncircle (Page et al. GCN 3967) to the following upper limits.\n\nFilter T_range (s) Exp (s) 3sig UL\n\n  V     21591-22041  900    20.2\n  B     16408-17291  883    21.0\n  B     28287-28870  583    20.8\n  U     27380-28280  900    20.9\n  UVW1  26473-27373  900    21.2\n  UVM2  22498-23081  583    20.9\n  UVW2  32261-32961  700    21.4\n\nWhere T_range is the time range post-trigger over which the summed\nimages were accumulated and Exp is the total exposure time of the\nsummed image. The magnitude upper limits are not corrected for\nextinction.\n\n  This message may be cited."
+}

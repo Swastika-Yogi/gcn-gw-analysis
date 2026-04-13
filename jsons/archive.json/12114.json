@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110705A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 110705A",
+  "bibcode": "2011GCN.12114....1Y",
+  "createdOn": 1310131167000,
+  "circularId": 12114,
+  "submitter": "Makoto Tashiro at Saitama U/Swift  <tashiro@phy.saitama-u.ac.jp>",
+  "email": "tashiro@phy.saitama-u.ac.jp",
+  "body": "T. Yasuda, Y. Terada, M. Tashiro, W. Iwakiri, K. Takahara (Saitama U.),\nT. Uehara, Y. Hanabata, T. Takahashi, M. Mizuno, M. Ohno, Y. Fukazawa\n(Hiroshima U.), S. Sugita (Nagoya U.), K. Yamaoka (Aoyama Gakuin U.),\nM. Kokubun, T. Takahashi (ISAS/JAXA), Y. E. Nakagawa (Waseda U.), N.\nOhmori, M. Akiyama, M. Yamauchi (Univ.of Miyazaki), Y. Urata, P. Tsai,\nC-J. Chuang (NCU), K. Nakazawa, K. Makishima (Univ.of Tokyo), on behalf\nof the Suzaku WAM team, report:\n\nThe short GRB 110705A (Fermi Gamma-Ray Burst Monitor trigger 331529833,\nGCN12108; von Kienlin et al.) triggered the Suzaku Wide-band All-sky\nMonitor (WAM) which covers an energy range of 50 keV - 5 MeV at\n03:37:11.933 UT (=T0).\n\nThe observed light curve shows double-peaked structure starting at\nT0+0.008s, ending at T0+0.258s with a duration (T90) of about 0.25\nseconds. The fluence in 100 - 1000 keV was\n2.31(+0.10/-0.13) x 10^-6 erg/cm^2. The 1-s peak flux measured from T0\nwas 4.24 (+0.19/-0.20) photons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0 to\nT0+1s is well fitted by a power-law with exponential cutoff model:\ndN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with alpha of\n0.30 (+0.18/-0.10), and Epeak of 1030 (+139/-113) keV\n(chi^2/d.o.f. = 45/53).\n\nAll the quoted errors are at statistical 90% confidence level.\n\nThe light curves for this burst will be available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

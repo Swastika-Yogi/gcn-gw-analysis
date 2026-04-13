@@ -1,0 +1,11 @@
+{
+  "subject": "EP241217A: Non-detection from Fermi-GBM Observations",
+  "eventId": "EP241217A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38595....1R",
+  "createdOn": 1734460857080,
+  "circularId": 38595,
+  "submitter": "mariaedvige.ravasio@ru.nl",
+  "format": "text/plain",
+  "body": "M. E. Ravasio (Radboud Univ.), E. Burns (LSU), and P.G. Jonker (Radboud Univ.) report on behalf of the Fermi-GBM Team:\n\nThe location of the EP-WXT event EP241217A (Zhou et al., GCN 38586) was occulted by the Earth at the EP trigger time T0=2024-12-17T05:36:03 UTC. There was no Fermi-GBM onboard trigger around the EP-WXT trigger time. The location becomes visible at around ~T0+104 s.\n\nThe GBM targeted search [1], the most sensitive, coherent search for GRB-like signals, was run in the time interval [-50;+500] s from the EP trigger time, seeking signals between 64 ms and 32.768 s in duration. A long soft transient was found around T0-42 s, but its localization is not consistent with the EP transient’s one (which is still covered by the Earth at that time). No signal consistent both temporally and spatially is identified, as confirmed by visual inspection of the data.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

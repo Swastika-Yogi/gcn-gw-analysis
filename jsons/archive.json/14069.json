@@ -1,0 +1,10 @@
+{
+  "subject": "GRB121212A: Swift/UVOT Detection",
+  "eventId": "GRB 121212A",
+  "bibcode": "2012GCN.14069....1K",
+  "createdOn": 1355332499000,
+  "circularId": 14069,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N.P.M. Kuin (MSSL-UCL) and D. Grupe (PSU) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 121212A\n72 s after the BAT trigger (Grupe et al., GCN Circ. 14064).  A source\nconsistent with the enhanced XRT position (Beardmore et al. GCN Circ.\n14066) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  11:51:10.30 = 177.79292 (deg.)\n   Dec (J2000) = +78:02:14.3  =  78.03730 (deg.)\nwith an estimated uncertainty of 0.62 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early\nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               72         7133          824         21.23 +/- 0.17\nv                  615         6108          352        >20.3\nb                  540        13527         1160        >20.9\nu                  285         1138          285         20.25 +/- 0.25\nw1                 664        11960         1238        >20.8\nm2                 639         6313          216        >20.5\nw2                 763         5904          255        >20.9\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.07 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240529A : MITSuME Akeno optical afterglow detection",
+  "eventId": "GRB 240529A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36654....1N",
+  "createdOn": 1718018229072,
+  "submitter": "Masafumi Niwano at Tokyo Institute of Technology <niwano@hp.phys.titech.ac.jp>",
+  "circularId": 36654,
+  "format": "text/plain",
+  "body": "M. Niwano, I. Takahashi, M. Sasada, N. Higuchi, S. Hayatsu, H. Seki, S. Joshima, Y. Kubo, H. Hagio, Y. Yatsu and N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 240529A (Eyles-Ferris et al. GCN 36556) with the optical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope Akeno.\n\nThe observation with a series of 60 sec exposures started at 2024-05-29 15:11:22 UT (12.2 hrs after the Swift trigger). We stacked the images in good conditions. Then we detected point source in the Ic-band image at the Swift/UVOT position (Eyles-Ferris et al. GCN 36556). Here we report the Ic-band photometry on the image subtracted with a reference image taken at 2024-06-04 (5 days after the trigger), and the 5-sigma upper-limits as follows.\n\nT0+[hrs] | MID-UT | T-EXP[sec] | magnitudes of aperture photometry\n----------------------------------------------------------------------------------------------------------------\n12.3 | 2024-05-29 16:10:25 | 1080 | g’>18.1, Rc>17.9, Ic=17.5+/-0.2\n----------------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g'-, Rc- and Ic-band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire)."
+}

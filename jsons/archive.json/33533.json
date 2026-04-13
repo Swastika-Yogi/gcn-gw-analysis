@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230328B: Swift-XRT refined Analysis",
+  "eventId": "GRB 230328B",
+  "bibcode": "2023GCN.33533....1B",
+  "createdOn": 1680059479000,
+  "circularId": 33533,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A.P. Beardmore (U. Leicester), P.A. Evans (U. Leicester), A. Melandri\n(INAF-OAR), T. Sbarrato (INAF-OAB), P. D'Avanzo (INAF-OAB), J.A. Kennea\n(PSU), A. Tohuvavohu (U. Toronto), D.N. Burrows (PSU), J.P. Osborne (U.\nLeicester) and J.D. Gropp report on behalf of the Swift-XRT team:\n\nWe have analysed 9.2 ks of XRT data for GRB 230328B (Gropp et al. GCN\nCirc. 33527), from 94 s to 28.9 ks after the  BAT trigger. The data\ncomprise 9 s in Windowed Timing (WT) mode (taken while Swift was\nslewing), with the remainder in Photon Counting (PC) mode. The enhanced\nXRT position for this burst was given by Osborne et al. (GCN Circ.\n33529).\n\nThe late-time light curve (from T0+4.3 ks) can be modelled with a\npower-law decay with a decay index of alpha=1.06 (+/-0.07).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.89 (+/-0.08). The\nbest-fitting absorption column is  1.37 (+0.26, -0.24) x 10^21 cm^-2,\nin excess of the Galactic value of 6.3 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.6 x 10^-11 (4.5 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.37 (+0.26, -0.24) x 10^21 cm^-2\nGalactic foreground: 6.3 x 10^20 cm^-2\nExcess significance: 5.1 sigma\nPhoton index:\t     1.89 (+/-0.08)\n\nIf the light curve continues to decay with a power-law decay index of\n1.06, the count rate at T+24 hours will be 0.052 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 1.9 x\n10^-12 (2.3 x 10^-12) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/01162001.\n\nThis circular is an official product of the Swift-XRT team."
+}

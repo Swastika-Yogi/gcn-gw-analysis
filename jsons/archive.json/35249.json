@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231129C: PROMPT optical upper limits for the MAXI/GSC X-ray counterpart and the MASTER afterglow candidate ",
+  "eventId": "GRB 231129C",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35249....1C",
+  "createdOn": 1701455068894,
+  "circularId": 35249,
+  "submitter": "Hank Corbett at UNC,Chapel Hill <htcorbett4@gmail.com>",
+  "body": "Hank Corbett (University of North Carolina), Kendall Ackley (University of Warwick), Daniel E. Reichart (UNC), Joshua B. Haislip (UNC), Vladimir V. Kouprianov (UNC), Megan Dubay (UNC)\n\nWe obtained 2x300s unfiltered exposures of the 90% error region of the MAXI/GSC X-ray transient (Kawakubo et al. GCN 35223) with the 0.8-m PROMPT-7 telescope. Exposures began at 2023-11-30 00:53 UT. Relative to images of the field 24-hours later, we do not detect any new sources within the MAXI/GSC error region with an upper limit of 21.9 calibrated to g-band reference stars from the ATLAS reference catalog (Tonry 2018). \n\nWe also observed the position of the MASTER OT detection (Antipov et al, GCN 35240) in a series of unfiltered 6x200s exposures beginning at 2023-12-01 01:56 UT, and do not detect the transient in the stacked image to an upper limit of 22.5. The field also includes the 90%  error circle for the Swift XRT candidate at RA 00:44:42.45 Dec -81:59:37.0, and we detect no transient sources to an upper limit of 22.5. We note that the error circle closely aligns with a faint (m_G=19.96) red star (Gaia 4630203649665987840).  \n\nDate | Filter | Mag  | Exp time (s)\n---------------------------------------------------------------\n2023-11-30 00:53 UT | Open  | > 21.9 @ 5-sigma | 2x300 s\n2023-11-30 00:53 UT | Open  | > 22.5 @ 5-sigma | 6x200 s \n"
+}

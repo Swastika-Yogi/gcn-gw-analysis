@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM/sb25022102: SVOM detection of an X-ray transient",
+  "eventId": "sb25022102",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39398....1L",
+  "createdOn": 1740113561122,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 39398,
+  "format": "text/plain",
+  "body": "R.-Z. Li (YNAO, CAS), Y. Wang (PMO, CAS), J.-X. Cao, D.-F. Kong (GXU), W.-J. Xie, D.-H. Zhao (NAOC), M. Moita (CEA), L. Zhang (IHEP) report on behalf of the SVOM mission team:\n\nThe SVOM/ECLAIRs telescope triggered and located a soft X-ray transient (SVOM burst-id sb25022102) starting at 2025-02-21T02:57:58.938 UTC (Tb).\n\nThe following trigger information was received on the ground with low-latency by the SVOM VHF Alert Network.\n\nThe burst was detected by the Count-Rate Trigger (CRT) mode and 2 alerts were produced with a best signal-to-noise ratio of 9.66 in the 8-120 keV energy band over a time window of 20.48 second starting at Tb. \n\nThe localization of the alert is R.A., Dec = 231.472, -17.950 degrees:\nRA (J2000) = 15:25:53.18\nDec (J2000) = -17:56:58.32\nwith a 90% C.L. radius of 8.22 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nWe notice that this error-box contains an X-ray source which could produce such a transient, which is 1RXS J152553.0-174943 in Simbad, located at 7.3 arcmin distance.\n\nThe SVOM/GRM lightcurve could be find the link below:\nhttps://www.bursthub.cn//admin/static/svgrb20250221A.png\n\nThis trigger reached the slew threshold, hence automatic slew was performed. No X-ray sources were found in the VHF data of SVOM/MXT at 1.22 hours after the trigger. A SVOM ToO has been scheduled.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe Burst Advocate (BA) on shift for this burst is R.-Z. Li (YNAO, CAS): \nliruizhi@ynao.ac.cn\nPlease contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210824A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 210824A",
+  "bibcode": "2021GCN.30718....1N",
+  "createdOn": 1629971324000,
+  "circularId": 30718,
+  "submitter": "Masafumi Niwano at Tokyo Institute of Tech  <niwano@hp.phys.titech.ac.jp>",
+  "email": "niwano@hp.phys.titech.ac.jp",
+  "body": "M. Niwano, K. L. Murata, R. Hosokawa, N. Ito, Y. Imai, H. Takamatsu, R. \nNoto, S. Sato, M. Takaku, R. Yamaguchi, Y. Yatsu, and N. Kawai \n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210824A (Fermi GBM team, GCN Circular \n#30699, K. L. Page et al. GCN Circular #30700, M.R. Goad et al. GCN \nCircular #30702, V. D'Elia et al. GCN Circular #30704, X. Liu et al. GCN \nCircular #30705, V. Lipunov et al. GCN Circular #30706, S. Lesage et al. \nGCN Circular #30707, Y.-D. Hu et al. GCN Circular #30708, V. Lipunov et \nal. GCN Circular #30709) with the optical three color (g', Rc, and Ic) \nCCD cameras attached to the MITSuME 50 cm telescope Akeno. The \nobservation with a series of 60 sec exposures started at 2021-08-25 \n10:20:44 UT (30.1 hours after Fermi trigger). We stacked the images with \ngood conditions. We did not detect any uncatalogued sources within the \nXRT error region (V. D'Elia et al. GCN Circular #30706). We obtained the \n5-sigma limits of the stacked images as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------ \n\n31.3 2021-08-25 12:29:20.71 4740 g'>18.6, Rc>19.0, Ic>18.3\n------------------------------------------------------------------------------------------------ \n\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages \n4-24; https://github.com/MNiwano/Eclaire)."
+}

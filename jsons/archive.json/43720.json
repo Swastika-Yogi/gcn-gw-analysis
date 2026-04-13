@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260211A: SVOM/VT optical observation",
+  "editedOn": 1770995577156,
+  "version": 2,
+  "eventId": "GRB 260211A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43720....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 43720,
+  "createdOn": 1770973346172,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, Y. N. Ma, C. Wu, Z. H. Yao, Y. L. Qiu, L. P. Xin,  X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA/Irfu), R. C. Chen (NJU), A. Li (BNU), W. K. Zheng (UCB) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation to GRB260211A detected by SVOM/Eclairs (sb26021102, Gotz et al., GCN 43705) and Fermi GBM (Hamburg et al., GCN 43713). The observation started at 2026-02-11T20:48:38 UTC, i.e., 1.41 hours post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nFollowing EP-FXT's detections, two optical candidates were detected only in VT_R images compared to the PanSTARRS catalogue: \n\nSource1 : R.A., Dec. (2000)= 86.978758, -0.450528    10.5 arcsecs   from the center of FXT src-1   \nSource2 : R.A., Dec. (2000)= 86.977490, -0.453334    17.9 arcsecs   from the center of FXT src-1 \nThe positions are given with an uncertainty of 0.5 arcsec. \n\nThe measurements in AB magnitudes are given below:\n\n    ID.          Mid time.        Band        Exposure Time     Magnitude (AB)\n   Source1.      2.35 hour        VT_R           16*70 sec       22.5+/-0.3 mag\n                 5.63 hour        VT_R           12*70 sec       >22.6 mag    \n                 1.52 hour        VT_B           16*70 sec       >23.0 mag\n                 5.95 hour        VT_B            6*70 sec       >22.5 mag\n\n   Source2.      2.35 hour        VT_R           16*70 sec       21.9+/-0.2 mag\n \t         5.63 hour        VT_R\t\t 12*70 sec       21.9+/-0.2 mag\n                 1.52 hour        VT_B           16*70 sec       >23.0 mag\n\t         5.95 hour.       VT_B            6*70 sec       >22.5 mag\n\t\t\t   \nOur photometry was not corrected for Galactic extinction.\n\nFor source2, we notice that there is a faint source in the PanSTARRS image. More followup observation is encouraged to confirm the nature of the sources.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

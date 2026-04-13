@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-220421A - IceCube observation of a high-energy neutrino candidate track-like event",
+  "eventId": "IceCube-220421A",
+  "bibcode": "2022GCN.31931....1I",
+  "createdOn": 1650541513000,
+  "circularId": 31931,
+  "submitter": "Marcos Santander at U. Alabama/IceCube  <jmsantander@ua.edu>",
+  "email": "jmsantander@ua.edu",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nOn 2022-04-21 at 05:20:18.26 UT IceCube detected a track-like event with a moderate probability of being of astrophysical origin. The event was selected by the ICECUBE_Astrotrack_Bronze alert stream. The average astrophysical neutrino purity for Bronze alerts is 30%. This alert has an estimated false alarm rate of 2.281 events per year due to atmospheric backgrounds. The IceCube detector was in a normal operating state at the time of detection.\n\nAfter the initial automated alert (https://gcn.gsfc.nasa.gov/notices_amon_g_b/136556_43687362.amon), more sophisticated reconstruction algorithms have been applied offline, with the direction refined to:\n\nDate: 2022-04-21\nTime:  05:20:18.26 UT\nRA: 113.64 (+3.17, -2.74 deg  90% PSF containment) J2000\nDec: 5.83 (+2.18, -1.69 deg 90% PSF containment) J2000\n\nWe encourage follow-up by ground and space-based instruments to help identify a possible astrophysical source for the candidate neutrino.\n\nOne gamma-ray source listed in the 4FGL-DR3 Fermi-LAT catalog is located within the 90% containment region for the event: the source 4FGL J0733.8+0455 (RA: 113.47 deg, Dec: 4.93 deg J2000), 0.92 deg from the best-fit neutrino candidate position. \n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector operating at the geographic South Pole, Antarctica. The IceCube realtime alert point of contact can be reached at roc@icecube.wisc.edu"
+}

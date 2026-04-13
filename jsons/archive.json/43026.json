@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251205A: FTW optical and NIR observations",
+  "eventId": "GRB 251205A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43026....1B",
+  "createdOn": 1765148808080,
+  "submitter": "Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "circularId": 43026,
+  "format": "text/markdown",
+  "body": "Malte Busmann (LMU), Xander J. Hall (CMU), Jule Augustin (LMU), Brendan O’Connor (CMU), Daniel Gruen (LMU), and Antonella Palmese (CMU) report:\n\nWe observed the counterpart of GRB 251205A (Lavana et al. GCN 43005) with the Three Channel Imager (3KK) at the Fraunhofer Telescope at Wendelstein Observatory (FTW) in the r, i, z, J, and Ks bands. We detect the counterpart across all bands.\n\n| Start Time          | t - t0 (days) | Filter | Exposures             | Magnitude (AB) | \n|---------------------|---------------|--------|-----------------------|----------------|\n| 2025-12-06T03:25:42 | 0.157         | r'     | 5 x 150 s + 5 x 180 s | 18.09 +/- 0.05 |\n| 2025-12-06T03:25:42 | 0.157         | i'     | 5 x 150 s             | 18.10 +/- 0.05 |\n| 2025-12-06T03:41:46 | 0.168         | z'     | 5 x 180 s             | 17.74 +/- 0.05 |\n| 2025-12-06T03:42:00 | 0.168         | J      | 5 x 180 s             | 17.46 +/- 0.05 |\n| 2025-12-06T03:25:55 | 0.157         | Ks     | 10 x 60 s             | 17.13 +/- 0.05 |\n\nThese measurements are consistent with the magnitudes reported by Lavana et al. (GCN 43005), Lipunov et al. (GCN 43006), Malesani et al. (GCN 43009), O’Neill et al. (GCN 43010), Mandarakas et al. (GCN 43011), Bochenek & Perley (GCN 43015), Klinger et al. (GCN 43016), Patil et al. (GCN 43019), Pérez-Fournon et al. (GCN 43020), and Bochenek et al. (GCN 13024).\n\nThe r, i, and z-band magnitudes are calibrated against the PS1 catalog, and the J and Ks-band magnitudes are calibrated with the 2MASS Catalog. All magnitudes are provided in the AB system and are not corrected for Galactic extinction.\n\nWe thank Michael Schmidt from the Wendelstein Observatory for obtaining these observations."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050505: Further Swift UVOT observations.",
+  "eventId": "GRB 050505",
+  "bibcode": "2005GCN..3371....1R",
+  "createdOn": 1115389066000,
+  "circularId": 3371,
+  "submitter": "Simon Rosen at MSSL-UCL  <srr@mssl.ucl.ac.uk>",
+  "email": "srr@mssl.ucl.ac.uk",
+  "body": "S. Rosen (MSSL), C. Hurkett (Leicester), S. Holland (GSFC), P. Roming \n(PSU), A. Blustin (MSSL), N. Gehrels (GSFC), K. Mason (MSSL), J. Nousek \n(PSU), on behalf of the Swift UVOT team\n\nFurther to the initial Swift UVOT results (Rosen et. al. 3367) we report\nthe results of co-added, deeper exposures of GRB 050505 with the Swift\nUltra-Violet/Optical Telescope (UVOT) on May 06, 2005.\n\nWe detect no source at the Keck determined location  (Cenko et al, GCN \n3366) in any of the UVOT filters with the following 5 sigma and 3 sigma\nlimits (in 6\" radius apertures)\n\n\nFilter    Lim_Mag      Lim_mag   Total duration (s)   T_range (s)\n           5sigma       3sigma\n\nV          19.82        20.35        2527            2807  -  28543\nB          20.50        21.04        1999            3236  -  26917\nU          20.26        20.84        2890            3132  -  22757\nUVW1       20.81        21.36        1999            3029  -  22040\nUVM2       21.13        21.68        2422            2924  -  21132\nUVW2       21.27        21.83        1997            3342  -  27826\n\nT_range is since the BAT trigger time (Hullinger et al. 3364).\n\nThe magnitudes are based on preliminary zero-points, measured in\norbit, and will require refinement with further calibration.\n\nWe note that for the estimated redshift of 4.1 - 4.3 (GCN 3368), the Lyman \nlimit lies between the UVOT B and V filters - the lack of a UVOT \ndetection in V may be significant, depending on the brightness of the \nsource detected by Keck and the true redshift.\n\nThis message may be cited."
+}

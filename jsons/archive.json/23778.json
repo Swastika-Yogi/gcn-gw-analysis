@@ -1,0 +1,10 @@
+{
+  "subject": "GRB190123A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 190123A",
+  "bibcode": "2019GCN.23778....1S",
+  "createdOn": 1548324682000,
+  "circularId": 23778,
+  "submitter": "Kazuki Shiraishi at Tokyo Institute of Technology  <shiraishi@hp.phys.titech.ac.jp>",
+  "email": "shiraishi@hp.phys.titech.ac.jp",
+  "body": "K. Shiraishi, K. L. Murata, R. Itoh, Y. Tachibana, S. Harita,\n\nK. Morita, K. Iida, M. Niwano, R. Adachi, M. Oeda,  Y. Yatsu,\n\nand N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration\n\n\n\nWe searched for the optical counterpart of\n\nGRB 190123A (A. D'Ai et al., GCN #23769)\n\nwith the optical three color (g', Rc, and Ic)\n\nCCD cameras attached to the MITSuME 50 cm telescope at Akeno\n\nObservatory,Yamanashi, Japan.\n\n\n\nThe observation started on 12:20:56 UT which corresponds to 103 sec\n\nafter the trigger.\n\nWe did not find any new point source within the enhanced XRT circle\n\nD���Ai et al., GCN #23769;  A.P. Beardmore et al., GCN #23771) in all three bands.\n\nWe obtained following 5 sigma limits for the magnitudes.\n\n\n\nT0+[sec]    MID-UT      T-EXP[sec]    g'       Rc        Ic\n\n-------------------------------------------------------------------------------------------------------\n\n103  12:25:31    540    >18.2     >17.8     >17.0\n\n723  12:35:51    540    >17.9     >17.7     >17.6\n\n1,764  14:21:35    10,800    >18.4     >18.2     >17.4\n\n-------------------------------------------------------------------------------------------------------\n\nT0+ : Elapsed time after the burst\n\nT-EXP: Total Exposure time\n\nWe used UCAC-4 catalog for flux calibration."
+}

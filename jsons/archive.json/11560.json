@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110112A: Swift/UVOT upper limits",
+  "eventId": "GRB 110112A",
+  "bibcode": "2011GCN.11560....1B",
+  "createdOn": 1294872786000,
+  "circularId": 11560,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL/UCL) and M. Stamatikos (OSU/NASA/GSFC) report on \nbehalf\nof the Swift/UVOT team:\n\nSwift UVOT started observing the field of GRB 110112A  with the white \nfilter 85s after the trigger (Stamatikos et al., GCN Circ. 11553).\n\nNo optical afterglow consistent with the TNT or XRT positions (Xin et \nal., CGN Circ. 11554 and Evans et al., GCN Circ. 11556) is detected in \nindividual or merged UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) are:\n\nFilter      T_start   T_stop    Exp(s)      Mag (Upper limits)\n---------------------------------------------------------------------------\nwhite          85         235       147         >20.4\nwhite      4499       6134        393        >21.3\nv            4909        6544       393        >19.6\nb            4294       5929        393        >20.3\nu              287       5724        639        >20.2\nuvw1     5319        5519       19.7        >18.8\nuvm2     5079        6634       280         >18.9\nuvw2     4705        6339        393        >19.2\n----------------------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.06 mag (Schlegel et al., 1998, ApJS, 500, 525)."
+}

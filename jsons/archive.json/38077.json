@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240821A: further radio observations with the VLA",
+  "eventId": "GRB 240821A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.38077....1G",
+  "createdOn": 1730797937884,
+  "circularId": 38077,
+  "submitter": "Stefano Giarratana at INAF-OAB <s.giarratana@ira.inaf.it>",
+  "body": "S. Giarratana (INAF-OAB), M. Giroletti (INAF-IRA),\nG. Ghirlanda (INAF-OAB), N. Di Lalla (Stanford Univ.),\nN. Omodei (Stanford Univ.), O. S. Salafia (INAF-OAB)\n\nAt 04:55:36 UT on 2024 Sept 18 (T_mid = 27.5 days post-burst)\nand at 05:38:46 UT on 2024 Oct 8 (T_mid = 47.5 days post-burst)\nthe Karl G. Jansky VLA observed the field of GRB 240821A\n(Fermi GBM team, GCN 37219; SVOM team, GCN 37220, 37226)\nin three bands, with central frequencies of 6, 10 and 15 GHz.\n\nThe standard 3C48 was used as bandpass and flux density\ncalibrator, while J2358-1020 was used as phase calibrator.\n\nFrom a preliminary analysis, we do not detect the radio counterpart\nof GRB 240821A. We derive the following upper limits (UL; 3sigma):\n\n==================================================\nT_mid   Freq  UL     r.m.s.   Beam     PA\n[days]  [GHz] [uJy]  [uJy/b]  [arcsec] [deg]\n==================================================\n27.5    6     21     7        1.07x0.78   -21\n27.5    10    22     7        0.82x0.48   -10\n27.5    15    27     9        0.57x0.32   -16\n47.5    6     21     7        1.26x0.46   71\n47.5    10    27     9        0.91x0.28   66\n47.5    15    24     8        0.51x0.20   73\n==================================================\n\nWe would like to thank the staff of the VLA for approving, executing,\nand processing the observations.\n\nThe National Radio Astronomy Observatory is a facility of the National\nScience Foundation operated under cooperative agreement by Associated\nUniversities, Inc.\n\nThese observations were carried out as part of project SF171028,\napproved in the framework of the Fermi - NRAO joint program agreement.\n"
+}

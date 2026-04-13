@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160821A: Swift-BAT refined analysis",
+  "eventId": "GRB 160821A",
+  "bibcode": "2016GCN.19840....1M",
+  "createdOn": 1471874644000,
+  "circularId": 19840,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC),\nD. M. Palmer (LANL), T. Sakamoto (AGU),\nM. H. Siegel (PSU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 160821A (trigger #709351)\n(Siegel, et al. GCN Circ. 19830).  The BAT ground-calculated position is\nRA, Dec = 171.254, 42.345 deg which is\n  RA(J2000)  =  11h 25m 00.9s\n  Dec(J2000) = +42d 20' 43.0\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 79%.\n\nThe mask-weighted light curve shows a complex structure with many\noverlapping pulses that starts at ~T-3 s and extends beyond T+117s,\nwhen the the burst went out of the BAT FOV due to a pre-planned slew.\nThe burst flux was rising during the slew, so it is possible that the BAT\ndetector missed the peak emission. The main peak that is visible in\nthe BAT light curve occurs at ~T+114 s.\n\nThe time-averaged spectrum from T-2.61 to T+115.17 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.52 +- 0.06.  The fluence in the 15-150 keV band is 7.2 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+113.51 sec in the 15-150 keV band\nis 2.8 +- 0.6 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/709351/BA/"
+}

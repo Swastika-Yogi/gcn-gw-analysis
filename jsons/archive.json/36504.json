@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 240513A",
+  "eventId": "GRB 240513A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36504....1R",
+  "createdOn": 1715951090613,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 36504,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 240513A\n(AstroSat CZTI detection: Joshi et al., GCN 36455;\nFermi-LAT detection: Cutini et al., GCN 36462;\nFermi-GBM observation: Bissaldi & Meegan, GCN 36479) \ntriggered Konus-Wind at T0=26527.128 s UT (07:22:07.128).\n\nThe burst light curve shows a multipeaked structure\nwhich started at ~T0-5.3 s and had a total duration of ~7.8 s.\nKW triggered on the second of two emission episodes\nreported in GCN 36479, this episode had a total duration of ~2.6 s.\nThe emission is seen up to ~6 MeV. \n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240513_T26527/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.42(-0.39,+2.50)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0-0.066 s,\nof 5.12(-0.78,+2.09)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the brightest part of the burst emission\nwas detected before the trigger, the spectral analysis\nwas performed using the KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-5.339 s to T0+2.512 s)\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -1.00(-0.22,+0.26) and Ep = 732(-249,+745) keV.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

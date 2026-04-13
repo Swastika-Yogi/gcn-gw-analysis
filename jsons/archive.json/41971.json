@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250924A: GROWTH-India Telescope Upper Limits",
+  "eventId": "GRB 250924A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41971....1S",
+  "createdOn": 1758737330918,
+  "circularId": 41971,
+  "submitter": "Varun Bhalerao at IIT Bombay <varunb@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "A.P. Saikia, T. Mohan, V. Swain, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and R. Norbu (IAO) report on behalf of the GIT team:\n\nWe observed the field of Swift GRB 250924A (Siegel et al., GCN 41959), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-09-24 14:01:24 UT, i.e., 5.7 hours after the GRB trigger. We obtained multiple exposures in r'. We did not detect the source in our stacked image within the Swift UVOT localization region (Siegel et al., GCN 41959). The photometric upper limits are as follows:\n\n\n| MJD (mid)    | Filter | tmid-t0 (hr) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | ------------ | ------------------- | ---------------- |\n| 60942.618958 | r'     | 6.55         | 11 x 360            | 21.5             |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction. Our observations span a similar time frame as Pankov et al. (GCN 41969), and are broadly consistent with their measurements.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

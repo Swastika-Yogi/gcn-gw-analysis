@@ -1,0 +1,10 @@
+{
+  "subject": "Triangulation of short GRB 041116 (large error box)",
+  "eventId": "GRB 041116",
+  "bibcode": "2004GCN..2835....1G",
+  "createdOn": 1100710717000,
+  "circularId": 2835,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks\non behalf of Konus-Wind and Helicon/Coronas-F teams,\n\nT. Cline on behalf of the Konus-Wind team, and\n\nA. Rau, A. von Kienlin, G. Lichti on behalf of the INTEGRAL SPI-ACS\nGRB team report:\n\nA short GRB 041116 was detected by Konus-Wind at 14:42:41.383 UT\nand Helicon-Coronas-F at 14:42:41.245 UT.\nIt was also detected by INTEGRAL SPI-ACS.\nIt had a duration ~0.5 s as observed by Konus-Wind and\nHelicon-Coronas-F. A weak precusor is seen\nin the Integral SPI-ACS light curve ~0.5s before\nmain peak, which was missed by Helicon and Konus.\nThe total duration of the burst including\nprecursor is about 1.2 s.\n\nWe have triangulated it to Wind-Helicon annulus centered at\nRA(2000) = 74.438 deg, Decl(2000) = 23.927 deg,\nwhose radius is 82.326 +/- 0.801 deg (3 sigma)\nand Helicon-Integral annulus centered at\nRA(2000) = 53.372 deg, Decl(2000) = -27.483 deg,\nwhose radius is 87.01 +/- 5.32 deg (3 sigma).\n\nThese annuli intersect to form 2 error boxes,\none of which may be eliminated by the Konus\necliptic latitude response and Helicon occultation\nby Eearth.\n\nThe resulting error box has an approximate\narea of 14 sq. deg.  Its coordinates are:\n\n\t\t     RA(2000)   DEC(2000)\n  ERROR BOX CENTER:   341.482     25.719\n  ERROR BOX CORNER 1: 344.755     20.592\n  ERROR BOX CORNER 2: 339.175     32.526\n  ERROR BOX CORNER 3: 337.980     30.844\n  ERROR BOX CORNER 4: 343.629     18.975"
+}

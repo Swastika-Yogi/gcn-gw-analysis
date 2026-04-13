@@ -1,0 +1,9 @@
+{
+  "subject": "Information about where HETE will be pointing",
+  "bibcode": "2003GCN..1801....1V",
+  "createdOn": 1042301844000,
+  "circularId": 1801,
+  "submitter": "Roland Vanderspek at MIT  <roland@space.mit.edu>",
+  "email": "roland@space.mit.edu",
+  "body": "R. Vanderspek, on behalf of the HETE Science Team, writes:\n\nGenerally, the HETE instruments' FOV is centered on the anti-solar\nposition.  However, at certain times (e.g., near full moon, when\nSco X-1 is near the anti-solar point, during astrometric calibrations),\nthe pointing direction of the HETE instruments may be offset from\nthe anti-solar point by as much as 50 degrees.\n\nIn order to facilitate pre-burst, concurrent, and immediate post-burst\nobservations of GRBs localized by HETE, information about where HETE \nwill be pointing is now continuously updated and available on the HETE \nwebsite at this URL:\n\n  http://space.mit.edu/HETE/Latest_RADec.txt\n\nThe file includes estimates of the RA and dec of the center of the \ninstruments' FOV for upcoming orbits and a few recent orbits.  The file \nalso includes the time of instrument operations for the next 8 orbits.\n\nThis file can be retrieved with either of the following commands:\n\n  lynx -dump -reload http://space.mit.edu/HETE/Latest_RADec.txt\n  wget --cache=off -q -O - http://space.mit.edu/HETE/Latest_RADec.txt\n\nA mapping of the science instruments' FOV onto the celestial sphere\nbased on the estimated current attitude of the HETE satellite can\nbe found at\n\n  http://space.mit.edu/HETE/mission_status.html#hetepointing\n\nSend questions or comments about this file to roland@space.mit.edu."
+}

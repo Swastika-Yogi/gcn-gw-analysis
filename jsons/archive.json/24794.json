@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190611B: Fermi GBM detection",
+  "eventId": "GRB 190611B",
+  "bibcode": "2019GCN.24794....1M",
+  "createdOn": 1560364794000,
+  "circularId": 24794,
+  "submitter": "Christian Malacaria at NASA-MSFC/USRA  <cmalacaria@usra.edu>",
+  "email": "cmalacaria@usra.edu",
+  "body": "C. Malacaria (NASA-MSFC/USRA) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 22:47:49.34 UT on the 11th of June 2019, \nthe Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 190611B (trigger 581986074 / 190611950).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA =  88.9, DEC =  53.1 (J2000 degrees,\nequivalent to 05 h 56 m, 53 d 07 '), with a statistical uncertainty\nof 1.0 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, \nwith 90% of GRBs having a 3.7 deg error and a small tail suffering a \nlarger than 10 deg systematic error \n[Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight \nat the GBM trigger time is 117.0 degrees.\n\nThe GBM light curve consists of two broad pulses\nwith a duration (T90) of about 100.6 s (50-300 keV).\nThe time-averaged spectrum from T0-0.0 s to T0+18.2 s is\nbest fit by a Band function with Epeak = 210.3 +/- 18.9  keV,\nalpha = -1.00 +/- 0.04, and beta = -1.98 +/- 0.05\n\nThe event fluence (10-1000 keV) in this time interval is\n(2.43 +/- 0.40)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+71.8 s in the 10-1000 keV band\nis 32.4 +/- 0.6 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, \nplease visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\"\n\n[GCN OPS NOTE(16jun19), Per author's request, the \"190611A\"\nin the first sentence was corrected to \"190611B\".]"
+}

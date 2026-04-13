@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221006A: Swift-XRT afterglow detection",
+  "eventId": "GRB 221006A",
+  "bibcode": "2022GCN.32731....1S",
+  "createdOn": 1665649865000,
+  "circularId": 32731,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "B. Sbarufatti (INAF-OAB), J. D. Gropp (PSU), S. Dichiara (PSU), J.A.\nKennea (PSU), A.P. Beardmore (U. Leicester), J.P. Osborne (U.\nLeicester), A. D'Ai (INAF-IASFPA), A. Melandri (INAF-OAB) and P.A.\nEvans (U. Leicester) report on behalf of the Swift-XRT team:\n\nSwift-XRT has conducted further observations of the field of the\nMAXI-detected burst GRB 221006A (Mihara et al. GCN Circ. 32626). The\nobservations now extend from T0+37.8 ks to T0+595.5 ks. \n\nOf the sources reported by Sbarufatti et al. (GCN Circ. 32628), \"Source\n2\" is fading with >3-sigma significance, and is therefore likely the\nGRB afterglow. Using 1256 s of PC mode data and 2 UVOT images, we find\nan enhanced XRT position (using the XRT-UVOT alignment and matching\nUVOT field sources to the USNO-B1 catalogue): RA, Dec = 337.24578,\n+15.71379 which is equivalent to:\n\nRA (J2000): 22h 28m 58.99s\nDec(J2000): +15d 42' 49.6\"\n\nwith an uncertainty of 3.2 arcsec (radius, 90% confidence). This\nposition is 4.8 arcmin from the MAXI position. \n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=1.01 (+0.34, -0.25).\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00021521.\nThe results of the full analysis of the tiled XRT observations are\navailable at https://www.swift.ac.uk/xrt_products/TILED_GRB00108.\n\nThis circular is an official product of the Swift-XRT team."
+}

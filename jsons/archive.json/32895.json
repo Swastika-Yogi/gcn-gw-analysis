@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221028A: Correction to GCN 32893 - Fluence and flux are for 50-150 keV",
+  "eventId": "GRB 221028A",
+  "bibcode": "2022GCN.32895....1L",
+  "createdOn": 1667181330000,
+  "circularId": 32895,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "The fluence for the time averaged spectrum and the 1-s peak\nflux quoted in the BAT refined analysis for GRB 221028A\n(Palmer et al., GCN Circ. #32893) should be for the energy\nrange of 50-150 keV, instead of the 15-150 keV written in\nthe original circular.\n\nIn other words, it should be\n\"The fluence in the 50-150 keV band is 1.51 +- 0.14 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.56 sec in the 50-150 keV band\nis 0.8 +- 0.2 ph/cm2/sec.\"\n\nWe apologize for the typos and any confusion this may cause."
+}

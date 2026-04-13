@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220905A",
+  "eventId": "GRB 220905A",
+  "bibcode": "2022GCN.32545....1R",
+  "createdOn": 1662926937000,
+  "circularId": 32545,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 220905A\n(Fermi-GBM detection: Fermi GBM Team, GCN Circ. 32518,\nBALROG localization: Biltzinger et al., GCN Circ. 32519)\nwas detected by Fermi (GBM trigger 684070128),\nINTEGRAL (SPI-ACS), Konus-Wind, and Swift (BAT)\nat about 41324 s UT (11:28:44).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   338.931 (22h 35m 43s) -37.594 (-37d 35' 38\")\n  Corners:\n   341.100 (22h 44m 24s) -39.495 (-39d 29' 42\")\n   341.797 (22h 47m 11s)  +6.185 ( +6d 11' 06\")\n   336.870 (22h 27m 29s) -35.655 (-35d 39' 18\")\n   289.822 (19h 19m 17s) -23.843 (-23d 50' 36\")\n  ---------------------------------------------\nThe error box area is 349.6 sq. deg, and its maximum\ndimension is 87.7 deg (the minimum one is 5 deg).\nThe Sun distance was 125 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi GBM Final Real-time position (GCN Circ. 31955) and BALROG\n(GCN 31950) localizations.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220905_T41330/IPN\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

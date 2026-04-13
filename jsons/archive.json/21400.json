@@ -1,0 +1,9 @@
+{
+  "subject": "Swift J181723.1-164300: Swift detection of another pulse of the new Galactic source",
+  "bibcode": "2017GCN.21400....1P",
+  "createdOn": 1501559916000,
+  "circularId": 21400,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), H. A. Krimm (NSF/USRA),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nT. Sakamoto (AGU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nAt 21:32:04.55 UT on 2017-07-30, the Swift Burst Alert Telescope (BAT)\ndetected another pulse from the new Galactic source Swift J181723.1-164300\n(trigger= 765422). The first trigger on this source occurred on 2017-07-28\n(Barthelmy et al., GCN Circ. 21369 and 21385). Due to the higher trigger\nthreshold set after the first trigger, this detection did not result in a regular\nBAT trigger.\n\nSubsequent ground analysis using the data set from T-2 to T+8 sec from\nthe recent telemetry downlink finds the source at a location of\nRA, Dec = 274.320, -16.700 deg which is\n   RA(J2000)  =  18h 17m 16.9s\n   Dec(J2000) = -16d -41' -60.0\"\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThis location is consistent with the one found by the previous trigger.\nThe partial coding was 92%.\n\nThe mask-weighted light curve shows a weak pulse that starts at ~T0 and lasts\nbeyond the end of event data.\n\nThe spectral fit of the time-averaged spectrum from T+0.0 to T+8.0 sec\nusing a simple power-law model gives a power law index of 4.24 +- 0.60.\nThe fluence in the 15-150 keV band is 1.1 +- 0.2 x 10^-7 erg/cm2.\nThe 1-sec peak photon flux measured from T+5.10 sec in the 15-150 keV band\nis 0.6 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/765422/BA/"
+}

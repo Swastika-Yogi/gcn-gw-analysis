@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210413B: MITSuME Okayama optical upper limits",
+  "eventId": "GRB 210413B",
+  "bibcode": "2021GCN.29860....1I",
+  "createdOn": 1618998079000,
+  "circularId": 29860,
+  "submitter": "Naohiro Ito at Tokyo Tech  <n.ito@hp.phys.titech.ac.jp>",
+  "email": "n.ito@hp.phys.titech.ac.jp",
+  "body": "N. Ito, K. L. Murata, R. Hosokawa, M. Niwano, H. Takamatsu, Y. Yatsu,\nand N.Kawai (TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210413B (Fermi/GBM TRIGGER 640050417, P.\nA. Evans et al. GCN Circular #29821, Gregory S.H. Paek et al. GCN\nCircular #29825, J.A. Kennea et al. GCN Circular #29827) with the\noptical three color (g', Rc, and Ic) CCD cameras attached to the\nMITSuME 50 cm telescope of Okayama Astronomical Observatory, Okayama,\nJapan. The observation with a series of 60 sec exposures started at\n2021-04-17 13:31:10 UT (85.8 hours after the Fermi/GBM trigger\n640050417). We stacked the images with good conditions. We did not\nfind any transients within the BAT error region (A. Tohuvavohu et al.\nGCN Circular #29819) in all three bands. We obtained the 5-sigma\nlimits of the stacked images as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n86.8 15:06 2340 g'>17.4, Rc>17.6, Ic>17.3\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used the PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

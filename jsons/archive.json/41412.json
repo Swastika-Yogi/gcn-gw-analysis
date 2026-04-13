@@ -1,0 +1,14 @@
+{
+  "editedOn": 1755539124929,
+  "subject": "GRB 250813B: SVOM/ECLAIRs refined analysis",
+  "eventId": "GRB 250813B",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41412....1B",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 41412,
+  "createdOn": 1755532104211,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "M. Brunet, O. Godet, H. Yang (IRAP), W.J. Xie (NAOC), B.T. Wang (YNAO, CAS)\nreport on behalf of the SVOM/ECLAIRs team:\n\nUsing the event-by-event data downloaded through the X-band ground station, we report further analysis of ECLAIRs observations of  GRB 250813B (SVOM burst-id sb25081303). \n\nThe burst that triggered ECLAIRs onboard (Xie et al. GCN 41352/[41354](https://gcn.nasa.gov/circulars/41354?view=index&query=250813B&startDate=&endDate=&sort=circularID)) consists of multiple peaks. By considering only the data before the slew of the platform, the T90-value is 26.8 +0.4/-0.5 s in the 4-120 keV energy band. We note that ECLAIRs detected some emission up to at least T0+90s (T0 = 2025-08-13T22:51:12 UTC).\n\nThe time-averaged spectrum from T0-5.5 s to T0+36 s in the energy range 4-120 keV is best fitted by a cutoff power law. The powerlaw index is -0.936 +0.031/-0.032 and the cutoff energy, parameterized as Epeak, is 104 +12/-10 keV. With this model, the total fluence in 4-120 keV is (1.10 +0.01/-0.03)e-5  erg/cm^2.\n\nWith a redshift of z = 1.752 (Schneider et al., GCN 41363), the burst isotropic energy Eiso (from 1 keV to 10 MeV in its rest frame) is (1.34 +0.07/-0.08)e53 erg, which makes this GRB consistent with type II GRBs in the 'Amati' relation diagram (Amati et al. 2002).\n\nWe note that the ECLAIRs results are consistent within the errors with those provided by both SVOM/GRM (Tan et al., GCN 41383) and Fermi/GBM (Smith et al., GCN 41376).\n\nAll quoted errors are at the 68% confidence level.\n\nWe note that the calibration of SVOM/ECLAIRs is ongoing thus these results are preliminary.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC.\n\nThe SVOM/ECLAIRs point of contact for this GCN circular is Marius Brunet: (marius.brunet AT irap.omp.eu).\n\n"
+}

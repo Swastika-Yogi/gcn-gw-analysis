@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241018A: GROWTH-India telescope optical upper limit",
+  "eventId": "GRB 241018A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37825....1M",
+  "createdOn": 1729340454698,
+  "circularId": 37825,
+  "submitter": "Varun Bhalerao at IIT Bombay <varunb@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, R. Kumar, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the GRB 241018A (SVOM team, GCN 37812) with the 0.7m GROWTH-India Telescope (GIT). The observations started at 2024-10-18 17:00:48 UT, starting about 5.1 hours after the trigger. We obtained multiple images of 300s each in r', i' and z' filters. We did not detect any new source in our stacked image around the coordinates of the afterglow (SVOM/VT: GCN 37819; Swift XRT: Osborne et al., GCN 37823, Optical NOT: Malesani et al. GCN 37821)\nBelow is the upper limit in the stacked images:\n\n---------------------------------------------------------------------------------\n| MJD (mid)           | Filter | Exposure (s) | Limiting Magnitude (AB) | \n| ----------------- |------- | ------------------ | -------------- |\n| 60601.73736  |   r'   |      8x300         | 20.2 |\n| 60601.84950  |   i'   |      2x300         | 19.3 |\n| 60601.85875  |   z'   |      1x300         | 18.2 |\n\n---------------------------------------------------------------------------------\n\nOur upper limits are consistent with reports by Turpin et al. (GCN 37818), Ferro et al., (GCN 37822) and Song et al., (GCN 37824).\n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

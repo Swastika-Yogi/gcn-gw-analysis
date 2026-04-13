@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050820: Swift detection of a GRB",
+  "eventId": "GRB 050820",
+  "bibcode": "2005GCN..3830....1P",
+  "createdOn": 1124522970000,
+  "circularId": 3830,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "M. Page (UCL-MSSL), D. Burrows (PSU), A. Beardmore (U. Leicester), D. \nPalmer (LANL),\nJ, Kennea (PSU), N. Gehrels (GSFC), C. Markwardt (GSFC/UMD), K. Page (U. \nLeicester),\nT. Sakamoto (GSFC/NRC), M. Chester (PSU), P. Boyd (GSFC) report on behalf \nof the Swift team:\n\nAt 06:34:53 BAT triggered, located, and immediately slewed to GRB\n050820 (trigger=151207).  The BAT on-board calculated position is\nRA,Dec 337.400d, +19.578d {22h 29m 36s, 19d 34' 42\"} (J2000) with an\nuncertainty of 2 arcmin (radius, 90% containment, stat+sys).  The BAT\nlight curve shows a broad double-humped structure about 20 seconds\nlong, with peaks around T+1s and T+14 s, with a peak count rate\nof ~1500 counts  per second (15-350 keV) at ~1 second after the trigger.\n\nXRT began observing at 06:36:13 UT, 80s after the BAT trigger. A bright \nuncatalogued source was found in the field, which XRT was able to centroid \non. The on-board calculated coordinates of this source are: \nRA(J2000):  22:29:37.8, Dec(J2000): 19:33:32.7, with an uncertainty of 7 \narcseconds radius (90% containment). This position lies 73 arcseconds from \nthe center of the BAT error circle, and 6.2 arcseconds from the P60 \nposition (GCN 3829).\n\nThe UVOT began observations at 06:36:13 UT, 80s after the BAT trigger. \nThere is no new source detected in the preliminary UVOT data in the XRT \nerror circle."
+}

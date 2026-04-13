@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210306A: MITSuME Akeno optical observation",
+  "eventId": "GRB 210306A",
+  "bibcode": "2021GCN.29608....1H",
+  "createdOn": 1615099119000,
+  "circularId": 29608,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, R. Adachi, K. L. Murata, M. Niwano, F. Ogawa, N.\nNakamura, N. Ito, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.\nKawai (TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210306A (D'Elia et al. GCN #29597, Watson\net al. GCN 29598, Romanov GCN #29599, Strausbaugh et al. GCN #29600,\nOhno et al. GCN #29602, Hentunen et al. GCN #29603, Stecklum et al.\nGCN #29604, Veres et al. GCN #29605, Lipunov et al. GCN #29606, Zhu et\nal. GCN #29607) with the optical three color (g', Rc, and Ic) CCD\ncameras attached to the MITSuME 50 cm telescope of Akeno Observatory,\nYamanashi, Japan. The observation with a series of 60 sec exposures\nstarted at 2021-03-06 09:12:03 UT (5.3 hours after Swift BAT trigger).\nWe stacked the images with good conditions. We marginally detected the\npoint source at the position consistent with the afterglow detected\npreviously(D'Elia et al. GCN #29597, Watson et al. GCN 29598, Romanov\nGCN #29599, Strausbaugh et al. GCN #29600, Hentunen et al. GCN #29603,\nStecklum et al. GCN #29604, Zhu et al. GCN #29607).\nWe measured the magnitudes as follows.\n\nT0+[hour] MID-UT T-EXP[sec] measured magnitudes\n------------------------------------------------------------------------------------------------\n5.3 11:38:10 8160 g'=20.0+/-0.4, Rc=20.2+/-0.4, Ic=19.0+/-0.3\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

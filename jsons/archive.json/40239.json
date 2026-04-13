@@ -1,0 +1,14 @@
+{
+  "editedOn": 1745515572740,
+  "subject": "GRB 250419a: Continued Liverpool Telescope observations",
+  "eventId": "GRB 250419A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40239....1B",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 40239,
+  "createdOn": 1745512930003,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/plain",
+  "body": "A. Bochenek and D. A. Perley (LJMU) report:\n\nWe have been regularly observing the optical afterglow of SVOM-detected GRB250419a (Wang et al., GCN 40168, Brunet et al. GCN 40234), first reported by López et al. (GCN 40169) and Xin et al. (GCN 40170), using the IO:O optical camera on the 2m robotic Liverpool Telescope in the SDSS r and i filters.  Observations began on 2025-04-19 (Perley & Bochenek, GCN 40181) and have continued nightly since.\n \nThe most recent set of observations was a set of 8x100s exposures starting at 2025-04-23 21:52:15 UT, approximately 4.86 days after the trigger. We report a detection, given below, in both bands.\n\nMJD (mid)         T_mid-T_0        Filter       Mag. (AB)\n60788.97067        4.86 d             r         23.20 ± 0.27\n60788.98199        4.87 d             i         22.91 ± 0.22\n\nThe photometry was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction.  The magnitudes are consistent with the upper limit from earlier in the night reported by Dimple & Gompertz et al. (GCN 40238).\n \nThe source is currently fading rapidly: a fit to our observations taken 2 days and later after the trigger gives a power-law decay index of approximately -2.1, consistent with a post-jet-break evolution.\n"
+}

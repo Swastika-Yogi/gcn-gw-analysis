@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 250610B",
+  "eventId": "GRB 250610B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40692....1H",
+  "createdOn": 1749671691491,
+  "submitter": "rhamburg@usra.edu",
+  "circularId": 40692,
+  "format": "text/plain",
+  "body": "R. Hamburg (USRA) reports on behalf of the Fermi-GBM Team:\n\nThe SVOM/ECLAIRs and SVOM/GRM instruments detected GRB 250610B on 2025-06-10T16:32:58 (GCN 40671). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates.\n\nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals in GBM data, identified a transient starting approximately 31 seconds after the SVOM/ECLAIRs trigger time, most significantly on the 16.384 s timescale and with a false alarm rate of 9.7e-5 Hz. Using the standard search protocol, the Targeted Search localization was found to be spatially consistent with the SVOM/ECLAIRs location. Additionally, the GBM Targeted Search transient was found with the highest significance using a \"soft\" spectrum (Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7) for a GRB. This is roughly consistent with the soft spectrum found by Wang et al. 2025 (GCN 40682).\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

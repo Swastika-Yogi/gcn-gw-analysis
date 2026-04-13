@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100805A: ROTSE-III Optical Limits",
+  "eventId": "GRB 100805A",
+  "bibcode": "2010GCN.11048....1P",
+  "createdOn": 1280984168000,
+  "circularId": 11048,
+  "submitter": "Shashi Bhushan Pandey at ROTSE  <shaship@umich.edu>",
+  "email": "shaship@umich.edu",
+  "body": "S. B. Pandey (U Mich) and W. Zheng (U Mich), report on behalf of the ROTSE\ncollaboration:\n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB\n100805A (Swift trigger 430957; Hoversten , E. A., GCN 11047), producing\nimages beginning 6.2 s after the GCN notice time. An automated response\ntook the first image at 04:13:39.2 UT, 50.9 s after the burst, under fair\nconditions. We took 10 5-sec, 10 20-sec and 10 60-sec exposures. These\nunfiltered images are calibrated relative to USNO A2.0 (R). Imaging is on\ngoing.\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle or at the Swift/UVOT position, for both\nsingle images and coadding into sets of 10. Individual images have limiting\nmagnitudes ranging from 16.1-17.3; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n04:13:39.2   04:13:44.2         5     16.1           50.9       N\n04:14:59.3   04:19:41.7       282     18.0          131.0       Y"
+}

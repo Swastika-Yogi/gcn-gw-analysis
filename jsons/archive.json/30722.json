@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210824A: Swift-BAT refined analysis",
+  "eventId": "GRB 210824A",
+  "bibcode": "2021GCN.30722....1M",
+  "createdOn": 1630006700000,
+  "circularId": 30722,
+  "submitter": "Hans Krimm at NSF/NASA-GSFC  <hkrimm@nsf.gov>",
+  "email": "hkrimm@nsf.gov",
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC), H. A. Krimm (NSF),\nS. Laha (GSFC/UMBC), A. Y. Lien (U Tampa), K. L. Page (U Leicester),\nD. M. Palmer (LANL), T. Sakamoto (AGU), M. Stamatikos (OSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 210824A (trigger #1070157)\n(Page, et al., GCN Circ. 30700).  The BAT ground-calculated position is\nRA, Dec = 232.115, 11.169 deg which is \n RA(J2000)  =  15h 28m 27.5s \n Dec(J2000) = +11d 10' 09.9\" \nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 60%.\n\nThe mask-weighted light curve shows a single broad pulse with some sub-structure.\nIt begins around T-15 sec, peaks at the trigger time and decays to background by\nT+40 sec.  We note that the light curve has a gap from T+110 sec to T+240 sec due to the\nburst going out of the field of view (for a pre-planned slew that started before the trigger \nhad been fully processed) and then coming back into FOV when the pre-planned slew ended \nand the automated target slew had started.  The burst appears to be over before this time.   \nT90 (15-350 keV) is 37.55 +- 4.79 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-13.70 to T+30.94 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.18 +- 0.11.  The fluence in the 15-150 keV band is 1.7 +- 0.1 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+1.02 sec in the 15-150 keV band\nis 1.3 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/1070157/BA/"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251016B: Fermi GBM Detection",
+  "eventId": "GRB 251016B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42383....1G",
+  "createdOn": 1761200568498,
+  "submitter": "Matt Godwin <msg0028@uah.edu>",
+  "circularId": 42383,
+  "format": "text/plain",
+  "body": "Matt Godwin (UAH) and C. Meegan (UAH) report on behalf of\n the Fermi Gamma-ray Burst Monitor Team:\n \n \"At 23:59:00.72 UT on 16 October 2025, the Fermi Gamma-ray Burst Monitor (GBM)\n triggered and located GRB 251016B (trigger 782351945/251016999).\n \n The on-ground calculated location, using the Fermi GBM trigger data,\n is RA = 183.64, Dec = 59.60 (J2000 degrees, equivalent to\n J2000 12h 14m, +59d 36'), with a statistical uncertainty of 1.00 degrees.\n (radius, 1-sigma containment, statistical only; there is additionally a\n systematic error which we have characterized as a mixture of two Gaussians,\n one with a radius of 1.8 degrees (52% contribution) and one with a radius\n of 4.1 degrees (47% contribution) [A. Goldstein et al. 2020, ApJ, 895, 1]).\n \n The angle from the Fermi LAT boresight is 46 degrees.\n \n The GBM light curve consists of a single bright emission episode with a duration (T90)\n of about 7.1 s (50-300 keV). The time-averaged spectrum\n from T0-0.8 to T0+13.5 s is best fit by\n a power law function with an exponential high-energy cutoff.\n The power law index is -1.07 +/- 0.01 and the cutoff energy,\n parameterized as Epeak, is 310 +/- 1 keV.\n \n The event fluence (10-1000 keV) in this time interval is\n (2.27 +/- 0.05)E-05 erg/cm^2. The 1-sec peak photon flux measured\n starting from T0+2.4 s in the 10-1000 keV band is 37.5 +/- 0.5 ph/s/cm^2.\n \n A Band function fits the spectrum equally well\n with Epeak= 222 +/- 1 keV, alpha = -0.96 +/- 0 and beta = -2 +/- 0.01.\n \n \n The spectral analysis results presented above are preliminary;\n final results will be published in the GBM GRB Catalog:\n https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n \n For Fermi GBM data and info, please visit the official Fermi GBM Support Page:\n https://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

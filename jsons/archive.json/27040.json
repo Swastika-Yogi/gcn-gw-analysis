@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200212A: Fermi GBM Final Localization Correction",
+  "eventId": "GRB 200212A",
+  "bibcode": "2020GCN.27040....1F",
+  "createdOn": 1581519940000,
+  "circularId": 27040,
+  "submitter": "Andreas von Kienlin at MPE  <azk@mpe.mpg.de>",
+  "email": "azk@mpe.mpg.de",
+  "body": "\"The Fermi GBM team reports the detection of a likely Long GRB.\n\nAt 10:49:49 UT on 12 Feb 2020, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 200212A (trigger 603197394.1517 / 200212451). \n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 124.8, Dec = 23.0 (J2000 degrees, equivalent to J2000 08h 19m, 23d 00'), with a statistical uncertainty of 13.7 degrees. \n\nThe angle from the Fermi LAT boresight is 108.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200212451/quicklook/glg_skymap_all_bn200212451.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200212451/quicklook/glg_healpix_all_bn200212451.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200212451/quicklook/glg_lc_medres34_bn200212451.gif\""
+}

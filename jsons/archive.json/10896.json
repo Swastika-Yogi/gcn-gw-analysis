@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100628A: Swift-BAT refined analysis",
+  "eventId": "GRB 100628A",
+  "bibcode": "2010GCN.10896....1B",
+  "createdOn": 1277741809000,
+  "circularId": 10896,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), T. Sakamoto (GSFC/UMBC),\nW. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), S. Immler (CRESST/GSFC/UMD),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nA. M. Parsons (GSFC), G. Sato (ISAS), M. Stamatikos (ORAU/GSFC),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+577 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 100628A (trigger #426114)\n(Immler, et al., GCN Circ. 10895).  The BAT ground-calculated position is\nRA, Dec = 225.943, -31.653 deg, which is \n   RA(J2000)  =  15h 03m 46.2s \n   Dec(J2000) = -31d 39' 10.2\" \nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 70%.\n \nThe mask-weighted light curve shows two overlapping peaks starting at\n~T_zero to ~T+0.04 sec.  T90 (15-350 keV) is 0.036 +- 0.009 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T-0.004 to T+0.036 sec is equally well fit\nby the exponential cutof powerlaw and a blackbody:\nExponential cutoff: photon index -2.67 +1.8/-3.7, and Epeak of 74.1 +- 11.4 keV\n(chi squared 60.5 for 56 d.o.f.).  Blackbody: kT = 19.8 +- 2.9\n(chi squared 61.0 for 57 d.o.f.).\n\nThe total fluence in the 15-150 keV band is 2.5 +- 0.5 x 10^-8 erg/cm2 and\nthe 1-sec peak flux measured from T-0.48 sec in the 15-150 keV band is\n0.5 +- 0.1 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.26 +- 0.25 (chi squared 81.3 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/426114/BA/"
+}

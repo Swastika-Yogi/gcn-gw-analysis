@@ -1,0 +1,10 @@
+{
+  "subject": "Correction: GCN1157 (GRB 011121)",
+  "eventId": "GRB 011121",
+  "bibcode": "2001GCN..1159....1O",
+  "createdOn": 1006637029000,
+  "circularId": 1159,
+  "submitter": "Knut Olsen at CTIO  <kolsen@ctio.noao.edu>",
+  "email": "kolsen@ctio.noao.edu",
+  "body": "The values of the R and I-band extinctions reported in GCN 1157\nincorrectly used the ratios of total to selective absorption appropriate\n\nfor Johnson, rather than Cousins, filters.  The correct extinction\nvalues are A_R=1.328 and A_I=0.964, rather than A_R = 1.16 and A_I =\n0.74.  The intrinsic colors are then (V-R) = 0.53 and (V-I) = 0.75.\nMany thanks to Kris Stanek for pointing out the mistake.\n\nKnut Olsen"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050904: Swift/UVOT observations",
+  "eventId": "GRB 050904",
+  "bibcode": "2005GCN..3923....1C",
+  "createdOn": 1125942627000,
+  "circularId": 3923,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A. Cucchiara (PSU), J. Cummings (GSFC), S. Holland (GSFC), C. Gronwall \n(PSU),\nA. Blustin (MSSL), F. Marshall (GCFS), A. Smale (NASA HQ), L. Cominsky \n(Sonoma State U.),\nN. Gehrels (GSFC) on behalf of the Swift UVOT team\n\nSwift/UVOT began observing the field of GRB050904 at 01:54:25 UT,\n164 s after the BAT trigger (Cummings, et al., GCN 3910) in all the six \nfilters.\nIn the first 100 s V-band image (T+ 214 s), no new source is detected with\nrespect to the DSS down to a 3 sigma upper limit of 18.9 mag in the XRT \nerror\ncircle (GCN 3910).\nAt T+90 min after the trigger, in a single 900 s V-band image the upper \nlimit\nwas 20.1.\n\nThe instrument continued to collect data during all the other orbits\ndetecting no new source down to the following upper limits:\n\nFilter  Start_Time(UT)  Stop_Time(UT)  Exp(s) 3sig_limit\n \nV         01:54          16:20         4887    20.9\nB         01:56          18:12         4773    21.9\nU         01:56          17:57         4686    21.6\nUVW1      01:56          16:49         4292    21.1\nUVM2      01:56          16:35         4684    21.4\nUVW2      01:57          18:26         4331    21.4\n\nWhere Start_Time and Stop_Time are the time range over wich the summed \nimages\nwere accumulated and Exp is the total exposure time (in seconds) of the \nsummed image.\nThe magnitude upper limits are not corrected for extinction.\nThese non-detections are consistent with a high redshift GRB,\nas reported by J. Haislip, et al. (GCN 3914 and 3919).\nThese magnitudes are based on preliminary zero-points, measured\nin orbit, and will require refinement with further calibration.\n\nThis message can be cited."
+}

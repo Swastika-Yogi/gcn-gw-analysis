@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180325A: Swift/UVOT Detection",
+  "eventId": "GRB 180325A",
+  "bibcode": "2018GCN.22549....1M",
+  "createdOn": 1522084079000,
+  "circularId": 22549,
+  "submitter": "Frank Marshall at Swift/UVOT  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and E. Troja (NASA/GSFC/UMCP)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180325A\n82 s after the BAT trigger (Troja et al., GCN Circ. 22532).\nA fading source consistent with the enhanced XRT position\n(Osborne et al. GCN Circ. 22539)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  10:29:42.59 = 157.42744 (deg.)\n    Dec (J2000) = +24:27:48.6  =  24.46349 (deg.)\nwith an estimated uncertainty of 0.44 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               82          232          147         18.48 +/- 0.05\nwhite             5039         5239          197         20.75 +/- 0.23\nv                 5450         5650          197        >18.8\nb                 4834         6385          309        >20.1\nu                  295         6265          353        >20.0\nw1                5860         6060          197        >20.1\nm2                5654         5854          197        >19.4\nw2                5245        12343          980        >20.9\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

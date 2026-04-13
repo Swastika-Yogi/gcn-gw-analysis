@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S200213t: Updated Sky Localization",
+  "eventId": "LIGO/Virgo S200213t",
+  "bibcode": "2020GCN.27092....1L",
+  "createdOn": 1581820458000,
+  "circularId": 27092,
+  "submitter": "Leo Singer at GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory\n(H1), LIGO Livingston Observatory (L1), and Virgo Observatory (V1) data\naround the time of the compact binary merger (CBC) candidate S200213t\n(GCN Circular 27042). Parameter estimation has been performed using\nBilby [1] and a new sky map, bilby.fits.gz,0, distributed via GCN\nNotice, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S200213t\n\nThe preferred sky map at this time is bilby.fits.gz,0. For the\nbilby.fits.gz,0 sky map, the 90% credible region is 282 deg2.\nMarginalized over the whole sky, the a posteriori luminosity distance\nestimate is 141 +/- 56 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n[1] Ashton et al. ApJS 241, 27 (2019)"
+}

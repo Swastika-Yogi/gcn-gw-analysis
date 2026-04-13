@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170724A",
+  "eventId": "GRB 170724A",
+  "bibcode": "2017GCN.21425....1K",
+  "createdOn": 1502198255000,
+  "circularId": 21425,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A.Kozlova, S. Golenetskii, R.Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe long GRB 170724A (Swift-BAT trigger #764204: Ukwatta et al.,\nGCN 21364; Sakamoto et al., GCN 21365)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nThe burst light curve shows two emission episodes. The first\nstarted at at ~T0(BAT)-508.6 s with a duration of ~247 s and the\nsecond weaker episode, which corresponds to the BAT trigger,\nstarted at ~T0(BAT)-20 s with a duration of ~91 s.\n\nAs observed by Konus-Wind, the first episode had a fluence of\n5.49(-0.24,+0.26)x10^-5 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(BAT)-408.5 s, of 1.33(-0.16,+0.16)x10^-6 erg/cm2/s.\nThe second episode had a fluence of ~ 0.4 x10^-5 erg/cm2\n(all in the 20 - 1000 keV energy range).\n\nModeling the KW 3-channel time-integrated spectrum of the first episode\n(from ~T0(BAT)-508.6 s to ~T0(BAT)-261.3 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.36 (-0.78,+0.82), and Ep = 340 (-49,+77) keV.\n\nModeling the KW 3-channel time-integrated spectrum of the second episode\n(from ~T0(BAT)-20 s to ~T0(BAT)+71.4 s)\nby a simple power-law model yields a power law\nindex of -2.06(-0.13,+0.24), chi2=0.9/1 dof.\n\nThe KW light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB170724A/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

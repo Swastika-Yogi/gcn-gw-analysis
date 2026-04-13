@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050915B: Swift-BAT detection of a long bright burst",
+  "eventId": "GRB 050915B",
+  "bibcode": "2005GCN..3987....1F",
+  "createdOn": 1126821977000,
+  "circularId": 3987,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "A. Falcone (PSU), A. Beardmore (U. Leicester), D. Burrows (PSU),\nJ. Cummings (GSFC/NRC), D. Fox (PSU), N. Gehrels (GSFC), \nS. T. Holland (GSFC/UMBC), J. Kennea (PSU), H. Krimm (GSFC/USRA),\nC. Pagani (PSU), D. Palmer (LANL), A. Parsons (GSFC), E. Rol (U. Leicester),\nP. Roming (PSU), P. Shady (MSSL),\non behalf of the Swift team:\n\nAt 21:23:04 UT, Swift-BAT triggered and located GRB050915B (trigger=155284).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 219.096d,-67.405d  {14h 36m 23s, -67d 24' 16\"} (J2000), with an \nuncertainty of 3 arcmin (radius, 90% containment, stat+sys).  The BAT light \ncurve showed two broad bright peaks from T-10 to T+40 sec.  The peak count \nrate was ~2800 counts/sec (15-350 keV), at T-2 sec.\n\nXRT began observing at 21:25:20 UT, 136 seconds after the BAT trigger.\nXRT was not able to centroid on any point source, but the downlinked\nlightcurve shows that a bright, fading X-ray source was present in the\nXRT field of view.\n\nThe UVOT began observing at 21:25:18 UT, 134 seconds after the BAT trigger.\nNo new source, with respect to the DSS, is detected in the initial 100 sec \nV-band image.  The 5-sigma limiting magnitude, in a circular aperture of\nradius 6.0 arcseconds is V_lim = 17.7 mag.  This magnitude is based on the \npreliminary V-band zero-point, measured in orbit and will require refinement \nwith further calibration.  It has not been corrected for extinction.  The \nestimated Galactic extinction in this direction is A_V = 1.29.  The UVOT \nimage covers 25% of the 3 arcminute BAT error circle. The field is crowded.\n\nWe are currently in the portion of the orbits where the spacecraft does\nnot pass over the Malindi downlink station. Therefore, it will be ~3\nhours before we have access to the full data set for the refined analyses."
+}

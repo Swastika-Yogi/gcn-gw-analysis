@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 250516A",
+  "eventId": "GRB 250516A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40485....1F",
+  "createdOn": 1747576429082,
+  "circularId": 40485,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaya, D. Svinkin, A. Tsvetkova,\nM. Ulanov, and T. Cline, on behalf of the Konus-Wind team, report\n\nThe long GRB 250516A (Fermi GBM detection: Fermi GBM team, GCN 40466;\nMukherjee & Meegan, GCN 40473; Swift detection: Beardmore et al., GCN 40467)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in the 20-400 keV band\nreveals a ~11 sigma count-rate increase in the interval\nfrom T0-2.757 s to T0+23.739 s where T0 = 14:35:29 UT.\n\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB250516A/\n\nModeling the time-integrated spectrum of the burst\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.21 (-0.10, + 0.10) and Ep = 164(-9,+10) keV.\n\nModelling the spectrum near the peak count rate (T0+3.131 s to T0+9.019 s)\nby a CPL function yields alpha = -1.35 (-0.10, + 0.11) and Ep = 403(-53,+82) keV.\n\nIn the 20 keV -10 MeV band, standard for the KW analysis,\nthe burst fluence is (4.41 ± 1.33)x10^-6 erg/cm^2\nand the 2.944 s peak energy flux, measured from T0+6.075 s,\nis (5.85 ± 0.42)x10^-7 erg/cm^2/s.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

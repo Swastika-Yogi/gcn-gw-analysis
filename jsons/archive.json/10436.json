@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100219A: Swift/UVOT Detection of the Optical Afterglow",
+  "eventId": "GRB 100219A",
+  "bibcode": "2010GCN.10436....1H",
+  "createdOn": 1266625119000,
+  "circularId": 10436,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and\nA. Rowlinson (U. Leicester) report\non the behalf of the Swift UVOT team:\n\n        Swift/UVOT began settled observations of the field of GRB\n100219A starting 161 s after the BAT trigger (Rowlinson, et al. 2010,\nGCN Circ. 10430).  Settled exposures started at T+183 s.  The source\nreported by Holland, et al. (2010, GCN Circ. 104322) is seen in the\nwhite and u-band exposures.  Preliminary 3-sigma magnitudes and upper\nlimits are\n\nFilter   T_start   T_stop   Exp(s)      Mag  Err\n------------------------------------------------------\nwhite       183       333     150     20.91 0.28\nwhite       875      1718     225    >21.6  3-sigma UL\nv           673      1767     136    >19.7  3-sigma UL\nb           598      1693     117    >20.5  3-sigma UL\nu           341      1668     343     20.35 0.35\nuvw1        722      1812     113    >19.9  3-sigma UL\nuvm2        697      1792      39    >18.3  3-sigma UL\nuvw2        648      1297      78    >19.5  3-sigma UL\n------------------------------------------------------\n\n     The fading observed between T+183 s and T+875 s suggests that\nthis is the afterglow of GRB 100219A superimposed on the host galaxy\ncandidate of Bloom and Nugent (2010, GCN Circ. 10433).  The weak\ndetection in the u band suggests that this source has a redshift of\nless than approximately 2.8.\n\n     The quoted magnitudes have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.08 mag (Schlegel, et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometric system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

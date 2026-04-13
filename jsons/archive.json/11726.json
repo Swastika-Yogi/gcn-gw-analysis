@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110205A: Konkoly optical observations",
+  "eventId": "GRB 110205A",
+  "bibcode": "2011GCN.11726....1K",
+  "createdOn": 1297698015000,
+  "circularId": 11726,
+  "submitter": "Janos Kelemen at Konkoly Obs/Hungary  <kelemen@konkoly.hu>",
+  "email": "kelemen@konkoly.hu",
+  "body": "J. Kelemen (kelemen at konkoly.hu) on behalf of the GRB OT observing program\nat the Konkoly Observatory.\n\nStarting on 05/02/2011 we observed the field of GRB 110205A detected\nby Swift (trigger #444643; Beardmore et al., GCN 11629)) with a 60/90 cm \nSchmidt telescope located at the Mountain Station of the Konkoly Observatory\nusing V,R,I filters. Although the OT was visible on the frames we coadded\nimages to achieve better S/N ratio due to the cloudy weather.\nThe time column contains seconds counting from the trigger (J.D. 2455597.58520)\n\nTime     Exp    Mag.    Error.   Filter    Flag.\n [s]     [s]          [3-sigma]\n-------------------------------------------------\n 61782    300\t19.53   0.5       V\n 66022   1800\t18.97   0.4\t  R\n 70312    300\t19.63   0.4       V\t\t\t\t\t\n 71671   1500\t19.92   0.5\t  R\n 74194   1500\t20.11   0.5\t  I\n 75323    300\t19.67   0.4\t  V\n159722   2700\t21.52   0.6\t  R     Upper Level\n--------------------------------------------------"
+}

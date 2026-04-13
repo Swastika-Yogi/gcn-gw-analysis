@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240124B",
+  "eventId": "GRB 240124B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35657....1R",
+  "createdOn": 1706884018190,
+  "circularId": 35657,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "body": "A. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand \n\nG. Waratkar (IITB), J.Joshi (IUCAA), A. Vibhute (IUCAA),\nV. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA),\nA. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL)\non behalf of the Astrosat-CZTI team,\n\nreport:\n\nThe long-duration GRB 240124B\n(AstroSat CZTI detection: Joshi et al., GCN 35636)\nwas detected by Konus-Wind, INTEGRAL (SPI-ACS),\nSwift (BAT), and AstroSat (CZTI) \nat about 76474 s UT (21:14:34).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated this GRB to the following annuli:\n---------------------------------------------------\nannulus         R.A.     Dec.     R     dR (3sigma)\n                (deg)    (deg)   (deg)     (deg)\n---------------------------------------------------\nKonus-SPI-ACS   114.536  21.719  79.082  2.281\nKonus-BAT       112.129  19.162  79.550  1.622\n---------------------------------------------------\n\nThe annuli combined with the KW ecliptic latitude response\ngive 254.7 sq.deg (3 sigma) localization region.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240124_T76473/IPN\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

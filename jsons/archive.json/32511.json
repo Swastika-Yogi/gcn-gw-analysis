@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220831A: Fermi GBM observation",
+  "eventId": "GRB 220831A",
+  "bibcode": "2022GCN.32511....1W",
+  "createdOn": 1662054947000,
+  "circularId": 32511,
+  "submitter": "Joshua Wood at MSFC/Fermi-GBM  <joshua.r.wood@nasa.gov>",
+  "email": "joshua.r.wood@nasa.gov",
+  "body": "J. Wood (NASA/MSFC) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 13:56:32.93 UT on 31 Aug 2022, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 220831A (trigger 683646997 / 220831581).\nwhich was also detected by the Swift/BAT-GUANO (A. Tohuvavohu et al. 2022, GCN 32506)\nThe GBM on-ground location is consistent with the Swift position.\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 28.1, DEC = -45.1 (J2000 degrees,\nequivalent to 01h 52m, -45d 06'), with an uncertainty\nof 7.9 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90% of\nGRBs having a 3.7 deg error and a small tail suffering a larger than 10 deg\nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32]).\n\nThe angle from the Fermi LAT boresight is 102.0 degrees.\n\nThe GBM light curve consists of a single pulse\nwith a duration (T90) of about 1.7 s (50-300 keV).\nThe time-averaged spectrum from T0-0.5 s to T0+1.3 s is\nbest fit by a Band function with Epeak = 46 +/- 8 keV,\nalpha = -0.67 +/- 0.45, and beta = -2.7 +/- 0.4\n\nThe event fluence (10-1000 keV) in this time interval is\n(5.0 +/- 0.5)E-07 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0-0.2 s in the 10-1000 keV band\nis 9.4 +/- 1.7 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

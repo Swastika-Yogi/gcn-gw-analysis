@@ -1,0 +1,11 @@
+{
+  "subject": "EP241217a: Kinder optical follow-up observations",
+  "eventId": "EP241217a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38592....1F",
+  "createdOn": 1734452476554,
+  "circularId": 38592,
+  "submitter": "Janet Chen at National Central University <janetstars@gmail.com>",
+  "format": "text/plain",
+  "body": "L. L. Fan (HNAS), A. Aryan, T.-W. Chen, H.-Y. Hsiao (all NCU), A. K. H. Kong (NTHU), J. Gillanders (Oxford), K. W. Smith, S. J. Smartt (Oxford/QUB), A. Sankar.K, Y.-H. Lee, H.-Y. Miao, Y. J. Yang, M.-H. Lee, W.-J. Hou, C.-C. Ngeow, Y.-C. Pan, C.-H. Lai, H.-C. Lin, C.-S. Lin, J.-K. Guo (all NCU), Z. N. Wang, S. Yang, G. H. Sun (all HNAS), H.-W. Lin (UMich), H. F. Stevance, S. Srivastav, L. Rhodes (all Oxford), M. Nicholl, M. Fulton, T. Moore, C. Angus, A. Aamer (all QUB), A. Schultz and M. Huber (both IfA, Hawaii) report:   \n\nWe observed the field of the fast X-ray transient EP241217a (Zhou et al., GCN 38586) using the Lulin One-meter Telescope (LOT) at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen & Yang et al., 2024; arXiv:2406.09270). The first LOT epoch of observations started at 12:56 UT on the 17th of December 2024 (MJD 60661.539), 7.34 hr after the EP trigger. \n\nWe utilized the astroalign (Beroiz et al., 2020, A&C, 32, 100384) and astropy (Astropy Collaboration et al., 2022, ApJ, 935, 167) packages to align and stack the individual frames. In the stacked frame, we clearly detected the optical counterpart candidate proposed by Levan et al. (GCN 38587), and also observed by Izzo et al. (GCN 38588).\n\nFurther, we utilized the Python-based package AutoPhOT (Brennan & Fraser, 2022, A&A, 667, A62) to perform PSF photometry on our stacked frames. The details of the observations and measured PSF magnitudes (in the AB system) of the possible counterpart of EP241217a are as follows: \n\nTelescope | Filter | MJD (start) | t-t0 (hr) | Exposure (s) | Magnitude | avg. Seeing | med. Airmass  \nLOT | r | 60661.539 | 7.34 | 300 * 15 | 21.24 +/- 0.33 | 1\".55 | 1.01 \n\nThe presented magnitude was calibrated using the field stars from the Pan-STARRS1 catalog and was not corrected for the expected Galactic foreground extinction corresponding to a reddening of A_r = 0.52 mag in the direction of the burst (Schlafly & Finkbeiner 2011). \n"
+}

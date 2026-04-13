@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 250116A",
+  "eventId": "GRB 250116A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38968....1R",
+  "createdOn": 1737122206566,
+  "circularId": 38968,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration, bright GRB 250116A\n(Fermi/GBM detection: Bissaldi et al., GCN 38962;\nFermi/LAT detection: Holzmann Airasca et al., GCN 38963;\nINTEGRAL/SPI-ACS and PICsIT detection: Barria et al., GCN 38965;\nGECAM-B detection: Wang et al., GCN 38967)\ntriggered Konus-Wind at T0=45234.821 s UT (12:33:54.821).\n\nThe burst light curve shows a bright initial \nmultipeaked emission episode which starts at ~T0-0.3 s and \nhas a total duration of ~24.2 s, followed by a weaker\nemission traced up to ~175 s.\nThe emission is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250116_T45234/\n\nAs observed by Konus-Wind, the initial emission episode\nhad a fluence of 1.05(-0.03,+0.03)x10^-4 erg/cm2,\nand a 64-ms peak flux, measured from T0+15.344 s,\nof 1.77(-0.14,+0.14)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the initial episode\n(measured from T0 to T0+26.112 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.58(-0.04,+0.04),\nthe high energy photon index beta = -3.21(-0.28,+0.18),\nthe peak energy Ep = 382(-10,+11) keV\n(chi2 = 111/98 dof).\n\nA spectrum of the weaker emission tail\n(measured from T0+26.112 to T0+181.760 s)\nis best fit by a simple power-law (PL) function with\nthe PL index of -2.13(-0.17,+0.19), chi2 = 97/100 dof.\nA 20 keV - 10 MeV fluence in this interval is estimated\nto 1.25(-0.29,+0.39)x10^-5 erg/cm2.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 250403A",
+  "eventId": "GRB 250403A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40164....1F",
+  "createdOn": 1744911817714,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 40164,
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaya, D. Svinkin, A. Tsvetkova,\nM. Ulanov, and T. Cline, on behalf of the Konus-Wind team, report\n\nThe long GRB 250403A (Fermi GBM detection: Fermi GBM team, GCN 40025;\nVeres et al., GCN 40060; SVOM detection: Julacanti et al., GCN 40026;\nAstroSat CZTI detection: Tembhurnikar et al., GCN 40077)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in the 20-400 keV band\nreveals a ~12 sigma count-rate increase in the interval\nfrom T0-0.4 s to T0+11.5 s where T0 = 15:15:22 UT.\n\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB250403A/\n\nModeling the time-integrated spectrum of the burst\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.14 (-0.23, + 0.23) and Ep = 83(-6,+6) keV.\nIn the 10 keV -10 MeV band, standard for the KW analysis,\nthe burst fluence is (2.55 ± 0.18)x10^-6 erg/cm^2\nand the 2.944 s peak energy flux is (2.51 ± 0.22)x10^-7 erg/cm^2/s.\n\nAssuming the redshift z=1.847 (de Ugarte Postigo et al., GCN 40162)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to (2.2 ± 0.2)x10^52 erg,\nthe isotropic peak luminosity L_iso to (6.3 ± 0.6)x10^51 erg/s, and\nthe rest-frame peak spectral energy Ep,z to (236 ± 11) keV.\nWith the obtained estimates, GRB 250403A is consistent (inside 68% prediction bands)\nof both 'Amati' and 'Yonetoku' relations for the sample\nof >300 long KW GRBs with known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB250403A/GRB250403A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

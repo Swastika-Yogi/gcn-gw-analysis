@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080123: Swift/UVOT refined analysis",
+  "eventId": "GRB 080123",
+  "bibcode": "2008GCN..7207....1C",
+  "createdOn": 1201104583000,
+  "circularId": 7207,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A. Cucchiara (PSU), T. N. Ukwatta (GSFC/GWU)\nreport on behalf of the Swift-UVOT team:\n\nThe Swift/UVOT observed the field of GRB080123 (trigger #301578)\nstarting 111 seconds after the BAT trigger (Ukwatta et al. 2008, GCN\nCirc. 7203). We do not find any new source in any of the UVOT\nsingle or coadded observations inside the XRT enhanced error\ncircle (Osborne et al., GCN Circ. 7204).\nThe XRT position is not covered by the V ,U and B\nimages.\n\nThe 3-sigma upper limits (in the UVOT photometric system,\nBreeveld et al., GCN Circ. 6614) are listed:\n\nFilter           Tstart   Tstop     Exp    Magnitude  \n                   (s)     (s)      (s)   \n\nwhite              112     211      100    >20.48\n(finding chart)\n\nuvw1               651    8022      577    >20.86\nuvm2               626    7817      578    >20.70\nuvw2               731   14026     1188    >21.56\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.03  mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

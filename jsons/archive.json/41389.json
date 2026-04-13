@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250814A: Mondy optical observations of the candidate counterpart to LVK S250814bg",
+  "eventId": "GRB 250814A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41389....1P",
+  "createdOn": 1755255307664,
+  "circularId": 41389,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of GRB 250814A detected by Fermi/GBM (The Fermi GBM team, GCN 41357), Swift/BAT (Caputo et. al, GCN 41358), which was temporally and spatially coincident with a GW event S250814bg detected by LVK (GCN 41364). The observations were carried out with the 1.5m AZT-33IK telescope of the Solar Sayan Observatory (Mondy). The series of 30x120 s images were captured in the R-filter starting on 2025-08-14 at 17:49 UT, i.e. ~0.44 days after the GBM trigger. In the co-add image of 28x120 s we do not detect any optical source at the position of the IR candidate (Karambelkar et. al, GCN 41377; Castro-Tirado et. al, GCN 41381; Ahumada et. al, GCN 41382). The preliminary upper limit on a candidate optical counterpart in the co-add image is presented below:\n\nDate       UT start     t-T0        Exp.  Filter OT   Err     UL\n                     (mid, days)  (n x s)                  (3sigma)\n2025-08-14 17:51:08    0.44721     28x120   R    n/d  n/d    22.7\n\nThe photometry was calibrated using nearby stars from the PS1 DR2 catalog (R mags were obtained via Lupton 2005 transformations) and not corrected for the Galactic extinction. The candidate counterpart position was also observed in the optical and IR bands by (Becerra et. al, GCN 41362; de Ugarte Postigo et. al, GCN 41367; Karambelkar et.al, GCN 41372; Salazar Manzano et. al, GCN 41375; Jiang et. al, GCN 41387), which resulted in upper limits."
+}

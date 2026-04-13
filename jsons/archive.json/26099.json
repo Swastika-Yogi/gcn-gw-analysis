@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191029A: CORRECTED Swift-XRT refined analysis",
+  "eventId": "GRB 191029A",
+  "bibcode": "2019GCN.26099....1E",
+  "createdOn": 1572429402000,
+  "circularId": 26099,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans and K.L. Page (U. Leicester) report on behalf of the\nSwift-XRT team:\n\nThe XRT refined analysis for GRB 191029A, given in GCN 26094 was\nincorrect. There is an AGN within the BAT error circle and unfortunately\nthe automated light curve and spectral analysis had been performed for\nthis source, rather than the afterglow.\n\nThe correct refined analysis is below. We apologise for any\ninconvenience.\n\nWe have analysed 13 ks of XRT data for GRB 191029A (Evans et al. GCN\nCirc. 26088), from 3.1 ks to 62.0 ks after the  BAT trigger. The data\nare entirely in Photon Counting (PC) mode. The enhanced XRT position for\nthis burst was given by Evans et al. (GCN Circ. 26095).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=0.77 (+0.13, -0.12).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.81 (+0.23, -0.19). The\nbest-fitting absorption column is  3.4 (+5.3, -1.6) x 10^20 cm^-2,\nconsistent with the Galactic value of 1.8 x 10^20 cm^-2 (Willingale et\nal. 2013). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 3.5 x 10^-11 (3.7 x\n10^-11) erg cm^-2 count^-1.\n\nA summary of the PC-mode spectrum is thus:\nTotal column:        3.4 (+5.3, -1.6) x 10^20 cm^-2\nGalactic foreground: 1.8 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:        1.81 (+0.23, -0.19)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00932058."
+}

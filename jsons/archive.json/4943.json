@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060331: Swift/UVOT upper limits",
+  "eventId": "GRB 060331",
+  "bibcode": "2006GCN..4943....1S",
+  "createdOn": 1144059057000,
+  "circularId": 4943,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (UCL-MSSL), on behalf of the Swift/UVOT team\n\nThe Swift/UVOT observed the field of HETE II transient H4043 (Fenimore et al. \nGCN 4938) at two separate epochs starting at 16:53 UT and 18:29 UT. A 575s \ncoadded exposure from the first epoch of observations taken in white reveals no \nnew source in the field of view down to a 5-sigma magnitude upper limit of \n19.9. In both epochs no source is detected in summed images from any of the \nfilters used down to the following 5-sigma upper limits.\n\n1st Epoch\nFilter  Date Obs.     Exp (s) 5sigUL(mag)\nB       17:08:07 UT   885     20.3\nU       16:52:56 UT   885     20.0\nWhite   17:23:18 UT   575     19.9\n\n2nd Epoch\nFilter  Date Obs.     Exp (s) 5sigUL(mag)\nB       18:59:13 UT   605     19.8\nU       18:44:02 UT   885     20.0\nUVW1    18:28:55 UT   886     19.4\n\nwhere Date Obs. is the time of the beginning of the observations. These \nmagnitudes are not corrected for Galactic extinction; E(B-V)=0.148."
+}

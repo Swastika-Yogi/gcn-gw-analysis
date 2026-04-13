@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 150831A",
+  "eventId": "GRB 150831A",
+  "bibcode": "2015GCN.18226....1G",
+  "createdOn": 1441122675000,
+  "circularId": 18226,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 150831A (Swift trigger 648437:\nLien, et al., GCN Circ. 18209; Ukwatta, et al., GCN Circ. 18214;\nINTEGRAL detection: Mereghetti et al., GCN Circ. 18210)\ntriggered Konus-Wind at T0=38049.519 s UT (10:34:09.519).\n\nThe burst light curve shows a short pulse with\na total duration of ~1 s.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(2.4 +/- 0.4)x10^-6 erg/cm2, and a 16-ms peak flux,\nmeasured from T0-0.082 s, of (9.1 +/- 2.5)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the most intense part of the burst was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModeling the 3-channel time-integrated spectrum\n(from T0-0.108 s to T0+0.912 s) by a power law\nwith exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.5 +/- 0.3, and Ep = 564 +/- 122 keV.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB150831_T38049/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201216A: Swift/BAT-GUANO detection and arcminute localization",
+  "eventId": "GRB 201216A",
+  "bibcode": "2020GCN.29059....1T",
+  "createdOn": 1608156310000,
+  "circularId": 29059,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Aaron Tohuvavohu (U Toronto), James DeLaunay (PSU),  Jamie Kennea (PSU) report:\n\nSwift/BAT did not trigger on GRB 201216A (T0: 2020-12-16 19:00:31 UTC,\nFermi/GBM TRIGGER 629838036, GCN 29057).\n\nThe Fermi/GBM notice, distributed in near real-time triggered the\nSwift Mission Operations Center operated Gamma-ray Urgent Archiver for\nNovel Opportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst\nAlert Telescope (BAT) to save 200 seconds of BAT event-mode data from\n[-50,+150] seconds around the time of the burst. All the requested\nevent mode data was delivered to the ground.\n\nUsing the normal BAT imaging technique, we find the location of the\nGRB with an SNR of 8.9.\nThe BAT position is\nRA, Dec = 201.4872, +36.3116 deg which is\n   RA(J2000)  = 13h 25m 56.93s\n   Dec(J2000) =  +36d 18' 41.76\"\nwith an estimated uncertainty of 3 arcmin.\n\nThis position is consistent with the Fermi GBM localization (GCN 29057).\n\nXRT and UVOT follow-up has been requested. Results of follow-up\nobservations will be reported in future circulars.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

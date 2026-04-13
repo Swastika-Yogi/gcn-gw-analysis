@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251214A: AstroSat CZTI detection",
+  "eventId": "GRB 251214A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43107....1G",
+  "createdOn": 1765779190418,
+  "circularId": 43107,
+  "submitter": "Gaurav Waratkar at Caltech <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "A. Goyal (IITB), A. Arya (IITB), M. Tembhurnikar (IUCAA), S. Salunke (IUCAA), Harsha K. H. (IUCAA), G. Waratkar (Caltech/IITB), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of GRB 251214A which was also detected by Fermi GBM (Fermi GBM Team, GCN Circ. 43086). We detect only the brighter shorter-duration part of the burst as seen in the GBM lightcurve because the source location was at an angle of 110 deg from the pointing axis of AstroSat CZTI.\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range.  The light curve peaks at 2025-12-14 00:11:15.25 UTC. The measured peak count rate associated with the burst is 274 (+153, -45) counts/s above the background in the combined data of all quadrants, with a total of 134 (+124, -33) counts. The local mean background count rate was 269 (+5, -23) counts/s. Using cumulative rates, we measure a T90 of 1.4 (+0.2, -1.0) s. \n\nThe source was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2025-12-14 00:11:14.91 UTC. The measured peak count rate associated with the burst is 347 (+66, -71) counts/s above the background in the combined data of all quadrants, with a total of 418 (+226, -230) counts. The local mean background count rate was 1283 (+6, -7) counts/s. Due to the intrinsic 1 s binning of veto data, we cannot reliably estimate a T90 for our detection.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

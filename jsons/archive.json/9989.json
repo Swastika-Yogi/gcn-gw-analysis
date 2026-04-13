@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091003: Skynet/DSO Observations",
+  "eventId": "GRB 091003",
+  "bibcode": "2009GCN..9989....1H",
+  "createdOn": 1254680055000,
+  "circularId": 9989,
+  "submitter": "Josh Haislip at U.North Carolina  <haislip@physics.unc.edu>",
+  "email": "haislip@physics.unc.edu",
+  "body": "J. Haislip, D. Reichart, A. Smith, D. Caton, L. Hawkins, K. Ivarsen, A. \nLaCluyze, A. Foster, J. Moore, A. Oza, M. Schubel, J. Styblova, A. Trotter, \nJ. A. Crain, and M. Nysewander report:\n\nSkynet observed the Fermi/LAT localization (McEnery, Chiang & Hanabata, GCN \n9985) of GRB 091003 (Rau, GCN 9935) with the 14\" Dark Sky Observatory \ntelescope in North Carolina beginning 20.2 hours after the trigger in BVRI.\n\nWe do not detect the afterglow (Starling & Beardmore, GCN 9986; Gronwall & \nStarling, GCN 9987).  Stacking only images that increase the limiting \nmagnitude yields:\n\nmean                                             1-sig.  1-sig.\ntime                          3-sig.             sys.    stat.\nsince                         lim.    cal.       cal.    cal.\ntrig.  tel.    exp.     fil.  mag.    stars*     unc.    unc.\n(h)            (# x s)                           (mag)   (mag)\n\n21.0   DSO-14  16 x 80  V     19.6    58 SDSS 7  0.076   0.000\n21.0   DSO-14  17 x 80  B     19.5    33 SDSS 7  0.087   0.001\n21.0   DSO-14  16 x 80  R     19.8    64 SDSS 7  0.064   0.000\n21.0   DSO-14  16 x 80  I     19.3    45 SDSS 7  0.049   0.000\n\n* Transformed using Jester et al., 2005, ApJ, 130, 873."
+}

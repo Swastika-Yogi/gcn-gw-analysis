@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090904A: Swift/UVOT Refined Analysis",
+  "eventId": "GRB 090904A",
+  "bibcode": "2009GCN..9899....1P",
+  "createdOn": 1252129593000,
+  "circularId": 9899,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU), C. A. Swenson (PSU) and M. Perri (ASDC) report on \nbehalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of GRB 090904A,  141 seconds \nafter the\nBAT trigger (M. Perri et al., GCN Circ. 9879). We do not detect any \nsource at the\nUVOT-enhanced XRT position (M.R. Goad, GCN Circ. 9885).\n\nThe 3-sigma upper limits for the exposures are:\n\nFilter   T_start(s)   T_stop(s)   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite      141      \t1189       341      > 21.57\nv          629       \t1078        58      > 18.72\nb          555          1177        58      > 19.59\nu          299       \t1152       285      > 20.43\nuvw1\t   679\t\t1127\t    58      > 19.11\nuvm2\t   827\t\t847\t    19      > 17.61\nuvw2\t   605\t\t1054\t    58      > 19.17\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction corresponding to a reddeningalong the line of sight of\nE_(B-V) = 0.1 mag (Schlegel et al., 1998, ApJS, 500, 525).  All \nphotometry is on the\nUVOT photometric system described in Poole et  al. (2008, MNRAS, 383, 627)."
+}

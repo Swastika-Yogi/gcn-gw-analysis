@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220823A: Fermi GBM detection",
+  "eventId": "GRB 220823A",
+  "bibcode": "2022GCN.32479....1H",
+  "createdOn": 1661359418000,
+  "circularId": 32479,
+  "submitter": "Boyan A. Hristov at UAH  <bah0046@uah.edu>",
+  "email": "bah0046@uah.edu",
+  "body": "B. Hirstov (UAH) and C. Fletcher (USRA)\nreport on behalf of the Fermi GBM Team:\n\n\"At 03:28:52.39 UT on 23 August 2022, the Fermi Gamma-Ray\nBurst Monitor (GBM) triggered and located GRB 220823A\n(trigger 682918137 / 220823145),which was also detected by\nSwift/BAT-GUANO (A. Tohuvavohu et al. 2022, GCN 32476).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 82.94, DEC = +2.44 (J2000 degrees, equivalent\nto 05h, 31m, 2d 26'), with a statistical uncertainty of 3\ndegrees (radius, 1-sigma containment, statistical only;\nthere is additionally a systematic error which we have\ncharacterized as a core-plus-tail model, with 90% of GRBs\nhaving a 3.7 deg error and a small tail suffering a larger\nthan 10 deg systematic error. [Connaughton et al. 2015,\nApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight at the GBM trigger\ntime is 15 degrees.\n\nThe GBM light curve consists of single peak with a duration\n(T90) of 1.1 +/- 0.7 s (50-300 keV).\n\nThe time-averaged spectrum from T0-1.024 s to T0+0.256 s is\nbest fit by a power law with an exponential cutoff with\nEpeak = 1189 +/- 608 keV and alpha = -0.52 +/- 0.26.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.1 +/- 0.1)E-6 erg/cm^2. The 0.064-sec peak photon flux\nmeasured starting from T0-0.064 s in the 10-1000 keV band\nis 5 +/- 1 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official\nFermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

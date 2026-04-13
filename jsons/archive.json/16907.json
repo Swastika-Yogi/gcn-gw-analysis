@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 141011A",
+  "eventId": "GRB 141011A",
+  "bibcode": "2014GCN.16907....1G",
+  "createdOn": 1413201095000,
+  "circularId": 16907,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "S. Golenetskii, R. Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration, hard-spectrum GRB 141011 (Fermi-GBM detection: von \nKienlin, GCN Circ. 16905; IPN triangulation: Golenetskii et al., GCN \nCirc. 16906) triggered Konus-Wind at T0=24377.666 s UT (06:46:17.666).\n\nThe burst light curve shows a short pulse with\na total duration of ~0.1 s.\nThe emission is seen up to ~4 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB141011_T24377/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.24(-0.20,+0.02)x10^-6 erg/cm2,\nand a 2-ms peak flux, measured from T0-0.012 s,\nof 7.1(-1.7,+0.7)x10^-5 erg/cm2/s\n(both in the 20 keV - 1.2 MeV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum\n(from T0-0.014 s to T0+0.048 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep) yields\nalpha = 0.1(-0.4, +0.4), and\nEp = 521(-75,+120) keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the quoted values are preliminary."
+}

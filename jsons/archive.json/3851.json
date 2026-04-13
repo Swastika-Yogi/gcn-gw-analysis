@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT UV Photometry of GRB 050820B",
+  "eventId": "GRB 050820B",
+  "bibcode": "2005GCN..3851....1C",
+  "createdOn": 1124686642000,
+  "circularId": 3851,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M. Chester (PSU), M. Page (UCL-MSSL), F. Marshall (GSFC), P. Roming (PSU),\nD. Hinshaw (GSFC-SPSYS), P. Meszaros (PSU), N. Gehrels (GSFC)\non behalf of the Swift UVOT team.\n\n\nSwift/UVOT observed GRB 050820B in its UV filters only, due to the \npresence of a\nV=4.5 star in its field of view.  The afterglow was not detected at the \nXRT position.\n5-sigma upper limits are:\n\n\nFilter     Magnitude      Exp (s)   T_start    T_stop\nUVM2         >19.1         100       1987       2087\nUVW1         >19.0         100       2091       2191\nUVW2         >19.3         100       2198       2298\n\nwhere T_start and T_stop are in seconds after the trigger (Page et al. \nGCN 3839)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB231110A: WFST Observation and upper limits",
+  "eventId": "GRB 231110A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2023GCN.34979....1S",
+  "createdOn": 1699712162241,
+  "submitter": "Tianrui Sun at Purple Mountain Obs,CAS <trsun@pmo.ac.cn>",
+  "circularId": 34979,
+  "body": "Tian-Rui Sun, Jin-Jun Geng, and Zhen-Qiang Li report on behalf of the WFST Collaboration:\n\nFollowing the detection of GRB 231110A by SWIFT (D’Elia et al., GCN 34977) and MASTER (Lipunov et al., GCN 34978), we carried out image observations using the newly deployed Wide Field Survey Telescope (WFST Collaboration; arXiv:2306.07590) at Lenghu Astronomical Observation Base (Qinghai province, China) to search and follow up its afterglow in the BAT error box.\n\nWe observed the target position with 13x60s and 27x90s exposure in i-band starting from 10 Nov 2023, UTC 05:59:01, about 39.45 minutes after the burst.\n\nAfter stacking the individual exposures (5x90s) to enhance observation depth at low altitude, we found two possible candidates:\n\nRA            | DEC             | i-magnitude |magerr |limit \n23:45:02.3407 | +82:38:43.067   | 21.6953     |0.0957 |22.3909\n23:45:18.0531 | +82:37:18.403   | 22.0166     |0.1286 |22.3909\n\nWe used the PanStarrs DR1 (Flewelling,2020) catalog as the magnitude reference for calibration.\n\n\n\n"
+}

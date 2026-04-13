@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170906C: Swift-XRT refined Analysis",
+  "eventId": "GRB 170906C",
+  "bibcode": "2017GCN.21834....1D",
+  "createdOn": 1504711932000,
+  "circularId": 21834,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "V. D'Elia (ASDC), A. D'Ai (INAF-IASFPA), D.N. Burrows (PSU), A.\nTohuvavohu (PSU), S. J. LaPorte (PSU), J.P. Osborne (U. Leicester),\nK.L. Page (U. Leicester), A.P. Beardmore (U. Leicester), A. Melandri\n(INAF-OAB) and M.H. Siegel report on behalf of the Swift-XRT team:\n\nWe have analysed 6.5 ks of XRT data for GRB 170906C (Siegel et al. GCN\nCirc. 21826), from 1.3 ks to 20.2 ks after the\tBAT trigger. The data\nare entirely in Photon Counting (PC) mode. The enhanced XRT position\nfor this burst was given by Evans et al. (GCN Circ. 21831).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=0.65 (+0.07, -0.06).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.69 (+0.21, -0.20). The\nbest-fitting absorption column is  9.4 (+1.4, -1.3) x 10^21 cm^-2, in\nexcess of the Galactic value of 3.3 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.4 x 10^-11 (1.2 x 10^-10) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     9.4 (+1.4, -1.3) x 10^21 cm^-2\nGalactic foreground: 3.3 x 10^20 cm^-2\nExcess significance: 11.3 sigma\nPhoton index:\t     2.69 (+0.21, -0.20)\n\nIf the light curve continues to decay with a power-law decay index of\n0.65, the count rate at T+24 hours will be 0.027 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 9.1 x\n10^-13 (3.2 x 10^-12) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00770981.\n\nThis circular is an official product of the Swift-XRT team."
+}

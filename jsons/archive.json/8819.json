@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090117 Swift/UVOT upper limits",
+  "eventId": "GRB 090117",
+  "bibcode": "2009GCN..8819....1S",
+  "createdOn": 1232249016000,
+  "circularId": 8819,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observing the field of SuperAGILE GRB 090117  \n(Donnarumma et al., GCN 8817) at 2009-01-017 19:10:14 UT, 13.7 ks  \nafter the burst. We do not detect any source at the Swift XRT position  \n(Beardmore et al., GCN 8818), although we note that there is a bright  \nstar with v-band magnitude v = 17.7 that lies within the XRT error  \ncircle.\n\nThe UVOT 3-sigma upper limits are reported below:\n\nFilter   T_start   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite      14.4       455      > 17.18\nv              15.1       595      > 16.18\nb              13.8       627      > 17.08\nu              13.7       63        > 17.27\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected  \nGalactic extinction along the line of sight of E_(B-V) = 1.63 mag. All  \nphotometry is on the UVOT photometric system described in Poole et al.  \n(2008, MNRAS, 383, 627)."
+}

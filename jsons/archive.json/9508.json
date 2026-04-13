@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090610B: Fermi GBM detection",
+  "eventId": "GRB 090610B",
+  "bibcode": "2009GCN..9508....1G",
+  "createdOn": 1244824114000,
+  "circularId": 9508,
+  "submitter": "Adam Goldstein at Fermi-GBM/UAH  <adam.m.goldstein@msfc.nasa.gov>",
+  "email": "adam.m.goldstein@msfc.nasa.gov",
+  "body": "A. Goldstein (UAH) reports on behalf of the Fermi GBM Team: \n\n\"At 17:21:31.90 UT on 10 June 2009, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 090610B (trigger 266347293 / 090610723).\n\nThe on-ground calculated location, using the GBM trigger \ndata, is RA = 276.0, DEC = -42.1 (J2000 degrees, \nequivalent to 18h 24m, -42d 06'), with an uncertainty \nof 9.5 degrees (radius, 1-sigma containment, \nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\nThe angle from the Fermi LAT boresight is 91 degrees.\n\nThe GBM light curve consists of a single short pulse at trigger time\nfollowed by a broad pulse starting at T0+80 s with a total duration \n(T90) of about 202.5 s (8-1000 keV). \n\nThe time-averaged spectrum for the first pulse from T0-6.2 s to \nT0+4.1 s is best fit by a power law function with an exponential\nhigh energy cutoff.  The power law index is -0.46 +/- 0.36 and\nthe cutoff energy, parameterized as Epeak, is 104.90 +/- 16.70 keV\n(chi squared 338.8 for 359 d.o.f.).\n\nThe time-averaged spectrum for the second pulse from T0+79.9 s to\nT0+161.8 s is best fit by a simple power law function with index\n-1.66 +/- 0.07 (chi squared 454.9 for 360 d.o.f.).\n\nThe event fluence (8-1000 keV) in the total time interval is \n(4.13 +/- 0.24)E-06 erg/cm^2. The 1-sec peak photon flux measured \nstarting from T0+2.0 s in the 8-1000 keV band \nis 1.54 +/- 0.43 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary; \nfinal results will be published in the GBM GRB Catalog.\""
+}

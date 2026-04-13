@@ -1,0 +1,14 @@
+{
+  "editedOn": 1764564830912,
+  "subject": "GRB 251129A / EP251129a: SVOM/VT optical  fading",
+  "version": 2,
+  "eventId": "GRB 251129A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42887....1L",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 42887,
+  "createdOn": 1764394914832,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li ,  L. P. Xin, Y. L. Qiu, C. Wu, Z. H. Yao, Y. N. Ma, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), W. J. Tan (IHEP), D. F. Kong (GXU) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed an automatic slew to GRB 251129A/EP251129a triggered by SVOM/ECL (sb25112901, Tan et al., GCN 42879). The burst was also triggered by EP (Wu et al., GCN 42884). SVOM/VT began the observation at 2025-11-29T02:43:03 UTC, i.e., 658 seconds post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n \nWith the downloaded early X band data, the optical counterpart (Angulo et al. GCN 42880; Watson, GCN 42883; Wu et al., GCN 42882; Masi et al. GCN 42885) was clearly detected in both channels. The measurements are given below:\n\n  Mid_time        Band        Exposure Time       Magnitude (AB)\n12.43 min         VT_B            50 sec         18.16+/-0.03 mag                      \n12.43 min         VT_R            50 sec         17.89+/-0.03 mag \n44.96 min         VT_B            50 sec         19.11+/-0.04 mag                      \n44.96 min         VT_R            50 sec         18.80+/-0.03 mag \n\nIt was fading with a slope of about 0.7 with a single power law.\n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

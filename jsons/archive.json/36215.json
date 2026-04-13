@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240421B: J-band upper limits from WINTER",
+  "eventId": "GRB 240421B",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36215....1K",
+  "createdOn": 1713726519696,
+  "circularId": 36215,
+  "submitter": "Viraj Karambelkar at Indian Inst of Tech,Bombay <karambelkarvraj21197@gmail.com>",
+  "body": "Viraj Karambelkar (Caltech), Geoffrey Mo (MIT), Robert Stein (Caltech),\nDanielle Frostig (MIT), Tomas Ahumada (Caltech), Nathan Lourie (MIT),\nRobert Simcoe (MIT), Mansi Kasliwal (Caltech)\n\nWe observed the field of the long GRB 240421B (GCN 36208, 36213, 36214) in\nthe near-IR J-band with the WINTER camera on the Palomar 40-inch telescope.\nOur observations started at UTC 2024-04-19T11:16:00 (~1.5 hours since\ntrigger) and lasted for an hour.\n\nThe images were processed through the WINTER data reduction pipeline\nimplemented using mirar (https://zenodo.org/records/10888437), with image\nsubtraction performed relative to reference images built from the VISTA\nHemisphere Survey (McMahon et al. 2013).\n\n\n\nWe do not detect any source at the location of the X-ray counterpart\n(reported in GCN 36213) to a limit of m_J = 19.5 mag (AB, not corrected for\nGalactic extinction). No other new sources are found within the 3 arcmin\nlocalization of the GRB.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between\nMIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF\nAAG, the David and Lucille Packard Foundation, and the MIT Kavli Institute\nfor Astrophysics and Space Research\n"
+}

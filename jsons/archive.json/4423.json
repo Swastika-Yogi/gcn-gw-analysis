@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060102: Swift-BAT detection of a burst",
+  "eventId": "GRB 060102",
+  "bibcode": "2006GCN..4423....1R",
+  "createdOn": 1136238310000,
+  "circularId": 4423,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "A. Retter (PSU), S. Barthelmy (GSFC), D. Burrows (PSU), M. Chester (PSU),\nN. Gehrels (GSFC), S. Immler (GSFC), F. Marshall (GSFC), T. Sakamoto (GSFC)\non behalf of the Swift team:\n\nAt 21:17:28 UT, Swift-BAT triggered and located GRB 060102 (trigger=175603).\nThe spacecraft did not slew to this burst because of the Moon observing\nconstraint.  The BAT on-board calculated location is RA,Dec 328.852d,-1.846d\n{21h 55m 25s,-01d 50' 44\"} (J2000), with an uncertainty of 3 arcmin\n(radius, 90% containment, stat+sys).  The BAT light curve shows a multi-peak\nstructure with a total duration of ~20 sec.  The peak count rate was\n~1500 counts/sec (15-350 keV), at ~1 seconds after the trigger.\n\n[GCN OPS NOTE(03jan06): The time is wrong (as noted in Circ 4424).  The 02:45:43\nvalue was changed to 21:17:28 UT.  All the other values are correct.]\n[GCN OPS NOTE(03feb06): per author's request, \"E.Retter\" was changed to \"A.Retter\".]"
+}

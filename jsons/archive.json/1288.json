@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 011121: Fourth Epoch of HST Imaging",
+  "eventId": "GRB 011121",
+  "bibcode": "2002GCN..1288....1B",
+  "createdOn": 1016757478000,
+  "circularId": 1288,
+  "submitter": "Josh Bloom at CIT  <jsb@astro.caltech.edu>",
+  "email": "jsb@astro.caltech.edu",
+  "body": "GRB 011121: Fourth Epoch of HST Imaging\n\nJ. S. Bloom, S. R. Kulkarni, D. E. Reichart, P. A. Price, on behalf of\nthe Caltech-NRAO-CARA GRB Collaboration and co-investigators on the\nlarge HST Cycle 10 GRB program (#9180), report:\n\nFollowing the discussion from Kulkarni et al. (GCN #1276) the fourth epoch\nof HST imaging (4 Feb 2002 UT) of the afterglow of GRB 011121 has revealed\ncontinued fading of the intermediate-time red bump (Garnavich et al. GCN\n#1273; Bloom et al. GCN #1274; GCN #1276).  Following are the magnitudes\nand fluxes of the transient bump plus host contribution:\n\nFilter  delta T    lambda_eff   f_nu(lambda_eff)   Vega mags\n         (days)      (Ang)           (microJy)       (mag)\n---------------------------------------------------------------------\nF555W    77.33      5604.61     0.123 +/- 0.014  V = 26.173 +/- 0.118\nF702W    76.58      7042.09     0.224 +/- 0.019  R = 25.264 +/- 0.092\nF814W    77.25      8149.18     0.294 +/- 0.020  I = 24.762 +/- 0.073\n---------------------------------------------------------------------\n\nThese fluxes and magnitudes have not been corrected for Galactic or host\nextinction.  The host galaxy contributes significantly to the flux at\nthese late times.  We estimate this contribution from the host to be\nf_nu(F555W) = (0.087 +/- 0.027) microJy, f_(F702W) = (0.127 +/- 0.026)\nmicroJy and f_nu(F814W) = (0.209 +/- 0.059) microJy.  More information\nabout the reductions may be found in:\nhttp://www.astro.caltech.edu/~jsb/Papers/grb011121-paper1.ps\n\nThis message may be cited."
+}

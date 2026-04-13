@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091117:  Evidence for Variability of XRT Source #1",
+  "eventId": "GRB 091117",
+  "bibcode": "2009GCN.10179....1F",
+  "createdOn": 1258649389000,
+  "circularId": 10179,
+  "submitter": "Derek Fox at PSU  <dfox@astro.psu.edu>",
+  "email": "dfox@astro.psu.edu",
+  "body": "D. B. Fox (Penn State) reports:\n\n\"Analysis of the first 3.85 ks of Swift XRT exposure (D'Elia et al.,\nGCN 10177) on the field of GRB 091117 (Cummings et al., GCN 10171), as\nreduced via standard XRT pipeline processing, yields a total of 13\nphotons from Source #1 (Berger, GCN 10173) and 7 photons from Source\n#2 (D'Elia et al., GCN 10177).\n\nThe resulting distribution of photon arrival times for Source #1 is\ninconsistent with a constant count rate at roughly 93% confidence,\naccording to a single-sample KS test, suggesting fading or variable\nbehavior of this X-ray source.  The maximum deviation from a constant\ncount rate model occurs after 35% of the integrated exposure, when 9\nof 13 photons (70% of total counts) have been collected.\n\nThe same test applied to the arrival times for Source #2 indicates\nconsistency with a constant count rate (p-value of 0.90), however, the\nsensitivity of the test is more strongly limited by photon statistics\nin this case, such that we would not expect fading/variability at the\nlevel suggested in Source #1 to be apparent in Source #2, even if\npresent.\""
+}

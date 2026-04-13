@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220714B: Swift-BAT refined analysis",
+  "eventId": "GRB 220714B",
+  "bibcode": "2022GCN.32403....1L",
+  "createdOn": 1657914460000,
+  "circularId": 32403,
+  "submitter": "Hans Krimm at NSF/NASA-GSFC  <hkrimm@nsf.gov>",
+  "email": "hkrimm@nsf.gov",
+  "body": "S. Laha (GSFC/UMBC), S. D. Barthelmy (GSFC),  H. A. Krimm (NSF),\r\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\r\nT. Parsotan (GSFC/UMBC), T. Sakamoto (AGU), M. Stamatikos (OSU)\r\n(i.e. the Swift-BAT team):\r\n\r\nUsing the data set from T-173 to T+963 sec from the recent telemetry downlink,\r\nwe report further analysis of BAT GRB 220714B (trigger #1116221)\r\n(Laha, et al., GCN Circ. 32393).  The BAT ground-calculated position is\r\nRA, Dec = 47.086, -19.321 deg which is\r\n   RA(J2000)  =  03h 08m 20.7s\r\n   Dec(J2000) = -19d 19' 13.8\"\r\nwith an uncertainty of 1.3 arcmin, (radius, sys+stat, 90% containment).\r\nThe partial coding was 88%.\r\n\r\nThe mask-weighted light curve shows a complex structure.  The main period of\r\nemission starts around T-5 sec and continues to T+35 seconds with three main\r\noverlapping pulses.  There is some precursor activity starting as early as T-45\r\nseconds and low-level emission extending to T+60 seconds.  The spacecraft\r\nslewed away from the burst location at around T+275 seconds.\r\nT90 (15-350 keV) is 50.10 +- 7.96 sec (estimated error including systematics).\r\n\r\nThe time-averaged spectrum from -48.27 to +45.75 sec is best fit by a simple\r\npower-law model.  The power law index of the time-averaged spectrum is\r\n1.92 +- 0.07.  The fluence in the 15-150 keV band is 4.4 +- 0.1 x 10^-6 erg/cm2.\r\nThe 1-sec peak photon flux measured from T+12.89 sec in the 15-150 keV band\r\nis 3.8 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\r\nlevel.\r\n\r\nThe results of the batgrbproduct analysis are available at\r\nhttp://gcn.gsfc.nasa.gov/notices_s/1116221/BA/"
+}

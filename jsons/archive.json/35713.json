@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240205A (short)",
+  "eventId": "GRB 240205A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35713....1F",
+  "createdOn": 1707665616809,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 35713,
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 240205A\n(Fermi GBM Final Real-time Localization: GCN 35679;\nGlowbug gamma-ray detection: Cheung et al., GCN 35707;\nIPN triangulation: Svinkin et al., GCN 35710)\ntriggered Konus-Wind at T0=73586.689 s UT (20:26:26.689).\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-0.2 s and has a total duration of ~0.45 s.\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240205_T73586/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 5.45(-0.84,+0.89)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.016 s,\nof 4.13(-0.92,+1.08)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the brightest part of the burst emission\nwas detected before the trigger, the spectral analysis\nwas performed using the KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-0.192 s to T0+0.256 s)\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -0.10(-0.38,+0.48) and Ep = 241(-46,+52) keV.\n\nModelling the KW 3-channel spectrum near the peak count rate\n(measured from T0-0.064 s to T0) by the CPL model\nyields alpha = -0.30(-0.48,+0.64) and Ep = 317(-82,+136) keV.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary.\n\n"
+}

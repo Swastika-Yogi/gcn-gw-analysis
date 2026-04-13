@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 251214B: Swift/UVOT Detection",
+  "eventId": "GRB 251214B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.43105....1K",
+  "createdOn": 1765774910849,
+  "circularId": 43105,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "body": "N.P.M. Kuin (MSSL/UCL) and R. Eyles-Ferris (U. Leicester) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 251214B  64 s\nafter the BAT trigger (Eyles-Ferris et al., GCN Circ. 43089).  A source\nconsistent with the XRT position Evans et al.  GCN Circ. 43098) is detected\nin the initial UVOT exposures.\n\nThere were early reports of the optical afterglow from Zhe Kang et al. (GCN\nCirc. 43093) and S.Y. Fu et al. (GCN Circ. 43097).\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  22:00:50.53 = 330.21053 (deg.)\n    Dec (J2000) = -09:09:46.4  =  -9.16290 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem  (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early\nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               64          214          147         17.21 +/- 0.03\nv                  606          800           39         17.09 +/- 0.17\nb                  532          724           39         18.08 +/- 0.17\nu                  277          527          246         17.76 +/- 0.08\nw1                 655         1472           97        >18.9\nm2                 630         1447           97        >20.3\nw2                 582         5213          136        >19.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.039 in the direction of the burst  (Schlegel\net al. 1998).\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G275404: Update on significance from offline analyses",
+  "eventId": "LIGO/Virgo G275404",
+  "bibcode": "2017GCN.20982....1L",
+  "createdOn": 1491411819000,
+  "circularId": 20982,
+  "submitter": "Alexander H Nitz at Albert Einstein Inst/Hannover  <alex.nitz@ligo.org>",
+  "email": "alex.nitz@ligo.org",
+  "body": "The LIGO Scientific Collaboration and Virgo report:\n\nWe report an update on the significance of the gravitational-wave trigger\nG275404 (GCN 20738). This trigger was reported by the online PyCBC search\nwith a false alarm rate (FAR) of 6 per year; i.e. background noise in the\ndetectors produces 6 triggers per year as loud as G275404 in the PyCBC\nlow-latency search. This trigger had low significance, but passed the FAR\nthreshold of ~ 1 / month for generating an alert.\n\nWe have completed the offline search over the time containing G275404 using\nthe PyCBC (Usman et al. 2016, CQG 33, 215004) and GstLAL (Messick et al.\n2016, PRD 95, 042001) searches. These offline analyses provide the final\nsignificance for candidate events.\n\nNeither search produced a significant trigger at the time of G275404. We\nconclude that G275404 is not a trigger of interest and does not warrant\nfurther follow-up."
+}

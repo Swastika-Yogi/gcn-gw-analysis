@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060111B:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060111B",
+  "bibcode": "2006GCN..4492....1T",
+  "createdOn": 1137035405000,
+  "circularId": 4492,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cannizzo (GSFC-UMBC), L. Cominsky (Sonoma State U.),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (GSFC/UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/NRC),\nG. Sato (ISAS)\non behalf of the Swift-BAT team:\n\nUsing the partial data set (T-60.2 to T+122.9 sec) from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060111 (trigger #176918)\n(Perri, et al., GCN 4487).  The BAT ground-calculated position is\nRA,Dec = 286.460,+70.382 deg {19h 5m 50.4s,+70d 22' 54.0\"} (J2000)\n+- 1.6 arcmin, (radius, sys+stat, 90% containment).  The partial coding was 29%.\n \nThe mast-weighted lightcurve shows two peaks.  The first one starts at T-4 sec,\npeaks at T+1, and extends out to T+28 sec.  The second, smaller peak starts\nat T+53, peaks at T+55, and is over by T+62 sec.  T90 (15-350 keV) is\n59 +- 1) sec (estimated error including systematics).\n \nThe power law index of the time-averaged spectrum (T-2 to T+63 sec)\nis 1.04 +- 0.17.  The fluence in the 15-150 keV band is\n(1.6 +- 0.1) x 10^-6 erg/cm2.  The 1-sec peak photon flux measured\nfrom T+0.36 sec in the 15-150 keV band is 1.4 +- 0.3 ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level."
+}

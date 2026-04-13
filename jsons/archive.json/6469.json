@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070529: Swift-XRT refined analysis",
+  "eventId": "GRB 070529",
+  "bibcode": "2007GCN..6469....1M",
+  "createdOn": 1180464161000,
+  "circularId": 6469,
+  "submitter": "Boris Sbarufatti at INAF-IASF-Pa  <sbarufatti@ifc.inaf.it>",
+  "email": "sbarufatti@ifc.inaf.it",
+  "body": "V. Mangano, B. Sbarufatti, V. La Parola (INAF-IASFPA),\nS. T. Holland (CRESST/USRA/GSFC) report on behalf of the\nSwift XRT team:\n\nWe have analysed the first two orbits of XRT data of GRB 070529\n(Holland et al., GCN Circ. 6466) with total exposure time of\n3.6 ks in Photon Counting mode.\nThe XRT position calculated on the second orbit data only,\nin order to avoid pile-up effects is:\n\nRA(J2000)  = 18h 54m 58.2s\nDec(J2000) = 20d 39' 31.5\"\n\nwith an uncertainty of 3.8 arcsec (radius, 90% containment).\nThis is 0.9 arcsec from the initial X-ray position, 69 arcsec\nfrom the BAT refined position (Parsons et al., GCN Circ. 6468),\nand 2.3 arcsec from the UVOT position (Holland et al.,\nGCN Circ. 6466).\n\nThe XRT light curve follows a power-law decay with index\n0.91 � 0.05 up to T+7 ks.\n\nWe extracted a spectrum of the PC data which can be fitted\nwith an absorbed power law with photon index of 2.2 � 0.2\nand column density of (3.5+/-0.8) E21 cm-2, slightly in\nexcess with respect to the Galactic absorption column\n(1.9E21 cm-2; Dickey & Lockman, 1990).\n\nThe absorbed (unabsorbed) 0.3-10.0 keV average flux\nin the T+150 s - T+7 ks time interval is\n1.6E-11 (2.8E-11) ergs cm-2 s-1.\n\nAssuming that the source continues its decay at the present rate,\nwe predict an XRT count rate of 8.6E-3 counts/s at T+24 h, which\ncorresponds to an observed flux of 7E-13 ergs cm-2 s-1.\n\nThis circular is an official product of the Swift XRT team."
+}

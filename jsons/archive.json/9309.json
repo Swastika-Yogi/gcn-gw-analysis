@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090429B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090429B",
+  "bibcode": "2009GCN..9309....1C",
+  "createdOn": 1241107390000,
+  "circularId": 9309,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M. M. Chester (PSU) and T. N. Ukwatta (GSFC/GWU) report on the behalf\nof the Swift/UVOT team:\n\n      The Swift/UVOT observed the field of GRB 090429B starting 78 s\nafter the BAT trigger (Ukwatta et al. 2009, GCN Circ. 9281). Settled\nexposures started at T+99 s.  We do not find any new source at the\nposition of the XRT afterglow (Beardmore et al. 2009, GCN Circ. 9288).\nPreliminary 3-sigma upper limits for detecting a source in the white\nfinding chart and the co-added images, using a 5 arcsecond radius\ncircular aperture, are:\n\nFilter      T_start   T_stop    Exp(s)     Mag\n----------------------------------------------\nwhite (fc)       99      249    150    >21.0\nwhite           591    10856   1241    >22.2\nv               640    12550   1213    >20.6\nb               567     6769    381    >20.8\nu               311     6621    669    >20.8\nuvw1            690     6416    419    >20.5\nuvm2            665     6211    439    >21.4\nuvw2            616    11762   1339    >20.3\n----------------------------------------------\n\n      The quoted upper limits have not been corrected for the expected\nGalactic extinction corresponding to a reddening of E_{B-V} = 0.015\nin the direction of the XRT position (Schlegel, et al. 1998, ApJS,\n500, 525).  All photometry is on the UVOT photometry system described\nin Poole et al. (2008, MNRAS, 383, 627)."
+}

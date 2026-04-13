@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060814: Suzaku/WAM observation of the prompt emission",
+  "eventId": "GRB 060814",
+  "bibcode": "2006GCN..5487....1S",
+  "createdOn": 1156869164000,
+  "circularId": 5487,
+  "submitter": "Kazutaka Yamaoka at Aoyama Gakuin U  <yamaoka@phys.aoyama.ac.jp>",
+  "email": "yamaoka@phys.aoyama.ac.jp",
+  "body": "M. Suzuki, Y. Terada, T. Tamagawa (RIKEN), M. Ohno, T. Takahashi,\n T. Asano, T. Uehara, Y. Fukazawa (Hiroshima U.), K. Yamaoka,\n S. Sugita (Aoyama Gakuin U.), K. Abe, K. Onda, M. Suzuki,Y. Urata, \n M. Tashiro (Saitama U.), S. Hong (Nihon U.), K. Nakazawa,\n T. Takahashi (ISAS/JAXA), T. Enoto, R. Miyawaki, K. Kokubun\n K. Makishima (Univ. of Tokyo),  \n on behalf of the Suzaku WAM team report:\n\n The bright, long burst, GRB 060814 (Swift-BAT trigger #224552;\n A. Moretti et al., GCN 5447; GCN 5451; M. Stamatikos et al., GCN 5459),\n triggered the Suzaku Wideband All-sky Monitor (WAM) which covers an\n energy range of 50 keV - 5 MeV at 23:02:17.783 (UT).\n The 1st, 2nd and 3rd peaks (GCN 5459) are clearly seen in the light\n curve observed by WAM and the 4th peak is marginally seen.\n The T90 duration is ~125 seconds.\n The fluence in 100 - 1000 keV was 2.2 (-0.3 +0.2)X10^-5 erg/cm2.\n The 1-s peak flux was 2.9 (-1.2 +0.1) photons/cm2/s\n in the same energy range.\n\n Preliminary result shows that the time-averaged spectrum\n is well-fitted by a power law with an exponential\n cutoff (A * E^{-alpha} * exp(-(2-alpha)*E/Epeak)) \n having the following parameters:\n alpha        1.6 (-0.5, +0.4), and\n Epeak        312 (-152, +159) keV.\n\n All the quoted errors are at statistical 90% confidence level, \n in which systematic errors are not included."
+}

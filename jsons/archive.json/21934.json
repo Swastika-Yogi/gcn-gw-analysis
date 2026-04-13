@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G297595/GW170814: updated localization from parameter estimation",
+  "eventId": "LIGO/Virgo G297595",
+  "bibcode": "2017GCN.21934....1L",
+  "createdOn": 1506519617000,
+  "circularId": 21934,
+  "submitter": "Leo Singer at NASA/GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have re-analysed offline noise-subtracted data for the LIGO Hanford\nObservatory (H), LIGO Livingston Observatory (L), and Virgo (V) detectors\naround the time of the binary black hole event G297595 / GW170814 (GCNs\n21474, 21493) taking into account our most up-to-date understanding of\nboth calibration and waveform modelling uncertanties.\n\nParameter estimation has been performed using LALInference (Veitch et al.,\nPRD 91, 042003) and a new sky map, LALInference_v1.fits.gz, is available\nfor retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/events/G297595\n\nThe 50% and 90% credible regions span about 13 and 62 square degrees,\nrespectively.\n\nThis is the preferred sky map at this time, and the version that will\nappear in LVC 2017 (Physical Review Letters, in press)."
+}

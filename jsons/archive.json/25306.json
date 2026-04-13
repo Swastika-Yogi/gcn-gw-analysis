@@ -1,0 +1,9 @@
+{
+  "subject": "HAWC Burst Alert 1008846_957: Konus-Wind observations",
+  "bibcode": "2019GCN.25306....1S",
+  "createdOn": 1565360782000,
+  "circularId": 25306,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R.Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nKonus-Wind (KW) was observing the whole sky at the time of the\nHAWC burst alert (2019-08-06 13:20:48.0 UTC, hereafter T0;\nThe HAWC Collaboration GCN Circ. 25284).\n\nNo triggered KW event happened in the +/- 1 day interval centered at T0.\nUsing waiting-mode data (20-1500 keV) within the interval T0 +/- 2000 s,\nwe have found a single 13 s-long event at ~30 minutes before T0\nwith a signal-to-noise ratio of ~4.5 sigma in the KW detector\nobserving the HAWC event position.\n\nFor the remaining part of the T0 +/- 2000 s interval we estimate\nan upper limit (90% conf.) on the 10 keV ��� 1.5 MeV fluence\nto 9.0x10^-7 erg/cm^2 for a burst lasting less than 2.944 s\nand having a typical KW short GRB spectrum\n(an exponentially cut off power law with alpha =-0.5 and Ep=500 keV).\nFor a typical long GRB spectrum (the Band function with alpha=-1,\nbeta=-2.5, and Ep=300 keV), the corresponding limiting peak flux\nis 2.2x10^-7 erg/cm^2/s (10 keV - 1.5 MeV, 2.944 s scale).\n\nAll the quoted values are preliminary."
+}

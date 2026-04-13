@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 031203, possible supernova",
+  "editedOn": 1731922999574,
+  "version": 2,
+  "eventId": "GRB 031203",
+  "bibcode": "2004GCN..2544....1B",
+  "createdOn": 1079379469000,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Leo P. Singer at NASA/GSFC <leo.p.singer@nasa.gov>",
+  "circularId": 2544,
+  "submitter": "David Bersier at STScI  <bersier@stsci.edu>",
+  "email": "bersier@stsci.edu",
+  "format": "text/plain",
+  "body": "D. Bersier, J. Rhoads, A. Fruchter, J. M. Castro Cerón,\nL.-G. Strolger, S. Malhotra (STScI), J. Gorosabel (IAA-CSIC), A. Levan\n(U. of Leicester), C. Kouveliotou, S. Patel (MSFC/NASA), M. Merrill\n(NOAO), E. Gawiser, M. F. Duran, V. Gonzalez, (U. de Chile)\nreport:\n\nUsing the CTIO 4m telescope with MOSAIC2, we have obtained late-time\nI-band imaging data of the field of GRB 031203 (Gotz et al, GCN 2459)\n19, 25, and 77 days after the burst.\n\nThe afterglow found in X-ray (Schartel & Calderon, GCN 2464; Tedds et\nal GCN 2490; Fox et al GCN 2522), radio (Frail, GCN 2473; Soderberg et\nal GCN 2483) and IR (Tagliaferri et al GCN 2476) coincides with a\ngalaxy at a redshift z=0.105 (Prochaska et al GCN 2482). The\nbrightness of the galaxy at day 25 is I=19.25 (from a preliminary\ncalibration).  This includes any contribution from a transient source\n(afterglow and/or supernova).  Matched-psf image subtraction (Alard,\n2000, A&AS, 144, 363) reveals a fading source at this position,\nbetween days 25 and 77, whereas there is no variation between days 19\nand 25.  Photometry via psf-fitting confirms this.  The change in\nmagnitude of the \"galaxy+variable source\" between days 25 and 77 is\n0.26 mag.  Given the faintness of the afterglow at early times, and\nthe likelihood that the afterglow will have faded significantly at\nthe times of our measurements, we tentatively interpret this variable\nsource as a supernova.\n\nThe observed decay sets a lower limit on the magnitude at day 25 (near\nI-band maximum in rest frame).  The true brightness of the SN must be\ngreater than the flux difference between the two images, which\ncorresponds to I=20.94 +/- 0.08.  Assuming an extinction of A_I=1.76\nand a redshift z=0.105, this corresponds to a luminosity of -19.25,\nwhich is very close to the maximum brightness of SN1998bw. If we were\nto assume that the light curve of this object behaves as SN1998bw,\nthen the difference between these two times would underestimate the\ntrue luminosity by 35%."
+}

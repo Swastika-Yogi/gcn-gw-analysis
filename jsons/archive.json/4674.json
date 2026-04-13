@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060204B: Swift/UVOT refined analysis",
+  "eventId": "GRB 060204B",
+  "bibcode": "2006GCN..4674....1C",
+  "createdOn": 1139122576000,
+  "circularId": 4674,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A.Cucchiara, A Falcone, S. Hunsberger (PSU),F. Marshall (GSFC),\nP. Boyd (GSFC-UMBC), N. Gehrels (GSFC), on behalf of\nthe Swift UVOT team.\n\nThe Swift/UVOT began taking data on the field of GRB 060204B at\n14:34:24 UT on 2006-02-04, 101 s after the BAT trigger (Falcone et al.,\nGCN 4655). We detected an uncatalogued object cosistent with   \nthe xrt position reported by Falcone et al. (GCN 4669)\nand Guidorzi et al. (GCN 4661) in our first 200 exposure V image.\nWe have no afterglow detection in summed images in\nany other filter within the refined XRT error circle down to the\nfollowing 3-sigma magnitude upper limits.\n\nFilter       T_range(s)      Exp(s)      mag             coadd\nV             101-301           200       19.43+/- 0.50    N\nB             307-703           396       >20.12              Y\nU             4086-4890         91       >19.66              Y\nUVW1     4062-4746        98       >18.90              Y\nUVM2     4020-4722        95       >18.98              Y\nUVW2     427-4237          97       >19.11              Y\n\nThese magnitudes are uncorrected for Galactic extinction;\nE(B-V) = 0.018.\n\nThis message can be cited"
+}

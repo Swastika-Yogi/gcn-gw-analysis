@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 130306A",
+  "eventId": "GRB 130306A",
+  "bibcode": "2013GCN.14275....1G",
+  "createdOn": 1362760389000,
+  "circularId": 14275,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, E. Mazets, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf\nof the Konus-Wind team, report:\n\nThe very long-duration GRB 130306A\n(Swift-BAT trigger #550457: Siegel et al., GCN 14266;\nFermi-GBM observation: Pelassa, GCN 14270)\ntriggered Konus-Wind at T0=85669.636s UT (23:47:49.636)\n\nThe light curve shows a multi-pulse emission which\nstarted ~270 s before the trigger, peaked at ~T0+10s,\nand, after ~T0+110s, passed into a long tail\nout to ~400 s after the trigger.\nThe total duration of the burst is ~700 s.\nThe emission is seen up to 5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB130306_T85669/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of (2.9 � 0.05)x10-4 erg/cm2,\nand a 64-ms peak flux, measured from T0+8.768 s,\nof (6.1 � 0.6)x10-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum\n(measured from T0 to T0+116.224 s)\nis best fit in the 20 keV - 5 MeV range\nby a power law with exponential cutoff model,\nfor which:\nalpha = -1.50 � 0.05,\nand Ep = 212 � 10 keV,\nchi2 = 53.8/59 dof.\n\nThe spectrum at the maximum count rate\n(measured from T0 to T0+11.774 s)\nis best fit in the 20 keV - 5 MeV range\nby a power law with exponential cutoff model,\nfor which:\nalpha = -1.34 � 0.04,\nand Ep = 410 � 30 keV,\nchi2 = 64.7/71 dof.\n\nThe spectrum of the emission tail\n(measured from T0+116.224 to T0+402.944 s)\nis best fit in the 20 keV - 5 MeV range\nby the simple power-law model with\nthe photon index -2.3 � 0.1, chi2 = 65.1/75 dof.\nThe emission in this time interval is seen up to 4 MeV\nand the 20 keV - 10 MeV energy fluence\nis (2.7 � 0.3)x10-5 erg/cm2.\n\nAll the quoted results are preliminary."
+}

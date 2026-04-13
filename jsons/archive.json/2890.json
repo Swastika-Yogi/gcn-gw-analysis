@@ -1,0 +1,10 @@
+{
+  "subject": "GRB041220:  Swift-BAT burst",
+  "eventId": "GRB 041220",
+  "bibcode": "2004GCN..2890....1K",
+  "createdOn": 1103597329000,
+  "circularId": 2890,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Angelini (GSFC/JHU), L. Barbier (GSFC),\nS. Barthelmy (GSFC), J. Cummings (GSFC), E. Fenimore (LANL), N. Gehrels (GSFC),\nM. Goad (U.Leicester), D. Hullinger (GSFC/UMD), C. Markwardt (GSFC/UMD),\nK. McLean (LANL/UTD), D. Palmer (LANL), A. Parsons (GSFC),\nP. Roming (PSU), G. Sato (ISAS), M. Suzuki (Saitama), T. Takashima (ISAS),\nJ. Tueller (GSFC)  on behalf of the Swift BAT team:\n\nAt 22:58:26 UT, the Swift-BAT triggered and located on-board GRB041220\n(BAT Trigger #100433).  The spacecraft did not autonomously slew\nto the burst since automated slewing is not yet enabled.  Automated\nnotification to the BAT Team through TDRSS was partially enabled\nfor this burst.\n\nThe ground-calculated location is RA, DEC 291.286, +60.624 (J2000)\nwith an uncertainty of 12 arcmin (radius, dominated by a large systematic\nuncertainty due to the lack of an on-orbit boresight alignment calibration).\nThis is ~16 degrees off the BAT boresight.  It was imaged at >22 sigma.\nThe source is 19 degrees off the galactic plane.\n\nThe burst is a fast-rise exponential-decay (FRED) with a full-width\nat half-max of ~2 sec.  There is some indication of emission out\nto 18 sec after the peak.  The peak flux was 2.2 events/cm^2/sec\nin the 15-350 keV band (~8 Crab).  The total fluence is\napproximately 5.9 events/cm^2 (15-350 keV), or 1E-6 erg/cm^2."
+}

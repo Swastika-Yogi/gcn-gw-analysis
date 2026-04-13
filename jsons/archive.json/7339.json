@@ -1,0 +1,10 @@
+{
+  "subject": "UVOT analysis for GRB080229",
+  "eventId": "GRB 080229",
+  "bibcode": "2008GCN..7339....1K",
+  "createdOn": 1204331649000,
+  "circularId": 7339,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N.P.M. Kuin (MSSL/UCL) and J. K. Cannizzo (NASA/UMBC) report on\nbehalf of the Swift-UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080229 (trigger #304379),\nCanizzo et al. GCN CIRC. 7335) starting 2008:02:29 at 17:06:22 UT\nwith a 9.4 s setling image followed at 17:06:41 UT with a finding\nchart. No afterglow is detected at the position of the enhanced\nXRT position in the finding chart, nor in the three subsequent\nexposures.\n\nThe source is near a bright star and may be affected by it.\nTherefore a small aperture was used and the background was determined\nfor a region at equal distance to the nearby star.\n\nThe following 3-sigma upper limits (in the UVOT photometric system,\nBreeveld et al., GCN Circ. 6614) were determined at the XRT\nposition (RA=15:12:52.53, DEC= -14:42:19.3, J2000):\n\nFilter  Tstart(s)  Tstop(s)  Exp(s)  Mag (3-sigma Upper Limits)\n\n wh      101       200        99.8   > 20.9\n v       208       608       400.0   > 19.9\n wh      856       956        99.8   > 20.9\n v       962      1362       400.0   > 19.9\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.15 mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

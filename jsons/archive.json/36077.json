@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240411B: Kinder observations with Lulin observatory ",
+  "eventId": "GRB 240411B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36077....1A",
+  "createdOn": 1712980218561,
+  "circularId": 36077,
+  "submitter": "Amar Aryan <amararyan941@gmail.com>",
+  "body": "A. Aryan, T.-W. Chen, C.-S. Lin, W.-J. Hou, A. Sankar.K, Y.-C. Pan (all NCUIA), S. Yang (HNAS), M.-H. Lee, C.-H. Lai, H.-Y. Hsiao, C.-C. Ngeow, H.-C. Lin, J.-K. Guo (all NCUIA), S. Srivastav (Oxford), M. Fulton, T. Moore, C. Angus, and A. Aamer (all QUB) report: \n\nWe observed the field of GRB 240411B (Parsotan et al., GCN 36063; Goad et al., GCN 36065; D'Avanzo et al., GCN 36071; Lien et al., GCN 36072) using the Lulin One-meter Telescope (LOT) at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen et al., AstroNote 2021-92). The optical afterglow candidate of GRB 240411B was identified (Izzo et al., GCN 36064) and followed with several instruments (Schneider et al., GCN 36067; Ror et al., GCN 36069). \n\nThe first LOT epoch of observations started at 16:45 UT on 11 of April 2024. We followed standard IRAF (Tody D., 1993, ASPC, 52, 173) procedure to reduce the images. Further, PSF photometry was performed using DAOPHOT II (Stetson P. B., 1987, PASP, 99, 191) software. The details of the observations and the preliminary magnitudes (in the AB system) of the afterglow are as follows:\n\nTelescope | Filter | MJD | t-t0 | Exposure | Magnitude | avg. Seeing | med. Airmass\nLOT | r | 60411.698 | 1.25 hrs | 300 sec * 1 | 20.92 +/- 0.12 | 1\".16 | 1.17\nLOT | i | 60411.715 | 1.65 hrs | 300 sec * 1 | 20.28 +/- 0.15 | 1\".0 | 1.13\n\nThe presented magnitudes are calibrated using the nearby stars from the PanSTARRS catalog  and are not corrected for the expected Galactic foreground extinction corresponding to a reddening of E_(B-V) = 0.14 mag in the direction of the burst (Schlafly & Finkbeiner 2011)."
+}

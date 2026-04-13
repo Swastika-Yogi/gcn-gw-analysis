@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240730A: Swift-BAT refined analysis",
+  "eventId": "GRB 240730A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37005....1S",
+  "createdOn": 1722542122535,
+  "circularId": 37005,
+  "submitter": "Michael Moss at NASA GSFC <mikejmoss3@gmail.com>",
+  "format": "text/plain",
+  "body": "D. Sadaula (GSFC/UMBC), S. D. Barthelmy (GSFC), \nS. B. Cenko (GSFC), R. Gupta (GSFC),\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC),\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\nM. J. Moss (GSFC), D. M. Palmer (LANL),\nT. Parsotan (GSFC), T. Sakamoto (AGU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 240730A (trigger #1245636)\n(Cenko, et al., GCN Circ. 36976).  The BAT ground-calculated position is\nRA, Dec = 37.841, 59.045 deg which is \n   RA(J2000)  =  02h 31m 21.9s \n   Dec(J2000) = +59d 02' 43.5\" \nwith an uncertainty of 1.9 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 98%.\n \nThe BAT mask-weighted light curve displays two spectrally soft peaks.  \nThe T90 (15-350 keV) is 50.13 +- 7.60 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-6.06 to T+53.43 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.50 +- 0.19.  The fluence in the 15-150 keV band is 6.8 +- 0.9 x 10^-07 erg/cm2.\nThe 1-sec peak photon flux measured from T+5.80 sec in the 15-150 keV band\nis 0.4 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1245636\n\nThe long duration and proximity to the Galactic plane raised the initial \npossibility that this was a Galactic transient.  However, its subsequent behavior, \nincluding a lack of later BAT detections, is consistent with a GRB, making the \nGalactic transient interpretation less likely."
+}

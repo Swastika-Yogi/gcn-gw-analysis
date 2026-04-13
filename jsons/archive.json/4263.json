@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051111: Swift/UVOT Observations",
+  "eventId": "GRB 051111",
+  "bibcode": "2005GCN..4263....1P",
+  "createdOn": 1131727912000,
+  "circularId": 4263,
+  "submitter": "Tracey Poole at MSSL  <tsp@mssl.ucl.ac.uk>",
+  "email": "tsp@mssl.ucl.ac.uk",
+  "body": "T.S. Poole (UCL-MSSL), T. Sakamoto (GSFC), A.J. Blustin (UCL-MSSL), B.\nHancock (UCL-MSSL) & T.Kennedy (UCL-MSSL) on behalf of the Swift/UVOT team\nreport:\n\nThe Swift-Ultra-Violet/Optical Telescope (UVOT) began observing the field \nof GRB 051111 (BAT Trigger=163438; Sakamoto et al. GCN 4248) at 2005-11-11\n7:47:20, 5560 seconds after the burst. We detect a source in the V, B, U \nand UVW1 filters at position RA 23:12:33.17, DEC 18:22:28.80; this \nposition was also reported  by Mundell  et. al. (GCN 4250).  The source is \nnot detected in the UVM2 or UVW2 filters.\n\nThe aperture used for optical observations was 6 arcsec, and 12 arcsec was\nused for the ultraviolet observations.  The limiting magnitudes are given \nto a 3 sigma limit.\n\nFilter  T_range         T_exp   Mag\n         (sec)           (sec)\nV       16298-17198     900     19.33+/-0.35    - source detection\nB       11237-12136     900     20.38+/-0.35    - source detection\nU       10329-11229     900     20.09+/-0.46    - source detection\nUVW1    6467-7153       686     20.25+/-0.85    - source detection\nUVM2    5560-11832      1800    20.92           - upper limit\nUVW2    12145-12938     793     20.64           - upper limit\n\nWhere T_range is time post-trigger, and T_exp is the exposure time of the\nobservation. Magnitude errors include statistical and systematic errors.\n\nThese results were obtained from intital UVOT exposures, and the \nobservations of GRB051111 are continuing.\n\nThis message may be cited."
+}

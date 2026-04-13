@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180316A: Swift/UVOT Detection",
+  "eventId": "GRB 180316A",
+  "bibcode": "2018GCN.22510....1B",
+  "createdOn": 1521215307000,
+  "circularId": 22510,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and A. Melandri (INAF-OAB) report on behalf of \nthe Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180316A \n105 s after the BAT trigger (Melandri et al., GCN Circ. 22500).\nA fading source consistent with the enhanced XRT position (Evans et al. \nGCN Circ. 22508) and the optical transient reported by Lipunov et al. \n(GCN Circ. 22503), Shady & Steinmassl (GCN Circ. 22504) and Martone et \nal. (GCN Circ. 22507), Butler et al. (GCN Circ. 22509) is detected in \nthe initial UVOT exposures.\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  17:41:42.87 = 265.42861 (deg.)\n     Dec (J2000) = +00:44:53.7  =   0.74824 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe finding chart (white_fc) and early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_fc           105          254          147         16.27 �� 0.03\nwhite              596          616           20         17.40 �� 0.11\nv                  646          839           39         17.15 �� 0.18\nb                  572          592           20         17.40 �� 0.15\nu                  317          566          246         16.44 �� 0.04\nw1                 695        22410         1175        >20.4\nm2               12527        12578           50        >19.2\nw2                 622         6753          255        >19.5\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.28 in the direction of the \nburst (Schlegel et al. 1998)."
+}

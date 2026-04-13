@@ -1,0 +1,10 @@
+{
+  "subject": "Swift Detection of the Bright Burst GRB050502b",
+  "eventId": "GRB 050502B",
+  "bibcode": "2005GCN..3330....1F",
+  "createdOn": 1115030556000,
+  "circularId": 3330,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "A. Falcone, D. N. Burrows, M. Chester (PSU), P. Schady (MSSL),\nJ. Cummings (GSFC/NRC), D. Palmer (LANL), C. Pagani (PSU), B. Zhang (UNLV), \nK. Page, M. Goad (U.Leicester), N. Gehrels (GSFC)\n\non behalf of the Swift Team.\n\nAt 09:25:40 UT, the Swift Burst Alert Telescope (BAT) triggered\nand located GRB050502b (trigger=116116).   The BAT on-board\ncalculated location is RA, Dec = 142.543, +17.002\n(09:30:10, +17:00:07) (J2000) with an uncertainty of\n3 arcmin (radius, 3-sigma, including estimated\nsystematic uncertainty).  The BAT light curve showed a 7-second\nlong peak with complex structure from t-4 to t+3.  The\nmaximum count rate was 4000 counts per second (15-350 keV)\nin the 1 second time interval centered around t+1.\n\nThe spacecraft slewed promptly and the XRT began observations\nat 09:26:43 UT.  The initial centroiding image detected only\n5 counts, insufficient to produce a centroid.  Further analysis\nwill require the ground-processed data, which will be available\nat the Swift MOC at about 12:30 UT.\n\nThe Swift Ultra Violet/Optical (UVOT) observations began at\n09:26:40 UT, 60 seconds after the BAT trigger. The first\ndata taken after the spacecraft settled was a 100 sec\nexposure using the V filter with the midpoint of the\nobservation at 135 sec after the BAT trigger. This image\nwas sent directly to the ground via TDRSS with the FOV pixel\nbinning set at 8 x 8 to reduce telemetry. A comparison against\nthe USNO-B1 reveals a new source inside the BAT error circle\nat RA, Dec 09:30:12.58, +17:02:00.7 (J2000). This is 118 arcseconds from \nthe BAT position.  The V-band magnitude was 17.7 +/- 0.1."
+}

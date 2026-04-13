@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100316B: Swift/UVOT observations",
+  "eventId": "GRB 100316B",
+  "bibcode": "2010GCN.10508....1O",
+  "createdOn": 1268767782000,
+  "circularId": 10508,
+  "submitter": "Patricia Schady at MSSL/Swift  <msslba@googlemail.com>",
+  "email": "msslba@googlemail.com",
+  "body": "S. R. Oates (MSSL-UCL) and W. H. Baumgartner (GSFC/UMBC) report on\nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observerving the field of GRB 100316B 67s\nafter the BAT trigger (Baumgartner et al., GCN Circ. 10489). We detect the\noptical afterglow in the white, v, b, u and marginally in the uvw1 filter.\nThe refined UVOT position is RA (J2000)= 163.48809, DEC (J2000)=-45.47265,\nwhich is equivalent to:\n\n     RA (J2000) = 10:53:57.141\n    Dec (J2000) = -45:28:21.54\n\nwith an estimated uncertainty of 0.52 arcsec (radius, 90% confidence).\nThis position is consistent with the XRT refined position (Beardmore\net al., GCN Circ 10502). The marginal detection in the uvw1 filter is\nconsistent with\nthe VLT redshift upper limit (D'Avanzo et al., GCN Circ. 10495).\n\n\nPreliminary magnitudes and the 3 sigma upper limits are reported below for\nindividual optical images and summed UV images.\n\nFilter    T_start(s)  T_stop(s)  Exposure      Mag  Err\n###########################################################\nwhite     67           216         147         18.36 +/- 0.05\nwhite     857          1007        147         19.15 +/- 0.09\nu\t  279          528         246         18.44 +/- 0.10\nv         1212         1232        19          18.28 +/- 0.46\nb         535          555         19          18.97 +/- 0.36\nuvw1\t  659          1108        58          18.91 +/- 0.36\nuvm2      634          1246        66          > 18.59\nuvw2      585          1207        78          > 19.13\n###########################################################\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a non-negligible reddening of E_{B-V} = 0.14 mag\n(Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric system\ndescribed in Poole et al. (2008, MNRAS, 383,627)."
+}

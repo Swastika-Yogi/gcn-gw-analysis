@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250617B: SVOM/VT optical observation",
+  "eventId": "GRB 250617B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40772....1M",
+  "createdOn": 1750234600754,
+  "circularId": 40772,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "\nY.N. Ma, L. P. Xin, Y. L. Qiu, C. Wu, H. L. Li, Z. H. Yao, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), Z. Q. Wang (GXU), W. K. Zheng (UCB), Y. F. Liang (PMO) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed a Target of Opportunity observation of GRB 250617B detected by Swift-BAT（Page et al., GCN 40760; Osborne et al., GCN 40767) and Fermi-GBM (Bala et al., GCN 40766). The observation began at 2025-06-18T01:18:40 UTC, 4.281 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nThe afterglow (Page et al., GCN 40760; Moskvitin et al., GCN 40761; Jelinek et al., GCN 40762) is detected using VT X-band data, at R.A., Dec 332.89675, 32.73242 degrees: \nRA (J2000) = 22:11:35.22\nDec (J2000) = +32:43:56.72 \nwith an uncertainty of 0.5 arcsec. \n\nThe magnitudes in both channels are: \n     date-obs (UT)     | exposure time (s) | band | mag (AB) | mag err \n-----------------------|-------------------|------|----------|-------- \n2025-06-18T02:24:34.50 |         70        | VT_B |   21.10  |  0.12 \n2025-06-18T02:24:34.50 |         70        | VT_R |   20.11  |  0.08 \n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS. "
+}

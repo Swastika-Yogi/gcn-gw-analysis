@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221027A: Fermi GBM detection",
+  "eventId": "GRB 221027A",
+  "bibcode": "2022GCN.32866....1R",
+  "createdOn": 1666881908000,
+  "circularId": 32866,
+  "submitter": "Oliver J Roberts at USRA/NASA  <oliver.roberts@nasa.gov>",
+  "email": "oliver.roberts@nasa.gov",
+  "body": "O.J. Roberts (USRA/NASA-MSFC) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 04:09:34.35 UT on 27 October 2022, the Fermi\nGamma-Ray Burst Monitor (GBM) triggered and located\nGRB 221027A (trigger 688536579 / 221027173), which was\nalso detected by Fermi-LAT (M. Arimoto et al. 2022, GCN 32862).\n\nThe Fermi GBM Final Real-time Localization (GCN 32861) is\nconsistent with the LAT position.\n\nThe angle from the Fermi LAT boresight at the GBM trigger\ntime is 51 degrees.\n\nThe GBM light curve consists of a bright pulse\nwith a duration (T90) of about 7 s (50-300 keV).\nThe time-averaged spectrum from T0-1.5s to T0+9.7 s is\nbest fit by a Band function with Epeak = 341 +/- 37 keV,\nalpha = -0.75 +/- 0.06, and beta = -2.09 +/- 0.14.\n\nThe event fluence (10-1000 keV) in this time interval is\n(9.2 +/- 0.2)E-06 erg/cm^2. The 1-sec peak photon flux\nmeasured starting from T0+1.2 s in the 10-1000 keV band\nis 8.5 +/- 0.3 ph/s/cm^2.\n\nA power law function with an exponential high-energy cutoff\nfits the spectrum equally well. The power law index\nis -0.81 +/- 0.04 and the cutoff energy, parameterized as\nEpeak, is 411 +/- 29 keV\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

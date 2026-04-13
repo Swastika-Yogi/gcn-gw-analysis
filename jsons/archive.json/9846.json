@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090827 Burst discovered in BAT ground analysis",
+  "eventId": "GRB 090827",
+  "bibcode": "2009GCN..9846....1C",
+  "createdOn": 1251491951000,
+  "circularId": 9846,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC/UMD), and D. M. Palmer (LANL),\non behalf of the Swift-BAT team\n\nAt 19:06:26 on 2009-08-27, GRB 090827 triggered Swift-BAT\n(trigger #361029). No source was found onboard.  A source\nwas found in ground analysis of BAT event data.  The burst\nconsisted of a single pulse of 7 seconds.  This burst also\ntriggered Konus-Wind and INTEGRAL-SPI-ACS (V. Pal'shin,\nprivate communication).\n\nThe BAT position is RA, Dec 18.435, -50.899, which is\nequivalent to:\n\n       RA, Dec (J2000): 01:13:44.4, -50d 53' 58\"  \t\n\nwith an uncertainty radius of 2.8 arcmin (estimated 90%\ncontainment, stat+sys). The source was 3% coded.\n\nBecause of the extreme partial coding, the spectral parameters\ncan be defined only poorly.  The spectrum is best fit by a\nsimple powerlaw relation.  The photon index is 1.0 +/- 0.3.\nThe fluence was (4 +/- 2) x 10^-6 ergs/cm2. The errors are\nestimated 1-sigma.\n\nA Swift TOO has been requested and will take place\nstarting approximately 26 hours after the burst."
+}

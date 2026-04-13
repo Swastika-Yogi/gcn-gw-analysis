@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180718A short GRB detected by IPN and found in ground analysis of BAT data",
+  "eventId": "GRB 180718A",
+  "bibcode": "2018GCN.22959....1S",
+  "createdOn": 1531957113000,
+  "circularId": 22959,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin and K. Hurley, on behalf of the IPN,\n\nA. Y. Lien, D. Palmer, S. Barthelmy, J. Cummings,\nand H. Krimm, on behalf of the Swift-BAT team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team, and\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\nreport:\n\nThe short-duration GRB 180718A was detected by\nFermi (GBM; trigger 553571869), INTEGRAL (SPI-ACS), and Swift (BAT),\nat about 7065 s UT (01:57:45).\n\nWe have triangulated this GRB to a GBM-INTEGRAL annulus centered at\nRA(2000)=260.736 deg (17h22m57s) Dec(2000)=+48.285 deg (+48d17'07\"),\nwhose radius is 79.182 +/- 2.067 deg (3 sigma).\n\n From the ground analysis using the available Swift/BAT event data\nfrom T-1 to T+2 sec, we found a 6.3 sigma detection in an image with\nintervals from T0-0.026 s to T0+0.165 s and energy range 15-150 keV,\nwhere T0 = 2018-07-18 01:57:44.530 UTC.\n\nThe BAT ground-calculated position of this detection is\nRA, Dec = 336.019, 2.790 deg which is\n    RA(J2000)  =  22h 24m 04.6s\n    Dec(J2000) = +02d 47' 23.3\"\nwith an uncertainty of 3.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 25%.\nThe position is consistent with the annulus.\n\nThe BAT mask-weighted light curve shows\na single-pulse structure that starts at ~T0 and ends at ~T+0.1 s.\nT90 (15-350 keV) is 0.08 +- 0.02 sec (estimated error including \nsystematics).\n\nDue to the weakness of this burst, the BAT spectrum is\nnot well-constrained. However, the burst seems to be relatively soft\ncomparing to regular short GRBs.\n\nThe results of the batgrbproduct analysis are available at\nhttps://gcn.gsfc.nasa.gov/notices_s/848489/BA/\n\nA ToO observation with Swift/XRT has been requested."
+}

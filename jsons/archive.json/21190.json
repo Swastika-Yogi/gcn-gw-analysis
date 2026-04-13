@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 755848: Swift spurious trigger on Cen X-3",
+  "bibcode": "2017GCN.21190....1B",
+  "createdOn": 1496583757000,
+  "circularId": 21190,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), D. N. Burrows (PSU), A. Y. Lien (GSFC/UMBC),\nK. L. Page (U Leicester) and D. M. Palmer (LANL) report on behalf of\nthe Swift Team:\n\nAt 13:11:48 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated Cen X-3 (trigger=755848).  Swift slewed immediately to the source. \nThe BAT on-board calculated location is \nRA, Dec 170.336, -60.629, which is \n   RA(J2000)  =  11h 21m 21s\n   Dec(J2000) = -60d 37' 44\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers, there is nothing\nsignificant in the real-time light curve. \n\nAt 13:11:48 UT, due to a known race condition in the \nSwift/BAT software, BAT  misidentified Cen X-3 as \na different source (Trigger 755848), and slewed\nto Cen X-3 for follow-up observations. \nCen X-3 was at its typical flux level. \n\nThis is not an interesting astrophysical event."
+}

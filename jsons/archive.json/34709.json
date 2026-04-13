@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Triggers 1192234, 1192235 and 1192236 are not astrophysical events",
+  "submittedHow": "email",
+  "bibcode": "2023GCN.34709....1P",
+  "createdOn": 1694835453669,
+  "circularId": 34709,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "\nK. L. Page (U Leicester) and D. M. Palmer (LANL) report on behalf of\nthe Neil Gehrels Swift Observatory Team:\n\nSwift continues to have star tracker loss-of-lock problems, possibly\ndue to current solar activity.  For the near future, please verify\nthat the Swift GCN notices do not have the comment \n\nCOMMENTS:        This trigger occured while the StarTracker had lost lock, so it is possibly bogus.  \n\nAlso, the loss-of-lock triggers will tend to be reported as having\npositions within a few degrees of the actual sources.  BAT currently\nsees the following sources, so notices near these locations\nshould be treated as suspect\n\nra_deg, dec_deg   name\n40.919   61.432   Swift02436      \n83.633   22.014   Crab            \n170.300 -60.617   Cen_X-3         \n186.650 -62.767   GX_301-2        \n244.980 -15.640   Sco_X-1         \n255.980 -37.844   4U_1700-377     \n261.940 -16.212   SWIFTJ1727-1613 \n263.000 -33.833   GX_354-0           \n299.590  35.202   Cyg_X-1         \n308.110  40.958   Cyg_X-3\n\nFurther retraction notices will not be published until\nthe Loss-of-Lock problem is cleared. \n\n"
+}

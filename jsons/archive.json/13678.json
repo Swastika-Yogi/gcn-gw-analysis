@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120816A: Swift/UVOT Detection of the Optical Afterglow",
+  "eventId": "GRB 120816A",
+  "bibcode": "2012GCN.13678....1I",
+  "createdOn": 1345307579000,
+  "circularId": 13678,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (NASA/CRESST/GSFC) and K. L. Page (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 120815A starting 117 s\nafter the BAT trigger (Page et al., 2012, GCNC 13654). We detect\nan uncatalogued source inside the enhanced XRT error circle\n(Osborne et al., 2012, GCNC 13660) with preliminary coordinates\n\n   RA (J2000.0) = 18:48:34.5 = 282.14359 (deg)\n  Dec (J2000.0) = -06:56:16.4 = -6.93788 (deg)\n\nand an estimated uncertainty of 0.6 arcsec (radius, 90% confidence,\nstatistical + systematic). The UVOT detection is consistent with\nthe optical afterglow reported by Rau et al. (2012, GCNC 13657).\nSource magnitudes and 3-sigma upper limits at this location are\ngiven below (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373).\n\nFilter       TSTART   TSTOP    Exp Time      Mag  Err\n-----------------------------------------------------\nwhite          134      284         147      18.5  0.2\nwhite          573     6306         598      19.9  0.2\n    v          117     6716         500     >19.0\n    b          548    11345        1174     >19.6\n    u          293     7286         672     >21.1\n uvw1          672     7126         490     >21.1\n uvm2          647     6921         490     >19.5\n uvw2          599     6511         490     >19.8\n-----------------------------------------------------\n\nThe quoted magnitudes and upper limits have not been corrected for\nthe Galactic extinction along the line of sight to this burst of\nE_{B-V} = 0.703 mag."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100901A: Swift-XRT Team refined analysis",
+  "eventId": "GRB 100901A",
+  "bibcode": "2010GCN.11171....1P",
+  "createdOn": 1283407248000,
+  "circularId": 11171,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) and S. Immler (CRESST/GSFC/UMD) report on behalf \nof the Swift-XRT team:\n\nWe have analysed 13 ks of XRT data for GRB 100901A (Immler et al., GCN \nCirc. 11159), from 128 s to 33.2 ks after the BAT trigger. The data \ncomprise 448 s in Windowed Timing (WT) mode (the first 9 s were taken \nwhile Swift was slewing) with the remainder in Photon Counting (PC) mode. \nThe enhanced XRT position for this burst was given by Osborne et al. (GCN. \nCirc 11167).\n\nThe first snapshot (data collected until ~620 s after the trigger) \nconsists of a number of superimposed flares, with the main peak around 410 \ns; this peak was also seen in the BAT data (Sakamoto et al., GCN Circ. \n11169). The light curve then shows a decaying trend with alpha = 0.74 +/- \n0.12, until around 12 ks, after which there is a small rebrightening, to a \nplateau level of around 0.3 count s^-1.\n\nA spectrum formed from the WT mode data can be fitted with an absorbed \npower-law with a photon spectral index of 1.68 (+/-0.04). The best-fitting \nabsorption column is 3.6 (+0.7, -0.6) x 10^21 cm^-2, at a redshift of \n1.408 (Chornock et al., GCN Circ 11164), in addition to the Galactic value \nof 7.1 x 10^20 cm^-2 (Kalberla et al. 2005). The PC mode spectrum has a \nphoton index of 2.19 (+/-0.07) and a best-fitting absorption column of 3.9 \n(+/-0.9) x 10^21 cm^-2 (in addition to the Galactic vale). The counts to \nobserved (unabsorbed) 0.3-10 keV flux conversion factor deduced from this \nspectrum is 3.5 x 10^-11 (5.1 x 10^-11) erg cm^-2 count^-1.\n\nBecause of the rebrightening/plateau shape of the light curve at this time, we \ncannot sensibly predict the count rate at 24 hours.\n\nThe results of the XRT-team automatic analysis are available at \nhttp://www.swift.ac.uk/xrt_products/00433065.\n\nThis circular is an official product of the Swift-XRT team."
+}

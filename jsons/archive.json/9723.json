@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090727: Swift-XRT refined analysis",
+  "eventId": "GRB 090727",
+  "bibcode": "2009GCN..9723....1E",
+  "createdOn": 1248780611000,
+  "circularId": 9723,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P. A. Evans (U Leicester) reports on behalf of the Swift-XRT team:\n\nWe have analysed 11 ks of XRT data for GRB 090727 (Evans et al. GCN\nCirc. 9718), from 91 s to 29.2 ks after the BAT trigger. The data\ncomprise 40 s in Windowed Timing (WT) mode from T+260 s to T+300 s,\nwith  the remainder in Photon Counting (PC) mode. The enhanced XRT\nposition for this burst was given by Goad et al. (GCN. Circ 9721).\n\nThe XRT initially observed the GRB for only 210 s before slewing away,\nand the data in this interval are dominated by a flare, making it\nimpossible to determine the underlying decay rate. Fitting only the data\nfrom the second snapshot onwards (beginning at T+3.9 ks) we find a\npower-law decay with an index of alpha=0.73 (+/-0.19).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.60 (+0.20, -0.14). The\nbest-fitting absorption column is consistent with the Galactic value of\n2.5 x 10^21 cm^-2  (Kalberla et al. 2005).\n\nIf the light curve continues to decay with a power-law decay index of\n0.73, the count rate at T+24 hours will be 0.0043 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 2.3 x\n10^-13 (2.9 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00358520.\n\nThis circular is an official product of the Swift-XRT team."
+}

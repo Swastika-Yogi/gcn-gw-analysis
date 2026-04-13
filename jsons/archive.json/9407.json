@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090519: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090519",
+  "bibcode": "2009GCN..9407....1I",
+  "createdOn": 1242790020000,
+  "circularId": 9407,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (NASA/CRESST/GSFC) and M. Perri (ASDC) report on\nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 090519 starting 106 s after\nthe BAT trigger (Perri et al., GCN Circ. 9400). No optical afterglow\nis detected in the initial UVOT exposures at the enhanced position\nof the X-ray afterglow (Goad et al., GCN Circ. 9405) or the position\nof the NOT afterglow candidate (Thoene et al. GCN Circ. 9403).\nThree-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)        Mag\n\nwhite              123         7430          862         >21.5\nv                  106         7841          597         >19.8\nb                  536         7224          568         >20.6\nu                  281         7019          617         >20.4\nuvw1               662         8131          469         >20.3\nuvm2               637         8046          587         >20.4\nuvw2               588         7636          549         >20.6\n\nThe values quoted above are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

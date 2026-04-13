@@ -1,0 +1,14 @@
+{
+  "editedOn": 1761257802250,
+  "subject": "GRB 250902A: MSU cubesats detection",
+  "version": 2,
+  "eventId": "GRB 250902A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42120....1B",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>",
+  "circularId": 42120,
+  "createdOn": 1759738638873,
+  "submitter": "Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>",
+  "format": "text/plain",
+  "body": "A. Bogomolov, V. Bogomolov, A. Iyudin, S. Svertilov, N. Vasiliev \non behalf of the MSU “Sozvezdie-270” team, report:\n\nAt 2025-09-02 ~01:30:00 UT the long-duration GRB 250902A (Fermi GBM detection: GCN #41648; SVOM detection: GCN #41653, GECAM-B detection: GCN #41687, VZLUSAT-2 detection: GCN #41701, CALET detection: GCN #41703) was detected on the cubesats Avion (the instruments DeCoR-1 and DeCoR-3) and Altair (DeCoR-2) of the Moscow University project “Sozvezdie-270” [1].\n  \nTotal amount of photons detected by Avion is 644 (DeCoR-1, energy band 40-500 keV) and 583 (DeCoR-3, energy band 30-500 keV), it corresponds to a fluence of ~5*10^(-6) erg/cm^2 in the range 30-500 keV (DeCoR-3) and ~3*10^(-6) erg/cm^2 in the range 40-500 keV (DeCoR-1)\n\nLC in the energy range of 30-500 keV consists of a single episode of 7 s duration with a maximum flux of ~15 phot/(cm^2*s), supplemented at the beginning by an additional short increase (less than 2 s).\n\nА total duration (T90) of the burst is ~7 s.\n\nThe light curve obtained by Avion is available here:\nhttps://swx.sinp.msu.ru/models/grb_cat/data/pictures/avion_d3_250902.png\n\nParameters of GRB 250902A as well as other GRBs detected by Moscow University cubesats are listed at: https://swx.sinp.msu.ru/models/grb_cat/grb.php?lang=en\n\nAvion and Altair are the cubesats of the Moscow University project “Constellation-270” [1] launched on 2023 June 27 (Avion) and on 2024 November 5 (Altair). The payload of both cubesats is a set of scintillation gamma-ray detectors DeCoR [2], the energy range is >30 keV (Avion) and >50 keV (Altair), the time resolution is 0.5s (Avion) and 1 s (Altair).\n\n[1] Svertilov et al. 2023  https://link.springer.com/chapter/10.1007/978-3-031-50248-4_21\n[2] Bogomolov et al. 2022 Universe 8, 282 https://www.mdpi.com/2218-1997/8/5/282\n\n"
+}

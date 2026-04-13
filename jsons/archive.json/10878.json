@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100621A: Swift/UVOT observations",
+  "eventId": "GRB 100621A",
+  "bibcode": "2010GCN.10878....1O",
+  "createdOn": 1277130651000,
+  "circularId": 10878,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and T. N. Ukwatta (GSFC/GWU) report on behalf  \nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100621A 85s after the BAT trigger (Ukwatta et al., GCN 10870).\nWe detect a source at the enhanced Swift XRT position\n(Evans et al. GCN 10873) and at the location of the GROND source\n(Updike et al. GCN 10874). This source is also observed in the\nDSS and observed to be constant during the first 7000s and is\nthus likely to be the host galaxy, which is also suggested by Updike\net al. (GCN 10874).\n\nThe magnitudes and 3-sigma upper limits for the finding chart  \nexposures (FC)\nand summed images for this possible host galaxy are:\n\nFilter     T_start   T_stop   Exp(s)  Magnitude/3-sigma upper limit\n-------------------------------------------------------------\nwhite (FC)    85     234        147     20.87 +/- 0.35\nwhite         576    7093       519     20.46 +/- 0.15\nu     (FC)    297    546        246         > 20.18\nu             700    6683       360         > 20.14\nv             626    6067       391     19.49 +/- 0.31\nb             552    6888       372     20.27 +/- 0.28\nuvw1          1107   6478       352     19.64 +/- 0.25\nuvm2          6073   6273       197         > 19.66\nuvw2          5663   5863       197     19.60 +/- 0.28\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.03 mag.\nAll photometry is on the UVOT photometric system described in Poole et\nal. (2008, MNRAS, 383, 627)."
+}

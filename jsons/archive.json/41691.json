@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250903A: VLT X-shooter spectroscopic redshift z = 1.590",
+  "eventId": "GRB 250903A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41691....1S",
+  "createdOn": 1756979416410,
+  "circularId": 41691,
+  "submitter": "Andrea Saccardi at CEA/Irfu <andrea.saccardi@cea.fr>",
+  "format": "text/plain",
+  "body": "A. Saccardi (CEA/Irfu), J. An (NAOC), A. Martin-Carrillo (UCD), G. Corcoran (UCD), N. Habeeb (Leicester), A. J. Levan (Radboud U.), D. B. Malesani (DAWN/NBI and Radboud), G. Pugliese (API), B. Schneider (LAM), S. D. Vergani (LUX-Paris Obs.), D. Xu (NAOC) report on behalf of the Stargate collaboration:\n\nWe observed the optical counterpart (An et al., GCN 41679; Xin et al., GCN 41684; Pérez-Fournon et al., GCN 41685; Saccardi et al., GCN 41686) of GRB 250903A detected by SVOM/ECLAIRs (Maiolino et al., GCN 41677), using the ESO VLT UT3 (Melipal) equipped with the X-shooter spectrograph.\n\nFrom the 30 s X-Shooter acquisition image at 2025-09-04 01:36 UT (~8.18 hr post-trigger), the optical afterglow is well detected with a magnitude of r ~ 20.5 (AB) calibrated against SkyMapper nearby stars and not corrected by Galactic extinction.\n\nOur spectra cover the wavelength range 3000-21000 AA, and consist of 4 exposures of 900 s each. Observations started on 2025-09-04 at approximately 01:38 UT (~8.22 hr after the SVOM/ECLAIRs trigger).\n\nIn a preliminary reduction of the spectra, we detect a continuum over the entire covered wavelength range. From detection in the blue down to ~3190 AA we set a redshift upper limit z < 1.62.\nFurthermore, we detect several absorption lines due to C IV, Si IV, Si II, Fe II, Al II, Mg II, Mg I, from which we infer a redshift of z = 1.590.\n\nWhile the lack of fine-structure lines formally prevents us from securely associating the z = 1.590 system to the GRB, the lack of any unidentified features (and the reasonable S/N of the spectra), coupled with the tight redshift upper limit, indicate that most likely GRB 250903A was indeed at z = 1.590.\n\nWe acknowledge excellent support from the ESO observing staff in Paranal, in particular Cecilia Bustos, Martina Baratella, and Rob Van Holstein. The analysis of this spectrum was carried out with the help of the zHunter tool (https://doi.org/10.5281/zenodo.15189495)."
+}

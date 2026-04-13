@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090410: Swift-BAT refined analysis",
+  "eventId": "GRB 090410",
+  "bibcode": "2009GCN..9123....1B",
+  "createdOn": 1239407944000,
+  "circularId": 9123,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S.D. Barthelmy (GSFC), W.H. Baumgartner (GSFC/UMBC), J.R. Cummings (GSFC/UMBC),\nE.E. Fenimore (LANL), N. Gehrels (GSFC), D. Grupe (PSU),\nH.A. Krimm (GSFC/USRA), C.B. Markwardt (GSFC/UMD), D.M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data sets from T-240 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 090410 (trigger #348929)\n(Grupe, et al., GCN Circ. 9122).  The BAT ground-calculated position is\nRA, Dec = 334.956, 15.419 deg, which is \n   RA(J2000)  =  22h 19m 49.4s \n   Dec(J2000) = +15d 25' 08.6\" \nwith an uncertainty of 1.8 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n \nThe mask-weighted light curve shows two main peaks with some precursor activity.\nThe precursor activity starts at ~T-55 sec.  And because the target location\nonly came into the BAT FOV at T-110 sec, there may have been even earlier activity.\nThe first main peak started at ~T-10 sec, peaked at ~T+7 sec, and ended \naround T+45 sec.  The second main peak started at ~T+80 sec, peaked at ~T+120 sec,\nand returned to baseline T+170 sec.  The burst location left the BAT FOV\nat ~T+390 sec.  T90 (15-350 keV) is 165 +- 8 sec (estimated error\nincluding systematics).\n \nThe time-averaged spectrum from T-49.2 to T+139.4 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.19 +- 0.05.  The fluence in the 15-150 keV band is 5.6 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+8.90 sec in the 15-150 keV band\nis 1.9 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/348929/BA/"
+}

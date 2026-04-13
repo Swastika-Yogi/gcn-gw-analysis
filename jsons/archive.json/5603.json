@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060923B: Swift/UVOT upper limits",
+  "eventId": "GRB 060923B",
+  "bibcode": "2006GCN..5603....1H",
+  "createdOn": 1159121141000,
+  "circularId": 5603,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "S. Holland and A. Cucchiara report on behalf of the\nSwift/UVOT team:\n\nThe Swift UVOT began observing GRB 060923B (trigger #230702),\nM. Stamatikos et al., GCN Circ. 5590) 122 seconds after the\nBAT trigger. No optical afterglow is detected in the XRT\nrefined error circle (M. Capalbi et al., GCN Circ.5602).\n\nThe 3-sigma limiting magnitudes for the finding chart and the\ncoadded images for the UVOT filters are listed below:\n\nFinding chart:\n\nFilter        T_range (s)    Exposure (s)    3sigma UL\nWhite         122-220         98              19.42\nWhite         5163-5360       197             19.79\n\nV             225-387         162             18.52\n\nCoadded images:\n\nFilter        T_range (s)    Exposure (s)    3sigma UL\nV             5572-5768       196             18.61\nB             4959-5156       197             19.61\nU             4754-4950       197             19.28\nW1            4550-6170       386             19.45\nM2            4345-5974       394             19.70\nW2            5368-5565       197             19.92\n\nT_range is calculated from the time of the burst. No correction has\nbeen made for the Galactic reddening of E(B-V) = 0.15 mag\n(Schlegel et al. 1998) along the line of sight to the burst."
+}

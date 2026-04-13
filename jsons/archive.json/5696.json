@@ -1,0 +1,10 @@
+{
+  "subject": "GRB061004: Swift/UVOT optical observations",
+  "eventId": "GRB 061004",
+  "bibcode": "2006GCN..5696....1O",
+  "createdOn": 1160048315000,
+  "circularId": 5696,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (UCL-MSSL), H. Ziaeepour (UCL-MSSL) report on behalf\nof the Swift UVOT team\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began observations of\nGRB061004 at 19:51:14 UT, ~51 seconds after the initial Swift BAT trigger\n(Ziaeepour et al, GCN 5691). No optical counterpart was detected at the\nXRT position (Page et al, 6595) within the coadded images or with the V\nand white finding charts.\n\nThe 3 sigma upper limits are provided for the coadded images and the\nfinding charts below:\n\n\nFilter           Start      Stop    Exposure  3SigmaUL\n--------------------------------------------------------\nWHITE (finding)    68        168        100     18.4\nV (finding)       174        574        400     20.0\n\nV                 704      24752       1477     18.9\nB                 652      13187        928     19.9\nU                 625      18969       1225     20.5\nUVW1              604      18895       2121     21.2\nUVM2              580      17988       1357     20.4\nUVW2              680      24092       1337     20.5\nWHITE             665       6706        520     20.3\n--------------------------------------------------------\n\n\nThe values quoted above are not corrected for the expected\nGalactic extinction of E_{B-V}=0.049."
+}

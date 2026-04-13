@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200125A: Swift detection of a burst",
+  "eventId": "GRB 200125A",
+  "bibcode": "2020GCN.26876....1L",
+  "createdOn": 1579952665000,
+  "circularId": 26876,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "A. Y. Lien (GSFC/UMBC), C. Gronwall (PSU), J.D. Gropp (PSU),\nF. E. Marshall (NASA/GSFC), K. L. Page (U Leicester),\nK. K. Simpson (PSU), A. Tohuvavohu (U Toronto) and\nE. Troja (NASA/GSFC/UMCP) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 11:31:39 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 200125A (trigger=952164).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 228.047, -8.148 which is \n   RA(J2000) = 15h 12m 11s\n   Dec(J2000) = -08d 08' 53\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a complex\nstructure with a duration of at least 40 sec.  The peak count rate\nwas ~1000 counts/sec (15-350 keV), at ~5 sec after the trigger. \n\nThe XRT began observing the field at 11:33:30.7 UT, 111.5 seconds after\nthe BAT trigger. XRT found a bright, uncatalogued X-ray source located\nat RA, Dec 228.0471, -8.1436 which is equivalent to:\n   RA(J2000)  = 15h 12m 11.30s\n   Dec(J2000) = -08d 08' 37.0\"\nwith an uncertainty of 4.9 arcseconds (radius, 90% containment). This\nlocation is 15 arcseconds from the BAT onboard position, within the BAT\nerror circle. No event data are yet available to determine the column\ndensity using X-ray spectroscopy. \n\nThe initial flux in the 2.5 s image was 3.86e-09 erg cm^-2 s^-1 (0.2-10\nkeV). \n\nThere are no UVOT data available at this time. \n\nBurst Advocate for this burst is A. Y. Lien (amy.y.lien AT nasa.gov). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250207A: Swift/UVOT Detection",
+  "eventId": "GRB 250207A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.39199....1K",
+  "createdOn": 1738924944180,
+  "circularId": 39199,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "body": "Paul Kuin (MSSL/UCL) and M. Ferro (INAF-OAB) report on behalf of\nthe Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250207A\n113 s after the BAT trigger (Ferro et al., GCN Circ. 39182).  The source\nwas\nalso reported by Angulo et al. GCN Circ. 39186.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  01:04:21.39 =  16.08912 (deg.)\n    Dec (J2000) = -12:09:52.5  = -12.16459 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system (Breeveld et\nal. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              113          263          147         15.00 +/- 0.02\nv                  655          674           19         16.89 +/- 0.20\nb                  581          600           19         16.56 +/- 0.09\nu                  326          575          246         15.65 +/- 0.03\nuvm2               679          699           19         > 17.3 (3 sigma UL)\nuvw2               630          650           19         > 17.6 (3 sigma UL)\n\nThe lack of detection in the UVM2 band may indicate a redshift greater\nthan 1.3.\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.027 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

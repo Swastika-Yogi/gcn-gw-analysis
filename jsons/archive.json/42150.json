@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251007B: SVOM/C-GFT upper limit",
+  "eventId": "GRB 251007B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42150....1W",
+  "createdOn": 1759875577105,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42150,
+  "format": "text/markdown",
+  "body": "Chao WU (NAOC), Zhe Kang (CHO), Liping Xin(NAOC), Xuhui Han(NAOC), Pinpin Zhang (NAOC), Xiaomeng Lu (NAOC), Zhenwei Li (CHO), You Lv (CHO), Ruosong Zhang (NAOC), Yujie Xiao(NAOC), Yulei  Qiu(NAOC), Jing Wang (NAOC), Jinsong Deng(NAOC), Lei Huang(NAOC), Jianyan Wei (NAOC), N. A. Webb (IRAP), O. Godet (IRAP)  report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of  GRB 251007B (SVOM burst-id sb25100703) detected by Swfit/BAT (Melandri et al. GCN 42147) and SVOM/ECLAIRs (Webb et al., GCN 42148) with LATIOS on SVOM/C-GFT. Observations started at 2025-10-07T19:44:29 UTC, ~83 seconds after the trigger. \n\nA series of g, r, and i band images were obtained. No credible candidate was detected within the error box provided by XRT (Melandri et al. GCN 42147) in our images after preliminary processing, the three sigma upper limits are:\n\n| Mid_t - T0 (s) | Exposure Time (s) | Band | Upper Limit (AB) |\n|----------------|-------------------|------|------------------|\n| 113            | 6×10              | i    | 18.50            |\n| 248            | 18x10             | i    | 18.90            |\n\nThe photometry was calibrated with  UCAC4 catalogue. Magnitudes were not corrected for dust extinction.\n\nWe thank the observation assistants Chunlei Guo and Shuai Liu at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n\n"
+}

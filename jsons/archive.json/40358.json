@@ -1,0 +1,14 @@
+{
+  "editedOn": 1746537479593,
+  "subject": "GRB 250506A: SVOM detection of a burst",
+  "eventId": "GRB 250506A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40358....1W",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 40358,
+  "createdOn": 1746501658507,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Chenwei WANG (IHEP), Lin LAN, Wenjin XIE, Donghua ZHAO (NAOC), Li ZHANG (IHEP), Pierre MAGGI (ObAS) on behalf of the SVOM mission team.\n\n\nSVOM/ECLAIRs trigger on the gamma-ray burst GRB 250506A (SVOM burst-id sb25050601) starting at 2025-05-06T02:23:22 UTC (Tb). The following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Count-Rate Trigger (CRT), which produced a sequence of 1 alert. CRT provided the alert with the best signal-to-noise-ratio (SNR) of 12.51 in the [8-120] keV energy band over a time window of 2.50 seconds starting at Tb. \n\nThe localization of the best alert is R.A., Dec. 219.61, 29.28 degrees:\nR.A. (J2000) = 14h38m27.02s\nDec. (J2000) = 29d16m38.09s\nwith a 90% confidence level (C.L.) radius of 6.47 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThis burst also triggered SVOM/GRM with 3 GRDs but only the first pulse is detected, since the other part is in occultation. The lightcurve of GRM could be found in the link below:\nhttps://www.bursthub.cn//admin/static/svgrb250506A.png\n\nSVOM slewed to the burst. It was occulted by the Earth after slew, thus neither MXT nor VT data are available for the early time.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe Burst Advocate (BA) on shift for this burst is Chenwei Wang: cwwang@ihep.ac.cn.\nPlease contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n"
+}

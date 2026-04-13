@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240415A: Earliest optical followup with the Kinder observations",
+  "eventId": "GRB 240415A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36132....1A",
+  "createdOn": 1713262580820,
+  "circularId": 36132,
+  "submitter": "Amar Aryan <amararyan941@gmail.com>",
+  "body": "A. Aryan, T.-W. Chen, W.-J. Hou, H.-Y. Hsiao, C.-H. Lai, Y.-C. Pan (all NCUIA), S. Yang (HNAS), A. Sankar.K, M.-H. Lee, C.-S. Lin, C.-C. Ngeow, H.-C. Lin, J.-K. Guo (all NCUIA), H. F. Stevance, S. J. Smartt (Oxford/QUB), S. Srivastav (Oxford), M. Fulton, T. Moore, C. Angus, and A. Aamer (all QUB) report: \n\nWe observed the field of GRB 240415A (Fermi GBM team, GCN 36107; Moss et al., GCN 36108; Evans et al., GCN 36109) using the Lulin One-meter Telescope (LOT) at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen et al., AstroNote 2021-92). The optical afterglow candidate of GRB 240415A was identified (Pankov et al., GCN 36118, GCN 36121) and followed with several instruments (Lipunov et al., GCN 36119; Moskvitin et al., GCN 36122; Reguitti et al., GCN 36123, Schneider et al, GCN 36124). \n\nThe first LOT epoch of observations started at 13:17 UT on the 15th of April 2024. We followed the standard IRAF (Tody D., 1993, ASPC, 52, 173) procedure to reduce the images. Additionally, PSF photometry was performed using DAOPHOT II (Stetson P. B., 1987, PASP, 99, 191). The optical afterglow was clearly visible in the combined frame and was within the error box reported by Evans et al. (GCN 36128). The details of the observations and the preliminary magnitude (in the AB system) of the afterglow are as follows:\n\nTelescope | Filter | MJD | t-t0 | Exposure | Magnitude | avg. Seeing | med. Airmass\nLOT | r | 60415.554 | 6.86 hrs | 300 sec * 6 | 21.32 +/- 0.25 | 1\".92 | 1.67\n\nThe reported magnitude is calibrated using 10 nearby stars from the PanSTARRS catalog and is not corrected for the expected Galactic foreground extinction corresponding to a reddening of E_(B-V) = 0.02 mag in the direction of the burst (Schlafly & Finkbeiner 2011)."
+}

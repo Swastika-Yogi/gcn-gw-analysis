@@ -1,0 +1,14 @@
+{
+  "editedOn": 1731520994955,
+  "subject": "Konus-Wind detection of GRB 241107A (short/hard)",
+  "eventId": "GRB 241107A",
+  "version": 2,
+  "submittedHow": "email",
+  "bibcode": "2024GCN.38205....1F",
+  "createdOn": 1731520332848,
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Dmitry Frederiks at Ioffe Institute <ddfrederiks@gmail.com>",
+  "circularId": 38205,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 241107A (SVOM/GRM detection: Wang et al., GCN 38125;\nINTEGRAL/IBIS/PICsIT detection: Rodi et al., GCN 38164;\nIPN triangulation: Kozyrev et al., GCN 38165;\nINTEGRAL IBIS localization: Mereghetti et al., GCN 38172;\nSwift/BAT candidate arcminute localization: DeLaunay et al.: GCN 38177)\ntriggered Konus-Wind (KW) at T0=84602.493 s UT (23:30:02.493).\n\nThe burst light curve starts with a bright, multi-peaked emission pulse\nwith a duration of ~0.028 s, which is followed by a weaker, decaying emission.\nThe total duration of the burst is ~0.160 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241107_T84602/\n\nAs observed by Konus-Wind, the burst had\na total fluence of 1.43(-0.33, +0.13)x10^-6 erg/cm^2 and\na 16-ms peak energy flux, measured from T0-0.096 s,\nof 3.6 (-1.2, +0.2)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nSince the bulk of the burst emission was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nThe time-averaged spectrum of the burst (measured from T0-0.112 s to T0+0.048 s)\nis best fit by a blackbody (BB) function with kT(BB) = 193 (-18, +20) keV.\nThis spectrum can be also described by a power law with\nexponential cutoff (CPL) model: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith a hard photon index alpha = 1.32(-1.09,+2.7) and Ep = 760(-91,+390) keV.\n\nThe spectrum of the initial pulse alone (measured from T0-0.112 s to T0-0.080 s)\nis best described by a blackbody function with kT(BB) = 251 (-31, +38) keV.\nThe fluence in this pulse is 1.15(-0.38, +0.06)x10^-6 erg/cm^2, or ~80%\nof the total fluence.\n\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

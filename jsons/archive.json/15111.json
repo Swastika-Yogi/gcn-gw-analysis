@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130816A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130816A",
+  "bibcode": "2013GCN.15111....1H",
+  "createdOn": 1376941769000,
+  "circularId": 15111,
+  "submitter": "Stephen Holland at STScI  <sholland@stsci.edu>",
+  "email": "sholland@stsci.edu",
+  "body": "S. T. Holland (STScI) reports on behalf of the Swift/UVOT team:\n\n     The Swift/UVOT began settled observations of the field of GRB\n130816A starting 91 s after the BAT trigger (Holland et al. 2013, GCNC\n15097).  We do not detect any new source consistent with the REM\nafterglow position (Covino et al. 2013, GCNC 15098) in any of the UVOT\nexposures.  Preliminary 3-sigma upper limits using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373)\nfor the finding chart (FC) exposures and initial summed exposures are\npresented below.\n\n---------------------------------------------------\nFilter       TSTART      TSTOP    Exposure      Mag\n---------------------------------------------------\nwhite (FC)       91        241         147    >20.8\n    u (FC)      303        554         246    >19.9\n---------------------------------------------------\n    v           633       1924         156    >19.2\n    b           559       1850         136    >20.0\n    u           707       1825         117    >19.5\n uvw1           682       1801         117    >19.3\n uvm2           658       1944         151    >19.4\n uvw2           609       1900         156    >19.7\nwhite           584       1875         284    >21.1\n---------------------------------------------------\n\n     The quoted upper limits have not been corrected for the expected\nextinction due to the Galactic reddening along the line of sight to\nthis burst of E(B-V) = 0.70 mag (Schlafly et al. 2011, ApJS, 737,\n103).  GRB 130816A was 4 degrees above the Galactic Plane, so this\nextinction value is highly uncertain."
+}

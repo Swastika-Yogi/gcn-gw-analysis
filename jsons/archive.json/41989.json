@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250925A: Leavitt Observatory optical upper limit",
+  "eventId": "GRB 250925A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41989....1P",
+  "createdOn": 1758835141616,
+  "circularId": 41989,
+  "submitter": "leavittob@gmail.com",
+  "format": "text/plain",
+  "body": "E. Pavoni, L. Moretti (Leavitt Observatory, Italy)\n\nMembers of:\nGRB/UAI - Gamma Ray Burst Section of Unione Astrofili Italiani\nATA - Associazione Tuscolana di Astronomia\n\nIn a large collaboration with:\nM.G. Dainotti (National Astronomical Observatory of Japan), Y. Niino (Tokyo University, Institute of Astronomy), K. Kalinowski (Aarhus University, Department of Physics and Astronomy), report:\n\nWe observed the field of GRB 250925A detected by Swift (Dichiara et al., GCN 41985), using our Ritchey-Chrétien telescope (D=250 mm, F/D=8).\n\nThe observations began approximately 128 minutes after the trigger, stacking a set of CCD images of 180 seconds each, with good weather conditions. All images were processed by a single data processing pipeline based on astropy package (Astropy Collaboration et al., 2022ApJ...935..167A).\n\nNo credible candidate was detected in our stacked frame within the Swift error circle.\nWe derived the following upper limit:\n\n| Mid-Time (UTC)      | Filter | Exp. Time   | Upper limit (3-sigma) |\n| ------------------- | ------ | ----------- | ----------------------|\n| 2025-09-25T19:42:51 | CR     | 20x180 sec  | 20.49                 |\n\n\nCR magnitude is unfiltered with R zero point.\n\nThe photometry was calibrated with the Pan-STARRS cat. (R-mags obtained via Lupton 2005 transformations). Not corrected for the Galactic extinction.\n\nThis upper limit is consistent with the report by GROWTH-India Telescope (Saikia et al., GCN 41986).\n\nThis message may be cited.\n\n\nReference:\nhttps://leavittobservatory.altervista.org"
+}

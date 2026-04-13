@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170115B",
+  "eventId": "GRB 170115B",
+  "bibcode": "2017GCN.20476....1F",
+  "createdOn": 1484643674000,
+  "circularId": 20476,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 170115B (Fermi-GBM detection: Hamburg & Meegan, GCN 20463;\nFermi-LAT detection: McEnery et al., GCN 20464;\nAstroSat CZTI observation: Sharma et al., GCN 20466;\nPOLAR observation: Xiao et al., GCN 20469;\nAGILE detection:  Verrecchia et al., GCN 20474;\nIPN triangulation: Hurley et al., GCN 20475)\ntriggered Konus-Wind at T0=64155.241 s UT (17:49:15.241).\n\nThe light curve shows a bright, hard, multi-peaked pulse\nfollowed by a weaker emission; the total duration of the burst is ~50 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(1.26 �� 0.12)x10^-4 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+0.512, of (3.1 �� 0.2)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+38.144 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.86 (-0.06,+0.06),\nthe high energy photon index beta = -2.49 (-0.90,+0.31),\nthe peak energy Ep = 1114 (-156,+180) keV,\nchi2 = 94/97 dof.\n\nThe spectrum near the peak count rate (measured from T0 to T0+6.912 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.61 (-0.08,+0.08),\nthe high energy photon index beta = -2.59 (-1.30,+0.32),\nthe peak energy Ep = 1278 (-175,+223) keV,\nchi2 = 94/97 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170115_T64155/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

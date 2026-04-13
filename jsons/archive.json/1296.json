@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 020322: Optical Sources and Improved Astrometry",
+  "eventId": "GRB 020322",
+  "bibcode": "2002GCN..1296....1B",
+  "createdOn": 1016858029000,
+  "circularId": 1296,
+  "submitter": "Josh Bloom at CIT  <jsb@astro.caltech.edu>",
+  "email": "jsb@astro.caltech.edu",
+  "body": "GRB 020322: Optical Sources and Improved Astrometry\n\nJ. S. Bloom (Caltech), N. Mirabal & J. P. Halpern (Columbia), D. W. Fox,\nand P. A. A. Lopes (Caltech), report on behalf of a larger collaboration:\n\n\"A stacked Gunn r-band image from the Palomar 60-inch (9x10 min; see\nGCN #1294) reveals another faint source in the southeast portion of\nthe XMM error circle.\n\n ID    x           y                    J2000\n  a 1129.286   1408.630   RA = 18:01:04.20, Dec = +81:06:41.27\n  b 1135.912   1373.888   RA = 18:01:02.98, Dec = +81:06:28.17\n  c 1126.379   1367.044   RA = 18:01:04.51, Dec = +81:06:25.49\n\nSource \"a\" (outside the error circle) is that discussed in\nSzentgyorgyi et al. (GCN #1295), source \"b\" (inside the error circle)\nis from Bloom et al. (GCN #1294), and source \"c\" (inside the error\ncircle) is the faint source mentioned here. The ICRS positions are\nfound by comparison with the USNO A2.0 and are uncertain by about 300\nmas, 350 mas in the RA and DEC, respectively. The x, y coordinates are\nin pixels of the stacked image.  This .fits image, with a WCS written\nin the header, may be obtained at:\n\n     http://www.astro.caltech.edu/~jsb/GRB/sum-r1.fits.gz\n\n An image of the field showing source a,b, and c may be found at\n\n     http://www.astro.caltech.edu/~jsb/GRB/grb020322-palr.gif\n\nThis message may be cited."
+}

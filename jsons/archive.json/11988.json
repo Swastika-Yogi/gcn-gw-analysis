@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110428A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 110428A",
+  "bibcode": "2011GCN.11988....1I",
+  "createdOn": 1304331702000,
+  "circularId": 11988,
+  "submitter": "Makoto Tashiro at Saitama U/Swift  <tashiro@phy.saitama-u.ac.jp>",
+  "email": "tashiro@phy.saitama-u.ac.jp",
+  "body": "W. Iwakiri, Y. Terada, M. Tashiro, K. Takahara, T. Yasuda (Saitama U.),\nT. Uehara, Y. Hanabata, T. Takahashi, Y. Fukazawa (Hiroshima U.),\nN. Vasquez (Tokyo Tech.) K. Yamaoka (Aoyama Gakuin U.),\nM. Ohno, M. Kokubun, T. Takahashi (ISAS/JAXA),\nS. Sugita (Nagoya U.), Y. E. Nakagawa (Waseda U.),\nN. Ohmori, M. Akiyama, M. Yamauchi (Univ. of Miyazaki),\nY. Urata, P. Tsai (NCU), K. Nakazawa, K. Makishima (Univ. of Tokyo),\non behalf of the Suzaku WAM team, report:\n\nThe long bright GRB 110428A localized by Fermi-LAT (Vasileiou et al.,\nGCN 11982) was observed the Suzaku Wide-band All-sky Monitor (WAM) which\ncovers an energy range of 50 keV - 5 MeV at 09:18:30 UT (=T0).\n\nThe observed light curve shows double-peaked structure starting at\nT0-2s, ending at T0+10 s with a duration (T90) of about 5 seconds. The\nfluence in 100 - 1000 keV was 1.31 (-0.43, +2.03) x 10^-5 erg/cm^2.\nThe 1-s peak flux measured from T0+4 s was\n9.91 (-0.34, +1.19) photons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-2s to T0+10s is well fitted by a power-law with exponential cutoff\nmodel :\ndN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha 1.11 (-0.22, +0.19), and Epeak 195.5 (-14.4, +15.9) keV \n(chi2/d.o.f. = 15.8/20).\nAll the quoted errors are at statistical 90% confidence level."
+}

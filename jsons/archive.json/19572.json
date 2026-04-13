@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160623A: MITSuME Ishigakijima Optical Observation",
+  "eventId": "GRB 160623A",
+  "bibcode": "2016GCN.19572....1K",
+  "createdOn": 1466822247000,
+  "circularId": 19572,
+  "submitter": "Daisuke Kuroda at OAO/NAOJ  <dikuroda@oao.nao.ac.jp>",
+  "email": "dikuroda@oao.nao.ac.jp",
+  "body": "D. Kuroda (OAO, NAOJ),  H. Hanayama, T. Miyaji, J. Watanabe (IAO, NAOJ),\nK. Yanagisawa (OAO, NAOJ), S.Nagayama (NAOJ), M. Yoshida (Hiroshima),\nK. Ohta (Kyoto) and N. Kawai(Tokyo Tech)\nreport on behalf of the MITSuME and OISTER collaboration:\n\nWe observed the field of GRB 160623A (Vianello et al., GCNC 19553;\nTiengo et al., GCNC 19559) with the optical three color\n(g', Rc and Ic) CCD camera attached to the Murikabushi 1m telescope\nof Ishigakijima Astronomical Observatory.\n\nThe observation started on 2016-06-23 15:14:25 UT (~10.2 h after\nthe burst). We detected the previously reported afterglow\n(Pozanenko et al., GCNC 19561; Butler et al., GCNC 19567) in\nRc and Ic bands.\n\nThree sigma upper limit and photometric results of the OT are\nlisted below. We used GSC2.3 catalog for flux calibration.\n\n#T0+[day]  MID-UT    T-EXP[sec]   g'    Rc   Rc_err  Ic   Ic_err\n------------------------------------------------------------------\n0.42989    15:19:37     540.0    >20.4  18.63 0.06   17.19 0.06\n0.45924    16:01:53     480.0    >20.4  18.86 0.09   17.63 0.11\n------------------------------------------------------------------\nT0+ : Elapsed time after the burst [day]\nT-EXP: Total Exposure time [sec]"
+}

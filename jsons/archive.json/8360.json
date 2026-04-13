@@ -1,0 +1,10 @@
+{
+  "subject": "Revised table for GRB 081011 UVOT detections",
+  "eventId": "GRB 081011",
+  "bibcode": "2008GCN..8360....1S",
+  "createdOn": 1223748490000,
+  "circularId": 8360,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) report on behalf of the Swift/UVOT team:\n\nDue to formatting problems, the data table in GCN Circ 8359 (Schady et \nal.) is unreadable. Below is the properly formatted version of the UVOT \ndata table for GRB 0810111\n\nFilter     T_start T_stop  Exp    Mag or 3-sigma UL\n            (s)     (s)     (s)\n===================================================-\nwhite (FC)  99      249    145.8  19.25 +/- 0.08\nwhite       537     1878   283.5  20.33 +/- 0.13\nu (FC)      257     507    245.8  18.62 +/- 0.10\nu           660     2003   155.6  19.91 +/- 0.30\nv           586     7371   548.8  > 20.29\nb           512     6756   351.4  21.13 +/- 0.39\nuvw1        636     7781   548.8  > 20.96\nuvm2        611     7576   548.9  > 20.74\nuvw2        562     7167   548.8  > 21.06\n\nThe values quoted above are not corrected for the expected Galactic \nextinction corresponding to a reddening of E(B-V) = 0.01 mag in the \ndirection of the burst (Schlegel et al. 1998)."
+}

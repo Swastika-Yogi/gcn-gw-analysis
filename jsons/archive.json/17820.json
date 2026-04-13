@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150514A: Swift/UVOT Detection",
+  "eventId": "GRB 150514A",
+  "bibcode": "2015GCN.17820....1M",
+  "createdOn": 1431697853000,
+  "circularId": 17820,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and J. K. Cannizzo (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150514A\n40750 s after the LAT trigger (Kocevski and Arimoto, GCN Circ. 17816).\nA source consistent with the XRT position (Kennea et al. GCN Circ. 17818)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  04:59:30.30 =  74.87623 (deg.)\n    Dec (J2000) = -60:58:06.3  = -60.96841 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite            41402        41850          440         18.60 +/- 0.04\nv                42049        42222          170         18.71 +/- 0.20\nu                40750        41396          636         18.20 +/- 0.05\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

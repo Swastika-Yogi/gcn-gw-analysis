@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220222A",
+  "eventId": "GRB 220222A",
+  "bibcode": "2022GCN.31657....1F",
+  "createdOn": 1646074356000,
+  "circularId": 31657,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 220222A\n(Fermi-GBM detection: The Fermi GBM team, GCN 31630;\nSwift/BAT-GUANO detection: Tohuvavohu et al., GCN 31633;\nIPN localization: Kozyrev et al., GCN 31649)\ntriggered Konus-Wind (KW) at T0=8476.873 s UT (02:21:16.873).\n\nThe burst light curve shows a FRED-like pulse which starts at ~T0-0.5 s,\npeaks at ~T0, and has the total duration of ~5.0 s.\nAlso, a short pulse is seen the KW light curve at ~T0+7.1 s.\nThe emission is seen up to ~1 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220222_T08477/\n\nAs observed by Konus-Wind, the burst had\na fluence of (3.6 �� 0.6)x10^-6 erg/cm^2 and\na 64-ms peak energy flux, measured from T0-0.064,\nof (2.0 �� 0.3)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst (measured from T0 to T0+8.448 s)\nis adequately fit in the 20 keV - 1.5 MeV range\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.60(-0.47,+0.60) and Ep = 187(-35,+63) keV (chi2 = 92/60 dof).\nFitting this spectrum by a Band function yields the same alpha and Ep,\nand an upper limit on the high energy photon index beta of -2.3 (chi2 = 93/59 dof).\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

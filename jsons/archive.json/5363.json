@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060728:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060728",
+  "bibcode": "2006GCN..5363....1P",
+  "createdOn": 1154189368000,
+  "circularId": 5363,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "D. Palmer (LANL), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), M. Koss (GSFC/UMD),\nC. Markwardt (GSFC/UMD), C. Pagani (PSU), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060728 (trigger #221627)\n(Pagani, et al., GCN Circ. 5360).  The BAT ground-calculated position is\nRA,Dec = 16.646,-41.390 deg {1h 6m 35.1s, -41d 23' 23.1\"} (J2000)\n+- 3.0 arcmin, (radius, sys+stat, 90% containment).  The partial coding was 100%.\n \nThe mask-weighted lightcurve shows a smooth (at 10-sec binning) single peak\nstarting at T_zero and ending at ~T+70 sec.  T90 (15-350 keV) is 60 +- 10 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T+0.0 to T+64.0 is best fit by a \nsimple power-law model.  The power law index of the time-averaged spectrum\nis 1.40 +- 0.45.  The fluence in the 15-150 keV band is\n2.4 +- 0.7 x 10^-07 erg/cm2.  All the quoted errors are at the 90%\nconfidence level.\n\nGiven (a) the weakness of this event and (b) the lack of an x-ray counterpart\n(Pagani et al., GCN Circ 5361) and optical counterpart (Pagani et al., 5360),\nwe can not rule out the possibility that this is a hard x-ray transient,\nbut is most likely a burst.  We note that Swift has not had a long GRB\nwith no XRT detection when a prompt slew occurred."
+}

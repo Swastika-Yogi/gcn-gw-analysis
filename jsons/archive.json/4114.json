@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT triggered on a posible CR Shower or possible GRB",
+  "bibcode": "2005GCN..4114....1R",
+  "createdOn": 1129899089000,
+  "circularId": 4114,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "A. Retter (PSU), L. Barbier (GSFC), S. Barthelmy (GSFC),\nA. Beardmore (U Leicester), D. Burrows (GSFC), N. Gehrels (GSFC),\nS.T. Holland (GSFC/USRA), J. Kennea (PSU), F. Marshall (GSFC),\nK. Page (U Leicester), J. Racusin (PSU)\non behalf of the Swift team:\n\nAt 12:12:33 UT, Swift-BAT triggered on a possible cosmic ray shower\nor a possible GRB (trigger=160619).  We will not be able to know for sure\nuntil the full data set arrives in ~2 hours.\n\nThe spacecraft slewed immediately and the XRT began observing the\nfield at 12:13:49 UT, 76 sec after the BAT trigger.  The on-board\ndetection algorithm did not centroid on a source due to insufficient\ncounts so no prompt X-ray position is available.  The spectrum and\nlight curve are inconclusive as to whether a faint source is present\nin the field of view and we await further analysis of the ground\nprocessed data.\n\nThe UVOT began observing at 12:13:47 UT, 74 sec after the BAT trigger.\nThe initial 200 sec V-band finding chart image has been truncated and  \ncovers a small fraction of the BAT error circle.  Based on comparisons\nto the DSS we detect no source down to a magnitude of V_lim = 19.3 (3-sigma)."
+}

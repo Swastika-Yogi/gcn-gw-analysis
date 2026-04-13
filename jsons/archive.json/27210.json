@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 200221A (short)",
+  "eventId": "GRB 200221A",
+  "bibcode": "2020GCN.27210....1S",
+  "createdOn": 1582657247000,
+  "circularId": 27210,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team, and\n\nS. Xiao, C. K. Li, X. B. Li, Y. Huang, and S. L. Xiong\non behalf of the Insight-HXMT GRB team, report:\n\nThe short-duration GRB 200221A (The Fermi GBM team, GCN Circ. 27159)\nwas detected by Fermi (GBM trigger 603949983), Konus-Wind,\nINTEGRAL (SPI-ACS), and Insight (HXMT/HE)\nat about 13979 s UT (03:52:59).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  --------------------------------\n   RA(2000), deg   Dec(2000), deg\n  --------------------------------\n  Center:\n    178.682        +33.400\n  Corners:\n    182.119        +35.008\n    132.491        +48.390\n    141.935        +43.606\n    175.374        +31.702\n    179.446         +3.183\n    183.926         -3.580\n  ---------------------------------\nThe error box area is 455 sq. deg, and its maximum\ndimension is 68.5 deg (the minimum one is 6.5 deg).\nThe Sun distance was ~140 deg.\n\nThe IPN localization is consistent with, but reduces the area of, the \nFermi-GBM one.\n\nThis box may be improved.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200221_T13983/IPN\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

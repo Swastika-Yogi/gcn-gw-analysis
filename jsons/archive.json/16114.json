@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140414A: Swift/UVOT Upper Limit",
+  "eventId": "GRB 140414A",
+  "bibcode": "2014GCN.16114....1M",
+  "createdOn": 1397598747000,
+  "circularId": 16114,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC), L.M.Z. Hagen (PSU), and P. D'Avanzo (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 140414A\nin the U, White, and V filters starting about 40 ks\nafter the BAT trigger (Cummings GCN Circ. 16110).\nBecause the star tracker failed to lock, stars are trailed\nin all the images, and the usual UVOT sensitivities\nare not achieved.\nNo optical afterglow consistent with the BAT position\nis detected in the any of the UVOT exposures.\nThe results for the most sensitive exposure is reported\nin the table below. The limiting magnitude is\nestimated from the list of detected stars.\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite            40958        41502          536         >20\n\nThe magnitude in the table is not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

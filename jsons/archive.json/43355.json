@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 260104A: Swift-BAT refined analysis",
+  "eventId": "GRB 260104A",
+  "submittedHow": "email",
+  "bibcode": "2026GCN.43355....1M",
+  "createdOn": 1767927670258,
+  "submitter": "Tyler Parsotan  at NASA GSFC <tyler.parsotan@nasa.gov>",
+  "circularId": 43355,
+  "body": "M. J. Moss (GSFC), S. D. Barthelmy (GSFC),\nR. Caputo (GSFC), R. Gupta (GSFC),\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC),\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Parsotan (GSFC),\nD. Sadaula (GSFC/UMBC), T. Sakamoto (AGU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 260104A (trigger #1430212)\n(Caputo, et al., GCN Circ. 43315).  The BAT ground-calculated position is\nRA, Dec = 337.395, -21.291 deg which is\n   RA(J2000)  =  22h 29m 34.8s\n   Dec(J2000) = -21d 17' 27.5\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 99%.\n\nThe mask-weighted light curve shows two pulses. T90 (15-350 keV) is 13.26 +- 2.65 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-10.09 to T+5.22 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.32 +- 1.08,\nand Epeak of 42.5 +- 8.8 keV (chi squared 67.04 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 3.5 +- 0.5 x 10^-07 erg/cm2\nand the 1-sec peak flux measured from T-0.23 sec in the 15-150 keV band is\n1.3 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.85 +- 0.16 (chi squared 76.81 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1430212\n\n"
+}

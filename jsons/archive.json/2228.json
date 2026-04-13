@@ -1,0 +1,10 @@
+{
+  "subject": "HETE GRB030329, correction to Rc Observations in Loiano",
+  "eventId": "GRB 030329",
+  "bibcode": "2003GCN..2228....1P",
+  "createdOn": 1052848891000,
+  "circularId": 2228,
+  "submitter": "Graziella Pizzichini at IASF/CNR,Bologna  <pizzichini@bo.iasf.cnr.it>",
+  "email": "pizzichini@bo.iasf.cnr.it",
+  "body": "G. Pizzichini and P. Ferrero (IASF/CNR, Bologna), C. Bartolini, \nA. Guarnieri, A. Piccioni (Bologna University), A. Righini (Firenze \nUniversity) and I. Bruni (Bologna Astronomical Observatory) report: \n \nThe Rc magnitude quoted by us for the OT of GRB030329 in GCN 2136\nwas not correct, due to a bad subtraction of the background\nin conditions of nearly full moon.\nBy coadding the three exposures listed below:   \n-- \n   UT  start    exptime  filter\n  -----------------------------\n  Apr. 13.8783  300s     Rc\n  Apr. 13.8824  300s     Rc\n  Apr. 13.8865  300s     Rc\n\nand using the star at RA = 161.231899, DEC = 21.522793,\nin the new field photometry given by Henden, GCN 2082, \nwe now find Rc = 19.53 +- 0.20 .\n \nIn the following night, by coadding the exposures:\n\n-\n   UT  start    exptime  filter\n  -----------------------------\n  Apr. 14.8879  300s     Rc\n  Apr. 14.8923  300s     Rc\n  Apr. 14.8973  300s     Rc\n\n and still under very unfavorable conditions because of the moon,\nwe find Rc = 20.27 +- 0.33. Errors quoted are 1 sigma.\n  \nWe thank Dr. A. Henden for promptly signalling the problem to us and\nDr. E. Palazzi for useful advice."
+}

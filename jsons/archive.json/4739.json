@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060211B: Swift-BAT detection of a burst",
+  "eventId": "GRB 060211B",
+  "bibcode": "2006GCN..4739....1M",
+  "createdOn": 1139675002000,
+  "circularId": 4739,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Mateos (U Leicester), S. Barthelmy (GSFC), N. Gehrels (GSFC),\nO. Godet (U Leicester), C. Hurkett (U Leicster), J. Kennea (PSU),\nH. Krimm (GSFC/USRA), F. Marshall (GSFC), J. Osborne (U Leicester),\nK. Page (U Leicester), D. Palmer (LANL)\non behalf of the Swift team:\n\nAt 15:55:15 UT, Swift-BAT triggered and located GRB 060211B (trigger=181156).\nThe spacecraft slewed immediately.  The BAT on-board calculated location is\nRA,Dec 75.069d,+14.958d {05h 00m 17s,+14d 57' 27\"} (J2000), with an uncertainty\nof 3 arcmin (radius, 90% containment, stat+sys).  The BAT light curve shows\ntwo main peaks starting about 10 sec before the trigger and extending to T+15sec,\nwith a total duration of ~30 sec.  The peak count rate was ~1000 counts/sec\n(15-350 keV), at ~0 seconds at the trigger.\n\nThe XRT began taking data at 15:56:38 UT, 83 seconds after the BAT trigger.\nThe XRT on-board centroid algorithm did not converge and no prompt position\nis available.  The lightcurve shows evidence of a fading source.  We are\nwaiting for down-linked data to detect and determine a position for the source.\n\nUVOT took a finding chart exposure of 200 seconds with the V filter starting\n84 seconds after the BAT trigger.  No afterglow candidate has been found in the\ninitial data products.  The 2.7'x2.7' sub-image covers 25% of the BAT error\ncircle.  The typical 3-sigma upper limit has been about 18th mag.  The 8'x8'\nregion for the list of sources generated on-board covers 100% of the BAT error\ncircle.  The list of sources is typically complete to about 18.0 mag.\nNo correction has been made for the expected extinction of about 1.4 magnitudes."
+}

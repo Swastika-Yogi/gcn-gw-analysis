@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240615A: FLWO-1.2m optical upper limits",
+  "eventId": "GRB 240615A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36680....1K",
+  "createdOn": 1718591043665,
+  "submitter": "Harsh Kumar at Center for Astrophysics  | Harvard & Smithsonian  <harshkosli13@gmail.com>",
+  "circularId": 36680,
+  "format": "text/plain",
+  "body": "H. Kumar (CFA) D. Hiramatsu (CFA), and E. Berger (CFA) report on behalf of the FLWO team:\n\nWe observed GRB 240615A detected by Fermi GBM (GCN #36671)and Swift/BAT-GUANO (GCN #36672), with the FLWO 1.2m (48”) robotic telescope. We obtained multiple 300-sec exposures in the g, r, and i filters and did not detect any new source in our stacked images within 4 arcmin of BAT position: RA (J2000) = 21:44:33.91, Dec(J2000) = 38:35:41.3. We obtained the following upper limits:\n\n---------------------------------------------------------------------------------\n JD (mid) | T-T0(hrs) | Exposure (sec) | Filter | Lim_mag (5-sigma) \n---------------------------------------------------------------------------------\n2460477.78778 | 13.04 | 900 (stacked) | r | > 21.92\n2460477.79915 | 13.32 | 900 (stacked) | g | > 21.33\n2460477.81047 | 13.59 | 900 (stacked) | i | > 21.47\n---------------------------------------------------------------------------------\n\nThe magnitudes are calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nWe thank the FLWO staff for their support.\n"
+}

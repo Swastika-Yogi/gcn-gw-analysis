@@ -1,0 +1,10 @@
+{
+  "subject": "EP260324a: GROWTH-India Telescope optical observation",
+  "eventId": "EP260324a",
+  "submittedHow": "web",
+  "createdOn": 1774606497570,
+  "circularId": 44128,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "T. Mohan (IITB), V. Swain (IITB), D. Eappachen (IIA), A.P. Saikia (IITB), S. Patil (IITB), V. Bhalerao (IITB), G.C. Anupama (IIA), S. Barway (IIA) and R. Norbu (IAO) report on behalf of the GIT team:\n\nWe observed the field of EP260324a (Wu et al., ATel 17728), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2026-03-26 18:34:45 (UTC), i.e., 2.48 days after the trigger, and obtained multiple exposures in the r' and g' filters. We detect the optical counterpart in our difference image at position reported by Anumarlapudi et al., GCN 44120. (ZTF26aapviim / [AT 2026hir](https://www.wis-tns.org/object/2026hir)):\n\n| MJD (mid)    | Filter | tmid-t0 (days) | Exposure Time (sec) | Magnitude (AB) |\n| ------------ | ------ | -------------- | ------------------- | -------------- |\n| 61125.7835185| g'    | 2.489           | 1x300               | 18.08 +- 0.09  |\n| 61125.7871875| r'    | 2.493           | 1x300               | 18.34 +- 0.09  |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur magnitude for the optical counterpart is consistent with other optical observations (Anumarlapudi et al., GCN 44120).\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

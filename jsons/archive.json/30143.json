@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 210605A (short)",
+  "eventId": "GRB 210605A",
+  "bibcode": "2021GCN.30143....1S",
+  "createdOn": 1623069279000,
+  "circularId": 30143,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, D. Frederiks, A. Ridnaia,\nA. Lysenko, and T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe bright, short-duration GRB 210605A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 30127)\nwas detected by Fermi (GBM trigger 644562543), Konus-Wind,\nINTEGRAL (SPI-ACS), and Swift (BAT) at about 18538 s UT (05:08:58).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n    21.609 (01h 26m 26s) -45.089 (-45d 05' 19\")\n  Corners:\n    24.666 (01h 38m 40s) -49.385 (-49d 23' 08\")\n    19.468 (01h 17m 52s) -41.356 (-41d 21' 22\")\n    19.355 (01h 17m 25s) -41.513 (-41d 30' 47\")\n    24.633 (01h 38m 32s) -49.663 (-49d 39' 47\")\n  ---------------------------------------------\nThe error box area is 1.2 sq. deg, and its maximum\ndimension is 9.0 deg (the minimum one is 8.4 arcmin).\nThe Sun distance was 81 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi RoboBA and BALROG localizations.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210605_T18539/IPN\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

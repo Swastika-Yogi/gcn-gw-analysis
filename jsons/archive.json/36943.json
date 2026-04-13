@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240727B: AstroSat CZTI detection",
+  "eventId": "GRB 240727B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36943....1W",
+  "createdOn": 1722075274647,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "circularId": 36943,
+  "format": "text/plain",
+  "body": "G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a long-duration GRB 240727B which was also detected by Fermi/GBM (Trigger 743752813). Inspection of INTEGRAL/SPI-ACS data also showed the detection of the burst. \n\nThe source was clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2024-07-27 06:00:15.7 UTC. The measured peak count rate is 353 (+85, -34) counts/s above the background in the combined Veto data of all quadrants, with a total of 3126 (+699, -758) counts. The local mean background count rate was 1440 (+8, -8) counts/s. We measure a T90 of 17 (+10, -7) s from the cumulative Veto light curve.\n\nIt was also detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-07-27 06:00:18.5 UTC. The measured peak count rate associated with the burst is 72 (+37, -11) counts/s above the background in the combined data of all quadrants, with a total of 468 (+180, -183) counts. The local mean background count rate was 331 (+3, -4) counts/s. Using cumulative rates, we measure a T90 of 12 (+3, -6) s.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n\n"
+}

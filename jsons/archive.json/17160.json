@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141212A: MITSuME Akeno upper limits",
+  "eventId": "GRB 141212A",
+  "bibcode": "2014GCN.17160....1F",
+  "createdOn": 1418391521000,
+  "circularId": 17160,
+  "submitter": "Taketoshi Yoshii at Tokyo Tech  <yoshii.t.ac@m.titech.ac.jp>",
+  "email": "yoshii.t.ac@m.titech.ac.jp",
+  "body": "T.Fujiwara, T. Yoshii, Y. Saito, Y. Tachibana, H. Ohuchi, Y. Yano,\nS. Kurita, Y.Ono, Y. Yatsu, and N. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 141212A (T. N. Ukwatta et al. GCN Circular #17158) with the\noptical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope of Akeno Observatory, Yamanashi, Japan.\n\nThe observation started on 2014-12-12 12:14:32 UT (31 sec after the burst).\nWe did not find any new point source within XRT circle in all three bands.\n\nThe measured magnitudes are listed below.\n\nT0+[sec]      MID-UT      T-EXP[sec]         g'           Rc           Ic\n--------------------------------------------------------------------------------------\n  61        12:17:29         240                    >19.6     >19.0       >18.3\n  422      12:28:07         780                    >20.0      >19.6     > 18.9\n  422      12:41:18        2340                  >20.5     >20.1       >19.6\n--------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used GSC2.3 catalog for flux calibration."
+}

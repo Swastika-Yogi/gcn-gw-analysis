@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210822A: GECAM refined analysis",
+  "eventId": "GRB 210822A",
+  "bibcode": "2021GCN.30696....1W",
+  "createdOn": 1629730834000,
+  "circularId": 30696,
+  "submitter": "Chenwei Wang at IHEP  <cwwang@ihep.ac.cn>",
+  "email": "cwwang@ihep.ac.cn",
+  "body": "C. W. Wang, S. L. Xiong, X. Y. Zhao, X. Y. Song, C. Cai, C. Y. Li,\nY. Huang, S. L. Xie, J. C. Liu, Y. Q. Zhang,  Y. Zhao, Z. W. Guo, C. Zheng,\nZ. H. An, C. Chen, G. Chen, W. Chen, M. Gao, K. Gong, D. Y. Guo, J. J. He,\nB. Li, C. Li, J. H. Li, Q. X. Li, X. B. Li, X. Q. Li, Y. G. Li,\nX. H. Liang, J. Y. Liao, J. C. Liu, X. J. Liu, Y. Q. Liu, F. J. Lu, \nQ. Luo, X. Ma, G. Ou, W. X. Peng, R. Qiao, D. L. Shi, J. Y. Shi, \nL. M. Song, G. X. Sun, X. L. Sun, Y. L. Tuo, J. Z. Wang,X. L. Zhang, \nW. C. Xue, X. Y. Wen, S. Xiao, Y. B. Xu, Y. P. Xu, S. Yang, M. Yao, \nQ. B. Yi, B. X. Zhang, C. Y. Zhang, D. L. Zhang, Fan Zhang, Fei Zhang, \nH. M. Zhang, K. Zhang, P. Wang, P. Zhang, S. N. Zhang, Z. Zhang, \nS. Y. Zhao, S. J. Zheng, X. Zhou (IHEP), report on behalf of GECAM team:\n\nAt 2021-08-22T09:18:18.00 UTC(denoted as T0), GECAM-B was triggered in-flight \nby a long bright burst, GRB 210822A, which is also observed by Swift/BAT (GCN #30677). \nThe spectrum was calculated using the GECAM-B trigger data. \n\nThe time-integrated spectrum (measured from T0 to T0+15) \nis best fit in the 20 keV - 5 MeV range \nby a power law with high energy exponential rolloff model:\ndN/dE ~ (E^alpha)*exp(-E/beta)\nwith  alpha = -0.8595 +/- 0.029,\nand beta = 394.9867 +/- 23.466 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(7.54 +0.10/-0.19)E-05 erg/cm^2. \n\nPlease note that all GECAM results here are preliminary. The final analysis\nwill be published in journal papers or GECAM online catalog.\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor\n(GECAM) mission consists of two small satellites (GECAM-A and GECAM-B) in\nLow Earth Orbit (600 km, 29 deg), launched on Dec 10, 2020 (Beijing Time),\nwhich was funded by the Chinese Academy of Sciences (CAS)."
+}

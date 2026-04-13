@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250113A: SVOM/GRM observation of a long burst",
+  "editedOn": 1736800811829,
+  "eventId": "GRB 250113A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38923....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 38923,
+  "createdOn": 1736777060605,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Shi-Jie Zheng, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nreport on behalf of the SVOM team:\n\nDuring the commissioning phase, SVOM/GRM was triggered in-flight by a long burst GRB 250113A (SVOM trigger reference: sb25011303) at 2025-01-13T06:24:36.900 UTC (T0).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of multi-pulses with a T90 of 42 +2/-3 s.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250113A.png\n\nThe SVOM/GRM on-ground localization of this burst is (J2000):\nRA: 321.4 deg\nDEC: -21.6 deg\nError: 2.7 deg (1sigma, statistical only)\nWe caution that the calibration of SVOM/GRM is undergoing and this localization is subject to systematic errors. \n\nIn addition, the position of this burst, as determined by GRM, is located at about 159 degrees from the SVOM optical axis. This burst was detected by the Count-Rate Trigger onboard ECLAIRs, as an increase in counts over background, but it was not localized by the coded-mask imaging process, which confirms that the burst occurred outside the ECLAIRs field of view.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Chen-Wei Wang (IHEP) (cwwang@ihep.ac.cn)"
+}

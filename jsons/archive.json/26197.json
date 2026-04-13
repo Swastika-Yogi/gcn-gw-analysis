@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF19abvizsw: Upper limits from Konus-Wind observations",
+  "eventId": "ZTF19abvizsw",
+  "bibcode": "2019GCN.26197....1R",
+  "createdOn": 1573114687000,
+  "circularId": 26197,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nKonus-Wind (KW) was observing the whole sky during a day before\ndiscovery of ZTF19abvizsw (2019-09-02 04:19:12 UTC;\nKool et al., GCN Circ. 25616) including the time of TESS detection\n(2019-09-02 03:15 UTC, hereafter T0; Fausnaugh et al., GCN Circ. 25982)\n\nOne triggered and one waiting-mode KW events were detected during\n~1-day interval before T0. The burst localizations are inconsistent\nwith the ZTF19abvizsw.\n\nFor the interval excluding the KW events, we estimate\nan upper limit (90% conf.) on the 20 - 1500 keV fluence to\n6.3x10^-7 erg/cm^2 for a burst lasting less than 2.944 s and having a\ntypical KW short GRB spectrum (an exponentially cut off power law with\nalpha =-0.5 and Ep=500 keV). For a typical long GRB spectrum (the Band\nfunction with alpha=-1, beta=-2.5, and Ep=300 keV), the corresponding\nlimiting peak flux is 1.3x10^-7 erg/cm^2/s (20 - 1500 keV, 2.944 s \nscale).\n\nAssuming the redshift z=1.26 (Burdge et al. GCN circ. 25639)\nand a standard cosmology model with H_0 = 67.3 km/s/Mpc,\nOmega_M = 0.315, and Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate an upper limit on a long GRB peak luminosity L_iso ~\n1.3x10^51 erg/s.\n\nAll the quoted values are preliminary."
+}

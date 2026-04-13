@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120215A: MITSuME Akeno Optical upper limits",
+  "eventId": "GRB 120215A",
+  "bibcode": "2012GCN.12972....1S",
+  "createdOn": 1329725783000,
+  "circularId": 12972,
+  "submitter": "Yoichi Yatsu at Tokyo Tech.  <yatsu@hp.phys.titech.ac.jp>",
+  "email": "yatsu@hp.phys.titech.ac.jp",
+  "body": "Y. Saito, Y. Aoki, S. Song, M. Hayashi, K. Kawakami, K. Tokoyoda,\nR. Usui, Y. Yatsu, and N. Kawai (Tokyo Tech)  report on behalf of\nthe MITSuME collaboration:\n\nWe observed GRB 120219A (Swenson et al., GCNC 12964) with the\noptical three color (g, Rc, and Ic) CCD cameras attached to the MITSuME\n50 cm telescope of Akeno Observatory, Yamanashi, Japan.\n\nWe started the observation 134 sec after the BAT trigger\nfrom 2012-02-19 14:32:22 UT.  And we did not find any new point source\nwithin the XRT error circle (Goad et al., GCNC 12967) in the three bands.\nThe results of photometry (3sigma upper limits) are listed below.\n\nThe photon flux were calibrated against GSC2.3 catalog.\n\nT0+[sec]      MID-UT     T-EXP[sec]       g'              Rc           Ic\n----------------------------------------------------------------------------------------\n   275      14:34:43       240         > 19.5        > 19.5       > 18.2\n 12005     17:54:41     18060         > 21.5        > 21.4       > 20.5\n----------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst [sec]\nT-EXP: Total Exposure time [sec]"
+}

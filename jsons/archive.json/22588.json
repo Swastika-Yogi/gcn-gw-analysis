@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180402A",
+  "eventId": "GRB 180402A",
+  "bibcode": "2018GCN.22588....1S",
+  "createdOn": 1522774772000,
+  "circularId": 22588,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, M. Ulanov,\nA. Tsvetkova, A. Lysenko, A. Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration, hard-spectrum GRB 180402A\n(Swift-BAT detection: Lien et al., GCN Circ. 22580;\nFermi-GBM detection: Malacaria, GCN Circ. 22585)\ntriggered Konus-Wind at T0=35100.353 s UT (09:45:00.353).\n\nThe burst light curve shows bright, multi-peaked emission episode,\nwhich starts at T0-64 ms and has a total duration of ~180 ms,\npreceded by a weaker pulse at ~T0-340 ms.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.14(-0.33,+0.53)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.086 s,\nof 2.03(-0.45,+0.60)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the most intense part of the burst was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModeling the KW 3-channel spectrum of the main episode\n(from T0-0.064 s to T0+0.116 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.01(-0.43,+0.64), and Ep = 703(-161,+276) keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180402_T35100\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

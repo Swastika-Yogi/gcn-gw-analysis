@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090423: Faulkes Telescope South observations",
+  "eventId": "GRB 090423",
+  "bibcode": "2009GCN..9200....1M",
+  "createdOn": 1240479722000,
+  "circularId": 9200,
+  "submitter": "Andrea Melandri at Liverpool John Moores U  <axm@astro.livjm.ac.uk>",
+  "email": "axm@astro.livjm.ac.uk",
+  "body": "A. Melandri (Liverpool JMU), C. Guidorzi (U. Ferrara), C.G. Mundell,\nD. Bersier (Liverpool JMU), P. O'Brien, N. Tanvir (U. Leicester) on\nbehalf of a large collaboration report:\n\n\nOn 2009 April 23 at 07:57:07 UT we observed the Swift-BAT GRB 090423\n(Krimm et al., GCN Circ. 9198) with the 2-m Faulkes Telescope South.\n\nObservations started 108 seconds after the BAT trigger time and were\nperformed using the B, R and i' filters. We could not find any\nuncatalogued object inside the XRT error circle down to the following\nlimiting magnitudes:\n\nFor single frames:\n\nMid Time   Exposure  Filter   Limit\n  (min)       (s)              (mag)\n-------------------------------------\n16.05         60      i'      > 18.0\n21.30        120      r'      > 20.0\n24.29        120      i'      > 19.0\n-------------------------------------\n\nFor coadded frames:\n\nTime Range   Exposure  Filter  Limit\n  (min)         (s)             (mag)\n-------------------------------------\n13.58-53.82    660      r'     > 20.8\n15.55-45.95    420      i'     > 20.5\n-------------------------------------\n\nCalibration was performed using few SDSS nearby stars on both filters."
+}

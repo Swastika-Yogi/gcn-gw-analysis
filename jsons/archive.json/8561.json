@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081126: Swift-XRT refined analysis",
+  "eventId": "GRB 081126",
+  "bibcode": "2008GCN..8561....1M",
+  "createdOn": 1227787460000,
+  "circularId": 8561,
+  "submitter": "Raffaella Margutti at U. di Milano Bicocca  <raffaella.margutti@brera.inaf.it>",
+  "email": "raffaella.margutti@brera.inaf.it",
+  "body": "R. Margutti (Univ. Bicocca & INAF-OAB) reports on behalf of the Swift \nXRT team:\n\nWe have analysed the first 5 orbits of Swift-XRT data obtained for GRB \n081126\n(Margutti et al., GCN Circ. 8554), covering 100 s of Windowed Timing\n(WT) and 9.1 ks of Photon Counting (PC) mode data, respectively, between 77\nand 24 ks after the trigger.\nThe UVOT-enhanced XRT position was given by Osborne et al. in GCN Circ. \n8556.\n\nThe light-curve can be modelled by a double broken power-law,\nwith an initial decay of alpha_1= 1.2 +/- 0.2, a flat decay\nof alpha_2= 0.6 +/- 0.1 and a final value of alpha_3= 2.1 +/- 0.2.\nThe two break times are around 200 and 9000 s, respectively.\n\nA spectrum extracted from WT data can be modelled with an\nabsorbed power-law, with Gamma = 1.9 +/- 0.2 .\nA spectrum extracted from PC data in the time interval  3-30 ks post \ntrigger\ncan be modelled with an absorbed power-law, with Gamma = 2.0 +/- 0.1 and\na column density of NH = (5.0 +/- 0.7)x10^21 cm^-2, which is compatible with\nthe Galactic value in this direction (4.1x10^21 cm^-2).\nThe observed (unabsorbed) 0.3 -10 keV flux over this time\ninterval is 7.1x10^-12 (1.2x10^-11) erg cm^-2 s^-1.\nFor both spectra there is no strong evidence for intrinsic NH.\nUncertainties are given at 90% confidence.\n\nIf the light-curve continues to decay with alpha ~ 2, the count rate 24\nhours after the burst is estimated to be 2.7x10^-3 count s^-1, which\ncorresponds to an observed flux of 1.4x10^-13 erg cm^-2 s^-1.\n\nThe results of the xrt automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00335647.\n\nThis is an official product of the Swift-XRT team."
+}

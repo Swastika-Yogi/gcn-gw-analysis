@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250818B: Swift-XRT afterglow detection",
+  "editedOn": 1755702874350,
+  "eventId": "GRB 250818B",
+  "version": 2,
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41407....1F",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "circularId": 41407,
+  "createdOn": 1755496258736,
+  "submitter": "Phil Evans at U of Leicester <pae9@star.le.ac.uk>",
+  "format": "text/plain",
+  "body": "M. Ferro (INAF-OAB), J.A. Kennea (PSU), D.N. Burrows (PSU), M.A.\nWilliams (PSU), A.P. Beardmore (U. Leicester), J.P. Osborne (U.\nLeicester), R. Brivio (INAF-OAB), A. D'Ai (INAF-IASFPA) and P.A. Evans\n(U. Leicester) reports on behalf of the Swift-XRT team:\n\nSwift-XRT has performed follow-up observations of GRB 250818B. We\nsearched for X-ray sources in  604 s of Photon Counting (PC) mode data.\nThe total exposure at the position of the afterglow (see below) is 604\ns, obtained between T0+1.7 ks and T0+2.3 ks.\n\nAn uncatalogued X-ray source is detected and is above the RASS 3-sigma\nupper limit at this position, and is therefore likely the GRB\nafterglow.  The position of this source is RA, Dec=46.0552, -3.1251\nwhich is equivalent to:\n\nRA (J2000): 03h 04m 13.24s\nDec(J2000): -03d 07' 30.24\"\n\nwith an uncertainty of 3.6 arcsec (radius, 90% confidence).  The light\ncurve is consistent with a constant source of mean count rate 7.1e-01\nct/sec, though only covers a short interval of time. The position is\nalso consistent with the fading optical counterpart candidate\nGOTO25fzq/AT 2025ukm reported by GOTO (GCN Circ. 41406).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.67 (+0.26, -0.20). The\nbest-fitting absorption column is  8.6 (+8.1, -2.1) x 10^20 cm^-2,\nconsistent with the Galactic value of 6.5 x 10^20 cm^-2 (Willingale et\nal. 2013). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 4.0 x 10^-11 (4.5 x\n10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     8.6 (+8.1, -2.1) x 10^20 cm^-2\nGalactic foreground: 6.5 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.67 (+0.26, -0.20)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/03000030.\nThe results of the full analysis of the XRT observations are available\nat https://www.swift.ac.uk/ToO_GRBs/SVOM_FIELD00031.\n\nThis circular is an official product of the Swift-XRT team.\n\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250129A: Skynet optical observations",
+  "eventId": "GRB 250129A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39091....1S",
+  "createdOn": 1738192706599,
+  "submitter": "dschlekat@unc.edu",
+  "circularId": 39091,
+  "format": "text/plain",
+  "body": "Donovan Schlekat, Dylan Dutton, Daniel Reichart, Joshua Haislip, and Vladimir Kouprianov report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 250129A with two of Skynet's PROMPT telescopes located at the Cerro Tololo Inter-American Observatory. The observation began at 05:12:20 UT on January 29 2025, roughly 27 minutes after the Swift-BAT trigger (Beardmore et al., GCN 39066). Observations were performed in the B, V, R, and I bands. Exposure lengths were calculated using our automated exposure length scaling model.\n\nWe detect the optical afterglow consistent with the coordinates reported by other facilities (Francile et al., GCN 39065; Beardmore et al., GCN 39066; Schneider et al., GCN 39071; Belkin et al., GCN 39072; Izzo et al., GCN 39073; Izzo & Malesani, GCN 39074; Ghosh et al., GCN 39077; Schneider et al., GCN 39078; Brivio et al., GCN 39079; Siegel et al., GCN 39085; Zheng et al., GCN 39090).\n\nThe coordinates are:\nR.A. (J2000): 13:14:42.39\nDec. (J2000): 05:01:50.22\n\nWe detect the object in the B, V, R, and I band. The initial detection photometry for each band is reported below. Additional Skynet observations are ongoing.\n\nTmid - T0 (s)| Telescope | Filter | Exposure (s) | Mag\t   | Mag Error\n------------------------------------------------------------------\n1674.49      | PROMPT-5  | B      | 59           | 17.525  | 0.051\n1678.99\t     | PROMPT-6  | V      | 34           | 16.902  | 0.054\n1711.99      | PROMPT-6  | R      | 22           | 16.628  | 0.057\n1938.49      | PROMPT-6  | I      | 19           | 16.111  | 0.095\n\nOur images have been calibrated using stars from the APASS catalog. Magnitudes were not corrected for dust extinction."
+}

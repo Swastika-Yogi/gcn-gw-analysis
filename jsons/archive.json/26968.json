@@ -1,0 +1,10 @@
+{
+  "subject": "ZTF20aajnksq: Gemini-North r-band photometry",
+  "eventId": "ZTF20aajnksq",
+  "bibcode": "2020GCN.26968....1S",
+  "createdOn": 1580698447000,
+  "circularId": 26968,
+  "submitter": "Leo Singer at GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "ZTF20aajnksq: Gemini-North optical photometry\n\nLeo P. Singer (NASA/GSFC), Tomas Ahumada (UMD), Anna Y. Q. Ho (Caltech)\nreport on behalf of the Zwicky Transient Facility (ZTF) and Global Relay\nof Observatories Watching Transients Happen (GROWTH) collaborations:\n\nStarting at 2020-02-01T12:25:57 UTC, we imaged ZTF20aajnksq/AT2020blt\n(Ho et al., ATel #13429, GCN 26966) using the Gemini Multi-Object\nSpectrograph (GMOS) mounted on the Gemini North 8-meter telescope on\nMauna Kea.\n\nWe combined 8 r-band 200s exposures using DRAGONS, a Python-based data\nreduction platform provided by the Gemini Observatory. We detect a source\nat the location of the transient. The aperture photometry calibrated\nagainst Pan-STARRS DR1 magnitudes (Chambers et al., 2016) of the object is\nr = 25.2 +- 0.05 AB mag.\n\nWe note that for the redshift (z = 2.9) and apparent magnitude\n(r = 19.6 AB mag) reported in GCN 26966, the absolute magnitude of the\nsource (M_r = -27.4) would be significantly brighter than afterglows of\nshort GRBs at one day: short GRBs are typically M_B = -17.34 +- 0.50 AB\nmag whereas long GRBs are typically M_B = -23.17 +- 0.21 AB mag (Kann et\nal., 2011). We therefore suggest three alternative interpretations:\n(a) GRB 200128A is not a typical short GRB, (b) ZTF20aajnksq is the\nafterglow of a different (long) GRB, or (c) ZTF20aajnksq is an orphan\nafterglow.\n\nWe thank S. Stewart and the Gemini North staff for executing these\nobservations."
+}

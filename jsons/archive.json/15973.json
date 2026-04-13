@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140311A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 140311A",
+  "bibcode": "2014GCN.15973....1H",
+  "createdOn": 1394652421000,
+  "circularId": 15973,
+  "submitter": "Stephen Holland at STScI  <sholland@stsci.edu>",
+  "email": "sholland@stsci.edu",
+  "body": "S. T. Holland (STScI) and J. L. Racusin (NASA/GSFC) report on behalf\nof the Swift/UVOT team:\n\n    The Swift/UVOT began settled observations of the field of GRB\n140311A 9540 s after the BAT trigger (Racusin et al. 2014, GCNC\n15944). We do not detect any new source consistent with the Nansan\nafterglow position (Xu et al. 2014, GCNC 15947) in any of the UVOT\nexposures. Preliminary 3-sigma upper limits, using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373),\nfor the summed exposures are presented below.\n\n---------------------------------------------------\nFilter        TSTART     TSTOP   Exposure       Mag\n---------------------------------------------------\nv            11,358     11,533        171     >19.0\nb            37,852     38,759        885     >21.3\nuvw1         40,124     40,366        238     >19.8\nuvw2         10,542     11,352        886     >21.2\nwhite          9540     10,446        885     >22.0\n---------------------------------------------------\n\n    The quoted upper limits have not been corrected for the expected\nextinction due to the Galactic reddening along the line of sight to\nthis burst of E(B-V) = 0.03 mag (Schlafly et al. 2011, ApJS, 737,\n103). The non-detection in the UVOT data is consistent with a redshift\nof z = 4.95 (Tanvir et al, 2014, GCNC 15961)."
+}

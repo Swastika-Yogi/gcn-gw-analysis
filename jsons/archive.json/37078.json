@@ -1,0 +1,11 @@
+{
+  "subject": "Improved IPN triangulation of GRB 240802A / EP 240802a",
+  "eventId": "GRB 240802A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37078....1K",
+  "createdOn": 1722962983855,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 37078,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns, on behalf of the IPN,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nG. Waratkar, V. Jethwani, J.Joshi, V. Bhalerao, D. Bhattacharya, and S. Vadawale, \non behalf of the Astrosat-CZTI team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nUsing the Mars-Odyssey (HEND) data we have improved\nthe previous IPN error box (Svinkin et al., GCN 37026).\n\nThe coordinates of the updated 3 sigma error box are:\n\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   287.477 (19h 09m 54s)  -1.718 ( -1d 43' 05\")\n  Corners:\n   285.131 (19h 00m 31s)  +2.050 ( +2d 03' 01\")\n   285.257 (19h 01m 02s)  +2.088 ( +2d 05' 15\")\n   289.523 (19h 18m 05s)  -5.648 ( -5d 38' 51\")\n   289.393 (19h 17m 34s)  -5.668 ( -5d 40' 03\")\n  ---------------------------------------------\nThe error box area is 1.11 sq. deg, and its maximum\ndimension is 8.9 deg (the minimum one is 7.6 arcmin).\nThe Sun distance was 146 deg.\n\nThe IPN localization may be further improved.\n\nThe EP240802a localization is inside the improved box.\n\nUpdated triangulation map and HEALPix FITS files are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240802_T38048/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of probability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

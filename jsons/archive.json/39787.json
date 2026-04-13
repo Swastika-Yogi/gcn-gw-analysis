@@ -1,0 +1,11 @@
+{
+  "subject": "FRB 20250316A: Upper limits for gamma-ray transient from Insight-HXMT/HE observations",
+  "eventId": "FRB 20250316A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39787....1Z",
+  "createdOn": 1742438964120,
+  "circularId": 39787,
+  "submitter": "zhangjinpeng@ihep.ac.cn",
+  "format": "text/plain",
+  "body": "Jin-Peng Zhang, Yan-Qiu Zhang, Wang-Chen Xue, Shao-Lin Xiong, Yue Wang (IHEP) and Ce Cai (HEBNU) report on behalf of the Insight-HXMT team:\n\nAt the event time 2025-03-16T08:33:50.842 UTC (T0) of FRB 20250316A (Ng et al., ATel 17081; Leung et al., ATel 17086), Insight-HXMT/HE was observing normally and monitored the full location error region of FRB 20250316A.\n\nThe routine blind search of Insight-HXMT/HE data found no burst candidate around the time of FRB 20250316A. Thus, we implemented a targeted search [1] from T0 - 100 s to T0 + 5 s, and identified no candidate above 3 sigma.\n\nConsidering three typical spectral models (i.e. soft, normal and hard Band functions), three timescales and the FRB localization (RA = 182.476 deg, Dec = +58.8494 deg (J2000)), the 3 sigma upper limits of the gamma-ray transient energy flux (10 keV-1 MeV, in units of 10^-7 erg/s/cm^2) are reported below:\n\nTimescale (s)    Soft    Normal    Hard\n0.1            \t 7.17    7.48      3.27\n1          \t 2.26    2.36      1.03\n10       \t 0.72    0.75      0.33\n\nWith the distance of 40.8 Mpc from NGC 4141, the probable host galaxy of this FRB, we further calculate the following upper limits of the gamma-ray transient intrinsic isotropic luminosity (1 keV-10 MeV, in units of 10^47 erg/s):\n\nTimescale (s)    Soft    Normal    Hard\n0.1     \t 1.43    1.49      0.65\n1                0.45    0.47      0.21\n10               0.14    0.15      0.07\n\nWe note that the above results are preliminary. Refined results will be reported.\n\nInsight-HXMT is the first Chinese space X-ray telescope, which was funded jointly by the China National Space Administration (CNSA) and the Chinese Academy of Sciences (CAS). More information about it could be found at: http://hxmten.ihep.ac.cn/.\n\n[1] C. Cai et al. MNRAS, 508, 3910–3920 (2021) https://doi.org/10.1093/mnras/stab2760\n"
+}

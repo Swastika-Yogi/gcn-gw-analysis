@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 968731: Swift detection of SGR1806-20",
+  "bibcode": "2020GCN.27672....1A",
+  "createdOn": 1588252214000,
+  "circularId": 27672,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "E. Ambrosi (INAF-IASFPA), S. D. Barthelmy (GSFC), V. D'Elia (SSDC),\nJ.D. Gropp (PSU), J. A. Kennea (PSU), N. J. Klingler (PSU),\nA. Y. Lien (GSFC/UMBC) and K. L. Page (U Leicester) report on behalf\nof the Neil Gehrels Swift Observatory Team:\n\nAt 12:56:41 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated SGR1806-20 (trigger=968731).  Swift did not slew to the source because\nthe merit value has been set low on this source.  The BAT on-board calculated\nlocation is RA, Dec 272.131, -20.398, which is \n   RA(J2000)  =  18h 08m 32s\n   Dec(J2000) = -20d 23' 50\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single spike structure\nwith a duration of about 0.2 sec.  The peak count rate\nwas ~3000 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nWe plan shortly to execute a 2ks TOO observation with Swift in order to determine\nthe flux state of this SGR."
+}

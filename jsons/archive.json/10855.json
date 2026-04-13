@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100614A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100614A",
+  "bibcode": "2010GCN.10855....1H",
+  "createdOn": 1276629653000,
+  "circularId": 10855,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and\nG. Stratta (ASDC)\nreport on the behalf of the Swift UVOT team:\n\n      The Swift/UVOT observed the field of GRB 100614A starting 123 s\nafter the BAT trigger (Stratta, et al., 2010, GCN Circ. 10837).\nSettled observations started at 139 s.  No white observations were\ntaken due to the presence of the bright A0 star HD 159607 (V = 7.4)\nlocated 11.5 arcmin from the XRT source.  We do not find any new\nsource, relative to the DSS, USNO-B1.0, or 2MASS at the position of\nthe XRT afterglow (Osborne, et al. 2010, GCN Circ. 10849).\nPreliminary 3-sigma upper limits for detecting a source in the u-band\nfinding chart, and in the co-added images, using a 2.5 arcsecond\nradius circular aperture, are\n\nFilter    T_start   T_stop   Exp(s)      Mag\n--------------------------------------------\n u (fc)       139      339      246    >21.0\n\n v            445   12,065     1218    >21.4\n b            395     7165      549    >21.8\n u            139     6960      897    >21.7\n uvw1         494   13,145      675    >21.2\n uvm2         770   12,970     1102    >21.4\n uvw2         421     7365      484    >21.1\n--------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.03 mag (Schlegel, et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

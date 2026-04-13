@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250202B: NuSTAR detection of the prompt emission",
+  "eventId": "GRB 250202B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39135....1G",
+  "createdOn": 1738611470986,
+  "submitter": "Brian Grefenstette at Caltech/NuSTAR <bwgref@srl.caltech.edu>",
+  "circularId": 39135,
+  "format": "text/plain",
+  "body": "B. Grefenstette (Caltech) reports on behalf of the NuSTAR Search for INteresting Gamma-ray Signals (SINGS) working group:\n\nThe NuSTAR SINGS working group reports the detection of prompt emission from the Long GRB 250202B in both the NuSTAR CsI anti-coincidence shields. This GRB was identified through a blind search using the CsI shield rates. Details of the search algorithm will be described in a future paper.\n\nThe NuSTAR SINGS algorithm triggered at 2025-02-02 03:57:12.000 (with a resolution ~5-seconds). This is consistent with the detections by Fermi (Fermi GBM Team, GCN circ. 39120, 39133) and the Astrosat CTZI detection (Waratkar et al, GCN circ. 39122). The NuSTAR CsI shield data are recorded at 1 Hz. The GRB appears to be composed of multiple, significantly-detected peaks, including a second significant set of bursts roughly 90-s after the initial trigger. The total duration for the event is at least 100-s. The largest individual burst peaks at 5,000 cps, with other bursts between 2,000 and 3,000 cps. The baseline rate is a ~1,000 cps during this time period. We do not see a clear signal in the CdZnTe detectors.\n\nUsing the localization from Fermi at RA = 347.8, Dec = 16.5 implies an offset from the NuSTAR boresight of 115 deg (e.g., through the side of the instrument) and the offset from the geocenter of 114-deg\n\nLightcurves and analysis for this GRB can be found here:\n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/reports/2025/250202B/\n\nInformation on NuSTAR SINGS can be found here: \n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/\n\nNuSTAR is a NASA Small Explorer mission led by Caltech and managed by JPL for NASA’s Science Mission Directorate in Washington. \n"
+}

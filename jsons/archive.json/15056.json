@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130727A: Swift/UVOT Detection",
+  "eventId": "GRB 130727A",
+  "bibcode": "2013GCN.15056....1D",
+  "createdOn": 1375023647000,
+  "circularId": 15056,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <m.depasquale@ucl.ac.uk>",
+  "email": "m.depasquale@ucl.ac.uk",
+  "body": "M. De Pasquale (UCL-MSSL) and M. Stroh (PSU) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130727A\n3495 s after the BAT trigger (Stroh et al., GCN Circ. 15046).\nA source consistent with the XRT position (Goad et al. GCN Circ. 15051)\nis detected in initial UVOT Finding Chart (FC) exposure taken in white\nfilter, and it is also detected in summed UVOT exposures taken with white\nand u filters. The same source is marginally detected (confidence level\n~2 sigma) in b and uw1 filters.\n\nIts UVOT position (J2000) is\n\nRA = 22h 03m 11.62s = 330.79842\nDec = -65d 32m 18.8s = -65.53856.\n\nwith an estimated uncertanties of 0.7 arcseconds. The position of the\noptical source is consistent with that given by the Faulkes Telescope\n(Guidorzi et al., GCN 15050).\n\nPreliminary detections and 3-sigma upper limits using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for\nthe early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC          3495         3645          147          21.27 � 0.34\nwhite             3495         4876          344          21.35 � 0.24\nv                 3651        16978          880         >20.96\nb                 4471         4671          197          21.44 � 0.60\nu                 4266        11215          934          20.99 � 0.26\nw1                4061        10452         1082          21.89 � 0.54\nm2                3856         5452          355         >20.50\nw2                4882        16473         1082         >21.80\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

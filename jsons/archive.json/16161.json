@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140423A: Swift-BAT refined analysis",
+  "eventId": "GRB 140423A",
+  "bibcode": "2014GCN.16161....1C",
+  "createdOn": 1398314589000,
+  "circularId": 16161,
+  "submitter": "Tilan Ukwatta at MSU  <tilan.ukwatta@gmail.com>",
+  "email": "tilan.ukwatta@gmail.com",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), A. Y. Lien (NASA/UMBC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (AGU), E. Sonbas (NASA/GSFC/Adiyaman Univ.),\nM. Stamatikos (OSU), J. Tueller (GSFC),\nT. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent\ntelemetry downlink, we report further analysis of BAT\nGRB 140423A (trigger #596901) (Sonbas, et al., GCN Circ. 16142).\nThe BAT ground-calculated position is\nRA, Dec = 197.276, 49.838 deg which is\n   RA(J2000)  =  13h 09m 06.2s\n   Dec(J2000) = +49d 50' 18.3\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat,\n90% containment). The partial coding was 39%.\n\nThe mask-weighted light curve shows a multi-peak episode\nstarting ~T-50 sec, highest peak at ~T+45 sec, and the episode\nends around ~T+140 sec. T90 (15-350 keV) is 134 +- 23 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-130.13 to T+108.91 sec\nis best fit by a simple power-law model. The power law index\nof the time-averaged spectrum is 1.33 +- 0.06. The fluence\nin the 15-150 keV band is 9.4 +- 0.3 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+44.19 sec in\nthe 15-150 keV band is 2.1 +- 0.2 ph/cm2/sec.  All the quoted\nerrors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/596901/BA/"
+}

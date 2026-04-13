@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060124: Extremely long burst, Swift-BAT refined analysis",
+  "eventId": "GRB 060124",
+  "bibcode": "2006GCN..4586....1F",
+  "createdOn": 1138150924000,
+  "circularId": 4586,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "E. Fenimore (LANL), L. Barbier (GSFC), S. Barthelmy (GSFC), \nJ. Cummings (GSFC/NRC), N. Gehrels (GSFC), D. Hullinger (GSFC/UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), T. McMahon (Langston U.), \nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/NRC), \nG. Sato (ISAS), J. Tueller (GSFC), N. White (GSFC) \non behalf of the Swift-BAT team:\n\nUsing the data set from T-50.0 to T+1000.0 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060124 (trigger #178750) \n(Holland, et al., GCN 4570).  The BAT ground-calculated position is \n(RA,Dec) = 77.128, 69.724  deg {5h 8m 30.6s, 69d 43' 27.9\"} (J2000)\n+- 1.6 arcmin, (radius, sys+stat, 90% containment).  The partial coding \nwas 62%.\n\nThe BAT mask-weighted lightcurve has a precursor from T-3 to T+13 sec, \nthen three major peaks: T+520 to T+550 sec, T+560 to T+580 sec (with the \nlargest flux), and T+690 to T+710 sec. Thus the total duration is one of \nthe longest recorded by BATSE or Swift. \n \nThe spectrum of the main peaks appears slightly harder than the precursor, \nbut so far we have detailed data for the precursor only.  The spectrum of \nthe precursor from T-1.2 to T+13.2 is best fit by a simple power-law model \nwith a photon index of 1.89 +- 0.19.  The fluence of the precursor emission \nin the 15-150 keV band is (4.6 +- 0.5) x 10^-07 erg/cm2. The peak flux in \nthe 15-150 keV band was about 4.5 +- 0.5 counts/cm2/sec at T+570.  \n\nWe have made a preliminary estimate of the total fluence in the BAT\nenergy range for this burst by scaling the fluence of the precursor \nby the mask-weighted counts ratio between the entire burst and the \nprecursor.  This estimated total fluence is ~7 x 10^-6 erg/cm2 in the \n15-150 keV band."
+}

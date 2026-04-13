@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240819A: Optical upper limits from TESS",
+  "eventId": "GRB 240819A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37396....1J",
+  "createdOn": 1725559809736,
+  "circularId": 37396,
+  "submitter": "Rahul Jayaraman at MIT <rjayaram@mit.edu>",
+  "format": "text/plain",
+  "body": "R. Jayaraman (MIT), M.M. Fausnaugh (TTU), R. Vanderspek (MIT), and G. Mo (MIT) report:\n\nThe Transiting Exoplanet Survey Satellite (TESS; Ricker et al. 2015) was observing the entirety of the localization region for the transient GRB 240819A (Coleiro et al., GCN 37208), which was later identified as an X-ray flash (Guillot et al., GCN 37325). TESS observed this region at a 200 second cadence continuously from 2.14 days before the trigger to 3.85 days after the trigger. The GRB occurred during TESS observational Sector 82, and the localization fell within Camera 3, CCD 2.\n\nWe performed forced difference-imaging photometry at the location of the confirmed X-ray afterglow (D’Ai et al., GCN 37311) using the full-frame images from the publicly-available TICA data archived at MAST (https://archive.stsci.edu/hlsp/tica). Our analysis routine is described in Fausnaugh et al. 2023 (ApJ 956(2):108). \n\nThere was no source detected at the location from Swift-XRT. We find a 3-sigma upper limit of 17.3 around the time of trigger in the TESS band at the native 200 s cadence. Stacking to 30 minutes yields a deeper limit of 19.4. These limits are consistent with the upper limits reported a few hours after the burst (Zheng et al., GCN 37213).\n\nThis circular includes data collected with the TESS mission, obtained from the MAST data archive at the Space Telescope Science Institute (STScI). Funding for the TESS mission is provided by the NASA Explorer Program. STScI is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract NAS 5-26555."
+}

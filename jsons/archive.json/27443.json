@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200324A, Swift-BAT refined analysis",
+  "eventId": "GRB 200324A",
+  "bibcode": "2020GCN.27443....1U",
+  "createdOn": 1585170794000,
+  "circularId": 27443,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "T. N. Ukwatta (LANL), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), S. Dichiara (NASA/GSFC/UMCP),\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry\ndownlink,\nwe report further analysis of BAT GRB 200324A (trigger #963260)\n(Dichiara et al., GCN Circ. 27428).  The BAT ground-calculated position is\nRA, Dec = 222.682, 35.931 deg which is\n   RA(J2000)  =  14h 50m 43.7s\n   Dec(J2000) = +35d 55' 51.0\"\nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows a weak pulse that starts\nat ~T-40 s, peaks at ~T0, and lasts until >~T+80 s. The burst was\ntemporarily out of the BAT FOV from T+100.39 s to T+119.39 s.\nThere might be additional burst emission during this period.\nDue to this data gap, the standard data analysis pipeline\nis unable to estimate an accurate T90.\n\nThe time-averaged spectrum from T-38.1 to T+100.4 sec (before\nthe burst went out of the BAT FOV) is best fit by a simple power-law model.\n\nThe power law index of the time-averaged spectrum is 1.72 +- 0.15.\nThe fluence in the 15-150 keV band is 2.3 +- 0.2 x 10^-6 erg/cm2. The 1-sec\npeak photon flux measured from T+0.07 sec in the 15-150 keV band\nis 0.7 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/963260/BA/"
+}

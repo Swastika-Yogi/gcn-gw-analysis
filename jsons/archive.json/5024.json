@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060428A: Swift/UVOT observations.",
+  "eventId": "GRB 060428A",
+  "bibcode": "2006GCN..5024....1D",
+  "createdOn": 1146238229000,
+  "circularId": 5024,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (UCL-MSSL), V. Mangano (IASF Palermo) report on\n  behalf of the Swift/UVOT team:\n\n   The Swift/UVOT began taking data on the field of GRB060428A\nat 03:23:48 UT on 2006-04-28, 60 s after the BAT trigger\n(Mangano et al., GCN 5014), with the settling exposure. In the\nrefined XRT error circle (Magano et al., GCN 5018), we find\na weak (4 sigma detection) optical source in the V band at\nabout V=20, not present in  USNO B1.0 catalogue. This source\nhowever appears to be constant throughout the observation,\nthus further observations will be needed to determine if it\nis the optical afterglow of this burst.\n\nNo other afterglow candidate was detected at the refined XRT\nposition in summed images from any of the filters down to the\nfollowing three-sigma upper limits.\n\n   Filter  T_range(s)  Exp(s) 3sig_UL\n\n   V        60-7526    1657   20.2\n   B       548-7116    442    20.5\n   U       524-13380   436    20.5\n   UVW1    500-12666   1358   20.0\n   UVM2    476-11758   1425   19.9\n   UVW2    563-7322    472    19.5\n\n   These upper limits are uncorrected for the strong estimated\nGalactic reddening of E_{B-V} = 1.25 mag (Schlegel et al. 1998)."
+}

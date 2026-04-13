@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251117A: Fermi GBM Final Localization Correction",
+  "eventId": "GRB 251117A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42719....1F",
+  "createdOn": 1763387750891,
+  "submitter": "Elisabetta Bissaldi at Politecnico and INFN Bari <elisabetta.bissaldi@ba.infn.it>",
+  "circularId": 42719,
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely SHORT GRB.\n\nAt 12:19:52.14 UT on 17 November 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 251117A (trigger 785074797/251117514).\nThis trigger was initially classified as Below horizon by the flight software,\nbut is in fact due to a GRB.\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 335.05, Dec = 5.01 (J2000 degrees, equivalent to J2000  22h 20m, +05d 00'),\nwith a statistical uncertainty of 4.40 degrees.\n\nThe angle from the Fermi LAT boresight is 52 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn251117514/quicklook/glg_skymap_all_bn251117514.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn251117514/quicklook/glg_healpix_all_bn251117514.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn251117514/quicklook/glg_lc_medres34_bn251117514.gif\n"
+}

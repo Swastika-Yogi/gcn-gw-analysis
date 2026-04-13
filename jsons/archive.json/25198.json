@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190728q: No counterpart candidates in Fermi-LAT observations",
+  "eventId": "LIGO/Virgo S190728q",
+  "bibcode": "2019GCN.25198....1K",
+  "createdOn": 1564326063000,
+  "circularId": 25198,
+  "submitter": "Milos Kovacevic at INFN Perugia  <Milos.Kovacevic@pg.infn.it>",
+  "email": "Milos.Kovacevic@pg.infn.it",
+  "body": "M. Kovacevic (INFN Perugia), M. Axelsson (KTH and Stockholm Univ.), F.  \nLongo (Univ. and INFN, Trieste) and D. Kocevski (NASA/GSFC)\nreport on behalf of the Fermi-LAT Collaboration:\n\nWe have searched data collected by the Fermi Large Area Telescope (LAT) on\nJuly 28, 2019, for possible high-energy (E > 100 MeV) gamma-ray emission in\nspatial/temporal coincidence with the LIGO/Virgo trigger S190728q (GCN 25187).\n\nWe define \"instantaneous coverage\" as the integral over the region of the LIGO\nprobability map that is within the LAT field of view at a given time,  \nand \"cumulative\ncoverage\" as the integral of the instantaneous coverage over time.  \nFermi-LAT had\ninstantaneous coverage of ~58% of the LIGO probability region at the  \ntime of the trigger\n(T0 = 2019-07-28 06:45:10.529 UTC), and reached ~95% coverage around T0+5.8ks.\n\nThe remaining area was not observed within 10ks of the burst.\n\nWe performed a search for a transient counterpart within the observed  \nregion of\nthe 90% contour of the LIGO map in a fixed time window from T0 to T0+10 ks.\nNo significant sources were found. We also performed a search which adapted\nthe time interval of the analysis to the exposure of each region of  \nthe sky, and no\nadditional excesses were found.\n\nEnergy flux upper bounds for the fixed time interval between 100 MeV and 1 GeV\nfor this search vary between 2.3E-10 and 2.7E-08 [erg/cm^2/s].\n\nThe Fermi-LAT point of contact for this event is Milos Kovacevic  \n(milos.kovacevic@pg.infn.it).\n\nThe Fermi-LAT is a pair conversion telescope designed to cover\nthe energy band from 20 MeV to greater than 300 GeV.\nIt is the product of an international collaboration between\nNASA and DOE in the U.S. and many scientific institutions\nacross France, Italy, Japan and Sweden."
+}

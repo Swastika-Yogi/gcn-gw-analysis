@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240629A: First GRB Detected by BurstCube",
+  "eventId": "GRB 240629A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37340....1M",
+  "createdOn": 1724950816678,
+  "submitter": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov>",
+  "circularId": 37340,
+  "format": "text/plain",
+  "body": "I. Martinez-Castellanos (GSFC/UMD/CRESST), A. Myers (GSFC/ORAU), D. Violette (GSFC/ORAU), L. Angellini (GSFC), J. Asercion (GSFC/ADNET), M. S. Briggs (UAH), R. Caputo (GSFC), J. Cox (GSFC), G. de Nolfo (GSFC), K. Gasaway (GSFC), S. Griffin (UWM), D. Hartmann (Clemson), B. A. Hristov (UAH), A. Joens (Berkeley), P. Nuessle (GSFC/GWU), J. S. Perkins (GSFC), J. Racusin (GSFC), S. Semper (GSFC), P. Shawhan (UMD), J. Smith (UAH), L. Tian (GSFC) on behalf of the BurstCube Team:\n\nAt approximately 16:53 UTC on 29 June 2024, BurstCube detected GRB 240629A, also seen by Fermi-GBM (GCN 36786) and SVOM (GCN 36805). The spacecraft reported time was 16:53:28 UTC, with an approximate offset of -25 s from the GBM trigger time, which we attribute to BurstCube’s onboard clock uncertainty at the time of this data collection.\n\nThis is the first GRB detected by BurstCube in a ground analysis of downlinked commissioning data.\n\nWe analyzed our continuous binned data (16 energy channels, 256 ms time resolution) in the energy band of ~130-1000 keV, seeing a signal (total Test Statistic of 160.87) in excess of background in a 4.096 s window search in 3 detectors (Cs0, Cs1, Cs3). The 4 detector significances are 6.85, 9.61, 2.01, 4.19 sigma above background for Cs0, Cs1, Cs2, Cs3, respectively.\n\nThe duration is T90 = 7.2 [-1.0, +1.8] seconds, with a single-pulse light curve consistent with that seen by Fermi-GBM. Localization and spectral analysis are ongoing.\n\nThe BurstCube team continues to search our data for astronomical transients seen in at least two detectors, including independent events and those seen by other instruments.\n\nBurstCube is a 6U CubeSat built, managed, and operated by NASA Goddard Space Flight Center and funded by NASA/APRA. The BurstCube instrument is comprised of 4 CsI(Tl) scintillator detectors read out by arrays of SiPMs. It was launched on March 21, 2024 on the NASA CRS-30 to the ISS, and deployed on April 18, 2024."
+}

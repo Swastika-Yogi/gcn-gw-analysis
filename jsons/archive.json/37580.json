@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB240919A / EP240919a",
+  "eventId": "GRB 240919A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37580....1R",
+  "createdOn": 1726868028209,
+  "submitter": "Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "circularId": 37580,
+  "format": "text/plain",
+  "body": "O.J. Roberts (USRA/NASA-MSFC), J. Wood (NASA-MSFC), A. Goldstein (USRA/NASA-MSFC), C.M. Hui (NASA-MSFC) and R. Hamburg (CNRS/IN2P3/IJCLab), report on behalf of the Fermi-GBM Team:\n\nThe Einstein Probe Wide-field X-ray Telescope (EP-WXT) detected the fast X-ray transient EP240919a on 2024-09-19 at 14:47:40 UTC (GCN #37561). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates. The GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals, identified a transient starting 80 seconds after the EP-WXT trigger time most significantly on the 8.192 s timescale, with a false alarm rate of 1.6e-5 Hz. The Fermi-MET of the start time of this transient is 748450145s. Using the standard search protocol, the Targeted Search localization was found to be spatially consistent with the EP-WXT event, with RA=331.9 deg., Dec.=-11.1 deg., and an error of 15.7 deg. (includes the systematic error), at a SNR of 12. Therefore, the Targeted Search localization confirms the emission initially reported to be only temporally coincident with the EP-WXT trigger by Jiang et al. (GCN #37563), as very probably belonging to the same event as the initial EP-WXT transient reported in GCN #37561.\n \nAdditionally, the GBM Targeted Search event was found with the highest significance using a \"normal\" spectrum (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB. The emission shows hard-soft spectral evolution over a duration of about 30 seconds. This provides further evidence that EP240919a / GRB240919A is a long GRB. \n\nThe Targeted Search data release product for this event can be found here: https://zenodo.org/records/13821343\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170202A",
+  "eventId": "GRB 170202A",
+  "bibcode": "2017GCN.20604....1F",
+  "createdOn": 1486305147000,
+  "circularId": 20604,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 170202A (Swift-BAT trigger #736407: Racusin et al.,\nGCN 20575; Barthelmy et al., GCN 20596; T0(BAT)=18:28:02.373 UT)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nThe light curve shows a double-peaked with a duration of ~30 s.\nModeling the KW 3-channel time-integrated spectrum\n(from T0(BAT)+0.907 s to T0(BAT)+30.347 s) by\na power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.16(-0.34,+0.59) and Ep = 247(-86,+166) keV.\nThe energy fluence (20 keV-10 MeV) for this time interval\nis (5.9 �� 1.4)x10^-6 erg/cm2.\n\nAssuming the redshift z=3.645 (de Ugarte Postigo et al., GCN 20584)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.27, and Omega_Lambda = 0.73,\nwe estimate the burst isotropic energy release E_iso to ~1.7x10^53 erg\nand the rest-frame peak energy of the time-integrated spectrum,\nEp,z, to ~1150 keV.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB170202A/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

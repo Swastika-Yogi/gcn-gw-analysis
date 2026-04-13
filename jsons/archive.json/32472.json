@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220813A",
+  "eventId": "GRB 220813A",
+  "bibcode": "2022GCN.32472....1F",
+  "createdOn": 1660564970000,
+  "circularId": 32472,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaya, D. Svinkin, A. Tsvetkova,\nM. Ulanov, and T. Cline, on behalf of the Konus-Wind team, report:\n\nThe long GRB 220813A (Swift detection: Bernardini et al., GCN 32465)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in the 20-400 keV band\nreveals a >6 sigma count rate increase in the interval\nfrom T0-8.841 s to T0+5.879 s where T0 = T0(BAT) = 19:23:03.577 UT.\n\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB220813A/\n\nModeling a time-integrated spectrum of the burst (from T0-8.841 s to T0+8.823 s)\nby a power law with exponential cutoff (CPL) model dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.81 (-0.12, + 0.12) and Ep = 242(-17,+23) keV.\nIn the 10 keV -10 MeV band, standard for the KW analysis,\nthe burst fluence is (1.41 �� 0.14)x10^-6 erg/cm^2\nand the 2.944 s peak energy flux is (1.30 �� 0.13)x10^-7 erg/cm^2/s.\n\nAssuming the likely host galaxy redshift z=0.82 (Fausey et al., GCN 32471)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to ~2.7x10^51 erg,\nthe isotropic peak luminosity L_iso to ~8.0x10^50 erg/s,\nand the rest-frame peak energy of the spectrum Ep,z to ~440 keV.\nWith the obtained estimates, GRB 220813A is a hard-spectrum / low-luminosity outlier\nin both 'Amati' and 'Yonetoku' relations for the sample of >300 long KW GRBs\nwith known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB220813A/GRB220813A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

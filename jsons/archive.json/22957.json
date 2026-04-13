@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 848584: Swift detection of AX 1631.9-4752",
+  "bibcode": "2018GCN.22957....1B",
+  "createdOn": 1531924722000,
+  "circularId": 22957,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), S. W. K Emery (UCL-MSSL), J.D. Gropp (PSU),\nJ. A. Kennea (PSU), A. Y. Lien (GSFC/UMBC),\nM. J. Moss (George Washington University), D. M. Palmer (LANL),\nP. Romano (INAF-OAB) and A. Tohuvavohu (PSU) report on behalf of the\nNeil Gehrels Swift Observatory Team:\n\nAt 14:04:34 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated AX 1631.9-4752 (trigger=848584).  Swift did not slew. \nThe BAT on-board calculated location is \nRA, Dec 248.070, -47.809, which is \n   RA(J2000)  =  16h 32m 17s\n   Dec(J2000) = -47d 48' 33\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers, the real-time \nlight curve does not show anything significant. \n\nBAT is currently configured to alert on this SFXT (Supergiant Fast \nX-ray Transient), but give it a low merit value so that it will \nnot automatically slew.  However, a ToO observation is planned \nfor ~T+3 hours."
+}

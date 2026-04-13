@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120805A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 120805A",
+  "bibcode": "2012GCN.13598....1S",
+  "createdOn": 1344280150000,
+  "circularId": 13598,
+  "submitter": "Craig Swenson at PSU/Swift  <cswenson@astro.psu.edu>",
+  "email": "cswenson@astro.psu.edu",
+  "body": "C. A. Swenson (PSU) and E. Troja (NASA/GSFC/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 120805A\n127 s after the BAT trigger (Troja et al., GCN Circ. 13588).\nNo optical afterglow consistent with the refined XRT position (Burrows\net al., GCN Circ. 13592) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial \nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite              127         7557          579         >22.0\nv                 1339        11924         1248         >20.8\nb                 1265         7352          490         >21.5\nu                 1240         7146          490         >20.5\nw1                1216        13611         1253         >21.3\nm2                1364        12829         1141         >21.6\nw2                1487         7763          432         >21.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

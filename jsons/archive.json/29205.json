@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201229A: AbAO optical afterglow detection, TSHAO optical upper limit",
+  "eventId": "GRB 201229A",
+  "bibcode": "2020GCN.29205....1P",
+  "createdOn": 1609327903000,
+  "circularId": 29205,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "N. Pankov (IKI, HSE), A. Pozanenko (IKI), R. Ya. Inasaridze (AbAO), I. \nReva (FAI), V. R. Ayvazian (AbAO),  G. V. Kapanadze (AbAO),  S. Belkin \n(IKI)  report on behalf of IKI-GRB-FuN:\n\nWe observed the field of  GRB 201229A (Sbarufatti et al., GCN 29192) \nwith AS-32 telescope of Abastumani observatory (AbAO), and Zeiss-1000 \ntelescope of TSHAO in R-filter. We detected the optical object at the \nedge of enhanced XRT position (Osborne et al., GCN 29193). An optical \nafterglow candidate  (Sbarufatti et al., GCN 29192; Moskvitin at al., \nGCN 29204) is detected in AbAO observations and not detected in   TSHAO \nobservations with shallow upper limit. Coordinates of the optical object \n  (J2000) 14:02:45.36 +48:11:53.5 with uncertainty of 0.3 arcsec (in \nboth coordinates) are  consistent with coordinates reported by UVOT \n(Sbarufatti et al., GCN 29192) and SAO RAS  (Moskvitin at al., GCN \n29204). Preliminary photometry of the object is following\n\nDate       UT start   t-T0    Filter Exp.    OT    Err.  UL(3sigma)\n                        (mid, days)   (s)\n\n2020-12-29  20:38:18   0.42095  R    23*120  n/d   n/d  20.2  Zeiss-1000\n2020-12-30  01:52:12   0.64354  R    68*60   21.1  0.2  21.3  AS-32\n\n\nThe photometry is based on SDSS DR12 star (Lupton transformations)\n\nRA         DEC       R(Lupton)\n210.720000 48.157954 18.28\n\nThe non-detection of the object by Zeiss-1000 is consistent with \nNanshan/NEXT optical upper limit (Fu et al., GCN 29203).\n\nThe object is absent in SDSS DR12 and we confirm the afterglow of GRB \n201229A."
+}

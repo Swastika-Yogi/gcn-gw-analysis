@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240916A: radio detection with the VLA",
+  "eventId": "GRB 240916A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37788....1G",
+  "createdOn": 1728995172720,
+  "circularId": 37788,
+  "submitter": "Stefano Giarratana at INAF-OAB <s.giarratana@ira.inaf.it>",
+  "body": "S. Giarratana (INAF-OAB), M. Giroletti (INAF-IRA),\nG. Ghirlanda (INAF-OAB), N. Di Lalla (Stanford Univ.),\nN. Omodei (Stanford Univ.), O. S. Salafia (INAF-OAB)\n\nAt 00:43:57 UT on 2024 Sept 18 (T_mid = 2.00 days post-burst)\nthe Karl G. Jansky VLA observed the field of GRB 240916A\n(Fermi GBM team, GCN 37518; Pawar et al., GCN 37519;\nDafcikova et al. 37543) at a central frequency of 6, 10\nand 15 GHz.\n\nThe standard 3C286 was used as bandpass and flux density\ncalibrator, while J1543-0757 was used as phase calibrator.\n\nFrom a preliminary analysis, an unresolved radio source\nis clearly detected at a position:\n\nRA: 15:43:39.205 +- 0.001\nDec: -07:45:53.30 +- 0.02\n\nconsistent with the optical (GOTO collaboration, GCN 37522;\nJiang et al., GCN 37526; Jiang et al., GCN 37540) and\nX-ray (Beardmore et al., GCN 37531) transient.\n\nThe surface brightness peak is 35 uJy/beam, 44 uJy/b and\n135 uJy/beam at 6, 10 and 15 GHz, respectively.\nThe r.m.s. noise level of the image is 8 uJy/beam at all\nfrequencies.\n\nThe synthesized beams are 1.25x0.72 arcsec (PA: 42deg)\nat 6 GHz, 1.10x0.52 arcsec (PA: 37deg) at 10 GHz\nand 0.56x0.33 arcsec (PA: 26deg) at 15 GHz.\n\nNo source is detected with a 3sigma confidence at the\naforementioned position in previous radio surveys (FIRST, NVSS,\nVLASS, RACS), with r.m.s. noise levels (1sigma) above\n100 uJy/b.\n\nWe would like to thank the staff of the VLA for approving, executing,\nand processing the observations.\n\nThe National Radio Astronomy Observatory is a facility of the National\nScience Foundation operated under cooperative agreement by Associated\nUniversities, Inc.\n\nThese observations were carried out as part of project SF171028,\napproved in the framework of the Fermi - NRAO joint program agreement.\n"
+}

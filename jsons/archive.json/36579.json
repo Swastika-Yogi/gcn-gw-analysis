@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240529A: MAAO 0.7m telescope optical afterglow detection",
+  "eventId": "GRB 240529A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36579....1D",
+  "createdOn": 1717136431874,
+  "submitter": "Gu Lim at Pusan National University <lim9gu@gmail.com>",
+  "circularId": 36579,
+  "format": "text/plain",
+  "body": "Lim, Gu (PNU), Kim, Dohyeong (PNU), Im, Myungshin (SNU), Park, Keun-Hong (MAAO), and Choi, Changmin (MAAO) report on behalf of the GECKO team\n\nWe searched for the optical afterglow of GRB 240529A (Eyles-Ferris et al., GCN 36556) with a 0.7m telescope at Miryang Arirang Astronomical Observatory (MAAO; Lim et al. 2024), one of the facilities of the GW EM-Counterpart Korean Observatory (GECKO). We started the observation at 2024-05-29T17:18:13 UT and obtained 10 images of each 120s with I-band 14.3 hours after the Swift detection (GCN 36556). The photometry is performed using 2xFWHM diameter aperture. The flux is calibrated using the APASS DR9 catalog (Henden et al. 2016) by converting the Vega system to the AB system using the Lupton (2005) transformation equation. After the image subtraction using HOTPANTS (Becker et al. 2015), we detected the optical afterglow at:\n\nR.A (J2000): 22:21:25.92\nDec. (J2000): +51:33:43.46\n\nThis coordinate is within the uncertainty radius of the enhanced Swift-XRT report (Evans et al., GCN 36557). We determine a magnitude of I=17.46+/-0.19 AB mag without galactic extinction correction. Our detection is agreed with the results of (Odeh et al., GCN 36573).\n\nT0 = 2024-05-29T02:58:31 UT (Eyles-Ferris et al., GCN 36556)\nTmid(UT)            Exptime(s) Tmid-T0(hr) FWHM(\") Mag+/-Magerr Depth_3sigma   Filter\n---------------------------------------------------------------------------------------\n2024-05-29T17:32:38 180sx10    +14.3       5.6     17.46+/-0.19 18.40          I\n\nGravitational-wave EM Counterpart Korean Observatory (GECKO; Im et al. 2023, Proceedings of IAU Symp. Vol. 363, pp. 207.; Paek et al. 2024, The Astrophysical Journal, Vol. 960, Number 2, 113.) is a network of 0.5m to 1m class telescopes worldwide."
+}

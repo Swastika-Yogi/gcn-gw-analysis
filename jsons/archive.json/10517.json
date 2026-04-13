@@ -1,0 +1,10 @@
+{
+  "subject": "Tentative redshift of GRB100316D from X-ray data",
+  "eventId": "GRB 100316D",
+  "bibcode": "2010GCN.10517....1C",
+  "createdOn": 1268807842000,
+  "circularId": 10517,
+  "submitter": "Sergio Campana at INAF-OAB  <sergio.campana@brera.inaf.it>",
+  "email": "sergio.campana@brera.inaf.it",
+  "body": "S. Campana (INAF-OAB) reports on behalf of the Swift-XRT team:\n\nSwift XRT observed GRB 100316D (Stamatikos et al. 2010, GCN10496)\nin Windowed Timing (WT) mode in the 144-737 s time interval.\nDuring this interval the light curve decays very slowly (decay\nindex alpha=-0.13, Starling et al. 2010, GCN 10505).\nIn addition, the 1.5-10 keV to 0.3-1.5 keV hardness ratio remains\nconstant (reduced chi2=0.91 with 97 degrees of freedom, dof).\nMotivated by the high count rate (around 30 c s^-1, but far from\nthe pile up limit) and by the constant spectral shape we tried to\nestimate the GRB redshift from the X-ray data.\nWe assume a Galactic column density of 7x10^20 cm^-2 (Kalberla et\nal. 2005, A&A 440 775) and fit the WT spectrum taken from the\nLeicester pages (http://www.swift.ac.uk/xrt_spectra/00416135/)\nwith an absorbed (phabs*zphabs) cutoff power law model (the cutoff\npower law model provides much better results in terms of column\ndensity evaluation with respect to a simple power law model when\nsmall spectral variations are present). Given the high count rate\nwe selected single pixel events only.\nThe resulting fit is good (reduced chi2=1.2, 333 dof). The redshift\nis constrained to lie within the 90% confidence level (delta\nchi2=4.61) of 0.014<z<0.28 (with a best fit redshift of z=0.1 and\nintrinsic column density of N_H(z)=7x10^21 cm^-2).\nFiltering WT counts with grades 0-2 (standard WT grades) slightly\nshifts the best fit range to larger redshifts (in the approximate\nrange 0.1-0.6).\n\nThe contour plot is available at\nhttp://www.brera.inaf.it/utenti/campana/100316d.gif\n\nThis circular is an official product of the Swift-XRT team.\n\n[GCN OPS NOTE(18mar10):  Per author's request, the chi2=2.71 \nwas changed to chi2=4.61.]"
+}

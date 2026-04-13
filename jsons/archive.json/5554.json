@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060908, Swift/XRT refined analysis",
+  "eventId": "GRB 060908",
+  "bibcode": "2006GCN..5554....1E",
+  "createdOn": 1157729365000,
+  "circularId": 5554,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans, A.P. Beardmore, O. Godet and K.L. Page (U. Leicester) report on\nbehalf of the Swift/XRT team:\n\nWe have analysed the first 2 orbits of Swift data of GRB 060908 (Evans et al.,\nGCN 5544), totalling 100 s of data in Window Timing mode (WT) and 2.5 ks in \nPhoton Counting mode (PC).\n\nThe PC mode image provides a refined XRT position of\n\nRA(J2000)   =  02 07 18.21\nDec(J2000)  = +00 20 28.8\n\nwith an error of 3.6\" (90% confidence). This position is within 1.5\" of the\ninitial XRT position, and 3.4\" from the UVOT position, reported in GCN 5554.\n\nSpectral fits to the first orbit of data suggest an absorption column in excess\nof the Galactic value (2.4e20 cm^-2). The WT data yielded 8.0+4.9/-4.0 e20 cm^-2\nand the PC mode data gave 6.4+3.4/-3.0 e20 cm^-2.\n\nThere is also evidence for spectral evolution during the first orbit: the WT\nmode photon index was 2.43 (+0.30, -0.26), while the PC mode photon index was\n1.95 (+0.15,-0.14). The observed PC mode flux was 7.5e-11 erg/s/cm^2 during the\nfirst orbit; which translates to an unabsorbed flux of 8.9e-11 erg/s/cm^2\n\nThe lightcurve of the first 2 orbits (T0+78 to T0+6600) can be modelled with\na single power-law, and a flare at around 800s. The decay slope is 1.11\n+/-0.06, and we thus predict a count rate of 0.004 counts per second 24 hours\nafter the trigger. This translates to a flux of 1.56e-13 erg/s/cm^2, or an\nunabsorbed flux of 1.85e-13 erg/s/cm^2.\n\nThis circular is an official product of the Swift XRT Team.\n\n-- \n-------------------------\n\nPhil Evans,\nPDRA/Swift Scientist\nX-ray and Observational Astronomy Group,\nUniversity of Leicester\n\nTel: (0116) 252 5059\npae9@star.le.ac.uk\nhttp://www.astro.keele.ac.uk/~pae"
+}

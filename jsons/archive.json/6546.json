@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB070616",
+  "eventId": "GRB 070616",
+  "bibcode": "2007GCN..6546....1D",
+  "createdOn": 1182047924000,
+  "circularId": 6546,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL), R. Starling (Univ. Leicester)\nand P. Schady (MSSL/UCL) report, on the behalf ot the Swift\nUVOT team:\n\n  The Swift UVOT telescope began its White filter finding\nchart exposure of GRB070616 (Starling et al., GCN circ 6542)\n144 seconds after the trigger. The XRT position lies on\na bright object, listed in the USNO-B1.0 catalogue, therefore\nwe caution that this source strongly affects the photometry.\nIn the XRT error circle we do not detect any optical\nafterglow. We derive the following 3 sigma upper limits:\n\n\nFilter  Time after trigger (s)  Exposure (s)   3s U.L.\n\n  White       144-243              98            18.3\n\n  V           250-649             390            18.1\n\n\n  White       144-979             209            18.6\n\n  V           250-1122            547            18.3\n\n  B           729-738             10             17.1\n\n  U           707-874             39             17.2\n\n  UW1         680-850             39             17.1\n\n  UM2         655-825             39             17.3\n\n  UW2         758-777             20             17.0\n\n\n  No correction has been made for the high Galactic\nreddening of E(B-V)=0.4. We note that this value should\nbe taken with caution, having the burst occurred at low\nGalactic latitude."
+}

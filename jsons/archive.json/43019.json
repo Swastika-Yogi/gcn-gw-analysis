@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251205A: GROWTH-India Telescope optical observations",
+  "eventId": "GRB 251205A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43019....1P",
+  "createdOn": 1765097088819,
+  "circularId": 43019,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "S. Patil, A.P. Saikia, V. Swain, V. Vijaykumar, T. Mohan, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of Swift GRB 251205A (Lanava et al., GCN Circ. 43005), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-12-05T23:46:13 UT, i.e., 6.43 minutes after the Swift BAT trigger. We obtained multiple exposures in r' filter. We detected the optical afterglow in our stacked image of r' filter at position reported by Swift UVOT (Lanava et al., GCN Circ. 43005). The photometry results are as follow:\n\n| MJD (mid)     | Filter | t-t0 (in minutes) |Total Exposure Time (sec) | Magnitude (AB) |\n| ------------- | ------ |-----| ------------------ | -------------- |\n| 61014.99251157 | r'     | 9.43  | 360  | 16.84 +/- 0.06 |\n| 61015.00966435 | r'     | 34.13  | 360  | 17.02 +/- 0.06 |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur magnitude is consistent with other optical observations (Lipunov et al., GCN 43004, de Ugarte Postigo et al., GCN 43008, Malesani et al. GCN 43009, O'Neill et al. 43010, Mandarakas et al. GCN 43011, Pankov et al. 43012, Bochenek et al. 43015, Klingler et al. 43016, ). \n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

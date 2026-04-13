@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051117: Swift detection of a bright burst",
+  "eventId": "GRB 051117",
+  "bibcode": "2005GCN..4280....1B",
+  "createdOn": 1132227889000,
+  "circularId": 4280,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "D. Band (GSFC), S. Barthelmy (GSFC), A. Beardmore (U Leicester),\nD. Burrows (PSU), N. Gehrels (GSFC), M. Goad (U. Leicester)\nO. Godet (U. Leicester), C. Gronwall (PSU), J. Kennea (PSU),\nK. Page (U Leicester), E. Rol (U. Leicester)\non behalf of the Swift team:\n\nAt 10:51:20 UT, Swift-BAT triggered and located GRB 051117 (trigger=164268).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 228.405d, +30.870d {+15h 13m 37s, +30d 52' 11\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe BAT light curve shows a single peak with a total duration\nof about 20 sec.  The peak count rate was ~1500 counts/sec (15-350 keV),\nat ~3 sec after the trigger.\n\nXRT began observing at 10:53:07 UT, 107 seconds after the BAT trigger. \nWe find a bright, rapidly fading, uncataloged source at RA 15h 13m 33.7s \nDec +30d 52' 22.0\" (J2000) with a positional uncertainty of 5.8 arcsec\n(90% containment).  This is 46 arcsec from the BAT position.  The \napproximate initial flux is 1.0e-8 erg/cm2/sec (0.2-10 keV).  The XRT\npreliminary raw spectrum is well fit by an absorbed powerlaw with a\nphoton index of 2.2+/- 0.1 with an excess NH of 2e21 cm^-2.\n\nUVOT began observing at UT 10:53:10, 111 seconds after the BAT trigger.\nIn a 200 sec V image, we detect a faint source just outside the XRT \nerror circle at an approximate position of RA=15h 13m 33.6s, Dec=30d 52' 15.2\"\n(J2000) that is not present in the DSS.  The magnitude is 19.9 mag.\nThe extinction in this direction is A_V = 0.08."
+}

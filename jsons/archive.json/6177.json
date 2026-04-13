@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070306 Swift/UVOT refined analysis",
+  "eventId": "GRB 070306",
+  "bibcode": "2007GCN..6177....1D",
+  "createdOn": 1173274473000,
+  "circularId": 6177,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale, S.B. Pandey (MSSL/UCL) report on the behalf of\nthe Swift UVOT team:\n\n  Swift/UVOT observed the field of GRB070306 (Pandey et al. 2007, GCN 6169)\nstarting 146s after the trigger with the settling expsoure.\n\n  UVOT did not find any source inside the refined XRT error circle\n(Page et al. 2007, GCN  6172), down to the following 3 sigma upper\nlimits in the White filter finding exposure and in the coadded\nframes in all filters:\n\n\nFilter  t_start(s)  t_stop(s)  Exp(s)  Mag 3-sig UL\n\nWh_find      162      262       98         19.8\n\nV            267    11158     1259         20.5\nB            745     6257      403         21.5\nU            721     6053      413         21.0\nW1           697     5848      236         19.0\nM2           673     5633      236         18.7\nW2           773     6651      397         19.5\nWh           162     6462      512         20.7\n\nThese upper limits are not corrected for the small Galactic extinction,\ncorresponding to a reddening of E(B-V)=0.03 (Schlegel et al. 1998), \ntowards the direction of this burst."
+}

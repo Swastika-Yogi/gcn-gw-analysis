@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180705A: Swift-XRT refined Analysis",
+  "eventId": "GRB 180705A",
+  "bibcode": "2018GCN.22920....1M",
+  "createdOn": 1530897002000,
+  "circularId": 22920,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. Melandri (INAF-OAB), P. D'Avanzo (INAF-OAB), D.N. Burrows (PSU), A.\nTohuvavohu (PSU), S. J. LaPorte (PSU), K.L. Page (U. Leicester), A.P.\nBeardmore (U. Leicester), P.A. Evans (U. Leicester), V. D'Elia (ASDC)\nand M. Stamatikos report on behalf of the Swift-XRT team:\n\nWe have analysed 5.7 ks of XRT data for GRB 180705A (Stamatikos et al.\nGCN Circ. 22902), from 3.4 ks to 56.6 ks after the  BAT trigger. The\ndata comprise 1.1 ks in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The enhanced XRT position for this burst was\ngiven by Goad et al. (GCN Circ. 22906).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=1.12 (+0.17, -0.13).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.99 (+0.32, -0.30). The\nbest-fitting absorption column is  3.9 (+1.8, -1.5) x 10^21 cm^-2, in\nexcess of the Galactic value of 5.8 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.9 x 10^-11 (6.0 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.9 (+1.8, -1.5) x 10^21 cm^-2\nGalactic foreground: 5.8 x 10^20 cm^-2\nExcess significance: 3.7 sigma\nPhoton index:\t     1.99 (+0.32, -0.30)\n\nIf the light curve continues to decay with a power-law decay index of\n1.12, the count rate at T+24 hours will be 6.4 x 10^-3 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 2.5 x\n10^-13 (3.8 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00846299.\n\nThis circular is an official product of the Swift-XRT team."
+}

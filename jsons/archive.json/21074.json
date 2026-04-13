@@ -1,0 +1,10 @@
+{
+  "subject": "Swift XRT observations of GRB 170424A",
+  "eventId": "GRB 170424A",
+  "bibcode": "2017GCN.21074....1S",
+  "createdOn": 1494087800000,
+  "circularId": 21074,
+  "submitter": "Boris Sbarufatti at INAF-OAB/IASFPA  <boris.sbarufatti@brera.inaf.it>",
+  "email": "boris.sbarufatti@brera.inaf.it",
+  "body": "B. Sbarufatti (INAF-OAB/PSU), P. A. Evans (U. Leicester) report on behalf of the Swift XRT team.\n\nWe report on Swift XRT observations of the field of the Fermi-LAT discovered GRB 170424A (N. Omodei et al. 2017, GCN 21032).\nSwift performed an initial tiled observation of the LAT error circle (27 arcmin) using a 7-tile pattern (7-tile pattern 100% coverage radius: 24 arcmins, maximal coverage radius: 33 arcmins), 700 s of exposure/tile, on April 25th (P. A. Evans 2017, GCN 21034). \n\nThree uncatalogued sources were detected:\n\nSource# RA             Dec          Rate              Exposure time \n2       22h 52m 53.04s -45d10m43.5s 1.5+/-0.5E-2 cps  684s\n3       22h 53m 10.51s -45d29m11.5s 1.9+/-0.6E-2 cps  677s\n5       22h 52m 09.64s -45d02m43.3s 1.5+/-0.7E-2 cps  684s\n\nOn May 3rd and 4th further observations were performed to check for fading of the sources.\nSource 2 was still detected without showing any evidence of fading.\nSources 3 and 5 were no more detected, but the 3-sigma upper limits are consistent with the earlier detections, within errors.\n\nSource# Rate              Exposure time \n2       1.1+/-0.2E-2 cps  2.8 ks\n3       < 1.4E-2  cps     3.1 ks      \n5       < 7.1E-3  cps     3.1 ks\n\nWe conclude that Source 2 is not the GRB afterglow, while the nature of Sources 3 and 5 remains uncertain.\n\nAll the quoted errors are at the 90% confidence level.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 190708B",
+  "eventId": "GRB 190708B",
+  "bibcode": "2019GCN.25043....1K",
+  "createdOn": 1562684924000,
+  "circularId": 25043,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R.Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nA long GRB was detected by Konus-Wind (KW) in the\nwaiting mode on July 8, 2019 at ~71160 s UT (19:46:00),\n~240 s before the MAXI trigger (GRB 190708B;\nKawakubo et al., GCN 25037).\n\nThe burst light curve shows a single pulse\nwith a duration of ~ 20 s. Taking into account the\nproximity of this burst to the MAXI/GSC trigger and\nthe consistency of the KW ecliptic latitude response with\nthe position of GRB 190708B we suggest that KW observed\nthe main part of GRB 190708B.\n\nAs observed by KW, the burst had a fluence of\n3.44(-0.33,+1.35)x10^-6 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(MAXI)-236.3 s, of 2.54(-0.73,+1.21)x10^-7 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from ~T0(MAXI)-242.2 s to ~T0(MAXI)-221.6 s)\nby a simple power-law model yields the power law\nindex of -2.01(-0.08,+0.16), chi2 = 3.3/1 dof.\n\nModeling this spectrum by a power law with exponential cutoff model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith the photon index alpha fixed to -1, yields\nEp = 91.6 (-15.7,+28.7) keV, chi2 = 0.12/1 dof.\n\nThe KW light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB190708B\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

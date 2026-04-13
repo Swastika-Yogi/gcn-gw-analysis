@@ -1,0 +1,10 @@
+{
+  "subject": "EP260405a: GMOS-N optical upper limits",
+  "eventId": "EP260405a",
+  "submittedHow": "web",
+  "createdOn": 1775504325537,
+  "circularId": 44225,
+  "submitter": "javisansie@gmail.com",
+  "format": "text/plain",
+  "body": "J. Sanchez-Sierras (Radboud), A. J. Levan (Radboud), A. Martin-Carrillo (UCD), J. Quirola-Vasquez (Radboud), D. B. Malesani (DAWN/NBI and Radboud), P. G. Jonker (Radboud), F. E. Bauer (SSI and UTA), J. Chácon (PUC) report on behalf of a larger collaboration:\n\nWe observed the field of the Einstein Probe trigger EP260405a (Li et al. 2026, GCN 44222) using the GMOS-N instrument mounted on the Gemini-North telescope. Two observation epochs were obtained, on 2026-04-05 12:13:28 (~8.45 hours after T0) and 2026-04-06 07:15:39 (~27.49 hours after T0), in the z band (4x90 s) and r band (4x90 s).\n\nWe carried out image subtraction in the z band using the second GMOS epoch as a template. The subtractions were performed using the ZOGY algorithm (Zackay et al. 2016), as implemented in PyZOGY (Guevel et al. 2021). We do not find any new, uncatalogued sources within the EP-WXT uncertainty region. From the stacked images we obtain the following 3-sigma upper limit:\n\nr > 24.98\nz > 24.96\n\nThese limits are in the AB system, were calibrated using nearby stars from the Pan-STARRS catalog, and are not corrected for Galactic extinction."
+}

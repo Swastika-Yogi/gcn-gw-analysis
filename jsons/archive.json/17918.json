@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of  GRB 150608A",
+  "eventId": "GRB 150608A",
+  "bibcode": "2015GCN.17918....1G",
+  "createdOn": 1433937239000,
+  "circularId": 17918,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nA long-duration GRB triggered Konus-Wind on June 8, 2015\nat T0=42325.791 s UT (11:45:25.791), ~80 s before\nthe MAXI trigger (GRB 150608A; Arimoto, et al., GCN Circ. 17912).\n\nThe KW light curve shows a multi-peaked complex which\nstarted at ~T0-75 s and lasted until ~T0+5 s.\nThis phase of the emission was followed, in ~75 s,\nby a weaker pulse, which triggered MAXI.\nTaking into account the proximity of this burst\nto the MAXI/GSC trigger and consistency of the\nKW ecliptic latitude response with the position\nof GRB 150608A we suggest that KW observed\nthe main part of GRB 150608A.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB150608_T42325/\n\nAs observed by Konus-Wind, the burst had a fluence of \n2.4(-0.3,+0.3)x10^-5 erg/cm2, and a 2.944-s peak flux,\nmeasured from T0-0.302 s, of 8.8(-1.2,+1.2)x10^-7 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the bulk of the burst emission lies before the triggered\nmode record, the spectral analysis was performed using\nKW 3-channel waiting mode data.\n\nModeling the 3-channel time-integrated spectrum\n(from T0-73.209 s to T0+5.586 s) by a power law\nwith exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.56 �� 0.14, and Ep = 209 �� 46 keV.\n\nModelling the 3-channel spectrum near the peak count rate\n(from T0-3.246 s to T0+2.642 s) by the CPL model\nyields alpha = -0.94 �� 0.26, and Ep = 199 �� 37 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

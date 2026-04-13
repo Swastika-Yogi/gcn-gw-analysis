@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130913A detected in ground analysis of Swift-BAT data",
+  "eventId": "GRB 130913A",
+  "bibcode": "2013GCN.15233....1C",
+  "createdOn": 1379615694000,
+  "circularId": 15233,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings (UMBC@NASA GSFC), D. M. Palmer (LANL),\nA. Y. Lien (NASA/GSFC/ORAU), and C. B. Markwardt (GSFC)\nreport on behalf of the Swift science team:\n\nOn 2013-09-13 at 00:28:21 Swift-BAT detected a preliminary rate trigger\n(Trigger #570531), now designated GRB 130913A. On-board analysis was\nterminated prematurely by a preplanned slew maneuver.  No significant\nsource was found on-board.  In post-processing on the ground, a\nsignificant source was located at RA, Dec 341.960, +1.294, which is\n\n    RA(J2000)  =  22h 47m 50.4s\n    Dec(J2000) = +01d 17' 38.0\"\n\nwith an estimated 90% error radius of 3.3 arcmin.\n\nThe lightcurve shows a single FRED peak about 10 seconds long (T100).\nDetermining a formal T90 is difficult because of the weakness of the burst.\n\nThe time-averaged spectrum from T-2 to T+8 sec is fit by a simple\npower law model.  This fit gives a photon index of 0.9 +- 0.3 (68% confidence).\nThe fluence in the 15-150 keV band was (1.3 +- 0.4) x 10^-7 ergs/cm^2 (90%\nconfidence).\n\nWe note the presence of a galaxy cluster at z ~ 0.123 centered within 5\narcmin of the BAT position.  The source went into Moon constraint for Swift\nvery shortly after discovery, so no TOO was possible, and there will be no\nnarrow-field instrument data for this GRB."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210802A: MITSuME Okayama optical upper limits",
+  "eventId": "GRB 210802A",
+  "bibcode": "2021GCN.30596....1H",
+  "createdOn": 1628080005000,
+  "circularId": 30596,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, N. Ito, Y. Imai, K. L. Murata, M. Niwano, H. Takamatsu,\nR. Noto, S. Sato, M. Takaku, R. Yamaguchi, Y. Yatsu, and N. Kawai\n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210802A (V. Lipunov et al. GCN Circular\n#30586, P. A. Evans et al. GCN Circular #30587, F. Longo et al. GCN\nCircular #30589, O.J. Roberts et al. GCN Circular #30590, B.\nSbarufatti et al. GCN Circular #30591, Y.-D. Hu et al. GCN Circular\n#30592, Alan M. Watson et al. GCN Circular #30593) with the optical\nthree color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm\ntelescope Okayama. The observation with a series of 60 sec exposures\nstarted at 2021-08-03 10:34:24 UT (14.4 hours after Fermi trigger). We\nstacked the images with good conditions. We did not detect any\nuncatalogued sources within the XRT error region (B. Sbarufatti et al.\nGCN Circular #30591). We obtained the 5-sigma limits of the stacked\nimages as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n15.8 2021-08-03 11:54:24 1080 Rc>17.2, Ic>16.9\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB160220B: Swift/UVOT observations",
+  "eventId": "GRB 160220B",
+  "bibcode": "2016GCN.19037....1D",
+  "createdOn": 1456004570000,
+  "circularId": 19037,
+  "submitter": "Massimiliano de Pasquale at IASF-Palermo  <m.depasquale@ucl.ac.uk>",
+  "email": "m.depasquale@ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and J. Cummings (GSFC/UMBC) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160220B\n3.33 ks after the BAT trigger (Cummings et al., GCN Circ. 19029).\nNo optical afterglow consistent with the XRT position (Evans et al.\nGCN Circ. 19033) is detected in the UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the\nsummed UVOT exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite             3735         5370          393         >21.0\nv                 4145        10454         1082         >20.1\nb                 3530         5165          393         >20.4\nu                 4882        16950          451         >20.1\n\nw1                4555        16884         1504         >20.9\nm2                4350        11207          933         >20.7\nw2                5499        32840         1170         >20.9\n\nWe note the presence of an uncatalogued source of magnitude 20.2 +/- 0.20\nin white filter, at coordinates RA = 17h 19m 28.07, Dec = -18d 07m 25.5s\n(J2000), which is 5\" from the enhanced XRT position.\n\nThe magnitudes above are not corrected for the substantial Galactic \nextinction\ndue to the reddening of E(B-V) = 0.32 in the direction of the burst\n(Schlegel et al. 1998).\n\n-- \n\nDr. Massimiliano De Pasquale\nResearch associate - Swift UVOT scientist\nMullard Space Science Laboratory, University College London"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger #152652 is not a GRB",
+  "bibcode": "2005GCN..3904....1M",
+  "createdOn": 1125377288000,
+  "circularId": 3904,
+  "submitter": "David Palmer at LANL  <dmpalmer@mac.com>",
+  "email": "dmpalmer@mac.com",
+  "body": "V. Mangano (INAF-IASF), N. Gehrels (GSFC),  C. Markwardt (GSFC),\nD. Morris (PSU),  D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC),\non behalf of the Swift team report:\n\n\nAt 04:08:48, BAT detected a source that was not in its on-board catalog\nand reported it as a GRB (Trigger #152652). However, comparison to the\nSIMBAD database finds a previously-known INTEGRAL gamma-ray source,\nIGR J16479-4514, at a distance of 2.1 arcmin from the reported location,\nwhich is within the BAT error circle.\n\nTherefore we believe that this trigger was due to the known Integral\nsource, and not a GRB."
+}

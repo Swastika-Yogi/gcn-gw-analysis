@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050126: Burst Parameters Measured by BAT",
+  "eventId": "GRB 050126",
+  "bibcode": "2005GCN..2987....1S",
+  "createdOn": 1106763596000,
+  "circularId": 2987,
+  "submitter": "Goro Sato at ISAS/JAXA  <gsato@astro.isas.jaxa.jp>",
+  "email": "gsato@astro.isas.jaxa.jp",
+  "body": "G. Sato (ISAS), P. Boyd (GSFC-UMBC), S. Barthelmy, \nL. Barbier (GSFC), J. Cummings (GSFC), E. Fenimore (LANL),\nN. Gehrels (GSFC), D. Hullinger (GSFC/UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), C. Milvia (ASDC), K. McLean (LANL), \nJ. Nousek (PSU), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC), M. Suzuki (Saitama), J. Tueller (GSFC)  \non behalf of the Swift-BAT team:\n\nAt 12:00:53 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB050126.  The spacecraft autonomously slewed to the\nburst and was detected by Swift/XRT as well (Kinnea et al., GCN #2984).\n\nThe burst is a FRED-type single broad peak, with a rapid rise (~1 sec)\nand total duration ~30 seconds (T50 = 14 sec, T90 = 26 sec).  The\ntotal fluence is 1.1e-6 erg/cm2 (15-350 keV), and the peak five second\nflux is 0.4 ph/cm2/sec (15-350 keV).  The spectrum is consistent with\na power law with photon index 1.3 +/- 0.1 in the 20-150 keV band.\n\nThe spacecraft slew occurred between times 12:01:41 and 12:02:32 UT,\nwith a subsequent settling period until 12:03:02 UT.  From 12:02:32\nonward, there is no detectable gamma ray emission with an approximate\n2 sigma upper limit of 7e-9 erg/cm2/s (15-350 keV) based on the above\nspectrum.\n\nThe BAT ground-derived position is RA,Dec = 278.111, 42.384 (J2000)\nwith an estimated uncertainty of 4 arcmin (radius, 3-sigma, including\na systematic uncertainty).  This is within 62 arcsec of the XRT\nposition (GCN #2984), and within 22 arcsec of the BAT on-board derived\nposition."
+}

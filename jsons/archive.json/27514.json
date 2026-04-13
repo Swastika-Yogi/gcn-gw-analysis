@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 200409A",
+  "eventId": "GRB 200409A",
+  "bibcode": "2020GCN.27514....1B",
+  "createdOn": 1586458703000,
+  "circularId": 27514,
+  "submitter": "Eric Burns at GSFC  <erickayserburns@gmail.com>",
+  "email": "erickayserburns@gmail.com",
+  "body": "E. Burns (GSFC), M. S. Briggs (UAH), C. M. Hui (MSFC), C. Malacaria (MSFC),\nand P. Veres (UAH) reports on behalf of the Fermi-GBM Team\n\nSwift-BAT detected GRB 200409A at 03:19:59 UT (GCN 27509). There was no\nFermi-GBM onboard trigger around the event.\n\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM identified GRB 200904A with high\nreliability [1], with a localization consistent with the Swift-BAT\nlocation, and a discovery timescale of 0.703 s.\n\nThe GBM targeted search [2], the most sensitive, coherent search for\nGRB-like signals, was run from +/-30 s around BAT trigger time. A transient\nsource was identified whose most significant timescale according to the\nsearch is 1.024 s, with a log likelihood ratio of 62, with a consistent\nlocation, and is consistent with a soft spectrum for a GRB.\n\nPreliminary spectral analysis statistically prefers a power-law fit over\nmodels that constrain Epeak. Using T0-0.320 to T0+0.320 as the source\ninterval gives an alpha of -1.84 +/- 0.06, a photon flux of 3.3 +/- 0.4\nph/s/cm^2, and a fluence of (2.0+/-0.2)E-7 erg/s/cm^2.\n\n[1] https://gcn.gsfc.nasa.gov/notices_gbm_sub/608095205.fermi\n[2] Goldstein et al. 2019 arXiv:1903.12597"
+}

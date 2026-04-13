@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131018B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 131018B",
+  "bibcode": "2013GCN.15362....1O",
+  "createdOn": 1382303875000,
+  "circularId": 15362,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and P. D'Avanzo (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 131018B\n83 ks after the LAT trigger (Vianello et al., GCN Circ. 15357).\nNo new optical candidate is detected within the LAT \nerror circle (Vianello et al., GCN Circ. 15357) in the initial UVOT exposures.\nWe note an optical source within the error circle of the \ncandidate XRT position (D'Avanzo et al., GCN Circ. 15361), \nwhich is found in the USNO-B1 catalogue.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)      Mag\n\nwhite          90363\t    91160          785         >21.7\nv              91168\t    91427          255         >19.4\nu              88969\t    95244         1300         >20.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.58 in the direction of the burst\n(Schlegel et al. 1998)."
+}

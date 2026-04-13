@@ -1,0 +1,10 @@
+{
+  "subject": "GRB200514B: ATLAS detections of ZTF20aazpphd",
+  "eventId": "GRB 200514B",
+  "bibcode": "2020GCN.27738....1S",
+  "createdOn": 1589488608000,
+  "circularId": 27738,
+  "submitter": "Stephen Smartt at Queen's U/Belfast  <s.smartt@qub.ac.uk>",
+  "email": "s.smartt@qub.ac.uk",
+  "body": "S. J. Smartt, K. W. Smith (QUB), S. Srivastav, T.-W. Chen (MPE), D. R.\nYoung, M. Fulton, (QUB) L. Denneau, H. Flewelling, A. Heinze, J.\nTonry, H. Weiland (IfA, Univ. Hawaii), A. Rest (STScI), B. Stalder\n(LSST), C. Stubbs (Harvard), O. McBrien, J. Gillanders, D.\nO'Neil, P. Clark (QUB)\n\nThe transient ZTF20aazpphd (AT2020jww) was reported by Ahumada et al.\n(GCN 27737) at r = 19.6 +/- 0.05 within the localization region of the\nshort GRB200514B (trigger 611140062) detected by the Gamma-Ray Burst\nMonitor (GBM) on the Fermi satellite at MJD = 58983.38029 (GCN 27736).\n\nATLAS, the twin telescope system on Haleakala and Mauna Loa was\nobserving this region of sky in normal sky operations (Tonry et al.\n2018, PASP, 130f4505, Smith et al. 2020, arXiv:2003.09052). We detect\nZTF20aazpphd before the ZTF epoch at the following magnitudes :\n\nATLAS c-band :\nMJD         dt   m     err \n58983.42278 +1.02 19.47 0.13\n58983.42461 +1.06 19.18 0.20\n58983.43478 +1.31 19.46 0.13\n58983.43890 +1.41 19.42 0.21\n\nwhere dt is the time in hrs since Fermi trigger. \n\nZTF reported the r-band : \n58983.49    +2.63 19.6  0.05 \n\nThe first ATLAS detection is 1.61hrs before the ZTF in the cyan-band\n(a composite g+r filter). The two magnitudes are consistent, given the\nerrors and the different filter profiles. Therefore there is no\nevidence of any rapid decline within this short interval, as might be\nexpected for a sGRB afterglow. We also have non-detections of\nZTF20aazpphd 2 days before, hence it is more likely a young supernova."
+}

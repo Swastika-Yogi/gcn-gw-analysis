@@ -1,0 +1,11 @@
+{
+  "subject": "GRB240805A: Fermi GBM Observation",
+  "eventId": "GRB 240805A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37075....1G",
+  "createdOn": 1722956663217,
+  "submitter": "Jacob Smith at Fermi-GBM Team <jrs0118@uah.edu>",
+  "circularId": 37075,
+  "format": "text/plain",
+  "body": "M. Godwin (UAH), J. Smith (UAH), and C. Meegan (UAH) report on behalf of the Fermi Gamma-ray Burst Monitor Team:\n\nAt 02:02:20.31 UT on 05 August 2024, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 240805A (trigger 744516145/240805085),which was also detected by SVOM/GRM (SVOM/GRM team, 2024, GCN 37054), Fermi-LAT (R. Gupta et al. 2024, GCN 37042), INTEGRAL IBAS (S.Mereghetti et al. 2024, GCN 37037), and Swift-BAT (S. Dichiara et al. 2024, GCN 37032). The Final Real-time Localization (Fermi GBM Team 2024, GCN 37031) is consistent with the Fermi-LAT, Integral, and Swift positions.\n\nThe angle from the Fermi LAT boresight is 59 degrees.\n\nThe GBM light curve has many short peaks with a duration (T90) of about 10.8 s (50-300 keV). The time-averaged spectrum from T0-3.6 to T0+16.9 s is best fit by a power law function with an exponential high-energy cutoff. The power law index is -0.67 +/- 0.02 and the cutoff energy, parameterized as Epeak, is 330 +/- 8 keV.\n\nThe event fluence (10-1000 keV) in this time interval is (2.91 +/- 0.04)E-05 erg/cm^2. The 1-sec peak photon flux measured starting from T0+5.8 s in the 10-1000 keV band is 14.3 +/- 0.3 ph/s/cm^2.\n\nA Band function fits the spectrum equally well with Epeak= 310 +/- 10 keV, alpha = -0.65 +/- 0.02 and beta = -2.9 +/- 0.3.\n\nThe spectral analysis results presented above are preliminary; final results will be published in the GBM GRB Catalog: https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page: https://fermi.gsfc.nasa.gov/ssc/data/access/gbm/"
+}

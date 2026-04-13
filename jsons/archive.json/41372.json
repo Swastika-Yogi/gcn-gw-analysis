@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250814A: J-band upper limit from WINTER",
+  "eventId": "GRB 250814A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41372....1K",
+  "createdOn": 1755186742663,
+  "submitter": "Viraj Karambelkar at Indian Inst of Tech,Bombay <karambelkarvraj21197@gmail.com>",
+  "circularId": 41372,
+  "body": "Viraj Karambelkar (Caltech), Tomas Ahumada (Caltech), Benjamin Schneider\n(LAM), Robert Stein (UMD), Geoffrey Mo (MIT),  Danielle Frostig (CfA),\nNathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech)\nreport:\n\nWe observed the field of the Fermi and Swift GRB 250814A (Fermi team, GCN\nCirc. 41357, Caputo et al. GCN  Circ. 41358) coincident with the\nsub-threshold GW trigger S250814bg (GCN Circ. 41364) in the near-infrared\nwith the Palomar 1-m telescope, equipped with the 1-square degree WINTER\ncamera (Lourie et al. 2020, Frostig et al. 2024). Observations started on\n2025-08-14 at 07:49:52 UT (15 min after the trigger) and consisted of 15\nexposures of 120 s in the J-band.\n\nIn the stacked image, we do not detect any new source at the X-ray\nafterglow position reported by Caputo et al, GCN 41358 down to the\nfollowing 5-sigma AB magnitude:\n\nJ > 19.3\n\nThe images were processed using the WINTER data reduction pipeline\nimplemented with mirar (https://github.com/winter-telescope/mirar,\nhttps://doi.org/10.5281/zenodo.13352565). The photometric calibration was\nperformed using nearby stars from the 2MASS catalog and the magnitude is\nnot corrected for Galactic extinction.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between\nMIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF\nAAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute\nfor Astrophysics and Space Research.\n"
+}

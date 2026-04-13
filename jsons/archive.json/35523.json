@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240109A: Swift-BAT refined analysis",
+  "eventId": "GRB 240109A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.35523....1P",
+  "createdOn": 1705084627667,
+  "circularId": 35523,
+  "submitter": "Sibasish Laha at GSFC <sibasish.laha@nasa.gov>",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC),\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC),\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\nM. J. Moss (GSFC), T. Parsotan (GSFC),\nT. Sakamoto (AGU), M. Stamatikos (OSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-61 to T+242 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 240109A (trigger #1207446)\n(Dichiara et al., GCN Circ. 35501).  The BAT ground-calculated position is\nRA, Dec = 301.330, 16.566 deg which is\n   RA(J2000)  =  20h 05m 19.1s\n   Dec(J2000) = +16d 33' 58.3\"\nwith an uncertainty of 2.5 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 67%.\n\nThe BAT  light curve shows a single peak with a duration ~0.5 sec.\nT90 (15-350 keV) is 0.16 +- 0.06 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-0.04 to T+0.15 sec is better fit by a blackbody.\nA simple power-law fit shows a photon index of 2.75 +-0.35 with a poor statistics (reduced chi2 of 1.9).\nInstead, the black body fit shows the temperature of 12.2 +-1.3 keV\nwith a reasonable statistics (reduced chi2 of 1.2).  So, the burst\nprefers a soft spectrum. The fluence in the 15-150 keV band is 1.2 +- 0.4 x 10^-08 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.44 sec in the 15-150 keV band\nis 0.7 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/1207446/BA/\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB010222, optical observations",
+  "eventId": "GRB 010222",
+  "bibcode": "2001GCN...967....1H",
+  "createdOn": 982875866000,
+  "circularId": 967,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "A. Henden (USRA/USNO) and F. Vrba (USNO), on behalf of the\nUSNO GRB team and a larger European GRB collaboration, report:\n\nWe observed the BeppoSAX error box for GRB010222 (GCN 959, 960, 966)\nwith the USNOFS 1.0-m telescope under cloudy conditions.\nThe discovery of the optical transient for this burst\nwas given in Henden (GCN 961, 962).  The final astrometry for\nthe OT, relative to USNO-A2.0, is\n\n223.05229     43.01840\n14:52:12.55  +43:01:06.2  (J2000)\n\nwith internal errors of 0.2arcsec.  This is in agreement\nwith the values given in McDowell et al. (GCN 963).\n\nA finding chart (R-band, 4.5x4.5arcmin, NE=upperleft) is given at\nftp://ftp.nofs.navy.mil/pub/outgoing/aah/grb/grb010222r.jpg\n\nBVRcIc frames were taken shortly after the localization\nposting.  However, only the preliminary R-band measures\nare reported here.  The quality of the photometry suffered\ndue to the thick clouds, but is good enough to show definite\nfading of the transient:\n\n  UT        exp      Rc    err\n010222.486  1x300  18.36  0.059\n010222.510  2x300  18.52  0.054\n010222.518  2x600  18.68  0.059\n010222.533  2x600  18.67  0.057\n\nWhere the R-band magnitudes are relative to the bright USNO-A2.0\nstar (identified as \"A\" on the finding chart) at J2000 coordinates\n14:52:14.80 +43:01:40.9 and that has an assumed magnitude R=14.70.\n\nMore careful all-sky calibration of this field will be performed\non the next few nights.  The intent is to only calibrate in\nBVRcIc; please contact Henden if you need U-band calibration as well."
+}

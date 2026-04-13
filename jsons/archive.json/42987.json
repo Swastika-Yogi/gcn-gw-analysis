@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 251203C: SVOM/VT optical counterpart",
+  "editedOn": 1764861901685,
+  "eventId": "GRB 251203C",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42987....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 42987,
+  "createdOn": 1764857147781,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H.L. Li (NAOC), D. Turpin (CEA), Y.N. Ma, L.P. Xin, Y. L. Qiu, C. Wu, Z.H. Yao, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), M. Brunet, N. A. Webb (IRAP)  report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation to the field of GRB 251203C triggered by SVOM (Brunet et al., GCN 42976). The observation started at 2025-12-03T21:46:05 UTC, i.e., 3.2 hours post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued source was detected within the ECLAIRs's error box (Brunet et al., GCN 42976), compared to the Legacy survey catalog. The position is at R.A., Dec. = 51.701538,  -7.382688 degrees, equivalent to:\n    R.A. (J2000) =   03:26:48.36\n    Dec. (J2000) =  -07:22:57.67\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitudes are given below:\n\n    Mid_time       Band        Exposure Time     Magnitude (AB)\n    3.3 hour       VT_B           9*70 sec         22.1+/-0.1 mag\n    3.3 hour       VT_R           9*70 sec         21.7+/-0.1 mag\n    9.7 hour       VT_B          44*30 sec         23.0+/-0.3 mag \n    9.7 hour       VT_R          44*30 sec         22.4+/-0.2 mag \n\nOur photometry was not corrected for Galactic extinction.\n    \nAs this source has significantly faded during our observations, we suggest it is the optical afterglow of GRB 251203C.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250321B: SVOM detection of a sub-threshold transient event",
+  "eventId": "GRB 250321B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39818....1S",
+  "createdOn": 1742575237738,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 39818,
+  "format": "text/plain",
+  "body": "S. Schanne (CEA), M. Brunet (IRAP), D. Turpin (CEA), T. Maiolino, F. Piron (LUPM), O. Godet, J-L. Atteia (IRAP)\n\nreport on behalf of the SVOM mission team\n\nThe SVOM/ECLAIRs telescope detected a transient source appearing below the onboard trigger thresholds, labelled GRB 250321B starting at 2025-03-21T03:36:28 UTC (Tb).\n\nThe information of this sub-threshold source was received on the ground with low-latency by the SVOM VHF Alert Network. After arrival of the X-band data the source detection is confirmed. \n\nThe burst was detected below the thresholds applied onboard by both the Count-Rate Trigger (CRT) and Image Trigger (IMT). It has been reported in the log messages of the onboard trigger downloaded via X-band. The best detection is found by IMT with a signal-to-noise ratio of 6.45 in the 8-120 keV energy band over a time window of 20.48 s starting at Tb. After reprocessing the photon by photon data in the onboard trigger replay with lower thresholds, as well as the on-ground offline trigger, a point-like source is confirmed in the reconstructed sky images.\n\nThe localization of the source is RA, Dec = 169.687, 39.560 (J2000). The uncertainty on this position is about 12 arcminutes at 90% C.L.\n\nWe notice the presence of several quasars in this error box, among which the closest is SDSS J111850.26+393258.6 located at 1.2 arcmin.\n\nWe encourage follow-up observation of this source candidate.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe point of contact for this event is Stéphane Schanne (s.schanne AT cea.fr) by email if you require additional information. "
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB030501 triangulation (correction to GCN 2194)",
+  "eventId": "GRB 030501",
+  "bibcode": "2003GCN..2199....1G",
+  "createdOn": 1051976907000,
+  "circularId": 2199,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, E. Mazets, V. Pal'shin, and D. Frederiks on behalf\nof Konus-Wind and Helicon/Coronas-F teams report\n\nData reported in GCN 2194 were affected by error in time delay.\n\nCorrect Konus-Wind - Helicon annulus is:\nRA(2000) = 224.210 deg,\nDecl(2000) = -21.142 deg,\nRadius = 73.23 +/- 0.70 degrees (3 sigma ).\n\nThis annulus intersects the IPN annulus (GCN 2186) to form two\nerror boxes, only one of which has the correct ecliptic latitude.\nPreliminary 3 sigma error box has approximate area of 400 sq. arcmin :\n                         RA(2000)    Dec(2000)\nERROR BOX CENTER:      283.581        23.875\nERROR BOX CORNER 1:    284.167        24.337\nERROR BOX CORNER 2:    284.212        24.275\nERROR BOX CORNER 3:    283.001        23.410\nERROR BOX CORNER 4:    282.956        23.472\n\n\n\n\n\n-- \nDmitry Frederiks\n[aka Fred]\n-------------------------------------------------------\nLab for High Energy Astrophysics, Space Research Dept,\nA.F.Ioffe Phys.-Tech. Institute, St.Petersburg, Russia\n-------------------------------------------------------"
+}

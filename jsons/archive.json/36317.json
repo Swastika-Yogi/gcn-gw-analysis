@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240422ed: EP240426a possible optical detection",
+  "eventId": "LIGO/Virgo/KAGRA S240422ed",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36317....1H",
+  "createdOn": 1714145489217,
+  "circularId": 36317,
+  "submitter": "Antonella Palmese at Carnegie Mellon University <apalmese@andrew.cmu.edu>",
+  "body": "Lei Hu (CMU), Brendan O'Connor (CMU), Antonella Palmese (CMU), Tomás Cabrera (CMU), Igor Andreoni (UMD), Keerthi Kunnumkai (CMU), report on behalf of the GW-MMADS team:\n\nDuring GW-MMADS DECam follow-up (Palmese et al., GCN 36245) of the LIGO/Virgo/KAGRA event S240422ed (GCN 36236, GCN 36240), we serendipitously observed the location of EP240426a (EP team et al., GCN 36313). \n\nIn our difference imaging relative to archival DECam images, obtained using SFFT (Hu et al., 2022), we recover the following detection within 5.2 arcsec of the EP240426a centroid prior to the EP observations. The transient has been reported to TNS as AT2024hhs (https://www.wis-tns.org/object/2024hhs):\n\n filter | observation time UT | magnitude (AB)\nDECam-z | 2024-04-24T03:15:28 | >21.08 (5-sigma)\nDECam-r | 2024-04-25T00:34:17 | >22.56 (5-sigma)\nDECam-z | 2024-04-25T02:35:12 | 21.01 +/- 0.10\n\nPreliminary forced photometry on our z-band image of this field from the first night of follow-up at 2024-04-23T03:05:18 show a possible faint detection at mag(AB)=21.41 +- 0.20, which is at the 5sigma depth limit and did not generate an alert in our pipeline.\n\nThe location of our transient is close to nuclear (0.36 arcsec). We cannot exclude variability due to possible AGN activity. We do not detect a transient at the centroid location of EP240426a, with a 5-sigma limiting magnitude of 21.4 mag in z-band at 2024-04-25T02:35:12.\n\nMagnitudes are not corrected for Milky Way extinction.\n\nWe thank the CTIO and NOIRLab staff for supporting these observations and the data calibrations."
+}

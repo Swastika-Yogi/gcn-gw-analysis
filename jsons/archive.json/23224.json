@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-180908A: CALET Gamma-Ray Burst Monitor upper limits",
+  "eventId": "IceCube-180908A",
+  "bibcode": "2018GCN.23224....1R",
+  "createdOn": 1536843549000,
+  "circularId": 23224,
+  "submitter": "Takanori Sakamoto at AGU  <tsakamoto@phys.aoyama.ac.jp>",
+  "email": "tsakamoto@phys.aoyama.ac.jp",
+  "body": "S. Ricciarini (U of Florence), A. Yoshida, T. Sakamoto,\nV. Pal'shin, S. Sugita, Y. Kawakubo, A. Tezuka, S. Matsukawa,\nH. Onozawa, T. Ito, H. Morita, Y. Sone (AGU),\nK. Yamaoka (Nagoya U), S. Nakahira (RIKEN), I. Takahashi (IPMU),\nY. Asaoka, S. Ozawa, S. Torii (Waseda U),\nY. Shimizu, T. Tamura (Kanagawa U),\nW. Ishizaki (ICRR), M. L. Cherry (LSU),\nA. V. Penacchioni, P. S. Marrocchesi (U of Siena)\nand the CALET collaboration:\n\nWe have performed a search of hard X-ray/gamma-ray counterpart\nto the IceCube neutrino event IceCube-180908A (The IceCube Collaboration,\nGCN Circ. 23214) in the CALET Gamma-ray Burst Monitor (CGBM) data\naround the event time at T0=19:59:31.84 UT on 2018 September 8.\nThe event position (RA, Dec (J2000) = 144.58 [-1.45,+1.55] deg,\n-2.13 [-1.2,+0.9] deg) at that time was in the CGBM FOV at\nfavorable angles (the off-axis angles 19 deg and 16 deg for HXM\nand SGM detector respectively).\n\nNo CGBM on-board trigger occurred around T0 (the nearest GRB triggered\nCGBM at 20:28:41.478 UTC on 9 August 2018: Cherry et al., GCN 23116;\nall subsequent CGBM triggers were due to local particles).\nBy using the CGBM time-history data (0.125 sec time resolution),\nwe found no statistically significant signal within T0 +- 800 sec interval\nin either the HXM (7-3000 keV) or the SGM (40 keV - 28 MeV) data.\nWe estimate 7-sigma upper limit in the 40-1000 keV band as\n6.7 x 10^-7 erg/cm2/s assuming a simple power-law model with\na photon index of -2 and 7.5 x 10^-7 erg/cm2/s assuming a GRB (Band) model\nwith the typical parameters for long GRBs: alpha = -1.0, Ep = 300 keV,\nand beta = -2.5 (both in 1 sec exposure).\n\nThe CALET data used in this analysis are provided by the Waseda\nCALET Operation Center located at the Waseda University."
+}

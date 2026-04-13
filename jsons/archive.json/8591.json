@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 335971: Swift/UVOT Observations",
+  "bibcode": "2008GCN..8591....1M",
+  "createdOn": 1228172769000,
+  "circularId": 8591,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and J. Mao (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of Swift trigger 335971 \non Nov. 29, 2008, starting 141 s after \nthe BAT trigger (Mao et al., GCN Circ. 8582).\nGround analysis of the BAT data indicates that this trigger\nwas probably not due to a real source (Cummings and Mao, \nGCN Circ. 8583). No new source is seen inside the BAT\nerror circle (Cummings and Mao, GCN Circ. 8583) in\nany of the individual or summed UVOT exposures.\n\nThe 3-sigma upper limits in the UVOT photometric system \n(Poole et al. 2008, MNRAS, 383, 627) are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)       Mag \n\nwhite              141          291          147        >20.6\nv                  376          742           58        >18.6\nb                  474          840           58        >19.5\nu                  450          815           58        >19.4\nuvw1               425          790           58        >19.0\nuvm2               401          766           58        >18.8\nuvw2               351          717           58        >19.0\n\nThe values quoted above are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.10 in the direction of the burst \n(Schlegel et al. 1998)."
+}

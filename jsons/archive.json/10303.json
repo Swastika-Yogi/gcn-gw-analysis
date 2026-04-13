@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 381591: Uncatalogued UVOT Source",
+  "bibcode": "2009GCN.10303....1H",
+  "createdOn": 1262287095000,
+  "circularId": 10303,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA), M. H. Siegel (PSU), and\nC. B. Markwardt (CRESST/GSFC/UMD) report on the behalf of the\nSwift/UVOT team:\n\n    The Swift/UVOT observed the field of BAT trigger 381591\n(Markwardt et al. 2009, GCN Circ. 10301) starting approximately 132 s\nafter the BAT detection.  We find an uncatalogued source, relative to\nthe USNO B1.0 and 2MASS point source catalogues, at\n\n    RA =  15:40:18.21 = 235.07592 deg\n   Dec = -08:43:31.9  =  -8.72553 deg\n\nwith a preliminary error estimate of 1.0 arcsec (radius, 90%\ncontainment).  This is 48 arcsec NW of the centre of the BAT error\ncircle.  The preliminary u-band magnitude is\n\nFilter     TSTART     TSTOP     EXPOSURE        Mag  Err\n--------------------------------------------------------\nu             290       472          181       16.2  0.1\n--------------------------------------------------------\n\nAt present there are insufficient data to tell if this source is\nfading.  This source is 6.3 arcsec north of the bright (B = 14 mag)\nUSNO B1.0 source 0812-0291183.  Due to the lack of an X-ray detection\nand the lack of information about the source's variability we can not\nmake any claim about this source being related to the BAT trigger.\n\n    The quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.14 mag (Schlegel et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

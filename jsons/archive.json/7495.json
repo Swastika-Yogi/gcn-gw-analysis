@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319A: UVOT Observations",
+  "eventId": "GRB 080319A",
+  "bibcode": "2008GCN..7495....1H",
+  "createdOn": 1206099237000,
+  "circularId": 7495,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and C. Pagani (PSU) report on behalf\nof the Swift/UVOT team:\n\n      The Swift/UVOT observed the field of GRB 080319A starting 542 s\nafter the BAT trigger (Pagani et al., GCN Circ. 7426).  We detect the\noptical afterglow in the white filter at the location of the P60\nsource (Cenko, 2008, GCN Circ. 7429).\n\nMagnitudes and upper limits are reported below.\n\nFilter    T_start (s) T_stop  Exposure      Mag  Err  Comment\n    v          669       1544      432     >20.7       3-sigma UL\n    b          767       1480       29     >19.8       3-sigma UL\n    u          743       1618       58     >19.9       3-sigma UL\n  white        562        662       98      21.1  0.3\n               875        975       98     >21.4       3-sigma UL\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0 .02 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT flight system\ndescribed in Poole et al. (2008, MNRAS, 383,627).  No early-time upper\nlimits are available for the uvw1, uvm2, and uvw2 filters due to the\nlack of data resulting from the slew to GRB 080319B, which occurred 25\nminutes after GRB 080319A."
+}

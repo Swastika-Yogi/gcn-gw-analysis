@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 211107B",
+  "eventId": "GRB 211107B",
+  "bibcode": "2021GCN.31086....1S",
+  "createdOn": 1637072961000,
+  "circularId": 31086,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, D. Frederiks, M. Ulanov,\nA. Tsvetkova, A. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 211107B\n(Swift-BAT detection: Tohuvavohu, GCN Circ. 31057)\ntriggered Konus-Wind at T0=62836.647 s UT (17:27:16.647).\n\nThe burst light curve shows the initial pulse,\nwhich starts at ~T0-3.7 s and has a total duration of ~24 s,\nfollowed by a weaker emission seen up to T0+205 s.\nThe emission is seen up to ~1 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB211107_T62836/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.95(-1.76,+1.88)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0-0.108 s,\nof 1.42(-0.68,+0.69)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the initial pulse\n(measured from T0 to T0+16.640 s)\nis best fit in the 20 keV - 2 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.88(-0.40,+0.47)\nand Ep = 152(-26,+41) keV (chi2 = 51/56 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.7\n(chi2 = 51/55 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

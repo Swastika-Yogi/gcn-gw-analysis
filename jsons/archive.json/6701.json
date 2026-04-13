@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070802: Swift/UVOT upper limits",
+  "eventId": "GRB 070802",
+  "bibcode": "2007GCN..6701....1K",
+  "createdOn": 1186081836000,
+  "circularId": 6701,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "N.P.M. Kuin (MSSL) and S. Immler (GSFC)������������� �\nreport on behalf of the Swift-UVOT team:\n\nThe Swift/UVOT observed the field of GRB070802 (trigger=286809) \nstarting 2007-08-02 at 07:09:30, 125 s after the BAT trigger (Barthelmy \net al. 2007, GCN Circ.6692). We do not find a new source in the UVOT \nobservations at the location of the refined XRT position (Evans and \nMangano, 2007, GCN Circ. 6697).\n\n\nThe 3-sigma upper limits (in the UVOT photometric system, Breeveld et \nal., GCN Circ. 6614) for detecting a source inside the XRT error circle \nin the co-added frames (including the settling exposure and finding \ncharts) are listed below:\n\nFilter\t\tTstart\tTstop\tExposure\tMagnitude\n\t\t(s)\t\t(s)\t\t(s)\t\t(3-sigma UL)\nwhite\t142\t\t16875\t589.9\t>21.25\nv\t\t125\t\t12514\t773.2\t>19.96\nuvm2\t654\t\t4821\t239.4\t>19.84\nuvw1\t679\t\t4969\t182.3\t>19.77\nu\t\t703\t\t6307\t219.6\t>19.52\nb\t\t728\t\t16681\t1109.0\t>21.27\nuvw2\t758\t\t10893\t1127.5\t>21.16\n\nThe values quoted above are not corrected for the expected Galactic \nextinction corresponding to a reddening of E_{B-V} = 0.026 mag in the \ndirection of the burst (Schlegel et al. 1998)."
+}

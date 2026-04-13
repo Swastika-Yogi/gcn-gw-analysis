@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251122A/EP251122a:  SVOM/VT optical observations with VHF data",
+  "eventId": "GRB 251122A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42806....1L",
+  "createdOn": 1763832357119,
+  "circularId": 42806,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "H.L. Li, C. Wu (NAOC), J. T. Palmerio (CEA), L.P. Xin, Y. L. Qiu (NAOC), Z.-Y. Lin, C. Lachaud (APC) report on behalf of the SVOM team.\n\nSVOM/VT performed an automatic slew on the burst of GRB 251122A/EP251122a (sb25112204) triggered by SVOM/ECLAIRs (Lin et al., GCN 42800) and EP/WXT(Wang et al., GCN 42799). SVOM/VT began observing the field automatically at 2025-11-22T14:02:17 UTC, ~5.15 minutes after the T0 (SVOM trigger time:2025-11-22T13:57:08), with the slew of the platform triggered on-board, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nWe confirm the detection of the source reported by Cheng et al. (GCN 42803) in the VT_R band of sequence 1 and 3 with the downlinked VHF data.\n\nThe AB magnitude was derived as follows:\n--------------------------------------------\n(T-T0)mid   exptime    band        mag \n 7.65 min    300 sec    VT_R      21.82 +/-0.12\n88.30 min    300 sec    VT_R      21.96 +/-0.15\n\nNo correction for Galactic extinction was applied to the photometry. \n\nThis result is consistent with the report by Wu et al.(GCN 42801), Lipunov et al.(GCN 42802), Saccardi\n et al.(GCN 42804), Cotter et al.(GCN 42805).\n\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

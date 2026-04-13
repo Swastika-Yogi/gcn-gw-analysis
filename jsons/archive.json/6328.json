@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070419A: Early Super-LOTIS Observations",
+  "eventId": "GRB 070419A",
+  "bibcode": "2007GCN..6328....1W",
+  "createdOn": 1177041794000,
+  "circularId": 6328,
+  "submitter": "Grant Williams at Steward Observatory  <ggwilli@mmto.org>",
+  "email": "ggwilli@mmto.org",
+  "body": "G. G. Williams (MMTO) and P. A. Milne (Steward Observatory), on behalf of \nthe Super-LOTIS Collaboration, report:\n\nThe robotic 0.6-m Super-LOTIS telescope began observing the error box of \nGRB 070419A (Swift Trigger 276205, Stamatikos et al. GCN 6302) at \n10:01:08.1 UT, 102 seconds after the trigger.  Our initial observations \ninclude 5 x 10s exposures, 5 x 20s exposures, and 30 x 60s exposures, all \nin the R-band.\n\nWe detect the afterglow reported by Chornock et al. (GCN 6304) in our \nthird (and subsequent) 60 second exposure which began at 10:07:01.8 UT, \n456 seconds after the trigger.  We do not detect the afterglow in early \nsingle exposures or early summed exposures. This is evidently related to \nthe brightening reported by Cenko et al. & Wren et al. (GCN 6306 & 6324).\n\nUsing the USNO-B star at RA=12:10:57.57, Dec=+39:55:40.2 with R=15.22 \n(Cenko et al. GCN 6306), we calculate the following R-band magnitudes and \n5-sigma upper limits:\n\nt_start (UT)\texp t_tot (s)\tNsum\tt_start-t_0 (s)\tR Mag\n----------------------------------------------------------------\n10:01:08.1\t10\t\t1\t102\t\tR > 17.71\n10:01:08.1\t50\t\t5\t102\t\tR > 18.58\n10:02:33.1\t20\t\t1\t187\t\tR > 18.24\n10:02:33.1\t100\t\t5\t187\t\tR > 19.19\n10:04:47.9\t60\t\t1\t322\t\tR > 18.60\n10:07:01.8\t60\t\t1\t456\t\tR = 18.49 +/- 0.22\n\nAdditional observations followed our initial set and analysis are ongoing."
+}

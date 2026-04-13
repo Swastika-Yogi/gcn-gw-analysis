@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 847216: misidentification of IGR J16385-2057",
+  "bibcode": "2018GCN.22940....1E",
+  "createdOn": 1531296266000,
+  "circularId": 22940,
+  "submitter": "Aaron Tohuvavohu at PSU/Swift  <aaronb@swift.psu.edu>",
+  "email": "aaronb@swift.psu.edu",
+  "body": "S. W. K Emery (UCL-MSSL), A. Y. Lien (GSFC/UMBC),\nK. L. Page (U Leicester) and A. Tohuvavohu (PSU) report on behalf of\nthe Neil Gehrels Swift Observatory Team:\n\nAt 06:48:50 UT, the Swift Burst Alert Telescope (BAT) triggered (trigger #847216). \nHowever, we believe that this was an erroneous trigger due to a known race\ncondition in the Swift/BAT software, which causes BAT to misidentify \nIGR J16385-2057 as a different source (Trigger 847216). The full ground \ndata is required to confirm the nature of this trigger. \n\nDue to an observing constraint, Swift did not slew immediately to the\nlocation of this trigger. Thus there will be no prompt XRT or UVOT\ndata. A delayed slew will be executed."
+}

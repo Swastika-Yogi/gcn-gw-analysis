@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 000418, UBVRI field photometry",
+  "eventId": "GRB 000418",
+  "bibcode": "2000GCN...656....1H",
+  "createdOn": 957044753000,
+  "circularId": 656,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "A. Henden (USRA/USNO) reports on behalf of the USNO GRB team:\n\nWe have acquired preliminary UBVRcIc all-sky photometry for\nthe field of GRB000418 with the USNOFS 1.0-m telescope on one\nmarginally photometric night.  This 11x11arcmin field includes\nthe proposed counterpart and extends a little fainter than V=20.\nAll stars brighter than V=14 are saturated and should be used\nwith care.  We have placed the photometric data on our\nanonymous ftp site:\nftp://ftp.nofs.navy.mil/pub/outgoing/aah/grb/grb000418.dat\nThe current photometry has a potential external zero-point\nerror of about three percent.  The astrometry in this file\nis based on linear plate solutions with respect to USNO-A2.0.\nThe internal errors are less than 100mas.\n\nWe suggest the use of five comparison stars in the field\nuntil further photometry is obtained:\n\nID   x    y     U       B       V       R       I\nA   000  000  16.726  16.682  16.037  15.686  15.313\n               0.009   0.004   0.002   0.003   0.004\n\nB  -158 +050  19.695  18.530  17.480  16.834  16.329\n               0.110   0.013   0.007   0.009   0.012\n\nC  -060 +134  18.899  19.172  18.302  17.874  17.369\n               0.063   0.024   0.014   0.021   0.029\n\nD  -094 -006    -     20.489  19.663  19.168  18.046\n                       0.091   0.046   0.065   0.150\n\nE  -200 -042    -     19.874  18.982  18.549  18.046\n                       0.044   0.025   0.036   0.050\n\nNotes: star A is the Mirabal et. al. comparison star\nlocated at RA 12:25:25.65, DEC +20:04:57.4 J2000;\nx,y offsets are in arcsec with respect to this star,\npositive east and north."
+}

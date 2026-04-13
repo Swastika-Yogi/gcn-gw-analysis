@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080506: TLS afterglow detection in VRIZ",
+  "eventId": "GRB 080506",
+  "bibcode": "2008GCN..7688....1K",
+  "createdOn": 1210132947000,
+  "circularId": 7688,
+  "submitter": "Alexander Kann at TLS Tautenburg  <kann@tls-tautenburg.de>",
+  "email": "kann@tls-tautenburg.de",
+  "body": "D. A. Kann, C. Hoegner and S. Ertel (TLS Tautenburg) report:\n\nWe observed the afterglow of Swift GRB 080506 (Baumgartner et al., GCN \n7685, Kawabata et al., GCN 7686) with the Tautenburg 1.34m Schmidt \ntelescope 0.32 days after the GRB in good conditions (moderate \ntransparency but excellent seeing). We obtained a total of six 600 sec \nexposures, in the sequence Rc, V, Ic, Z, Z, Z before twilight forced us to \nshut down. The afterglow is well (Rc, V, Ic) and faintly (Z) detected in \nsingle images, and well detected in the 1800 sec stack of the three Z \nimages.\n\nWe find an afterglow position\n\nR.A. (J2000) = 21:57:41.775\nDec. (J2000) = +38:59:05.86\n\nin comparison with the USNOB1.0 catalog, with a precision of 0\".5 in each \ncoordinate. This is fully in agreement with the UVOT (Baumgartner et al., \nGCN 7685) and enhanced XRT (Osborne et al., GCN 7687) positions.\n\nAssuming the star at\n\nR.A. (J2000) = 21:57:39.84\nDec. (J2000) = +38:58:28.25\n\nto have Rc = 16.7 (magnitude is basically identical in R1 and R2 \nmagnitudes), we find for the afterglow:\n\ntime\tRc\tdRc\n\n0.31576\t20.77\t0.13\n\nTaking the two measurements from Kawabata et al. (GCN 7686), we find a \nshallow decay slope of alpha = 0.6 between 0.0025 and 0.316 days after the \nGRB.\n\nOur (and Swift's) clear detection in the V band implies z <~ 4. On the \nother hand, this was an image trigger, with faint emission seen up to ~ \n200 seconds. The initial XRT light curve (XRT repository, Evans et al. \n2007) is flat until 200 seconds before dropping off very steeply. This may \nsuggest that this GRB lies at moderately high redshift (3 - 4). \nSpectroscopy is encouraged.\n\nThis message may be cited."
+}

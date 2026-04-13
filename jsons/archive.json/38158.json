@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241030B: TESS detection of optical counterpart",
+  "eventId": "GRB 241030B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38158....1J",
+  "createdOn": 1731276621808,
+  "submitter": "Rahul Jayaraman at MIT <rjayaram@mit.edu>",
+  "circularId": 38158,
+  "format": "text/markdown",
+  "body": "R. Jayaraman (MIT), M.M. Fausnaugh (TTU), and G.R. Ricker (MIT) report:\n\nThe Transiting Exoplanet Survey Satellite (TESS; Ricker et al. JATIS 1 2015) observed GRB 241030B (Klingler et al., GCN 37981; Fermi GBM Team, GCN 37980)  during its scheduled sky survey. TESS observed this region continuously from 3.72 days before the trigger to 2.71 days after the trigger, at a cadence of 200 seconds. The GRB occurred during TESS observational Sector 85, and the localization fell within Camera 1, CCD 4.\n\nWe performed forced difference-imaging photometry at the location of the confirmed X-ray afterglow (Evans et al., GCN 37992) using the full-frame images from the publicly available TICA data archived at MAST (https://archive.stsci.edu/hlsp/tica). Our data reduction routine is described in Fausnaugh et al. 2023 (ApJ 956(2):108). \n\nWe detect an optical transient at the location of the GRB in the 3 exposures during and after the time of trigger from Klingler et al. The trigger occurred 115 seconds before the end of a concurrent 200-second TESS exposure. The optical transient has a magnitude of 16.40 ± 0.14 in the TESS band in this image. The magnitude falls to 16.50 ± 0.15 in the next exposure, and then 17.08 ± 0.25 mag in the third exposure. These values are in line with the upper limits of 16.2 (r) at T0+1 min, and 17.4 at T0+15 min from Klotz et al., GCN 37989. \n\nThis circular includes data collected with the TESS mission, obtained from the MAST data archive at the Space Telescope Science Institute (STScI). Funding for the TESS mission is provided by the NASA Explorer Program. STScI is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract NAS 5-26555.\n\n"
+}

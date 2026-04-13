@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB100702A",
+  "eventId": "GRB 100702A",
+  "bibcode": "2010GCN.10922....1D",
+  "createdOn": 1278077855000,
+  "circularId": 10922,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and M. H. Siegel (PSU) report on behalf of the\nSwift/UVOT team:\nThe Swift/UVOT began settled observations of the field of GRB 100621A 101s\nafter the BAT trigger (Siegel et al,  GCN 10916). The enhanced XRT error \ncircle appears crowded with sources (Malesani et al., GCN  10918, Fong et \nal, GCN 10919) which blend together. There is no clear indication of \nchange of optical flux between the first exposures and later ones. The \npreliminary magnitudes and 3-sigma upper limits for the finding chart \nexposures (FC) and summed images for the emission in the XRT enhanced \nerror circle are:\n\nFilter         T_start    T_stop     Exp(s)   Magnitude/3-sigma upper \nlimit\n-------------------------------------------------------------\nwhite (FC)     101        251       147       17.99 +/- 0.07\nwhite          594      10684      1295       17.84 +/- 0.05\n  u     (FC)    314        564       246       18.85 +/- 0.17\n  u            5020       5151       131       18.96 +/- 0.26\n  v            4405      17014       735       16.72 +/- 0.04\n  b             570       6306       216       17.79 +/- 0.08\nuvw1          4815       5015       196         > 19.60\nuvm2          4610       4810       197         > 19.40\nuvw2          4200      16457      1432         > 20.85\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected  Galactic\nextinction along the line of sight corresponding to E_(B-V) = 0.41 mag. \nAll photometry is on the UVOT photometric system described in Poole et al. \n(2008, MNRAS, 383, 627)."
+}

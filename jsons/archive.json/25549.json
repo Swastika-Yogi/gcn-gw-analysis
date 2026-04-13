@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190426c: Update on Probability of Terrestrial Origin",
+  "eventId": "LIGO/Virgo S190426c",
+  "bibcode": "2019GCN.25549....1L",
+  "createdOn": 1567090003000,
+  "circularId": 25549,
+  "submitter": "Deep Chatterjee at University of Wisconsin, Milwaukee  <deep@uwm.edu>",
+  "email": "deep@uwm.edu",
+  "body": "The LIGO Scientific Collaboration and Virgo Collaboration report:\n\nA revised computation of the classification of the candidate based on\ndetection-pipeline-specific foreground and background models is\navailable. The probability of the source being of terrestrial origin\nis now estimated to be 58% in contrast to the original estimation of\n14% in�� GCN Circular 24237. This revision was necessitated by a\nbug-fix in the source-classification code. This same bug-fix was used\nto update the event candidate S190510g, as reported in GCN Circular\n24462. We apologize for the delay in updating the information for this\nevent.\n\nThe estimated false alarm rate is unchanged at 1.9e-08 Hz, or about\none per 1.6 years. Note that future offline analyses may infer a\ndifferent terrestrial probability and/or false alarm rate.\n\nThe new p_astro.json file in GraceDB at\nhttps://gracedb.ligo.org/superevents/S190426c/ reports that the\nrevised classification of the candidate is Terrestrial (58%),\nBNS (24%), MassGap (12%), NSBH (6%) and BBH (<1%). Note that the\nparameter estimation based classification reported in GCN Circular\n24411 is unchanged: Assuming that the candidate S190426c is\nastrophysical in origin, the relative probabilities amongst the signal\ncategories NSBH : MassGap : BNS : BBH are approximately 12 : 5 : 3 : 0\nbased on posterior support."
+}

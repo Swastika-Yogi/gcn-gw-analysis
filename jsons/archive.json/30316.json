@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210610B: T-CAT optical observations",
+  "eventId": "GRB 210610B",
+  "bibcode": "2021GCN.30316....1M",
+  "createdOn": 1624632015000,
+  "circularId": 30316,
+  "submitter": "Denis Marchais at Amateur astronomer  <denis.marchais@free.fr>",
+  "email": "denis.marchais@free.fr",
+  "body": "I observed the field of GRB 210610B (Page et al., GCN #30170) with the\nT-CAT telescope 0.4-meter f/4 Newton with a f/3 reducer, IR-cut filter\nat 630nm and ZWO ASI533MC camera, located in Cintegabelle, France, on\nJune 11, 12 and 13.\n\nThe camera has a Sony sensor with Bayer filters R,G,B, that fairly \nmatch the standard Bc, Vc, and r' filters considering the additional\nIR-cut filter. Each observation results from stacking 120x 32s exposures.\n\nThe GRB OT is clearly detected in the stacked frames at the following\nlocation, matching other observations (e.g. , Fynho et al. GCN #30182,\nOsborne et al. GCN #30186) though approaching the detection limit on\nthird observation, June 13th.\n   RA(J2000)  = 16h 15m 40.39s\n   Dec(J2000) = +14d 23' 56.3\"\n\nThe following magnitudes were obtained thanks to PixInsight photometric \ncalibration using nearby APASS DR10 stars.\n\nDate        UT start     Filter   Exp. (s)    OT     err\n2021-06-11  23:52:21     Bc       120x 32     20.53  +/- 0.05\n2021-06-11  23:52:21     Vc       120x 32     20.00  +/- 0.04\n2021-06-11  23:52:21     r'       120x 32     19.64  +/- 0.04\n2021-06-12  22:48:22     Bc       120x 32     21.79  +/- 0.11\n2021-06-12  22:48:22     Vc       120x 32     20.91  +/- 0.07\n2021-06-12  22:48:22     r'       120x 32     20.90  +/- 0.10\n2021-06-13  22:45:36     Bc       120x 32     21.77  +/- 0.1\n2021-06-13  22:45:36     Vc       120x 32     21.42  +/- 0.09\n2021-06-13  22:45:36     r'       120x 32     21.76  +/- 0.2\n\nI thank A. Taylor, H.-B. Eggenstein and E. Broens (GCN#30205) for sharing\ninformation through the KNCatcher citizen-science programme initiated by\nS. Antier and A. Klotz as part of GRANDMA initiative (GRANDMA Observations\nof Advanced LIGO's and Advanced Virgo's Third Observational Campaign,\nAntier et al. https://arxiv.org/abs/2004.04277v2)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100504A: Swift/UVOT Observations",
+  "eventId": "GRB 100504A",
+  "bibcode": "2010GCN.10721....1S",
+  "createdOn": 1273095988000,
+  "circularId": 10721,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU) and J. Mao (INAF-OAB) report on behalf\nof the Swift/UVOT team.\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100504A 72s after the BAT trigger (Mao et al.,\nGCN Circ. 10712).  Data summed from the first and second orbits\ndo not reveal a source at the enhanced position of the X-ray\nafterglow (Mao et al., GCN Circ. 10713).\n\nThe 3-sigma upper limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER     T_start(s)  T_stop    Exposure     Mag/3UL\n========================================================\nwhite fc      72        222        147        >20.39\nwhite         73       1705        391        >20.91\nv            614       1755        136        >18.54\nb            713       1680         97        >19.35\nu           1463       1816         45        >18.43\nuvw1         836       1804         97        >18.92\nuvw2         762       1037         38        >18.43\n=======================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.87 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB110119: Swift/UVOT Detection",
+  "eventId": "GRB 110119",
+  "bibcode": "2011GCN.11587....1P",
+  "createdOn": 1295539726000,
+  "circularId": 11587,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. Pritchard (PSU) and E. Troja (NASA/GSFC/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110119A\n67 s after the BAT trigger (Troja et al., GCN Circ. 11581).  We  find\na detection in the data consistent with the enhanced  XRT position\n(Evans et al., GCN Circ. 11582).\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            67          217          147         16.52 +- 0.03\nu_FC               279          529          246         17.69 +- 0.09\nu                  279          529          246         17.69 +- 0.09\nv                  609        23078         1298         17.8 +- 0.7\nb                  535        29769         2006         16.5 +- 0.1\nu                  279        28857         1347         18.0 +- 0.4\nw1                 658        24777          990 >20.7\nm2                5290        23984         1263 >21.0\nw2                4880        18996         1165 >21.5\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.12 in the direction of the burst\n(Schlegel et al. 1998)."
+}

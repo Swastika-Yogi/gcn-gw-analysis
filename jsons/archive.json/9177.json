@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090419: Swift/UVOT Observations",
+  "eventId": "GRB 090419",
+  "bibcode": "2009GCN..9177....1S",
+  "createdOn": 1240259467000,
+  "circularId": 9177,
+  "submitter": "Michael Siegal at Swift/PSU  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU), E. A. Hoversten (PSU) and G. Stratta (ASDC) report\non behalf of the Swift/UVOT team.\n\nThe Swift/UVOT began observing the field of GRB 090419 126s after the\nBAT trigger (Stratta et al., GCN Circ. 9161).  Data summed over the  \nfirst\norbit reveals a very faint (3.3 sigma) source in the white filter at the\nrefined position of the X-ray afterglow (Osborne et al., GCN Circ.  \n9164).\nThis source is not detected in the second orbit data.\n\nThe detection and 3-sigma upper limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER     T_start(s)  T_stop     Exposure     Mag/3UL\n=============================================================\nwhite fc    126          276        147        > 20.69\nwhite       126         1706        410          21.07+-0.31\nwhite      5320         6956        393        > 21.25\n\nv           614         1756        136        > 18.93\nv          5732         7367        393        > 19.60\n\nb           540         1682        116        > 19.87\nb          5116        13394        572        > 20.69\n\nu           284         1829        362        > 20.25\nu          6346        13206       1081        > 20.89\n\nuvw1        664         1805        136        > 19.31\nuvw1       6142        12292       1118        > 20.63\n\nuvm2        639         1608         58        > 18.41\nuvm2       5936        17728        465        > 19.99\n\nuvw2        590         1731        136        > 19.37\nuvw2       5527         7162        393        > 20.13\n=============================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.296 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric system\ndescribed in Poole et al. (2008, MNRAS, 383, 627)."
+}

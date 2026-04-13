@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 677981: Swift detection of IGRJ17091-3624",
+  "bibcode": "2016GCN.19155....1B",
+  "createdOn": 1457259511000,
+  "circularId": 19155,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), H. A. Krimm (CRESST/GSFC/USRA) and\nK. L. Page (U Leicester) report on behalf of the Swift Team:\n\nAt 09:41:36 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated IGRJ17091-3624 (trigger=677981).  Swift slewed immediately to the source,\nalthough Swift was already looking at this source at the time of the trigger. \nThe BAT on-board calculated location is \nRA, Dec 257.250, -36.448, which is \n   RA(J2000)  =  17h 09m 00s\n   Dec(J2000) = -36d 26' 53\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers (10 min in this case),\nthere is nothing significant in the real-time light curve. \n\nNo source was detected in the 2.5-s image taken 676 seconds after the trigger. \nThe X-ray source was, however, bright enough to force the XRT to \nremain in WT mode. \n\nThis source is a black hole candidate, which has been reported \nto be in outburst by Miller et al (ATel #8742) and is being \nobserved as a Swift ToO.  The BAT transient monitor shows it \nto be brightening, reaching ~65 mCrab for the average of \n6 March 2016."
+}

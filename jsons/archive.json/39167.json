@@ -1,0 +1,11 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S250205ee: Updated Sky localization and Source Classification",
+  "eventId": "LIGO/Virgo/KAGRA S250205ee",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39167....1L",
+  "createdOn": 1738838125534,
+  "submitter": "Divyajyoti NLN <divyajyoti.nln@ligo.org>",
+  "circularId": 39167,
+  "format": "text/plain",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data around the time of the compact binary merger (CBC) candidate S250205ee (GCN Circular 39155). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.multiorder.fits,0, distributed via GCN Notice, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S250205ee\n\nAfter parameter estimation by RapidPE-RIFT [2], the updated classification of the GW signal, in order of descending probability, is BBH (>99%), Terrestrial (<1%), NSBH (<1%), or BNS (<1%).\n\nFor the Bilby.multiorder.fits,0 sky map, the 90% credible region is 1574 deg2. Marginalized over the whole sky, the a posteriori luminosity distance estimate is 2493 +/- 889 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/.\n\n [1] Ashton et al. ApJS 241, 27 (2019) doi:10.3847/1538-4365/ab06fc and Morisaki et al. (2023) arXiv:2307.13380\n [2] Rose et al. (2022) arXiv:2201.05263 and Pankow et al. PRD 92, 023002 (2015) doi:10.1103/PhysRevD.92.023002"
+}

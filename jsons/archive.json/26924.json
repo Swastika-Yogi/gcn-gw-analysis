@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S200128d: Upper limits from CALET observations",
+  "eventId": "LIGO/Virgo S200128d",
+  "bibcode": "2020GCN.26924....1C",
+  "createdOn": 1580277964000,
+  "circularId": 26924,
+  "submitter": "Yuta Kawakubo at Louisiana State U./CALET  <kawakubo1@lsu.edu>",
+  "email": "kawakubo1@lsu.edu",
+  "body": "N. Cannady (GSFC/UMBC),  A. Yoshida, T. Sakamoto,\nV. Pal'shin, S. Sugita (AGU), Y. Kawakubo (LSU), \nK. Yamaoka (Nagoya U), S. Nakahira (RIKEN),\nY. Asaoka, S. Torii (Waseda U), Y. Shimizu, \nT. Tamura (Kanagawa U), M. L. Cherry (LSU),\nS. Ricciarini (U of Florence), \nP. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe CALET Gamma-ray Burst Monitor (CGBM) was operating at the trigger\ntime of S200128d T0 = 2020-01-28 02:20:11.903 UT (The LIGO Scientific\nCollaboration and Virgo Collaboration, GCN Circ.26906).\n\nNo CGBM on-board trigger occurred around the event time. Based on the\nLIGO-Virgo localization sky map, the summed LIGO probabilities inside\nthe CGBM HXM (7 - 3000 keV) and SGM (40 keV - 28 MeV) fields of view\nare 26 % and 49 %, respectively (and 65 % credible region of the\ninitial sky map was above the horizon).  The HXM and SGM fields of\nview were centered at RA = 134.1 deg, Dec = +30.5 deg and RA = 126.1 \ndeg, Dec = +23.4 deg at T0, respectively.\n\nBased on the analysis of the light curve data with 0.125 sec time \nresolution from T0-60 sec to T0+60 sec, we found no significant \nexcess around the trigger time in either the HXM or the SGM data.\n\nThe CALET Calorimeter (CAL) was operating in the high energy trigger\nmode at the trigger time of S200128d. Using the CAL data, we have\nsearched for gamma-ray events in the 10-100 GeV band from -60 sec \nto +60 sec from the GW trigger time and found no candidates in the\noverwrap region with the LIGO-Virgo high probability localization\nregion. \n\nThe 90% upper limit of CAL is 4.6 x 10^-6 erg/cm^2/s (10-100 GeV) \nwhen the summed LIGO-Virgo probability reaches 10%.\nThe CAL FOV was centered at RA = 126.1 deg, DEC = +23.4 deg at\nT0."
+}

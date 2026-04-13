@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061006: Swift/UVOT optical observations",
+  "eventId": "GRB 061006",
+  "bibcode": "2006GCN..5711....1P",
+  "createdOn": 1160253232000,
+  "circularId": 5711,
+  "submitter": "Shashi Pandey at MSSL  <sbp2@mssl.ucl.ac.uk>",
+  "email": "sbp2@mssl.ucl.ac.uk",
+  "body": "S. B. Pandey and P. Schady (MSSL-UCL) report on behalf of\nthe Swift-UVOT team:\n\nThe Swift UVOT began observing the GRB 061006 field (trigger 232585), 129\nseconds after the BAT trigger (GCN 5699). No new source was detected\nin the co-added UVOT observations down to the following 3-sigma magnitude\nupper limits within the refined XRT error circle (GCN 5703):\n\nFilter        T_range (s)    Exposure (s)    3sigma UL\n\nV             129-18315      2131            20.85\nB             617-30237      789             21.23\nU             593-45827      2534            21.86\nW1            569-41793      2902            21.50\nM2            545-35908      3462            21.69\nW2            633-17402      1318            21.12\n\nT_range is calculated from the time of the burst. The upper limits\nare not corrected for Galactic extinction E(B-V) = 0.32 mag along\nthe line of sight to the burst."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240819A: TRT optical upper limits on the Swift/XRT and EP/FXT sources",
+  "eventId": "GRB 240819A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37207....1J",
+  "createdOn": 1724159615782,
+  "submitter": "Dong Xu at NAOC/CAS <dxu@nao.cas.cn>",
+  "circularId": 37207,
+  "format": "text/plain",
+  "body": "S.Q. Jiang, J. An (NAOC), S. Tinyanont, R. Anutarawiramkul, P. Butpan (NARIT), X. Liu, S.Y. Fu, Z.P. Zhu, S.Y. Gao, D. Xu, Z. Fan, W.X. Li, N.C. Sun, Y.N. Wang (NAOC) report on behalf of a large collaboration:\n\nWe observed the field of GRB 240819A detected by SVOM/Eclairs using the 0.7-m telescope of the Thai Robotic Telescope network (TRT), located at Fresno, California, US. Observations started at 09:41:45.015 UTC on 2024-08-19, i.e., 7.107 hr after the T0 of this GRB, and 16 x 240 s  frames were obtained in R-band aiming to cover the whole SVOM/Eclairs error circle.\n\nNo new optical source is detected within the X-ray error circles provided by Swift/XRT (Evans et al., GCN37203) and EP/FXT (Li et al., GCN 37206), down to the following 3-sigma optical upper limits:\n\nSource | R.A. | Dec. | Upper Limit (mag)\n--------------------------------------------------------\nXRT Source1          | 311.0531 | 49.6821 | R>19.0\nXRT Source2*         | 310.9468 | 49.5141 | N/A\nEP J204334.6+493448  | 310.8943 | 49.5800 | R>19.8\nEP J204347.6+493054* | 310.9483 | 49.5149 | N/A\nEP J204244.0+494023  | 310.6835 | 49.6730 | R>19.8\n\ncalibrated with PanSTARRS stars in the field and not corrected for Galactic extinction. The two sources marked with * are very likely an identical one detected by both Swift/XRT and EP/FXT, but not covered by TRT."
+}

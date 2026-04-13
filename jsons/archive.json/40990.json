@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250706A: GROWTH-India Telescope optical upper limit",
+  "eventId": "GRB 250706A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40990....1M",
+  "createdOn": 1751826064325,
+  "circularId": 40990,
+  "submitter": "Varun Bhalerao at IIT Bombay <varunb@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan, A.P. Saikia, A. Salgundi, V. Swain, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and R. Norbu (IAO) report on behalf of the GIT team:\n\nWe observed the field of Swift GRB 250706A (Moss et al., GCN 40988), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-07-06 16:04:55 UT, i.e., 16.4 min after the GRB trigger. We obtained multiple exposures each in r' and g' filters. After performing image subtraction using PanSTARRS reference images, we do not detect any afterglow candidates at the XRT localization. The photometric upper limits are as follows:\n\n| MJD (mid)    | Filter | tmid-t0 (min) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | ------------- | ------------------- | ---------------- |\n| 60862.670081 | r'     | 18.9          | 300                 | 20.0             |\n| 60862.682546 | g'     | 34.4          | 300                 | 20.3             |\n| 60862.699537 | r'     | 61.3          | 300                 | 20.5             |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe result is consistent with Swift UVOT upper limit (Moss et al., GCN 40988).\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM J195836+32283/sb25072103: NIR observations with WINTER",
+  "eventId": "sb25072103",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41138....1M",
+  "createdOn": 1753234008703,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "circularId": 41138,
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (MIT), Tomas Ahumada (Caltech), Viraj Karambelkar (Caltech), Benjamin Schneider (LAM), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of SVOM J195836+32283 (Götz et al., GCN 41131) in the near-infrared J and Hs bands with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations began at 2025-07-22T03:36:20 UTC in the J band and 2025-07-22T04:09:09 in the Hs band (~19 hours after the SVOM trigger), consisting of 15 x 120 s and 30 x 60 s exposures respectively. The images were processed using the WINTER data reduction pipeline implemented with mirar\n (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe do not detect any source at the SVOM/VT optical candidate location (Götz et al., GCN 41131). We obtain the following 5-sigma upper limits: J ~ 18.1 mag, Hs ~ 18.4 mag (AB).\n\nWe note the presence of a faint, unresolved, possibly extended source at the position of the SVOM/VT candidate in archival UKIRT UKIDSS J, H, and K-band imaging (Lawrence et al., 2007). We encourage further observations in the IR.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "UVOT observations of SAXJ1810.8-2609",
+  "bibcode": "2007GCN..6707....1S",
+  "createdOn": 1186335076000,
+  "circularId": 6707,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and A.M. Parsons (GSFC) report on behalf of the \nSwift-UVOT team:\n\nThe Swift/UVOT observed the field of SAXJ1810.8-2609 (trigger=287042) \nstarting 70 s after the BAT trigger (Parsons et al. 2007, GCN Circ.6706). \nOn refined analysis of the UVOT data, a fading source is detected in the \nwhite-band filter at the position of SAX J1810.8-2610. The source is not \ndetected in any other of the filters, in either single or coadded \nexposures.\n\nThe white band magnitude and 3-sigma upper limits in the other UVOT \nfilters are as follows:\n\nFilter  Tmid   Exposure\tMagnitude\n         (s)    (s)\nwhite\t119    98       19.25+/-0.12\n         915    98       20.32+/-0.28\nv       585    435      > 19.75\nb       737    19       > 18.90\nu       717    39       > 19.11\nuvw1    693    39       > 18.65\nuvm2    668    39       > 18.32\nuvw2    772    39       > 18.76\n\nwhere Tmid is the weighted mean time of the coadded exposures. The values \nquoted above are not corrected for the expected Galactic extinction \ncorresponding to a reddening of E_{B-V} = 0.95 mag in the direction of the \nburst (Schlegel et al. 1998)."
+}

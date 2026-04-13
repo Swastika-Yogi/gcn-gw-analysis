@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260120B: Fermi GBM Observation",
+  "eventId": "GRB 260120B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43489....1G",
+  "createdOn": 1769012492987,
+  "circularId": 43489,
+  "submitter": "Matt Godwin <msg0028@uah.edu>",
+  "format": "text/plain",
+  "body": "Matt Godwin (UAH) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 18:00:26.05 UT on 20 January 2026, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 260120B (trigger 790624831/260120750),\nwhich was also detected by Swift BAT (Ferro et al. 2026, GCN 43479), Swift XRT (Goad et al. 2026, GCN 43484),\n and SVOM/C-GFT (Wu et al. 2026, GCN 43483).\nThe Fermi GBM real-time localization (GCN 43477) is consistent with the Swift BAT position.\n\nThe angle from the Fermi LAT boresight is 10 degrees.\n\nThe GBM light curve consists of a single emission episode with a duration (T90)\nof about 7 s (50-300 keV). The time-averaged spectrum\nfrom T0-1.1 to T0+9.9 s is best fit by\na power law function with an exponential high-energy cutoff.\nThe power law index is -0.19 +/- 0.01 and the cutoff energy,\nparameterized as Epeak, is 214 +/- 4 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(3.1 +/- 0.1)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+0.38 s in the 10-1000 keV band is 5.8 +/- 0.3 ph/s/cm^2.\n\nA Band function fits the spectrum equally well\nwith Epeak= 152 +/- 2 keV, alpha = 0.36 +/- 0.02 and beta = -2.26 +/- 0.05.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

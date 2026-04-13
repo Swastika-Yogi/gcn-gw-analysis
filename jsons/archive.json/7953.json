@@ -1,0 +1,10 @@
+{
+  "subject": "UVOT observations of GRB080707",
+  "eventId": "GRB 080707",
+  "bibcode": "2008GCN..7953....1S",
+  "createdOn": 1215471164000,
+  "circularId": 7953,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and F.E. Marshall (NASA/GSFC) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT starting taking settled exposures of the field of GRB \n080707 80 s after the BAT trigger (Schady et al., GCN Circ. 7947). A faint \nsource is detected in the early white and v-band observations at\n\n     RA(J2000.0)  = 02:10:28.40 = 32.61833\n     Dec(J2000.0) = +33:06:34.2 = 33.10950\n\nwith an of 1.1 arcseconds (90% confidence), consistent with the enhanced \nXRT error circle (Starling et al., GCN Circ. 7951) and the GROND position \n(Clemens et al., GCN 7948).\n\nThe early-time afterglow and 3-sigma upper limits the in co-added frames \nare as follows:\n\nFilter T_start(s)  T_stop(s)  Exp(s)  Mag/3-sigma UL\n\nwhite   80          5469        294.0    21.40+/-0.31 (3.4 sigma)\nwhite   11355       12221       844.3    > 21.93\nv       186         5880        590.1    19.97+/-0.31 (3.4 sigma)\nb       3971        18004       1502.6   > 21.74\nu       640         17362       1040.0   > 21.18\nuvw1    616         16449       1101.7   > 21.41\nuvm2    591         22234       1101.7   > 21.29\nuvw2    5477        5676        196.6    > 20.22\n\nThe values quoted above are not corrected for the expected Galactic \nextinction corresponding to a reddening of E(B-V) = 0.10 mag in the \ndirection of the burst (Schlegel et al. 1998)."
+}

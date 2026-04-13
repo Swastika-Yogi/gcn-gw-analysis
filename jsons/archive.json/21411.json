@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170803A: Swift/UVOT Detection",
+  "eventId": "GRB 170803A",
+  "bibcode": "2017GCN.21411....1E",
+  "createdOn": 1501851864000,
+  "circularId": 21411,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and S. J. LaPorte (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 170803A\n88 s after the BAT trigger (LaPorte et al., GCN Circ. 21405).\nGRB 170803A was also triggered by Fermi GBM\n(Veres and Meegan GCN Circ. 21406)\nA fading source consistent with the XRT position\n(Beardmore et al., GCN Circ. 21407)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  11:39:44.11 = 174.93380 (deg.)\n    Dec (J2000) = -16:18:38.0  = -16.31055 (deg.)\nwith an estimated uncertainty of 0.44 arc sec. (radius, 90% confidence).\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC            88          238          147         18.10 +/- 0.06\nwhite              580         2241          322         19.69 +/- 0.12\nu_FC               300          550          246         18.58 +/- 0.16\nu                  775         2366          175         >19.34\nb                  556         2386          191         20.02 +/- 0.35\nuvw1              6216        23821          982         >20.74\nuvm2             17025        17715          679         >20.57\nuvw2              5602        30135          990         >21.05\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

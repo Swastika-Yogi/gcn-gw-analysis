@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190513bm: CALET Observations",
+  "eventId": "LIGO/Virgo S190513bm",
+  "bibcode": "2019GCN.24548....1S",
+  "createdOn": 1557892309000,
+  "circularId": 24548,
+  "submitter": "Yuta Kawakubo at Louisiana State U./CALET  <kawakubo1@lsu.edu>",
+  "email": "kawakubo1@lsu.edu",
+  "body": "T. Sakamoto, A. Yoshida, V. Pal'shin, S. Sugita (AGU),\nY. Kawakubo (LSU), K. Yamaoka (Nagoya U), \nS. Nakahira (RIKEN),  Y. Asaoka, S. Ozawa,\nS. Torii (Waseda U), Y. Shimizu, T. Tamura (Kanagawa U),\nN. Cannady (GSFC/UMBC),  M. L. Cherry (LSU),\nS. Ricciarini (U of Florence), P. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe CALET Gamma-ray Burst Monitor (CGBM) was operating at the \ntrigger time of S190513bm T0 = 2019-05-13 20:54:28.747 UT (The LIGO\nScientific Collaboration and Virgo Collaboration, GCN Circ. 24522). \n\nNo CGBM on-board trigger occurred around the event time.  Based \non the LIGO-Virgo localization sky map, most of the part of the high\nprobability area was inside of the field-of-view of SGM.  The summed \nLIGO probabilities inside the HXM and the SGM field of view are 33%\nand 95% (and 0% credible region of the initial localization map were \nEarth-occulted).  The HXM and SGM field of views were centered at\nRA = 355.5 deg, Dec=11.0 deg and RA = 348.0 deg, Dec = 4.3 deg at \nT0.\n\nBased on the analysis of the light curve data with 0.125 sec time \nresolution from T0-60 sec to T0+60 sec, we found no significant excess \n(signal-to-noise ratio >= 7) around the trigger time in either the HXM \n(7-3000 keV) or the SGM (40 keV -28 MeV) data. \n\nThe CALET Calorimeter (CAL) was operating in low energy trigger mode\nat the trigger time of S190513bm.  Using CAL data, we have searched for\ngamma-ray events in the 1-10 GeV band from -60 sec to +60 sec\nfrom the GW trigger time and found no candidates.\n\nThe 90% upper limit of CAL is 6.0x10^-5 erg/cm2/s (1-10 GeV) when\nthe summed LIGO-Virgo probability reaches 5%.  The CAL FOV was \ncentered at RA = 348.0 deg, Dec = 4.4 deg at T0."
+}

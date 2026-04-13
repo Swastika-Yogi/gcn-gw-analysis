@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070729: Swift-XRT refined analysis",
+  "eventId": "GRB 070729",
+  "bibcode": "2007GCN..6682....1G",
+  "createdOn": 1185720213000,
+  "circularId": 6682,
+  "submitter": "Cristiano Guidorzi at INAF-OAB  <cristiano.guidorzi@brera.inaf.it>",
+  "email": "cristiano.guidorzi@brera.inaf.it",
+  "body": "C. Guidorzi, P. Romano (U.Bicocca & INAF-OAB), A. Moretti (INAF-OAB)\nreport on behalf of the Swift-XRT team:\n\nwe have analysed the first five orbits of Swift-XRT data obtained for\nGRB 070729 (Guidorzi et al., GCN Circ. 6678), which include 9.1 ks of\nPhoton Counting (PC) data.\n\nWe find a refined X-ray position of RA, Dec (J2000) =\n56.31385, -39.32400 which is equivalent to:\n\nRA (J2000):  03 45 15.32\nDec (J2000): -39 19 26.4\n\nwith an uncertainty of 4.5 arcsec (radius, 90% confidence). This is 3.2\narcsec from the initial XRT position (GCN Circ. 6678) and 53 arcsec from\nthe BAT ground-calculated position (Sato et al., GCN Circ. 6681).\n\nThe XRT light-curve of the first orbit, in the time interval from\nT+95s to T+600s, shows a fading behaviour with a power-law index\nof 1.5+/-0.6. The upper limit on the count rate derived from the\ndata of the following orbits is consistent with it.\n\nThe spectrum (35 photons) can be fit using Cash statistics\nwith an absorbed power law with a photon index of 1.8+/-0.4\nand a column density consistent with the Galactic value\n(2.6e20 cm^-2; Kalberla et al. 2005).\nThe absorbed (unabsorbed) 0.3-10.0keV flux for the spectrum is\n(2.2+/-0.7)e-13 ((2.4+/-0.7)e-13) ergs cm^-2 s^-1, at mean time of\nT+0.13d.\n\nIf the decay continues with a slope of ~ 1.5, the count rate at 24\nhours is predicted to be 1e-5 count s^-1; this ranges between 4e-4 and\n3e-7 count s^-1, taking into account the uncertainties on the slope. Using\nthe spectral fit detailed above, this corresponds to an observed flux\n<2e-14 erg cm^-2 s^-1 (over 0.3-10 keV).\n\nThis circular is an official product of the XRT team."
+}

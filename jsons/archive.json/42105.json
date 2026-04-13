@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 251002A: NIR observations with WINTER",
+  "editedOn": 1759682416179,
+  "eventId": "GRB 251002A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42105....1M",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Geoffrey Mo at Caltech / Carnegie Observatories <gmo@mit.edu>",
+  "circularId": 42105,
+  "createdOn": 1759550585379,
+  "submitter": "Geoffrey Mo at Caltech / Carnegie Observatories <gmo@mit.edu>",
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (Caltech/Carnegie), Tomas Ahumada (Caltech), Viraj Karambelkar (Columbia/CCA), Benjamin Schneider (LAM), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 251002A (Saccardi et al., GCN 42060; Sun et al., GCN 42075; Kenya et al., GCN 42084; Smith et al., GCN 42093) in the near-infrared J band with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations began at 2025-10-03T03:49:03 UTC in the J band (~7.6 hours after the GRB trigger), consisting of 15 x 120 s exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar\n (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe do not detect a source at the optical counterpart location (Palmerio et al., GCN 42061; Turpin et al., GCN 42062; Jelinek et al., GCN 42063; Juliá-Maroto et al., GCN 42064; Moskvitin et al., GCN 42065; Perez-Garcia et al., GCN 42066; Senik et al., GCN 42067; Saccardi et al., GCN 42076; Mandarakas et al., GCN 42077; Cao et al., GCN 42078; Schneider et al., GCN 42080; Pankov et al., GCN 42081; Leonini et al., GCN 42082; Odeh et al., GCN 42087; Wortley et al., GCN 42091; Shilling et al., GCN 42099; Calapai et al., GCN 42101). We obtain the following 5-sigma upper limit: J ~ 19.2 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

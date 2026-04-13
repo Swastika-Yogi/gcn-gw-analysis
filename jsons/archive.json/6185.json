@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070309: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070309",
+  "bibcode": "2007GCN..6185....1H",
+  "createdOn": 1173473668000,
+  "circularId": 6185,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) and Cucchiara A. (PSU) report on the\nbehalf of the Swift UVOT team:\n\n     Swift/UVOT observed the field of GRB 070309 (Paizis, et al. 2007,\nGCN Circ. 6182) starting 13,906 s after the INTEGRAL/IBAS trigger.\nUVOT did not detect any source inside the INTEGRAL error circle,\nrelative to the DSS, down to the following 3 sigma upper limits.\n\nFilter  t_start(s)  t_stop(s)  Exp(s)  Mag 3-sig UL\n\n    V      14,525     14,868      274      19.3\n    B      14,215     14,365      147      20.0\n    U      14,061     14,211      147      19.7\n  UVW1     13,906     14,056      147      19.6\n  UVM2     14,930     15,080      147      19.5\n  UVW2     14,371     14,446      147      19.8\n\nThese upper limits are not corrected for the Galactic extinction,\ncorresponding to a reddening of E_{B-V} = 1.46 mag (Schlegel et\nal. 1998), in the direction of this burst.  We note that this\nburst lies in the Galactic plane towards the Galactic centre and\nthe field is very crowded."
+}

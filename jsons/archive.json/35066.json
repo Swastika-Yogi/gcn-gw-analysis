@@ -1,0 +1,10 @@
+{
+  "subject": " GRB 231115A: NuSTAR Follow-Up Observations",
+  "eventId": "GRB 231115A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35066....1G",
+  "createdOn": 1700160944630,
+  "submitter": "Brian Grefenstette at Caltech/NuSTAR <bwgref@srl.caltech.edu>",
+  "circularId": 35066,
+  "body": "B. Grefenstette and M. Brightman (Caltech) for the NuSTAR Team\n\nNuSTAR performed follow-up observations of GRB 231115A / magnetar giant flare (Burns GCN Circular 35038) in the direction of M82 (D'Avanzo et al. GCN Circ. 35036; Mereghetti et al. GCN Circ. 35037). The NuSTAR observation was centered on the potential optical counterpart location from GROWTH India (Kumar et al. GCN Circ 35041, Kumar et al., GCN Circ 35055).\n\nNuSTAR began observing at 2023-11-15T22:21:09, only ~four hours after the ToO trigger was approved. We report on the first ~40-ks of data.\n\nM82 has a number of bright point sources as well as extended emission that is unresolved by the NuSTAR PSF (see, e.g., Brightman et al 2020 ApJ 889 71, DOI:10.3847/1538-4357/ab629a). The NuSTR observation does not reveal any significant point sources outside of the central ~1-arcmin region of M82. No significant emission from the location of optical transient AT2023xvj at RA = 09:56:00.2, Dec = 69:40:29.2 (RA=149.000,Dec=+69.675) is seen, though this overlaps with the wings of the NuSTAR PSF from the central emission from M82 as well as extended emission in the galaxy. These observations are on-going.\n\nThe NuSTAR SINGS pipeline did not trigger on the GRB 231115A transient. We performed an off-line analysis of the NuSTAR shield data and the count rates from the X-ray detectors and do not see the transient in either set of data. This is unsurprising, as the NuSTAR CsI shield data are only stored at 1-Hz and short signals such as from this GRB are difficult to identify. The source was ~80 degrees from the Earth horizon and ~35-deg from the instrument boresight, which may also have been an unfavorable geometry for detecting the source in the CdZnTe detectors."
+}

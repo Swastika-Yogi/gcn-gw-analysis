@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050713A :  Swift-BAT Refined Analysis",
+  "eventId": "GRB 050713A",
+  "bibcode": "2005GCN..3597....1P",
+  "createdOn": 1121277861000,
+  "circularId": 3597,
+  "submitter": "David Palmer at LANL  <palmer@nis.lanl.gov>",
+  "email": "palmer@nis.lanl.gov",
+  "body": "D. Palmer (LANL), S. Barthelmy, L. Barbier (GSFC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (GSFC/UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (NASA GSFC/UMD), J. Nousek (PSU), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), M. Suzuki (Saitama),\nM. Tripicco (GSFC/SSAI), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the full data set from the recent telemetry downlink, further\nanalysis of Swift-BAT GRB 050713A (Trigger #145675; Falcone et al., GCN\nCirc 3581) yields a refined position of RA, Dec 320.587, +77.070 {21h\n22m 21s, +77d 04' 12\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% confidence, statistical+systematic).\n\nThe burst duration (T90) was determined to be 70 +/- 10 seconds (15-350\nkeV) starting at T-1.0 seconds.  There is an initial ~12 second long basically\nsquare hump which shows some structure:  three separate peaks of roughly\nequal intensity in the 15-50 keV energy band, but falling in intensity with time\nabove 100 keV.  There are additional, much smaller peaks at T-60, T+50\nT+65, and T+105 seconds.\n\nThe spectrum over the interval from T-70 to T+121 seconds can be fit\nwith a power law with photon index 1.58 +/- 0.07 and yields a fluence of\n9.1 +/- 0.6 X 10^-6 erg/cm^2 in the 15-350 keV band.  The peak flux\nin a 1-sec wide window starting at T+1.2 seconds is 6.0 +/- 0.4 ph/cm^2/sec."
+}

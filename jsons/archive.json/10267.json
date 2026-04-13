@@ -1,0 +1,10 @@
+{
+  "subject": "GRB091208B: Swift/UVOT refined analysis",
+  "eventId": "GRB 091208B",
+  "bibcode": "2009GCN.10267....1D",
+  "createdOn": 1260295207000,
+  "circularId": 10267,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and  C. Pagani (PSU)  report on\nbehalf of the Swift UVOT team.\n\n  The Swift UltraViolet/Optical Telescope (UVOT) began settled\nobservations of the GRB 091208B (Swift BAT trigger number 378559;\nPagani et al. GCN Circ. 10256) 119 s after the BAT trigger\nwith an exposure in the UVOT white filter.\n\n  A new optical source is found at position\nRA, Dec = 29.39204, 16.88967, corresponding to\n\n  RA  (J2000) =  01 57 34.09\n  Dec (J2000) = +16 53 22.82\n\nThis is within 0.6 arseconds from the XRT enhanced position\n(Osborne et al., GCN Circ. 10259) and consistent with it.\n  The detection is in all 3 filters UVOT used at early epoch.\n\n  The initial magnitudes are given below.\n\nFilter  Time(s)       Mag      Err\n\nwh      119-269      17.92    0.04\n\nb       588-605      18.38    0.29\n\nu       333-583      18.63    0.09\n\n  We caution that data analysis is slightly complicated by the\npresence of a dim source 3 arcsecond away from the afterglow.\n\n  The values quoted above are on the UVOT Photometric System\n(Poole et al., 2008, MNRAS 383,627). They are not corrected for\nthe expected Galactic extinction, corresponding to a reddening\nof E(B-V)=0.05."
+}

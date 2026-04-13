@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060210: Further refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060210",
+  "bibcode": "2006GCN..4748....1S",
+  "createdOn": 1139705852000,
+  "circularId": 4748,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/ORAU), L. Barbier (GSFC), S. Barthelmy (GSFC), \nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC), \nD. Hullinger (UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), G. Sato (ISAS), J. Tueller (GSFC), \nA. Beardmore (U Leicester)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-299.8 to T+302.2 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060210\n(trigger #180977)  (Beardmore, et al., GCN 4724; Parsons, et al., GCN 4734).  \nThe BAT ground-calculated position is (RA,Dec) \n= 57.729, 27.024  deg {3h 50m 55.1s, 27d 1' 27.5\"} (J2000)\n+- 1.0 arcmin, (radius, sys+stat, 90% containment).  \nThe partial coding was 41%.\n\nThe mask-weighted lightcurve shows many peaks with significant emission\npeaks starting at T-230 sec and the last peak at T+200.  We caution that\nthis on-going activity is a significant fraction of the t-300 to T+300 sec\ndata interval we have received so far.  This burst may have earlier or \nlater activity. The main activity is from T-75 to T+20 sec with the \nbrightest peak at T_zero.\nT90 (15-350 keV) is (255 +- 10) sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-227.5 to T+205.8 is best fit by \na simple power-law model.  The power law index of the time-averaged \nspectrum is 1.52 +- 0.09.  The fluence in the 15-150 keV band is \n(7.7 +- 0.4) x 10^-06 erg/cm2.  The 1-sec peak photon flux measured \nfrom T+0.00 sec in the 15-150 keV band is (2.8 +- 0.3) ph/cm2/sec.  \nAll the quoted errors are at the 90% confidence level. \n\n[GCN OPS NOTE(11feb06): Per author's request, the Beardmore author was added.]"
+}

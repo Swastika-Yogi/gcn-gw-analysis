@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120716A: Fermi GBM observation",
+  "eventId": "GRB 120716A",
+  "bibcode": "2012GCN.13498....1G",
+  "createdOn": 1342783265000,
+  "circularId": 13498,
+  "submitter": "David Gruber at MPE  <dgruber@mpe.mpg.de>",
+  "email": "dgruber@mpe.mpg.de",
+  "body": "David Gruber (MPE) and Adam Goldstein (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 17:05:03.91 UT on 16 July 2012, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 120716A (trigger 364151106 / 120716712).\n\nThis burst was localized by the IPN (Hurley et al., GCN 13487).\nThe GBM on-ground calculated location is consistent with the\nIPN location.\n\nThe angle from the Fermi LAT boresight is 63 degrees.\n\nThis burst was also independently detected by INTEGRAL SPI-ACS.\n\nThe GBM light curve consists of a bright precursor, followed\nby a double-peaked main emission after ~ 160 s.\nThe duration (T90) is about 234 s (50-300 keV).\nThe time-averaged spectrum of the precursor is best fit by\na power law function with an exponential\nhigh-energy cutoff.  The power law index is -0.84 +/- 0.11 and\nthe cutoff energy, parameterized as Epeak, is 173 +/- 18 keV.\nA Band function fits the spectrum equally well\nwith Epeak= 115 +/- 19 keV, alpha = -0.48 +/- 0.22 and beta = -2.19 +/- 0.17.\nThe time-averaged spectrum of the main emission is best fit by \na Band function with Epeak= 114 +/- 12 keV, alpha = -1.00 +/- 0.08\nand beta= -2.08 +/- 0.07.\n\nThe event fluence (10-1000 keV) is (1.47 +/- 0.01)E-05 erg/cm^2. \nThe 1-sec peak photon flux measured starting from T0-0.13 s \nin the 10-1000 keV band is 8.37 +/- 0.32 ph/s/cm^2.\n\nUsing the redshift of 2.48 (Greiner et al., GCN 13493; D'Elia et al., GCN 13494) \nand a standard cosmology model with H_0 = 71 km/s/Mpc, Omega_M = 0.27, \nOmega_Lambda = 0.73, this corresponds to an isotropic \nenergy release of ~ 3E+53 erg. \n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

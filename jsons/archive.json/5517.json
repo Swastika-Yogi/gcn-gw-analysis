@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060904B: Swift-XRT refined analysis",
+  "eventId": "GRB 060904B",
+  "bibcode": "2006GCN..5517....1G",
+  "createdOn": 1157374585000,
+  "circularId": 5517,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <grupe@astro.psu.edu>",
+  "email": "grupe@astro.psu.edu",
+  "body": "D. Grupe (PSU), O. Godet (U Leicester), and S. Barthelmy (GSFC)\nreport on behalf of the Swift/XRT team\n\n\nWe have analyzed the first 3 orbits with a total observing\ntime of 5.3 ks of Swift XRT data of GRB 060904B\n(Grupe et al., GCN 5505), with 4.9 ks in photon counting mode\n(pc) and 427s in Windowed Timing mode (WT).\n\nThe Photon Counting mode image\nprovides a refined XRT position:\n\nRA(J2000) = 03h 52m 50.26s,\nDec(J2000) = -00d 43' 32.5\"\n\nwith an error of 3.6\" (90% confidence). This position is 3.9\"\naway from the preliminary XRT position reported in GCN 5505.\n\n\nAfter the start of the XRT observation in pc mode, a giant\nflare started at 86s after the trigger and lasted to 490s\nafter the trigger. This flare has a total 0.3-10.0 keV flux\nof 2.2e-9 ergs/s/cm2 and a fluence of 8.8e-7 ergs/cm2.\nThe underlying afterglow decay slope is 1.11+/-0.25. The\npredicted flux 24h after the burst is 3e-13 ergs/cm2/s.\n\n\nSpectral fits to the Windowed Timing mode data during the\nflare suggest a significant absorption column density in\nexcess of the Galactic value (1.21e21 cm**-2). The spectrum\ncan be fitted by a single power law with a photon index\nGamma=2.16+/-0.04 and an absorption column density\nNH=4.09+/-0.13 e21. Using the redshift z=0.703 as reported by\nFugazza et al. (GCN 5513) the intrinsic absorption column density\nis NH,intr=7.6+/-0.4 e21 cm-2.\nThe spectrum of the pc mode data agrees\nwithin the errors with this result.\n\n\n\n\nThis circular is an official product of the Swift XRT Team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090519, Swift-BAT refined analysis",
+  "eventId": "GRB 090519",
+  "bibcode": "2009GCN..9406....1K",
+  "createdOn": 1242786623000,
+  "circularId": 9406,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA), S. D. Barthelmy (GSFC), \nW. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC), \nE. E. Fenimore (LANL), N. Gehrels (GSFC), C. B. Markwardt (GSFC/UMD), \nD. M. Palmer (LANL), A. M. Parsons (GSFC), M. Perri (ASDC), \nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU), \nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-119 to T+276 sec from the recent telemetry \ndownlink, we report further analysis of BAT GRB 090519 (trigger #352648)\n(Perri, et al., GCN Circ. 9400).  The BAT ground-calculated position is\nRA, Dec = 142.317, 0.190 deg which is\n   RA(J2000)  =  09h 29m 16.2s\n   Dec(J2000) = +00d 11' 23.9\"\nwith an uncertainty of 2.0 arcmin, (radius, sys+stat, 90% containment).\nThis is 0.8 arcmin from the enhanced XRT afterglow position (Goad et al.\nGCN Circ #9405).  The partial coding was 57%.\n \nThe mask-weighted lightcurve shows multiple overlapping peaks starting \nat about T-17 sec and ending about T+95 sec.  T90 (15-350 keV) is \n64 +- 10 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-12.4 to T+60.4 sec is best fit by a \nsimple power-law model.  The power law index of the time-averaged \nspectrum is 1.02 +- 0.20.  The fluence in the 15-150 keV band is \n1.2 +- 0.1 x 10-06 erg/cm2.  The 1-sec peak photon flux measured from \nT-10 sec in the 15-150 keV band is 0.6 +- 0.2 ph/cm2/sec.  All the \nquoted errors are at the 90% confidence level.\n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/352648/BA/"
+}

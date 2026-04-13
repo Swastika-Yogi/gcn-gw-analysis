@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Upper Limits for GRB061110b",
+  "eventId": "GRB 061110B",
+  "bibcode": "2006GCN..5814....1S",
+  "createdOn": 1163275727000,
+  "circularId": 5814,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (UCL-MSSL), D.B. Fox (PSU) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 061110b at 22:49:14 on \n2006-11-10 UT, ~50 minutes after the BAT trigger (Fox et al., GCN 5800). \nNo new source was detected within the XRT error circle (Grupe et al., GCN \n5811) or at the afterglow position reported by Melandri et al. (GCN 5804) \nin coadded images in any filter down to the following 3-sigma magnitude \nupper limits:\n\nFilter  T_mid (s)    Exp. (s) 3-sigma UL\n------------------------------------------------\nV       12256           1438    20.14\nB       19296           2815    21.57\nU       18864           2164    21.08\nUVW1    18288           1928    20.58\nUVM2    18192           1279    20.61\nUVW2    13376           1737    20.99\nWhite   15952           2494\t21.03\n------------------------------------------------\n\nT_mid is the mid time of the coadded exposure with respect to the BAT trigger. \nThese upper limits are not corrected for Galactic extinction E(B-V) = 0.04."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251028A: MAXI/GSC detection",
+  "eventId": "GRB 251028A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42498....1S",
+  "createdOn": 1761625037367,
+  "submitter": "Yuta Kawakubo at Aoyama Gakuin University <kawakubo@phys.aoyama.ac.jp>",
+  "circularId": 42498,
+  "format": "text/plain",
+  "body": "H. Sugai (Chuo U.), Y. Kawakubo, M. Serino (AGU), \nH. Negoro, M. Nakajima, K. Takagi, H. Takahashi, H. Nishio (Nihon U.),\nT. Mihara, T. Tamagawa, N. Kawai, M. Matsuoka (RIKEN),\nT. Sakamoto, S. Sugita,  H. Hiramatsu, Y. Kondo, A. Yoshida (AGU),\nY. Tsuboi, N. Nagashima, Y. Ishihara (Chuo U.),\nM. Shidatsu, C. Kang, T. Nakamoto (Ehime U.),\nI. Takahashi, Y. Yatsu (Science Tokyo),\nS. Nakahira, S. Ueno, H. Tomida, M. Ishikawa, S. Ogawa, M. Kurihara (JAXA),\nY. Ueda, K. Fujiwara (Kyoto U.),\nM. Yamauchi, M. Nishio, C. Hiraizumi (Miyazaki U.),\nK. Yamaoka (Nagoya U.),\nM. Sugizaki (Kanazawa U.),\nW. Iwakiri (Chiba U.),\nT. Kawamuro (Osaka U.),\nS. Yamada (Tohoku U)\nreport on behalf of the MAXI team:\n\nThe MAXI/GSC nova alert system triggered a bright uncatalogued X-ray transient source at \n03:27:06 UT on October 28, 2025.\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (149.003 deg, 17.518 deg) = (09 56 00, +17 31 04) (J2000)\nwith a statistical 90% C.L. elliptical error region\nwith long and short radii of 0.27 deg and 0.21 deg, respectively.\nThe roll angle of long axis from the north direction is 49.0 deg counterclockwise.\nThere is an additional systematic uncertainty of 0.1 deg (90% containment radius).\nThe X-ray flux averaged over the scan was 267 +- 43 mCrab\n(4.0-10.0keV, 1 sigma error).\n\nWithout assumptions on the source constancy, we obtain a rectangular error\nbox for the transient source with the following corners:\n(148.423, 18.362) deg = (09 53 41, +18 21 43) (J2000)\n(148.075, 17.954) deg = (09 52 17, +17 57 14) (J2000)\n(149.164, 17.109) deg = (09 56 39, +17 06 32) (J2000)\n(149.513, 17.514) deg = (09 58 03, +17 30 50) (J2000)\n\nThere was no significant excess flux in the previous transit at 02:15 UT \nwith an upper limit of 20 mCrab."
+}

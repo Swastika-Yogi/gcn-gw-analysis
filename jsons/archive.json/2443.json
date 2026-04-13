@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB031111 (=H2924): small error box",
+  "eventId": "GRB 031111",
+  "bibcode": "2003GCN..2443....1H",
+  "createdOn": 1068675685000,
+  "circularId": 2443,
+  "submitter": "Kevin Hurley at UCBerkeley/SSL  <khurley@sunspot.ssl.berkeley.edu>",
+  "email": "khurley@sunspot.ssl.berkeley.edu",
+  "body": "K. Hurley and T. Cline, on behalf of the Ulysses and HETE GRB teams,\n\nA. von Kienlin, G. Lichti, and A. Rau, on behalf of the INTEGRAL\nSPI-ACS GRB team, and\n\nG. Ricker, J-L Atteia, N. Kawai, D. Lamb, S. Woosley, J. Doty, R.\nVanderspek, J. Villasenor, G. Crew, G. Monnelly, N. Butler, J.G.\nJernigan, A. Levine, F. Martel, E. Morgan, G. Prigozhin, J. Braga, R.\nManchanda, G.  Pizzichini, Y. Shirasaki, C. Graziani, M. Matsuoka, T.\nTamagawa, K. Torii, T. Sakamoto, A. Yoshida, E. Fenimore, M. Galassi,\nT. Tavenner, T.  Donaghy, M. Boer, J-F Olive, and J-P Dezalay, on\nbehalf of the HETE GRB team, report:\n\nUlysses, INTEGRAL (SPI-ACS) and HETE (H2924: FREGATE and WXM) observed this\nburst at 60313 seconds.  Its position was reported in a GCN Notice on\nNovember 11 at 17:55:09.\n\nAs observed by Ulysses, it had a duration of approximately 10 seconds,\na 25-100 keV fluence of approximately  2.1E-06 erg/cm2, and a peak flux\nof approximately  1.1E-06 erg/cm2 s over 0.50 seconds.  These numbers\nare subject to more than the usual amount of uncertainty, as the\nbackground on Ulysses was about 3 times the normal rate due to solar\nprotons.\n\nWe have triangulated it to a preliminary annulus centered  at RA,\nDecl(2000)= 351.380, -16.219 degrees, whose radius is 86.229 +/-  0.012\ndegrees (3 sigma).  This intersects the WXM error box to form an\nerror box whose coordinates are:\n\n     RA(2000)     DEC(2000)\n      71.830      17.934\n      71.792      17.969\n      71.736      18.204\n      71.697      18.238\n\nThe combined WXM/IPN error box area is ~24 sq. arcmin., or ~75\ntimes smaller than the WXM-only error box.  A map has been posted\nat ssl.berkeley.edu/ipn3/031111.  This error box may be \nimproved."
+}

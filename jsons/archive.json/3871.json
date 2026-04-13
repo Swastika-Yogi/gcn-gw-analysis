@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050824: BAT refined analysis of a soft weak burst",
+  "eventId": "GRB 050824",
+  "bibcode": "2005GCN..3871....1K",
+  "createdOn": 1124944832000,
+  "circularId": 3871,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), K. Gendreau (GSFC), D. Hullinger (GSFC/UMD),\nE. Fenimore (LANL), N. Gehrels (GSFC), C. Markwardt (GSFC/UMD),\nP. Meszaros (PSU), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the full data set from the recent telemetry downlink, we\nreport further analysis of Swift-BAT GRB 050824 (trigger #151905)\n(Campana, et al., GCN 3866).  The ground-analysis position is\nRA,Dec 12.256 +22.618 (J2000) with an uncertainty of 3 arcmin\n(radius, 90%, stat+sys).  This is 1.9 arcmin from the onboard\nposition and 1.4 arcmin from the optical candidate reported by \nGorosabel et al. in GCN Circ. 3865.\n\nThe light curve shows a single peak with slow rise and slow decay.  \nT90 is 25 +- 5 seconds.  Fitting a simple power law over the \ninterval from T+38 to T+64 sec, the photon index is 2.7 +/- 0.4 \nwith a fluence of 2.3 +/- 0.5 x 10^-7 erg/cm^2 in the 15-150 keV \nband (90% c.l).  The peak flux in a 1-second wide window starting \nat T+53 sec is 0.5 +/- 0.2 ph/cm^2/sec (15-150 keV). \n\nThe original GCN Notices were delayed in transmission to the ground \nby 500 sec due to the burst happening during a telemetry downlink \nsession when the TDRSS real-time messages are held in a buffer until \nthe end of the downlink."
+}

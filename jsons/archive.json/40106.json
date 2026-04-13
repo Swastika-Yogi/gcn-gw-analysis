@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250406B (short/hard)",
+  "eventId": "GRB 250406B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40106....1K",
+  "createdOn": 1744045926473,
+  "circularId": 40106,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe bright, short-duration GRB 250406B\nwas detected by Konus-Wind, Mars-Odyssey (HEND), and Swift (BAT)\nat about 21400 s UT (05:56:40).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  316.521 (21h 06m 05s) +45.187 (+45d 11' 13\")\n Corners:\n  317.243 (21h 08m 58s) +45.058 (+45d 03' 28\")\n  315.809 (21h 03m 14s) +45.386 (+45d 23' 10\")\n  315.796 (21h 03m 11s) +45.310 (+45d 18' 36\")\n  317.227 (21h 08m 55s) +44.981 (+44d 58' 53\")\n ---------------------------------------------\nThe error box area is 289 sq. arcmin, and its maximum\ndimension is 1.078 deg (the minimum one is 4.53 arcmin).\nThe Sun distance was 63 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250406_T21401/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

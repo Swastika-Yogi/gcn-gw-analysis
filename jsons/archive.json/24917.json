@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-190629A: Upper limits from Fermi-GBM Observations",
+  "eventId": "IceCube-190629A",
+  "bibcode": "2019GCN.24917....1W",
+  "createdOn": 1561901258000,
+  "circularId": 24917,
+  "submitter": "Rachel Hamburg at UAH  <rkh0007@uah.edu>",
+  "email": "rkh0007@uah.edu",
+  "body": "J. Wood (NASA) and R. Hamburg (UAH) report on behalf of the\nFermi-GBM Team:\n\nFor the IceCube high-energy neutrino candidate event 190629A\n(GCN 24910), at the event time Fermi-GBM was observing the\nreported neutrino location at:\n\nRA = 27.22 (Dec value too close to pole for accurate error on RA) J2000\nDEC = 84.33 (+4.95/-3.13 deg 90% PSF containment) J2000\n\nThere was no Fermi-GBM onboard trigger around the event time\nof the neutrino candidate. An automated, blind search for gamma\n-ray transients below the onboard triggering threshold in Fermi-\nGBM also identified no counterpart candidates +/- 1 hour of event\ntime.\n\nThe GBM targeted search, the most sensitive, coherent search for\nGRB-like signals, was run from +/-30 s around the neutrino candidate\ntime. The most significant result from this search was found T0+12 s\non the longest timescale of ~10 s and was best fit with the \"normal\"\nspectral template described in arXiv:1612.02395. The GBM localization\nis centered at RA, DEC = (123.8, 25.0) with a 90% credible region\nspanning 10,084 square degrees. Modelling the neutrino localization\nas a Gaussian with a width of 3 degrees and centered at the\ncoordinates reported by IceCube, we find the spatial consistency\nbetween the localizations to be 1.8%. We therefore consider this\nsignal likely unrelated to IceCube-190629A.\n\nWe set upper limits on impulsive gamma-ray emission. Using the\nrepresentative soft, normal, and hard GRB-like templates\n(arXiv:1612.02395), we report the following 3 sigma flux upper limits\nover 10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale  Soft     Normal   Hard\n------------------------------------\n0.128 s:     7.6e-07  8.6e-07  1.5e-06\n1.024 s:     1.4e-07  2.7e-07  6.1e-07\n8.192  s:     6.8e-08  1.3e-07  2.6e-07"
+}

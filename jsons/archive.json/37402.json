@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240905E: Swift/UVOT Upper Limits",
+  "eventId": "GRB 240905E",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37402....1S",
+  "createdOn": 1725572388855,
+  "submitter": "Sam Shilling at Lancaster University <shilling.sam@gmail.com>",
+  "circularId": 37402,
+  "format": "text/plain",
+  "body": "S. P. R. Shilling (Lancaster U.) and S. Dichiara (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240905E\n95 s after the BAT trigger (Dichiara et al., GCN Circ. 37397).\n\nNo optical afterglow consistent with the initial XRT position\n(Dichiara et al., GCN Circ. 37397) is detected in the initial UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC       118\t    265\t\t   145\t\t  > 20.64\nv\t       95\t    106\t\t   11\t\t  > 17.38\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.057 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 211106A",
+  "eventId": "GRB 211106A",
+  "bibcode": "2021GCN.31055....1F",
+  "createdOn": 1636398101000,
+  "circularId": 31055,
+  "submitter": "Cori Fletcher at USRA  <cfletcher@usra.edu>",
+  "email": "cfletcher@usra.edu",
+  "body": "C. Fletcher (USRA) reports on behalf of the Fermi-GBM Team:\n\nSwift/BAT-GUANO detected GRB 211106A at 04:37:31.2 UT (GCN 31049).  This event\nwas also detected by INTEGRAL/SPI-ACS #9504 and Konus-Wind (GCN 31054). There was no Fermi-GBM onboard trigger around the event.\n\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM identified no counterparts.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals identified a transient most significantly on the 0.256 s\ntimescale, with a location consistent with the Swift/BAT-GUANO event, using\nthe standard search protocol with a S/N of 22. This event was detected\n ~10 s after GBM exited SAA. The GBM targeted search event was found with\nthe highest significance with a \"normal\" spectrum (Band function with\nEpeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

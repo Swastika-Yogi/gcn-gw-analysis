@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230204B: Swift-XRT afterglow detection",
+  "eventId": "GRB 230204B",
+  "bibcode": "2023GCN.33285....1D",
+  "createdOn": 1675696586000,
+  "circularId": 33285,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "V. D'Elia (SSDC & INAF-OAR), A.P. Beardmore (U. Leicester), P. D'Avanzo\n(INAF-OAB), M.G. Bernardini (INAF-OAB), E. Ambrosi  (INAF-IASFPA) ,\nD.N. Burrows (PSU), J. D. Gropp (PSU), S. Dichiara (PSU), J.P. Osborne\n(U. Leicester) and P.A. Evans (U. Leicester) report on behalf of the\nSwift-XRT team:\n\nSwift-XRT has performed follow-up observations of the MAXI-detected\nburst GRB 230204B (Serino et al. GCN Circ. 33265). A possible optical\ncounterpart was reported by GIT (Swain et al. GCN Circ. 33269).\nSwift-XRT observations consist of 4.2 ks of Photon Counting (PC) mode\ndata between T0+80.5 ks and T0+97.9 ks.\n\nOne uncatalogued X-ray source has been detected consistent with the GIT\nposition. The source is below the RASS limit but does not show\ndefinitive signs of fading. This is most likely the afterglow, given\nalso the reported redshift of z=2.14 (Saccardi et al. GCN Circ. 33281)\nbut further observations are required to assess for fading. Details of\nthis source are given below:\n\nSource 3:\n  RA (J2000.0):  197.6441  =  13:10:34.58\n  Dec (J2000.0): -21.7164  =  -21:42:58.9\n  Error: 7.4 arcsec (radius, 90% conf.)\n  Count-rate: (5.6 +/- 1.5)e-3 ct s^-1\t \n  Distance: 8 arcsec from MAXI position.\n  Flux: (3.8 +/- 1.0)e-13 erg cm^-2 s^-1 (observed, 0.3-10 keV)\n\nThe results of the XRT-team automatic analysis of the XRT observations,\nincluding a position-specific upper limit calculator, are available at\nhttps://www.swift.ac.uk/ToO_GRBs/00021535.\n\nThis circular is an official product of the Swift-XRT team."
+}

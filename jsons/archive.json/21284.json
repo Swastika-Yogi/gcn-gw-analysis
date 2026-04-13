@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G274296: Updated localization from LIGO data",
+  "eventId": "LIGO/Virgo G274296",
+  "bibcode": "2017GCN.21284....1L",
+  "createdOn": 1498768147000,
+  "circularId": 21284,
+  "submitter": "Marco Drago at Albert Einsein Inst/Hanover  <marco.drago@aei.mpg.de>",
+  "email": "marco.drago@aei.mpg.de",
+  "body": "The LIGO Scientific Collaboration and Virgo report:\n\nWe have performed the off-line analysis of the LIGO data around\nthe time of the burst event G274296 using the Coherent WaveBurst\n(Klimenko et al., PRD 93, 042004 (2016)) with a better estimation\nof the background. The new estimated FAR is one event in 6 months.\nThe low significance of this candidate is not expected to improve\nwith further analysis.\n\nAn updated localization,  skyprobcc_cWB_170629.fits, is available for\nretrieval\nfrom the GraceDB event page:\n\nhttps://gracedb.ligo.org/events/G274296\n\nThis is the preferred sky map at this time. The localization is consistent\nwith the previous sky map, however, its error region is smaller due to\nimproved\ncalculation of the coherent Waveburst skymaps for the low SNR events.\nThe 50% credible region spans 245 deg2 and the 90% credible region spans\n1153 deg2.\n\nFurther updates on our analysis of this event will be sent as they become\navailable.\n\n[GCN OPS NOTE(29jun17):  Per adminstrator's request, the author-generated\n5-line title block was removed, leaving only the GCN-generated 5-line title block.]"
+}

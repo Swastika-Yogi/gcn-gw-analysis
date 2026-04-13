@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250222A: SVOM/GRM observation of a burst",
+  "eventId": "GRB 250222A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39454....1S",
+  "createdOn": 1740402904449,
+  "circularId": 39454,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Yue Huang, Shi-Jie Zheng, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP) \n\nSVOM/ECLAIRs team: Frédéric Piron (LUPM), Nicolas Dagoneau (CEA), Maria-Grazia Bernardini (INAF-OAB), Jean-Luc Atteia, Sébastien Guillot (IRAP)\n\nreport on behalf of the SVOM team:\n\nSVOM/GRM was triggered in-flight by a long burst GRB 250222A (SVOM trigger reference: sb25022201) at 2025-02-22T14:24:26.100 UTC (T0).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve of 15 to 600 keV shows that this burst consists of multi-pulses with a T90 of 4.3 +0.6/-0.5 s.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250222A.png\n\nThe SVOM/GRM on-ground localization of this burst is (J2000):\nRA: 284.2 deg\nDEC: -61.0 deg\nError: 1.6 deg (1sigma, statistical only)\nWe caution that the calibration of SVOM/GRM is undergoing and this localization is subject to systematic errors. \n\nIn addition, this burst was detected by the Count-Rate Trigger onboard ECLAIRs, as an increase in counts over background, but it was not localized by the coded-mask imaging process, which confirms that the burst occurred outside the ECLAIRs field of view.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Chen-Wei Wang (IHEP) (cwwang@ihep.ac.cn)\n\n"
+}

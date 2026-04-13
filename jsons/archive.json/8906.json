@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 090217",
+  "eventId": "GRB 090217",
+  "bibcode": "2009GCN..8906....1G",
+  "createdOn": 1234987306000,
+  "circularId": 8906,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam, report:\n\nThe long GRB 090217 (Fermi/GBM trigger 256539404/ 090217206: von \nKienlin, GCN 8902) localized by Fermi/LAT (Ohno et al., GCN 8903) and \nIPN (Mitrofanov et al., GCN 8905)\ntriggered Konus-Wind at T0=17804.799 s UT (04:56:44.799) .\n\nAs observed by Konus-Wind the burst\nhad a fluence of 3.13(-0.30, +0.35)x10^-5 erg/cm2,\nand a 256-ms peak flux measured from T0+4.592 s\nof 4.72(-0.81, +0.86)x10^-6 erg/cm2/s\n(both in the 20 keV - 4 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+24.832 s) is well fitted (in the 20 keV - 4 MeV\nrange) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.87(-0.14, +0.15),\nand Ep = 534(-78, +105) keV (chi2 = 71.5/73 dof).\nFitting by GRB (Band) model yields:\nthe low-energy photon index alpha = -0.80(-0.16, +0.18),\nthe high energy photon index beta < -2.19,\nthe peak energy Ep = 480(-82, +120) keV (chi2 = 70.0/72 dof).\n\nAll the quoted errors are at the 90% confidence level."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090621A: Swift-BAT refined analysis",
+  "eventId": "GRB 090621A",
+  "bibcode": "2009GCN..9546....1C",
+  "createdOn": 1245633259000,
+  "circularId": 9546,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nP.A. Curran (MSSL-UCL), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nA. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+243 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 090621A (trigger #355303)\n(Curran, et al., GCN Circ. 9540).  The BAT ground-calculated position is\nRA, Dec = 10.987, 61.938 deg, which is \n   RA(J2000)  =  00h 43m 56.8s \n   Dec(J2000) = +61d 56' 17.6\" \nwith an uncertainty of 1.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 77%.\n \nThe mask-weighted light curve shows two small precursor peaks starting\nat ~T-30 sec, peaking at ~T-20 and T+10 sec, and returning to background\nat ~T+100 sec.  Then the mmain emission starts at ~T+210 sec, peaks at ~T+240\nand T+265 sec, and returns to background around T+350 sec.\nT90 is not possible because of a lack of the complete set of event by event\ndata set for this burst.   This also prevents giving spectral results."
+}

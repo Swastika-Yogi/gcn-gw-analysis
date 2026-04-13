@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220130A",
+  "eventId": "GRB 220130A",
+  "bibcode": "2022GCN.31548....1S",
+  "createdOn": 1644015434000,
+  "circularId": 31548,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team, and\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 220130A\n(GECAM detection: Zhao et al., GCN Circ. 31533;\nFermi-GBM detection: Lesage et al., GCN Circ. 31538)\nwas detected by Fermi (GBM trigger 665277280), GECAM-B (GRD),\nKonus-Wind, and INTEGRAL (SPI-ACS) at about 83676 s UT (23:14:36).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n-----------------------\nRA(2000)    Dec(2000)\n    deg          deg\n-----------------------\nCorners:\n    5.551      -47.554\n  358.843      -46.178\n  343.052      -61.567\n  348.140      -66.257\n------------------------\nThe error box area is 94.5 deg2, and its maximum\ndimension is 19 deg (the minimum one is 4.9 deg).\nThe Sun distance was about 58 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi (GBM) and GECAM localizations.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220130_T83760/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

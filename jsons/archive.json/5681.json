@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061002: Swift-XRT Team Refined Analysis",
+  "eventId": "GRB 061002",
+  "bibcode": "2006GCN..5681....1P",
+  "createdOn": 1159776157000,
+  "circularId": 5681,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) and J.K. Cannizzo (NASA/UMBC) report on behalf of \nthe Swift-XRT team:\n\nWe have analysed the first 3 orbits of GRB 061002 data obtained by the\nSwift-XRT. Using the 4.5 ks of Photon Counting data from the second and\nthird orbits (the first orbit of data was entirely in Windowed Timing\nmode), we find a refined position of:\n\nRA(J2000)  =  14 41 23.29\nDec(J2000) = +48 44 30.5\n\nwith an estimated uncertainty of 7.5 arcsec (90% confidence, including \nboresight uncertainties). This lies 7.8 arcsec from the initial XRT \nposition given by Cannizzo et al. in GCN Circ. 5675, and 60.7 arcsec from \nthe ground-calculated BAT position (GCN Circ. 5678; Hullinger et al.)\n\nThe X-ray light-curve shows a break from a steep decay slope of alpha_1 =\n2.97 +/- 0.31 to alpha_2 = 1.25 +/- 0.12 at about 304 seconds after the\ntrigger.\n\nThe Windowed Timing spectrum can be modelled by a power-law with a column \ndensity in excess of the Galactic value in that direction. The fit \nparameters are: Gamma = 2.19 +0.36/-0.31 and NH_excess = (1.5 \n+0.8/-0.7)e21 cm^-2 (in addition to NH_Galactic = 2.07e20 cm^-2). The mean \nobserved (unabsorbed) flux over this first orbit (138-1345s after the \nburst) was found to be 1.24e-11 (1.90e-11) erg cm^-2 s^-1.\n\nIf the decay continues at a rate of alpha = 1.25, the estimated count rate\nat 24 hours will be 4.1e-4 count s^-1, corresponding to an observed\n(unabsorbed) flux of 1.86e-14 (2.79e-14) erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060105: XRT refined analysis",
+  "eventId": "GRB 060105",
+  "bibcode": "2006GCN..4433....1G",
+  "createdOn": 1136487112000,
+  "circularId": 4433,
+  "submitter": "Olivier Godet at U.of Leicester  <og19@star.le.ac.uk>",
+  "email": "og19@star.le.ac.uk",
+  "body": "O. Godet, K. Page, A. Bearmore, J. Osborne (U. Leicester), D. N. Burrows\n(PSU), D. Grupe (PSU), H. Ziaeepour (UCL-MSSL), P. Boyd (GSFC-UMBC), L.\nAngelini (GSFC-JHU) report on behalf of the Swift XRT team:\n\nWe analyzed the first 5 orbits of XRT data from GRB 060105.  A 10.2ks\nphoton counting (PC) mode image provides a refined XRT position:\n\nRA(J2000) = 19h 50m 00.6s\nDec(J2000) = +46d 20' 58.3''\n\nwith an uncertainty of 3.2 arcsecs (90% containment). This position is\n4.5 arcsecs away from the on-board XRT position quoted in Ziaeepour et\nal. (GCN 4429) and includes the latest XRT boresight correction. This\nposition is 83 arcseconds from the BAT position (Ziaeepour et al., GCN\n4429).\n\nThe X-ray light curve can be fit with a double broken power-law with an\ninitial decay slope of alpha1 = -1.16+/-0.14, a break at t1-T = 196 +\n23/-29s, and a shallower post-break slope of alpha2 = -0.80+/-0.02,\nfollowed by another break at t2-T = 3306+/-200s and a steeper decay\nslope of alpha3 = -2.30+/-0.08.\n\nAn absorbed power-law fit of the WT data (first orbit) from T+187s to\nT+1287s gave a photon index of 2.06+/-0.03 and an excess absorption\nvalue of (2.4+/-0.2)e21 cm**-2. The error bars are given at a 90%\nconfidence level. The Galactic hydrogen column density in the direction\nof the burst is 1.8e21 cm**-2. The spectrum of the PC data (4 orbits)\ncan be fit by an absorbed power-law with Gamma=2.17+/-0.16 and excess\nabsorption of (2.8+/-0.8)e21 cm**-2.\n\nIf the burst continues decaying at the current rate (alpha3) we estimate\nan XRT count rate of 0.0029 counts/s at T + 24hr, which corresponds to\nan observed 0.5-10.keV flux of 6.26e-13 ergs cm**-2 s**-1 and an\nunabsorbed flux of 9.82e-13 ergs cm**-2 s**-1."
+}

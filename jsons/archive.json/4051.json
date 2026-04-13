@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051001:  Swift Detection of a Burst",
+  "eventId": "GRB 051001",
+  "bibcode": "2005GCN..4051....1M",
+  "createdOn": 1128167729000,
+  "circularId": 4051,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "A. Moretti (OAB), J. Cummings (GSFC-NRC),\nN. Gehrels (GSFC), S. Hunsberger (PSU), H. Krimm (GSFC-USRA),\nC. Markwardt (GSFC-UMD), F. Marshall (GSFC), D. Palmer (LANL),\nP. Romano (OAB),  on behalf of the Swift team:\n\nGRB 051001:  Swift Detection of a Burst\n\nAt 11:11:36 UT, Swift-BAT triggered and located GRB051001\n(trigger=157870). The spacecraft slewed immediately, which in\nthis case was 75 seconds after the image trigger.  The BAT\non-board calculated location is RA,Dec 350.973d, -31.528d\n{23h 23m 53s, -31d 31' 39\"} (J2000), with an uncertainty\nof 3 arcmin (radius, 90% containment, stat+sys).  Since this\nwas an image trigger there is no obvious information in the light curve.\n\nXRT began observing the field at 11:14:42, 185 seconds after the\nBAT trigger.  Onboard centroiding found a bright fading uncatalogued\nX-ray source in the field of view at the following coordinates:\nRA(J2000):   23h 23m 49.1\nDec(J2000):  -31d 31' 15.6\"\nWe estimate the uncertainty of this position to be 6 arcseconds\n(radius, 90%  containment).  This position is 61 arcseconds\nfrom the BAT position above.\n\nUVOT began observing the field 189 seconds after the trigger.\nThe small image does not overlap the XRT error circle.\nNo new source was seen in the list of sources from the entire\nUVOT field of view.\n\nWe are currently in the portion of the orbits where the spacecraft\ndoes not pass over the Malindi downlink station.  Therefore, it will\nbe at least four hours before we have access to the full data set\nfor the refined analyses."
+}

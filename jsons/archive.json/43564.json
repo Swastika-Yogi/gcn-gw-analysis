@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 260121A ",
+  "eventId": "GRB 260121A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43564....1K",
+  "createdOn": 1769728215779,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 43564,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge, M. Hui,\nand E. Burns on behalf of the Fermi GBM team,\n\nG. Waratkar, J.Joshi, V. Bhalerao, D. Bhattacharya, A. Arya,\nand S. Vadawale, on behalf of the Astrosat-CZTI team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, A. Tohuvavohu,\nand J. DeLaunay on behalf of the Swift-BAT team,\n\nand\n\nD. Kapshtan, M. Orlov, V. Bazunova, E. Shchepin, E. Meltsov,\nK. Starikov, A. Khogoev, on behalf of the 239Alferov team,\nreport:\n\nThe long-duration GRB 260121A\nwas detected by Fermi (GBM; in continuous TTE data),\nKonus-Wind, Astrosat (CZTI), INTEGRAL (SPI-ACS),\n239Alferov CubeSat, and BepiColombo-MGNS\nat about 8552 s UT (02:22:32).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  213.591 (14h 14m 22s) -62.629 (-62d 37' 45\")\n Corners:\n  212.178 (14h 08m 43s) -65.088 (-65d 05' 17\")\n  212.129 (14h 08m 31s) -64.984 (-64d 59' 01\")\n  214.879 (14h 19m 31s) -60.111 (-60d 06' 38\")\n  214.922 (14h 19m 41s) -60.220 (-60d 13' 11\")\n ---------------------------------------------\nThe error box area is 855 sq. arcmin, and its maximum\ndimension is 5.13 deg (the minimum one is 3 arcmin).\nThe Sun distance was 72 deg.\n\nThe localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260121_T08549/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

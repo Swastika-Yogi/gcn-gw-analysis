@@ -1,0 +1,11 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S251112cm: GRANDMA observations of the skymap",
+  "eventId": "LIGO/Virgo/KAGRA S251112cm",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42699....1H",
+  "createdOn": 1763241003147,
+  "submitter": "antier@ijclab.in2p3.fr",
+  "circularId": 42699,
+  "format": "text/plain",
+  "body": "P. Hello (IJCLAB), D. Akl (NYUAD), S. Antier (IJCLAB), A. Klotz (IRAP), M. Mazek (FZU), M. Pillas (IAP), O. Pyshna (Caltech), C. Andrade (UMN), M. Coughlin (UMN), C. Douzet (IJCLAB), S. Karpov (FZU), T. duLaz (Caltech), R. LeMontagner (IJCLAB), C. Limonta (OCA), Y. Rajabov (UBAI), D. Turpin (CEA-AIM) on behalf of the GRANDMA collaboration:\n\nWe observed the S251112cm (Initial, as provided by GCN 42650, LVK collaboration) sky localization area with wide field telescopes TAROT/TRE, TAROT/TCH, TAROT/TCA, FRAM-FZU,together with the 60 cm telescope at Les Makes Observatory. Observations started at 2025-11-12 17:14 UTC, e.g 1h56 after the trigger time and during 14h. We used the SkyPortal application (skyportal.io) and associated services to monitor this observational campaign (Coughlin et al. 2018, 2023).\n\nOur sensivity map of the GW sky localization area has been computed using Pillas et al., 2025 and is accessible at https://grandma-owncloud.ijclab.in2p3.fr/index.php/s/TqGach7PpbM4d3K. \n\nWe covered 22% of the Initial sky localization area (Bayestar, GCN 42650 LVK collaboration) and 16% of the Updated sky localization area (Bilby, GCN 2690, LVK collaboration). Preliminary analysis did not reveal any clear candidate that can be associated to the event (with limit magnitudes ranging from 17 to 21 mag in r-band at 5 sigma). We re-conducted a second epoch of observations the day after.\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2025). Images obtained were calibrated using the PanSTARRS DR1 catalog.\n\nWe are currently investigating candidates reported by other collaborations.\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

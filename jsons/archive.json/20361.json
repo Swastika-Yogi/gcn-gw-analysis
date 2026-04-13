@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170101B: POLAR observation",
+  "eventId": "GRB 170101B",
+  "bibcode": "2017GCN.20361....1L",
+  "createdOn": 1483455907000,
+  "circularId": 20361,
+  "submitter": "Yuanhao Wang at IHEP/CAS  <wangyuanhao@ihep.ac.cn>",
+  "email": "wangyuanhao@ihep.ac.cn",
+  "body": "Hancheng Li (IHEP), Yuanhao Wang (IHEP), Zhengheng Li (IHEP)\nreport on the behalf of the POLAR collaboration:\n\nAt 2017-01-01T02:47:18.27 UT (T0), during a routine on-ground\nsearch of data, POLAR detected the GRB 170101B, which was also\ndetected by the Fermi/GBM (trigger 504953918/170101374).\n\nThe POLAR light curve consists of multiple peaks,\nwith a duration (T90) of 11.2 s measured from T0+0.3 s.\nThe 0.2-s peak rate measured from T0+8.1 s is 968 cnts/s,\nthe total counts is about 5217 cnts. The above measurements\nare in the energy range of approximately 80-500 keV.\n\nLC_URL:\nhttp://polar.ihep.ac.cn/grb/2017/01/GRB170101B/lc/GRB170101B.JPG\n\nUsing the best location from the Fermi/GBM, which is (J2000):\nRA:    70.640[deg]\nDec:    -1.580[deg]\nErr:     1.2[deg]\n\nthe incident angle in POLAR coordinate at T0 is:\ntheta:    63.43[deg]\nphi:   -110.01[deg]\n\nThe Minimum Detectable Polarization(MDP) for this burst is\nestimated to be ~23.5% [1-sigma, statistical only]. \n\nAll analysis results presented above are preliminary.\n\nPOLAR is a dedicated Gamma-Ray Burst polarimeter (50-500 keV) on-board\nthe Chinese space laboratory Tiangong-2 launched on Sep 15, 2016. \nMore information about POLAR can be found at:http://polar.ihep.ac.cn/en/, \nhttp://isdc.unige.ch/polar/and http://polar.psi.ch/html/.\n\n[GCN OPS NOTE(03jan17):  Per operator, the SUBJECT-line  was corrected\nfrom \"170101A\" to \"170101B\".]"
+}

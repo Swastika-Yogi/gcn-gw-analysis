@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250106A: NOT optical observations",
+  "editedOn": 1736215405482,
+  "version": 2,
+  "eventId": "GRB 250106A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.38834....1I",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Daniele B. Malesani at IMAPP / Radboud University <d.malesani@astro.ru.nl>",
+  "circularId": 38834,
+  "createdOn": 1736214472862,
+  "submitter": "Daniele B. Malesani at IMAPP / Radboud University <d.malesani@astro.ru.nl>",
+  "format": "text/plain",
+  "body": "L. Izzo (INAF/OACn and DARK/NBI), D. B. Malesani (DAWN/NBI and Radboud Univ.), D. Xu (NAOC), Z.P. Zhu (NAOC), X. Liu (NAOC), T. Pursimo (NOT), report on behalf of a larger collaboration:\n\nWe observed the field of GRB 250106A (Zhao et al., GCN 38826) using the Nordic Optical Telescope (NOT) equipped with the ALFOSC camera, using the SDSS z filter. The instrument was rotated in order to include XRT sources #1 and #2 (Osborne et al., GCN 38830), as well as the candidate SVOM/VT optical afterglow (which is consistent with the position of XRT source #2; Qiu et al., GCN 38829). The observation mid time was 2025 Jan 6.982 UT (10.13 hr after the SVOM trigger), and the exposure time was 2000 s.\n\nNo source is detected within the localization circle of XRT source #1, down to a limiting magnitude z > 23.3 (AB).\n\n\nTwo sources are detected within the localization circle of XRT source #2.\n\nSource A (coincident with the SVOM/VT optical candidate):\nRA = 07:49:29.04\nDec = +63:42:29.4\nmag z = 22.23 +- 0.10 AB\n\nSource B:\nRA = 07:49:27.99\nDec = +63:42:31.5\nmag z = 19.90 +- 0.02 AB\n\nAt the locations of both sources, objects are visible in the Legacy Survey, for which we measure AB magnitudes z = 22.24 +- 0.11 and z = 19.84 +- 0.02 for sources A and B, respectively. Our measured values are thus fully consistent with those in the archival images.\n\nSource B is also detected by Gaia, which provides a QSO classification. This opens the question whether object B could be responsible for the X-ray emission detected by Swift/XRT.\n\nSource A could be the host galaxy of GRB 250106A, though we note that its archival r-band magnitude (r = 23) is only marginally fainter than the SVOM/VT magnitude (R = 22.5 +- 0.3 mag; Qiu et al., GCN 38829).\n\nWe encourage further observations with both SVOM/VT and Swift/XRT in order to establish variability of both the optical and X-ray sources.\n"
+}

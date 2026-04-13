@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221126A: Fermi GBM observation",
+  "eventId": "GRB 221126A",
+  "bibcode": "2022GCN.32994....1V",
+  "createdOn": 1669723143000,
+  "circularId": 32994,
+  "submitter": "Andreas von Kienlin at MPE  <azk@mpe.mpg.de>",
+  "email": "azk@mpe.mpg.de",
+  "body": "A. von Kienlin (MPE) and C. Meegan (UAH) report on behalf of the Fermi GBM\nTeam:\n\n\"At 13:07:29.94 UT on 26 November 2022, the Fermi Gamma-Ray Burst Monitor\n(GBM)\ntriggered and located GRB 221126A (trigger 691160854 / 221126547).\n\nThis event was also observed by Swift/BAT-GUANO (GCN 32987), AstroSat CZTI\n(GCN 32990) \nand AGILE (GCN 32992).\n\nThe GBM position is reported in the Fermi-GBM Final on-ground Localization\n(GCN 32985). \nThe angle from the Fermi LAT boresight is 22 degrees.\n\nThe GBM light curve shows a structured pulse with a duration (T90) of about\n7 s (50-300 keV).\nThe time-averaged spectrum from T0-0.90 s to T0+8.32 s is best fit by a\npower law function \nwith an exponential high-energy cutoff.  The power law index is -0.94 +/-\n0.03 and the cutoff energy, \nparameterized as Epeak, is 194 +/- 8 keV\n\nThe event fluence (10-1000 keV) in this time interval is (9.29 +/- 0.02)E-06\nerg/cm^2. The 1.024-sec \npeak photon flux measured starting from T0+4.224 s in the 10-1000 keV band\nis 15.7 +/- 0.4 ph/s/cm^2.\n\nA Band function fits the spectrum equally well with Epeak= 190 +/- 10 keV,\nalpha = -0.92 +/- 0.04 \nand beta = -3.1 +/- 0.6.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support\nPage:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

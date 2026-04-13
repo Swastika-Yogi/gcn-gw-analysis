@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 221025A (short)",
+  "eventId": "GRB 221025A",
+  "bibcode": "2022GCN.32865....1S",
+  "createdOn": 1666881264000,
+  "circularId": 32865,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\nreport:\n\nThe short-duration GRB 221025A\n(Fermi-LAT detection: Arimoto et al., GCN Circ. 32843;\nFermi-GBM detection: Wood and Meegan, GCN Circ. 32851;\nAstroSat-CZTI detection: Gopalakrishnan et al., GCN Circ. 32853)\nwas detected by Fermi (GBM trigger 688352303), INTEGRAL (SPI-ACS),\nKonus-Wind, AstroSat (CZTI), and GECAM-B (trigger tn221025_005818_fb)\nat about 3498 s UT (00:58:18).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   134.373 (08h 57m 29s) +13.068 (+13d 04' 07\")\n  Corners:\n   133.601 (08h 54m 24s) +10.772 (+10d 46' 20\")\n   133.259 (08h 53m 02s) +10.806 (+10d 48' 20\")\n   135.172 (09h 00m 41s) +15.363 (+15d 21' 46\")\n   135.522 (09h 02m 05s) +15.330 (+15d 19' 48\")\n  ---------------------------------------------\nThe error box area is 1.6 sq. deg, and its maximum\ndimension is 5.03 deg (the minimum one is 19.44 arcmin).\nThe Sun distance was 78 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM final localization (glg_healpix_all_bn221025040_v00).\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB221025_T03498/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090902B: Fermi LAT and GBM refined analysis.",
+  "eventId": "GRB 090902B",
+  "bibcode": "2009GCN..9872....1B",
+  "createdOn": 1251963402000,
+  "circularId": 9872,
+  "submitter": "Valerie Connaughton at MSFC  <valerie@nasa.gov>",
+  "email": "valerie@nasa.gov",
+  "body": "F. de Palma (Universit� e INFN Bari), E. Bissaldi (MPE), H. Tajima (SLAC),\nS. Guiriec (UAH),  N. Omodei (INFN Pisa), V. Vasileiou (NASA GSFC/UMBC)\nand V. Connaughton (UAH) report for the Fermi LAT and GBM teams:\n\nFurther analysis of GRB 090902B (Bissaldi et al. GCN 9866, de Palma et al.\n GCN 9867, Kennea et al. GCN 9868) reveals it is detected in the Fermi\nLarge Area Telescope (LAT) at least until 300 s after the Fermi\nGamma-Ray Burst Monitor (GBM) trigger time, T0=11:05:08.31 UT.\n\nSpectral analysis of the main emission episode, from T0 to T0+25 s, shows a\ndeviation from the Band function obtained from fitting GBM data between\n50 keV and 40 MeV (GCN 9866). This deviation is apparent both below 50\nkeV in the GBM and above 100 MeV in the LAT. It is well-fit by a single\npower-law, with a well-constrained index that is retrieved from a fit of \nthe\nGBM data alone, the LAT data alone, and when jointly fitting the entire\ndata set.\n\nThe parameters for this multi-component fit are Band_alpha =\n0.61 � 0.01, Band_beta = 3.87 � 0.16, Band_EPeak = 798 � 7 keV,\nand a power-law index of 1.94 � 0.01 that shows no evidence for a\nspectral cut-off below 100 GeV. The fluence between 8 keV and 30\nGeV is 4.86 � 0.06 x 10-4 ergs/cm2.\n\nThe points of contact for this burst are:\n\nFrancesco de Palma (francesco.depalma@ba.infn.it) and\nElisabetta Bissaldi (ebs@mpe.mpg.de).\n\nThe Fermi LAT is a pair conversion telescope designed to cover the\nenergy band from 20 MeV to greater than 300 GeV.\nIt is the product of an international collaboration between NASA and DOE\nin the U.S. and many scientific institutions across France, Italy, Japan\nand Sweden.\n\nThis message can be cited."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB030913: wide field imaging (7 sq.deg) of the error box by MASTER",
+  "eventId": "GRB 030913",
+  "bibcode": "2003GCN..2385....1L",
+  "createdOn": 1063794205000,
+  "circularId": 2385,
+  "submitter": "Vladimir Lipunov at Moscow State U/Krylov Obs  <gcncirc@observ.inetcomm.ru>",
+  "email": "gcncirc@observ.inetcomm.ru",
+  "body": "V. Lipunov, A. Krylov, V. Kornilov, G. Borisov, D. Kuvshinov, A. Belinski,\nI. Chilingarian, M. Kuznetsov, S. Potanin, V. Vitrischak, G. Antipov\n\nSternberg Astronomical Institute, Alexsandr Krylov Observatory, Moscow\n\nreport:\n\nMASTER system (280mm, http://observ.pereplet.ru) with new AP16E CCD camera\n(~7 square degrees) was pointed automatically after receiving HETE 2849\nalert (120 seconds after GRB time). But due to weather and technical\nconditions the first direct image of the error box area was obtained 43\nminutes after GRB. The weather conditions were poor (almost full Moon +\ncirrus clouds), so the limiting magnitude of the first image was about\n13.5 (unfiltered instrumental magnitude). After that we received about 100\nimages of the 7 square degrees (2.65x2.65 deg) area around the center of\nerror box with limiting magnitude about 16.0. We stopped the data\nprocessing after receiving cancellation report from HETE, but after\nreceiving GCN2383 we made the data reduction of 2 images (the 1st and the\nbest). There was no OT detected up to 13.5, 43 minutes after GRB time in a\n1 degree circular error box. There was no OT detected up to 16.0, 2h41m\nafter GRB time in the same error box.\n\nReduced FITS images (dark,bias substracted, flat normalized) are available at\nhttp://www.sai.msu.su/~aleks/observ/\n\nThese are our first results with new large CCD, so we still have no pipeline\nto reduct them. But if anybody likes to process these data (about 7\nGigabytes including calibration frames) we can provide an access to them.\nSubmit your requests to lipunov@sai.msu.ru\n\nThis message may be cited."
+}

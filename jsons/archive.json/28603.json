@@ -1,0 +1,9 @@
+{
+  "subject": "SGR 1830-0645: pre-discovery detection in Swift/BAT",
+  "bibcode": "2020GCN.28603....1T",
+  "createdOn": 1602455981000,
+  "circularId": 28603,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "SGR 1830-0645 was discovered by Swift/BAT trigger #999571 on\n2020-10-10T14:29:24 UTC (GCN 28594, ATEL 14083). The hypothesis of\nmagnetar origin was strengthened by measurement of a spin-period in\nthe Swift/XRT data (Gogus et al. ATEL 14085).\n\nWe performed a sub-threshold search in the Swift/BAT data, and find\nthat BAT detected a soft (<50 keV), short (~20 ms), flare from this\nsource at 2020-10-05T18:20:35.566  UTC, 5 days before the discovery\ntrigger.\n\nThe origin of this flare is confirmed to come from SGR 1830-0645 from\ntime-tagged event data recorded by Swift/BAT. This TTE data was saved\nby BAT triggering on this flare in the rates domain in real-time, with\nfailed trigger #998860. This was not promoted to a successful trigger\nas BAT failed to find a source location in the associated image\nproduced on-board. This was due to a suboptimal foreground interval\nselection by the real time analyses. The close proximity to the SAA,\nand elevated background, likely also contributed.\n\nWe cleaned the TTE data of hot/noisy detectors. We detect the flare\nfrom SGR 1830-0645 with a rates significance of >10 sigma, and confirm\nthe source location in the image domain at >7 sigma."
+}

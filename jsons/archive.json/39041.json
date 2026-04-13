@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250127A: SVOM detection of a long burst",
+  "eventId": "GRB 250127A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39041....1W",
+  "createdOn": 1737958634575,
+  "circularId": 39041,
+  "submitter": "Stéphane Schanne at CEA Paris-Saclay/IRFU <s.schanne@cea.fr>",
+  "format": "text/plain",
+  "body": "C. Wu, D.-H. Zhao, W.-J. Xie (NAOC), S. Schanne (CEA), C.-W. Wang (IHEP), D. Götz (CEA)\n\nreport on behalf of the SVOM team:\n\nThe SVOM/ECLAIRs telescope triggered and located the long duration GRB 250127A (sb25012701) starting at 2025-01-27T05:04:46 UTC (Tb).\n\nThe following trigger information was received on the ground with low-latency by the SVOM VHF Alert Network.\n\nThe burst was detected by both the on-board Count-Rate Trigger (CRT) and Image Trigger (IMT) and 12 alerts were received. The best detection is obtained by IMT with a signal-to-noise ratio of 17.45 in the 8-120 keV energy band over a time window of 40.96 s starting at Tb. In the real-time light-curve the burst is well seen in the 5-50 keV band and not above.\n\nThe localization of the best Alert is RA, Dec = 169.589, 3.346 (J2000). The uncertainty on this position is 4.8 arcminutes at 90% C.L. which includes 2 arcminutes of systematic uncertainty in quadrature.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250127A.png\n\nSVOM performed an automatic slew on this burst, MXT and VT results will be reported later.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in\nthe energetic universe. \n\nThe SVOM point of contact for this burst is: Donghua Zhao ( zhaodh@bao.ac.cn )"
+}

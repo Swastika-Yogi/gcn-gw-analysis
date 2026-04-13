@@ -1,0 +1,10 @@
+{
+  "subject": "Swift Trigger 321481: A Large Flare from SGR 0501+4516",
+  "eventId": "SGR 0501+4516",
+  "bibcode": "2008GCN..8120....1K",
+  "createdOn": 1219468601000,
+  "circularId": 8120,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "H. A. Krimm (CRESST/GSFC/USRA), D. M. Palmer (LANL), M. Perri (ASDC),\nB. Preger (ASDC), M. Stamatikos (NASA/ORAU) and L. Vetere (PSU)\nreport on behalf of the Swift Team:\n\nAt 04:47:48 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a large flare from the newly-discovered SGR 0501+4516 \n(GCN 8113, Barthelmy et al.; trigger=321481).  Swift was pointed \nat the source at the time of the outburst. \nThe BAT on-board calculated location is \nRA, Dec 75.270, +45.278 which is \n   RA(J2000) = 05h 01m 05s\n   Dec(J2000) = +45d 16' 41\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single spike\nof duration < 0.128 sec with a second smaller spike 0.5 sec later.  \nThe peak count rate was ~175000 counts/sec (15-350 keV), \nat ~0 sec after the trigger.  There is no obvious 'ringing'\nat the SGR's rotation frequency following the burst, but this\nmay be found in further analysis. \n\nBecause this was identified onboard as a known source,\nit did not result in a GRB response with XRT and UVOT data\nimmediately available through TDRSS.  However, both instruments\nwere observing the source at the time of the flare, and will return\ndata through Malindi."
+}

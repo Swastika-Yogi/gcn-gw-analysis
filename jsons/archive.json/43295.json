@@ -1,0 +1,11 @@
+{
+  "subject": " GRB 260102A: SVOM detection of a burst",
+  "eventId": "GRB 260102A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43295....1X",
+  "createdOn": 1767329002386,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 43295,
+  "format": "text/plain",
+  "body": "\nWenjin XIE (NAOC), Wenjun TAN (IHEP), Donhua ZHAO (NAOC), Chenwei WANG (IHEP) report on behalf of the SVOM mission team:\n\n\nAt 2026-01-02T04:10:03 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 260102A (SVOM burst-id sb26010201).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was detected both by the Count-Rate Trigger (CRT) and the Image Trigger (IMT), which produced a sequence of 14 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 16.44 in the [8-120] keV energy band over a time window of 40.96 seconds starting at 2026-01-02T04:09:45.\n\nThe localization of the best alert is R.A., Dec. 183.8803, 48.2583 degrees:\nR.A. (J2000) = 12h15m31.28s\nDec. (J2000) = 48d15m29.77s\n with a 90% confidence level (C.L.) radius of 5.09 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nSVOM/GRM detected the burst also. The SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb260102A.png\n\n\nSVOM slewed to the burst. SVOM/MXT and VT began observing the field after the slew. The analysis of the data will be published in a future circular.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Wenjin XIE: xiewj@bao.ac.cn.\nPlease contact the BA by email if you require additional information.\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 240807A (a counterpart of EP240807a)",
+  "eventId": "GRB 240807A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37130....1R",
+  "createdOn": 1723288253228,
+  "circularId": 37130,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 240807A\n(Fermi GBM detection: Fermi GBM team, GCN 37089;\nSVOM-GRM detection: Wang et al., GCN 37111;\nIPN triangulation: Ridnaia et al., GCN 37120)\nwas detected by Konus-Wind (KW) in the waiting mode\nat T0~20568 s UT (05:42:48).\n\nA Bayesian block analysis of the KW  waiting mode data\nin the 20-300 keV band reveals a >8 sigma count rate\nincrease in the interval from ~T0+0.143 s to ~T0+3.087 s.\n\nCorrected for the propagation time, the burst started ~4 s\nbefore the start time of the fast X-ray transient EP240807a\n(T0(EP)=05:42:48 UT; Fu et al., GCN 37088).\nThe positional (Ridnaia et al., GCN 37120) and temporal\ncoincidence of GRB 240807A with the EP transient supports\nthe conclusion that EP240807a is the GRB counterpart.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240807A/\n\nThe time-integrated spectrum of the burst,\nmeasured from T0+0.143 s to T0+3.087 s,\ncat be described by a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.60(-0.95,+3.74) and Ep = 134(-35,+285) keV.\n\nThe total burst fluence is 4.24(-0.01,+4.68)x10^-7 erg/cm^2,\nand the 2.944 s peak energy flux, measured from T0+0.143 s,\nis 1.43(-0.27,+1.61)x10^-7 erg/cm^2.\n(both in the 20 keV - 10 MeV energy range).\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

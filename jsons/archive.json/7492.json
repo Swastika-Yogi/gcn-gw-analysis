@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080320: Early Super-LOTIS Observations",
+  "eventId": "GRB 080320",
+  "bibcode": "2008GCN..7492....1W",
+  "createdOn": 1206064581000,
+  "circularId": 7492,
+  "submitter": "Grant Williams at Steward Observatory  <ggwilli@gmail.com>",
+  "email": "ggwilli@gmail.com",
+  "body": "G. G. Williams (MMTO) and P. A. Milne (Steward Observatory), on behalf\nof the Super-LOTIS Collaboration, report:\n\nThe robotic 0.6-m Super-LOTIS telescope began observing the error box\nof GRB 080320 (Swift Trigger 306858, Grupe et al. GCN 7473) at\n04:38:34.3 UT, 56.3 seconds after the trigger.  Our initial\nobservations include 5 x 10s exposures, 5 x 20s exposures, and 30 x\n60s exposures, all in the R-band.\n\nWe do not detect any variable sources or afterglow candidates within\nthe refined XRT error box (Goad et al. GCN 7479) or at the location of\nthe OT candidate (Tanvir et al. GCN 7488, Updike et al. GCN 7491) in\nany of our single exposures or combined exposures to the following\n3-sigma limiting magnitudes:\n\nt_start (UT)    t_end (UT)     exp t (s)     t_start-t_0 (s)    Limit\n       coadd?\n----------------------------------------------------------------------------------------------------------\n04:38:34.3     04:38:44.3     10.0           56.3                R > 17.7      N\n04:39:59.3     04:40:19.3     20.0           141.3              R > 18.3      N\n04:42:13.7     04:43:13.7     60.0           275.7              R > 19.0      N\n04:38:34.3     04:39:52.6     50.0           56.3                R > 18.7      Y\n04:39:59.3     04:42:07.0     100.0         141.3               R > 19.4      Y\n04:42:13.7     04:47:41.5     300.0         275.7               R > 20.0      Y"
+}

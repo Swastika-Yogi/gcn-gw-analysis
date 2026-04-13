@@ -1,0 +1,10 @@
+{
+  "subject": "EP240506a: Optical upper limit with Kinder observations  ",
+  "eventId": "EP240506a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36408....1A",
+  "createdOn": 1715102369523,
+  "circularId": 36408,
+  "submitter": "Amar Aryan at National Central University, Institute of Astronomy (NCUIA) <amararyan941@gmail.com>",
+  "body": "A. Aryan (NCUIA), S. Yang (HNAS), T.-W. Chen, C.-S. Lin, C.-C. Ngeow, W.-J. Hou, H.-Y. Hsiao, C.-H. Lai, A. Sankar.K, M.-H. Lee, Y.-C. Pan, H.-C. Lin, J.-K. Guo (all NCUIA), H. F. Stevance, S. J. Smartt (Oxford/QUB), S. Srivastav, J. Gillanders (Oxford), M. Fulton, T. Moore, C. Angus, and A. Aamer (all QUB) report: \n\nWe observed the field of the fast X-ray transient EP240506a (Li et al., GCN 36405) using the 40cm SLT at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen et al., AstroNote 2021-92). The first SLT epoch of observations started at 13:07 UT on 07th of May 2024 (MJD = 60437.547), 1.34 days after the EP trigger. We used the Kinder pipeline (Yang et al. A&A 646, A22) to stack the images and subtract the stacked images with the Legacy Survey DR10 template images. \n\nWe detect the presence of a variable star in the subtracted image at R.A. = 14:15:57.85 and DEC = -16:43:17.30, which corresponds to SDSS J141557.82-164317.2 with an r-band magnitude of 17.52 mag. \n\nBesides this, we do not detect any optical counterpart in the errorbox of 3 arcminute around the position of the EP source specified by Li et al., (GCN 36405). The details of the observations and the corresponding 2.5 sigma upper limit (in the AB system) in our combined image are as follows:\n\nTelescope | Filter | MJD (start) | t-t0 | Exposure | Magnitude | avg. Seeing | med. Airmass\nSLT | r | 60437.547 | 1.34 days | 300 sec * 29 | > 21.82 | 2\".2 | 1.35\n\nThe reported upper limit is calibrated against nearby stars from SDSS and is not corrected for the expected Galactic foreground extinction corresponding to a reddening of E_(B-V) = 0.09 mag in the direction of the EP source (Schlafly & Finkbeiner 2011).\n"
+}

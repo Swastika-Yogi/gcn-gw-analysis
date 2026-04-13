@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200619C: Fermi GBM Final Real-time Localization",
+  "eventId": "GRB 200619C",
+  "bibcode": "2020GCN.27996....1F",
+  "createdOn": 1592607680000,
+  "circularId": 27996,
+  "submitter": "Joshua Wood at MSFC/Fermi-GBM  <joshua.r.wood@nasa.gov>",
+  "email": "joshua.r.wood@nasa.gov",
+  "body": "The Fermi GBM team reports the detection of a likely Long GRB.\n\nAt 06:03:22 UT on 19 Jun 2020, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 200619C (trigger 614239407 / 200619252). The on-ground calculated location, using the Fermi GBM trigger data, is RA = 225.15, Dec = -10.39 (J2000 degrees, equivalent to J2000 15h 01m, -10d 23'), with a statistical uncertainty of 3.3 degrees. The angle from the Fermi LAT boresight is 24.0 degrees.\n\nThe skymap can be found here:\nhttp://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200619252/quicklook/glg_skymap_all_bn200619252.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttp://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200619252/quicklook/glg_healpix_all_bn200619252.fit\n\nThe GBM light curve can be found here:\nhttp://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200619252/quicklook/glg_lc_medres34_bn200619252.gif"
+}

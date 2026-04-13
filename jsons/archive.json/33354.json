@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-230220A - IceCube observation of a high-energy neutrino candidate",
+  "eventId": "IceCube-230220A",
+  "bibcode": "2023GCN.33354....1I",
+  "createdOn": 1676908342000,
+  "circularId": 33354,
+  "submitter": "Dr. Massimiliano Lincetto at Ruhr-Universitaet Bochum  <lincetto@astro.rub.de>",
+  "email": "lincetto@astro.rub.de",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nOn 2023-02-20 at 07:39:10.8 UT IceCube detected a track-like event with \na moderate probability of being of astrophysical origin.\nThe event was selected by the ICECUBE_Astrotrack_BRONZE alert stream.\nThe average astrophysical neutrino purity for Bronze alerts is 30%.\nThis alert has an estimated false alarm rate of 2.521 events per year \ndue to atmospheric backgrounds.\nThe IceCube detector was in a normal operating state at the time of \ndetection.\n\nAfter the initial automated alert \n(https://gcn.gsfc.nasa.gov/notices_amon_g_b/137668_51133257.amon), \nattempts to use a more sophisticated algorithm that provides refined \nposition and error estimates encountered issues.\nGiven the topology of the light deposition in the detector, we estimate \nthat the initial direction listed below still provides a good \ncharacterization of the event.\n\nDate: 2023-02-20\nTime:  07:39:10.8 UT\nRA: 359.33 deg (J2000)\nDec: +3.35 deg (J2000)\nError radius: 0.51 deg (90%, statistical error only)\n\nWe encourage follow-up by ground and space-based instruments to help \nidentify a possible astrophysical source for the candidate neutrino.\n\nNo gamma-ray sources listed in the 4FGL-DR3 or 3FHL Fermi-LAT catalogs \nare located within the 90% error radius of the candidate neutrino event.\nThe nearest source is 4FGL J2359.3+0215, 1.2 deg away from the best-fit \nevent position.\n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector \noperating at the geographic South Pole, Antarctica.\nThe IceCube realtime alert point of contact can be reached at \nroc@icecube.wisc.edu"
+}

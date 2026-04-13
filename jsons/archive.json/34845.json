@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 231018A",
+  "eventId": "GRB 231018A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2023GCN.34845....1S",
+  "createdOn": 1697740879014,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 34845,
+  "body": "D. Svinkin, D. Frederiks,  A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\nreport:\n\nThe bright, long-duration GRB 231018A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 34826;\nBALROG localization: Preis et al., GCN Circ. 34827)\nhas been detected by Fermi (GBM trigger 719325015), CALET (GBM),\nGECAM-B, INTEGRAL (SPI-ACS), Konus-Wind, and Swift (BAT),\nso far, at about 45010 s UT (12:30:10).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n    1.122 (00h 04m 29s) +47.410 (+47d 24' 36\")\n Corners:\n    6.422 (00h 25m 41s) +50.650 (+50d 39' 01\")\n  356.061 (23h 44m 15s) +43.842 (+43d 50' 31\")\n  357.865 (23h 51m 28s) +44.479 (+44d 28' 43\")\n   10.820 (00h 43m 17s) +51.565 (+51d 33' 55\")\n ---------------------------------------------\nThe error box area is 6.6 sq. deg, and its maximum\ndimension is 12.54 deg (the minimum one is 38 arcmin).\nThe Sun distance was 137 deg.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe final Fermi-GBM and the BALROG localizations.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS files are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB231018_T45043/IPN\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular.\n\n"
+}

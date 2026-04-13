@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201104A: Swift-XRT observations",
+  "eventId": "GRB 201104A",
+  "bibcode": "2020GCN.28859....1D",
+  "createdOn": 1604684809000,
+  "circularId": 28859,
+  "submitter": "Boris Sbarufatti at PSU  <bxs60@psu.edu>",
+  "email": "bxs60@psu.edu",
+  "body": "V. D'Elia (ASDC), A. D'Ai (INAF-IASFPA), D.N. Burrows (PSU), J. D.\nGropp (PSU), J.A. Kennea (PSU), A.P. Beardmore (U. Leicester), J.P.\nOsborne (U. Leicester), A. Melandri (INAF-OAB) and P.A. Evans (U.\nLeicester) report on behalf of the Swift-XRT team:\n\nSwift-XRT has performed follow-up observations of the\nFermi/LAT-detected burst GRB 201104A (Ohno et al. GCN Circ. 28828) in a\nseries of observations tiled on the sky. The total exposure time is 4.7\nks, distributed over 3 tiles; the maximum exposure at a single sky\nlocation was 2.4 ks. The data were collected between T0+67.6 ks and\nT0+80.9 ks, and are entirely in Photon Counting (PC) mode. \n\nOne uncatalogued X-ray source has been detected, it is not above the\nRASS limit or shows definitive signs of fading. Furthermore, it is\ncoincident with a known optical source and the XRT data are possibly\naffected by stray light. Therefore we believe that XRT has not detected\nany viable candidate afterglow.\nDetails of the sources are given below:\n\nSource 3:\n  RA (J2000.0):  80.9041  =  05:23:36.99\n  Dec (J2000.0): -71.0096  =  -71:00:34.6\n  Error: 4.1 arcsec (radius, 90% conf. [Enhanced position])\n  Count-rate: (5.3 [+2.7, -2.0])e-3 ct s^-1   \n  Distance: 664 arcsec from Fermi/LAT position.\n  Flux: (1.53 [+0.77, -0.59])e-13 erg cm^-2 s^-1 (observed, 0.3-10 keV)\n\n\nA catalogued source was also detected inside the LAT error circle, and\ntwo more sources were detected outside of it.\n\nThe 3 sigma upper limit at the LAT GRB position is 7.6��10-3 ct s-1.\n\nThe results of the XRT-team automatic analysis of the tiled XRT\nobservations, including a position-specific upper limit calculator, are\navailable at https://www.swift.ac.uk/xrt_products/TILED_GRB00094.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110818A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 110818A",
+  "bibcode": "2011GCN.12286....1P",
+  "createdOn": 1313782146000,
+  "circularId": 12286,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and C. B. Markwardt (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110818A\n379 s after the BAT trigger (Markwardt et al., GCN Circ. 12279).\nNo optical afterglow consistent with the Enhanced Swift-XRT position\n(GCN Circ. 12285) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nv                  379        14423         1513         >20.8\nb                  477        18642         2455         >22.2\nu                  452         8009          813         >20.4\nw1                 428         7804          646         >20.9\nm2                7399         7599          197         >20.9\nw2                6989        13752         1082         >21.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

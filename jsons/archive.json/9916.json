@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090902B: Skynet/PROMPT Observations",
+  "eventId": "GRB 090902B",
+  "bibcode": "2009GCN..9916....1H",
+  "createdOn": 1253131551000,
+  "circularId": 9916,
+  "submitter": "Josh Haislip at U.North Carolina  <haislip@physics.unc.edu>",
+  "email": "haislip@physics.unc.edu",
+  "body": "J. Haislip, D. Reichart, K. Ivarsen, A. LaCluyze, A. Foster, J. Moore, A. \nOza, M. Schubel, J. Styblova, A. Trotter, J. A. Crain, and M. Nysewander \nreport:\n\nSkynet observed the Fermi/LAT localization of GRB 090902B (de Palma et al., \nGCN 9867) with four of the 16\" PROMPT telescopes at CTIO beginning 13.3 \nhours after the trigger in BVRI through variable cloud cover.\n\nWe do not detect the afterglow (Kennea et al., GCN 9868; Swenson & Siegel, \nGCN 9869).  Stacking only images that increase the limiting magnitude \nyields:\n\nmean                                                       1-sig.   1-sig.\ntime                                3-sig.                 sys.     stat.\nsince                               lim.     cal.          cal.     cal.\ntrig.   tel.       exp.      fil.   mag.     stars         unc.     unc.\n(h)                (# x s)                                 (mag)    (mag)\n\n14.4    PROMPT-4   18 x 80   R      19.8     240 USNO B1   0.185    0.001\n14.4    PROMPT-3   18 x 80   B      19.0     100 USNO B1   0.296    0.002\n14.4    PROMPT-5   18 x 80   I      19.0     278 USNO B1   0.234    0.001\n14.4    PROMPT-2   17 x 80   V      19.0     217 NOMAD     0.255    0.001"
+}

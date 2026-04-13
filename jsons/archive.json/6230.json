@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 070328",
+  "eventId": "GRB 070328",
+  "bibcode": "2007GCN..6230....1G",
+  "createdOn": 1175177203000,
+  "circularId": 6230,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 070328 (Swift-BAT trigger #272773:\nMarkwardt et al., GCN 6224; Stamatikos et al., GCN 6225),\ntriggered Konus-Wind at T0=14029.993 s UT (03:53:49.993).\n\nThe Konus-Wind light curve shows multipeaked structure\nwith a duration of ~45 s, followed by a weak tail\nmarginally seen up to T-T0~130 s in the 70-300 keV band.\nAs observed by Konus-Wind the burst\nhad a fluence of 5.95(-0.76, +1.06)x10^-5 erg/cm2,\nand the 256-ms peak flux measured from T0+1.808 s\n4.57(-0.91, +1.07)x10^-6 erg/cm2/s\n(both in the 20 keV - 6 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+41.216 s) is well fitted (in the 20 keV - 6 MeV range)\nby GRBM (Band) model for which:\nthe low-energy photon index is alpha = -0.99(-0.11, +0.13),\nthe high energy photon index beta = -1.99(-0.40, +0.18),\nthe peak energy Ep = 496(-117, +172) keV (chi2 = 80/77 dof).\nFitting by a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nyields alpha = 1.09 +/- 0.08,\nand Ep = 688(-119, +173) keV (chi2 = 88/78 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB070328_T14029/"
+}

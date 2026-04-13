@@ -1,0 +1,9 @@
+{
+  "subject": "GCN/INTEGRAL Mistake Fixed",
+  "bibcode": "2003GCN..1865....1B",
+  "createdOn": 1045147838000,
+  "circularId": 1865,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "As some of you already know, GCN is now actually distributing INTEGRAL Notices.\nLast night I found and fixed a mistake I made in the GCN program\nwhich was blocking the actual distribution of the INTEGRAL Notices.\n\nI am extremely sorry for this mistake and apologize for costing you\nopportunitites in follow-ups on the two INTEGRAL Alerts.\n\nThe mistake happened because I omitted a commandline argument\nto the GCN program.  This argument was used during the testing phase\nof the INTEGRAL Notices back in Aug-Sept.  Now during actual INTEGRAL\noperations, its omission was preventing the actual distribution.  I have been\nchecking the logfiles and have seen the many INTEGRAL messages (nearly all\ntest messages) arrive from the INTERGAL Operations computer, get unpacked,\nand reformated into GCN standard format, so I assumed that all was\nworking well.  But I neglected to check for the very last step in that\nsequence -- the distribution action.  I have fixed the GCN program\nso this mistake (the missing commandline argument) can NOT happen again.\nThere is no final \"debugging\" filtering of INTEGRAL Notices any more.\nNow the filtering of INTEGRAL Notices will be based ONLY on the filter options\nyou have requested in your individual site configurations.\n\nMy sincere apologies for this mistake.  I will redouble my efforts\nto restore your confidence in the GCN system.\n\nSincerely,\nScott Barthelmy"
+}

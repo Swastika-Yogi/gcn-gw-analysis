@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100724A: Swift-BAT refined analysis",
+  "eventId": "GRB 100724A",
+  "bibcode": "2010GCN.10972....1M",
+  "createdOn": 1279984340000,
+  "circularId": 10972,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "C. B. Markwardt (GSFC/UMD), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+644 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 100724A (trigger #429868)\n(Markwardt, et al., GCN Circ. 10968).  The BAT ground-calculated position is\nRA, Dec = 194.569, -11.095 deg, which is \n   RA(J2000)  =  12h 58m 16.5s \n   Dec(J2000) = -11d 05' 41.7\" \nwith an uncertainty of 1.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 43%.\n \nThe mask-weighted light curve shows several overlapping peaks starting\nat T+0.0 sec and ending at T+4.0 sec.  There is a weak roughly exponential tail\nextending out to ~T+20 sec.  T90 (15-350 keV) is 1.4 +- 0.2 sec (estimated error\nincluding systematics).  The initial description of the lightcurve given\nin GCN Circ 10968 as being 70 sec long was confused by the nearly simultaneous,\nbut different burst detected by Fermi.  The BAT mask-weighted lightcurve\nclearly shows that the 100724A burst is only single episode around T_zero.\nThere is nothing in the mask-weighted lightcurve in the T+40 to T+70sec range.\n \nThe time-averaged spectrum from T+0.1 to T+1.6 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.92 +- 0.21.  The fluence in the 15-150 keV band is 1.6 +- 0.2 x 10^-7 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.09 sec in the 15-150 keV band\nis 1.9 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/429868/BA/"
+}

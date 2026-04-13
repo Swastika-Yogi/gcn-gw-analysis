@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180809B: Swift/UVOT Detection",
+  "eventId": "GRB 180809B",
+  "bibcode": "2018GCN.23120....1S",
+  "createdOn": 1533918564000,
+  "circularId": 23120,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "GRB 180809B: Swift/UVOT Detection\n\nS. Sebzda (PSU) and M. Moss (George Washington University)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180809B\n82 s after the BAT trigger (Moss et al., GCN Circ. 23105).\nA fading source consistent with the XRT position\n(Moss et al. GCN Circ. 23105)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  19:58:47.96 = 299.69984 (deg.)\n    Dec (J2000) = -15:17:57.1  = -15.29920 (deg.)\nwith an estimated uncertainty of 0.48 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               81          231          293         18.99+-0.07\nwhite              573         6926          441        >21.55\nv                  623         7289          444        >19.8\nb                  549         6721          294        >20.9\nu                  294         6516          520        >21.0\nw1                 672        13027          915        >20.7\nm2                 648        11053          906        >20.9\nw2                 599        16967         1262        >21.3\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.16 in the direction of the burst\n(Schlegel et al. 1998)."
+}

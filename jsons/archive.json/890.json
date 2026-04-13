@@ -1,0 +1,10 @@
+{
+  "subject": "GRB001120, optical observations",
+  "eventId": "GRB 001120",
+  "bibcode": "2000GCN...890....1K",
+  "createdOn": 974928434000,
+  "circularId": 890,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "D. Kaiser (Crescent Moon Observatory)\nD. Durig (Cordell-Lorenz Observatory)\nA. Henden (USRA/USNO)\nreport:\n\nWe have observed the error box of GRB001120 as part\nof the monitoring effort by the AAVSO GRB network.\nThis error box is quite long in RA (30arcmin), and so the\nimages only cover the central portion of that\nbox, missing the extreme east and west corners.\nThere are a few galaxies visible, so the visual extinction\nis not large in this high galactic latitude field (bII=-43).\n  The limiting magnitude in the table below is based\non the r-magnitude of a set of USNO-A2.0 stars in the field.\nUnfiltered observations are listed with a \"C\" in the\nfilter column.  The seeing measures are an upper limit\ndue to undersampling in both datasets.\n\n--------------------------------------------------------------------------\n   Date (UT)   Telescope  filter  RA width   exposure    seeing   limiting\n   (Midpt)                        (arcmin)    (sec)     (arcsec)    mag.\n--------------------------------------------------------------------------\n  Nov. 22.036    0.35-m      R     17.9     12 * 300      4.4     19.8\n  Nov. 22.051    0.30-m      C     26.9     10 * 600      3.8     20.8\n--------------------------------------------------------------------------\n\nAll objects on the Nov22.036 dataset are\nalso visible in the scans of the POSS-2 red\nplate from the NOFS PMM pixel server.  The Nov22.051 dataset\ngoes slightly deeper than the POSS-2 plate, and a second CCD epoch\nwill be necessary to exclude the fainter objects."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080212: Swift-XRT Team refined analysis",
+  "eventId": "GRB 080212",
+  "bibcode": "2008GCN..7299....1P",
+  "createdOn": 1202863696000,
+  "circularId": 7299,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page, D. Perez (U Leicester) and H. Ziaeepour (UCL-MSSL) report on \nbehalf of the Swift-XRT team:\n\nWe have analysed the first three orbits of data obtained for GRB 080212 \n(Ziaeepour et al., GCN Circ. 7296). Most of the initial orbit of data were \ncollected in Windowed Timing (WT mode), and show strong flaring activity. \nUsing the second two orbits [Photon Counting (PC) mode data; 5.2 ks of \nexposure time], we obtained a refined position of RA, Dec (J2000) = \n231.1468, -22.7420, which is equivalent to\n\nRA(J2000) =   15 24 35.24\nDec(J2000) = -22 44 31.0\n\nwith an estimated uncertainty of 3.6 arcsec. This is 3.7 arcsec from the \nonboard XRT position (GCN Circ. 7296).\n\nFollowing the flares in the first orbit of data, the X-ray light-curve can \nbe fitted with a power-law, with the decay slope, alpha = 0.8 +/- 0.1.\n\nThere is strong spectral evolution during the flaring WT data. A spectrum \nformed from the PC mode data can be modelled with an absorbed power-law, \nwith Gamma = 2.3 +/- 0.2 and NH = (2.1 +/- 0.4)e21 cm^-2, significantly in \nexcess of the Galactic value of 7.26e20 cm^-2. The 0.3-10 keV observed \n(unabsorbed) flux during this time (~3.5 - 12 ks after the trigger) is \n8.4e-12 (1.5e-11) erg cm^-2 s^-1.\n\nIf the light-curve continues to decay at this rate, the predicted count \nrate at 24 hours will be 0.024 count s^-1. Using the PC data, a counts to \nflux conversion of 4.0e-11 erg cm^-2 count^-1 can be estimated, implying \nthe predicted flux at 24 hours would be 9.6e-13 erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

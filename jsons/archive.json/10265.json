@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091208B, Swift-BAT refined analysis",
+  "eventId": "GRB 091208B",
+  "bibcode": "2009GCN.10265....1B",
+  "createdOn": 1260287970000,
+  "circularId": 10265,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), C. Pagani (PSU), A. M. Parsons (GSFC),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-60 to T+243 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 091208B (trigger \n#378559) (Pagani, et al., GCN Circ. 10256).  The BAT ground-\ncalculated position is RA, Dec = 29.411, 16.881 deg which is\n    RA(J2000)  =  01h 57m 38.5s\n    Dec(J2000) = +16d 52' 50.7\"\nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 10%.\n\nThe mask-weighted light curve shows two separated FRED peaks. The first\nat T0 was weaker and softer than the second at T+8 sec.\nT90 (15-350 keV) is 14.9 +- 3.7 sec (estimated error including\nsystematics).\n\nThe time-averaged spectrum from T-0.2 to T+22.3 sec is best fit by a\nsimple power-law model.  The power law index of the time-averaged\nspectrum is 1.74 +- 0.11.  The fluence in the 15-150 keV band was\n3.3 +- 0.2 x 10^-06 erg/cm2.  The 1-sec peak photon flux measured from\nT+8.1 sec in the 15-150 keV band was 15.2 +- 1.0 ph/cm2/sec.  All the\nquoted errors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/378559/BA/"
+}

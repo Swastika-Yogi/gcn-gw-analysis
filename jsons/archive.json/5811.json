@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061110B: Swift XRT refined analysis",
+  "eventId": "GRB 061110B",
+  "bibcode": "2006GCN..5811....1G",
+  "createdOn": 1163225820000,
+  "circularId": 5811,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <grupe@astro.psu.edu>",
+  "email": "grupe@astro.psu.edu",
+  "body": "D. Grupe, D.B. Fox, J. Racusin, J. Kennea, report on behalf of the Swift \nXRT team:\n\nWe have analyzed the first three orbits of Swift XRT data of GRB 061110B.\nThe X-ray position was determined from the XRT image using the new \nteldef file:\n\nRa(2000)   =  21 35 40.42\nDec(2000)  = +06 52 34.0\n\nwith an 4.2\" error (90% confidence). This position is 2\" away from the initial\nposition given by Kennea et al. (GCN 5805) and 0.1\" away from the optical\nposition reported by Melandri et al. (GCN 5804).\n\n\nThe X-ray light curve can be fitted by a single power law decay slope\nalpha=1.35+/0.10. The flux a 4ks after the burst was 2.4e-12 ergs/s/cm2. Our\nprediction for the flux at 24h after the burst is 4.5e-14 ergs/s/cm2, or \n9e-4 XRT counts/s.\n\nThe spectral analysis shows a typical GRB afterglow spectrum with a power law\nphoton index Gamma=1.9+/-0.4. The absorption column density in consistent with\nthe Galactic value (4.83e20 cm-2).\n\n[GCN OPS NOTE(11nov06): Per author's request, the Galactic NH was changed\nfrom 4.83e21 to 4.83e20.  We thank A.Kann for pointing this out.]"
+}

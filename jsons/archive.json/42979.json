@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251203B: LCO optical upper limits",
+  "eventId": "GRB 251203B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42979....1M",
+  "createdOn": 1764796956681,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42979,
+  "format": "text/plain",
+  "body": "D. B. Malesani (DAWN/NBI and Radboud), D. Turpin, A. Saccardi, J. T. Palmerio (CEA/Irfu), L. P. Xin, C. Wu (NAOC), B. Cordier (CEA/Irfu), M. Brunet, N. A. Webb (IRAP), report on behalf of the SVOM mission team:\n\nWe observed the field of the SVOM GRB 251203B (Brunet et al., GCN 42973) with the LCO 1m telescope at South African Astronomical Observatory equipped with the Sinistro instrument. \n\nOur observation started on 2025-12-03 at 19:14:38 UT (about 64 min after the trigger) and we obtained 3x200 s exposures in the SDSS r and 3x200 s exposures in the PanSTARRS z filters. In the stacked image, we do not detect any new source within the MXT error circle.\n\nWe measure the following upper limits calibrated against the Pan-STARRS catalog, and not corrected for Galactic extinction:\n\nr > 20.8 AB (mid-time 1.16 hr after the trigger);\nz > 20.1 AB (mid-time 1.29 hr after the trigger).\n\nAs already noted by Brunet et al. (GCN 42973) and Palmerio et al. (GCN 42978), within the MXT error circle there is a bright star at RA = 01:13:26.89, Dec = +00:01:07.7, also a possible historical X-ray emitter. Recent Swift/XRT observations (https://www.swift.ac.uk/SVOM/SVOM_FIELD00054/) show this star to be coincident with the only X-ray source within the MXT error circle. This suggests the transient is due to activity from this star.\n\nIn our z-band image, the star appears about 0.6 mag brighter than its archival Pan-STARRS magnitude (though we caution possible saturation effects), a behavior also consistent with a stellar flare origin of the burst.\n\nThis project is funded by the SVOM collaboration.\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP260105a: GTC/HiPERCAM optical observations",
+  "eventId": "EP260105a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43488....1S",
+  "createdOn": 1769011528578,
+  "circularId": 43488,
+  "submitter": "javisansie@gmail.com",
+  "format": "text/plain",
+  "body": "J. Sanchez-Sierras (Radboud), G. Corcoran (UCD), P. G. Jonker (Radboud), D. B. Malesani (DAWN/NBI and Radboud), D. Mata Sanchez (IAC), A. L. Cabrera Lavers (GTC), report on behalf of a larger collaboration:\n\nWe observed the field of EP260105a (Zhou et al., GCN 43327) with the HiPERCAM instrument attached to the Gran Telescopio Canarias (GTC; La Palma, Spain). The observation simultaneously covered the u, g, r, i and z bands with a total exposure time of 1612 s (150 x 10.75 s), starting on 2026-01-15 at 05:49:40 UT (i.e. 10 days after the trigger).\n\nSeveral sources are detected within the EP/FXT error circle, but comparison with archival i-band imaging from the Hyper Suprime-Cam Legacy Archive (Tanaka et al. 2021, doi:10.1093/pasj/psab034) shows all of them to be pre-existing. We carried out subtraction in the i-band with PyZOGY (Guevel et al. 2021), using the HSC image as a template. The subtraction does not show any new source inside the EP-FXT error region (Zhou et al., GCN 43333) down to a limiting AB magnitude of i > 25.5, not corrected by Galactic extinction.\n\nThis non-detection is consistent with the others reported by Lipunov et al. (GCN 43328), Corcoran et al. (GCN 43332), Li et al. (GCN 43337) and Busmann et al. (GCN 43345).\n"
+}

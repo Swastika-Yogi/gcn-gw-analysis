@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060502: Swift-XRT refined analysis",
+  "eventId": "GRB 060502",
+  "bibcode": "2006GCN..5054....1L",
+  "createdOn": 1146583064000,
+  "circularId": 5054,
+  "submitter": "Eleonora Troja at INAF-IASFPA  <nora@ifc.inaf.it>",
+  "email": "nora@ifc.inaf.it",
+  "body": "V. La Parola, E. Troja, V. Mangano (INAF-IASFPA), S. \nCampana (INAF-OAB), K. L. Page (U Leicester), J. Kennea, \nD.N. Burrows (PSU), on behalf of the Swift-XRT team.\n\nWe have analyzed the first two orbit of data of GRB060502\n(La Parola et al 2006, GCN 5047).\nThe XRT data set consists of 71 s exposure in Windowed\nTiming (WT) mode followed by 355 s exposure in Photon\nCounting (PC) mode in the first orbit and 2.4 ks in the \nsecond orbit.\n\nThe refined position of the source is\n\n     RA  (2000) = 16h 03m 42.9s\n     Dec (2000) = 66�� 35' 58.1\"\n\nwith an uncertainty of 3.7 arcsec (90% confinement).\nThis position is only 1 arcsec from the one calculated \nfrom early downlinked data (La Parola et al 2006, GCN 5047), \n5.1 arcsec from the UVOT afterglow position and 17.6\" from \nthe BAT refined position (Parsons et al. GCN5053).\n\nThe 0.2-10 keV X-ray light curve shows an initial\nfast decay with slope -2.87 +/- 0.11 and  a break at 252 \n+/- 17 s from the trigger followed by a second decay slope\nof -0.54 +/- 0.05.\n\nThe WT spectrum (collected during the pre-break phase)\ncan be fitted with a power law (photon index 2.3 +/-0.5)\nplus a soft thermal component (which can be modelled with \na blackbody at 0.13+/-0.02 keV), with intrinsic absorption \n(0.45+/-0.15)e22 cm-2, assuming a redshift of 1.51 \n(Cucchiara et al. GCN5052).\n\nThe PC spectrum after the break is fitted with an absorbed \npower law with photon index 1.99 +/-0.15 and intrinsic absorption \n(0.6+/-0.2)e22 cm-2.\nThe Galactic absorption is 2.97e20 cm-2.\n\nWith the present decay slope, the 0.2-10 keV flux at 24h \nafter the trigger is expected to be ~2e-12 erg/s/cm-2\n\n\nThis Circular is an official product of the Swift XRT \nTeam."
+}

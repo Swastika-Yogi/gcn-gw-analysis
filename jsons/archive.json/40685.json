@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250610B: SVOM/VT optical shallow decay",
+  "editedOn": 1749652492323,
+  "eventId": "GRB 250610B",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40685....1Q",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 40685,
+  "createdOn": 1749635668192,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "Y. L. Qiu, H. L. Li, L. P. Xin, C. Wu, Z. H. Yao, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, Y. N. Ma, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), A. Saccardi, J. Rodriguez, N. Dagoneau (CEA), C. Van Hove (IJCLab) report on behalf of the SVOM mission team.\n\n\nSVOM/VT made a second ToO observation for GRB250610B (Saccardi et al., GCN 40671; Wang et al., GCN 40682; Wang et al, GCN 40683).  The observation was performed in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nWith more data, the brightness of the counterpart (Schneider et al., GCN 40676; Gompertz et al., GCN 40677; Li et al., GCN 40678; Bochenek et al., GCN 40684)  was fading by about 0.6+/-0.1 mag in both band within 9 hours. The latest brightness is derived as follows:\n\nMid-time after the burst | exposure time| band | mag (AB) | mag err\n-------------------------|--------------|------|----------|--------\n9.53  hour               | 14*70 sec    | VT_B |   21.3   ｜ 0.1\n9.50  hour               | 12*70 sec    | VT_R |   21.1   ｜ 0.1\n\nOur photometry was not corrected for Galactic extinction.\n\nWe noticed that there is a faint blue source at the position of the counterpart in Legacy Surveys DR10 catalog with g=23.0 mag and r=22.75 mag. Considering the possible host galaxy's brightness and blue color，the photometry at later phase might be contaminated by the host galaxy's light, particularly in the VT_B band.\n\nWith the slow decaying behavior of X-ray emission (Evans et al., GCN 40679; Liang et al., GCN 40681) and optical at early phase, it is not an ordinary GRB event. More multiband follow-up and spectrum observations are encouraged.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC),CAS."
+}

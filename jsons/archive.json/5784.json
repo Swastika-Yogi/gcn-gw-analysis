@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061102: Swift/UVOT Magnitude Upper Limits",
+  "eventId": "GRB 061102",
+  "bibcode": "2006GCN..5784....1H",
+  "createdOn": 1162478248000,
+  "circularId": 5784,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "GRB 061102: Swift/UVOT Magnitude Upper Limits\n\nS. T. Holland (NASA/GSFC & USRA) reports on behalf of the Swift/UVOT\nteam:\n\n        The Swift/UVOT began observing the field of GRB 061102 at\n01:02:02 on 2006-11-02, 92 s after the BAT trigger (Holland et al.,\nGCN Circ. 5776).  No optical afterglow was detected in any of the\nindividual UVOT exposures, or in the coadded exposures, down to the\nfollowing 3-sigma limiting magnitudes.  The start and stop times are\nrelative to the BAT trigger.\n\nFilter     Start   Stop   Exposure    3-sigma\n             (s)     (s)      (s)     Upper Limit\n\nFinding Charts\n  White       112    209       97        19.9\n    V         216    275       59        18.3\n\nCoadded Exposures\n    V         216  10154     1141        20.5\n    B        4078  16849     1278        21.6\n    U        3873  15938     1278        21.3\n   UVW1      3669  11845     1160        21.3\n   UVM2      3464  11059     1279        21.7\n   UVW2      4488   6061      336        20.9\n  White       112  17629     1247        21.5\n\nThe values quoted above are not corrected for the expected Galactic\nextinction of E_{B-V} = 0.04 mag (Schlegel et al. 1998)."
+}

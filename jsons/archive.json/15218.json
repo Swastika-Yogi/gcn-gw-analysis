@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130912A: Skynet DSO-14/Yerkes-41/PROMPT-CTIO observations",
+  "eventId": "GRB 130912A",
+  "bibcode": "2013GCN.15218....1T",
+  "createdOn": 1379005669000,
+  "circularId": 15218,
+  "submitter": "Adam S. Trotter at UNC-Chapel Hill/PROMPT/Skynet  <atrotter@physics.unc.edu>",
+  "email": "atrotter@physics.unc.edu",
+  "body": "A. Trotter, D. Reichart, J. Haislip, A. LaCluyze, A. B. Smith, D. Caton, \nL. Hawkins, V. Hoette, K. Cudworth, D. Harper, R. Kron, T. Linder, R. \nRussell, E. Struble, T. Berger, H. T. Cromartie, R. Egger, A. Foster, N. \nFrank, K. Ivarsen, M. Maples, J. Moore, M. Nysewander, and J. A. Crain \nreport:\n\nSkynet observed the Swift/XRT localization of GRB 130912A (D'Elia et \nal., GCN 15212, Swift trigger 570465) with the 14\" telescope at the \nAppalachian State University Dark Sky Observatory (DSO-14) in NC, USA (R \nand I bands), the 41\" telescope of Yerkes Observatory in WI, USA (r' and \ni' bands), and with four 16\" telescopes of the PROMPT array at CTIO, \nChile (B, V, R, and I bands).\n\nStarting at 2013-09-12, 08:47 UT and continuing until 10:26 UT \n(t=12m-111m post-trigger), Skynet took a total of 72 160s exposures. In \nstacked images, we do not detect an optical source in any band in or \nnear the XRT error circle.  Our 3-sigma limiting magnitudes are \ntabulated below:\n\n==================================\ntmid  scope   expos  fil  limit\n==================================\n21m  DSO-14   2x160s  I  >18.7\n24m  DSO-14   2x160s  R  >19.6\n61m  Prompt5 10x160s  I  >20.6\n61m  Prompt4 10x160s  R  >21.0\n61m  Prompt1 10x160s  V  >21.3\n61m  Prompt3 10x160s  B  >21.1\n63m  Y-41    11x160s  i' >21.6\n60m  Y-41     9x160s  r' >21.9\n66m  Y-41     8x160s  g' >21.8\n==================================\n\nBVRI magnitudes are in the Vega System, and g'r'i' magnitudes are in the \nAB system, calibrated to 4 APASS stars in the field.  Magnitudes have \nnot been corrected for line-of-sight Milky Way dust extinction, with \nexpected E(B-V)=0.28 (Schlegel et al. 1998).\n\nNo further Skynet observations are scheduled."
+}

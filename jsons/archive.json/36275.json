@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240422ed: Continued Imaging of Mag24a",
+  "eventId": "LIGO/Virgo/KAGRA S240422ed",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36275....1P",
+  "createdOn": 1713941979922,
+  "circularId": 36275,
+  "submitter": "Ryan Foley at UC Santa Cruz <foley@ucsc.edu>",
+  "body": "A. L. Piro, J. D. Simon (Carnegie), A. Polin (Carnegie/Purdue), D. A. Coulter (STScI), M. R. Drout (Toronto), R. J. Foley, and C. Rojas-Bravo (UC Santa Cruz)\n\nreport on behalf of the Carnegie Gravitational wave ElectroMagnetic follow-up (CGEM) and the One-Meter Two-Hemisphere (1M2H) collaborations:\n\nWe have continued to image Mag24a (GCN 36267), the potential optical counterpart to the candidate gravitational wave event S240422ed (GCN 36236) that was found with a galaxy-targeted search using Teglon [1] with the LDSS-3 imager on the 6.5m Magellan Clay telescope (GCN 36244).  The times of the images on 20240424 UT, filters observed, and length of exposures are as follows.\n\nUT Start  Filter  Exposure time (sec)\n02:00:46  r       300\n02:06:40  g       300\n02:18:01  r       300\n02:24:24  z       120\n02:26:57  z       120\n02:36:55  i       300\n02:42:28  i       300\n\nWe detect Mag24a in the i and z band images.  We update the magnitude measurement from GCN 36267 to i = 22.2 mag and measure z = 22.3 mag from the newly acquired images, resulting in a Milky Way reddening corrected color of i-z = -0.29 mag.  \n\nAs pointed out by Schulze & Tanvir (GCN 36274), a source is detected at this position in the DECaPS survey, with AB magnitudes of r=23.2, i=22.5, and z=22.0.  Given the similarity of these measurements to our detections, we conclude that Mag24a is likely not a transient.\n\nWe thank Marcelo Mora, Povilas Palunas, and the rest of the LCO staff for making these observations possible.\n\n[1] Coulter, D. A. (2021), https://zenodo.org/records/5683508"
+}

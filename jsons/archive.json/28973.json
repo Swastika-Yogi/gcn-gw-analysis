@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-XRT observations of IceCube 201130A",
+  "eventId": "IceCube-201130A",
+  "bibcode": "2020GCN.28973....1D",
+  "createdOn": 1606829652000,
+  "circularId": 28973,
+  "submitter": "Timothee Gregoire at Penn State  <tmg5746@psu.edu>",
+  "email": "tmg5746@psu.edu",
+  "body": "J. DeLaunay (PSU), D. B. Fox (PSU), A. Keivani (Columbia U.),\nJ.P. Osborne (U. Leicester), F. Krauss (PSU), T. Gregoire (PSU),\nP.A. Evans (U. Leicester), J.A. Kennea (PSU),\nH. A. Ayala Solares (PSU) and D.F. Cowen (PSU) report:\n\nSwift observed the field of IceCube 201130A (GCN Circ. 28969) between 20:52:42\n2020 November 30 and 22:53:21 on 2020 November 30, collecting a total of 3.8 ks of\ncleaned photon counting (PC) mode data. The observations used a 4-point tiling\npattern with a radius of ~0.3 degrees.\n\nWe found 2 X-ray sources, as detailed below. All of these are known X-ray\nsources consistent with catalogued fluxes. We therefore do not claim any of\nthem as the likely counterpart to IceCube 201130A.\n\nThe 3-sigma upper limit in the field was in the range 4-7 x 10^-3 ct/sec.\n\nThe detected sources were:\n\nSource no:   1\nRA (J2000):  30.47644 [degrees] = 02h 01m 54.34s\nDec (J2000): -11.8212 [degrees] = -11d 49' 16.3\"\nError:       +4.4 [arcsec, 90% conf. radius]\nCount rate (0.3-10 keV): 7.7 (+3.8, -2.9) x 10-3 ct s-1\nFlux (0.3-10 keV):       3.3 (+1.6, -1.2) x 10-13 erg cm-2 s-1\nNote: This source may be affected by optical loading.\nNote: This source matches SIMBAD source HD12460.\n\nSource no:   2\nRA (J2000):  30.48834 [degrees] = 02h 01m 57.20s\nDec (J2000): -11.5423 [degrees] = -11d 32' 32.2\"\nError:       +2.2 [arcsec, 90% conf. radius]\nCount rate (0.3-10 keV): 0.117 (+/-0.013) ct s-1\nFlux (0.3-10 keV):       5.0 (+/-0.5) x 10-12 erg cm-2 s-1\nNote: This source matches SIMBAD source ICRF J020157.1-113233"
+}

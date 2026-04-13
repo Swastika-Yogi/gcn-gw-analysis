@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of a burst from SGR 1935+2154 on 2021 September 22",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2021GCN.30866....1R",
+  "createdOn": 1632400284000,
+  "circularId": 30866,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, S. Golenetskii, A. Lysenko,\nD. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline\non behalf of the Konus-Wind team, report:\n\nA short, soft, SGR-like burst\ntriggered Konus-Wind on 2021 September 22 at\nT0=72739.639 s UT (20:12:19.639).\n\nThe Konus-Wind ecliptic latitude response is consistent\nwith the SGR 1935+2154 position. So, taking in account\nthe ongoing bursting activity of this source, burst\ntime history, and softness of its spectrum (as observed\nby Konus-Wind), we suggest that this burst is likely\noriginated from SGR 1935+2154.\n\nThe burst light curve shows a single pulse\nstarted at ~T0-100 ms with a total duration of ~172 ms.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/SGRs/210922_T72739/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.46(-0.08,+0.08)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.024 s,\nof 1.59(-0.16,+0.16)x10^-5 erg/cm2/s\n(both in the 20 - 500 keV energy range).\n\nThe spectrum of the burst\n(measured from T0 to T0+0.064 s)\nis best fit in the 20 - 200 keV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.13(-0.76,+0.85)\nand Ep = 37(-6,+4) keV (chi2 = 12/14 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

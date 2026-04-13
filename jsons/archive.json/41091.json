@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250713A: NOT optical upper limits",
+  "eventId": "GRB 250713A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41091....1S",
+  "createdOn": 1752489835868,
+  "submitter": "Andrea Saccardi at CEA/Irfu <andrea.saccardi@cea.fr>",
+  "circularId": 41091,
+  "format": "text/plain",
+  "body": "A. Saccardi (CEA/Irfu), A. Martin-Carrillo (UCD), D. B. Malesani (DAWN/NBI and Radboud), A. de Ugarte Postigo (LAM), G. Corcoran (UCD), J. T. Palmerio (CEA/Irfu), L. Izzo (INAF/OACN and DARK/NBI), B. P. Gompertz (Birmingham), N. Pyykkinen (Univ. of Turku and NOT), K. Valeckas (NBI and NOT), report on behalf of a larger collaboration:\n\nWe observed the field of GRB 250713A detected by SVOM/ECLAIRs (Maggi et al., GCN 41078), using the ALFOSC camera mounted on the Nordic Optical Telescope (NOT) centered at the X-ray source detected by SVOM/MXT. We obtained 5x200 s exposures in each of the SDSS i and z bands, starting at 23:46:40 UT on 2025-07-13 (6.67 hr after the SVOM/ECLAIRs trigger).\n\nNo new optical source is detected at a position consistent with the SVOM/MXT error region and in particular with the EP/FXT Source 2 (Liang et al., GCN 41085) in the stacked images of either band, down to the 5-sigma limiting AB magnitudes of i > 22.9 and z > 22.5, calibrated against nearby stars from the Pan-STARRS catalog and not corrected for Galactic extinction. Our results are consistent with Fu et al. (GCN 41079), Wu et al. (GCN 41089), and Braun et al. (GCN 41090).\n\nWe note the presence of an object just north of EP/FXT Source 2, at coordinates (J2000):\n\nRA = 22:27:34.17\nDec = +38:46:23.8\n\nThis is just 11\" away from the centre of the 10\"-radius EP/FXT error circle. This point-like object is detected in both our images and in the archival Pan-STARRS images of the field. It is fainter in the NOT images, by ~0.3 and 0.2 mag in the i and z bands, respectively, indicating long-term variability. It is also listed in the Gaia catalog (doi:10.1051/0004-6361/202243940) as having a ~68% probability of being a QSO. It is thus possible that this object is responsible for the EP/FXT X-ray source, which would be then unrelated to GRB 250713A. We encourage further EP/FXT observations to test for variability of this X-ray source.\n\nFurther NOT images are planned at a later date to test for short-term variability of objects in the field."
+}

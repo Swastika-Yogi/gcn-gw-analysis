@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240414A : MITSuME Akeno optical upper limits",
+  "eventId": "GRB 240414A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36088....1N",
+  "createdOn": 1713096004579,
+  "circularId": 36088,
+  "submitter": "Masafumi Niwano at Tokyo Institute of Technology <niwano@hp.phys.titech.ac.jp>",
+  "body": "M. Niwano, M. Sasada, I. Takahashi, N. Higuchi, S. Hayatsu, H. Seki, Y. Yatsu and N. Kawai  (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 240414A (Caputo et al., GCN 36083) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2024-04-14 09:46:06 UT (7.4 hrs after the Swift/BAT trigger). We stacked the images with good conditions. We did not detect any uncatalogued sources within the enhanced Swift/XRT error region (Caputo et al., GCN 36083), despite the detection report of Schneider et al., (GCN 36084). We obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[hrs] | MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n7.7 | 2024-02-14 10:27:15.26 | 900 | g'>17.7, Rc>18.7, Ic>18.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP250610a: SVOM/VT optical upper limit",
+  "eventId": "EP250610a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40666....1Y",
+  "createdOn": 1749560124429,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 40666,
+  "format": "text/plain",
+  "body": "Z. H. Yao, L. P. Xin, Y. L. Qiu, H. L. Li, C. Wu, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, Y. N. Ma, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA),Y. J. Zhang (THU), T. Y. Lian, H. Q. Cheng, C. C. Jin (NAO, CAS), Lin Lan (NAOC), Run-Chao Chen (NJU), Chen-Wei Wang, Wen-Jun Tan (IHEP) report on behalf of the SVOM and EP mission team:\n\nSVOM performed a Target of Opportunity observation of EP250610a detected by EP/WXT (Zhang et al., GCN 40660). SVOM/VT began observing the field at 2025-06-10 06:16:38 UTC, 1.85 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nNo credible candidate was detected in our single or stacked images within the errorbox of EP/FXT (Zhang et al., GCN 40660) or  Swift/XRT (Evans et al., GCN 40662 ), the three sigma limits are:\n \n[date-obs|mid-time] | exposure time (s) | band | upper limit (AB) \n----------- --------|-------------------|------|-----------------\n2025-06-10T07:29:10 | 76×70             | VT_B | 23.93\n2025-06-10T07:29:10 | 76×70             | VT_R | 23.45\n\nThe upper limit is consistent with reports (Schneider et al., GCN 40661, Brivio et al., GCN 40665).\n  \nDeeper or redder follow-ups are encouraged to investigate the nature of the transient。\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

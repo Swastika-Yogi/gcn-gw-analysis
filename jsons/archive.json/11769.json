@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB110223A",
+  "eventId": "GRB 110223A",
+  "bibcode": "2011GCN.11769....1D",
+  "createdOn": 1298589150000,
+  "circularId": 11769,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and T. Sakamoto (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110223A\n97 s after the BAT trigger (Sakamoto et al., GCN Circ. 11753).\nNo optical afterglow consistent with the XRT enhanced position\n(Evans et al., GCN circ. 11759) is detected in the initial UVOT exposures\nnor in the summed exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter       T_start(s)    T_end(s)   Exp     Magnitude\n\nwhite (fc)        97          246     147\t>20.81\nwhite             97         5588     344\t>21.16\n\nv                639         5998     217\t>19.40\n\nb                565         5383     216\t>20.00\n\nu (fc)           310          559     196\t>19.41\nu                310         5177     443\t>20.15\n\nuw1             4773         6408     393\t>20.13\n\num2              663         6203     412\t>20.14\n\nuw2              615         5794     216\t>19.89\n\nThe above magnitudes are not corrected for the strong Galactic\nextinction along the line of sight, corresponding to E(B-V) = 0.34\n(Schlegel et al. 1998)."
+}

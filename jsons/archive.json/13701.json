@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120817A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 120817A",
+  "bibcode": "2012GCN.13701....1I",
+  "createdOn": 1346110430000,
+  "circularId": 13701,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (NASA/CRESST/GSFC) and B. P. Gompertz (U Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 120817A\n3115 s after the BAT trigger (Gompertz et al., GCN Circ. 13661).\nNo optical afterglow consistent with the XRT (Beardmore et al., GCN\n13667) or the FTN positions (Guidorzi et al., GCN 13664) is detected\nin the initial UVOT exposures. \n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC          3115         3265          147         >19.4\nwhite             3115         4496          344         >20.4\nv                 3272        10816         1278         >20.2\nb                 4092        17166          945         >21.1\nu                 3887        22943         1904         >21.1\nw1                3682        22294         2164         >20.3\nm2                3476        21386         1838         >20.2\nw2                4503         9902         1082         >20.0\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.84 in the direction of the burst\n(Schlegel et al. 1998)."
+}

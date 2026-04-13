@@ -1,0 +1,9 @@
+{
+  "subject": "AXP 4U 0142+61: Swift-BAT refined analysis (trigger 511611)",
+  "bibcode": "2012GCN.12831....1B",
+  "createdOn": 1326414798000,
+  "circularId": 12831,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+420 sec from recent telemetry downlinks,\nwe report further analysis of BAT trigger #511611 on AXP 4U 0142+61\n(Barthelmy, et al., GCN Circ. 12829).  The partial coding was 84%.\n \nThe mask-weighted light curve shows a single FRED-like peak starting at T_0\nand lasting for ~250 msec.  T90 (15-350 keV) is 0.024 +- 0.009 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T+0.008 to T+0.036 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.32 +- 0.50.  The fluence in the 15-150 keV band is 6.8 +- 2.1 x 10^-9 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.48 sec in the 15-150 keV band\nis 0.4 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/511611/BA/"
+}

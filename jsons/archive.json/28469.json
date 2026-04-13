@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-200921A: Upper limits from Fermi-GBM Observations",
+  "eventId": "IceCube-200921A",
+  "bibcode": "2020GCN.28469....1H",
+  "createdOn": 1600742931000,
+  "circularId": 28469,
+  "submitter": "Rachel Hamburg at UAH  <rkh0007@uah.edu>",
+  "email": "rkh0007@uah.edu",
+  "body": "R. Hamburg (UAH) reports on behalf of the Fermi-GBM team:\n\nFor the IceCube high-energy neutrino candidate event IceCube-200921A\n(GCN 28468), at the event time Fermi-GBM was observing the reported\nneutrino location at:\n\nRA: 195.29 (+2.35  -1.73 deg 90% PSF containment) J2000\nDec: 26.24 (+1.51  -1.77 deg 90% PSF containment) J2000\n\nThere was no Fermi-GBM onboard trigger around the event time of the\nneutrino candidate. An automated, blind search for short gamma-ray\nbursts below the onboard triggering threshold in Fermi-GBM also\nidentified no counterpart candidates. The GBM targeted search,\nthe most sensitive, coherent search for GRB-like signals,\nwas run from +/-30 s around the neutrino candidate time.\nFrom this search, no significant signal was found related\nto IceCube-200921A.\n\nWe set upper limits on impulsive gamma-ray emission. Using the\nrepresentative soft, normal, and hard GRB-like templates described in\narXiv:1612.02395, we set the following 3 sigma flux upper limits over\n10-1000 keV (in units of 10^-6 erg/s/cm^2):\n\nTimescale   Soft     Normal   Hard\n--------------------------------------\n0.128 s:    17.      34.      73.\n1.024 s:    6.4      13.      21.\n8.192 s:    2.2      2.5      1.4\n\nThese results are preliminary."
+}

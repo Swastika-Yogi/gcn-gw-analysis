@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 506884 is not a GRB",
+  "bibcode": "2011GCN.12517....1B",
+  "createdOn": 1320294054000,
+  "circularId": 12517,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), E. A. Hoversten (PSU),\nF. E. Marshall (NASA/GSFC), B. Sbarufatti (INAF-OAB/IASFPA),\nM. H. Siegel (PSU) and M. C. Stroh (PSU) report on behalf of the Swift\nTeam:\n\nAt 03:28:08 UT 03 Nov 2011, Swift-BAT triggered as a result\nof the star tracker having lost lock.  This trigger is not\ndue to a GRB or anything astrophysical. \n\nOnly one GCN Notice type (the Quick_Look type that goes to robotic\ntelescopes) was distributed to the world.  All the rest of the notice types\nwere automatically blocked-to-world for Image triggers that occur\nduring a period of star tracker loss-of-lock.  But the Quick-Look notice\nis produced before any information is received that it is an Image trigger."
+}

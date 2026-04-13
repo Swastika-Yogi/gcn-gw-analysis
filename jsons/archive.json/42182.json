@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251006A: CALET Gamma-Ray Burst Monitor detection",
+  "eventId": "GRB 251006A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42182....1S",
+  "createdOn": 1760091467301,
+  "circularId": 42182,
+  "submitter": "Yuta Kawakubo at Aoyama Gakuin University <kawakubo@phys.aoyama.ac.jp>",
+  "format": "text/plain",
+  "body": "T. Sakamoto, A. Yoshida, S. Sugita, Y. Kawakubo (AGU),\nK. Yamaoka (Nagoya U), S. Nakahira (JAXA), Y. Asaoka (ICRR), S. Torii,\nY. Akaike, K. Kobayashi (Waseda U), Y. Shimizu, T. Tamura (Kanagawa U),\nN. Cannady (GSFC/UMBC), M. L. Cherry (LSU), S. Ricciarini (U of Florence),\nP. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe short GRB 251006A (Fermi GBM Final Real-time Localization: Fermi GBM team, GCN Circ. 42124;\nGlowbug gamma-ray detection: Cheung et al., GCN Circ. 42130;\nSwift/BAT-GUANO subthreshold detection: DeLaunay et al., GCN Circ. 42144;\nFermi GBM Observation: Palafox et al., GCN Circ. 42175) triggered the CALET Gamma-ray\nBurst Monitor (CGBM) at 13:27:35.21 UTC on 6 October 2025\n(https://cgbm.calet.jp/cgbm_trigger/flight/1443792004/index.html).\nThe burst signal was seen by only the SGM detector.  \nNo real-time CGBM GCN notice was distributed about this trigger because \nthe real-time communication from the ISS was off (loss of signal).\n\nThe burst light curve shows a single pulse that starts\nat T-0.22 sec and ends at T+0.04 sec.\nThe T90 and T50 durations measured by the SGM data are 0.21 +/- 0.05 sec\nand 0.11 +/- 0.05 sec (40-1000 keV), respectively.\n\nThe ground-processed light curve is available at\n\nhttps://cgbm.calet.jp/cgbm_trigger/ground/1443792004/\n\nThe CALET data used in this analysis are provided by\nthe Waseda CALET Operation Center located at Waseda University."
+}

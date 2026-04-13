@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251027A: SVOM/COLIBRÍ (FM-GFT) optical upper limit",
+  "eventId": "GRB 251027A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42480....1D",
+  "createdOn": 1761576457173,
+  "submitter": "J.-G. Ducoin at CPPM <ducoin@cppm.in2p3.fr>",
+  "circularId": 42480,
+  "format": "text/plain",
+  "body": "Damien Dornic (CPPM), William H. Lee (UNAM), Jean-Grégoire Ducoin (CPPM), Stéphane Basa (UAR Pytheas), Alan M. Watson (UNAM), Fredd Alvarez (UNAM), Jean-Luc Atteia (IRAP), Camila Angulo (UNAM), Dalya Akl (NYUAD), Sarah Antier (IJCLAB), Rosa L. Becerra (UNAM), Nathaniel R. Butler (ASU), Francis Fortin (IRAP), Leonardo García García (UNAM), Ramandeep Gill (UNAM), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Margarita Pereyra (UNAM), Ny Avo Rakotondrainibe (LAM), Benjamin Schneider (LAM), Antonio de Ugarte Postigo (LAM), Y. H.Cheng (YNU) and Y. F. Liang (PMO) :\n\nWe imaged the field of the SVOM GRB 251027A (Cheng et al., GCN Circ. 42471) using the DDRAGO wide-field imager on the SVOM/COLIBRÍ (FM-GFT) telescope. We observed from 2025-10-27T10:08:34 to 2025-10-27T10:47:17 UTC (from 31 to 69 minutes after the trigger) and obtained 32x60 seconds of exposure in the r and z filters.\n\nThe data were reduced and coadded with the COLIBRÍ pipeline and analyzed with STDWeb/STDPipe (Karpov 2025). The photometry was calibrated using nearby stars from the PanSTARRS DR1 catalog, is in the AB system, and is not corrected for Galactic extinction (Av>2).\n\nIn the stacked image, we do not detect any new source at the ECLAIRs source position (Cheng et al., GCN Circ. 42471) down to the following 5-sigma limit:\n\nr > 23.57\nz > 22.26\n\nFurther analysis is ongoing.\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n\nCOLIBRÍ is an astronomical observatory developed and operated jointly by France (AMU, CNES and CNRS) and Mexico (UNAM and SECIHTI). It is located at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir, Baja California, Mexico.\n"
+}

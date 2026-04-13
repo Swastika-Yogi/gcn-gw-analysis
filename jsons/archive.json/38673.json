@@ -1,0 +1,11 @@
+{
+  "subject": "EP241223a: Mondy AZT-33IK optical observations",
+  "eventId": "EP241223a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38673....1P",
+  "createdOn": 1735225622834,
+  "circularId": 38673,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP) report on behalf of the IKI-GRB-FuN collaboration:\n\nWe performed optical observations of the field of EP241223a (Zhou et. al, GCN 38660; Lipunov et. al, GCN 38661; Jin et. al, GCN 38665) in the R filter with the 1.5-meter AZT-33IK telescope of Sayan (Mondy) observatory. The observations began on 2024-12-24 14:16 UT, i.e. ~1.3 days since trigger. After the PS1 template subtraction, we do not find any new optical sources in the stacked image of 30*120 sec. The preliminary upper limit is as follows:\n\nDate       UTstart   t-T0         Exp.    Filter  OT   Err.  UL(3sigma)\n                     (mid, days)  (s)\n2024-12-24 14:16:07  1.30885      30*120  R       n/d  n/d   21.8 \n\nThe photometry is calibrated using nearby stars from the USNO-B1.0 catalog (R2 magnitudes) and has not been corrected for the Galactic extinction."
+}

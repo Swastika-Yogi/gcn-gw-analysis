@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250727A: EP-FXT counterpart detection",
+  "eventId": "GRB 250727A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41182....1Y",
+  "createdOn": 1753675211694,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "circularId": 41182,
+  "format": "text/plain",
+  "body": "Y.-H. I. Yin (NJU), R. D. Liang, Z. X. Ling (NAO, CAS) on behalf of the Einstein Probe (EP) team: \n\nEP-FXT performed a follow-up observation of the SVOM/ECLAIRs-detected burst GRB 250727A (SVOM/sb25072701) (Cao et al. GCN 41176) at 2025-07-27T12:37:29 (UTC), about 1.7 hours after the SVOM/ECLAIRs trigger, with an exposure time of 4209s. Three uncatalogued sources are detected within the ECLAIRs error circle, among which Source 3 is spatially consistent with the candidate counterpart Source 1 (SWIFT J234539.1-811248) detected by Swift/XRT (Evans et al. GCN 41180). Preliminary analysis on these source are automatically conducted, and the details are listed as follows.\n\nSource 1: EPF_J234436.3-810410\nRA (J2000): 356.1514\nDec (J2000): -81.0694\nFlux: 4.96 x 10^-14 erg/s/cm^2 (observed, 0.5-10 keV)\nFlux_err: 2.00 x 10^-14 erg/s/cm^2 (1 sigma)\n\nSource 2: EPF_J234357.8-811244\nRA (J2000): 355.9909\nDec (J2000): -81.2121\nFlux: 6.82 x 10^-14 erg/s/cm^2 (observed, 0.5-10 keV)\nFlux_err: 2.18 x 10^-14 erg/s/cm^2 (1 sigma)\n\nSource 3: EPF_J234541.4-811245\nRA (J2000): 356.4225\nDec (J2000): -81.2124\nFlux: 1.36 x 10^-13 erg/s/cm^2 (observed, 0.5-10 keV)\nFlux_err: 3.44 x 10^-14 erg/s/cm^2 (1 sigma)\nNote: This source is spatially consistent with the candidate counterpart Source 1 (SWIFT J234539.1-811248) detected by Swift/XRT.\n\nThe Source 2, and 3 are detected by both FXT-A and FXT-B, while Source 1 is detected only by FXT-A. The positional uncertainty of the sources are about 10 arcsec in radius (90% C.L. statistical and systematic).\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics)."
+}

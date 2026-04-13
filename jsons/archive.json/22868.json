@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180626C",
+  "eventId": "GRB 180626C",
+  "bibcode": "2018GCN.22868....1K",
+  "createdOn": 1530184936000,
+  "circularId": 22868,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 180626C\n(IPN triangulation: Svinkin et al., GCN 22864)\ntriggered Konus-Wind at T0=33832.424 s UT (09:23:52.424).\n\nThe burst light curve shows a single pulse\nwhich starts at T0-40 ms and has a total duration of ~340 ms.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 6.13(-1.15,+2.18)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.032 s,\nof 7.87(-2.06,+3.15)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the most intense part of the burst was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0-0.04 s to T0+0.336 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.87 (-0.23,+0.31), and Ep = 406 (-113,+225) keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180626_T33832/\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

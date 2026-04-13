@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061210: Swift-BAT detection of a short burst",
+  "eventId": "GRB 061210",
+  "bibcode": "2006GCN..5904....1C",
+  "createdOn": 1165755163000,
+  "circularId": 5904,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "J. K. Cannizzo (NASA/UMBC), L. M. Barbier (NASA/GSFC),\nS. D. Barthelmy (GSFC), N. Gehrels (NASA/GSFC),\nC. B. Markwardt (GSFC/UMD), J. P. Osborne (U Leicester),\nK. L. Page (U Leicester), D. M. Palmer (LANL) and\nM. Stamatikos (NASA/ORAU) report on behalf of the Swift Team:\n\nAt 12:20:39 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 061210 (trigger=243690).  Swift did not slew because\nof the Moon observing constraint -- this burst is 4 deg from the Moon. \nThe BAT on-board calculated location is \nRA, Dec 144.514, +15.632 which is \n   RA(J2000)  =  09h 38m 03s\n   Dec(J2000) = +15d 37' 56\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single spike\nstructure with a duration of about 0.8 sec.  The peak count rate\nwas ~27,000 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nNo XRT or UVOT observations will be possible until the burst \nemerges from the spacecraft Moon constraint in about 1.5 days. \n\n[GCN OPS NOTE(10dec06): Per author's request, a typo in the first\nauthor's initials was corrected from \"J, K. C.\" to \"J. K.\".]"
+}

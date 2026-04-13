@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200729A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 200729A",
+  "bibcode": "2020GCN.28177....1O",
+  "createdOn": 1596112918000,
+  "circularId": 28177,
+  "submitter": "Samantha Oates at MSSL  <samantha.oates@alumni.ucl.ac.uk>",
+  "email": "samantha.oates@alumni.ucl.ac.uk",
+  "body": "S. R. Oates (U.Birmingham) and P. A. Evans (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 200729A\n145 s after the BAT trigger (Evans et al., GCN Circ. 28165).\nNo optical afterglow is detected above the flux of NGC 4242, consistent with the XRT position\n(Osborne et al. GCN Circ. 28168), in the initial UVOT exposures. For all filters, we\nhave attempted to subtract off the light of NGC 4242 by measuring the flux\nat a position offset from the XRT position, but of a similar brightness.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           145          295          147         >20.0\nu_FC               303          553          246         >18.9\nwhite              145          1874         431         >20.0\nv                  633          1749         136         >17.6\nb                  559          1849         136         >18.7\nu                  303          1824         362         >18.9\nw1                 682          1799          97         >18.2\nm2                 658          1428          39         >17.8\nw2                1359          1725          58         >17.8\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

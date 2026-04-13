@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 021112: RAPTOR Observations",
+  "eventId": "GRB 021112",
+  "bibcode": "2002GCN..1689....1W",
+  "createdOn": 1037229708000,
+  "circularId": 1689,
+  "submitter": "James Wren at LANL  <jwren@nis.lanl.gov>",
+  "email": "jwren@nis.lanl.gov",
+  "body": "J. Wren, W. T. Vestrand, K. Borozdin, S. Brumby, D. Casperson,\nM. Galassi, K. McGowan, D. Starr, R. White, and P. Wozniak report:\n\nOne of our RAPTOR (RAPid Telescopes for Optical Response) wide-field\ntelescope arrays responded to the HETE-2 alerts for GRB 021112\n(trigger #2448).  That array, located in Los Alamos, New Mexico, is\ncomposed of four Canon 85 mm f1.2 telephoto lenses, which together\nimage approximately 1300 squares degrees, and a central \"fovea\"\ntelescope employing a 400 mm f2.8 Canon telephoto lens that images a\ncentral 16 square degree field. An unfiltered Apogee AP-10 CCD camera\nis located at the focal plane of each telescope.\n\nMosaic imaging of the HETE-2 field-of-view began at 3:29:01 UTC, just\n45.4 s after the GRB trigger.  All of the images of the burst location\ntaken before the GRB position was released place the location of the\nburst just 100 pixels from the edge of the imager where vignetting\ncauses a significant loss of sensitivity.  The image sensitivity was\nfurther reduced by thin cirrus clouds which were apparent in all of\nthe early images.  No new objects were detected within the HETE-2\nerror circle after comparison with archival images.  The following\nlimits were obtained for the initial response images:\n\nExposure    Time since  Exposure    Limiting   Imager\nstart time  trigger     duration    Magnitude\n(UTC)       (minutes)   (seconds)   (5 sigma)\n---------------------------------------------------------------\n3:29:56      1.67           5         11.4     wide-field\n3:32:49\t     4.55          30         11.7     wide-field\n4:49:44     81.46          30         14.6     fovea\n\nThis message is citable."
+}

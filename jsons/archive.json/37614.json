@@ -1,0 +1,10 @@
+{
+  "subject": "AMON Coincidence Alert from the sub-threshold IceCube-HAWC search NuEm-240926A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37614....1A",
+  "createdOn": 1727379265331,
+  "circularId": 37614,
+  "submitter": "Hugo Ayala at Pennsylvania State University <hgayala@psu.edu>",
+  "format": "text/plain",
+  "body": "The AMON,  IceCube, and HAWC collaborations report:\n\nThe AMON NuEm stream channel found a coincidence alert from the\nIceCube online neutrino selection + HAWC daily monitoring analysis.\nThe analysis looks for IceCube neutrino events -mostly atmospheric\nin origin- around the position and transit time of a HAWC cluster of\nlikely gamma rays, as identified in the integrated observations from\na single transit, in this case having a duration of 6.06 hours.\n\nThe HAWC transit interval starts from 2024/09/26 13:12:19 UT  to\n2024/09/26 19:01:26 UT\n(End of the HAWC transit time)\n\nThe location of the coincidence is reported as\nRA (J2000): 149.97 deg\nDec (J2000): 46.22 deg\nLocation uncertainty (50% containment): 0.22 deg (statistical only).\nLocation uncertainty (90% containment): 0.41 deg (statistical only).\n\nThe false alarm rate (FAR) of this coincidence is 3.41 per year.\nWe encourage follow-up observations of the alert region contingent on\nthe availability of resources and interest, given the quoted FAR.\n\nA quick search in the region reveals the 4FGL source J0959.6+4606\nit's ~0.1 deg away from the coincidence position.\nOther 4FGL sources that appear nearby are J0958.0+4728, J1008.1+4706\nand J0950.2+4553\n\nAMON seeks to perform a real-time correlation analysis of the\nhigh-energy signals across all known astronomical messengers. More\ninformation about AMON can be found in https://www.amon.psu.edu/\nInformation on the IceCube collaboration: http://icecube.wisc.edu/\nInformation on the HAWC collaboration: https://www.hawc-observatory.org"
+}

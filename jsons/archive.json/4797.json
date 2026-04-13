@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060219: Swift-XRT Team refined analysis",
+  "eventId": "GRB 060219",
+  "bibcode": "2006GCN..4797....1M",
+  "createdOn": 1140438627000,
+  "circularId": 4797,
+  "submitter": "Alberto Moretti at Obs Brera Merate  <moretti@merate.mi.astro.it>",
+  "email": "moretti@merate.mi.astro.it",
+  "body": "A. Moretti (INAF-OAB) reports on behalf of the Swift XRT team:\n\nAnalysing the first seven orbits of data (8.6 ks in Photon Counting mode,\nin the range from 120 s to 25 ks from the BAT trigger),\nthe following refined position for the X-ray afterglow was determined:\n\nRA(J2000) =   16h 07' 21.10\"\nDec(J2000) = +32d 18' 56.3\"\n\nwith an estimated uncertainty of 3.9 arcsec (90% containment). This is\n72 arcsec from the BAT position reported by Bathelmy et al. (GCN 4795)\nand 0.5 arcsec from the XRT position given Moretti et al. (GCN 4793).\n\nThe light-curve shows a single power decay of 0.65 +/- 0.20 from the\nbeginning of the observation (120 s after the trigger) up to 25 ks.\n\nThe spectrum can be fitted with a power-law of photon index Gamma = 2.1\n+/- 0.2, assuming a Galactic column of 2.4E+20 cm^-2; there is no evidence\nfor excess NH in these data.\n\nAssuming the current decay slope of 0.65 continues, and using the spectral\nfit to the first orbit of data, the XRT count rate is predicted to be\n0.006 counts/s at 24 hours, corresponding to an observed flux of 3.0e-13 \nerg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT Team."
+}

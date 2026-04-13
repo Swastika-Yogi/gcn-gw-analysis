@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200416A: Swift/UVOT Detection",
+  "eventId": "GRB 200416A",
+  "bibcode": "2020GCN.27602....1S",
+  "createdOn": 1587192043000,
+  "circularId": 27602,
+  "submitter": "Kira Simpson at PSU  <kira.simpson1984@gmail.com>",
+  "email": "kira.simpson1984@gmail.com",
+  "body": "GRB 200416A: Swift/UVOT Detection\n\nK. K. Simpson (PSU) and P. A. Evans (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 200416A\n102 s after the BAT trigger (Evans et al., GCN Circ. 27591).\nA source consistent with the XRT position\n(Evans GCN Circ. 27594)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  22:22:47.84 = 335.69934 (deg.)\n    Dec (J2000) = -07:31:06.0  =  -7.51833 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              102          252          147         16.57 +/- 0.03\nv                  644          664           19         17.05 +/- 0.32\nb                  570          590           20         17.48 +/- 0.20\nu                  314          564          246         16.44 +/- 0.04\nw1                 694          714           20         16.59 +/- 0.23\nm2                 668          688           19        >16.3\nw2                 620          640           19        >17.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.06 in the direction of the burst\n(Schlegel et al. 1998)."
+}

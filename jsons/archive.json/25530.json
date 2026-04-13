@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190828j: No counterpart candidates in Fermi-LAT observations",
+  "eventId": "LIGO/Virgo S190828j",
+  "bibcode": "2019GCN.25530....1P",
+  "createdOn": 1567032192000,
+  "circularId": 25530,
+  "submitter": "Frederic Piron at CNRS/IN2P3/LUPM  <piron@in2p3.fr>",
+  "email": "piron@in2p3.fr",
+  "body": "F. Piron (CNRS/IN2P3/LUPM), N. Omodei (Stanford Univ.), F.��Longo (Univ. \nand INFN Trieste), M. Arimoto (Kanazawa Univ.), D. Kocevski (NASA/MSFC), \nM. Axelsson (KTH and Stockholm Univ.) and E. Bissaldi (Politecnico and \nINFN Bari)��report on behalf of the Fermi-LAT Collaboration:\n\nWe have searched data collected by the Fermi Large Area Telescope (LAT) \non Aug 28, 2019, for possible high-energy (E > 100 MeV) gamma-ray \nemission in spatial/temporal coincidence with the LIGO/Virgo trigger \nS190828j��(GCN 25497).\n\nWe define \"instantaneous coverage\" as the integral over the region of \nthe LIGO probability map that is within the LAT field of view at a given \na time, and \"cumulative coverage\" as the integral of the instantaneous \ncoverage over time. Fermi-LAT had a null instantaneous coverage of the \nLIGO probability region at the time of the trigger (T0 = 2019-08-28 \n06:34:05.756UTC), and reached ~52%��cumulative coverage after 10 ks.\n\nWe performed a search for a transient counterpart within the observed \nregion of the 90% contour of the LIGO map in a fixed time window from T0 \nto T0 + 10 ks. No significant sources were found.\n\nWe also performed a search which adapted the time interval of the \nanalysis to the exposure of each region of the sky, and no additional \nexcesses were found.\n\nEnergy flux upper bounds for the fixed time interval between 100 MeV and \n1 GeV for this search vary between 4.3e-10 and 8.5e-8 [erg/cm^2/s].\n\nThe Fermi-LAT point of contact for this event is Frederic Piron \n(piron@in2p3.fr).\n\nThe Fermi-LAT is a pair conversion telescope designed to cover the \nenergy band from 20 MeV to greater than 300 GeV. It is the product of an \ninternational collaboration between NASA and DOE in the U.S. and many \nscientific institutions across France, Italy, Japan and Sweden."
+}

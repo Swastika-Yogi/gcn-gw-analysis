@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060605: Swift/UVOT detections",
+  "eventId": "GRB 060605",
+  "bibcode": "2006GCN..5228....1B",
+  "createdOn": 1149594644000,
+  "circularId": 5228,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL) and M. J. Page (UCL-MSSL) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB060605\nat 18:17:21 on 2006-06-05, 97 s after the BAT trigger (Page et al.,\nGCN 5221). An optical afterglow was detected at (RA,DEC) (J2000) of\n(21h28m37.32s,-06o03'31.3\") with a 1-sigma error radius of about\n0.5 arcsec, in the V, B and White filters, which is consistent\nwith the redshifts of 3.8 (Peterson et al., GCN 5223) or 3.7\n(Still et al., GCN 5226) already reported for this GRB.\nMagnitudes and three-sigma upper limits are as follows:\n\nFilter   T_range(s)   Exp(s)  Mag/3sig_UL\nV        202-595      386     16.53 +/- 0.04\nV        10172-10471  291     19.0  +/- 0.2\n\nB        4388-4588    190     20.0 +/- 0.2\nB        23023-23322  287     21 +/- 1\n\nU        4184-23017   2140    21.1 (3sig_UL)\nUVW1     3979-22104   2030    20.2 (3sig_UL)\nUVM2     3774-11377   1267    20.7 (3sig_UL)\nUVW2     4798-6381    338     19.9 (3sig_UL)\n\nWhite    97-197       98      17.64 +/- 0.06\nWhite    17477-17776  291     20.5 +/- 0.3\n\nThese values are not corrected for the estimated Galactic\nextinction of E(B-V) = 0.049."
+}

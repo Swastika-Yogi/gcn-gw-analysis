@@ -1,0 +1,11 @@
+{
+  "subject": "GRB241013A: REM observations",
+  "eventId": "GRB 241013A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37787....1F",
+  "createdOn": 1728943918360,
+  "circularId": 37787,
+  "submitter": "Matteo Ferro at INAF-OAB <matteo.ferro@inaf.it>",
+  "format": "text/plain",
+  "body": "M. Ferro, S. Campana, Y.-D. Hu, R. Brivio, P. D’Avanzo, S. Covino, and D. Fugazza (INAF-OAB) report on behalf of the REM team:\nWe observed the field of GRB 241013A, detected by Fermi GBM (Fermi GBM Team GCN 37780) and INTEGRAL (Gotz et al. GCN 37781), with the REM 60cm robotic telescope located at the ESO observatory of La Silla (Chile), for two consecutive nights. The observations were carried in the g, r, i, z, J, H bands, starting:\n(1) epoch 1 on 2024 October 13 at 01:23 UT (i.e. 24.4 minutes after the INTEGRAL trigger), and lasting for about 1 hours.\n(2) epoch 2 on 2024 October 14 at 00:57 UT (i.e. 1 day after the INTEGRAL trigger), and lasting for about 1 hours.\n\nWe note that the field is extremely crowded due to its localization near the Galactic plane, where the extinction is significantly high, with E(B-V) = 11.8 (https://irsa.ipac.caltech.edu/workspace/TMP_QnYsQd_14990/DUST/18_20_57.1_-15_38_09.5.v0001/extinction.html)\n\nFrom preliminary photometry within the 90% c.l. INTEGRAL error region (2.5 arcmin) we detect a source that is not listed in the 2MASS catalog, in H band first epoch, at the following position (J2000):\nR.A. = 18:20:57.1 \nDEC. = -15:38:09.5\nwith a fiducial uncertainty of 3 arcsec. \nWith magnitude:\nepoch (1) H = 14.9+-0.3 (Vega; against 2MASS)\n\nThe source is not detected in the second epoch down to:\nepoch (2) H > 15.3 (Vega; against 2MASS)\n\nWe note however that two PS1 sources are consistent with the candidate position, and a third one is marginally consistent, with r-band magnitudes ~20.3, ~21.6, and ~20.4, respectively. From preliminary photometry at the H-band source position, on the two r-band observations, we find:\nepoch (1) r > 19.7 (AB; against PS1)\nepoch (2) r = 19.8+-0.3 (AB; against PS1)\n\nWe suggest that this could be the blending of the PS1 sources, only detected in the second epoch given our deeper magnitude limit with respect to the first night. Further analysis is ongoing."
+}

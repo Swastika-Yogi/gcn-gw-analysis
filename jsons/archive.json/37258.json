@@ -1,0 +1,11 @@
+{
+  "subject": "GRB240824A: GRANDMA/TAROT-TCA Upper Limit",
+  "eventId": "GRB 240824A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37258....1A",
+  "createdOn": 1724493247458,
+  "submitter": "Dalya Akl at American Uni. SHJ <dalyaakl.d@gmail.com>",
+  "circularId": 37258,
+  "format": "text/plain",
+  "body": "D. Akl (AUS), S. Antier (OCA), M. Coughlin (UMN), P-A Duverne (APC), P. Hello (IJCLAB), C. Andrade (UMN), I. Tosta e Melo (UniCT-DFA), S. Karpov (FZU), D. Turpin (CEA-Saclay/Irfu), N. Guessoum (AUS), T. Pradier (Unistra/IPHC), A. Klotz (CNRS-OMP-IRAP), M. Boer, S. Gervasoni, C. Limonta (OCA) on behalf of the GRANDMA collaboration:\n\nWe imaged the field of GRB 240824A, detected by SWIFT (GCN 37254), with the TAROT-TCA telescope at the Calern observatory. The observations started ~1 min after the GRB trigger (without filter) and finished 150 min later. \n\nWe did not detect any optical counterpart within the SWIFT localization error box (3 arcmin radius centered on RA, Dec = 213.203, 63.737 (deg)). We estimate an upper limit of 17.0 mag in Gaia G (5-sigma) up to 5 min post-T0, and an upper limit of 17.3 mag in Gaia G for each 30-minute epoch from 15 - 150 min post-T0.\n\nThe data has been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). \n\nWe also performed force photometry at the location of the Skynet optical afterglow candidate (GCN 37255), at RA, Dec (deg)=213.183, 63.730, and did not detect any optical counterpart, utilizing various exposures, and estimated an upper limit of 17.3 mag in Gaia G (Vega mag, 5-sigma) from 1 min post-T0 to 150 min, consistent with Zheng et al. (GCN 37256). We can not conclude that the candidate found in Dutton et al. (GCN 37255) is a real source.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign.\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 49, 5518).\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060912: Swift XRT Team Refined Analysis",
+  "eventId": "GRB 060912",
+  "bibcode": "2006GCN..5562....1H",
+  "createdOn": 1158086772000,
+  "circularId": 5562,
+  "submitter": "Cheryl Pauline Hurkett at Leicester U  <cph9@star.le.ac.uk>",
+  "email": "cph9@star.le.ac.uk",
+  "body": "C. P. Hurkett, K.L. Page and E. Rol (U Leicester)\nreport on behalf of the Swift XRT team:\n\nWe have analysed the Swift XRT data from the first orbit observation\nof GRB 060912 (Hurkett et al., GCN 5558), with a total exposure of\n1.7 ks seconds.  The refined XRT position is:\n\n   RA(J2000) =  00 21 08.23\n  Dec(J2000) = +20 58 15.8\n\nThis position is 10.9 arcseconds from the BAT position given in GCN\n5558 (Hurkett et al. 2006), 2.8 arcseconds from the XRT position and\n2.0 arcseconds from the UVOT given in the same GCN. We estimate an\nuncertainty of 3.6 arcseconds radius (90% containment).\n\nThe 0.3-10.0 keV Photon Counting (PC) mode starts 135 seconds after the \nBAT trigger (T0). The count rate is declining with a decay slope of 0.62 \n(+/-0.12).\n\nA preliminary spectral fit to the PC data gives a spectral power law \nphoton index of 2.08 +/- 0.20 in the [0.3-10] keV band, with a free \nabsorption of 0.17 (+/- 0.06)e22 cm^-2 (Galactic absorption at this \nlocation is 4.20e20 cm^-2).  The average (in the time range 135-1860 \nseconds from trigger) estimated unabsorbed 0.3-10 keV flux is then about \n2.9E-11 erg/cm2/s.\n\nThe XRT count rate extrapolated to T0+24 hr is estimated to be about 0.025 \ncps, corresponding to an unabsorbed 0.3-10 keV flux of about 1.73E-12 \nerg/cm2/s.\n\nThis Circular is an official product of the Swift XRT Team."
+}

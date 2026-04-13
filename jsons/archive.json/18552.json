@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 151027A: Correction to GCN 18519",
+  "eventId": "GRB 151027A",
+  "bibcode": "2015GCN.18552....1C",
+  "createdOn": 1446491573000,
+  "circularId": 18552,
+  "submitter": "Zach Cano at U of Iceland  <zewcano@gmail.com>",
+  "email": "zewcano@gmail.com",
+  "body": "���Z. Cano (U. Iceland) reports on behalf of a larger collaboration:\n\nUpon further investigation, it was discovered that the magnitudes given in\nGCN Circ. 18519 are incorrect.  The presented photometry was not for the\noptical and NIR afterglow of GRB 151027A, but rather the fainter object\nthat is 3.1 arcsec SW of the afterglow (Dichiara et al. GCN Circ. 18510).\n\nA revised summary of the NOT observations follows:\n\nFilter       t-t0 (hr)      Mag +- Merr\n-----------------------------------------\nB            17.94          18.2 +- 0.1\nR            18.17          17.9 +- 0.1\nI            18.28          17.4 +- 0.1\nJ            16.92          16.4 +- 0.1\nH            17.38          15.5 +- 0.1\nK            17.60          15.1 +- 0.1\n\nThe optical filters are calibrated to USNO-B1 and the NIR filters to 2MASS,\nwhere a single star that appears in both catalogs was used for the\nzeropoint calculation.  These magnitudes are not corrected for foreground\nextinction.\n\nWhen these extinguished magnitudes are converted to monochromatic fluxes\n(using the zeropoints from Fukugita et al. 1995; Hewett et al. 2006), a\nsingle power-law with an exponent of -0.8 provides a good fit to the\noptical-to-NIR spectral energy distribution.\n\nMy apologies for the confusion.���"
+}

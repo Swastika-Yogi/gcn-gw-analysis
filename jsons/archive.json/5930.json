@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061217, Swift-BAT refined analysis",
+  "eventId": "GRB 061217",
+  "bibcode": "2006GCN..5930....1P",
+  "createdOn": 1166350534000,
+  "circularId": 5930,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "A. Parsons (GSFC), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), H. Ziaeepour (MSSL)\non behalf of the Swift-BAT team:\n \nUsing the a limited data set from T-10 to T+57 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 061217 (trigger #251634)\n(Barthelmy, et al., GCN Circ. 5926).  The BAT ground-calculated position\nis RA, Dec = 160.418, -21.148 deg which is \n   RA(J2000)  =  10h 41m 40.4s \n   Dec(J2000) = -21d 08' 52.0\" \nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 85%.\n \nThe mask-weighted lightcurve consists of a single spike (at 64-sec binning).\nWe note that will only this limited amount of data n the first downlink\nwe can not say anthing about activity before T-10 sec or after T+57 sec.\nWhen more data has been downlinked, we will issue another Circular.\nT90 (15-350 keV) is 0.30 +- 0.05 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-0.1 to T+0.3 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n0.96 +- 0.28.  The fluence in the 15-150 keV band is 4.6 +- 0.8 x 10^-8 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.40 sec in the 15-150 keV\nband is 1.3 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level."
+}

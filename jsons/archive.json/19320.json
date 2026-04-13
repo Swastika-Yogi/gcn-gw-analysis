@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160417A: Swift-XRT refined Analysis",
+  "eventId": "GRB 160417A",
+  "bibcode": "2016GCN.19320....1D",
+  "createdOn": 1460908079000,
+  "circularId": 19320,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. D'Ai (INAF-IASFPA), A. Maselli  (INAF-IASFPA), A. Melandri\n(INAF-OAB), J.A. Kennea (PSU), B. Sbarufatti (INAF-OAB/PSU), D.N.\nBurrows (PSU), S.L. Gibson (U. Leicester), J.P. Osborne (U. Leicester),\nK.L. Page (U. Leicester) and P. D'Avanzo report on behalf of the\nSwift-XRT team:\n\nWe have analysed 8.0 ks of XRT data for GRB 160417A (D'Avanzo et al.\nGCN Circ. 19316), from 117 s to 23.2 ks after the  BAT trigger. The\ndata comprise 41 s in Windowed Timing (WT) mode (the first 8 s were\ntaken while Swift was slewing) with the remainder in Photon Counting\n(PC) mode. The enhanced XRT position for this burst was given by\nOsborne et al. (GCN Circ. 19318).\n\nThe light curve can be modelled with an initial power-law decay with an\nindex of alpha=4.4 (+0.4, -0.3), followed by a break at T+305 s to an\nalpha of 0.59 (+/-0.06).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.05 (+0.15, -0.08). The\nbest-fitting absorption column is  consistent with the Galactic value\nof 2.9 x 10^20 cm^-2 (Willingale et al. 2013). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum  is 3.1 x 10^-11 (3.4 x 10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     2.9 (+/-1.9) x 10^20 cm^-2\nGalactic foreground: 2.9 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     2.05 (+0.15, -0.08)\n\nIf the light curve continues to decay with a power-law decay index of\n0.59, the count rate at T+24 hours will be 0.013 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 3.9 x\n10^-13 (4.3 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00683076.\n\nThis circular is an official product of the Swift-XRT team."
+}

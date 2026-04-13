@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250916A: Mondy R-band optical observations",
+  "eventId": "GRB 250916A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41892....1P",
+  "createdOn": 1758314669977,
+  "circularId": 41892,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP) A. Moskvitin (SAO RAS) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of a long GRB 250916A at the redshift z = 2.015 (de Ugarte Postigo et al., GCN 41863) detected by Fermi/GBM (The Fermi GBM team, GCN 41839), AstroSat/CZTI (Arya et al., GCN 41843), Glowbug (Cheung et al., GCN 41855), Swift/XRT (Osborne et. al, GCN 41862), and NuSTAR (Waratkar et. al, GCN 41871). The observations were carried with the AZT-33IK 1.5m reflector of Sayan Solar Observatory (Mondy) equipped with the CMOS-photometer. The series of 25x120 s images was obtained in the R-band starting on 2025-09-18 at 18:36 UT, i.e. ~2.23 days since GRB. In the stacked image we clearly detect the OT found initially by GOTO (Belkin et al., GCN 41847) and followed-up by (Mohan et al., GCN 41858; Moskvitin et. al, GCN 41859; Burkhonov et al., GCN 41860; Moskvitin et. al, GCN 41870; Zheng & Filippenko, GCN 41873). Preliminary observation results are presented below:\n\n\nDate       UT start      t-T0     Exp.    Filter  OT     Err.      UL    \n                     (mid, days)  (n*s)                         (3sigma)\n2025-09-18 18:36:27   2.23063    25x120    R     20.52   0.02     21.5  \n\nThe photometry is based on nearby stars of PanSTARRS-DR1 (R-magnitudes were obtained via the Lupton 2005 transformations; see Moskvitin et. al, GCN 41859) and not corrected for the Galactic extinction."
+}

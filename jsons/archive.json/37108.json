@@ -1,0 +1,11 @@
+{
+  "subject": "EP240807a: STEP/T80S optical limits",
+  "eventId": "EP240807a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37108....1S",
+  "createdOn": 1723156504034,
+  "circularId": 37108,
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "format": "text/markdown",
+  "body": "A. Santos (CBPF), L. Santana-Silva (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), P. Darc (CBPF), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration:\n\nWe conducted optical follow up with the T80S 0.8-m robotic telescope (Santos et al., 2024, MNRAS, 529, 59) of the fast X-ray transient EP240807a discovered by the Einstein Probe (GCN [36691](https://gcn.nasa.gov/circulars/36691).  EP240807a was temporally coincident with the Fermi-GBM alert from GRB240807A (GCN 37089) and subsequently localized by the Follow-up X-ray Telescope (FXT) on Einstein probe (GCN 37097). The T80S observations started on August 8 07:40 UT (~16 hours after the trigger). We obtained images totaling 360s (2x180s) in g-band and 720s (3x240s) in r-band with the T80S camera centered at the position of the FXT counterpart at R.A.=20:03:52.90 and Decl.=-68:46:37.20 (J2000).  Subtracting DECAM template images from the T80S frames using photpipe (Rest et al., 2005), we do not detect any transient source in our difference images and derive 3-sigma limiting magnitudes of g > 21.9 and r > 22.2 mag for any optical transient."
+}

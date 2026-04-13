@@ -1,0 +1,14 @@
+{
+  "editedOn": 1742496486456,
+  "subject": "GRB 250317B: Mondy AZT-33IK Optical Observations",
+  "version": 3,
+  "eventId": "GRB 250317B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39772....1P",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "circularId": 39772,
+  "createdOn": 1742311196836,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), E. Klunko (ISTP), A. Pozanenko (IKI) report on behalf of IKI-GRB-FuN:\n\nWe performed optical observations of the field of GRB 250317B (Zhao et. al, GCN 39753; Götz et. al, GCN 39756; Melandri et. al, GCN 39763) at the redshift of z=3.44 (Thoene et. al, GCN 39769) in the R filter with the 1.5-meter AZT-33IK telescope of the Sayan Solar Observatory (Mondy). The observations started on (UT) 2025-03-17 15:41:49, i.e. about 0.58 days since trigger. The optical afterglow (Watson et. al, GCN 39754; Pérez-Fournon et. al, GCN 39757; Ghosh et. al, GCN 39759; Ferro et. al, GCN 39764; Schneider et. al, GCN 39767; Thoene et. al, GCN 39769; Zhu et. al, GCN 39770) is clearly visible in the stacked image. The preliminary photometry is as follows:\n\nDate       UT start  t-T0         Exp.    Filter OT     Err   UL(3sigma)\n                     (mid, days)  (s)            \n2025-03-17 15:41:49  0.58173      28*120  R      20.88  0.13  22.8\n\nRef. stars from SDSS-DR12\nRA Dec R R_err\n211.6590 +40.0703 16.451 0.029\n211.5997 +40.0619 18.859 0.055\n\nThe photometry is based on nearby stars (see the list above) from the SDSS-DR12 catalog (R magnitudes were obtained using Lupton 2005 transformations) and has not been corrected for the Galactic extinction. Using a simple power law fit to the observed data in the r and R filters, we estimate the light curve decay index to be about -1.5."
+}

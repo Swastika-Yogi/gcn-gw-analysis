@@ -1,0 +1,14 @@
+{
+  "editedOn": 1742069659916,
+  "subject": "GRB 250314A: VLT/X-shooter dropout, redshift z ~ 7.3",
+  "eventId": "GRB 250314A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39732....1M",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Daniele B. Malesani at IMAPP / Radboud University <d.malesani@astro.ru.nl>",
+  "circularId": 39732,
+  "createdOn": 1742042758939,
+  "submitter": "Daniele B. Malesani at IMAPP / Radboud University <d.malesani@astro.ru.nl>",
+  "format": "text/plain",
+  "body": "D. B. Malesani (DAWN/NBI and Radboud), G. Pugliese (API-UvA), J. P. U. Fynbo (DAWN/NBI), B. Schneider (LAM), V. D’Elia (SSDC and INAF-OAR), A. de Ugarte Postigo (LAM), L. Izzo (INAF-OACn and DARK/NBI), P. G. Jonker (Radboud), A. J. Levan (Radboud and Warwick), J. T. Palmerio (CEA/Irfu), N. A. Rakotondrainibe (LAM), A. Saccardi (CEA/Irfu), N. R. Tanvir (U. Leicester), A. L. Thakur (INAF-IAPS), S. D. Vergani (CNRS, Obs. Paris/LUX), D. Xu (NAOC), Z.P. Zhu (NAOC) report on behalf of the Stargate collaboration:\n\nWe observed the near-infrared candidate counterpart (Malesani et al., GCN 39727) of the long SVOM/ECLAIRs GRB 250314A (Wang et al., GCN 39719) at the ESO VLT, using the HAWK-I near-infrared imager (on UT4, Kueyen) and the X-shooter spectrograph (on UT3, Melipal).\n\nThe object is well detected in the Y, J and H filters. HAWK-I observations started on 2025 Mar 15 at 05:23:28 UT (about 16.5 hr after the GRB). We measure preliminary AB magnitudes:\n\nY = 23.2 +/- 0.15\nJ = 22.4 +/- 0.1\nH = 22.5 +/- 0.1\n\nFor the spectra, the observation mid time was 2025 Mar 15.26 UT (about 17.4 hr after the GRB). The data cover the wavelength range 3000-21,000 AA and consist of 4 exposures of 1200 s each.\n\nIn a preliminary reduction of the spectra, a faint continuum is confidently detected all across the NIR arm (down to 10,300 AA). Tentative signal is also seen in the very red end of the VIS arm, with a drop around 10,090 AA. While the S/N is too low to confidently identify individual metal absorption features, the break in the VIS is consistent with the onset of the Lyman forest (with possible contribution from damped Lyman-alpha absorption in the GRB host galaxy). The implied redshift is z ~ 7.3.\n\nThe HAWK-I photometry is consistent with a break, rather than with a generically red shape of the continuum, given the red Y-J vs blue J-H color, consistent with the Y filter being partly dropped out. Assuming a power law model (no dust extinction), a fit to the available photometry provides a redshift z = 7.21 +0.18 -0.38 (1 sigma c.l.), fully consistent with the spectroscopic value.\n\nWe acknowledge expert support from the ESO staff in Paranal, in particular Cedric Ledoux, Enrico Congiu, Francisco Nogueras-Lara, Pascale Hibon, Rodrigo Romero, and Susana Cerda."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070521: Keck imaging",
+  "eventId": "GRB 070521",
+  "bibcode": "2007GCN..6451....1P",
+  "createdOn": 1179820194000,
+  "circularId": 6451,
+  "submitter": "Daniel Perley at U.C. Berkeley  <dperley@astro.berkeley.edu>",
+  "email": "dperley@astro.berkeley.edu",
+  "body": "D. A. Perley, J. S. Bloom (UC Berkeley), J. X. Prochaska (UC Santa \nCruz), S. Stanford (LLNL), M. Brodwin (JPL), and N. R. Butler (UCB) report:\n\nStarting at 13:21:22 UT (2007-05-21), we imaged the field of GRB 070521 \n(GCN 6431) in V and R band with the Keck I telescope (+ LRIS), in a \nseries of five exposures of 300 seconds each.  The host galaxy candidate \nof Hattori et al. (GCN 6444, \"S1\") is clearly detected, as is a second \nsource (\"S2\") at the edge of the XRT error circle (Guidorzi et al., GCN \n6431).  We also detect a third, extended source (\"S3\") further to the \nsouth, not consistent with the preliminary XRT position reported by \nGuidorzi et al. but consistent with our preliminary re-analysis of the \nXRT data.\n\nThe positions of these sources (J2000) are:\n\nS1:  16:10:38.562 +30:15:27.50\nS2:  16:10:38.734 +30:15:31.38\nS3:  16:10:38.754 +30:15:21.57\n\nThe astrometric uncertainty is about 0.3\" in each coordinate.\n\nPreliminary aperture magnitudes of these sources, calibrated with \nrespect to the SDSS magnitudes from Cool et al. (GCN 6432) using the \nLupton transform [1], are:\n\nS1:  V = 25.46 +/- 0.12 , I = 23.88 +/- 0.12\nS2:  V = 25.98 +/- 0.20 , I = 24.26 +/- 0.16\nS3:  V = 26.63 +/- 0.39 , I = 24.39 +/- 0.17\n\nThese magnitudes are not corrected for Galactic extinction, which the \nNED extinction calculator [2] estimates to be E(B-V) = 0.027, or A_V = \n0.09, A_I = 0.05, in this direction.\n\nAn image of the field is located at:\n\nhttp://lyra.berkeley.edu/~dperley/070521/070521keckI.png\nhttp://lyra.berkeley.edu/~dperley/070521/070521keckI_clean.png\n\n\n\n---\n[1] http://www.sdss.org/dr5/algorithms/sdssUBVRITransform.html#Lupton2005\n[2] http://nedwww.ipac.caltech.edu/forms/calculator.html"
+}

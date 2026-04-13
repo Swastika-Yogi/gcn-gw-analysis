@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100728B, Swift-BAT refined analysis",
+  "eventId": "GRB 100728B",
+  "bibcode": "2010GCN.11023....1B",
+  "createdOn": 1280352706000,
+  "circularId": 11023,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.krimm@nasa.gov>",
+  "email": "hans.krimm@nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. C. Morris (GWU/GSFC),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+350 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 100728B (trigger #430172)\n(Morris, et al., GCN Circ. 11009).  The BAT ground-calculated position is\nRA, Dec = 44.051, 0.296 deg which is\n    RA(J2000)  =  02h 56m 12.2s\n    Dec(J2000) = +00d 17' 45.9\"\nwith an uncertainty of 1.5 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 11%.\n\nThe mask-weighted light curve shows a single peak of duration 10 seconds,\nstarting at T-2 sec and continuing at a low level to about T+20 sec. An\nobserving constraint moved the burst out of the BAT field of view at T+350\nsec, but there is no sign of extended emission from this burst.\nT90 (15-350 keV) is 12.1 +- 2.4 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-1.7 to T+13.2 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.55 +- 0.14.  The fluence in the 15-150 keV band is 1.7 +- 0.1 x 10-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.18 sec in the 15-150 keV band\nis 3.5 +- 0.5 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/430172/BA/"
+}

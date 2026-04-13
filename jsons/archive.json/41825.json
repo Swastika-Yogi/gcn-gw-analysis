@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250912A:SVOM/VT optical upper limit",
+  "eventId": "GRB 250912A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41825....1L",
+  "createdOn": 1757744339154,
+  "circularId": 41825,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. N. Ma, Z. H. Yao, Y. L. Qiu, C. Wu, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei, D. H. Zhao (NAOC), J. Palmerio (CEA) report on behalf of the SVOM/VT team. \n\nSVOM performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Ducoin et al., GCN 41820). SVOM/VT began observing the field at 2025-09-12T21:10:17 UTC, 233 sec after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nNo uncatalogued sources were detected in our single or stacked images at the SVOM/MXT position (Ducoin et al., GCN 41820), compared to the Legacy survey. The 3 sigma limits are: \n\nmid-time | exposure time (s) | band | upper limit (AB) \n-----------|-------------------|------|----------------- \n12.8 min   |     18*50         | VT_B |    23.0 \n12.8 min   |     18*50         | VT_R |    23.1 \n\nOur results are consistent with the reports (Lipunov et al., GCN 41822; Wu et al., GCN 41824).\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

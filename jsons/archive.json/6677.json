@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070724B: Swift/UVOT Upper limits",
+  "eventId": "GRB 070724B",
+  "bibcode": "2007GCN..6677....1C",
+  "createdOn": 1185637561000,
+  "circularId": 6677,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M.M. Chester (PSU) and P. Romano (Uni-Bicocca and OAB) report on behalf\nof the Swift UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070724B (detected by\nSuperAGILE; Feroci et al., GCN Circ. 6668) beginning 2007-07-27 00:02:11\nUT, 48.6 hours after the burst trigger time.\n\nWe do not find any new source in any of the UVOT observations inside the\nrefined Swift/XRT error circle for the likely candidate, source #1\n(RA,DEC(J2000)= 17.48497, 57.67616, Romano et al., GCN Circ. 6675).  We\nnote a cataloged star, V=18.2, 7.6 arcsec from the XRT position.\n\nThe 3-sigma upper limits for detecting a source inside the XRT error\ncircle in the co-added frames are:\n\nFilter   Tstart   Tstop    Exp     Magnitude\n            (s)     (s)     (s)    (3-sigma UL)\nWhite    179270  197091   1776       21.3\nv        175022  196602   2023       19.8\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.51 mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

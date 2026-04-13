@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220823A: Swift/BAT-GUANO detection of a short burst",
+  "eventId": "GRB 220823A",
+  "bibcode": "2022GCN.32476....1T",
+  "createdOn": 1661268182000,
+  "circularId": 32476,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Aaron Tohuvavohu (U Toronto), James DeLaunay (UAlabama), Gayathri Raman\n(PSU), Jamie A. Kennea (PSU), report:\n\nSwift/BAT did not localize GRB 220823A onboard (T0: 2022-08-23T03:28:52\n UTC, Fermi/GBM trig #682918137).\n\nThe Fermi notice, distributed in near real-time, triggered the Swift\nMission Operations Center operated Gamma-ray Urgent Archiver for Novel\nOpportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger, GUANO sent a command to the Swift Burst Alert Telescope (BAT)\nto save 200 seconds of BAT event-mode data from [-45,+45] seconds around\nthe time of the burst. All the requested event mode data was delivered to\nthe ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu,\narXiv:2111.01769), detects the burst with a sqrt(TS) of 13.4 in a 1.024 s\nanalysis time bin.\n\nThe duration of the burst as seen by BAT is T90~1.4 s.\n\nNITRATES results, independently, are ambiguous with respect to whether this\nburst originates from in or outside the BAT FOV, with a borderline\nDeltaLLHOut of 9.9 and no specific location in the FOV significantly\npreferred.\nEffort to localize this burst will continue.\n\nIndependent spectral and/or fluence measurements of this burst from other\ninstruments could help determine the preferred spatial origin.\n\nSee Section 9.1 and Figure 20 in the NITRATES paper for brief descriptions\nand interpretation of sqrt(TS), DeltaLLHPeak, and DeltaLLHOut.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

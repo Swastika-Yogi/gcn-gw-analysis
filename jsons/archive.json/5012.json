@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060427: Swift/UVOT upper limits.",
+  "eventId": "GRB 060427",
+  "bibcode": "2006GCN..5012....1D",
+  "createdOn": 1146173156000,
+  "circularId": 5012,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (UCL-MSSL), V. Mangano (IASF Palermo) report on\nbehalf of the Swift/UVOT team:\n\n  The Swift/UVOT began taking data on the field of GRB060427\nat 11:45:13 UT on 2006-04-27, 122 s after the BAT trigger\n(Mangano et al., GCN 5006), with the settling exposure. No\nafterglow candidate was detected at the refined XRT position\n(Falcone et al., GCN  5009) in summed images from any of\nthe filters down to the following three-sigma upper\nlimits.\n\n  Filter  T_range(s)  Exp(s) 3sig_UL\n\n  V       122-6920   1668   20.4\n  B       610-6635    416   20.7\n  U       585-6430    436   20.3\n  UVW1    562-6226    457   20.0\n  UVM2    562-6021    456   20.0\n  UVW2    626-6840    436   20.5\n\n  These upper limits are uncorrected for the estimated Galactic\nreddening of E_{B-V} = 0.051 mag (Schlegel et al. 1998)."
+}

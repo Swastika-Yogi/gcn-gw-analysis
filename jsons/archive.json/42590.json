@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251023A: SVOM/ECLAIRs detection of a burst through targeted search",
+  "eventId": "GRB 251023A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42590....1Y",
+  "createdOn": 1762361262392,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42590,
+  "format": "text/plain",
+  "body": "H. Yang, M. Brunet, O. Godet (IRAP) \n\nreport on behalf of the SVOM team:\n\nThe SVOM/ECLAIRs telescope detected GRB 251023A, starting at 2025-10-23T05:57:42.44 UTC (T0), through an offline targeted search with the event-by-event data downloaded through the X-band ground station, which is also detected by Fermi/GBM (Fermi GBM team, GCN#42385), Glowbug (R. Woolf, GCN#42408), and SVOM/GRM (C. Wang, GCN#42451).\n\nThe burst was detected within several timescales and energy ranges. The best detection is obtained by the image trigger with a signal-to-noise ratio of 6.5 within 8-120 keV over a time window of 40.96 seconds starting at T0.\n\nThe localization of the source is RA, Dec = 31.661,-7.617 degrees:\n\nRA (J2000) = 02h06m26.66s     \nDec (J2000) = -07d37m01.20s\n\nwith a 90% C.L. radius of 13.0 arcmin (including systematic error of 6 arcmin added in quadrature). This position is roughly consistent with that measured by Fermi/GBM, with an angular separation of 8.2 degrees. \n\nThe time-averaged spectrum from T0 to T0+40.96 s in the energy range 5-120 keV is well fitted by a power law. The powerlaw index is 0.8 +/-0.3, consistent with that measured by SVOM/GRM. With this model, the total fluence in 4-120 keV is (1.86 +0.08/-1.00)e-6 erg/cm^2.\n\nAll quoted errors are at the 68% confidence level.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by APC, CEA, CNES, and IRAP.\n\nThe SVOM/ECLAIRs point of contact for this event is : Hui Yang (hui.yang@irap.omp.eu) \n\nPlease contact him by email if you require additional information regarding the SVOM follow-up of this burst.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131004A: Skynet PROMPT/DSO-14 upper limits",
+  "eventId": "GRB 131004A",
+  "bibcode": "2013GCN.15317....1F",
+  "createdOn": 1381119453000,
+  "circularId": 15317,
+  "submitter": "Nathan Frank at U.North Carolina  <nrfrank@live.unc.edu>",
+  "email": "nrfrank@live.unc.edu",
+  "body": "N. Frank, A. Trotter, D. Reichart, J. Haislip, A. LaCluyze, A. Smith, D. Caton, L. Hawkins, T. Berger, H. T. Cromartie, R. Egger, A. Foster, K. Ivarsen, M. Maples, J. Moore, M. Nysewander, E. Speckhard, and J. A. Crain report:\n\nSkynet observed the Swift/XRT localization of the field of GRB 131004A (Hagen et al., GCN 15303, Swift trigger # 573190) with four 16\" telescopes of the PROMPT array at CTIO, Chile and with the 14\" telescope at the Appalachian State University Dark Sky Observatory (DSO), North Carolina, starting at 2013-10-04, 23:39:35 UT and continuing until 2013-10-05, 02:21:12 UT (t=1.9-4.7h post-trigger).\n\nSkynet took a total of 220 160s exposures simultaneously in each of the BVRI bands. In stacked images, we do not detect any uncatalogued optical source in any band at or near the reported position. The 3-sigma limiting magnitudes of our images are:\n\n==============================================\nt(mean)   telescope        band      exposures           3-sig lim mag\n-------------------------------------------------------------------------\n2.5h          Prompt3             B          25x160s                18.98\n2.7h           Prompt1             V          32x160s                21.56\n3.4h           Prompt4             R          55x160s                21.85\n3.5h           Prompt5             I            50x160s                21.12\n2.9h           DSO-14                I            7x160s                  18.46\n==============================================\n\nMagnitudes are in the Vega system, calibrated to five APASS stars in the field. Magnitudes have not been corrected for line-of-sight Milky Way dust extinction, with expected E(B-V)=0.28 (Schlegel et al. 1998).\n\nNo further Skynet observations are scheduled."
+}

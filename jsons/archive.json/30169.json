@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210610A: MITSuME Ishigaki optical observation",
+  "eventId": "GRB 210610A",
+  "bibcode": "2021GCN.30169....1H",
+  "createdOn": 1623354853000,
+  "circularId": 30169,
+  "submitter": "Takashi Horiuchi at Ishigakijima Astronomical Obs  <takashi.horiuchi@nao.ac.jp>",
+  "email": "takashi.horiuchi@nao.ac.jp",
+  "body": "Takashi Horiuchi, Hidekazu Hanayama (NAOJ), Katsuhiro L. Murata,\r\nYoichi Yatsu, Nobuyuki Kawai (Tokyo Tech) report on behalf of the\r\nMITSuME collaboration:\r\n\r\nWe observed the field of GRB 210610A (K. L. Page et al. GCN\r\nCircular #30160)  with the optical three\r\ncolor (g', Rc, and Ic) CCD cameras attached to the 105 cm\r\nMurikabushi telescope of Ishigakijima Astronomical Observatory,\r\nOkinawa, Japan.\r\n\r\nThe observation with a series of 60 sec exposures started on\r\n2021-06-10 15:40:04 UT (37 min after Swift BAT trigger).\r\nWe detected the point source at the position consistent with\r\nthe afterglow reported by K. L. Page et al. GCN Circular #30160.\r\nHere, we removed bad data (images) with wrong sky conditions\r\nand obtained the magnitudes as follows:\r\n\r\nT0+[min] MID-UT T-EXP[sec] measured magnitudes\r\n------------------------------------------------------------------------------------------------\r\n37 2021-06-10T15:57:45  900 (60s �� 15)  g'=19.41+/-0.14, Rc=18.19+/-0.04, Ic=17.73+/-0.10\r\n------------------------------------------------------------------------------------------------\r\nT0+ : Elapsed time after the burst\r\nT-EXP: Total Exposure time\r\nThe SDSS catalog (DR16) is used for flux calibration."
+}

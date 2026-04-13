@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051109: Swift detection of a burst",
+  "eventId": "GRB 051109",
+  "bibcode": "2005GCN..4213....1T",
+  "createdOn": 1131502482000,
+  "circularId": 4213,
+  "submitter": "David Palmer at LANL  <dmpalmer@mac.com>",
+  "email": "dmpalmer@mac.com",
+  "body": "G. Tagliaferri (INAF-OAB), S. Barthelmy (GSFC), D. Burrows (PSU),\nM. Chester (PSU), N. Gehrels (GSFC), J. Hill (GSFC/USRA),\nS. T.  Holland (GSFC/USRA), J. Kennea (PSU), F. Marshall (GSFC),\nT. Mineo (INAF-IASFPA),  D. Palmer (LANL), T. Sakamoto (GSFC),\non behalf of the Swift team:\n\nAt 01:12:20 UT, Swift-BAT triggered and located GRB051109  \n(trigger=163136).\nThe spacecraft slewed immediately. The BAT on-board calculated location\nis RA,Dec= 330.296d, +40.837d {22h 01m 11s, +40d 50' 15\"} (J2000),  \nwith an\nuncertainty of 3 arcmin (radius, 90% containment, stat+sys). The BAT\nlight curve showed a multi-peak structure with a total duration of\nat least 25 sec. The peak count rate was ~2000 counts/sec (15-350 keV),\nat ~2 seconds after the trigger.\n\n\nThe XRT began observing at 01:14:20 UT, 120 seconds after the BAT\ntrigger. The XRT on-board software located a bright, previously\nuncatalogued, fading point source in the field at the following  \nlocation:\nRA(J2000):   22:01:15.5,\nDec(J2000): +40:49:21.7,\nwith an estimated uncertainty of 5.8 arcseconds (90% containment).\nThis position lies 74 arcseconds from the BAT position reported above,\nand 2.8 arcseconds from the ROTSE position (Rykoff et al., GCN 4211).\nThe initial flux estimate of this source is 1.1 x 10^-9 erg/s/cm^2.\n\nThe UVOT began observing at 01:14:23, 123 seconds after the BAT trigger.\nA bright, uncataloged source is apparent at RA,dec=330.3136,+40.8231\n{22h01m15.26s, +40o49'23.2\"} (J2000), coincident with the position\nof the ROTSE detection.  The V-band magnitude is approximately 17;\nthis magnitude is based on an on-board source detection algorithm\nand a more accurate brightness will be available  following\nanalysis of the full data set.  V-band extinction in the direction\nof the UVOT position is A_V = 0.63."
+}

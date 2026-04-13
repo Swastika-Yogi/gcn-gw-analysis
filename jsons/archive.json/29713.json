@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210323A (short)",
+  "eventId": "GRB 210323A",
+  "bibcode": "2021GCN.29713....1F",
+  "createdOn": 1616602187000,
+  "circularId": 29713,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, A.Lysenko, A. Ridnaia,\nD. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 210323A (Swift-BAT detection:  Gropp et al., GCN 29699;\nFermi-GBM detection: Hamburg & Meegan, GCN 29709)\ntriggered Konus-Wind (KW) at T0=79334.600 s UT (22:02:14.600).\n\nThe burst light curve shows a single pulse with the total duration of ~0.45 s (20-1500 keV).\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210323_T79334/\n\nAs observed by Konus-Wind, the burst had\na fluence of 1.57(-0.25,+0.50)x10^-6 erg/cm^2 and\na 16-ms peak energy flux, measured from T0-0.016 s,\nof 1.23(-0.20,+0.36)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nSince the brightest part of the burst emission was detected before the trigger,\nthe spectral analysis was performed using the KW 3-channel light curve data.\n\nModelling the time-integrated spectrum of the burst\n(measured from T0-0.128 to T0+0.320 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -1.03(-0.17,+0.18) and Ep = 632(-167,+442) keV.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120817B:  BAT location in ground analysis and refined analysis",
+  "eventId": "GRB 120817B",
+  "bibcode": "2012GCN.13692....1C",
+  "createdOn": 1345473348000,
+  "circularId": 13692,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nAt 04:02:29 on August 17, 2012, Swift-BAT triggered (BAT trigger # 531259) on\nthe IPN burst GRB 120817B (Golenetskii et al., GCN Circ # 13670).  No source\nwas found onboard.  In ground analysis of the failed-trigger event sample, a\nsignificant source was found at RA, Dec 8.310, -26.428, which is\n\nRA (J2000)   00h 33m 14.4s \t\t\nDec (J2000)  -26d 25m 42s\n\nThe estimated 90% confidence position error is 2.8 arcmin radius.  This\nposition was 5.5% coded in the BAT FOV.  It is 5 arcmin from the center of\nthe IPN triangulation, within the IPN error box.\n\nAs seen in BAT, the burst was a single spike 0.10 +/- 0.02 seconds long.\n\nThe time-averaged spectrum from T+0.2 to T+0.3 sec is best fit by a simple\npower-law model.  The best-fit photon index is 0.60 +/- 0.3.  The total\nfluence in the 15-150 keV band was (1.7 +/- 0.4) x 10^-7 ergs/cm^2.  The\nerrors quoted are at the 68% confidence level."
+}

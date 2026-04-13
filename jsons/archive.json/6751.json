@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070809:  Swift/UVOT Corrected Photometry",
+  "eventId": "GRB 070809",
+  "bibcode": "2007GCN..6751....1C",
+  "createdOn": 1186779299000,
+  "circularId": 6751,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M.M. Chester (PSU) and F.E. Marshall (NASA/GSFC) report on behalf of the\nSwift UVOT team:\n\nWe have identified an additional exposure of GRB 070809 made by the \nSwift/UVOT that covers the XRT error circle, and can now provide an\noptical upper limit at a much earlier time, 74 seconds after the BAT\ntrigger.  In addition, an error in the photometry analysis previously \nreported (Chester et al., GCN Circ. 6744) has been identified, and \ncorrected upper limits are reported below.\n\nFilter   Tstart   Tstop    Exp     Magnitude\n           (s)      (s)     (s)    (3-sigma UL)\nv (FC)     74      474    394       19.1\nv        6344    18560   1251       20.2\nb        5932    24593    614       20.4\nu        5727    24363   1911       20.6\nuvw1     5523    23449   2164       20.6\nuvm2     5317    19316   2018       21.0\nuvw2     6139    17646   1279       20.6"
+}

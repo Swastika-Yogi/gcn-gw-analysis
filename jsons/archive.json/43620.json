@@ -1,0 +1,14 @@
+{
+  "editedOn": 1770306567299,
+  "subject": "GRB 260204A: SVOM/VT optical candidate",
+  "version": 3,
+  "eventId": "GRB 260204A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43620....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 43620,
+  "createdOn": 1770256947248,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li , C. Wu,  Y. N. Ma,  Z. H. Yao,  Y. L. Qiu, L.P. Xin,  X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA/Irfu), M. Pillas (IAP), M. Dennefeld (IAP) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed observation with auto slew to the field of GRB 260204A  triggered by SVOM/ECLAIRs (sb26020403, Pillas et al., GCN 43613). The observation started at 2026-02-04T15:37:26UTC, i.e., 49 minutes post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued source was detected within the  error box of ECLAIRs (Pillas et al., GCN 43613) and source 1 of Swift-XRT (https://www.swift.ac.uk/SVOM/SVOM_FIELD00057), compared to the Legacy survey catalog. The position is at R.A., Dec. = 205.106167, 1.930114 degrees, equivalent to:\n    R.A. (J2000) =  13:40:25.48\n    Dec. (J2000) =  +1:55:48.41\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitudes are given below:\n\n    Mid_time       Band        Exposure Time     Magnitude (AB)\n   1.23 hour       VT_R           27*50 sec      20.5+/-0.1 mag\n   1.23 hour       VT_B           26*50 sec      21.3+/-0.1 mag\n\nOur photometry was not corrected for Galactic extinction.\n    \nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

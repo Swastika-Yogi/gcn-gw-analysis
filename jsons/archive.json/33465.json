@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230307A: Swift-XRT afterglow detection",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33465....1B",
+  "createdOn": 1678706506000,
+  "circularId": 33465,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "D.N. Burrows (PSU), J. D. Gropp (PSU), J.P. Osborne (U. Leicester),\nK.L. Page (U. Leicester), V. D'Elia (SSDC & INAF-OAR), B. Sbarufatti\n(INAF-OAB), A. D'Ai (INAF-IASFPA), S. Dichiara (PSU) and P.A. Evans (U.\nLeicester) report on behalf of the Swift-XRT team:\n\nSwift-XRT has conducted further observations of the field of the\nFermi/GBM-detected burst GRB 230307A (Dalessi et al. GCN Circ. 33407).\nThe observations now extend from T0+83.6 ks to T0+437.2 ks. \n\nOf the sources reported by Burrows et al. (GCN Circ. 33429), \"Source 2\"\nis fading with >3-sigma significance, and is therefore likely the GRB\nafterglow. Using 1252 s of PC mode data and 1 UVOT image, we find an\nenhanced XRT position (using the XRT-UVOT alignment and matching UVOT\nfield sources to the USNO-B1 catalogue): RA, Dec = 60.85935, -75.37884\nwhich is equivalent to:\n\nRA (J2000): 04h 03m 26.24s\nDec(J2000): -75d 22' 43.8\"\n\nwith an uncertainty of 3.2 arcsec (radius, 90% confidence). This\nposition is 13.3 arcsec from the IPN improved position (Kozyrev et al.\nGCN Circ. 33461). \n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=1.1 (+0.6, -0.5).\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00021537.\nThe results of the full analysis of the tiled XRT observations are\navailable at https://www.swift.ac.uk/xrt_products/TILED_GRB00110.\n\nThis circular is an official product of the Swift-XRT team."
+}

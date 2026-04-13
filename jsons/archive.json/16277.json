@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140515A: Swift-XRT refined Analysis",
+  "eventId": "GRB 140515A",
+  "bibcode": "2014GCN.16277....1D",
+  "createdOn": 1400198291000,
+  "circularId": 16277,
+  "submitter": "Paolo D'Avanzo at INAF-OAB  <paolo.davanzo@brera.inaf.it>",
+  "email": "paolo.davanzo@brera.inaf.it",
+  "body": "P. D'Avanzo, M. G. Bernardini (INAF-OAB), P. A. Evans (U. Leicester)\nreport on behalf of the Swift-XRT team:\n\nWe have analysed 7.1 ks of XRT data for GRB 140515A (D'Avanzo  et al.\nGCN Circ. 16267),  from 60 s to 13.6 ks after the  BAT trigger. The\ndata comprise 9 s in Windowed Timing (WT) mode (taken while Swift was\nslewing), with the remainder in Photon Counting (PC) mode. The enhanced\nXRT position for this burst was given by Goad et al. (GCN Circ. 16270).\n\n\nThe light curve can be modelled with  a power-law decay with an initial\ndecay index of alpha=2.5 (+0.5, -0.3). Then at T0+1100 s the light\ncurve rises, reaching a count rate ~ 0.3 ct/sec. The remaining two\norbits show irregular rate variations likely due to an underlying\nflaring activity, with a count rate ~ 0.3 ct/sec and ~ 0.1 ct/sec\nrespectively.\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.75 (+0.12, -0.11). The\nbest-fitting absorption column is  1.7 (+3.2, -1.7) x 10^22 cm^-2, at a\nredshift of 6.32 (Chornock et al., GCN Circ. 16269), in addition to the\nGalactic value of 2.5 x 10^20 cm^-2 (Willingale et al. 2013). The\ncounts to observed (unabsorbed) 0.3-10 keV flux conversion factor\ndeduced from this spectrum  is 3.7 x 10^-11 (3.9 x 10^-11) erg cm^-2\ncount^-1. \n\nA summary of the PC-mode spectrum is thus:\nGalactic foreground: 2.5 x 10^20 cm^-2\nIntrinsic column:    1.7 (+3.2, -1.7) x 10^22 cm^-2 at z=6.32\nPhoton index:\t     1.75 (+0.12, -0.11)\n\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00599037.\n\nThis circular is an official product of the Swift-XRT team."
+}

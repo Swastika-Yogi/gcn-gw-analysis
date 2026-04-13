@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260114A: NOT optical observations",
+  "eventId": "GRB 260114A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43406....1C",
+  "createdOn": 1768426844565,
+  "circularId": 43406,
+  "submitter": "Gregory Corcoran  at University College Dublin  <gregory.corcoran@ucdconnect.ie>",
+  "format": "text/plain",
+  "body": "G. Corcoran (UCD), A. Martin-Carrillo (UCD), A. Saccardi (CEA/Irfu), D. B. Malesani (DAWN/NBI and Radboud), K. Valeckas (NOT & NBI) report on behalf of a larger collaboration:\n\nWe observed the field of GRB 260114A detected by Fermi/GBM (Fermi GBM team, GCN 43395), Swift/BAT (Eyles-Ferris et al., GCN 43396), GECAM-B (Ren et al., GCN 43402), and SVOM/GRM (Wang et al., GCN 43404) with the Nordic Optical Telescope (NOT) equipped with the ALFOSC camera.\n\nOur observations consisted of 8 x 300 s exposures in SDSS-r and 5 x 200 s in SDSS-z, starting on Jan 14 2026 at 19:32:39 UT (7.87 hr after the trigger).\n\nAfter performing image subtraction against Legacy Survey using PyZOGY on the stacked images, we do not detect the optical counterpart reported by Li et al. (GCN 43398) and Volnova et al. (GCN 43401) within the Swift/XRT uncertainty region. We obtain the following 3 sigma upper limits in AB magnitudes:\n\nr > 24.0 (mid-time of 8.66 hr after the trigger) \nz > 22.2  (mid-time of 8.30 hr after the trigger)\n\ncalibrated against nearby stars from the Pan-STARRS catalog, and not corrected for Galactic extinction.\n"
+}

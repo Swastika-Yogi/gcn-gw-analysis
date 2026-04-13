@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181103A: Swift/UVOT Detection",
+  "eventId": "GRB 181103A",
+  "bibcode": "2018GCN.23407....1L",
+  "createdOn": 1541342839000,
+  "circularId": 23407,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "GRB 181103A: Swift/UVOT Detection\n\nS. J. LaPorte (PSU) and A. Tohuvavohu (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 181103A\n92 s after the BAT trigger (Tohuvavohu et al., GCN Circ. 23402).\nA fading source is detected in the initial UVOT exposures at a position\nconsistent with the XRT position (Evans et al., GCN Circ. 23403).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)       Mag\n\nb              534           898            58          >19.08\nuvm2           632          1126            57          >18.19\nu              279           874           530           19.58+-0.25 \nv              608          1103            58          >18.21\nuvw1           657           849            38          >18.16\nuvw2           584          1079            58          >18.36\nwhite_FC          121           271           294           20.47+-0.29 \nwhite       559          6763           579          >21.12  \n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

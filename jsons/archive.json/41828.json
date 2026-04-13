@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250912A: Fermi GBM Observation",
+  "eventId": "GRB 250912A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41828....1S",
+  "createdOn": 1757809811993,
+  "circularId": 41828,
+  "submitter": "Jacob Smith at Fermi-GBM Team <jrs0118@uah.edu>",
+  "format": "text/plain",
+  "body": "Jacob Smith (UAH) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 21:06:23.64 UT on 12 September 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 250912A (trigger 779403988/250912879),\nwhich was also detected by SVOM/ECLAIRs (Jean-Grégoire Ducoin et al. 2025, GCN 41820).\nThe Fermi GBM on-ground location is consistent with the SVOM/ECLAIRs position.\n\nThe angle from the Fermi LAT boresight is 49 degrees.\n\nThe GBM light curve consists of multiple emission episodes with a duration (T90)\nof about 15 s (50-300 keV). The time-averaged spectrum\nfrom T0 to T0+15.6 s is best fit by\na simple power law function with index -1.31 +/- 0.04.\nA power law function with an exponential high-energy cutoff \nfits the spectrum equally well with a with power law index = -1.05 +/- 0.12 and Epeak = 783 +/- 359.\n\nThe event fluence (10-1000 keV) in this time interval is\n(3.1 +/- 0.1)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0-0.26 s in the 10-1000 keV band is 4 +/- 0.2 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

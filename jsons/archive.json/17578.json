@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150314A: MITSuME Akeno upper limits",
+  "eventId": "GRB 150314A",
+  "bibcode": "2015GCN.17578....1Y",
+  "createdOn": 1426342458000,
+  "circularId": 17578,
+  "submitter": "Taketoshi Yoshii at Tokyo Tech  <yoshii.t.ac@m.titech.ac.jp>",
+  "email": "yoshii.t.ac@m.titech.ac.jp",
+  "body": "T. Yoshii, Y. Saito, Y. Tachibana, H. Ohuchi, Y. Yano,\nS. Kurita, Y. Ono, T. Fujiwara, Y. Yatsu, and N. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\nWe searched for the optical counterpart of GRB 150314A (L. M. Z. Hagen et al., GCN Circular #17573) with the\noptical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm\ntelescope of Akeno Observatory, Yamanashi, Japan.\n\nThe observation started at 2015-03-14 05:21:32 UT (~5.4 h after the burst).\nWe could not find any new point source within the refined XRT-UVOT alignment error circle \n(A.P. Beardmore et al., GCN Circular #17575) in all the three bands.\n\nThe obtained upper-limits are listed below.\n\nT0+[sec]     MID-UT    T-EXP[sec]        g'         Rc        Ic\n-----------------------------------------------------------------------------\n19292        11:19:44        6840          >21.6  >21.1  >20.1\n-----------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used GSC2.3 catalog for flux calibration."
+}

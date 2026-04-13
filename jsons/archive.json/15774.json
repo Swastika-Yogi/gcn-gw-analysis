@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140129B, Swift-BAT refined analysis (probably not a short burst)",
+  "eventId": "GRB 140129B",
+  "bibcode": "2014GCN.15774....1P",
+  "createdOn": 1391050495000,
+  "circularId": 15774,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nM. G. Bernardini (INAF-OAB), J. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), A. Y. Lien (NASA/UMBC), C. B. Markwardt (GSFC),\nT. Sakamoto (AGU), M. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 140129B (trigger #585149)\n(Bernardini, et al., GCN Circ. 15765).  The BAT ground-calculated position is\nRA, Dec = 326.764, 26.215 deg which is\n  RA(J2000)  =  21h 47m 03.3s\n  Dec(J2000) = +26d 12' 53.1\"\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows a single short peak starts at ~T0, peaks\nat ~T+0.7 s, and ends at T+1.6 s. T90 (15-350 keV) is 1.36 +- 0.21 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T+0.08 to T+1.59 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.23 +- 0.33.  The fluence in the 15-150 keV band is 7.1 +- 1.4 x 10^-8 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.17 sec in the 15-150 keV band\nis 0.9 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nAlthough the T90 for this burst is shorter than 2 seconds, the power law index\nof the time-averaged spectrum is relatively soft for a short GRB. Therefore, we\nsuspect that this burst might belong to the long-soft burst category with some\nburst emission missed due to background noise and detection limit.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/585149/BA/"
+}
