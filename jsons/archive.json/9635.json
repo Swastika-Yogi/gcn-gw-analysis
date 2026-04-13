@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090709A - PAIRITEL Discovery of a Red Afterglow",
+  "eventId": "GRB 090709A",
+  "bibcode": "2009GCN..9635....1M",
+  "createdOn": 1247166227000,
+  "circularId": 9635,
+  "submitter": "Adam Morgan at U.C. Berkeley  <qmorgan@gmail.com>",
+  "email": "qmorgan@gmail.com",
+  "body": "A. N. Morgan, J. S. Bloom, C. R. Klein (UC Berkeley), report:\n\nUsing a re-reduction of the early PAIRITEL data for GRB 090709A\n(Morgan et al. GCN 9628) we report a probable detection of a red\nsource in the H and Ks bands within the XRT circle (Morris et al. GCN\n9625).  The source is located at the following J2000 position (3.15\narcsec away from the center of the current XRT position):\n\nRA = 19:19:42.64\nDec = +60:43:39.3\n\nThe uncertainty in this position relative to the ICRS is 0.4\" in each direction.\n\nThe preliminary photometry yields:\n\npost_burst\nt_mid(s) exp(s)  filt  mag\n438       374     J     > 17.7 (3 sig)\n438       374     H     16.7 +/- 0.2\n438       374     Ks    15.3 +/- 0.2\n\nDeeper mosaics obtained later in the night do not contain this source,\nindicating that it has faded.  We thus conclude that this is the\nafterglow of GRB 090709A.  Note that this is the same source 'B' as\nthat was just reported in Aoki et al. (GCN 9634).  Our detection in\nthe H band places a less stringent redshift limit on the afterglow\n(although this limit is still high; z > 8.5), if indeed our\nnon-detection in J is due to a Lyman break and not extinction.  We\nalso note that source 'A' of GCN 9634, which is of comparable\nbrightness to 'B' 2 hours after the burst, is not detected in our\nshallower image, confirming our conclusion that source 'B' has faded\nand is the afterglow.\n\nAll magnitudes given in the Vega system, calibrated to 2MASS.  No\ncorrection for Galactic extinction has been made to the above reported\nvalues."
+}

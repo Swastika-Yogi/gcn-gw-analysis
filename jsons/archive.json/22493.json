@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180313A: Fermi GBM detection",
+  "eventId": "GRB 180313A",
+  "bibcode": "2018GCN.22493....1B",
+  "createdOn": 1521075175000,
+  "circularId": 22493,
+  "submitter": "Oliver J Roberts at USRA/NASA  <oliver.roberts@nasa.gov>",
+  "email": "oliver.roberts@nasa.gov",
+  "body": "E. Bissaldi (Politecnico & INFN Bari), C. Meegan (UAH) and \nO.J. Roberts (USRA) report on behalf of the Fermi GBM Team:\n\n\"At 23:28:17.53 UT on 13 March 2018, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 180313A (trigger 542676502 / 180313978).\nThe on-ground calculated location, using the GBM trigger\ndata, is\n\nRA, Dec = 317.51, -26.55 (J2000 degrees)\n\nwith an uncertainty of 5.7 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90% of\nGRBs having a 3.7 deg error and a small tail suffering a larger than 10 deg\nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32]).\n\nThe trigger resulted in an Autonomous Repoint Request (ARR)\nby the GBM Flight Software owing to the high peak flux\nof the GRB. This ARR was accepted and the spacecraft slewed to the GBM in-flight\nlocation. The initial angle from the Fermi LAT boresight to\nthe best location is 40 degrees.\n\nThe GBM light curve shows/consists of single peak\nwith a duration (T90) of about 0.1 s (50-300 keV).\nThe time-averaged spectrum from T0+0 s to T0+0.13 s is\nbest fit by a power-law function with an exponential\nhigh-energy cutoff. The power law index is -0.26 +/- 0.21 and\nthe cutoff energy, parameterized as Epeak, is 287 +/- 44 keV\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.9 +/- 0.1)E-07 erg/cm^2. The 64 ms peak photon flux measured\nstarting from T0+0 s in the 10-1000 keV band\nis 16 +/- 1 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

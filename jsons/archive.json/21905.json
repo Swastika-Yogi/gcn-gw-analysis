@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170921A: MITSuME Okayama upper limits",
+  "eventId": "GRB 170921A",
+  "bibcode": "2017GCN.21905....1K",
+  "createdOn": 1506033642000,
+  "circularId": 21905,
+  "submitter": "Daisuke Kuroda at OAO/NAOJ  <dikuroda@oao.nao.ac.jp>",
+  "email": "dikuroda@oao.nao.ac.jp",
+  "body": "D. Kuroda, K. Yanagisawa, Y. Shimizu, H. Toda (OAO, NAOJ),\nS. Nagayama (NAOJ), M. Yoshida (Subaru, NAOJ), K. Ohta (Kyoto)\nand N. Kawai(Tokyo Tech) report on behalf of MITSuME collaboration:\n\nWe observed the field of GRB 170921A (D'Ai et al., GCNC 21901)\nwith the optical three color (g', Rc and Ic) CCD camera attached\nto the MITSuME 50cm telescope of Okayama Astrophysical Observatory.\n\nThe observation started on 2017-09-21 14:39:14 UT (~10 min after\nthe burst). We did not find any new point source within the XRT\nerror circle (D'Ai et al., GCNC 21901) in all the three bands.\n\nThree sigma upper limits of the OT are listed below.\nWe used SDSS-DR8 catalog for flux calibration.\n\n#T0+[day]  MID-UT    T-EXP[sec]   g'    Rc     Ic\n-----------------------------------------------------\n0.04269    15:30:16    5760.0   >20.1  >19.8  >18.8\n-----------------------------------------------------\nT0+ : Elapsed time after the burst [day]\nT-EXP: Total Exposure time [sec]"
+}

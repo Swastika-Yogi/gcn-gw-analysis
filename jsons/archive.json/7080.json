@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 071112C: Swift/UVOT observations",
+  "eventId": "GRB 071112C",
+  "bibcode": "2007GCN..7080....1O",
+  "createdOn": 1194967764000,
+  "circularId": 7080,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S.R. Oates (MSSL/UCL) and G. Stratta (ASDC) report on behalf of the\nSwift-UVOT team:\n\nThe Swift/UVOT observed the burst GRB 071112C (Perri et al., GCN Circ.\n7059) starting with the finding chart exposure in white, 92 seconds\nafter the BAT trigger. The afterglow is detected at the UVOT position\ngiven in Perri et al. (GCN Circ. 7059) in white, v, b,\nu and uvw1. The afterglow decreases with an estimated temporal slope in \nthe v filter of alpha =1.28.\n\nThe UVOT magnitudes and upper limits from single exposures or\nco-added exposures are given below:\n\nFilter  Tstart(s)  Tstop(s)  Exp(s)  Mag\n----------------------------------------------\nwhite     92      192         98    17.39 +/- 0.03\n          859     958         98    19.0  +/- 0.1\nv         198     597         393   17.8  +/- 0.08\n          965     1364        393   19.3  +/- 0.3\nb         679     689         10    18.3  +/- 0.4\n          1444    1626        39    19.7  +/- 0.5  (2.0-sigma)\nu         654     674         19    17.8  +/- 0.3\n          1419    1601        39    19.3  +/- 0.5  (2.0-sigma)\nuvw1      630     649         19    17.7  +/- 0.3\n          1394    1576        39    19.0  +/- 0.5  (2.3-sigma)\nuvm2      605     1552        78    >20.5\nuvw2      708     1663        55    >20.6\n----------------------------------------------\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.119 mag in the\ndirection of the burst (Schlegel et al. 1998).\n\n[GCN OPS NOTE(13nov07): Per author's request, in the first line \"071121C\"\nwas changed to \"071112C\"; and the first 'v' magnitude was changed from\n\"17.9  +/- 0.4\" to \"17.8  +/- 0.08\".]"
+}

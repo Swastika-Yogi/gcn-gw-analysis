@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090715B: MASTER optical limit",
+  "eventId": "GRB 090715B",
+  "bibcode": "2009GCN..9681....1K",
+  "createdOn": 1247751137000,
+  "circularId": 9681,
+  "submitter": "Vladimir Lipunov at Moscow State U/Krylov Obs  <gcncirc@observ.inetcomm.ru>",
+  "email": "gcncirc@observ.inetcomm.ru",
+  "body": "D.Kuvshinov, V. Lipunov, V.Kornilov,  E. Gorbovskoy,\nA.Belinski,  A. Krylov, N.Shatskiy, N.Tyurina, P.Balanutsa, V.V.Chazov, \nP.V.Kortunov\nSternberg Astronomical Institute, Moscow State University\n\nA. Tlatov, A.V. Parkhomenko,\nKislovodsk Solar Station of the Pulkovo Observatory\n\nV.Krushinski, I.Zalognikh, T.Kopytova, Alexander Popov\nUral State University, Kourovka\n\nS.Yazev, K.Ivanov\nIrkutsk State University\n\n\n\nMASTER  robotic telescope (MASTER-Net: http://observ.pereplet.ru, \n355 mm, 6 square degrees, 16Mpx Apogee CCD) located\nat Vostrykovo (Moscow) responded to the  GRB 090715B (Swift \ntrigger 357512,  L. Vetere , GCN 9668), producing images\nbeginning 19 s after the GCN notice time. An automated response took\nthe first image at 21:11:18 UT, 8m 04s after the  burst, under summer \nMoscow sky.\nWe have 160 images with 30 sec exposition each.\nThese unfiltered images are calibrated relative to USNO 08.R+0.2B (Usno \nA2.0).\n\nIndividual images have limiting magnitudes ranging from 17.8-17.0; we\nset the following specific limits.\n\nGRB_time     start UT       end UT      t_exp(s)   mlim     Coadd?\n-------------------------------------------------------------------\n\n484 - 514s    21:11:18      21:41:18        30      17.8       no\n484 - 699s    21:11:18      21:14:57        90      18.5        3 \n484 - 6699S   21:11:18      22:54:27      3330      20.0       111\n\n\n\nRobot do not detect OT with limit 20.0 .\n\nThe message may be cited.\n\nmailto: lipunov@sai.msu.ru"
+}

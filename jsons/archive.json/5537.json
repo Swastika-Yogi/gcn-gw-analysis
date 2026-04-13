@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060906: Swift/XRT Refined Analysis",
+  "eventId": "GRB 060906",
+  "bibcode": "2006GCN..5537....1R",
+  "createdOn": 1157576537000,
+  "circularId": 5537,
+  "submitter": "Judith Racusin at PSU  <racusin@astro.psu.edu>",
+  "email": "racusin@astro.psu.edu",
+  "body": "J. L. Racusin, D. N. Burrows (PSU), N. Gehrels (NASA/GSFC), D. Grupe, J. A. \nKennea (PSU) report on behalf of the Swift XRT team:\n\nWe have analysed the Swift-XRT data from the first 6 orbits of GRB 060906 \n(Racusin et al., GCN Circ. 5528), with a total exposure of 12200 seconds. \nThe refined XRT position is:\n\nRA(J2000): 2h 43m 00.66s\nDec(J2000): +30d 21' 37.82\"\n\nwith an uncertainty of 4 arcseconds (90% containment).  This position is \n134 arcseconds from the refined BAT position given in GCN Circ. 5534 \n(Sakamoto et al.), 3.3 arcseconds from the XRT position given in GCN 5528, \nand 5.3 arcseconds from the optical counterpart reported by Cenko et al. \n(GCN 5529).\n\nThe light-curve starts 153 seconds after the BAT trigger and shows a steep \ndecline with a decay index of -3.4 +/- 1.3 followed by a flattening at \n~400 seconds described by a power-law with index -0.2 +/- 0.1, and \nbreaking again at ~11000 seconds to a power-law index of -1.7 +/- 0.3.\n\nA preliminary spectral fit to the WT data gives a spectral power law \nphoton index of 2.5 +/- 0.5 in the [0.3-10] keV band, with absorption \ncolumn density consistent with the Galactic value (9.66e20 cm^-2).  The \naverage (in the time range 153-776 seconds from trigger) estimated \nunabsorbed 0.3-10 keV flux was 1.37e-11 erg cm^-2 s^-1.\n\nThe XRT count rate extrapolated to T+24 hr is estimated to be about 0.002 \ncounts/s, corresponding to an unabsorbed 0.3-10 keV flux of about 1.72e-13 \nerg cm^-2 s^-1.\n\nThis Circular is an official product of the Swift XRT Team."
+}

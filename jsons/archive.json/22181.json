@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 171205A: Swift/UVOT Detection",
+  "eventId": "GRB 171205A",
+  "bibcode": "2017GCN.22181....1E",
+  "createdOn": 1512481532000,
+  "circularId": 22181,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and V. D'Elia (ASDC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 171205A\n154 s after the BAT trigger (D'Elia et al., GCN Circ. 22177).\nA source consistent with the XRT position\n(J.P. Osborne et al. GCN Circ. 22179)\nis detected in the initial UVOT exposures.\nThere is marginal evidence for brightening in the white filter.\nThe revised source position is\nRA(J2000)=11:09:39.547 Dec.(J2000)=-12:35:17.93. This position\n is within the XRT error circle  and is consistent with the VLT/X-shooter\n optical position  (L. Izzo et al. GCN Circ. 22180).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC           154          303          147         18.10 +/- 0.08\nwhite             3812         3849           36         17.70 +/- 0.09\nu                  312          390           78         17.78 +/- 0.18\nv                 4499         4698          197         18.22 +/- 0.15\nb                 3607         3807          197         18.45 +/- 0.09\nuvw1              4908         5108          197         17.13 +/- 0.09\nuvm2              4703         4903          197         17.11 +/- 0.11\nuvw2              4294         4494          197         16.96 +/- 0.10\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.05 in the direction of the burst\n(Schlegel et al. 1998), nor from any contribution of the host galaxy."
+}

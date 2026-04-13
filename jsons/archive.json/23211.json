@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180905A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 180905A",
+  "bibcode": "2018GCN.23211....1N",
+  "createdOn": 1536213232000,
+  "circularId": 23211,
+  "submitter": "Katsuhiro L. Murata at Nagoya U  <murata@u.phys.nagoya-u.ac.jp>",
+  "email": "murata@u.phys.nagoya-u.ac.jp",
+  "body": "M. Niwano, R. Itoh, K. L. Murata, Y. Tachibana, S. Harita, K. Morita,\nK. Shiraishi, K. Iida, R. Adachi, M. Oeda,\nY. Yatsu, and N. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\nWe searched for the optical counterpart of GRB 180905A\n(V. D'Elia et al., GCN Circular #23201)\nwith the optical three color (g', Rc, and Ic) CCD cameras attached to\nthe MITSuME 50cm telescope of Akeno Observatory, Yamanashi, Japan.\n\nThe observation started on 2018-09-05 17:29:51.08 UT.\nWe did not find any point source at the enhanced position of the\nXRT error circle (A.P. Beardmore et al., GCN Circular #23207) in all three\nbands.\nWe obtained following 5-sigma upper limits for the magnitudes.\n\nT0+[min]    MID-UT      T-EXP[sec]    g'       Rc        Ic\n-------------------------------------------------------------------------------------------------------\n202.32     18:46:39  8,100   >18.9   >18.6   >18.4\n-------------------------------------------------------------------------------------------------------\n\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used UCAC-4 catalog for flux calibration."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051008: Swift-BAT detection of a bright burst",
+  "eventId": "GRB 051008",
+  "bibcode": "2005GCN..4069....1M",
+  "createdOn": 1128791580000,
+  "circularId": 4069,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "F. Marshall (GSFC), S. Barthelmy (GSFC), J. Cummings (GSFC/NRC),\nJ. Norris (GSFC), M. Perri (ASDC), T. Sakamoto (GSFC)\non behalf of the Swift team:\n\nAt 16:33:21 UT, Swift-BAT triggered and located GRB051008 (trigger=158855).\nThe spacecraft did not slew immediately because of the Earth observing\nconstraint.  The burst will be observed by the NFIs at T+48 minutes\nwhen it comes out of constraint.  The BAT on-board calculated location\nis RA,Dec 202.870d,+42.090d {13h 31m 29s,+42d 05' 26\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe BAT light curve shows two main overlapping peaks with a total duration\nof ~30 sec.  The peak count rate was ~7000 counts/sec (15-350 keV),\nat ~4 seconds after the trigger.  This burst happened during a Malindi\ntelemetry down link session, so the TDRSS burst-related notices were delayed\nin transmission until the end of the downlink pass (~10 min)."
+}

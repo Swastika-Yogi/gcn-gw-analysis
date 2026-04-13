@@ -1,0 +1,11 @@
+{
+  "subject": "EP260110a: Late GTC/EMIR near-infrared observations",
+  "eventId": "EP260110a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43615....1S",
+  "createdOn": 1770237835022,
+  "submitter": "javisansie@gmail.com",
+  "circularId": 43615,
+  "format": "text/plain",
+  "body": "J. Sanchez-Sierras (Radboud), A. van Hoof (Radboud), P. G. Jonker (Radboud), D. Mata-Sanchez (IAC and ULL), A. J. Levan (Radboud), D. B. Malesani (DAWN/NBI and Radboud Univ.) report on behalf of a larger collaboration:\n\nWe observed the field of fast X-ray transient EP260110a (Zhang et al., GCNs 43363, 43367) with the Espectrógrafo Multiobjeto Infra-Rojo (EMIR) attached to the Gran Telescopio Canarias (GTC). The observations were performed in imaging mode and consisted of 260x5 s exposures, with a total exposure time of 1280 s in the H band, starting on 2026-02-01 at 06:08:10 UT (i.e. 21.76 days after the EP-WXT trigger).\n\nWe used this observation as a template to perform image subtraction from the GTC/EMIR image reported by Corcoran et al. (observed 19.02 hr after the trigger; GCN 43391), which had the same exposure time and instrument configuration. The subtraction was made using the ZOGY algorithm (Zackay et al. 2016), as implemented in PyZOGY (Guevel et al. 2021). No new sources are detected inside the EP-FXT error circle in the subtraction, down to the limit of the least deep image, i.e. upper limiting AB magnitude of H > 23.3 (calibrated using nearby stars from the 2MASS catalog)."
+}

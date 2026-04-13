@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130508A: MITSuME Akeno upper limits",
+  "eventId": "GRB 130508A",
+  "bibcode": "2013GCN.14618....1S",
+  "createdOn": 1368191043000,
+  "circularId": 14618,
+  "submitter": "Yoichi Yatsu at Tokyo Tech.  <yatsu@hp.phys.titech.ac.jp>",
+  "email": "yatsu@hp.phys.titech.ac.jp",
+  "body": "Y. Saito, Y. Yano, R. Usui, Y. Tachibana, K. Ito, T. Yoshii,\nS. Kurita, Y. Yatsu, and N. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 130508A (Holland et al., GCNC 14607) with the\noptical\nthree color (g, Rc, and Ic) CCD cameras attached to the MITSuME 50 cm\ntelescope of Akeno Observatory, Yamanashi, Japan.\n\nThe observation started on 2013-05-08 17:10:32 UT ( ~99 sec after\nthe burst). And we could not find any new point source within the XRT\nerror circle (Holland et al., GCNC 14607) in all the three bands.\n\nThe results of photometry (3 sigma upper limits) are listed below.\nWe used GSC2.3 catalog for flux calibration.\n\n\nT0+[sec]   MID-UT   T-EXP[sec]    g'           Rc          Ic\n------------------------------------------------------------\n-------------------------------\n    283      17:13:30      240      >19.4   >19.1   >18.0\n   2803      17:55:30     4320      >20.7   >20.4   >19.1\n------------------------------------------------------------\n-------------------------------\nT0+ : Elapsed time after the burst [sec]\nT-EXP: Total Exposure time [sec]"
+}

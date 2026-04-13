@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130608A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130608A",
+  "bibcode": "2013GCN.14870....1H",
+  "createdOn": 1370962509000,
+  "circularId": 14870,
+  "submitter": "Stephen Holland at STScI  <sholland@stsci.edu>",
+  "email": "sholland@stsci.edu",
+  "body": "S. T. Holland (STScI) and Hans Krimm (CRESST/GSFC/USRA) report on\nbehalf of the Swift/UVOT team:\n\n    The Swift/UVOT began settled observations of the field of GRB\n130608A starting 168 s after the BAT trigger (Krimm et al. 2013, GCNC\n14827).  We do not detect any new source consistent with the\nUVOT-enhanced XRT position (Beardmore 2013, GCNC 14832) in any of the\nUVOT exposures.  Preliminary 3-sigma upper limits using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373)\nfor the finding chart (FC) exposures and initial summed exposures are\npresented below.\n\nFilter      TSTART      TSTOP   Exposure      Mag\n-------------------------------------------------\nwhite (FC)     169        318        147    >21.0\n               607        626         19    >19.6\nu (FC)         327        576        246    >20.1\n               731        750         19    >18.4\n-------------------------------------------------\nv              657     12,041       1154    >20.6\nb              583       6742        452    >20.8\nu             4899       6536        393    >20.5\nuvw1           706       6331        432    >20.6\nuvm2           681     12,759       1134    >21.3\nuvw2           632     11,127       1199    >21.5\nwhite          858       6946        560    >21.5\n-------------------------------------------------\n\n    The quoted upper limits have not been corrected for the expected\nextinction due to the Galactic reddening along the line of sight to\nthis burst of E(B-V) = 0.05 mag (Schlafly et al. 2011, ApJS, 737,\n103)."
+}

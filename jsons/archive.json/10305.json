@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 381591 is probably not a burst",
+  "bibcode": "2010GCN.10305....1M",
+  "createdOn": 1262343192000,
+  "circularId": 10305,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "C. B. Markwardt (CRESST/GSFC/U.Md), S. D. Barthelmy (GSFC),\nM. Chester (PSU), J. R. Cummings (CRESST/GSFC), D. N. Burrows (PSU),\nN. Gehrels (GSFC), S. T. Holland (CRESST/USRA/GSFC),\nK. L. Page (U Leicester), M. H. Siegel (PSU),\non behalf of the Swift team.\n\nUsing the Swift/BAT data set from T-60 to T+240 sec from the recent\ntelemetry downlink, we report that BAT trigger 381591 (reported as\npossible GRB, Markwardt et al, GCN Circ. 10301) is probably not a GRB.\nWe base this conclusion on the low significance in the BAT and the lack\nof a counterpart in the XRT.  However, we can not rule out\nthat this is a low-significance astrophysical event.\n\nThe BAT image shows a 4.8 sigma excess in the 15-150 keV band and the\nmask-weighted light curve shows an integrated positive excess from\nabout T-20 to T+40 sec.  If the source is real, it is at RA, Dec =\n235.095, -8.738 deg with an uncertainty of 5 arcmin,\n(radius, sys+stat, 90% containment). The partial coding is 100%.\nThis location is within 11 deg of the bright source Sco X-1.  However,\nfurther image analysis does not suggest any side-lobe interference\nfrom Sco X-1 at the target position.\n\nWe analyzed the first 2.9 ks of the XRT data. Data are in Photon\nCounting (PC) mode and start 139 seconds after the BAT trigger. No\nsource is detected within the BAT error circle, to a 90% upper limit \nover 0.3-10 keV of 5x10^-3 count s^-1.\n\nGiven the lack of strong detections by BAT and XRT, the previously \nreported potential UVOT counterpart (Holland et al., GCN Circ. 10303) is \nmoot."
+}

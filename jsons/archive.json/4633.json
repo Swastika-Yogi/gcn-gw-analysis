@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060202: Swift/UVOT upper limits",
+  "eventId": "GRB 060202",
+  "bibcode": "2006GCN..4633....1B",
+  "createdOn": 1138898698000,
+  "circularId": 4633,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), D. Fox (PSU), B. Hancock (UCL-MSSL),\nT. Kennedy (UCL-MSSL), N. Gehrels (GSFC) on behalf of the\nSwift/UVOT team report:\n\nThe Swift/UVOT began taking data on the field of GRB 060202 at\n08:43:09 UT on 2006-02-02, 134 s after the BAT trigger (Fox et al.,\nGCN 4629). No afterglow candidate is detected in summed images in\nany filter within the refined XRT error circle (Morris et al., GCN \n4632) down to the following 3-sigma magnitude upper limits.\n\nFilter  T_range(s)  Exp(s)  3sigUL(mag)\nV       134-1231    449     19.6\nB       355-1025    419     20.5\nU       656-4847    91      19.1\nUVW1    633-4840    119     18.7\nUVM2    608-4816    119     19.2\nUVW2    561-4768    99      19.0\n\nThese magnitudes are uncorrected for Galactic extinction;\nE(B-V) = 0.047. We note that the XRT position is 19 arcseconds\naway from the nearest star in the DSS."
+}

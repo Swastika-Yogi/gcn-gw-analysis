@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100213B: Swift XRT refined analysis",
+  "eventId": "GRB 100213B",
+  "bibcode": "2010GCN.10416....1V",
+  "createdOn": 1266124073000,
+  "circularId": 10416,
+  "submitter": "Loredana Vetere at PSU  <vetere@astro.psu.edu>",
+  "email": "vetere@astro.psu.edu",
+  "body": "L. Vetere (PSU) reports on behalf of the Swift-XRT team:\n\nWe have analysed 1.7 ks of XRT data for GRB 100213B (Vetere et al.\nGCN Circ. 10412), from 155 s to 5.7 ks after the BAT trigger. The\ndata comprise 500 s in Windowed Timing (WT) mode with the remainder\nin Photon Counting (PC) mode. Using  1.2ks of XRT Photon Counting\nmode data we find a refined XRT position: RA, Dec = 124.28384,\n43.44683 which is equivalent to:\n\nRA (J2000): 08h 17m 08.12s\nDec (J2000): +43d 26' 48.6\"\n\nwith an uncertainty of 4.9 arcsec (radius, 90% confidence).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=2.06 (+0.10, -0.08). A spectrum formed from the WT\nmode data can be fitted with an absorbed power-law with a photon\nspectral index of 1.47 (+/-0.12). The best-fitting absorption column\nis 1.3 (+0.4, -0.3) x 10^21 cm^-2, in excess of the Galactic value of\n5.9 x 10^20 cm^-2 (Kalberla et al. 2005). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum is 4.9 x 10^-11 (5.6 x 10^-11) erg cm^-2 count^-1.\n\nIf the light curve continues to decay with a power-law decay index\nof 2.06, the count rate at T+24 hours will be 6.9 x 10^-5 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of\n3.4 x 10^-15 (3.9 x 10^-15) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00412220.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 241018A: cubesat Avion detection",
+  "eventId": "GRB 241018A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.38161....1B",
+  "createdOn": 1731318678308,
+  "circularId": 38161,
+  "submitter": "Vladimir Lipunov at Moscow State U/Krylov Obs <lipunov@xray.sai.msu.ru>",
+  "body": "A. Bogomolov, V. Bogomolov, A. Iyudin, S. Svertilov, N. Vasil’ev\non behalf of the MSU “Sozvezdie-270” team, report:\n\nAt 2024-10-18 11:54:37 UT the long-duration GRB 241018A\n(SVOM detection: GCN #37812; Konus-Wind detection: GCN #37832)\nwas detected by the cubesat Avion of the Moscow University project “Constellation-270” [1].\n\nTotal amount of photons detected by Avion in the energy band 40-500 keV is 234,\nit corresponds to a fluence of 1*10^(-6) erg/cm^2.\n\nThe LC in the energy band 40-500 keV has two main peaks with maximal flux 7.4phot/(cm^2*s)\nin the 1st peak and 8.4 phot/(cm^2*s) in the 2nd peak.\n\nTotal duration (T90) of the burst is 7 s.\nThe light curve obtained by Avion is available here:\nhttps://swx.sinp.msu.ru/models/grb_cat/data/pictures/GRB_241018A_Avion_DeCoR1_LC_final_engl_s.png\n\nParameters of GRB 241018A as well as 20 other GRBs detected by Moscow University cubesats\nare listed at: https://swx.sinp.msu.ru/models/grb_cat/grb.php?lang=en\n\nAvion is one of 5 cubesats of the Lomonosov MSU project “Constellation-270” [1]\nlaunched on 2023 June 27. The payload of Avion is a set of scintillation gamma-ray\ndetectors DeCoR [2], the energy range is &gt;30 keV, the time resolution is 0.5s.\n\n[1] Svertilov et al. 2023  https://link.springer.com/chapter/10.1007/978-3-031-50248-4_21\n[2] Bogomolov et al. 2022 Universe 8, 282 https://www.mdpi.com/2218-1997/8/5/282"
+}

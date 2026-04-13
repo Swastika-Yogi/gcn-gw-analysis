@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080210: Swift/UVOT Refined Analysis",
+  "eventId": "GRB 080210",
+  "bibcode": "2008GCN..7292....1M",
+  "createdOn": 1202770666000,
+  "circularId": 7292,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and D. Grupe (PSU)\nreport on behalf of the Swift team:\n\nThe Swift/UVOT observed the field of GRB 080210 (trigger 302888)\nstarting 160 seconds  after the BAT trigger \n(Grupe et al., GCN Circ. 7281), which occurred at 07:50:05 UT.\nA bright afterglow was seen in the initial \nexposures with the White and V filters\nat a position of RA (J2000) of 16h45m04.01s and Dec (J2000) of  \n+13o49'35.9\" (J2000) with an estimated 90% confidence error radius\nof 0.6\". This position is consistent with the optical\nposition reported by Klotz et al. (GCN Circ. 7280) and\nthe enhanced XRT position reported by Evans et al. (GCN Circ. 7285).\nThere was no 3-sigma detection of the afterglow in\nany subsequent exposure in any of the UVOT filters.\nThe non-detections in the UV filters is consistent with\nthe redshift of 2.641 reported by Jakobsson et al. \n(GCN Circ. 7286). The lack of detection in the second\nexposure with the White filter indicates a decay slope\nof steeper than -0.7 assuming a power law decay model.\n\nThe detections and 3-sigma upper limits in the UVOT photometric\nsystem (Poole et al. MNRAS 383, 627 (2008)) are summarized in\nthe following table:\n\nFilter T_start(s) T_stop(s) Exposure(s)  Mag/3-sigma UL\n\nwhite    160         260      98         18.2 +/- 0.1\nwhite   6081        6244     161        >20.5\nv        267         460     190         17.6 +/- 0.1\nb       5877       64094    2625        >21.2\nu       5671       69878    4779        >21.3\nuvw1    3846       69140    5453        >22.3\nuvm2    3639       68241    4447        >21.8\nuvw2    9469       74958    4171        >22.3\n\nThe values quoted above are not corrected for the expected Galactic \nextinction corresponding to a reddening of E(B-V) = 0.08 mag \nin the direction of the burst (Schlegel et al. 1998)."
+}

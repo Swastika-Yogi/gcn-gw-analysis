@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050813: Possible Short Swift-BAT GRB",
+  "eventId": "GRB 050813",
+  "bibcode": "2005GCN..3788....1R",
+  "createdOn": 1123920402000,
+  "circularId": 3788,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "A. Retter (PSU), L. Barbier (GSFC), S. Barthelmy (GSFC), A. Blustin (MSSL),\nD. Burrows (PSU), A. Cucchiara (PSU), N. Gehrels (GSFC), \nO. Godet (U. Leicester), J. Kennea (PSU), C. Markwardt (GSFC/UMD),\nD. Morris (PSU), D. Palmer (LANL), J. Racusin (PSU), P. Roming (PSU)\non behalf of the Swift team, report:\n \nAt 06:45:09.8 UT, Swift-BAT triggered and located GRB050813\n(trigger=150139).  The spacecraft slewed immediately.  The BAT\non-board calculated location is RA,Dec 242.010, +11.252 {+16h 08m 02s, \n+11d 15' 07\"} (J2000), with an uncertainty of 3 arcmin (radius,\n90% containment, stat+sys).  There is a single peak with an\napproximate duration of 0.7 sec FWHM.  The peak rate is approx 2000\nct/s in the 15-350 keV band.\n\nAt 06:46:23 UT XRT attempted to centroid on the BAT position, 73 secs\nafter the BAT trigger. No position was acquired by the onboard\nsoftware and the TDRSS lightcurve shows no evidence for a decaying\nx-ray source.  We can not rule out the presence of a weak x-ray source\nlike that seen for the early afterglow of short GRB 050509b.  We await\nground analysis of the early XRT data following the first Malindi\npass.\n\nThe UVOT began observing this trigger at 06:46:52.0 UT, 102 seconds\nafter the BAT trigger. No new source (compared to the DSS image) is\nobserved in the 100 second V-band UVOT GeNI image down to a 5-sigma\nupper limit of 18.15 mag.\n\nThis trigger (=150139) appears to be a real GRB, as opposed to the\nrecently retracted trigger (=150131)."
+}

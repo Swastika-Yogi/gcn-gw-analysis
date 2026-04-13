@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120803B: MITSuME Akeno Optical upper limits",
+  "eventId": "GRB 120803B",
+  "bibcode": "2012GCN.13570....1U",
+  "createdOn": 1344004569000,
+  "circularId": 13570,
+  "submitter": "Yoichi Yatsu at Tokyo Tech.  <yatsu@hp.phys.titech.ac.jp>",
+  "email": "yatsu@hp.phys.titech.ac.jp",
+  "body": "R. Usui, Y.Aoki, S. Kurita, T. Yoshii, M. Hayashi,\nY. Saito, Y. Yatsu, and N. Kawai (Tokyo Tech)  report\non behalf of the MITSuME collaboration:\n\nWe observed GRB 120803B ( Racusin et al., GCN Circular #13566) with the\noptical three color (g, Rc, and Ic) CCD cameras attached to the MITSuME\n50 cm telescope of Akeno Observatory, Yamanashi, Japan.\n\nThe observation started on 2012-08-03 11:07:28 UT ( ~ 82 sec after\nthe burst).  And we did not find any new point source\nwithin the XRT error circle in the three bands.\nThe results of photometry (3sigma upper limits) are listed below.\n\nThe photon flux were calibrated against GSC2.3 catalog.\n\nT0+[sec]      MID-UT     T-EXP[sec]       g'              Rc           Ic\n-------------------------------------------------------------------------------------------\n       82       11:09:51         240        > 18.0       > 18.0     > 17.3\n      376       11:53:57        3600         >19.2\n      376       11:53:32        3660                           >18.9\n      376       11:53:02        3720\n        >18.3\n-------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst [sec]\nT-EXP: Total Exposure time [sec]\n\n[GCN OPS NOTE(04aug12): Per author's request, the \"120803A\" in the\nSubject-line was changed to \"120803B\".]"
+}

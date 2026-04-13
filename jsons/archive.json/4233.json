@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051109B: no UVOT source detected",
+  "eventId": "GRB 051109B",
+  "bibcode": "2005GCN..4233....1D",
+  "createdOn": 1131561859000,
+  "circularId": 4233,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (UCL-MSSL), G. Tagliaferri (INAF-Brera), A.J. Blustin \n(UCL-MSSL), D. Hinshaw (GSFC-SPSYS), M. Carter (UCL-MSSL),\nN. Gehrels (GSFC) on the behalf the UVOT/Swift Team:\n\n  The Swift UVOT began observing the field of GRB051109B at 08:41:03 UT,\n84 seconds after the BAT Trigger (Tagliaferri et al, GCN 4222). No new\nsource with respect to USNO B1.0 is detected within the 4 arcsecond\nradius XRT error circle (Campana et al., GCN 4226), either in the first\nexposure or in the coadded V-band exposures down to the following 3\nsigma magnitude upper limits:\n\n  Filter   T_range (sec)   Exp (sec)   3sigUL\n    V         84-284         200       18.9\n    V         84-8280        4956      20.8\n\n  The source previously reported in GCN 4222 was actually an artefact\nof the onboard processing and was not a real source.\n\n  These values are not corrected for Galactic extinction."
+}

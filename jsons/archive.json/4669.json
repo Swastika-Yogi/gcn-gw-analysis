@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060204B: Swift XRT Team Refined Analysis",
+  "eventId": "GRB 060204B",
+  "bibcode": "2006GCN..4669....1F",
+  "createdOn": 1139111098000,
+  "circularId": 4669,
+  "submitter": "Abe Falcone at PSU/Swift  <afalcone@astro.psu.edu>",
+  "email": "afalcone@astro.psu.edu",
+  "body": "A. D. Falcone (PSU), D. N. Burrows (PSU), D. C. Morris (PSU), N. Gehrels \n(GSFC) report on behalf of the Swift XRT team:\n\nWe have analyzed the initial Swift XRT data from GRB 060204B (Falcone et\nal., GCN4655), with a total exposure of 178 s in Windowed Timing mode \nand 7790 s in Photon Counting mode.\nThe refined XRT position is:\n\nRA(J2000) = 14 07 14.8\nDec(J2000) = +27 40 34\n\nThis position is 3\" from the initial XRT on-board centroiding position\nreported in GCN 4655, and it is 2.8\" from the optical detection reported\nby Guidorzi et. al (GCN 4661).  We estimate an uncertainty of 4\narcseconds radius (90% containment).\n\nThe early light curve is dominated by flaring with rates reaching\napproximately 200 c/s.  Following the initial flaring, the light curve\nis clearly fading, but the rate is difficult to estimate due to the\nflaring and the limited data available at this time.  A preliminary\nestimate of the power law decay index is approximately 0.6 +/- 0.4,\nimmediately following the flaring activity.  There is some indication\nthat the lightcurve may become steeper beyond approximately 10 ks.\n\nBased on a preliminary spectral fit to the PC data in the time region\nbetween 200-5000 seconds, the spectrum can be described by an absorbed\npower law, with a power law photon index of 1.9 +/- 0.2 and N_H of 10e20\n+/- 5e20 cm^-2.  The 0.2-10 keV flux during this time frame is estimated\nto be approximately 4e-12 erg/cm^2/s.\n\nThis Circular is an official product of the Swift XRT Team."
+}

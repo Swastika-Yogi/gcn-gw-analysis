@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250702F: GROWTH-India Telescope optical observations",
+  "eventId": "GRB 250702F",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40946....1M",
+  "createdOn": 1751633544973,
+  "circularId": 40946,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, A. Salgundi, A.P. Saikia, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of GRB 250702F (Klingler et al., GCN 40894, Fermi GBM, GCN 40892), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-07-03 16:43:24 UT, i.e., 19.6 hours after the Fermi/Swift trigger. We obtained multiple exposures in r' and i' filters. We detected the optical afterglow in our stacked image of r' filter at position reported by Swift UVOT (Siegel et al., GCN 40933). The photometry results are as follows:\n\n| MJD (mid)     | Filter | t-t0 (in hours) |Total Exposure Time (sec) | Magnitude (AB) |\n| ------------- | ------ |-----| ------------------ | -------------- |\n| 60859.721180 | r'     | 20.2  | 6 x 300              | 20.57 +/- 0.09  |\n| 60859.727245 | i'     | 20.34   |3 x 300              | >19.4  |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur magnitude is consistent with other optical observations (Jeliken et al., GCN 40895, Kumar et al., GCN 40896, Lipunov et al., GCN 40899, Carrillo et al., GCN 40900, Angulo et al., GCN 40907, Becerra et al., GCN 40911, Brivio et al., GCN 40913, An et al., GCN 40916, Dutton et al., GCN 40921, Odeh et al., GCN 40925, Moretti et al., GCN 40926, Ma et al., GCN 40936, Vinko et al., GCN 40939). \n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060206: Swift XRT Refined Analysis",
+  "eventId": "GRB 060206",
+  "bibcode": "2006GCN..4694....1M",
+  "createdOn": 1139223731000,
+  "circularId": 4694,
+  "submitter": "David Morris at PSU/Swift-XRT  <morris@astro.psu.edu>",
+  "email": "morris@astro.psu.edu",
+  "body": "D. Morris (PSU), D. Burrows (PSU), N. Gehrels (GSFC), J. Greiner (MPE), \nD. Hinshaw (GSFC-SPSYS) report on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first orbit of GRB 060206 \n(Morris et al., GCN4682), with a total exposure of 337 seconds. The \nrefined XRT position is:\n\nRA(J2000) = 13h 31m 43.4s\nDec(J2000) = +35d 03' 02\"\n\nThis position is 99.0 arcseconds from the BAT position given in GCN 4682 \nand 1.8 arcseconds from the optical afterglow position reported in GCN \n4683 (Fynbo et al) and refined in GCN 4684 (Boyd et al). We estimate an \nuncertainty of 4 arcseconds radius (90% containment).\n\nThe 0.2-10 keV light curve starts 65 seconds from the BAT trigger (T0). \nDue to the the spacecraft entry into the SAA, only a very small amount \nof data was collected during the first orbit. The available data suggest \na decaying lightcurve but are too sparse to determine an accurate \nmeasure of the decay slope.\n\nA preliminary spectral fit to the PC data gives a spectral power law \nphoton index of 2.0 � 0.3 in the 0.2-10 keV band with NH of 4e20 \n+4e20/-3e20. The galactic NH value for this direction is 1e20. The \nunabsorbed 0.2-10 keV flux at the start of the XRT observation is \nestimated to be about 8E-11 erg/cm2/s. Due to the uncertain nature of \nthe decay slope, we are currently unable to predict the expected flux at \nT+24hrs.\n\nObservations are ongoing  and we will distribute further analysis as \ndata become available.\n\nThis circular is an official product of the Swift XRT Team."
+}

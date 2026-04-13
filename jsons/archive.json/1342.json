@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 020321: Candidate X-ray Counterparts",
+  "eventId": "GRB 020321",
+  "bibcode": "2002GCN..1342....1F",
+  "createdOn": 1018309443000,
+  "circularId": 1342,
+  "submitter": "Derek Fox at CIT  <derekfox@astro.caltech.edu>",
+  "email": "derekfox@astro.caltech.edu",
+  "body": "D.W. Fox (Caltech) reports on behalf of the Caltech-NRAO-CARA GRB\ncollaboration:\n\n\"We have imaged the error circle of GRB020321 (GCN 1284, 1285) with\nthe Chandra X-ray Observatory for 20 ksec beginning at March 31.08 UT,\n9.9 days after the burst.  The pointing of the spacecraft was chosen\nto center the 2-arcmin radius BeppoSAX NFI localization (GCN 1285) on\nthe ACIS-S3 detector.  Reduction of the data using standard Ciao\nprocedures yields the following source catalog (listed in decreasing\norder of significance) for this region:\n\n    ID        IAU Name          Sig    Cts        HR\n   =======================================================\n     1  CXOU J161122.3-834121  37.4  80.4(90)  0.47(12)\n     2  CXOU J161105.1-834111  15.1  31.5(57)  0.43(16)    \n     3  CXOU J161104.2-834124   7.9  15.7(40)  0.12(16)    \n     4  CXOU J161048.0-834004   3.0   5.8(25)  0.09(28)    \n     5  CXOU J160953.5-834159   2.9   5.7(25)  0.63(89)    \n     6  CXOU J161205.3-834132   2.5   4.8(22)  0.04(19)    \n     7  CXOU J161058.8-834343   2.0   3.8(20)  0.52(65)    \n   =======================================================\n\nwhere \"Sig\" is the wavdetect-quoted significance of the source in the\n0.3 to 7.0 keV band, \"Cts\" is the counts in this band over the 20.0 ks\nexposure, \"HR\" is the hardness ratio of 2.1-7.0 keV counts to 0.3-2.1\nkeV counts, and uncertainties in the trailing digits are indicated in\nparentheses.  J2000 coordinates of the sources are implicit in their\nIAU names.\n\nNo sources are detected coincident with the reported ATCA radio\ncandidates (GCN 1308).  Source 6 (CXOU J161205.3-834132) is coincident\nwith a weak source (not a USNO star) from the Digitized Sky Survey\n(SES).\""
+}

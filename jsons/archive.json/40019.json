@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250402A: refined SVOM/MXT data analysis",
+  "eventId": "GRB 250402A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40019....1M",
+  "createdOn": 1743664833458,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 40019,
+  "format": "text/plain",
+  "body": "P. Maggi (ObAS), D. Götz (CEA), H. Goto (Kanazawa University/CEA), M. Moita (CEA), C. Plasse (CEA), F. Robinet (IJCLab), C. Van Hove (IJCLab) report of behalf of the SVOM/MXT Team:\n\nGRB 250402A (Chen et al. GCN 40014) was observed by SVOM/MXT after an automatic SVOM slew starting at T0 = 2025-04-02T23:10:59.278 (183s after trigger time Tb). MXT observed for 4.3 ks effective exposure.\n\nUsing the full X band dataset, we find a rapidly fading uncatalogued source with a light curve temporal index of -0.75+/-0.02. At times T0>500s the source is no longer detected and hence we restricted the analysis to the first 500s of data.\n\nIts position is RA=213.4051, Dec=-5.94374\nRA (J2000) = 14h13m37s\nDec (J2000) = -05d56m37s\nwith a statistical 90% C.L. radius of 38\". The position is 51\" away from, but consistent with, the one reported for the SVOM/VT afterglow candidate (Xin et al. GCN 40015) when including a 35\" systematic uncertainty.\n\nThe X-ray spectrum (t<T0+500s) can be fit by an absorbed power law model with a photon index of 3.2 (-0.8, +1.3) and an NH value of 0.21 (-0.1, +0.2) x 1e22 /cm2 (90% C.L. uncertainties). The absorbed X-ray flux in the 0.3-10 keV range is 8.4e-11 (+/-0.5e-11) erg/cm2/s.\n\nFollow-up observations at other wavelengths are encouraged.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. MXT was developed jointly by CEA, CNES, University of Leicester, IJCLab and MPE.\n\nThe SVOM point of contact for this burst is: X. Chen: xlchen@stu.ynu.edu.cn"
+}

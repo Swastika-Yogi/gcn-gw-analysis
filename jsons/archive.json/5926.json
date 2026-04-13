@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061217: Swift detection of a short hard burst",
+  "eventId": "GRB 061217",
+  "bibcode": "2006GCN..5926....1B",
+  "createdOn": 1166328082000,
+  "circularId": 5926,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), D. N. Burrows (PSU), M. M. Chester (PSU),\nJ. R. Cummings (NASA/UMBC), P. A. Evans (U Leicester),\nN. Gehrels (NASA/GSFC), O. Godet (U Leicester),\nC. B. Markwardt (GSFC/UMD), F. E. Marshall (NASA/GSFC),\nK. L. Page (U Leicester), D. M. Palmer (LANL),\nM. Stamatikos (NASA/ORAU) and R. L. C. Starling (U Leicester) report\non behalf of the Swift Team:\n\nAt 03:40:08 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 061217 (trigger=251634).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 160.442, -21.118 which is \n   RA(J2000)  =  10h 41m 46s\n   Dec(J2000) = -21d 07' 05\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single spike\nof approximately 400 msec duration.  The peak count rate\nwas ~4500 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nThe XRT began taking data at 03:41:12 UT, 64 seconds after the BAT\ntrigger. The XRT on-board centroid algorithm did not find a source in\nthe image and no source is detected in 17 s of promptly available\nphoton counting mode data. We are waiting for down-linked data to\ndetect and determine a position for the source. \n\nInitial data products were not received from the UVOT because it was\nnot in its normal observing configuration at the time of the BAT\ntrigger. The UVOT returned to its normal configuration at 03:46:15. \nData are expected in approximately 2.5 hours."
+}

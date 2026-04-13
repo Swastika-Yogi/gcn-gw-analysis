@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250920B: SVOM/C-GFT optical observations",
+  "eventId": "GRB 250920B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41908....1W",
+  "createdOn": 1758386322635,
+  "circularId": 41908,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "Chao WU (NAOC), Zhe Kang (CHO), Liping Xin(NAOC), Xuhui Han(NAOC), Pinpin Zhang (NAOC), Xiaomeng Lu (NAOC), Zhenwei Li (CHO), You Lv (CHO), Ruosong Zhang (NAOC), Yujie Xiao(NAOC), Yulei  Qiu (NAOC), Jing Wang (NAOC), Jinsong Deng(NAOC), Lei Huang(NAOC), Jianyan Wei (NAOC), report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of GRB 250920B detected by Fermi/GBM (Fermi Team, GCN 41897) and Swift/BAT (Gupta et al., GCN 41898) with LATIOS on SVOM/C-GFT. Observations started at 2025-09-20 11:22:32.815 UTC, ~2.60 hr after the trigger. \n\n\nThe optical counterpart  reported by Gupta et al.(GCN 41898) was clearly detected in our stacked images of  band g, r, and i.  \nThe magnitudes are:\n\n| mid-time (T-T₀) / hr | exposure time / s | band | mag (AB) | mag err |\n|:---------------------|:------------------|:-----|:---------|:--------|\n| 2.76                 | 10×30             | g    | 17.15    | ±0.07   |\n| 2.64                 | 10×30             | r    | 17.05    | ±0.07   |\n| 2.85                 | 9×30              | i    | 17.01    | ±0.05   |\n\nThe photometry was calibrated with nearby Pan-STARRS1 stars. Magnitudes were not corrected for dust extinction. \n\nWe thank the observation assistants Shuai Liu and Chunlei Guo at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130327B: Fermi GBM detection",
+  "eventId": "GRB 130327B",
+  "bibcode": "2013GCN.14346....1C",
+  "createdOn": 1364441736000,
+  "circularId": 14346,
+  "submitter": "Vandiver Chaplin at UAH/Fermi-GBM  <chapliv@email.uah.edu>",
+  "email": "chapliv@email.uah.edu",
+  "body": "V.Chaplin (UAH) and G. Fitzpatrick (UCD)\nreport on behalf of the Fermi GBM Team:\n\n\"At 08:24:04.05 UT on 27 March 2013, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 130327B (trigger 386065447 / 130327350), which was \nalso detected by several instruments on-board the AGILE spacecraft \n(Del Monte et al. GCN 14344).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 214.9, DEC = -74.6 degrees, with an uncertainty\nof 1 degree (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\n\nThe angle from the Fermi LAT boresight at the GBM trigger\ntime was 47 degrees. The Fermi Observatory executed a \nmaneuver following this trigger and tracked the burst location \nfor the next 2.5 hours, subject to Earth-angle constraints.\n\nThe GBM light curve consists of multiple spikes on top of a gradual\nrise and decay.  The main emission occurs between T0 and T0+35 seconds.\nThe total duration (T90) is about 62 s (50-300 keV).\nThe time-averaged spectrum from T0-0.8 s to T0+33 s is\nbest fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -0.57 +/- 0.02 and\nthe cutoff energy, parameterized as Epeak, is 341 +/- 6.3 keV.\n\nThe spectrum also fits a Band function with Epeak = 334 +/- 7 keV,\nalpha = -0.56 +/- 0.02, and beta = -3.4 +/- 0.4. \n\nThe event fluence (10-1000 keV) in this time interval is\n(5.176 +/- 0.057)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+32.4 s in the 8-1000 keV band\nis 12.7 +/- 0.3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

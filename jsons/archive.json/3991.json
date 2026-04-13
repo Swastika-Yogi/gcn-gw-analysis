@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050916: Swift-BAT detection of a long weak burst",
+  "eventId": "GRB 050916",
+  "bibcode": "2005GCN..3991....1M",
+  "createdOn": 1126891368000,
+  "circularId": 3991,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "D. Morris (PSU), D. Burrows (PSU), J. Cummings (GSFC/NRC), N. Gehrels (GSFC),\nC. Gronwall (PSU), S. T. Holland (GSFC/UMBC), J. Kennea (PSU),\nK. Page (U. Leicester), D. Palmer (LANL)\non behalf of the Swift team:\n\nAt 16:35:52 UT, Swift-BAT triggered and located GRB050916 (trigger=155408).\nThe spacecraft slewed immediately after processing the 120-second long\nimage.  The BAT on-board calculated location is RA,Dec 135.992d, -51.425d \n{09h 03m 58s, -51d 25' 31\"} (J2000), with an uncertainty of 3 arcmin (radius,\n90% containment, stat+sys).  The BAT raw light curve showed one very broad\npeak from T+0 to T+180 sec, with a spike at about T+40 to T+45 sec.  The peak\ncount rate was ~500 counts/sec (15-350 keV), at T+40 sec.  However, Swift was\nin the sunlit part of its orbit so the current heightened solar activity can\nproduce variation in the BAT raw detector count rates, and a trustworthy\nlight curve will require analysis of the full data set after the next ground\ncontact.\n\nXRT began observing at 16:39:22 UT, 210 seconds after the BAT trigger.  The\ncount rate was too low for an on-board centroid. The spectrum is consistent\nwith a weak source. The XRT position will be available following the next \nground station contact.\n\nThe UVOT began observing at 16:39:20 UT, 208 seconds after the BAT trigger.\nNo UVOT image was sent through TDRSS, however, the processed source list\nshows no new source.  The BAT source is at low galactic latitude and has\nhigh extinction.\n\nWe are currently in the portion of the orbits where the spacecraft does\nnot pass over the Malindi downlink station. Therefore, it will be ~6\nhours before we have access to the full data set for the refined analyses."
+}

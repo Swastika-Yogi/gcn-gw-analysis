@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 160806A",
+  "eventId": "GRB 160806A",
+  "bibcode": "2016GCN.19785....1K",
+  "createdOn": 1470749343000,
+  "circularId": 19785,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 160806A\n(IPN triangulation: Hurley et al., GCN 19784)\ntriggered Konus-Wind at T0=50460.639 s UT (14:01:00.639).\n\nThe burst light curve shows a single pulse\nwhich starts at ~T0-0.5 s and has a total duration of ~1.0 s.\nThe emission is seen up to ~8 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB160806_T50460/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.16(-0.23,+0.49)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.026 s,\nof 5.98(-3.46,+4.98)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst\n(measured from T0 to T0+0.256 s)\nis well fit in the 20 keV - 8 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.00 (-0.51,+0.80)\nand Ep = 219 (-76,+395) keV (chi2 = 43/33 dof).\nFitting by a GRB (Band) model yields alpha = -0.63 (-0.65,+1.00),\nEp = 171 (-59,+154) keV, and an upper limit on the high energy\nphoton index: beta < -1.8 (chi2 = 40/32 dof)\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

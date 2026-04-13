@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170524B: Swift detection of a burst",
+  "eventId": "GRB 170524B",
+  "bibcode": "2017GCN.21142....1B",
+  "createdOn": 1495736943000,
+  "circularId": 21142,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), A. Y. Lien (GSFC/UMBC), D. M. Palmer (LANL),\nand T. Sakamoto (AGU), report on behalf of the Swift Team:\n\nAt 10:40:40 UT on 2017-05-24, the Swift Burst Alert Telescope (BAT) triggered on\nGRB 170524B (trigger=754265).  However, on-board analysis was truncated by\na pre-planned slew to a scheduled target.  Subsequent ground analysis\nusing data from T+2 to T+101 s finds the source at a location of\nRA, Dec 90.864, -17.086, which is\nRA(J2000)  =  06h 03m 27s\nDec(J2000) = -17d 05' 11\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including\nsystematic uncertainty).\n\nThe BAT light curve shows a complex structure about 50 seconds long.\nThe raw peak count rate was ~18000 counts/sec (15-350 keV), at ~7 sec after\nthe trigger. T90 (15-350 keV) estimated using the raw light curve is 46.4 +- 1.6 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T+1.8 to T+49.6 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.15 +- 0.06.  The fluence in the 15-150 keV band is (6.6 +/- 0.2) x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+6.70 sec in the 15-150 keV band\nis 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThis event was also detected by CALET, KONUS-Wind, and INTEGRAL SPI ACS.\n\nA Swift Target of Opportunity observation has been requested.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/00753445006/BA/"
+}

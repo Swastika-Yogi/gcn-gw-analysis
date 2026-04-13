@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100727A, Swift-BAT refined analysis",
+  "eventId": "GRB 100727A",
+  "bibcode": "2010GCN.11001....1S",
+  "createdOn": 1280239216000,
+  "circularId": 11001,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "M. Stamatikos (GSFC/ORAU), S. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC/UMD), D. C. Morris (GWU/GSFC), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), J. Tueller (GSFC),\nT. N. Ukwatta (GWU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+617 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 100727A (trigger #430094)\n(Morris, et al., GCN Circ. 10998).  The BAT ground-calculated position is\nRA, Dec = 154.187, -21.417 deg which is\n    RA(J2000)  =  10h 16m 44.8s\n    Dec(J2000) = -21d 25' 02.7\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 98%.\n\nThe burst began with weak precursor activity starting at T-80 sec\nand peaking at T-40 sec.  The main pulse, a mostly featureless\nFRED profile, began at T-2 sec and continued to approximately\nT+50 sec. T90 (15-350 keV) is 84 +- 14 sec (estimated error\nincluding systematics).\n\nThe time-averaged spectrum from T-82.0 to T+29.8 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.81 +- 0.13.  The fluence in the 15-150 keV band is 1.2 +- 0.1 x 10-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+1.33 sec in the 15-150 keV band\nis 1.2 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/430094/BA/"
+}

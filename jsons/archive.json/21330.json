@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170708A",
+  "eventId": "GRB 170708A",
+  "bibcode": "2017GCN.21330....1S",
+  "createdOn": 1499876588000,
+  "circularId": 21330,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A.Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 170708A\n(IPN triangulation: Svinkin et al., GCN Circ. 21314;\nInsight-HXMT detection: Xiong et al., GCN Circ. 21307)\ntriggered Konus-Wind at T0=3974.665 s UT (01:06:14.665).\n\nThe burst light curve shows a single pulse with\na total duration of ~0.2 s.\nThe emission is seen up to ~500 keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170708_T03974/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.04(-1.2,+1.4)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.014 s,\nof 1.48(-0.37,+0.40)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated 3-channel spectrum of the burst,\nmeasured from T0-0.014 s to T0+0.224 s,\ncan be modelled by an exponentially cut off power law:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.94(-0.30,+0.42) and Ep = 269(-75,+147) keV.\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

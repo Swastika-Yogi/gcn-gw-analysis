@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210410A: Swift/UVOT Upper Limits (revision)",
+  "eventId": "GRB 210410A",
+  "bibcode": "2021GCN.29812....1K",
+  "createdOn": 1618316984000,
+  "circularId": 29812,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (MSSL/UCL) reports on behalf of the Swift/UVOT team:\n\nIn our previous report (Kuin & Melandri, GCN Circ 29787) we made\nan error computing T0, which affected our T_start and T_stop times.\nBelow are the corrected values.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)       mag 3-sigma UL\n\nv                 1070         1095           19         >17.0\nb                 4967         5055           85         >19.7\nu                 4763         4960          197         >19.9\nw1                4556         4755          197         >19.3\nm2                4349         4548          197         >19.4\nw2                1059         1071           12         >17.0"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 230723A",
+  "eventId": "GRB 230723A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34269....1R",
+  "createdOn": 1690383991931,
+  "circularId": 34269,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "body": "A.Ridnaia, D. Frederiks, A.Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 230723A\n(Fermi GBM detection: The Fermi GBM team, GCN 34232;\nAGILE/MCAL detection: Panebianco et al., GCN 34237;\nIPN triangulation: Kozyrev et al., GCN 34258)\ntriggered Konus-Wind at T0=16725.802 s UT (04:38:45.802).\n\nThe burst light curve shows a multipeaked structure,\nwhich starts at T0-0.346 s and has a total duration of ~0.62 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230723_T16725/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.66(-0.06,+0.54)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.220 s,\nof 8.56(-1.76,+3.29)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the main fraction of the burst emission was detected\nbefore the trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-0.346 s to T0+0.620 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -0.21(-0.26,+0.27) and Ep = 659(-99,+162) keV.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

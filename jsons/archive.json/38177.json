@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241107A: Swift/BAT candidate arcminute localization of a short burst",
+  "eventId": "GRB 241107A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38177....1D",
+  "createdOn": 1731428155242,
+  "circularId": 38177,
+  "submitter": "Jimmy DeLaunay at Penn State <delauj2@gmail.com>",
+  "format": "text/plain",
+  "body": "James DeLaunay (PSU), Aaron Tohuvavohu (Caltech), Samuele Ronchini (PSU), Gayathri Raman (PSU), Jamie A. Kennea (PSU), Tyler Parsotan (NASA GSFC)  report:\n\nSwift/BAT did not localize GRB 241107A onboard (T0:  2024-11-07T23:30:00.1 UTC, SVOM/GRM GCN 38125).\n\n3 seconds of TTE data is available covering the time of this burst, associated with BAT failed trigger #1266248, as the burst triggered BAT's rate trigger algorithm, but failed to localize the burst onboard. There is no long duration GUANO data available for this burst due to lack of prompt notice from other instruments.\n\nThe burst is seen clearly in the BAT rates light-curve, but we fail to recover it in an image. \n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu 2022, ApJ, 941, 169), typically requires ~40 s of off-time TTE data to properly fit the background, but here we attempt to approximate the background model with ~2.5 s of TTE data around the burst. \n\nNITRATES detects the burst in a 0.2 s analysis time bin with a sqrt(TS) of 35.2. \nAn arcminute localization candidate is found with a DeltaLLHPeak of 10.3 and DeltaLLHOut of 2.5. \n\nDue to limited data, nonstandard fitting was used, so the position is independently not highly confident, but matches both the IPN (GCN 38165) and INTEGRAL/IBIS (GCN 38172) localizations.\n\nSee Section 9.1 and Figures 10 and 17 in the NITRATES paper for brief descriptions and interpretations of sqrt(TS), DeltaLLHPeak, and DeltaLLHOut.\n\nThe BAT candidate position is\nRA, Dec = 111.325, -24.487 deg which is\n   RA(J2000)  = 07h 25m 18.0s\n   Dec(J2000) = -24 29′ 13.2″\nwith an estimated uncertainty of 4 arcmin radius."
+}

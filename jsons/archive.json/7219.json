@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 080122",
+  "eventId": "GRB 080122",
+  "bibcode": "2008GCN..7219....1G",
+  "createdOn": 1201276430000,
+  "circularId": 7219,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 080122 (Hurley et al., GCN 7211) triggered\nKonus-Wind at T0=66764.605 s UT (18:32:44.605).\n\nThe burst light curve shows three multipeaked pulses with a total \nduration of ~150 s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of 6.35(-3.39, +3.50)x10^-5 erg/cm2,\nand a 64-ms peak flux measured from T0+6.768 s\nof (4.80 +/- 0.95)x10^-6 erg/cm2/s\n(both in the 20 keV - 1 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+112.384 s) is well fitted (in the 20 keV - 1 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.27 +/- 0.10\nand Ep = 259(-33, +46) keV (chi2 = 58.1/60 dof).\nFitting by GRBM (Band) model yields:\nthe low-energy photon index is alpha = -1.21(-0.11, +0.12),\nthe high energy photon index beta = -2.36(-0.68, +0.24),\nthe peak energy Ep = 227(-33, +43) keV (chi2 = 54.2/59 dof).\n\nThe spectrum of the most intense part (from T0 to T0+14.080 s) is well \nfitted (in the same range)\nby a power law with exponential cutoff model\nwith alpha =  -1.00 +/- 0.07\nand Ep = 341(-29, +35) keV (chi2 = 46.8/60 dof).\nFitting by GRBM (Band) model yields only an upper limit\non the high energy photon index: beta < -2.27.\nThe fluence of this part is (2.42+/-0.10)x10^-5 erg/cm2.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB080122_T66764/"
+}

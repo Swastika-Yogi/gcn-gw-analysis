@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 081025",
+  "eventId": "GRB 081025",
+  "bibcode": "2008GCN..8412....1G",
+  "createdOn": 1225035229000,
+  "circularId": 8412,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R. Aptekar, E. Mazets, V. Pal'shin,\nD. Frederiks, P. Oleynik, D. Svinkin, M. Ulanov\nand T. Cline, on behalf of the Konus-Wind team report:\n\nThe long Swift-BATSS GRB 081025 (Copete et al., GCN 8409) triggered\nKonus-Wind at T0=30186.316 s UT (08:23:06.316).\n\nThe burst light curve shows a multipeaked structure with a total \nduration of ~25 s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of 5.37(-0.82, +0.96)x10^-6 erg/cm2,\nand a 256-ms peak flux measured from T0-0.224 s\nof 8.90(-2.62, +2.75)x10^-7 erg/cm2/s\n(both in the 20 keV - 1 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+24.832 s) is well fitted (in the 20 keV-1 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.67(-0.33, +0.43) ,\nand Ep = 222(-46, +81)  keV (chi2 = 55.5/60 dof).\nFitting by GRBM (Band) model yields only an upper limit on\nthe high energy photon index: beta < -2.07.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.ru/LEA/GRBs/GRB081025_T30186/"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP250730a: SVOM/VT optical upper limit",
+  "eventId": "EP250730a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41226....1Y",
+  "createdOn": 1754300250951,
+  "submitter": "zhyao@bao.ac.cn",
+  "circularId": 41226,
+  "format": "text/plain",
+  "body": "Z. H. Yao, H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, Y. N. Ma, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), B. T. Wang (YNAO) report on behalf of the SVOM/VT team.\n\nSVOM performed a Target of Opportunity observation of EP250730a detected by EP/WXT (Wang et al., GCN 41207). SVOM/VT began observing the field at 2025-07-31T10:36:57.506 UTC, 28.5 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nNo uncataloged candidates were detected in our single or stacked images within the error box provided by EP/WXT (Wang et al., GCN 41207), the three sigma limits are:\n\nmid-time (UTC)      | exposure time (s)       | band | upper limit (AB) \n--------------------|-------------------------|------|-----------------\n2025-07-31T11:47:09 | 19*100                  | VT_B | 23.5\n2025-07-31T11:47:09 | 19*100                  | VT_R | 23.0\n\nOur results are consistent with COLIBRÍ (Magnani et al., GCN 41209) and Global MASTER-Net (Lipunov et al., GCN 41210).\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

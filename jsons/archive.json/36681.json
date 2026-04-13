@@ -1,0 +1,11 @@
+{
+  "subject": "X-ray transient EP240414a: Chandra late time observation",
+  "eventId": "EP240414a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36681....1J",
+  "createdOn": 1718607246842,
+  "submitter": "P.G. Jonker at Radboud University <p.jonker@astro.ru.nl>",
+  "circularId": 36681,
+  "format": "text/plain",
+  "body": "P.G. Jonker (Radboud Univ. & SRON), A.J. Levan (Radboud Univ. & Warwick Univ.), D. B. Malesani (DAWN/NBI and Radboud Univ.), J. Quirola-Vásquez (Radboud Univ.), Maria E. Ravasio (Radboud Univ.), F. E. Bauer (PUC), D. Mata Sanchez (IAC), M.A.P. Torres (IAC), report on behalf of a larger collaboration:\n\nWe observed the location of the X-ray counterpart of the fast X-ray transient EP240414a reported by the Einstein Probe WXT instrument and FXT (Lian et al. GCN 36091; Guan et al. GCN 36129) using the Chandra X-ray Observatory. Observations started at 2024-06-16:05:35 UT and lasted for 10.7 ksec. The VFAINT observing mode was used. In a preliminary analysis we do not detect an X-ray counterpart to the\ntransient. Two X-ray photons are detected in a circular region with a 1\" radius, centred on the position of the optical transient reported in Aryan et al. (GCN 36094). Using Kraft et al. (1991) this leads to a 90% upper limit on the source count of ~4E-4 cnt/s. Using an absorbed power law model with index 1.7 for the source (N_H=3.35E20 cm-2) following the detected parameters of Guan et al. (GCN 36129), we obtain a flux upper limit of 8E-15 erg cm-2 s-1 (0.5-10 keV). This corresponds to an upper limit on the source luminosity of L_X<5E42 erg/s for the z=0.4 redshift of the source.\n\nThe AGN at the centre of the host galaxy of EP240414a with (RA, Dec)=(12:46:02.0, -09:43:09.16) is detected with a count rate of 1.7E-3 cnt/s, which, for the same spectral parameters as above, yields a luminosity of 2E43 erg/s (0.5-10 keV). Care should be taken to remove the contribution of the AGN to earlier X-ray detections of EP240414a obtained with satellites with lower spatial resolution than Chandra.\n\nWe like to thank the CXC director and team for approving and executing this observation.\n"
+}

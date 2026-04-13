@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 251028A: SVOM/GRM observation",
+  "editedOn": 1761864253360,
+  "version": 2,
+  "eventId": "GRB 251028A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42522....1S",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of guohx@ihep.ac.cn",
+  "circularId": 42522,
+  "createdOn": 1761832036856,
+  "submitter": "Haoxuan Guo <skyairsama@gmail.com>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Hao-Xuan Guo, Chen-Wei Wang, Zheng-Hang Yu, Chao Zheng, Yue Huang, Shi-Jie Zheng, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)SVOM/ECLAIRs team: Report on behalf of the SVOM team:\n\nSVOM/ECLAIRs team: Sebastien Guillot (IRAP)\n\nSVOM/GRM was triggered in-flight by a burst GRB 251028A (SVOM trigger reference: sb25102801) at 2025-10-28T03:26:37.000 UTC (T0), which is also detected by Fermi/GBM (Fermi GBM team, GCN#42497, GCN#42499), MAXI/GSC (MAXI team, GCN#42498) and Glowbug (C.C. Cheung et al., GCN#42506).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of multiple peaks with a T90 of 31.0 +6.5/-3.0 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb251028A.png\n\nIn addition, the position of this burst, as determined by Fermi/GBM (RA= 149.5, DEC= 20.2, GCN#42497), is located at about 157 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view, but this burst still clearly detected by ECLAIRs due to the reflection of the Earth atmosphere.\n\nWith this localization, the time-averaged spectrum from T0-10 to T0+45 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.31 +0.14/-0.16 and the cutoff energy, parameterized as Epeak, is 345 +107/-64 keV. The event fluence (10-1000 keV) in this time interval is (4.56 +0.24/-0.27)E-5 erg/cm^2.\n\nThe localization of GRB 251028A in the 'Amati' relation diagram is shown at:\nhttps://www.bursthub.cn//admin/static/svgrb251028A_amati.png\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM point of contact for this burst is: Hao-Xuan Guo (IHEP)(guohx@ihep.ac.cn)"
+}

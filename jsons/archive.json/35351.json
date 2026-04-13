@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231215A : MITSuME Akeno optical afterglow candidate detection",
+  "eventId": "GRB 231215A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35351....1S",
+  "createdOn": 1702647103183,
+  "circularId": 35351,
+  "submitter": "Mahito Sasada at Tokyo Institute of Technology <sasada@hp.phys.titech.ac.jp>",
+  "body": "M. Sasada, N. Higuchi, I. Takahashi, M. Niwano, S. Sato, S. Hayatsu, H. Takei, H. Seki, Y. Yatsu and N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 231215A (D'Avanzo et al., GCN 35343) with the optical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope Akeno. \n\nThe observation with a series of 10 sec exposures started at 2023-12-15 09:50:27 UT (182 seconds after the Swift/BAT trigger). We stacked the first six images. An optical candidate of the afterglow can be found at the location of (RA, Dec) = (9.7393, 57.6472) near the Swift/XRT error position (Evans et al., GCN 35345). Here we report magnitudes by the aperture photometry at the position.\n\nT0+[sec] | MID-UT | T-EXP[sec] | magnitudes of aperture photometry\n----------------------------------------------------------------------------------------------------------------\n238 | 2023-12-15 09:51:23 | 60 | g’=17.54+/-0.06, Rc=17.86+/-0.05, Ic=17.40+/-0.05\n----------------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nThe magnitudes are consistent with Lipunov et al., GCN 35347 and Pankov et al., GCN 35349. We are continuing to observe the candidate.\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g'-, Rc- and Ic-band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages 4-24; https://github.com/MNiwano/Eclaire).\n"
+}

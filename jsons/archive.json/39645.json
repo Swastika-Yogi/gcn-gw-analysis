@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250309B / AT2025dws: SAO RAS optical observations",
+  "eventId": "GRB 250309B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39645....1M",
+  "createdOn": 1741574701822,
+  "circularId": 39645,
+  "submitter": "Moskvitin Alexander at SAO RAS <mosk@sao.ru>",
+  "format": "text/plain",
+  "body": "A. S. Moskvitin, O. I. Spiridonova (SAO RAS), A. S. Pozanenko (IKI),\nA. Ghosh, S. Razzaque (CAPP, University of Johannesburg), \nYu. V. Sotnikova (SAO RAS) report  on behalf of a larger collaboration.\n\nWe partially covered the error circle of the GRB 250309B (Preis \nand Greiner, GCN 39629; Fermi GBM team, GCN 39635; McDermott et al., \nGCN 39642) with 1-m telescope of SAO RAS, Zeiss-1000, \nequipped with the CCD-photometer.\n\nThe fields of ZTF25aaitvjt / AT2025dws (Stein et al., \nGCN 39639), XRT sources #1 and #3 (Evans et al., GCN 39633) were \nobserved in Rc band on March 9/10 night. The AT2025dws source \ndoes not fit into the error circle of ground-based GBM localization \n(Fermi GBM group, GCN 39635), but falls into the BALROG localization \nfield (Preis et al., GCN 39629).\n\nWe obtained two epochs of observations for ZTF25aaitvjt / AT2025dws \nfield. The 1st: on March 9, 21:58:17 -- March 9, 22:29:28 UT, \nt_mid - T0 = 14.5893 h  = 0.60789 days (5 x 300 sec. exposure);\nthe 2nd: on March 9, 23:52:03 -- March 10, 00:47:22 UT,\nt_mid - T0 = 16.6865 h = 0.69527 days (10 x 300 sec. exposure).\n\nWe clearly detected ZTF25aaitvjt / AT2025dws (Stein et al., \nGCN 39639; Pérez-Fournon et al., GCN 39643; Stein and Ahumada, \nGCN 39644) in the stacked images. Preliminary photometry is the following.\n\nDate        UT start  t-T0        Exptime  Filter OT        Err   UL\n                   (mid, days) (s)                            (3sigma)\n2025-03-09  21:58:17  0.60789     5 x 300  Rc     19.52 +/- 0.04  22.0\n2025-03-09  23:52:03  0.69527    10 x 300  Rc     19.66 +/- 0.02  22.6\n\nThe above photometry includes the OT and a possible host galaxy.\nThe photometry is based on nearby stars from the USNO-B1.0 catalog \n(R2 magnitudes) and has not been corrected for the Galactic extinction.\nUSNO-B1.0 reference stars\nRA          Dec         R2\n14:03:06.24 -08:27:38.9 15.67\n14:03:08.07 -08:26:47.1 17.30"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB081222: Swift/UVOT detection of an optical afterglow",
+  "eventId": "GRB 081222",
+  "bibcode": "2008GCN..8696....1B",
+  "createdOn": 1229950347000,
+  "circularId": 8696,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A.A. Breeveld (MSSL/UCL) and D. Grupe (PSU) report on behalf of the  \nSwift UVOT team:\n\nThe Swift/UVOT started settled observations of the burst GRB081222  \n(Grupe et al. GCN Circ. 8691) with the finding chart exposure in  \nwhite, 60s after the BAT trigger. The afterglow is detected in the  \nwhite and u filters at:\n01h 30m 57.59s  -34d 05' 41.49\" with a 0.5\" 90% confidence limit.\nThis position is consistent with the XRT (Grupe et al. GCN Circ.  \n8691), REM (Covino et al. GCN Circ. 8692) and GROND (Updike et al. GCN  \nCirc. 8693) positions. The two white exposures show that the afterglow  \nis fading with an estimated temporal slope of alpha = 0.85. The  \ninitial UVOT magnitudes are as follows:\nFilter   Tstart(s)   Tstop(s)   Exp(s)   Magnitude\nwhite   60            210           147.4     14.84+/-0.02\nwhite   873          1023         147.4     17.36+/-0.03\nu          272           522           245.8     16.32+/-0.03\nThe values quoted above are in the UVOT photometric system (Poole et  \nal. 2008, MNRAS, 383, 627) and are not corrected for the expected  \nGalactic extinction corresponding to a reddening of E(B-V)=0.021 mag  \nin the direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180316A: Swift-BAT refined analysis",
+  "eventId": "GRB 180316A",
+  "bibcode": "2018GCN.22512....1C",
+  "createdOn": 1521229769000,
+  "circularId": 22512,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "J. R. Cummings (CPI), S. D. Barthelmy (GSFC), \nH. A. Krimm (NSF/USRA), A. Y. Lien (GSFC/UMBC),\nC. B. Markwardt (GSFC), A. Melandri (INAF-OAB),\nD. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 180316A (trigger #814677)\n(Melandri et al., GCN Circ. 22500).  The BAT ground-calculated position is\nRA, Dec = 265.422, 0.737 deg which is \n  RA(J2000)  =  17h 41m 41.3s \n  Dec(J2000) = +00d 44' 14.3\" \nwith an uncertainty of 1.5 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 29%.\n\nThe mask-weighted light curve shows a main structure with several overlapping \npulses that starts at ~ T-15 s and ends at ~ T+30 s. The major peak occurs at\n~ T+1 s. In addition, there are some weak emission before the main structure \nthat starts at ~ T-80 s, and a weak tail afterward that lasts until ~ T+40 s.\nT90 (15-350 keV) is 87.0 +- 20.6 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-79.73 to T+37.27 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.46 +- 0.12.  The fluence in the 15-150 keV band is 4.9 +- 0.4 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+1.27 sec in the 15-150 keV band\nis 3.3 +- 0.5 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel."
+}

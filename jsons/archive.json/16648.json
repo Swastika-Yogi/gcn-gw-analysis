@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 140729A",
+  "eventId": "GRB 140729A",
+  "bibcode": "2014GCN.16648....1G",
+  "createdOn": 1406819649000,
+  "circularId": 16648,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, hard-spectrum GRB 140729A\n(Fermi-LAT detection: Arimoto and Bissaldi, GCN 16633;\nIPN triangulation: Hurley et al., GCN 16637)\ntriggered Konus-Wind at T0=2213.751 s UT (00:36:53.751).\n\nThe burst light curve shows a single pulse with a duration of ~16 s\nfollowed by a weak tail seen up to T0+33s.\nThe emission is seen up to ~2 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.0(-0.2,+0.3)x10^-5 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+2.656 s,\nof 4.5(-1.6,+1.7)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+16.640 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.65(-0.29,+0.36),\nand Ep = 592(-122,+187) keV (chi2 = 76/89 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -2.7 (chi2 = 76/88 dof).\n\nThe spectrum near the peak count rate\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 2 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.68(-0.29,+0.35),\nand Ep = 619(-132,+233) keV (chi2 = 51/60 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -2.0 (chi2 = 51/59 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB140729_T02213/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

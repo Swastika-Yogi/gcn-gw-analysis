@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050509a: Swift UVOT observations",
+  "eventId": "GRB 050509A",
+  "bibcode": "2005GCN..3394....1P",
+  "createdOn": 1115654672000,
+  "circularId": 3394,
+  "submitter": "Katie McGowan at MSSL-UCL  <km2@mssl.ucl.ac.uk>",
+  "email": "km2@mssl.ucl.ac.uk",
+  "body": "T. Poole (MSSL), C. Hurkett (Leicester), S. Hunsberger (PSU), A. Breeveld\n(MSSL), P. Boyd (GSFC), N. Gehrels (GSFC), K. Mason (MSSL), J. Nousek\n(PSU), on behalf of the Swift UVOT team\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began observations of\nGRB050509a on May 09, 2005 at 01:47:20.5 UT, 52 seconds after the initial\nSwift BAT trigger (Hurkett et al., GCN 3379). The XRT error circle\n(Kennea et al., GCN 3380) falls partially on a known source from the DSS.\nWe detect no new sources at the Swift XRT position (Kennea et al, GCN\n3380). The limiting magnitudes (in 6\" radius apertures) in each of the\nUVOT filters are as follows:\n\nFilter    Lim_Mag      Lim_mag  Total duration  T_start T_mid\n            5sigma       3sigma  (s)             (s)     (s)\n\nV          18.23        18.79   191             52      1853\nUVW1       18.97        19.52   210             5722    5827\nUVM2       20.29        20.84   921             3763    4739\n\nUVOT only observed GRB050509b in V, UVW1 and UVM2 because it's run of\nobservations were interrupted by GRB050509b.\n\nThe magnitudes are based on preliminary zero-points, measured in\norbit, and will require refinement with further calibration.\n\nThis message may be cited."
+}

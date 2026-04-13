@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070508, Swift-BAT refined analysis",
+  "eventId": "GRB 070508",
+  "bibcode": "2007GCN..6390....1B",
+  "createdOn": 1178631312000,
+  "circularId": 6390,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), L. Barbier (GSFC), J. Cummings (GSFC/UMBC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Grupe (PSU),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-240 to T+962 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 070508 (trigger #278854)\n(Grupe, et al., GCN Circ. 6383).  The BAT ground-calculated position is\nRA, Dec = 312.832, -78.382 deg, which is \n   RA(J2000)  =  20h 51m 19.8s \n   Dec(J2000) = -78d 22' 54.8\" \nwith an uncertainty of 0.4 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 62%.\n \nThe mask-weighted lightcurve consists of ~20 main peaks (between T+0 and T+20 sec).\nThe emission starts at ~T-20 sec and clearly extends out to T+30 sec\nand at a lesser level extends out past T+800 sec.  T90 (15-350 keV) is\n21 +- 1 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-13.8 to T+33.1 is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 1.14 +- 0.12, \nand Epeak of 258 +- 134 keV (chi squared 27.7 for 56 d.o.f.).  \nFor this model the total fluence in the 15-150 keV band is\n2.0 +- 0.0 x 10^-5 erg/cm2 and the 1-sec peak flux measured from T+10.84 sec\nin the 15-150 keV band is 24.7 +- 0.6 ph/cm2/sec.  \nA fit to a simple power law gives a photon index of 1.36 +- 0.03\n(chi squared 38.4 for 57 d.o.f.).  All the quoted errors are at the 90%\nconfidence level.\n\nWe note that the TDRSS messages for this burst were delayed in transmission\nto the ground because the burst occurred at the beginning of an 11-minute\nMalindi downlink session."
+}

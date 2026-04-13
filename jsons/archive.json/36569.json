@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240529A: J-band detections with WINTER",
+  "eventId": "GRB 240529A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36569....1M",
+  "createdOn": 1717011467806,
+  "circularId": 36569,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "format": "text/plain",
+  "body": "Geoffrey Mo (MIT), Viraj Karambelkar (Caltech), Robert Stein (Caltech), Danielle Frostig (MIT), Nathan Lourie (MIT), Tomas Ahumada (Caltech), Benjamin Schneider (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 240529A (Eyles-Ferris et al., GCN 36556; Osborne et al., GCN 36557; Gropp et al., GCN 36558; Joshi et al., GCN 36560; Dichiara et al., GCN 36564; Markwardt et al., GCN 36566) in the near-infrared J-band with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020). \n\nTwo epochs of observations were performed. The first epoch began at 2024-05-29T10:18:49 UTC (~7.3 hours after the GRB) and consisted of 29 x 120 s exposures. The second epoch began at 2024-05-29T11:47:42 UTC (~8.8 hours after the GRB) and consisted of 10 x 120 s exposures. The images were processed using the WINTER data reduction pipeline (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.10888436), with image subtraction performed relative to J-band images from the UKIRT Hemisphere survey (Dye et al., 2017). \n\nWe detect the counterpart (Eyles-Ferris et al., GCN 36556; Kumar et al., GCN 36559; Fu et al., GCN 36561; Shilling et al., GCN 36562; Perez-Garcia et al., GCN 36563; Dutton et al., GCN 36568) in both epochs. The (AB) magnitude is J ~ 16.1 mag in the first epoch, and J ~ 16.5 mag in the second epoch.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

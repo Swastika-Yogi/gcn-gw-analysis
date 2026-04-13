@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100316C: Swift-XRT team refined analysis",
+  "eventId": "GRB 100316C",
+  "bibcode": "2010GCN.10507....1P",
+  "createdOn": 1268766943000,
+  "circularId": 10507,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) and M. Stamatikos (OSU/NASA/GSFC) report on \nbehalf of the Swift-XRT team:\n\nWe have analysed 5.7 ks of XRT data for GRB 100316C (Stamatikos et al. GCN \nCirc. 10491), from 87 s to 13.5 ks after the BAT trigger. The data are \nentirely in Photon Counting (PC) mode. The enhanced XRT position for this \nburst was given by Evans et al. (GCN Circ. 10506).\n\nThe light curve can be modelled with a doubly-broken power-law, with \nalpha1 = 0.28 (+0.66,-1.18) until T = 258 (+87/-66) s after the trigger, \nat which point the decay steepens to alpha2 = 2.53 (+1.18, -0.44). At T = \n883 (+1857, -271) s, the decay flattens to alpha3 = 0.76 (+0.27, -0.26).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed \npower-law with a photon spectral index of 1.6 (+0.5, -0.4). The best-fitting \nabsorption column is 1.8 (+1.6, -1.3) x 10^21 cm^-2, in excess of the Galactic \nvalue of 3.9 x 10^20 cm^-2 (Kalberla et al. 2005). The counts to observed \n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this spectrum is \n5.1 x 10^-11 (6.2 x 10^-11) erg cm^-2 count^-1.\n\nIf the light curve continues to decay with a power-law decay index of 0.76, the \ncount rate at T+24 hours will be 0.0013 count s^-1, corresponding to an \nobserved (unabsorbed) 0.3-10 keV flux of 6.6 x 10^-14 (8.1 x 10^-14) erg cm^-2 \ns^-1.\n\nThe results of the XRT-team automatic analysis are available at \nhttp://www.swift.ac.uk/xrt_products/00416115.\n\nThis circular is an official product of the Swift-XRT team."
+}

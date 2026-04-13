@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060604: Swift/UVOT detections",
+  "eventId": "GRB 060604",
+  "bibcode": "2006GCN..5219....1B",
+  "createdOn": 1149517551000,
+  "circularId": 5219,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL) and M. J. Page (UCL-MSSL) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB060604 at 18:20:39\non 2006-06-04, 100 s after the BAT trigger (Page et al., GCN 5212).\nThe afterglow candidate at the position reported by Page et al.\n(GCN 5212) was detected at greater than 2 sigma significance in the\nV, B, U, UVW1 and White filters. Magnitudes and 3-sigma upper limits\nfrom co-added images in the colour filters, and from two single\nimages in the White filter, are given below. The weak detection in\nthe UVW1 band is consistent with the tentative redshift of 2.68\nreported by Castro-Tirado et al. (GCN 5218).\n\nFilter  T_range(s)  Exposure(s)  Mag/3sig_UL     Significance (sigma)\nV       100-10165   1127         21.2 +/- 0.6    2.4\nB       4086-23420  1956         21.2 +/- 0.2    5.8\nU       3881-29206  2705         21.1 +/- 0.2    4.4\nUVW1    3677-28601  2900         22.1 +/- 0.4    2.8\nUVM2    3472-27694  2139         21.1 (3sig_UL)\nUVW2    4496-6061   321          19.8 (3sig_UL)\n\nWhite   117-217     98           18.3 +/- 0.1    13.4\nWhite   4290-4490   190          20.5 +/- 0.3    3.9\n\nThese magnitudes are uncorrected for Galactic extinction\n(E(B-V) = 0.043)."
+}

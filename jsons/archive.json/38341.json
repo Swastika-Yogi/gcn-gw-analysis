@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 241114B",
+  "eventId": "GRB 241114B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38341....1S",
+  "createdOn": 1732702805777,
+  "circularId": 38341,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nC. Wang, S. Xiong, S. Zheng and Y. Zhang,\non behalf of the Insight-HXMT team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nE. Burns on behalf of the IPN,\n\nand\n\nB. Grefenstette on behalf of the NuSTAR team, report:\n\nThe long-duration GRB 241114B\n(Insight-HXMT-HE detection: Wang et al., GCN 38284)\nwas detected by Konus-Wind, INTEGRAL (SPI-ACS), Swift (BAT),\nNuSTAR (AC), and Insight-HXMT (HE) at about 39904 s UT (11:05:04).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  304.514 (20h 18m 03s) -10.028 (-10d 01' 40\")\n Corners:\n  302.298 (20h 09m 12s)  -7.588 ( -7d 35' 17\")\n  303.748 (20h 15m 00s)  -7.242 ( -7d 14' 31\")\n  306.603 (20h 26m 25s) -12.501 (-12d 30' 04\")\n  305.164 (20h 20m 39s) -12.843 (-12d 50' 34\")\n ---------------------------------------------\nThe error box area is 8.4 sq. deg, and its maximum\ndimension is 6.5 deg (the minimum one is 1.4 deg).\nThe Sun distance was 70 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241114_T39903/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170524B",
+  "eventId": "GRB 170524B",
+  "bibcode": "2017GCN.21148....1F",
+  "createdOn": 1495798402000,
+  "circularId": 21148,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 170524B (Swift/BAT detection: Barthelmy et al., GCN 21142)\ntriggered Konus-Wind at T0=38438.475 s UT (10:40:38.475).\n\nThe KW light curve shows a multi-peaked emission with a total duration\nof ~24 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(5.7 �� 0.4)x10^-5 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+1.644, of (1.44 �� 0.10)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+21.760 s)\nis best fit in the 20 keV - 15 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -0.85(-0.06,+0.06),\nand the peak energy Ep = 766(-74,+87) keV,\nchi2 = 93/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta of -2.5,\nchi2 = 93/97 dof.\n\nThe spectrum near the peak count rate (measured from T0 to T0+5.376 s)\nis best fit in the 20 keV - 15 MeV range by the CPL function\nwith the following model parameters:\nthe photon index alpha = -0.72(-0.06,+0.06),\nand the peak energy Ep = 860(-73,+83) keV,\nchi2 = 111/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta of -2.7,\nchi2 = 110/97 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170524_T38438/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

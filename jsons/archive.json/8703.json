@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB 081221",
+  "eventId": "GRB 081221",
+  "bibcode": "2008GCN..8703....1K",
+  "createdOn": 1229957807000,
+  "circularId": 8703,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL) and E. A. Hoversten (PSU) report\non behalf of the Swift UVOT team.\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began settled\nobservations of GRB081221 (Swift BAT trigger number 337889,\nHoversten et al., GCN Circ.  8687), on December 21, 2008, at\n16:22:29, 78 seconds after the trigger with a white finding chart.\n\nWe do not detect any new source at the enhanced XRT position\nreported in GCN Circ. 8690 (Evans et al.).\n\nThe observed magnitude upper limits for GRB 081221 are given below\nfor the first observations and the summed exposures in the UVOT\nfilters:\n\nFilter Tstart(s) Tstop(s)  Exp(s)  Magnitude\n\nwh       78       228     149.8    >20.84  (3-sigma UL)\nv       619       639      19.4    >17.89  (3-sigma UL)\nb       545       565      19.4    >18.85  (3-sigma UL)\nu       290       540     245.8    >20.15  (3-sigma UL)\nuvw1    668       688      19.4    >18.10  (3-sigma UL)\nuvm2    644       664      19.5    >17.71  (3-sigma UL)\nuvw2    595       615      19.4    >18.08  (3-sigma UL)\n\nwh       78      6086     381.0    >21.41  (3-sigma UL)\nv        59     34696    2192.4    >20.74  (3-sigma UL)\nb       545     41269    1765.2    >21.55  (3-sigma UL)\nu       290     40478    3667.7    >21.69  (3-sigma UL)\nuvw1    668     39565    3758.4    >21.57  (3-sigma UL)\nuvm2    644     45178    3409.4    >21.55  (3-sigma UL)\nuvw2    595     33783    2005.6    >21.35  (3-sigma UL)\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al, 2008, MNRAS 383,627). They are not corrected for the\nexpected galactic reddening of E(B-V) = 0.021 in the direction of\nthe burst (Schlegel et al. 1998)."
+}

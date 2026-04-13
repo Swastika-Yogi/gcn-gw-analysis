@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240824A: GIT optical upper limit",
+  "eventId": "GRB 240824A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37312....1M",
+  "createdOn": 1724777934698,
+  "submitter": "vishwajeet.s@iitb.ac.in",
+  "circularId": 37312,
+  "format": "text/plain",
+  "body": "T. Mohan, R. Kumar, V. Swain, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the Swift GRB 240824A (Cenko et al., GCN 37254) with the 0.7m GROWTH-India Telescope (GIT). The observations started at 2024-08-24 16:57:29 UT, about 16 hours after the Swift BAT trigger. We obtained 6 images of 300s exposure time in r' filter. We did not detect any new source in our stacked image around the coordinates reported by Swift-XRT (Tohuvavohu et al., GCN 37269). The obtained upper limit follows as:\n\n-------------------------------------------------------------------------------------------\n|    JD (mid)       | t-t0 (days) | Filter |    Exposure (s)    | Limiting Magnitude (AB) | \n| ----------------- | ----------- |------- | ------------------ | ----------------------- |\n| 2460547.2170023   |    0.67     |   r'   |        6x300       |          21.4           |\n-------------------------------------------------------------------------------------------\n\nOur result is consistent with the upper limits reported by (SVOM/C-GFT team, GCN 37271; Swift/UVOT team, GCN 37263; Akl et al., GCN 37258; KAIT GRB team, GCN 37256). The magnitude are calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

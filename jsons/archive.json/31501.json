@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220117C: Swift/BAT-GUANO arcminute localization",
+  "eventId": "GRB 220117C",
+  "bibcode": "2022GCN.31501....1R",
+  "createdOn": 1642646486000,
+  "circularId": 31501,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Gayathri Raman (PSU), James DeLaunay (UAlabama), Aaron Tohuvavohu (U\nToronto), Jamie A. Kennea (PSU), report:\n\nSwift/BAT did not localize GRB 220117C onboard (T0:\n2022-01-17T04:45:55 UTC, Fermi/GBM trigger #664087560).\n\nThe Fermi notice, distributed in near real-time, triggered the Swift\nMission Operations Center operated Gamma-ray Urgent Archiver for Novel\nOpportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst\nAlert Telescope (BAT) to save 200 seconds of BAT event-mode data from\n[-50,+150] seconds around the time of the burst. All the requested\nevent mode data was delivered to the ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu,\narXiv:2111.01769), confidently detects the burst in a 8.192 s analysis\ntime bin with a sqrt(TS) of 19.5.\nEstimated T90 in the detector is 8.55+/-0.07 s (10-350 keV).\n\nAn arcminute localization is found with DeltaLLHOut of 96.3 and a\nDeltaLLHPeak of 58.7.\nUsing the conventional BAT imaging technique, we find an SNR of 6.1 at\nthe same location.\n\nSee Section 9.1 and Figure 20 in the NITRATES paper for brief\ndescriptions and interpretations of sqrt(TS), DeltaLLHPeak, and\nDeltaLLHOut.\n\nThe BAT position is\nRA, Dec = 286.457, +16.791 deg which is\n   RA(J2000)  = 19h 05m 49.7s\n   Dec(J2000) = +16d 47��� 27.6���\nwith an estimated uncertainty of 2 arcmin.\n\nThe position is consistent with the Fermi/GBM localization.\n\nNo XRT/UVOT followup will take place (GCN 31500).\nWe encourage followup from other facilities.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches."
+}

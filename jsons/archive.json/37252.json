@@ -1,0 +1,10 @@
+{
+  "subject": "SGR 1E 1841-045 / Kes 73: Montarrenti Observatory optical upper limits",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37252....1L",
+  "createdOn": 1724456538020,
+  "submitter": "Simone Leonini at Montarrenti Observatory (Siena, Italy) <s.leonini@iol.it>",
+  "circularId": 37252,
+  "format": "text/plain",
+  "body": "S. Leonini, M. Conti, P. Rosi, L.M. Tinjaca Ramirez (Montarrenti Observatory, Siena, Italy, part of UAI/SSV-GRB section), M.G. Dainotti (National Astronomical Observatory of Japan), Y. Niino (Tokyo University, Institute of Astronomy), K. Kalinowski (Aarhus University, Department of Physics and Astronomy) and B. De Simone (Università degli Studi Di Salerno) report:\n\nWe performed follow-up observations of the field of the soft gamma ray repeater SGR 1E 1841-045 / Kes 73 in two distinct epochs with the automated and remoted 0.53m Ritchey-Chretien telescope at Montarrenti Observatory (Siena, Italy, IAU code C88).\n\nObservations of the first epoch were started at 2024-08-20 20:10:54 UT, after twilight, approximately 1 hour after burst (Swift trigger 1249653, GCN 37211 DeLaunay et al.; Fermi-GBM, GCN 37234 Roberts et al.). \nObservations of the second epoch were started at 2024-08-21 20:06:04 UT, serendipitously covering a burst activity (Swift trigger 1249878, GCN 37222 Dichiara et al.; Fermi-GBM, GCN 37234 Roberts et al.; GECAM-B, GCN 37240 Zhang et al.).\n\nThe field is very crowded. In our preliminary analysis, we have not found any optical transient candidate within the error-box (3 arcmin.) of the Neil Gehrels Swift Observatory position (Epoch 1, RA 18h 41m 21s, Dec. -04d 55m 39s; Epoch 2, RA 18h 41m 22s, Dec. -04d 57m 00s - J2000) down to the following 3-sigma optical upper limits: \n\nEpoch       MJD          Exp.     Filter      UL (3-sigma)     \n  1      60543.3629     87x40s     Rc           >  20.0\n  2      60544.3576     61x40s     Rc           >  20.1\n\nMagnitude was calibrated with the nearby PanSTARRS stars converted using Lupton (2005) equations. No correction for galactic dust extinction was applied.\n"
+}

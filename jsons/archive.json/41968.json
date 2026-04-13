@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250924A: Kilonova-Catcher optical afterglow detection",
+  "eventId": "GRB 250924A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41968....1F",
+  "createdOn": 1758724792557,
+  "submitter": "Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "circularId": 41968,
+  "format": "text/plain",
+  "body": "M. Freeberg (KNC), C. Andrade(UMN), D. Turpin (CEA-Saclay/Irfu), S. Antier (OCA/IJCLab), M. Coughlin (UMN),S. Karpov (FZU), P. Hello (IJCLAB), M. Pillas (IAP) on behalf of the GRANDMA/Kilonova-Catcher collaboration:\n\nWe observed the field of GRB 250924A detected by Swift/BAT (Siegel et al., GCN 41959) with the GRANDMA citizen science project Kilonova-catcher (KNC). Our observations were performed with the TEC160FL telescope operated by M. Freeberg. Our observations started at TGRB+1.0hr. \n\nIn our stacked frames, subtracted from the PanSTARRS DR2 template image, we detect the optical counterpart reported by Swift/UVOT (Siegel et al., GCN 41959), DDOTI (Becerra et al., GCN 41960) and COLIBRI (Schneider et al., GCN 41963).\n\nWe report our follow-up results in the table below \n\n+---------------+-----------+--------+----------------+-------------+\n| Tmid-TGRB (hr)| Exp (s)   | Filter | Magnitude      | Instrument  |\n+===============+===========+========+================+=============+\n| 1.63          | 8 x 300s  | r (AB) | 20.03 +/- 0.10 | TEC160FL    | \n| 2.64          | 18 x 180s | i (AB) | 19.76 +/- 0.19 | TEC160FL    | \n+---------------+-----------+--------+----------------+-------------+\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained with the sloan filters were calibrated using the PanSTARRS DR1 catalog. \n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023). \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

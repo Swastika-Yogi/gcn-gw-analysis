@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060418: Swift/UVOT Observations",
+  "eventId": "GRB 060418",
+  "bibcode": "2006GCN..4978....1S",
+  "createdOn": 1145393206000,
+  "circularId": 4978,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (UCL-MSSL), A. D. Falcone (PSU), report on behalf of the Swift/UVOT \nteam:\n\nThe Swift/UVOT began taking data on the field of GRB060418 at \n2006-04-18T03:07:36, 88 s after the BAT trigger (Falcone et al., GCN 4966). The \nsource is observed to decay in six of the UVOT filters, but was not detected in \nthe UVW2 filter down to a 3-sigma limiting magnitude of UVW2 > 20.4 in a 949s \ncoadded image. This is consistent with the reported redshift of z=1.49 (Dupree \net al. 2006; GCN 4969). The magnitudes for the filters in which there was a \ndetection are as follows:\n\nFilter  T_mid(s)  Exp(s) Mag\n\nV       393        393   14.99 +/- 0.02\n         5996       197   18.84 +/- 0.33\nB       675        10    16.22 +/- 0.13\n         10765      295   19.87 +/- 0.27\nU       656        20    15.83 +/- 0.09\n         6610       197   18.55 +/- 0.20\nUVW1    632        20    16.47 +/- 0.19\n         6405       197   19.04 +/- 0.40\nUVM2    608        20    17.30 +/- 0.30\n         4343       197   > 19.30\nWhite   137        10    14.32 +/- 0.03\n         11676      295   19.23 +/- 0.16\n\nThese magnitudes are uncorrected for the estimated Galactic\nreddening of E_{B-V} = 0.224 mag (Schlegel et al. 1998)."
+}

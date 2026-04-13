@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100728B: Continued KAIT observations",
+  "eventId": "GRB 100728B",
+  "bibcode": "2010GCN.11024....1P",
+  "createdOn": 1280382995000,
+  "circularId": 11024,
+  "submitter": "Daniel Perley at U.C. Berkeley  <dperley@astro.berkeley.edu>",
+  "email": "dperley@astro.berkeley.edu",
+  "body": "D. A. Perley, W. Li, and A. V. Filippenko (UC Berkeley) report on behalf \nof the KAIT GRB follow-up team:\n\nThe Katzman Automatic Imaging Telescope (KAIT) began observations of GRB \n100728B (Morris et al., GCN 11009) at 30 sec after the trigger time (10 \nsec after the GCN notice), and continued to track the afterglow in a \ncombination of V, I, and unfiltered exposures until shut down by morning \ntwilight.  The afterglow remains detected throughout this period.\n\nAn series of 2-second frames taken between 30-64 sec clearly shows a \nrapid rise from an initial mag of ~16.5 (calibrated to USNO B1.0) to a \npeak of 16.1 mag at ~50 seconds.  The afterglow decays as an unbroken \npower-law with decay index alpha=0.97 after that time through the end of \nour observations at 5700 s.\n\nA subset of the unfiltered photometry is presented below:\n\ntstart(s) exp(s) mag      unc\n149       20    17.02 +/- 0.02\n249       20    17.61 +/- 0.03\n446       20    18.21 +/- 0.05\n643       20    18.51 +/- 0.07\n846       20    18.90 +/- 0.07\n1141      60    19.15 +/- 0.07\n1440      60    19.40 +/- 0.07\n1668      60    19.76 +/- 0.10\n2264     100    19.81 +/- 0.10\n3326     100    19.86 +/- 0.08\n4186     140    20.33 +/- 0.10\n5115     140    20.58 +/- 0.14\n5544     200    20.88 +/- 0.19\n\nAll times are referenced to the BAT trigger at 10:31:55 UT.  Magnitudes \nare calibrated relative to USNO B1.0 standards in the field.\n\nFurther analysis is in progress.  We note that the I-band magnitude in \nour previous circular (GCN 11007) was calibrated to USNO R-band \nstandards and should not be relied upon for detailed analysis.  In \naddition, the time from burst specified in that circular is relative to \nthe BAT position notice time, rather than the trigger time as specified. \n  (The UT time given is correct as stated.)"
+}

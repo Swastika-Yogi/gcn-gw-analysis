@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM/sb26030408: SVOM detection of an X-ray transient likely associated with Beta Persei",
+  "eventId": "sb26030408",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43917....1L",
+  "createdOn": 1772624977908,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 43917,
+  "format": "text/plain",
+  "body": "A.  Li (BNU), C. Wu (NAOC), H. Yang, L. Bouchet (IRAP), D. Turpin, D. Götz (CEA) report on behalf of the SVOM mission team:\n \nAt 2026-03-04T09:44:54 UTC (T0), SVOM/ECLAIRs triggered and located a possible X-ray transient (SVOM burst-id sb26030408).\n \nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe transient was only detected by the Image Trigger (IMT), which produced a sequence of 6 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 12.50 in the [5-20] keV energy band over a time window of 655.36 seconds starting at 2026-03-04T09:42:10.\n\nThe localization of the best alert is R.A., Dec. 47.1221, 40.9012 degrees:\nR.A. (J2000) = 3h08m29.30s\nDec. (J2000) = 40d54m04.41s\nwith a 90% confidence level (C.L.) radius of 6.48 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nNo immediate slew was performed on this transient. No X-ray observation could be performed by SVOM/MXT for the time being. No optical observation could be performed by SVOM/VT for the time being.\n \nWe notice the presence of the bright star Beta Persei, located at 4.9 arcmin from the trigger position, which could be the origin of the trigger. \n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n \nThe Burst Advocate (BA) on shift for this alert is An Li: 202221160007@mail.bnu.edu.cn.\nPlease contact the BA by email if you require additional information.\n"
+}

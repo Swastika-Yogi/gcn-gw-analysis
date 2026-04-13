@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319C: UVOT Observations",
+  "eventId": "GRB 080319C",
+  "bibcode": "2008GCN..7497....1H",
+  "createdOn": 1206099454000,
+  "circularId": 7497,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) & C. Pagani (PSU) report on behalf of\nthe Swift/UVOT team:\n\n   The Swift/UVOT observed the field of GRB 080319C starting 210 s\nafter the BAT trigger (Pagani et al., GCN Circ. 7442).  We detect the\noptical afterglow in the v, b, u, and white filters at location of the\nKAIT optical afterglow (Li, et al., 2008, GCNC 7441).  The UVOT source\nposition is\n\nRA(J2000.0) =  17:15:55.49\nDec(J2000.0) = +55:23:30.6\n\nwith an estimated uncertainty of +/-0.53 arcsec (radius, 90%\nconfidence).\n\n   Magnitudes and upper limits are reported below.\n\nFilter    T_start (s) T_stop  Exposure      Mag  Err  Comment\nv          334        353       19     18.09 0.30\nb          433        443       10     19.02 0.53\nu          408        581       39     19.08 0.36\nuvw1        383       2410      214    >20.0        3-sigma UL\nuvm2        358       2385      175    >19.6        3-sigma UL\nuvw2        463       2336      175    >19.9        3-sigma UL\nwhite        227        327       98     18.81 0.08\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0 .03 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT flight system\ndescribed in Poole et al. (2008, MNRAS, 383,627).  The non-detections\nin the three ultraviolet filters may indicate that the redshift is\nz >~ 3."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100906A: Swift/UVOT Observations",
+  "eventId": "GRB 100906A",
+  "bibcode": "2010GCN.11242....1S",
+  "createdOn": 1283826836000,
+  "circularId": 11242,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU) and C. B. Markwardt (NASA/GSGC) report on behalf\nof the Swift/UVOT team.\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100906A 89s after the BAT trigger (Markwardt et al.,\nGCN Circ. 11227).  Data summed from the first orbit confirms\na fading optical transient at the position report by Markwardt\net al.  The non-detection in the UVW2 and UVM2 filters is consistent\nwith the Gemini redshift of 1.727 reported by Tanvir et al.\n(GCN Circ. 11230).  Observations of the GRB are continuing.\n\nThe magnitudes and 3-sigma upper limits for the finding chart\n(fc) and summed exposures are reported below:\n\nFILTER     T_start(s)  T_stop    Exposure     Mag/3UL\n========================================================\nu (fc)       146        396        245     14.93+-0.02\nu            146       1305        490     15.40+-0.01\nv            453       1381        116     15.97+-0.05\nb            403       1330        116     16.49+-0.04\nuvw1         503       1280         97     17.13+-0.11\nuvm2         478       1404        115       >18.97\nuvw2         429       1356        116       >19.19\n=======================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.36 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

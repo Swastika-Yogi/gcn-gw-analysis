@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 1159327: Swift detection of SGR1806-20",
+  "bibcode": "2023GCN.33451....1B",
+  "createdOn": 1678482935000,
+  "circularId": 33451,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "R. Brivio (INAF-OAB), M. Ferro (INAF-OAB), D. M. Palmer (LANL),\nT. M. Parsotan (GSFC/UMBC/CRESSTII), C. Salvaggio (INAF-OAB),\nT. Sbarrato (INAF-OAB) and B. Sbarufatti (INAF-OAB) report on behalf\nof the Neil Gehrels Swift Observatory Team:\n\nAt 21:00:35 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a bright burst from the Soft Gamma Repeater SGR 1806-20\n(trigger=1159327).  Swift did not immediately slew to the source. \nThe BAT on-board calculated location is \nRA, Dec 272.154, -20.416 which is \n   RA(J2000) = 18h 08m 37s\n   Dec(J2000) = -20d 24' 56\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single spike\nstructure with a duration of about 0.6 sec.  The peak count rate\nwas ~170,000 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nXRT follow-up observations are planned."
+}

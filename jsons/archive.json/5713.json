@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061007: Swift-BAT refined analysis",
+  "eventId": "GRB 061007",
+  "bibcode": "2006GCN..5713....1M",
+  "createdOn": 1160263505000,
+  "circularId": 5713,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "C. Markwardt (GSFC/UMD), L. Barbier (GSFC), S. D. Barthelmy (GSFC), \nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nP. Schady (MSSL-UCL), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-58 to T+962 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 061007 (trigger #232683)  \n(Schady, et al., GCN Circ. 5707).  The BAT ground-calculated position is \nRA,Dec = 46.299, -50.496 deg {3h 5m 11.8s, -50d 29' 47.4\"} (J2000)\n+- 0.9 arcmin, (radius, sys+stat, 90% containment).  The partial coding \nwas 19%.  Before T-58 sec, the burst location was not in BAT's FOV,\nbut there is no detection through the side of the instrument of any\nsignificant earlier emission.\n \nThe lightcurve shows three large peaks, each with several seconds rise\nand fall and a roughly flat top, and each including several sub-peaks.\nThe first lasts from T-5 to T+15, the second from T+23 to T+40, and the\nthird from T+40 to T+65 sec.  There is a smaller peak starting at T+75, \nrising to a flat top from T+78 to T+80 and then declining with a very long\nroughly exponential decay. Emission is weakly detectable until around\nT+900 sec.  T90 (15-350 keV) is 75 +- 5 sec (estimated error including \nsystematics).\n \nThe time-averaged spectrum from T-4.1 to T+231.8 is best fit by a simple \npower-law model.  The power law index of the time-averaged spectrum \nis 1.13 +- 0.03.  The fluence in the 15-150 keV band is \n4.5 +- 0.1 x 10^-05 erg/cm2.  The 1-sec peak photon flux measured from \nT+45.14 sec in the 15-150 keV band is 15.3 +- 0.4 ph/cm2/sec.  All the \nquoted errors are at the 90% confidence level."
+}

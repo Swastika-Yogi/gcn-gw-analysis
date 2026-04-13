@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060814:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060814",
+  "bibcode": "2006GCN..5459....1S",
+  "createdOn": 1155681415000,
+  "circularId": 5459,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "M. Stamatikos (GSFC/ORAU), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), M. Koss (GSFC/UMD),\nC. Markwardt (GSFC/UMD), A. Moretti (INAF-OAB), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060814 (trigger #224552)\n(Moretti, et al., GCN Circ. 5447).  The BAT ground-calculated position is\nRA,Dec = 221.336, 20.593 deg {14h 45m 20.6s, 20d 35' 36.3\"} (J2000)\n+- 0.7 arcmin, (radius, sys+stat, 90% containment).  The partial coding was 64%.\n \nThere are four main peaks.  The first starts at ~T-10 sec and blends into\nthe second peak which peaks at T+16 and ends around T+40 sec. The second peak\nis the brightest.  The third peak starts roughly T+50, peaks at ~T+70 and\nends at ~T+110 sec.  It is half as bright as the second peak.  The fourth and\nmuch smaller peak is about 40 sec wide and peaks at T+130 sec.\nT90 (15-350 keV) is 146 +- 10 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-9.4 to T+224 is best fit by a simple power-law\nmodel.  The power law index of the time-averaged spectrum is 1.56 +- 0.03.\nThe fluence in the 15-150 keV band is 1.50 +- 0.02 x 10^-5 erg/cm2.\nThe 1-sec peak photon flux measured from T+15.40 sec in the 15-150 keV\nband is 7.4 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level."
+}

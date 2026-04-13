@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250807A: Swift/UVOT Detection",
+  "eventId": "GRB 250807A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41291....1S",
+  "createdOn": 1754670275772,
+  "circularId": 41291,
+  "submitter": "s.shilling@lancaster.ac.uk",
+  "format": "text/plain",
+  "body": "S. P. R. Shilling (Lancaster U.) and N. J. Klingler (GSFC/UMBC/CRESSTII)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250807A\n111 s after the BAT trigger (Klingler et al., GCN Circ. 41262).\nA source consistent with the enhanced XRT position\n(Evans et al., GCN Circ. 41270) is detected in the initial UVOT exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              111          261          147         18.00 +/- 0.04\nv                  653         1769          136        >18.8\nb                  579         1695          117        >19.5\nu                  323         1840          361         19.88 +/- 0.31\nw1                 702         1818          117        >19.0\nw2                 801          821           19        >17.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.011 in the direction of the burst\n(Schlegel et al. 1998)."
+}

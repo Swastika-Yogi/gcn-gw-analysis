@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150110A: MAXI/GSC detection",
+  "eventId": "GRB 150110A",
+  "bibcode": "2015GCN.17290....1N",
+  "createdOn": 1420905928000,
+  "circularId": 17290,
+  "submitter": "H. Negoro at Nihon U.  <negoro@phys.cst.nihon-u.ac.jp>",
+  "email": "negoro@phys.cst.nihon-u.ac.jp",
+  "body": "H. Negoro (Nihon U.), S. Nakahira,  S. Ueno, H. Tomida, M. Kimura, \nM. Ishikawa, Y. E. Nakagawa (JAXA), T. Mihara, M. Sugizaki, M. Serino, \nM. Morii, J. Sugimoto, T. Takagi, A. Yoshikawa, M. Matsuoka (RIKEN), \nN. Kawai, Y. Tachibana, T. Yoshii (Tokyo Tech), A. Yoshida, T. Sakamoto, \nY. Kawakubo, H. Ohtsuki (AGU), H. Tsunemi, D. Uchida (Osaka U.), \nM. Nakajima, K. Fukushima, T. Onodera, K. Suzuki, M. Fujita, F. Honda, \nT. Namba (Nihon U.), Y. Ueda, M. Shidatsu, T. Kawamuro, T. Hori (Kyoto U.), \nY. Tsuboi, A. Kawagoe (Chuo U.), M. Yamauchi, Y. Morooka, D. Itoh (Miyazaki U.),\n K. Yamaoka (Nagoya U.) report on behalf of the MAXI team:\n\nThe MAXI/GSC detected a bright uncatalogued hard X-ray transient source \naround UT 2015-01-10T10:23.37.\n\nUnfortunately, after MAXI detected the burst for about 10 sec, no data were \nobtained (or downloaded yet) for 27 seconds. \nAs a result, we can not determine the X-ray flux and the source position \ncorrectly. \nUsing the data, we obtain a rectangular error box for the transient source \nwith the following corners:\n\n(R.A., Dec) = (215.959 deg, 18.705 deg) = (14 23 50, +18 42 18) (J2000)\n(R.A., Dec) = (215.630 deg, 19.420 deg) = (14 22 31, +19 25 10) (J2000)\n(R.A., Dec) = (218.120 deg, 20.331 deg) = (14 32 28, +20 19 52) (J2000)\n(R.A., Dec) = (218.422 deg, 19.605 deg) = (14 33 41, +19 36 18) (J2000)\n\nThere is an additional systematic uncertainty of 0.1 deg (90% containment radius).\n\nThe 4-10 keV flux is roughly about 200 mCrab.\nWe also note that Fermi-GBM also detected this burst almost simultaneously.\n\nThere was no significant excess flux in the previous transit at UT 08:50,\nand in the next transit at UT 11:56 with an upper limit of 20 mCrab for each.\n\nDetection Information:\nhttp://maxi.riken.jp/alert/novae/7032899999/7032899999.htm"
+}

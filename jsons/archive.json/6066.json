@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070129: Swift/UVOT Upper limits",
+  "eventId": "GRB 070129",
+  "bibcode": "2007GCN..6066....1C",
+  "createdOn": 1170257460000,
+  "circularId": 6066,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M. M. Chester (PSU) and O. Godet (U. Leicester) report on behalf\nof the Swift UVOT team:\n\n       The Swift/UVOT observed the field of GRB 070129 starting 124 s\nafter the BAT trigger (Godet et al. 2007, GCN Circ. 6053).  We do\nnot find any source, in any of the UVOT observations, inside the\nrefined XRT error circle (Godet et al., 2007 GCN Circ. 6056).\n\n       The 3-sigma upper limits for detecting a source inside the XRT \nerror circle in the V-band settling image, the finding-chart\nexposures, and the co-added frames are:\n\nFilter         T_start   T_stop    Exp(s)    Mag (3-sigma UL)\n-----------------------------------------------------------------\nV settling     124         133         9     17.3\nV finding      247         647       400     19.2\nV finding      979        1379       400     19.8\nWhite finding  142         242       100     19.7\nWhite finding  873         973       100     20.0\n\nV              124       47339      3046     20.7\nB              726       53670      3073     21.4\nU              701       53414      5398     21.3\nUVW1           678       52501      4895     22.2\nUVM2           653       58021      3956     22.0\nUVW2           754       46426      2239     22.0\nWhite          143       13183      1460     20.8\n-----------------------------------------------------------------\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.14 mag towards\nthe direction of the burst (Schlegel et al. 1998)."
+}

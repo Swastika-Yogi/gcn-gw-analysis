@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190910h: Updated Sky Localization",
+  "eventId": "LIGO/Virgo S190910h",
+  "bibcode": "2019GCN.25778....1L",
+  "createdOn": 1568834713000,
+  "circularId": 25778,
+  "submitter": "Francesca Badaracco at GSSI, Ligo/VIRGO  <francesca.badaracco@gssi.it>",
+  "email": "francesca.badaracco@gssi.it",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO Livingston Observatory\n\n(L1) data around the time of the compact binary merger (CBC) candidate\n\nS190910h (GCN Circular 25707).\n\nParameter estimation has been performed using LALInference [1] and a new\n\nsky map, LALInference.fits.gz, distributed via GCN Notice, is available\n\nfor retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190910h\n\nFor the LALInference.fits.gz sky map, the 90% credible region is 24264\n\ndeg2. Marginalized over the whole sky, the a posteriori luminosity\n\ndistance estimate is 230 +/- 88 Mpc (a posteriori mean +/- standard\n\ndeviation).\n\nFor further information about analysis methodology and the contents of\n\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n\n<https://emfollow.docs.ligo.org/userguide/>.\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

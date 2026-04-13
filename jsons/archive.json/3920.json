@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050904: early Swift XRT analysis results",
+  "eventId": "GRB 050904",
+  "bibcode": "2005GCN..3920....1M",
+  "createdOn": 1125917721000,
+  "circularId": 3920,
+  "submitter": "Teresa Mineo at INAF  <teresa.mineo@pa.iasf.cnr.it>",
+  "email": "teresa.mineo@pa.iasf.cnr.it",
+  "body": "T. Mineo(INAF-IASF), V. Mangano(INAF-IASF), V. La Parola(INAF-IASF),\nG. Cusumano (INAF-IASF), L. Angelini (GSFC), J. Cummings (GSFC/NRC),\nD. N. Burrows (PSU), F. Marshall (GSFC), P. Boyd (GSFC-UMBC)\nreport on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first observation\nof GRB 050904 (Cummings et al. 2005, GCN 3910) consisting\nof four orbits (about 20 ks).\nThe refined coordinates of the X-ray afterglow are:\n\nRA(J2000)  =   0h 54m 50.6s\nDec(J2000) = +14d 05' 04.5\"\n\nwith an estimated uncertainty is of 6 arcseconds radius (90%\ncontainment).\nThis position is 37 arcsec from the revised BAT position given\nin GCN 3918 (Palmer et al. 2005), 4.5 arcseconds from\nthe XRT position determined on board and 11 arcseconds\nfrom the SOAR position (Haislip et al., GCN 3913).\n\nThe 0.2-10 keV light curve, that starts in Windowed Timing (WT) mode\n169 seconds after the BAT trigger (T0), shows a fading behaviour.\nMoreover two flares are clearly detected in the first orbit:\nthe first at T0+466 s in WT data and the second at at T0+1240 s\nin  Photon Counting (PC) mode data.\nThe light curve decay index, obtained excluding the flare\ntime intervals, is -2.08+/-0.03.\nThe remaining three orbits show irregular rate variations\nlikely due to other flares.\n  \nA preliminary spectral fit to WT and PC data of the first orbit,\nexcluding the flare time intervals, shows an evidence of spectral\nevolution from hard to soft:\n\nTime interval(s)  Photon Index  NHx10^20(cm^-2) Flux(erg cm^-2 s^-1)\n  T0+170-370         1.33+/-0.04    15+/-1         1.8x10^-9\n  T0+580-1760        1.70+/-0.08    5.6+/-1.0      4.6x10^-11\n\nThe Galactic absorption  in the GRB direction is 5x10^20 cm^-2.\nI.A.S.F.   INAF   Mailing System\nOutgoing mail is certified Virus Free.\nChecked by McAfee anti-virus system"
+}

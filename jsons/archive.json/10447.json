@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Triggers 413744 and 413745 are not GRBs",
+  "bibcode": "2010GCN.10447....1B",
+  "createdOn": 1266981225000,
+  "circularId": 10447,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GFSC) for the Swift Team:\n\nSwift-BAT triggers 413744 and 413745 are not due to GRBs,\nnor anything astrophysical.  They were caused by the Startracker\nloosing lock.  Known sources coupled with an incorrect aspect solution\ncaused these two triggers.  Some GCN/Swift Notices were distributed\nbefore the Startracker loss-of-lock was detected and the Swift-blocked2world\nfilter was activated.  The Startracker has been re-initialized \nand the spacecraft is back in inertial pointing.  The blocked2world filter\nhas been removed."
+}

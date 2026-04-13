@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180602A: MITSuME Ishigakijima optical upper limits",
+  "eventId": "GRB 180602A",
+  "bibcode": "2018GCN.22760....1H",
+  "createdOn": 1528130492000,
+  "circularId": 22760,
+  "submitter": "Yutaro Tachibana at Tokyo Tech  <tachibana@hp.phys.titech.ac.jp>",
+  "email": "tachibana@hp.phys.titech.ac.jp",
+  "body": "T. Horiuchi,  H. Hanayama, M. Honma (IAO, NAOJ),\nY. Tachibana, R. Itoh, K. L. Murata, S. Harita, K. Morita, T. Ozawa, H. Mamiya,\nK. Shiraishi, Y. Yatsu, and N. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\nWe searched for the optical counterpart of GRB 180602A\n(Cenko et al., GCN Circular #22752, Osborne et al., GCN Circular #22753, Gropp and Cenko, GCN Circular #22758)\nwith the optical three color (g', Rc, and Ic) CCD cameras attached to\nthe Murikabushi 1m telescope of Ishigakijima Astronomical Observatory.\n\nThe observation started on 2018-06-02 12:38:23 UT.\nWe did not find any point source at the position of the XRT error\ncircle in all three bands. We obtained following 3-sigma upper limits: \n\nT0+[hour]    MID-UT      T-EXP[sec]    g'       Rc        Ic\n-------------------------------------------------------------------------------------------------------\n~4.5      12:51:13.3  1,560   >19.4   >19.1   >18.7\n-------------------------------------------------------------------------------------------------------\n\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used UCAC-4 catalog for flux calibration."
+}

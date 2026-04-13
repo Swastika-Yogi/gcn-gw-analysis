@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250430A : MITSuME Akeno optical upper limits",
+  "eventId": "GRB 250430A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40302....1H",
+  "createdOn": 1746097565784,
+  "submitter": "hagio.h.ffca@m.isct.ac.jp",
+  "circularId": 40302,
+  "format": "text/plain",
+  "body": "H. Hagio,  I. Takahashi, M. Sasada, H. Seki, S. Joshima, Y. Kubo, A. Ochi, R. Kato, Y. Yatsu and N. Kawai (Science Tokyo) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 240430A detected by Swift/BAT (Parsotan et al. GCN 40292) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2025-04-30 17:31:53 UT (32 seconds after the Swift/BAT trigger). We stacked the images with good conditions. We did not detect any obvious point sources at the position reported by Parsotan et al., GCN 40292, Odeh et al., GCN 40295, Wang et al., GCN 40299, and Garnichey et al., GCN 40301. We obtained the 5-sigma limits of the stacked images as follows:\n\nT0+[min] | MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n15.1 | 2025-04-30 17:46:27 | 620 | g'>18.2, Rc>18.2, Ic>17.8\n78.5 | 2025-04-30 18:29:51 | 2880 | g'>19.3, Rc>19.6, Ic>19.0\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire)."
+}

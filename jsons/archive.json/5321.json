@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060714: Swift XRT refined analysis",
+  "eventId": "GRB 060714",
+  "bibcode": "2006GCN..5321....1P",
+  "createdOn": 1152965339000,
+  "circularId": 5321,
+  "submitter": "Matteo Perri at ISAC/ASDC  <perri@asdc.asi.it>",
+  "email": "perri@asdc.asi.it",
+  "body": "M. Perri, M.L. Conciatore, L. Vetere, M. Capalbi (ASDC),\nD.N. Burrows (PSU) report on behalf of the Swift/XRT team:\n\n\nWe have analyzed the first 9 orbits of XRT data from GRB 060714\n(Krimm et al., GCN 5311). A 4.2 ks Photon Counting mode image provides\na refined XRT position:\n\nRA(J2000)  =  15h 11m 26.5s,\nDec(J2000) = -06d 33m 59.3s\n\nwith an uncertainty of 3.8 arcsec (90% containment). This position is 1.2\narcsec away from the on-board UVOT position of the optical afterglow\nreported in GCN 5311.\n\nThe X-ray light curve displays two flares during the first orbit at about\n140 and 180 seconds after the BAT trigger. The afterglow decay from T+300s\nto T+40ks can be fit with a broken power-law with an initial decay\nslope of -0.4+/-0.2, a break at 3.7 (+1.7)(- 1.0) ks, and a post-break\nslope of -1.29+/-0.15.\n\nA power-law fit to the 0.3-10 keV spectrum from T+107s to T+248s gives a\nphoton index of 1.97+/-0.05 and a column density of\n(1.89+/-0.15)e21 cm**-2. We note the Galactic hydrogen column density\nin the direction of the burst is 6.7e20cm**-2.\n\nIf the burst continues decaying at the current rate we estimate a\n0.3-10 keV unabsorbed flux of ~6e-13 ergs cm**-2 s**-1 at T+24hr.\n\nThis circular is an official product of the Swift XRT Team."
+}

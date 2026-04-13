@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180318A",
+  "eventId": "GRB 180318A",
+  "bibcode": "2018GCN.22554....1T",
+  "createdOn": 1522166780000,
+  "circularId": 22554,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Lysenko, A.Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 180318A\n(IPN Triangulation: Hurley et al., GCN 22522)\ntriggered Konus-Wind at T0=84002.795 s UT (23:20:02.795).\n\nThe burst light curve shows two emission episodes with multipeaked \nstructure,\nwhich start at ~T0-53 s and have a total duration of ~280.0 s.\nThe main episode lasts from ~T0-53 s to ~T0+30 s,\nthe second episode lasts from ~T0+150 s to ~T0+200 s.\nThe emission is seen up to 1.2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180318_T84002/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.13(-0.24,+0.23)x10^-4 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+18.560 s,\nof 4.89(-1.04,+1.11)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+205.056 s)\nis best fit in the 20 keV - 1.2 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.89(-0.24,+0.31),\nthe high energy photon index beta = -2.12(-0.48,+0.18),\nthe peak energy Ep = 195(-45,+69) keV,\nchi2 = 83/59 dof.\n\nThe spectrum near the maximum count rate\n(measured from T0+16.640 to T0+24.832 s)\nis best fit in the 20 keV - 1.2 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith�� alpha = -0.98(-0.19,+0.22)\nand Ep = 251(-40,+63) keV (chi2 = 63/60 dof).\nFitting by the GRB (Band) model yields the same alpha and Ep,\nand�� beta < -2.13 (chi2 = 62/59 dof)\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

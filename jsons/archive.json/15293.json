@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131001A, Swift-BAT refined analysis",
+  "eventId": "GRB 131001A",
+  "bibcode": "2013GCN.15293....1C",
+  "createdOn": 1380755930000,
+  "circularId": 15293,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nA. Y. Lien (NASA/GSFC/ORAU), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), G. Sato (ISAS), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n  \nWe report further analysis of BAT GRB 131001A (Cummings, GCN Circ. 15281).\nThe BAT ground-calculated position is RA, Dec = 8.304, 25.557 deg which is\n    RA(J2000)  =  00h 33m 13.0s\n    Dec(J2000) = +25d 33' 26\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 50%.\n  \nThe mask-weighted light curve shows a single FRED peak.  T90 (15-350 keV) is\n4.9 +- 0.3 sec (estimated error including systematics).\n  \nThe time-averaged spectrum from T0 to T+5 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.8 +- 0.6,\nand Epeak of 55 +- 14 keV (chi squared 55.6 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 4.9 +- 0.6 x 10^-7 erg/cm2\nand the 1-sec peak flux measured from T+5.49 sec in the 15-150 keV band is\n2.57 +- 0.25 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.81 +- 0.12 (chi squared 66.2 for 57 d.o.f.).  All the quoted errors are\nat the 90% confidence level.\n  \nSince this burst was ground-detected the usual automated results of the\nbatgrbproduct analysis are not available."
+}

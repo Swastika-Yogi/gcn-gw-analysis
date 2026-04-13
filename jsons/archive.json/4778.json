@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060211B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 060211B",
+  "bibcode": "2006GCN..4778....1B",
+  "createdOn": 1140265530000,
+  "circularId": 4778,
+  "submitter": "Padi Boyd at GSFC  <padi@milkyway.gsfc.nasa.gov>",
+  "email": "padi@milkyway.gsfc.nasa.gov",
+  "body": "P. Boyd (GSFC), S. Mateos (U Leicester) and F. Marshall (GSFC)\non behalf of the Swift/UVOT team report:\n\nThe Swift/UVOT began observing the field of GRB 060211B at\n15:56:39 UT on 2006-02-11, approximately 83 s after the BAT\ntrigger (Mateos et al., GCN 4739). No source is detected in the\nrefined XRT error circle (Page et al., GCN 4745) in the initial\nV finding chart, nor the summed images down to the following\n3-sigma magnitude upper limits:\n\nFilter  T_range(s)      Exp(s)  3sigUL(mag)\n\nV       83-283          200     19.4\nV       83-7768         869     20.5\nB       290-7213        718     21.4\nU       615-6955        301     20.4\nUVW1    591-8168        550     20.8\nUVM2    567-7972        490     20.8\nUVW2    519-7604        278     21.2\nWhite   494-7359        236     20.7\n\nReported times are in seconds since the BAT trigger.\nThese magnitudes are uncorrected for the expected\nGalactic extinction corresponding to E(B-V) = 0.407."
+}

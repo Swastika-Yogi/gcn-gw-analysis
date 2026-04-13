@@ -1,0 +1,11 @@
+{
+  "subject": "IceCube-250309A: Upper limits from Fermi-GBM Observations",
+  "eventId": "IceCube-250309A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39657....1S",
+  "createdOn": 1741648759607,
+  "circularId": 39657,
+  "submitter": "Lorenzo Scotton at UAH <lscottongcn@outlook.com>",
+  "format": "text/plain",
+  "body": "L. Scotton (UAH) reports on behalf of the Fermi-GBM Team:\n\nFor the IceCube high-energy neutrino candidate event IceCube-250309A\n(GCN 39631), at the event time Fermi-GBM was observing the reported\nneutrino location at:\n\nRA: 211.07 (+0.31 -0.30 deg  90% PSF containment) J2000\nDec: -10.73 (+0.26 -0.30 deg 90% PSF containment) J2000\n\nFermi-GBM detected GRB 250309B (GCNs 39635, 39642) around \n146s after the time of the neutrino candidate. However, \nthe ZTF and GROWTH collaborations reported the detection \nof a potential optical counterpart ZTF25aaitvjt | AT2025dws \n(R. Stein et al, GCN 39639), suggesting that GRB 250309B \nand IceCube-250309A are unrelated. The IPN triangulation \n(Kozyrev A. S. et al, GCN 39652) also suggests that \nGRB 250309B and IceCube-250309A are unrelated.    \n\nAn automated, blind search for short gamma-ray bursts below \nthe onboard triggering threshold in Fermi-GBM also identified \nno counterpart candidates. The GBM targeted search, the most \nsensitive, coherent search for GRB-like signals, was run \nfrom +/-30 s around the neutrino candidate time. From this search, \nno significant signal was found related to IceCube-250309A.\n\nUsing the representative soft, normal, and hard GRB-like templates \ndescribed in arXiv:2308.13666, we set the following 3 sigma flux \nupper limits over 10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale   Soft     Normal   Hard\n-------------------------------------------\n0.128 s:    1.0      1.8      3.7\n1.024 s:    0.35     0.56     1.3\n8.192 s:    0.11     0.11     0.24\n\nThese results are preliminary."
+}

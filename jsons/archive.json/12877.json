@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120119A: Swift-XRT refined Analysis",
+  "eventId": "GRB 120119A",
+  "bibcode": "2012GCN.12877....1D",
+  "createdOn": 1326997327000,
+  "circularId": 12877,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "V. D'Elia (ASDC), V. Mangano (INAF-IASFPA), M.C. Stroh (PSU), D.N.\nBurrows (PSU), J.A. Kennea (PSU), K.L. Page (U. Leicester), C. Pagani\n(U. Leicester), A. Melandri (INAF-OAB) and A.P. Beardmore report on\nbehalf of the Swift-XRT team:\n\nWe have analysed 9.1 ks of XRT data for GRB 120119A (Beardmore\tet al.\nGCN Circ. 12859), from 59 s to 30.4 ks after the  BAT trigger. The data\ncomprise 332 s in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The enhanced XRT position for this burst was\ngiven by Beardmore et al. (GCN. Circ 12876).\n\nThe light curve can be modelled with an initial power-law decay with an\nindex of alpha=2.58 (+/-0.08), followed by a break at T+167 s to an\nalpha of 1.008 (+0.017, -0.018).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.93 (+/-0.07). The\nbest-fitting absorption column is  2.18 (+0.22, -0.21) x 10^21 cm^-2,\nin excess of the Galactic value of 7.9 x 10^20 cm^-2 (Kalberla et al.\n2005). The PC mode spectrum has a photon index of 1.68 (+0.13, -0.12)\nand a best-fitting absorption column of 2.1 (+0.5, -0.4) x 10^21 cm^-2.\nThe counts to observed (unabsorbed) 0.3-10 keV flux conversion factor\ndeduced from this spectrum  is 4.7 x 10^-11 (6.0 x 10^-11) erg cm^-2\ncount^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     2.1 (+0.5, -0.4) x 10^21 cm^-2\nGalactic foreground: 7.9 x 10^20 cm^-2\nExcess significance: 4.9 sigma\nPhoton index:\t     1.68 (+0.13, -0.12)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00512035.\n\nThis circular is an official product of the Swift-XRT team."
+}

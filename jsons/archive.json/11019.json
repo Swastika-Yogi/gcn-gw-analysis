@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100727A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100727A",
+  "bibcode": "2010GCN.11019....1H",
+  "createdOn": 1280333652000,
+  "circularId": 11019,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and\nD. C. Morris (GWU/GSFC)\nreport on the behalf of the Swift UVOT team:\n\n    The Swift/UVOT observed the field of GRB 100727A starting 47 s\nafter the BAT trigger (Morris, et al., 2010, GCN Circ. 10998).\nSettled observations started at 65 s.  We do not find any new source,\nrelative to the DSS, USNO-B1.0, or 2MASS at the position of the XRT\nafterglow (Osborne, et al. 2010, GCN Circ. 11000).  Preliminary\n3-sigma upper limits for detecting a source in the finding charts, and\nin the co-added images, using a 2.5 arcsecond radius circular\naperture, are\n\nFilter      T_start    T_stop    Exp(s)      Mag\n------------------------------------------------\nwhite (fc)       65       215       147    >20.8\n                856      1006       147    >21.2\n    u (fc)      278       527       246    >20.5\n\n    v           609    18,409      1414    >20.9\n    b           533    24,918      1215    >21.7\n    u           278    24,189      2335    >21.7\n uvw1           658    29,885      2289    >21.9\n uvm2           633    28,542      2390    >21.8\n uvw2           584    17,496      1415    >21.8\nwhite            65      7075       805    >22.1\n------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.05 mag (Schlegel, et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

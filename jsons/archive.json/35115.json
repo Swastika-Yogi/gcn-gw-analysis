@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231115A: Upper limit from CALET Gamma-Ray Burst Monitor",
+  "eventId": "GRB 231115A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35115....1K",
+  "createdOn": 1700372473825,
+  "submitter": "Yuta Kawakubo at Louisiana State University <kawakubo1@lsu.edu>",
+  "circularId": 35115,
+  "body": "Y. Kawakubo (LSU), A. Yoshida, T. Sakamoto, S. Sugita (AGU),\nK. Yamaoka (Nagoya U), S. Nakahira (JAXA),\nY. Asaoka (ICRR), S. Torii, Y. Akaike, K. Kobayashi (Waseda U),\nY. Shimizu, T. Tamura (Kanagawa U), N. Cannady (GSFC/UMBC),\nM. L. Cherry (LSU), S. Ricciarini (U of Florence),\nP. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe CALET Gamma-ray Burst Monitor (CGBM) was operating at\nthe trigger time of the short GRB 231115A\nT0 = 2023-11-15 15:36:21.20 UT (Fermi GCN: #35035, #35044;\nIntegral GCN: #35037; Glowbug GCN #35045; Insight-HXMT/HE GCN\n#35060; Konus-Wind GCN #35062; Swift-BAT GCN #35065).\n\nNo CGBM onboard trigger occurred around T0. Based on the IBAS\nlocalization, the incident angles to HXM and SGM are 79 degrees and\n85 degrees, respectively (#35037). Based on the analysis of the light\ncurve data with 0.125 sec time resolution, we found a hint of the burst\nemission around the trigger time in HXM2 and SGM data.  However, the\nsignificance of 4.8 (HXM2) and 4.7 (SGM) sigma is below our detection\ncriterion to the CGBM data.\n\nThe five sigma upper limit of SGM for a 0.125 integration time is\n3.0e-6 erg/cm^2/s (10 - 1000 keV), assuming a power-law with\nan exponential cutoff (alpha = 0.5, Epeak = 580 keV, reference to\n#35044) and the IBAS position.\n\nThe CALET data used in this analysis are provided by\nthe Waseda CALET Operation Center located at Waseda University."
+}

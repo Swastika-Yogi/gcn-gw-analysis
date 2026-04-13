@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090915 Swift-BAT detection of a burst in ground analysis",
+  "eventId": "GRB 090915",
+  "bibcode": "2009GCN..9912....1C",
+  "createdOn": 1253070704000,
+  "circularId": 9912,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings (NASA/GSFC/CRESST) and\nC. B. Markwardt (NASA/GSFC/CRESST)\non behalf of the Swift-BAT team\n\nAt 15:35:36 Swift-BAT triggered on GRB 090915. This was\nprobably the same event as Fermi-GBM trigger 274721737. No\nsource was found onboard. A weak but significant source was\nfound in ground analysis, 15 degrees from the GBM ground-\ncalculated (2nd version) position as reported at\nhttp://gcn.gsfc.nasa.gov/fermi_grbs.html. The GBM position\nwas also in the BAT FOV.\n\nThe BAT ground-calculated position is\nRA, Dec = 237.990, +15.480 deg which is\n    RA(J2000)  =  15h 51m 57.6s\n    Dec(J2000) = +15d 28' 48\"\nwith an uncertainty of 3 arcmin, (radius, sys+stat, 90%\ncontainment). The partial coding was 12%.\n\nThe mask-weighted light curve shows a single weak peak.\nT90 (15-350 keV) is 8 +- 2 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-3 to T+5 sec is best fit\nby a power law. This fit gives a photon index 1.0 +- 0.2.\nFor this model the total fluence in the 15-150 keV band\nis 5 +- 2 x 10-7 erg/cm2 and the 1-sec peak flux measured\nfrom T+2 sec in the 15-150 keV band is 0.8 +- 0.3 ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level.\n\nA Swift TOO has been requested and approved. The narrow-\nfield instruments will observe the location approximately\n13 hours after the burst."
+}

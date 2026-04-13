@@ -1,0 +1,14 @@
+{
+  "editedOn": 1754572699391,
+  "subject": "GRB 250806A: J-band upper limit from WINTER",
+  "eventId": "GRB 250806A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41253....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Benjamin Schneider at MIT <bschn@mit.edu>",
+  "circularId": 41253,
+  "createdOn": 1754513618683,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "format": "text/plain",
+  "body": "Benjamin Schneider (LAM), Robert Stein (UMD), Geoffrey Mo (MIT), Tomas Ahumada (Caltech), Viraj Karambelkar (Caltech), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of the SVOM GRB 250806A (Xie et al., GCN 41243; Wu et al., GCN 41244; Fortin et al., GCN 41245; Freeberg et al., GCN 41247; Campana et al., GCN 41249; Xin et al., GCN 41250; Zheng et al., GCN 41251) in the near-infrared with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). Observations started on 2025-08-06 at 08:16:51 UT (18.62 min after the trigger) and consisted of 15 exposures of 120 s in the J-band.\n\nIn the stacked image, we do not detect any new source at the X-ray afterglow position reported by Xie et al., GCN 41243 and Campana et al., GCN 41249 down to the following 3-sigma AB magnitude:\n\nJ > 19.7\n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). The photometric calibration was performed using nearby stars from the 2MASS catalog and the magnitude is not corrected for Galactic extinction.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

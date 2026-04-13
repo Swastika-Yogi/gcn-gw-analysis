@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250920B: Swift/UVOT Detection",
+  "eventId": "GRB 250920B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41915....1K",
+  "createdOn": 1758396130657,
+  "circularId": 41915,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "body": "Paul Kuin (MSSL) and Rahul Gupta (NASA GSFC) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250920B 99 s\nafter the BAT trigger (Gupta et al., GCN Circ. 41898).  A source consistent\nwith the XRT position (Evans et al.  GCN. Circ. 41910) is detected in the\ninitial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  12:29:16.07 = 187.31697 (deg.)\n    Dec (J2000) = +47:50:14.4  =  47.83732 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               99          249          147         13.89 +/- 0.02\nv                 4433         4633          197         16.53 +/- 0.05\nb                 3818         4018          197         16.62 +/- 0.04\nu                  311          452          139         13.26 +/- 0.02\nw1                4843         5043          197         17.02 +/- 0.08\nm2                4638         4838          197        >19.2\nw2                4228         4428          197         19.21 +/- 0.25\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.011 in the direction of the burst\n(Schlegel et al. 1998).\n\nThe observation also included a 49s long UV grism exposure. Inspection of\nthe noisy grism spectrum suggests a redshift of 2.2 based on identifying an\nbroad absorption with the the Ly-alpha line.\n"
+}

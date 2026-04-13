@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051006: Swift/UVOT Upper Limits",
+  "eventId": "GRB 051006",
+  "bibcode": "2005GCN..4089....1H",
+  "createdOn": 1129126992000,
+  "circularId": 4089,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "GRB 051006: Swift/UVOT Upper Limits\n\nS. T. Holland (GSFC/USRA), J. Norris (GSFC), J. Greiner (MPE),\nD. Hinshaw (GSFC-SPSYS), and N. Gehrels (GSFC) report on behalf\nof the Swift/UVOT team:\n\n       The Swift/UVOT began observing the field of GRB 051006 107\nseconds after the BAT trigger (Norris et al. GCN 4061).  No new source\nis detected at the position of the XRT error circle (Capalbi et\nal. GCN 4066) in the initial 200 second V-band image down to a 5-sigma\nupper limit of 18.3, or in summed exposures with any of the filters\ndown to the following 5-sigma magnitude upper limits.\n\nFilter  T_range (s)     Exp (s)  5sig UL\nV       107 - 98,547    12,033     20.5\nB       474 - 68,573     4,111     20.9\nU       420 - 64,478     3,846     20.4\nUVW1    366 - 63,741     4,598     21.0\nUVM2    311 - 73,819     4,179     21.3\nUVW2    582 - 69,481     5,448     21.6\nWHITE   527 -    577        50     18.5\n\nThese magnitudes have not been corrected for extinction."
+}

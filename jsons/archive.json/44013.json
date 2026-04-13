@@ -1,0 +1,11 @@
+{
+  "subject": "EP260314a: SVOM/VT optical candidate",
+  "eventId": "EP260314a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44013....1L",
+  "createdOn": 1773547106616,
+  "circularId": 44013,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. N. Ma,  C. Wu, Z. H. Yao, Y. L. Qiu, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. T. Palmerio (CEA/Irfu) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation of the field of EP260314a detected by Einstein Probe (Zhao et al., GCN 44010). The observation started at 2026-03-14T23:03:04 UTC, i.e., about 11.5 minutes post trigger in the VT_B (400-650 nm) and VT_R (650-1000 nm) channels simultaneously. \n\nAn uncatalogued optical source was detected in VT_R stacked image within the error box of FXT (Zhao et al., GCN 44010). The position is at R.A., Dec. = 211.842259, -23.457728 degrees, equivalent to:\n    R.A. (J2000) = +14:07:22.14\n    Dec. (J2000) = -23:27:27.82\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitudes are given below:\n\n    Mid_time       Band        Exposure Time     Magnitude (AB)\n   1.07 hour       VT_R           29*50 sec      22.70+/-0.26 mag\n   1.07 hour       VT_B           29*50 sec      > 23.0       mag\n\nWith the available data, we could not confirm the fading of the candidate. \n\nOur photometry was not corrected for Galactic extinction.\n\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 211120A",
+  "eventId": "GRB 211120A",
+  "bibcode": "2021GCN.31130....1F",
+  "createdOn": 1637937089000,
+  "circularId": 31130,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, A.Lysenko, A. Ridnaia,\nD. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 211120A (GECAM detection: Li et al., GCN 31100;\nAstroSat CZTI detection: Prasad et al., GCN 31104;\nAGILE detection: Ursi et al., GCN 31105;\nIPN localization: Kozyrev et al., GCN 31129)\ntriggered Konus-Wind (KW) at T0=83120.396 s UT (23:05:20.396).\n\nThe burst light curve shows a bright, multi-peaked pulse\nwhich starts at ~T0-1 s and has a total duration of ~8 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB211120_T83120/\n\nAs observed by Konus-Wind, the burst had\na fluence of (3.5 �� 0.4)x10^-5 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 1.984 s,\nof (2.4 �� 0.2)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+5.120 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.65 (-0.07,+0.08),\nthe high energy photon index beta = -2.71 (-0.30,+0.20),\nthe peak energy Ep = 315 (-24,+24) keV,\nchi2 = 113/95 dof.\n\nThe spectrum near the peak count rate (measured from T0+0.256\nto T0+3.072 s) is best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.55 (-0.10,+0.12),\nthe high energy photon index beta = -2.48 (-0.28,+0.18),\nthe peak energy Ep = 325 (-36,+40) keV,\nchi2 = 96/84 dof.\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

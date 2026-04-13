@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241217A/EP241217B: Fermi-GBM Sub-Threshold Detection",
+  "eventId": "GRB 241217A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38625....1R",
+  "createdOn": 1734547745313,
+  "circularId": 38625,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "M. E. Ravasio (Radboud Univ.), P. Veres (UAH), R. Hamburg (USRA), E. Burns (LSU) and P.G. Jonker (Radboud Univ.) report on behalf of the Fermi-GBM Team:\n\nFermi-GBM had full spatial and temporal coverage of the transient GRB 241217A/EP241217B detected by SVOM and EP (GCN 38594; GCN 38606). There was no Fermi-GBM onboard trigger around the SVOM trigger time T0=2024-12-17T16:57:13 UTC or the EP trigger time at T0+53 s (16:58:04 UTC). Fermi-GBM had exited SAA approximately 7 mins before T0, and given the rapidly decreasing background, on-board triggering was difficult during this time.\n\nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals in GBM identified a transient most significantly at T0+156 s (16:59:48 UTC) on a 32 s timescale with a false alarm rate of 6.5e-05 Hz. The localization is consistent with the SVOM and EP locations. The transient was best-fit with a \"soft\" spectrum (i.e., a Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7) for a GRB.\n\nThe full GBM light curve consists of multiple peaks and the time-averaged spectrum from T0-44 s (16:56:29 UTC) to T0+190 s (17:00:23 UTC) is best fit by a power law function with an exponential high-energy cutoff. The power law index is -0.68 +/- 0.21 and the cutoff energy, parameterized as Epeak, is 36 +/- 2 keV. The event fluence (10-1000 keV) in this time interval is (1.24 +/- 0.05)E-05 erg/cm^2.\n\nThe spectral analysis results presented above are preliminary.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111222A : Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 111222A",
+  "bibcode": "2011GCN.12732....1O",
+  "createdOn": 1324879768000,
+  "circularId": 12732,
+  "submitter": "Norisuke Ohmori at Miyazaki U  <ohmori@astro.miyazaki-u.ac.jp>",
+  "email": "ohmori@astro.miyazaki-u.ac.jp",
+  "body": "N. Ohmori, M. Akiyama, M. Yamauchi (Univ. of Miyazaki), M. Ohno, \nY. Hanabata, T. Uehara, T. Kawano, K. Takaki, M. Mizuno, Y. Fukazawa \n(Hiroshima U.), K. Yamaoka (Aoyama Gakuin U.), W. Iwakiri, M. Tashiro, \nY. Terada, T. Yasuda, K. Takahara, M. Asahina, S. Kobayashi, A. Sakamoto \n(Saitama U.), S. Sugita (Nagoya U.), M. Kokubun, T. Takahashi (ISAS/JAXA), \nY. E. Nakagawa (Waseda U.), C-J. Chuang, Y. Urata, P. Tsai (NCU), \nK. Nakazawa, K. Makishima (Univ. of Tokyo),\n\nThe short hard intense GRB111222A (localized by IPN: Hurley et al., GCN 12714)\nwas detected by the Suzaku Wide-band All-sky Monitor (WAM) which covers \nan energy range of 50 keV - 5 MeV at 14:51:55 UT (=T0).\n\nThe observed light curve shows a double-peaked structure starting at\nT0 s, ending at T0+2 s with a duration (T90) of about 1 seconds. \nThe fluence in 100 - 1000 keV was 3.98 (-1.21, +0.74) x 10^-6 erg/cm^2. \nThe 1-s peak flux measured from T0 s was 4.70 (-1.18, +1.00) \nphotons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0 to\nT0+2 s is well fitted by a power-law with exponential cutoff model:\n dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\n alpha : -0.28 (-0.49, +0.43), and\n Epeak : 629 (-50, +61) keV (chi^2/d.o.f. = 94.8/98).\nAll the quoted errors are at statistical 90% confidence level.\n\nThe light curves for this burst are available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/untrig/grb_table.html"
+}

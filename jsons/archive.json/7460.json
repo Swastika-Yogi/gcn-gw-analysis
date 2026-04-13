@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319C: Swift-XRT Team Refined Analysis",
+  "eventId": "GRB 080319C",
+  "bibcode": "2008GCN..7460....1P",
+  "createdOn": 1205957623000,
+  "circularId": 7460,
+  "submitter": "Claudio Pagani at PSU/Swift-XRT  <pagani@astro.psu.edu>",
+  "email": "pagani@astro.psu.edu",
+  "body": "C. Pagani, J. L. Racusin, J.A. Kennea, D. N. Burrows (PSU) and P. A. Evans (U\nLeicester) report on behalf of the Swift-XRT team:\n\nThe Swift-XRT started observing GRB 080319C (trigger=306778, Pagani et al. GCN\n7442) at 12:29:40 UT, 224 seconds after the BAT trigger. The Swift slew to the\nburst was delayed because of an Earth constraint. The current dataset consist\nof 2.2ks of Photon Counting mode data from the first orbit of observation.\n\nUsing 595 s of overlapping XRT Photon Counting mode and UVOT data, we find an\nastrometrically corrected X-ray position (using the XRT-UVOT alignment and\nmatching UVOT field sources to the USNO-B1 catalogue): RA, Dec = 258.97980,\n55.39197 which is equivalent to:\n\nRA (J2000):  17 15 55.15\nDec (J2000): +55 23 31.1\n\nwith an uncertainty of 1.7 arcsec (radius, 90% confidence).\n\nThe 0.3-10 keV X-ray light curve starts at a count rate of ~7 counts/s and peaks\nat ~18 counts/s at T+360 seconds, after which it shows a decline with a decay\nslope of 0.9 +/- 0.1 with hints of superimposed flaring activity.\n\nThe spectrum of the PC data can be well fit by an absorbed powerlaw with photon\nindex 1.73 +/- 0.06 and column density of (1.5 +/- 0.1)e21 cm^-2, in excess of\nthe Galactic column density of 2.21e20 cm^-2 in this direction. The average\nobserved 0.3-10 keV flux is 1.0e-10 erg cm^-2 s^-1, which corresponds to an\nunabsorbed flux of 1.3e-10 erg cm^-2 s^-1. The counts to observed flux\nconversion factor at the time of this spectrum is 4.3e-11 erg cm^-2 count^-1.\n\nIf the underlying powerlaw decay continues as is, we predict an XRT count rate\nof 0.11 counts/s at T+24hr, which corresponds to an observed 0.3-10keV flux of\n4.7e-12 erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

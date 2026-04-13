@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090715B: Skynet/PROMPT Detections",
+  "eventId": "GRB 090715B",
+  "bibcode": "2009GCN..9927....1H",
+  "createdOn": 1253507698000,
+  "circularId": 9927,
+  "submitter": "Josh Haislip at U.North Carolina  <haislip@physics.unc.edu>",
+  "email": "haislip@physics.unc.edu",
+  "body": "J. Haislip, D. Reichart, K. Ivarsen, A. LaCluyze, A. Foster, J. Moore, A. \nOza, M. Schubel, J. Styblova, A. Trotter, J. A. Crain, and M. Nysewander \nreport:\n\nSkynet observed the Swift/BAT localization of GRB 090715B (Vetere et al., \nGCN 9668) with three of the 16\" PROMPT telescopes at CTIO beginning 3.1 \nhours after the trigger in UBRI.\n\nWe detect the afterglow (Vetere et al., GCN 9668).  Stacking only images \nthat increase the limiting magnitude yields:\n\nmean                                                          1-sig. \n1-sig.\ntime                                                          sys.    stat.\nsince                                              cal.       cal.    cal.\ntrig.  tel.      exp.     fil.  magnitude          stars*     unc.    unc.\n(h)              (# x s)                                      (mag)   (mag)\n\n3.4    PROMPT-3  12 x 80  U     > 17.5 (3 sig.)    10 SDSS 7  0.094   0.001\n3.8    PROMPT-5  40 x 80  I     19.80 +0.40 -0.29  93 SDSS 7  0.268   0.000\n3.8    PROMPT-4  41 x 80  R     20.31 +0.20 -0.17  78 SDSS 7  0.151   0.000\n4.0    PROMPT-3  29 x 80  B     > 20.8 (3 sig.)    37 SDSS 7  0.134   0.000\n\n* Transformed using Jester et al., 2005, ApJ, 130, 873."
+}

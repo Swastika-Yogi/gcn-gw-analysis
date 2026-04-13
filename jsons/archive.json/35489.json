@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240101C (short)",
+  "eventId": "GRB 240101C",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35489....1S",
+  "createdOn": 1704482231637,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 35489,
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe short-duration GRB 240101C\n(Fermi-GBM detection: The Fermi GBM team, GCN 35451;\nBala et al., GCN 35488;\nGRBAlpha detection: Dafcikova et al., GCN 35459;\nAstroSat-CZTI detection: Navaneeth et al., GCN 35478;\nSwift-BAT/GUANO detection: DeLaunay et al., GCN 35482)\nhas been detected by Fermi (GBM trigger 725806648), Swift (BAT), GRBAlpha, Konus-Wind, INTEGRAL (SPI-ACS), and AstroSat (CZTI),\nso far, at about 46644 s UT (12:57:24).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  358.487 (23h 53m 57s) +28.743 (+28d 44' 36\")\n Corners:\n    0.797 (00h 03m 11s) +24.032 (+24d 01' 56\")\n    1.127 (00h 04m 30s) +23.926 (+23d 55' 33\")\n  355.725 (23h 42m 54s) +33.705 (+33d 42' 18\")\n  355.318 (23h 41m 16s) +33.852 (+33d 51' 06\")\n ---------------------------------------------\nThe error box area is 2.5  sq. deg and its maximum\ndimension is 11.15 deg (the minimum one is 14 arcmin).\nThe Sun distance was 90 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM localizations.\n\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240101_T46643/IPN/\n\n"
+}

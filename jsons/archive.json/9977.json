@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090929A: Swift-XRT non-detection",
+  "eventId": "GRB 090929A",
+  "bibcode": "2009GCN..9977....1P",
+  "createdOn": 1254327707000,
+  "circularId": 9977,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) reports on behalf of the Swift-XRT team:\n\nSwift performed a short Target of Opportunity observation of GRB 090929A \nabout 13 hours after the burst (Rau, GCN Circ. 9962; Cummings & Krimm, GCN \nCirc. 9966; Golenetskii et al., GCN Circ. 9968). This area of sky was a \nhot target for the XRT, so only a short observation was performed, with \n1.4 ks of data being collected in Photon Counting mode.\n\nWe do not detect a source within the BAT error circle, to a 90% upper \nlimit of 0.015 count s^-1 over 0.3-10 keV. Assuming a typical counts to \nflux conversion of 3.8 x 10^-11 erg cm^-2 ct^-1 (Evans et al., 2009, \nMNRAS, 397, 1177), this corresponds to an observed flux of 5.7 x 10^-13 \nerg cm^-2 s^-1. We note that this is not a very constraining upper limit, \nbecause of the greater than usual background caused by the high XRT CCD \ntemperature and the short exposure time.\n\nFiltering out all photons below 1 keV, a more stringent upper limit of 9 x \n10^-3 count s^-1 (1-10 keV; observed flux of ~3.4 x 10^-13 erg cm^-2 s^-1) \ncan be determined.\n\nThis circular is an official product of the Swift-XRT team."
+}

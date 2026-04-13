@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070311: Swift-XRT refined analysis",
+  "eventId": "GRB 070311",
+  "bibcode": "2007GCN..6192....1G",
+  "createdOn": 1173616913000,
+  "circularId": 6192,
+  "submitter": "Cristiano Guidorzi at INAF-OAB  <cristiano.guidorzi@brera.inaf.it>",
+  "email": "cristiano.guidorzi@brera.inaf.it",
+  "body": "C. Guidorzi, P. Romano, S. Vergani and A. Moretti (Uni-Bicocca and OAB)\nreport on behalf of the Swift-XRT team:\n\nWe have analysed the first two orbits of Swift-XRT data obtained for the\nGRB 070311 detected by INTEGRAL (Mereghetti et al., GCN Circ. 6189),\nwhich includes 4.2 ks of Photon Counting (PC) mode data, beginning\n7000 s after the burst trigger time.\nUsing the PC data we found a fading source at the position of\nRA, Dec = 87.5351, 3.3750, which is equivalent to\n\nRA(J2000)  =  05 50 08.43\nDec(J2000) = +03 22 30.0\n\nwith an estimated error radius of 3.8 arcsec (90% confidence). This lies\n3.3 arcsec from the optical afterglow discovered by REM (Covino et al.,\nGCN Circ. 6190) and confirmed by PAIRITEL (Bloom et al., GCN Circ. 6191).\n\nThe XRT light-curve can be fit with a single power law with index of\n1.9 � 0.4 from 7 ks to 14 ks after the burst.\n\nThe PC photon spectrum can be modelled by a power-law of Gamma=1.6 +/- 0.2,\nwith a total absorbing column fixed to the Galactic value of 2.6x10^^21 \ncm^-2\nin this direction. Alternatively, if the absorbing column is left free \nto vary,\nwe find Gamma=1.9 +/- 0.4 and a column density of (3.8 +/- 1.6)x1021 cm^-2\n(90% confidence).\n\nThe mean observed (unabsorbed) flux over 0.3-10 keV over this period\nis 3.9e-12 (4.9e-12) erg cm^-2 s^-1.\n\nIf the decay continues with the same rate as above, the count rate is\npredicted to be 1.1e-3 count s^-1 at 24 hours. This corresponds to an\nobserved flux of 6.5e-14 erg cm^-2 s^-1 (over 0.3-10 keV), with the\nunabsorbed value being 7.9e-14 erg cm^-2 s^-1, using the spectral fit to\nthe PC data.\n\nThis circular is an official product of the XRT team."
+}

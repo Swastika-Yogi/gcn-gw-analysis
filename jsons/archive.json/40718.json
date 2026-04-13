@@ -1,0 +1,11 @@
+{
+  "subject": "sb25061207: EP-FXT follow-up observation and afterglow candidate",
+  "eventId": "sb25061207",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40718....1S",
+  "createdOn": 1749799708683,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "circularId": 40718,
+  "format": "text/plain",
+  "body": "Y. J. Song (NAO, CAS), Y.L. Hua (PMO, CAS), T. Zhao, J. W. Hu , W. Yuan (NAO, CAS), A. Foisseau, C. Lachaud (APC), M. Brunet (IRAP), N. Dagoneau (CEA) report on behalf of the Einstein Probe and SVOM team\n\nWe performed a follow-up observation of sb25061207 (detected by SVOM/ECLAIRs, Zhang et al, GCN #40697; followed by SVOM/VT, Li et al. GCN #40707 and Swift/XRT, Evans et al. GCN #40711), with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) mission. The observation began at 2025-06-12 18:37:49, about 8 hours after the detection, and the exposure time is about 6.0 ks.\n\nOnly 1 uncatalogued source was detected by both FXT-A and FXT-B in the 90% localization error circle provided by SVOM/VT (with a radius of 0.5 arcsec centered at R.A., DEC = 198.09415, +0.07508 deg), as listed below (the FXT flux is taken from FXT-B module).\n\nSource name | RA | DEC | Estimated Flux | SNR | Dist from SVOM/VT |\n            | deg | deg | (erg/s/cm^2) |        | offset (in arcsec) |\n-----------------------------------------------------------------------------\nEP_J131222.6+000433 | 198.0939 | 0.0753 | 5.4(+/-1.7) x 10^-14 | 5.6 | 1.1 (with an uncertainty of 10 arcsec) | \n-----------------------------------------------------------------------------\nNote: * EP_J131222.6+000433 was also detected by Swift/XRT (GCN #40711) in a ~2.6 ks observation conducted at T0+8.8 ks after the trigger, with a flux of ~6.0e-13 erg/s/cm^2. The source thus exhibits a decreasing trend in the X-ray flux within two epochs.\n\nThe above observation was made with the EP-FXT instrument. Launched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). EP is a mission of the Chinese Academy of Sciences in collaboration with ESA, MPE and CNES."
+}

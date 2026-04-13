@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT Observations of GRB 050520",
+  "eventId": "GRB 050520",
+  "bibcode": "2005GCN..3444....1G",
+  "createdOn": 1116623084000,
+  "circularId": 3444,
+  "submitter": "Caryl Gronwall at PSU/Swift-UVOT  <caryl@astro.psu.edu>",
+  "email": "caryl@astro.psu.edu",
+  "body": "C. Gronwall (PSU), J. Norris (GSFC), A. Morgan (PSU),\nP. Schady (MSSL), N. Gehrels (GSFC), on behalf of the\nSwift UVOT Team\n\nINTEGRAL detected GRB 050520 at 00:05:53 UT on 20th May 2005\n(Gotz et al., GCN 3430).  Swift executed a Target of Opportunity\nobservation of the INTEGRAL position.  The Swift Ultra-Violet/Optical\nTelescope (UVOT) began observations of GRB050520 at UT 02:13:38,\napproximately 2hr 8 minutes after the INTEGRAL detection.\n\nWe detect no new source within the Swift XRT error circle\n(Kennea et al., GCN Circ. 3443) in any of the UVOT filters\nwith the following 5 sigma and 3 sigma limits (in 6\" radius apertures):\n\n\n\nFilter    Lim_Mag      Lim_mag   Total duration (s)   T_range (hr)\n           5sigma       3sigma\n\nV          19.84        20.39        3069            5.48 - 13.26\nB          21.05        21.60        2699            4.98 - 11.90\nU          20.58        21.13        2674            3.62 - 11.65\nUVW1       21.30        21.86        3173            3.37 - 13.73\nUVM2       21.36        21.91        2824            2.13 - 13.50\nUVW2       21.64        22.19        2456            5.23 - 12.12\n\nT_range is time since the INTEGRAL detection.\n\nThe magnitudes are based on preliminary zero-points, measured in\norbit, and will require refinement with further calibration.\n\nThis message may be cited."
+}

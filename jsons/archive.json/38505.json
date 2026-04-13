@@ -1,0 +1,14 @@
+{
+  "editedOn": 1733844463784,
+  "subject": "GRB 241209D: COLIBRÍ detection of the afterglow",
+  "eventId": "GRB 241209D",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38505....1D",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Sarah Antier at OCA <sarah.antier@oca.eu>",
+  "circularId": 38505,
+  "createdOn": 1733782353798,
+  "submitter": "Damien Dornic <ddornic@km3net.de>",
+  "format": "text/plain",
+  "body": "J.-G. Ducoin (CPPM), Francesco Magnani (CPPM), Damien Dornic (CPPM), Alan M. Watson (UNAM), Margarita Pereyra (UNAM), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), S. Antier (OCA), Jean-Luc Atteia (IRAP), Nathaniel R. Butler (ASU), Francis Fortin (IRAP), Dahlia Alk (AUS) and Simona Lombardo (LAM), report:\n\nWe imaged the field of GRB 241209D detected by Swift/BAT and Fermi/GBM (GCN Circ. 38488, 38489, 38491) during the commissioning of the COLIBRÍ (SVOM/F-GFT) telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico.\n\nThe observations started 21 minutes after the GRB trigger. We observed with the engineering test camera in a red filter that approximates SDSS r. The data were reduced using custom software and then analysed and calibrated against the PS1 catalog using the STDWeb service (Karpov et al. 2022).\n\nIn 4260 seconds of exposure from 2024/12/09 11:20:50 (UT) to 12:59:15, we detect the optical counterpart with:\n\n    r = 20.04 +/-0.05 (SNR ~21.6)\n\nThis source is right next to a catalogued galaxy in PAN-STARRs with rmag of ~21.44. Given the significant difference in magnitude and the slight visible offset with the PAN-STARRs object position, we consider this to be the Afterglow of GRB 241209D.\n\nWe warmly thank the COLIBRI engineering team and the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir. We warmly thank the GRANDMA IJCLAB team and S. Karpov for the access of the STDWeb service for STDPipe.\n"
+}

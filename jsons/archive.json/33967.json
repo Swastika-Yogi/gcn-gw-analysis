@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230614B: Fermi GBM Observation",
+  "eventId": "GRB 230614B",
+  "bibcode": "2023GCN.33967....1H",
+  "createdOn": 1686837673767,
+  "submitter": "R. Hamburg at CNRS/IJCLab <rachel.k.hamburg@gmail.com>",
+  "circularId": 33967,
+  "body": "R. Hamburg (CNRS/IJCLab) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 09:15:01.63 UT on 14 June 2023, the Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 230614B (trigger 708426906 / 230614385),\nwhich was also detected by Swift/BAT-GUANO (DeLaunay et al. 2023, GCN 33960).\nThe Fermi GBM Final Real-time Localization was reported in GCN 33958.\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 15 degrees.\n\nThe GBM light curve consists of two main pulses with a duration (T90)\nof about 15 s (50-300 keV). The time-averaged spectrum from T0-2.43 s \nto T0+18.05 s is best fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -1.18 +/- 0.05 and\nthe cutoff energy, parameterized as Epeak, is 115 +/- 6 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(5.94 +/- 0.16)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+1.47 s in the 10-1000 keV band\nis 10.3 +/- 0.3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

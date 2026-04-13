@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090401, Swift-BAT refined analysis",
+  "eventId": "GRB 090401",
+  "bibcode": "2009GCN..9064....1S",
+  "createdOn": 1238564365000,
+  "circularId": 9064,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "G. Sato (ISAS), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nA. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), P. Schady (MSSL-UCL),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+713 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 090401 (trigger #348128)\n(Schady, et al., GCN Circ. 9062).  The BAT ground-calculated position is\nRA, Dec = 350.920, 29.762 deg, which is \n   RA(J2000)  =  23h 23m 40.8s \n   Dec(J2000) = +29d 45' 44.1\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 38%.\n \nThe mask-weighted light curve starts out at T-20 sec when the burst location\nfirst came into the BAT FOV during a planned-target slew maneuver.  There is\nevidence for emission starting prior to burst coming to the FOV.  There are\ntwo small peaks at T+0 and T+30 sec. Then comes the main emission\nwith a series of at least 7 overlapping peaks starting at ~T+95 sec and\nreturning to background at ~T+190 sec.  T90 (15-350 keV) is 112 +- 15 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T-9.4 to T+160.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.70 +- 0.05.  The fluence in the 15-150 keV band is 1.1 +- 0.0 x 10^-5 erg/cm2.\nThe 1-sec peak photon flux measured from T+122.05 sec in the 15-150 keV band\nis 10.9 +- 0.5 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/348128/BA/"
+}

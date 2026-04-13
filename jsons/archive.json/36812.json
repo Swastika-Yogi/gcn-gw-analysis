@@ -1,0 +1,11 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240422ed: Updated significance estimate",
+  "eventId": "LIGO/Virgo/KAGRA S240422ed",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36812....1L",
+  "createdOn": 1720021794103,
+  "circularId": 36812,
+  "submitter": "Ryan Magee at LVC <ryan.magee@ligo.org>",
+  "format": "text/plain",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration report: \n\nWe have conducted further analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data, obtaining an improved estimate for the significance of compact binary merger (CBC) candidate S240422ed (GCN Circular 36236) by including information from subsequent data in the background model.\n\nThe updated background estimate from the GstLAL [1] pipeline results in a reduced significance of the candidate. As a result, the highest significance estimated for this candidate is now a false alarm rate of 3.269e-07 Hz, or about one in thirty five days, which was obtained by the PyCBC Live analysis in low latency. Both GstLAL [1] and PyCBC Live [2] analyses now find this event as a low-significance candidate. The MBTA [3] low-latency analysis finds the false alarm rate of the candidate to not pass the low-significance threshold. \n\nThe updated classification of the candidate, in order of descending probability, is Terrestrial (93%), BNS (5%), NSBH (2%), or BBH (<1%).\n\nNote that future offline analyses may infer a different terrestrial probability and/or false alarm rate.\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/.\n\n[1] Tsukada et al. PRD 108, 043004 (2023) doi:10.1103/PhysRevD.108.043004 and Ewing et al. (2023) arXiv:2305.05625\n[2] Dal Canton et al. ApJ 923, 254 (2021) doi:10.3847/1538-4357/ac2f9a\n[3] Aubin et al. CQG 38, 095004 (2021) doi:10.1088/1361-6382/abe913\n"
+}

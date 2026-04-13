@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090201: Swift-BAT refined analysis",
+  "eventId": "GRB 090201",
+  "bibcode": "2009GCN..8870....1B",
+  "createdOn": 1233548001000,
+  "circularId": 8870,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC/UMD), S. R. Oates (UCL-MSSL), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+363 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 090201 (trigger #341749)\n(Oates, et al., GCN Circ. 8865).  The BAT ground-calculated position is\nRA, Dec = 92.051, -46.604 deg, which is \n   RA(J2000)  =  06h 08m 12.3s \n   Dec(J2000) = -46d 36' 16.1\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 8%.\n \nThe mask-weighted light curve shows two clusters of overlapping peaks.\nThe first starting at ~T-20 sec and peaking at ~T+8 sec.  The second peaks\nat ~T+39 sec and ends at ~T+120 sec.  T90 (15-350 keV) is 83 +- 4 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T-10.2 to T+102.2 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.88 +- 0.18, \nand Epeak of 104 +- 16 keV (chi squared 39.5 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 3.0 +- 0.1 x 10^-5 erg/cm2\nand the 1-sec peak flux measured from T+7.60 sec in the 15-150 keV band is\n14.7 +- 1.0 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.50 +- 0.04 (chi squared 76.3 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/341749/BA/"
+}

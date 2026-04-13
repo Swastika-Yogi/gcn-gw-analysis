@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250910A: SVOM detection of a faint burst",
+  "eventId": "GRB 250910A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41769....1M",
+  "createdOn": 1757477410078,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 41769,
+  "format": "text/markdown",
+  "body": "Yinuo MA, Donghua ZHAO, Wenjin XIE (NAOC), Li ZHANG (IHEP), Charlotte VAN HOVE(IJCLab) report on behalf of the SVOM mission team:\n\nAt 2025-09-10T03:16:30 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 250910A (SVOM burst-id sb25091001).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was detected both by the Count-Rate Trigger (CRT) and the Image Trigger (IMT), which produced a sequence of 8 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 8.02 in the [5-20] keV energy band over a time window of 40.96 seconds starting at 2025-09-10T03:16:10.\n\nThe localization of the best alert is R.A., Dec. 39.7665, -39.6758 degrees:\nR.A. (J2000) = 2h39m03.96s\nDec. (J2000) = -39d40m32.94s\n with a 90% confidence level (C.L.) radius of 9.80 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nSVOM/GRM had no significant detection. \n\nSVOM slewed to the burst. SVOM/MXT and SVOM/VT were occulted by the Earth.\n\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Yinuo Ma: mayn@bao.ac.cn.\nPlease contact the BA by email if you require additional information.\n"
+}

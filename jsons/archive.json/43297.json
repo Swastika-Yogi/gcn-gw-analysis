@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260101A: Fermi GBM Observation",
+  "eventId": "GRB 260101A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43297....1H",
+  "createdOn": 1767333597509,
+  "submitter": "Glowbug DEV <boyan.a.hristov@nasa.gov>",
+  "circularId": 43297,
+  "format": "text/plain",
+  "body": "B. Hristov (UAH) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 00:56:30.65 UT on 01 January 2026, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 260101A (trigger 788921795/260101039).\nwhich was also detected by Swift (S. B. Cenko et al. 2026, GCN 43285), SVOM/GRM\n(Z. Yu et al. 2026, GCN 43292) and GECAM-B (C. Wang et al. 2026, GCN 43294).\nThe Fermi GBM on-ground location is consistent with the one reported by Swift.\n\nThe angle from the Fermi LAT boresight is 43 degrees.\n\nThe GBM light curve consists of multiple emission episodes with a duration (T90)\nof about 27.4 s (50-300 keV). The time-averaged spectrum\nfrom T0 to T0+29.6 s s is best fit by\na power law function with an exponential\nhigh-energy cutoff.  The power law index is -1.09 +/- 0.01 and\nthe cutoff energy, parameterized as Epeak, is 143.5 +/- 1.5 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(6.7 +/- 0.12)e-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+25 s in the 10-1000 keV band is 9.6 +/- 0.3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nsftp://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

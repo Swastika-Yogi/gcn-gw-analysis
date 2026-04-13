@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060515: ROTSE-III Optical Limits",
+  "eventId": "GRB 060515",
+  "bibcode": "2006GCN..5133....1R",
+  "createdOn": 1147661735000,
+  "circularId": 5133,
+  "submitter": "Eli Rykoff at U of Michigan/ROTSE  <erykoff@umich.edu>",
+  "email": "erykoff@umich.edu",
+  "body": "E.S. Rykoff (U Mich), W. Rujopakarn (U Mich), B. E. Schaefer (Louisiana \nState), S.A. Yost (U Mich), report on behalf of the ROTSE collaboration:\n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB \n060515 (Swift trigger 210084, GCN 5132), producing images beginning 6.8 \ns after the GCN notice time. An automated response took the first image \nat 02:28:50.7 UT, 57.8 s after the burst, under windy conditions. We \ntook 10 5-sec and 10 20-sec exposures before clouds came in. These \nunfiltered images are calibrated relative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the \n3-sigma BAT error circle, for both single images and coadding into sets \nof 10. Individual images have limiting magnitudes ranging from \n13.9-14.9; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n02:28:50.7   02:28:55.7         5     14.2           57.8       N\n02:28:50.7   02:29:57.9        67     15.6           57.8       Y"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070110: UVOT Observations of a Candidate Afterglow",
+  "eventId": "GRB 070110",
+  "bibcode": "2007GCN..6009....1R",
+  "createdOn": 1168475344000,
+  "circularId": 6009,
+  "submitter": "Pete Roming at PSU  <roming@astro.psu.edu>",
+  "email": "roming@astro.psu.edu",
+  "body": "P. Roming (PSU), P. T. Boyd, and H. Krimm (NASA/GSFC) report on behalf of \nthe Swift UVOT team:\n\nThe Swift/UVOT began settled observations of GRB 070110 104 seconds after \nthe BAT trigger (Krimm et al., GCN Circ.6005). Analysis of the merged \nSwift/UVOT data obtained on 2007-01-10 shows that the candidate optical \nafterglow was detected in the White, V, B, and U filters, but not in the UV \nfilters. The photometry results are given for the 7 UVOT filters below:\n\nFilter\t   Tstart    Tstop    Exp       Mag    Error    Significance\nWhite   104        5882     590\t     20.0    0.14     9.1\nV           210        23205   2065   20.3    0.20     5.7\nB           4046     29593   1568   20.9    0.17     7.1\nU           5274     35376   3166   20.4    0.10     11.6\nUVW1   5069     34757   3758   20.8 (3-sigma UL)\nUVM2    4864     33850   2739   21.1 (3-sigma UL)\nUVW2   4456     39315   1853   20.9 (3-sigma UL)\n\nThere is marginal evidence for fading of the optical candidate but \nconfirmation of its fading is pending further analysis. The values quoted \nabove are not corrected for the expected extinction corresponding to E(B-V) \nof 0.014."
+}

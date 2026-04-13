@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 030227: Optical limit at RIKEN",
+  "eventId": "GRB 030227",
+  "bibcode": "2003GCN..1936....1T",
+  "createdOn": 1047294866000,
+  "circularId": 1936,
+  "submitter": "Ken ichi Torii at RIKEN  <torii@crab.riken.go.jp>",
+  "email": "torii@crab.riken.go.jp",
+  "body": "K. Torii (RIKEN), T. Kato (Kyoto U.), and H. Yamaoka (Kyushu U.)\nreport:\n\n In response to the IBAS alert message (INTEGRAL Trigger #214), the\nentire error region of GRB 030227 (Gotz, et al., GCN 1895 and 1896)\nwas observed by the automated system at RIKEN (0.25-m f/6.8 reflector\nequipped with unfiltered CCD AP6E). The observation started at 2003\nFeb. 27 09:31:39 UT (49 minutes after the burst). After 73 frames of\n40-s integration were acquired, 60-s integration was repeated.\n\n We have applied PSF photometry to these data. The optical transient\n(Casto-Tirado, et al., GCN 1904; Soderberg, et al., GCN 1907; Berger,\net al., GCN 1910) is not significantly detected.\n\n By using Henden's sequence (GCN 1917), we preliminarily estimate a\nstar at (04:57:16.351, +20:27:00.66) (USNO-A2.0 position) as Rc = 11.7\nand derive 3-sigma upper limits for the optical transient as follows.\n\n-------------------------------------------------------\nRc Mag. / Mean Epoch (UT) / (Start - End) / Integration\n-------------------------------------------------------\n>20.3  09:41:03 (09:31:39 - 09:50:26) 40-s x 24 frames\n>20.4  10:08:45 (09:50:31 - 10:26:58) 40-s x 49 frames\n-------------------------------------------------------"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060202: Swift detection of a burst",
+  "eventId": "GRB 060202",
+  "bibcode": "2006GCN..4629....1F",
+  "createdOn": 1138872784000,
+  "circularId": 4629,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "D. Fox (PSU), S. Barthelmy (GSFC), D. Burrows (PSU), J. Cummings (GSFC/NRC),\nN. Gehrels (GSFC), S.T. Holland (GSFC/USRA), S. Hunsberger (PSU),\nH. Krimm (GSFC/USRA), D. Morris (PSU), D. Palmer (LANL)\non behalf of the Swift team:\n\nAt 08:40:55 UT, Swift-BAT triggered and located GRB 060202 (trigger=179968).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 35.843d,+38.362d {02h 23m 22s,+38d 21' 43\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThis was a 64-sec image trigger.  The BAT light curve shows a broad and\nweak peak with a total duration of >20 sec.  The peak count rate was\n~500 counts/sec (15-350 keV), at ~5 seconds after the trigger.\n\nXRT began observing the GRB at 08:43:18 UT, 143.3s after the BAT trigger.\nA bright, uncatalogued, fading source, was found by the on-board\ncentroiding algorithm at\nRA(J2000)=02h 23m 23.1s\nDEC(J2000)=+38d 23' 09.2\"\nwith an uncertainty of 6 arcseconds radius (90% containment).\nThis position lies 87 arcseconds from the center of the BAT error\ncircle.  The XRT count rate clearly decreases as a power law\nin the first 100s.  The initial XRT flux was ~2.5E-8 ergs/cm2/s.\n\nUVOT took a finding chart exposure of 200 seconds with the V filter\nstarting 148 seconds after the BAT trigger.  No afterglow candidate has\nbeen found in the initial data products.  The 2.7'x2.7' sub-image covers\n100% of the XRT error circle.  The typical 3-sigma upper limit has been\nabout 18th mag.  The 8'x8' region for the list of sources generated\non-board covers 100% of the XRT error circle.  The list of sources is\ntypically complete to about 18.0 mag.  No correction has been made for\nthe expected extinction of about 0.2 magnitudes."
+}

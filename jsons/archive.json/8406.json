@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT observations of GRB 081024",
+  "eventId": "GRB 081024",
+  "bibcode": "2008GCN..8406....1D",
+  "createdOn": 1224935636000,
+  "circularId": 8406,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and G. Stratta (ASDC) report on behalf of  \nthe Swift UVOT team.\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began its finding chart  \nexposure of GRB081024 (Swift BAT trigger\nnumber 332516, Stratta et al., GCN Circ. 8398), 77s after the trigger.\n\nWe do not detect any new source at the XRT position reported in GCN  \nCirc. 8403 (Beardmore et al.) either\nin the finding chart nor in in successive coadded observations.\n\nThe magnitude 3 sigma upper limits for detecting GRB081024 at the XRT  \nposition are given below.\n\n  Filter  Tstart(s)  Tstop(s)  Exp(s)  Magnitude\n  wh        77          227        147        >20.8\n  wh        516       13395     1258      >22.0\n  v           565       758         39          >18.5\n  v           1041     7298       490        >19.9\n  b           491       856         58          >19.6\n  b           1140     12771     1358      >21.4\n  u           235       485         250        >20.1\n  u           639       11859     807        >21.0\n  uvw1     615       7615      436        >20.2\n  uvm2     590       7503      529        >20.5\n  uvw2     541       7093      529        >20.6\n\n\n  The values quoted above are on the UVOT Photometric System (Poole et  \nal, 2008, MNRAS 383,627). They are not\ncorrected for the unknown but expected large Galactic extinction in  \nthe direction of this burst."
+}

@@ -1,0 +1,14 @@
+{
+  "editedOn": 1762494513522,
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 251106A",
+  "eventId": "GRB 251106A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42609....1G",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Matt Godwin <msg0028@uah.edu>",
+  "circularId": 42609,
+  "createdOn": 1762484739052,
+  "submitter": "Matt Godwin <msg0028@uah.edu>",
+  "format": "text/plain",
+  "body": "M. Godwin (UAH) and R. Hamburg (USRA) report on behalf of the Fermi-GBM Team:\n\nSVOM/ECLAIRs detected GRB 251106A on 2025-11-06 at 19:56:37 UTC (Antier et al. 2025, GCN 42605). There was no Fermi-GBM onboard trigger around this event time. \n\nAn automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified a roughly spatially-consistent candidate at 19:58:18.89 UTC.\n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, also identified a transient spatially consistent with GRB 251106A  approximately 10 s before the SVOM trigger time. It is detected most significantly ~133 s after the SVOM trigger time on a 4.096 s timescale with a false alarm rate of 3.8e-5 Hz. The event was best-fit using a \"normal\" GRB spectrum (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3). The Targeted Search localization is consistent with the SVOM/ECLAIRs location.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

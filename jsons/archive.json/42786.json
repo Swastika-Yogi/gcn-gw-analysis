@@ -1,0 +1,14 @@
+{
+  "editedOn": 1765988788460,
+  "subject": "GRB 251118A: Swift/UVOT Detection",
+  "eventId": "GRB 251118A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42786....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "circularId": 42786,
+  "createdOn": 1763677417128,
+  "submitter": "Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "format": "text/plain",
+  "body": "M. H. Siegel (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 251118A 31.3 ks after the Fermi trigger (GCN Circ. 42743). A fading source consistent with the XRT position (Osbourne et al., GCN Circ. 42782) is detected in the UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  10:40:01.01 = 160.00422 (deg.)\n    Dec (J2000) = -34:31:21.1  = -34.52254 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\nwhite            31521        52651          885      18.79+/-0.05\nwhite           108251       159027         1113      20.11+/-0.10\nv                31678        42929          845      18.60+/-0.19\nv               108564       147691          662            >19.73\nu                31363        52627         2489      18.41+/-0.05\nu               107942       158555         1113      19.61+/-0.15\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.057 in the direction of the burst\n(Schlegel et al. 1998)."
+}

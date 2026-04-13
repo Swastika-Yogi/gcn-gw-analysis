@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180626B",
+  "eventId": "GRB 180626B",
+  "bibcode": "2018GCN.22866....1K",
+  "createdOn": 1530106018000,
+  "circularId": 22866,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 180626B\n(IPN Triangulation: Hurley et al., GCN Circ. 22863)\ntriggered Konus-Wind at T0=6442.786 s UT (01:47:22.786).\n\nThe burst light curve shows a single pulse which starts\nat ~T0-0.1 s and has a total duration of ~0.3 s.\nThe emission is seen up to ~2 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 7.69(-1.24,+1.35)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.004 s,\nof 7.35(-2.79,+3.01)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+0.192 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.13(-0.54,+0.73)\nand Ep = 218(-43,+60) keV (chi2 = 23/26 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.7\n(chi2 = 23/25 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0 to T0+0.064 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model\nwith  alpha = -0.08(-0.59,+0.87)\nand Ep = 294(-70,+116) keV (chi2 = 14/16 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.3\n(chi2 = 14/15 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180626_T06442/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190409A: ground analysis reveals a likely spurious event",
+  "eventId": "GRB 190409A",
+  "bibcode": "2019GCN.24093....1D",
+  "createdOn": 1554908151000,
+  "circularId": 24093,
+  "submitter": "Antonino D'Ai at IASF-PA  <antonino.dai@ifc.inaf.it>",
+  "email": "antonino.dai@ifc.inaf.it",
+  "body": "A. D'Ai (INAF-IASFPA), A. Y. Lien (GSFC/UMBC), A. A. Breeveld (MSSL-UCL)\nreport on behalf of the Swift team:\n\nUsing Swift/BAT data set from T-60 to T+243 sec from \nthe recent telemetry downlink, we report further \nanalysis of the possible GRB 190409A (trigger #897653,\nD'Ai et al. GCN 24081). The BAT image significance has \ndecreased to 3.7 sigma, and thus is consistent with \na noise fluctuation.\n\nWe have analysed 2.8 ks of Photon Counting (PC) mode \nXRT  data, collected between T0+3.0 ks and T0+10.2 ks. \nOne uncatalogued X-ray source has been detected but \noutside the BAT error circle at 4.3 arcmin from the Swift/BAT  \nposition reported in GCN 24081. The source is below the RASS \nlimit and shows no definitive signs of fading. Details of this source \nare given below:\n\nSource 1:\n RA (J2000.0):  325.0326  =  21:40:7.82\n Dec (J2000.0): -46.6064  =  -46:36:23.0\n Error: 7.7 arcsec (radius, 90% conf.)\n Count-rate: (4.3 [+1.8, -1.4])e-3 ct s^-1   \n Distance: 276 arcsec from Swift/BAT position.\n\nThe Swift/UVOT began settled observations of the field of GRB 190409A\nwith the white filter 2950 s after the BAT trigger (D'Ai et al., GCN Circ. 24081). \nNo optical afterglow is detected in the initial UVOT  exposure.\n\nGiven the lowered significance of the BAT trigger from the ground\nanalysis, the lack  of a clear X-ray/UVOT counterpart within the \nBAT error circle,  we believe that GRB 190409A was most likely \na spurious event."
+}

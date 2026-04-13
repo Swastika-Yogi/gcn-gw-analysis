@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070326: Detection of first burst from BAT Slew Survey (BATSS)",
+  "eventId": "GRB 070326",
+  "bibcode": "2007GCN..6653....1C",
+  "createdOn": 1185141573000,
+  "circularId": 6653,
+  "submitter": "Antonio Copete at Harvard U  <acopete@head.cfa.harvard.edu>",
+  "email": "acopete@head.cfa.harvard.edu",
+  "body": "A. Copete, J. Grindlay, and J. Hong (Harvard),\nS. Barthelmy and N. Gehrels (NASA/GSFC)\n\nWe report on the first GRB found solely from imaging using BAT slew data,\nfrom a test run carried out in March 2007 of what will become the BAT Slew\nSurvey (BATSS; Grindlay, astro-ph# 0704.3294). A 58sec-long slew which\nbegan on 2007-03-26 16:29:10 UT, from a prior SAA passage onto Swift\nobservation number 00271019007, included a burst (hereafter referred to as\nGRB 070326) detected independently at 8.9 sigma and 6.9 sigma in the\n15-50keV and 50-150keV energy bands, respectively. The GRB T0 occurred 2\nsec after the start of the slew. The averaged position of the burst was\nfound to be:\n  RA(J2000) = 2h 41m 20.8s\n  Dec(J2000) = -66d 59' 21\"\nwith an uncertainty radius of 3.9 arcmin (99% confidence).\nThe time-averaged coding fraction at the burst location was 65% and the\nexposure time was 58.0 sec.\n\nThe mask-weighted lightcurve features a single 17.3 sec peak, rising\nsharply over 3 sec and then followed by a steady, approximately\nexponential decay. Preliminary spectral analysis over the total duration\nof the burst shows a 15-150 keV spectrum that is best fit with a simple\npower law, with photon index of 1.44 +- 0.17. The burst fluence was\nestimated at (3.45 +- 0.37) x 10^-7 erg/cm2 (15-150 keV).\n\nBATSS will begin regular operations as soon as its pipeline processing\nsystems developed at Harvard are implemented at GSFC. Based on this\ninitial 7d of test slew processing and one new GRB detected, the overall\nrate of Swift GRBs could increase by ~20-40%. Follow-up pointings with XRT\ncould be commanded on the next satellite data pass, or with ~1-4h delay."
+}

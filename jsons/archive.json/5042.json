@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060501: Swift XRT position",
+  "eventId": "GRB 060501",
+  "bibcode": "2006GCN..5042....1L",
+  "createdOn": 1146495902000,
+  "circularId": 5042,
+  "submitter": "Eleonora Troja at INAF-IASFPA  <nora@ifc.inaf.it>",
+  "email": "nora@ifc.inaf.it",
+  "body": "V. La Parola (INAF-IASFPa), E. Troja (INAF-IASFPa),\nG. Tagliaferri (INAF-OAB), D. N. Burrows (PSU) and\nJ. Kennea (PSU) report on behalf of the Swift XRT Team:\n\nThe XRT attempted to centroid on GRB 060501 at 09:10:08 UT, \n3309 s after the burst. However, at this late time the burst \nwas too faint for an on-board detection in the 2.5 s centroiding \nimage, and the XRT switched immediately to PC mode.\n\nUsing the first 4.5 ksec data set from the Malindi download,\nwe find a single weak previously uncatalogued source within the \nBAT error box at:\n\nRA:    21 53 29.9  (J2000)\nDec:  +43 59 53.4 (J2000)\n\nwith 5.5 arcsec uncertainty (90% confinement).\nThe estimated flux is 2.6e-13 erg/sec/cm2, assuming Galactic \nabsorption and a power law spectrum with photon index 2.0.\nThis source is 58 arcsec from the BAT on-board position.\n\nThe available data do not allow us to establish if this\nsource is fading."
+}

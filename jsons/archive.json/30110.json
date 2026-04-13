@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 210531A",
+  "eventId": "GRB 210531A",
+  "bibcode": "2021GCN.30110....1S",
+  "createdOn": 1622568579000,
+  "circularId": 30110,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, D. Frederiks, A. Ridnaia,\nA. Lysenko, and T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\nreport:\n\nThe bright, long-duration GRB 210531A\n(BALROG localization: Biltzinger et al., GCN Circ. 30105;\nAGILE detection: Ursi et al., GCN Circ. 30106;\nAstroSat-CZTI detection: Sawant et al., GCN Circ. 30108)\nwas detected by Fermi (GBM trigger 644155206), Konus-Wind,\nINTEGRAL (SPI-ACS), AGILE (MCAL, SA, and AC),\nand AstroSat (CZTI) at about 43201 s UT (12:00:01).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   140.592 (09h 22m 22s)  +8.281 ( +8d 16' 50\")\n  Corners:\n   141.277 (09h 25m 06s) +11.425 (+11d 25' 30\")\n   142.066 (09h 28m 16s) +10.564 (+10d 33' 51\")\n   139.800 (09h 19m 12s)  +5.254 ( +5d 15' 16\")\n   139.052 (09h 16m 12s)  +6.081 ( +6d 04' 51\")\n  ---------------------------------------------\nThe error box area is 5.9 sq. deg, and its maximum\ndimension is 6.3 deg (the minimum one is 1 deg).\nThe Sun distance was 70 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi final position and BALROG (GCN Circ. 30105) localizations.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210531_T43198/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

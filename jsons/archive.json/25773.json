@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190915ak: Updated Sky Localization",
+  "eventId": "LIGO/Virgo S190915ak",
+  "bibcode": "2019GCN.25773....1L",
+  "createdOn": 1568748540000,
+  "circularId": 25773,
+  "submitter": "Alan Weinstein at Caltech/LIGO  <ajw@caltech.edu>",
+  "email": "ajw@caltech.edu",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the data from LIGO Hanford\nObservatory (H1), LIGO Livingston Observatory (L1) and Virgo\nObservatory (V1) around the time of the compact binary merger (CBC)\ncandidate S190915ak (GCN Circular 25753). Parameter estimation has\nbeen performed using LALInference [1] and a new sky map,\nLALInference.fits.gz, distributed via GCN Notice, is available for retrieval\nfrom the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190915ak\n\nThe preferred sky map at this time is LALInference.fits.gz. The 90%\ncredible region is 318 deg2. Marginalized over the whole sky, the a\nposteriori luminosity distance estimate is 1584 +/- 381 Mpc (a posteriori\nmean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n [1] Veitch et al. PRD 91, 042003 (2015)"
+}

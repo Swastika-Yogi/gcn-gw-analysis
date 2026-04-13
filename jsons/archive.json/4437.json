@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060105: Swift/UVOT upper limits",
+  "eventId": "GRB 060105",
+  "bibcode": "2006GCN..4437....1S",
+  "createdOn": 1136503866000,
+  "circularId": 4437,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (UCL-MSSL/PSU), M. Page (UCL-MSSL), A. Cucchiara (PSU),\nF. Marshall (GSFC), N. Gehrels (GSFC) on behalf of the Swift/UVOT\nteam report:\n\nThe Swift/UVOT began observing the field of GRB 060105 at 06:50:59\nUT on 2006-01-05, 91 s after the BAT trigger (Ziaeepour et al., GCN\n4429). No source was observed in any of the UVOT filters at the XRT position \nand the potential candidate mentioned in GCN 4429 is most likely contamination \nfrom a bright, nearby star. The 3-sigma upper limits in summed images from each \nof the filters are listed below (not corrected for extinction; E(B-V) = 0.171).\n\nFilter   T_range(s)  Exp(s)  3sigUL(mag)\n\nV        91-29544    29453    20.4\nB        457-5533    5076     20.1\nU        403-23780   23377    20.8\nW1       349-22873   22524    20.3\nM2\t 295-30329   30034    20.6\nW2\t 565-28638   28073    21.0\nWhite    511-889     378      19.9\n\n\n_______________________________________________\nUvot_cal mailing list\nUvot_cal@phoenix.astro.psu.edu\nhttps://phoenix.astro.psu.edu/mailman/listinfo/uvot_cal"
+}

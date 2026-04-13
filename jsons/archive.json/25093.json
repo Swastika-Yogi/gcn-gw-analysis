@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190718A: Swift-XRT refined Analysis",
+  "eventId": "GRB 190718A",
+  "bibcode": "2019GCN.25093....1S",
+  "createdOn": 1563474585000,
+  "circularId": 25093,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "B. Sbarufatti (PSU), K.L. Page (U. Leicester), A.P. Beardmore (U.\nLeicester), P.A. Evans (U. Leicester), P. D'Avanzo (INAF-OAB), M.G.\nBernardini (INAF-OAB), E. Ambrosi  (INAF-IASFPA) , D.N. Burrows (PSU),\nJ. D. Gropp (PSU) and V. D'Elia report on behalf of the Swift-XRT team:\n\nWe have analysed 6.4 ks of XRT data for GRB 190718A (D'Elia et al. GCN\nCirc. 25082), from 70 s to 41.2 ks after the  BAT trigger. The data\ncomprise 349 s in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The enhanced XRT position for this burst was\ngiven by Evans et al. (GCN Circ. 25084).\n\nThe late-time light curve (from T0+4.6 ks) can be modelled with a\npower-law decay with a decay index of alpha=1.03 (+0.18, -0.17).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.64 (+0.15, -0.14). The\nbest-fitting absorption column is  7.0 (+4.2, -3.8) x 10^20 cm^-2, in\nexcess of the Galactic value of 1.2 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 4.0 x 10^-11 (4.4 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     7.0 (+4.2, -3.8) x 10^20 cm^-2\nGalactic foreground: 1.2 x 10^20 cm^-2\nExcess significance: 2.5 sigma\nPhoton index:\t     1.64 (+0.15, -0.14)\n\nIf the light curve continues to decay with a power-law decay index of\n1.03, the count rate at T+24 hours will be 0.011 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 4.5 x\n10^-13 (5.0 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00915091.\n\nThis circular is an official product of the Swift-XRT team."
+}

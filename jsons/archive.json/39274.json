@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250207A: Skynet optical afterglow observations",
+  "eventId": "GRB 250207A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39274....1S",
+  "createdOn": 1739237736974,
+  "circularId": 39274,
+  "submitter": "dschlekat@unc.edu",
+  "format": "text/plain",
+  "body": "Donovan Schlekat, Dylan Dutton, Daniel Reichart, Joshua Haislip, and Vladimir Kouprianov report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 250207A detected by Fermi (The Fermi GBM Team, GCN 39181) and Swift (Ferro et al., GCN 39182; Osborne et al., GCN 39217; Melandri et al., GCN 39221; Moss et al., GCN 39245) with two of Skynet's PROMPT telescopes located at the Cerro Tololo Inter-American Observatory. The observation began at 01:20:03 UT on February 7 2025, roughly 4 minutes after the Swift-BAT trigger and lasted for around 14 minutes until the field was no longer observable. Observations were performed in the B, V, R, and I bands. Exposure lengths were calculated using our automated exposure length scaling model.\n\nWe detect the optical afterglow (Ferro et al., GCN 39182; Angulo et al., GCN 39186; Kuin & Ferro, GCN 39199; Brivio et al., GCN 39202; Jelinek et al., GCN 39209; Ferro et al., 39212; Ror et al., 39250) in the V, R, and I bands. The photometry of the initial detection for each band is reported below.\n\nTmid - T0 (s)| Telescope | Filter | Exposure (s) | Mag\t   | Mag Error\n------------------------------------------------------------------\n747.0        | PROMPT-6  | V      | 22           | 16.854  | 0.064\n779.0\t     | PROMPT-5  | R      | 16           | 16.593  | 0.097\n805.0\t     | PROMPT-6  | I      | 10           | 16.570  | 0.061\n\nOur images have been calibrated using stars from the APASS catalog. Magnitudes were not corrected for dust extinction."
+}

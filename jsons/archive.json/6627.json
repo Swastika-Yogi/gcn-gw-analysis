@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070714B: Swift-XRT refined analysis",
+  "eventId": "GRB 070714B",
+  "bibcode": "2007GCN..6627....1R",
+  "createdOn": 1184470406000,
+  "circularId": 6627,
+  "submitter": "Judith Racusin at PSU  <racusin@astro.psu.edu>",
+  "email": "racusin@astro.psu.edu",
+  "body": "J. Racusin, J. Kennea, C. Pagani, L. Vetere (PSU), and P. Evans (U.\nLeicester) report on behalf of the Swift/XRT team:\n\nWe have analyzed the first 15 ks of Swift XRT PC and WT data from GRB\n070714B (Racusin et al., GCN 6620).  Using 770 s of overlapping XRT Photon\nCounting mode and UVOT V-band data, we find an astrometrically corrected\nX-ray position (using the XRT-UVOT alignment and matching UVOT field\nsources to the USNO-B1 catalogue): RA, Dec = 57.84287, 28.29782 which is\nequivalent to:\n\nRA (J2000):  03h 51m 22.29s\nDec (J2000): +28d 17' 52.2\"\n\nwith an uncertainty of 1.8 arcsec (90% confidence, radius).  This is 35\narcsec from the refined BAT position (Barbier et al., GCN 6623), and 1.4\narcsec from the Liverpool optical afterglow candidate (Melandri et al.,\nGCN 6621).\n\nThe XRT light curve shows a fading behavior with super-imposed small\nflaring.  The light curve can be fit with a power-law beginning with a\nsteep decay with a slope of 2.49 +/- 0.18 followed by a plateau beginning\nat 413s +/- 50s with a slope of 0.60 +/- 0.29 until another break at 1187\n+/- 270s with a decay of 1.73 +/- 0.11.\n\nThe X-ray PC and WT spectrum is well fit by an absorbed power law with a\nphoton index for 1.2 +/- 0.1 and a column density of 13 +/- 3 e20 cm^-2 in\nexcess of the galactic value (6.4e20 cm-2).  The absorbed (unabsorbed)\n0.3-10.0 keV flux of the WT spectrum is 9.2e-10 (1.0e-9) erg cm^-2s^-1 and\nthe flux of the PC spectrum is 3.4e-12 (3.7e-12) ergs cm^-2 s^-1.\n\nAssuming the source continues to decay at the same rate, we predict an XRT\ncount rate of 2.7e-4 counts/s at T0+24 hours, which corresponds to an\nobserved (unabsorbed) flux of 1.8e-13 (2.0e-13) ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift XRT team."
+}

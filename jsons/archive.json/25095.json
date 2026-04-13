@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190718y: Upper limits from Fermi-GBM Observations",
+  "eventId": "LIGO/Virgo S190718y",
+  "bibcode": "2019GCN.25095....1M",
+  "createdOn": 1563495874000,
+  "circularId": 25095,
+  "submitter": "Bagrat Mailyan at UAH  <bm0054@uah.edu>",
+  "email": "bm0054@uah.edu",
+  "body": "B. Mailyan (UAH), R. Hamburg (UAH) and A. Goldstein (USRA) report\non behalf of the Fermi-GBM Team and the GBM-LIGO/Virgo group:\n\nFor the LIGO/Virgo detection of GW trigger S190718y (GCN 25087) and using\nthe initial BAYESTAR skymap, Fermi-GBM was observing 24.0% of the\nlocalization probability at event time.\n\nThere was no Fermi-GBM onboard trigger around the event time of S190718y.\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM also identified no counterpart\ncandidates. The GBM\ntargeted search, the most sensitive, coherent search for GRB-like signals,\nwas run\nfrom +/- 30 s around merger time, and also identified no counterpart\ncandidates.\n\nPart of the LVC localization region is behind the Earth for Fermi, located\nat RA = 15.0 and Dec = 11.4  with a radius of 67.3 degrees.\nWe therefore set upper limits on impulsive gamma-ray emission. Using the\nrepresentative soft, normal, and\nhard GRB-like templates described in arXiv:1612.02395, we set the following\n3 sigma flux upper limits over 10-1000 keV, weighted by GW localization\nprobability, (in units of 10^-8 erg/s/cm^2):\n\nTimescale  soft     norm     hard\n--------------------------------------\n0.128 s:   7.2        16.       47.\n1.024 s:   3.6        7.2       18.\n8.192 s:   1.1        2.0       5.4\n\nAssuming the median luminosity distance of 227 Mpc (z=0.051) from the GW\ndetection, we estimate the following intrinsic luminosity upper limits over\nthe 1 keV-10 MeV energy range (in units of 10^47 erg/s):\n\nTimescale  soft     norm     hard\n--------------------------------------\n0.128 s:   6.84    14.2     68.4\n1.024 s:   3.42    6.37     26.2\n8.192 s:   1.04    1.77     7.86"
+}

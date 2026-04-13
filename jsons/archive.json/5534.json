@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060906, Swift-BAT refined analysis",
+  "eventId": "GRB 060906",
+  "bibcode": "2006GCN..5534....1S",
+  "createdOn": 1157557249000,
+  "circularId": 5534,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/ORAU), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMD), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), J.L. Racusin (PSU),\nG. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-119 to T+183 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060906 (trigger #228316)\n(Racusin, et al., GCN Circ. 5528).  The BAT ground-calculated position\nis RA,Dec = 40.710, 30.356 deg {2h 42m 50.4s, 30d 21' 21.3\"} (J2000)\n+- 2.5 arcmin, (radius, sys+stat, 90% containment).  The partial coding was 45%.\n \nThis burst started at ~T-50 sec while the spacecraft was still slewing\nbetween regularly scheduled follow-up targets.  The initial emission is\na broad peak of roughly constant flux.  It returns to background level\nat ~T-4 sec and then the peak which BAT actually triggerred on starts.\nIt peaks at T~T+4 sec at a level about half of the initial broad peak.\nT90 (15-350 keV) is 43.6 +- 1 sec (estimated error including systematics).\n\nBecause most of the burst happened during slewing, our standard processing\nfor the spectral, flux, and fluence results are not appropriate.\nWe will issue another circular with those results when they become available."
+}

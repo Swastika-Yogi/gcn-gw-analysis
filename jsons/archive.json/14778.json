@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130605A: Continued Skynet/PROMPT observations",
+  "eventId": "GRB 130605A",
+  "bibcode": "2013GCN.14778....1T",
+  "createdOn": 1370490350000,
+  "circularId": 14778,
+  "submitter": "Adam S. Trotter at UNC-Chapel Hill/PROMPT/Skynet  <atrotter@physics.unc.edu>",
+  "email": "atrotter@physics.unc.edu",
+  "body": "A. Trotter, A. Lacluyze, D. Reichart, J. Haislip, T. Berger, M. Carroll, \nH. T. Cromartie, R. Egger, A. Foster, C. Foster, N. Frank, K. Ivarsen, \nD. James, M. Maples, J. Moore, M. Nysewander, E. Speckhard, P. Taylor \nand J. A. Crain report\n\nSkynet observed the Swift/BAT localization of GRB 130605A (Holland et \nal., GCN 14773, Swift trigger #557508) with three 16\" telescopes of the \nPROMPT array at CTIO, Chile,  starting at 2013-06-05, 23:43:23 UT \n(t=101s post-trigger), and continuing until t=3h. Exposure lengths range \nfrom 10s at early times to 160s at later times.  Multiple 160s exposures \nwere stacked at later times to increase sensitivity.\n\nWe detect a fading afterglow in B, V and I bands at the position \nreported by Nicuesa Guelbenzu et al. (GCN 14774), at:\nRA   08:50:08.6\nDec -33:27:40.3\n\n From t=1.7m to t=9m, the afterglow fades with an approximate temporal \nindex alpha~-0.7, after which it steepens to alpha~-1.4.  A preliminary \nlight curve is at:\nhttp://www.skynet.unc.edu/grb/grb130605a.png\n\nMagnitudes are in the Vega system, calibrated to 3 APASS stars in the \nfield, and are not corrected for the expected Milky Way extinction of \nE(B-V)=1.12 (Schlegel et al. 1998), which, assuming R_V=3.1, corresponds to:\nband      B       V       I\nA_lambda  1.57    1.17    0.71\n\nNo further Skynet observations are scheduled."
+}

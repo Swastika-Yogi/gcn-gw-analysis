@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260225A: SVOM detection of a burst",
+  "eventId": "GRB 260225A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43829....1M",
+  "createdOn": 1772012451287,
+  "circularId": 43829,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Yinuo Ma (NAOC), Li Zhang (IHEP), Nicolas Dagoneau (CEA), Frédéric Daigne (IAP), Pierre Maggi (ObAS), report on behalf of the SVOM mission team:\n\nAt 2026-02-25T08:51:15 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 260225A (SVOM burst-id sb26022501).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was detected both by the Count-Rate Trigger (CRT) and the Image Trigger (IMT), which produced a sequence of 11 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 16.32 in the [8-120] keV energy band over a time window of 40.96 seconds starting at 2026-02-25T08:50:57.\n\nThe localization of the best alert is R.A., Dec. 204.6748, 44.6546 degrees:\nR.A. (J2000) = 13h38m41.95s\nDec. (J2000) = 44d39m16.67s\nwith a 90% confidence level (C.L.) radius of 5.13 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThis burst was also detected by SVOM/GRM with a significance of 4.90.\n\nSVOM slewed to the burst.\n\nNo X-ray observation could be performed by SVOM/MXT for the time being, due to Earth occultation.\n\nSVOM/VT observations will be reported in future circular.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is zhangli: zhangli@ihep.ac.cn.\nPlease contact the BA by email if you require additional information."
+}

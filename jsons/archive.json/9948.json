@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090926A: Swift/UVOT observations",
+  "eventId": "GRB 090926A",
+  "bibcode": "2009GCN..9948....1O",
+  "createdOn": 1254055316000,
+  "circularId": 9948,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and L. Vetere (PSU) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began observerving the field of Fermi GRB 090926A\n47ks after the Fermi  GBM and LAT trigger (Bissaldi., GCN Circ. 9933;\nUehara ., GCN Circ. 9934). We detect a fading optical afterglow in  \nwhite,\nv and u filters at the position reported by UVOT (Gronwall et al.,\nGCN Circ. 9938) and Skynet/PROMPT (Haislip et al., GCN Circ 9937).\nThe lightcurve appears to rebrighten from 70ks to the end of\ncurrent observations.\n\nPreliminary magnitudes are reported below.\n\nFilter  T_start(s) T_stop(s)  Exposure      Mag  Err\n-------------------------------------------------------\nwhite     46977     47341      358       18.71 +/- 0.04\nwhite     69902     70369      459       19.32 +/- 0.05\nv         47348     47712      358       18.45 +/- 0.16\nu         46608     46972      358       18.21 +/- 0.07\nu         69429     69896      459       18.85 +/- 0.09\nu         86050     86613      554       18.52 +/- 0.07\n-------------------------------------------------------\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.02 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT flight system\ndescribed in Poole et al. (2008, MNRAS, 383,627)."
+}

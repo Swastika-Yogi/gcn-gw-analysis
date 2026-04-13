@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180404B",
+  "eventId": "GRB 180404B",
+  "bibcode": "2018GCN.22609....1S",
+  "createdOn": 1523021609000,
+  "circularId": 22609,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A. Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 180404B\n(Swift-BAT detection: LaPorte et al., GCN Circ. 22590;\nFermi-GBM observation: von Kienlin, GCN Circ. 22597)\ntriggered Konus-Wind at T0=7898.049 s UT (02:11:38.049).\n\nThe burst light curve shows the bright pulse\nwhich starts at ~T0-3.4 s and has a total duration of ~29 s\nfollowed by a weaker pulse seen up to ~T0+100 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180404_T07898/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.60(-0.16,+0.18)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+8.832 s,\nof 2.07(-0.66,+0.66)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+73.984 s)\nis best fit in the 20 keV - 5 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.65(-0.15,+0.16)\nand Ep = 205(-17,+21) keV (chi2 = 82/73 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.0\n(chi2 = 82/72 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+8.448 to T0+16.640 s)\nis best fit in the 20 keV - 5 MeV range\nby a power law with exponential cutoff model:\nwith  alpha = -0.19(-0.16,+0.17)\nand Ep = 186(-11,+12) keV (chi2 = 90/73 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.2\n(chi2 = 90/72 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

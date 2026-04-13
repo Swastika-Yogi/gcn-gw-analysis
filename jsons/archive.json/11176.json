@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Observations of GRB100901A",
+  "eventId": "GRB 100901A",
+  "bibcode": "2010GCN.11176....1P",
+  "createdOn": 1283434817000,
+  "circularId": 11176,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and Immler (CRESST/GSFC/UMD)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100901A\n147 s after the BAT trigger (Immler et al., GCN Circ. 11159).\nWe detect an object not present in the DSS in all filters within 0.1\narcsec of the Enhanced Swift-XRT position (Osborne et al., GCN Circ. 11169)\n\nPreliminary magnitudes and 3-sigma upper limits using the UVOT\nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite (FC)        147           297           147     19.55 � 0.19\nu (FC)            305           555           246     17.52 � 0.10\nwhite             585           605           20      18.58 � 0.32\nwhite             4849          5051          198     18.66 � 0.07\nb                 561           581           19      17.85 � 0.30\nb                 4644          4844          197     18.69 � 0.11\nu                 305           555           246     17.52 � 0.10\nu                 4439          4639          197     18.08 � 0.10\nv                 129           139           10 >17.21\nv                 3824          4024          197     18.50 � 0.21\nw1                4234          4434          197     18.53 � 0.16\nm2                4029          4229          197     19.22 � 0.32\nw2                611           626           15 >17.6\nw2                5055          5255          197 >20.04\nw2                9620          10520         885     20.73 � 0.32\n\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.10 in the direction of the burst\n(Schlegel et al. 1998)."
+}

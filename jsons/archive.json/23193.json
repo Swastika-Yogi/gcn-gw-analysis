@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180828A",
+  "eventId": "GRB 180828A",
+  "bibcode": "2018GCN.23193....1K",
+  "createdOn": 1535662299000,
+  "circularId": 23193,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 180828A (Swift-BAT detection:\nBeardmore et al., GCN 23182; Markwardt et al., GCN 23188;\nFermi-GBM observation: Roberts & Meegan, GCN 23183;\nAstroSat-CZTI detection: Khanam et al., GCN 23191)\ntriggered Konus-Wind at T0=68250.016 s UT (18:57:30.016).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-6 s and has a duration of ~14.7 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.41(-0.17,+0.17)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+7.456 s,\nof 1.57(-0.24,+0.26)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+15.104 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.50(-0.12,+0.12)\nand Ep = 341(-21,+24) keV (chi2 = 72/88 dof).\nFitting by the GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.7\n(chi2 = 70/87 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+6.912 to T0+15.104 s)\nis best fit in the 20 keV - 10 MeV range\nby the CPL model with  alpha = -0.36(-0.23,+0.26)\nand Ep = 395(-45,+59) keV (chi2 = 61/86 dof).\nFitting by the GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.5\n(chi2 = 61/85 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180828_T68250/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

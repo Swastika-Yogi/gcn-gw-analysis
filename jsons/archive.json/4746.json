@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060210: Swift/UVOT Upper Limits",
+  "eventId": "GRB 060210",
+  "bibcode": "2006GCN..4746....1B",
+  "createdOn": 1139700568000,
+  "circularId": 4746,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU), A. Beardmore (U Leicester),\nP. Schady (PSU/UCL-MSSL), N. Gehrels (GSFC)\non behalf of the Swift/UVOT team report:\n\nThe Swift/UVOT began taking data on the field\nof GRB 060210 at 05:00:28 UT on 2006-02-10,\napproximately 98 s after the BAT trigger\n(Beardmore et al., GCN 4724). No source is\ndetected in the refined XRT error circle\n(Beardmore et al., GCN 4733) or at the position\nof the afterglow identified by Fox & Cenko (GCN 4723)\nin either the 200s finding chart images or summed\nimages down to the following 3-sigma magnitude\nupper limits:\n\nFilter  T_range(s)  Exp(s)  3sigUL(mag)\nV       98-297        200      18.9\nV       98-17151      1574     20.1\nB       305-504       200      19.9\nB       305-28728     2557     21.3\nU       3750-27815    1594     20.6\nUVW1    606-12060     1289     20.8\nUVM2    582-17970     1402     21.1\nUVW2    535-23754     2231     21.5\nWhite\t510-29539     2170     21.4\n\nThese magnitudes are uncorrected for\nGalactic extinction; E(B-V) = 0.09.\n\nThese non-detections are consistent\nwith the spectrum described by\nCucchiara, Fox & Berger (GCN 4729)"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230913A: Swift/BAT-GUANO arcminute localization of a burst",
+  "eventId": "GRB 230913A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34683....1R",
+  "createdOn": 1694613353869,
+  "submitter": "Samuele Ronchini at PSU <sjs8171@psu.edu>",
+  "circularId": 34683,
+  "body": "Samuele Ronchini (PSU), Jamie A. Kennea (PSU), James DeLaunay (U Alabama), Aaron Tohuvavohu (U Toronto), Gayathri Raman (PSU), Tyler Parsotan (NASA GSFC)  report:\n\nSwift/BAT did not localize GRB 230913A onboard (T0: 2023-09-13T07:56:12.16 UTC, Fermi/GBM GCN 34680, CALET trigger 1378626813).\n\nThe Fermi and CALET notices, distributed in near real-time, triggered the Swift Mission Operations Center operated Gamma-ray Urgent Archiver for Novel Opportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1). \n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst Alert Telescope (BAT) to save 200 seconds of BAT event-mode data from [-50,+150] seconds around the time of the burst. All the requested event mode data was delivered to the ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu 2022, ApJ, 941, 169), detects the burst in a 8.192 s analysis time bin with a sqrt(TS) of 19.7.\nAn arcminute localization is found with DeltaLLHOut of 64.99 and a DeltaLLHPeak of 60.07.\n\nSee Section 9.1 and Figures 10 and 17 in the NITRATES paper for brief descriptions and interpretations of sqrt(TS), DeltaLLHPeak, and DeltaLLHOut.\n\nThe BAT position is\nRA, Dec = 267.349, +74.484 deg (J2000) which is\nRA (J2000)      17h 49m 23.8s\nDec (J2000)    74d 29m 2.4s\nwith an estimated uncertainty of 5 arcmin radius.\n\nNo XRT and UVOT follow-up can be done due to observational constraints. \nWe strongly encourage follow-up from other telescopes.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

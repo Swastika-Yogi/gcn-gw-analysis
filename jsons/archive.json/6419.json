@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070518: UVOT refined analysis",
+  "eventId": "GRB 070518",
+  "bibcode": "2007GCN..6419....1C",
+  "createdOn": 1179544738000,
+  "circularId": 6419,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "Cucchiara A. (PSU), Marshall F. E. (NASA/GSFC) and Guidorzi C.\n(Univ. Bicocca&INAF-OAB) reports on behalf of the Swift/UVOT team:\n\n\nThe Swift/UVOT observed the field of GRB070518 starting\n82 sec after the trigger (Guidorzi et al., GCN Circ. 6415).\nThe afterglow was clearly detected in all the 7 filters.\nThis suggest a redshift lower than 0.7.\n\nThe estimated magnitude for the V and White filters are:\n\nFilter        T_start(sec)     Exposure(sec)         Mag\n\nWhite            82                 93            18.16 +/- 0.06\nWhite           873                 94            19.14 +/- 0.09\nWhite          5517                191            20.08 +/- 0.14\nWhite          6951                191            21.33 +/- 0.20\n\nV               187                391            19.31 +/- 0.13\nV               978                391            20.08 +/- 0.24\nV              5927                363            21.05 +/- 0.48\n\n\nAssuming a single power-low, the decay index is ~1.17 in V band.\nThe extrapolated V mag at T+10h is 22.59.\n\nThe values quoted above are not corrected for the expected Galactic\nextinction of E_{B-V} = 0.017 mag (Schlegel et al. 1998)."
+}

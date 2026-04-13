@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120324A: Swift detection of a burst",
+  "eventId": "GRB 120324A",
+  "bibcode": "2012GCN.13090....1Z",
+  "createdOn": 1332569662000,
+  "circularId": 13090,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "B.-B. Zhang (PSU), A. P. Beardmore (U Leicester), D. Grupe (PSU),\nC. Guidorzi (U Ferrara), E. A. Hoversten (PSU),\nF. E. Marshall (NASA/GSFC), D. M. Palmer (LANL) and M. H. Siegel (PSU)\nreport on behalf of the Swift Team:\n\nAt 05:59:11 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 120324A (trigger=518507).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 291.084, +24.145 which is \n   RA(J2000) = 19h 24m 20s\n   Dec(J2000) = +24d 08' 43\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a complex\nstructure with a duration of about 90 sec.  The peak count rate\nwas ~10500 counts/sec (15-350 keV), at ~34 sec after the trigger. \n\nThe XRT began observing the field at 06:00:26.4 UT, 75.1 seconds after\nthe BAT trigger. XRT found a bright, uncatalogued X-ray source located\nat RA, Dec 291.0771, 24.1290 which is equivalent to:\n   RA(J2000)  = +19h 24m 18.50s\n   Dec(J2000) = +24d 07' 44.4\"\nwith an uncertainty of 4.7 arcseconds (radius, 90% containment). This\nlocation is 61 arcseconds from the BAT onboard position, within the BAT\nerror circle. No event data are yet available to determine the column\ndensity using X-ray spectroscopy. \n\nThe initial flux in the 2.5 s image was 1.92e-08 erg cm^-2 s^-1 (0.2-10\nkeV). \n\nNo UVOT data are available at this time. \n\nBurst Advocate for this burst is B.-B. Zhang (bbzhang AT psu.edu). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/too.html.)"
+}

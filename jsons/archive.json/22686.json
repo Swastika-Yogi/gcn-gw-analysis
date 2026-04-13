@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to Swift-XRT light curve fit for GRB 180504A in GCN 22685",
+  "eventId": "GRB 180504A",
+  "bibcode": "2018GCN.22686....1P",
+  "createdOn": 1525508413000,
+  "circularId": 22686,
+  "submitter": "Kim Page at U.of Leicester  <klp5@leicester.ac.uk>",
+  "email": "klp5@leicester.ac.uk",
+  "body": "K.L. Page (U. Leicester) reports on behalf of the Swift-XRT team:\n\nThe fit results to the Swift-XRT light curve provided in GCN 22685 were\nincomplete. The correct fit is as follows:\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha= 1.47 (+0.16, -0.17). At T+222 s the decay\nsteepens to an alpha of 2.81 (+0.20, -0.14) before breaking again at\nT+1078 s to a final decay with index alpha=0.83 (+/- 0.13).\n\nIf the light curve continues to decay with a power-law decay index of 0.83\n, the count rate at T+24 hours will be 2.7 x 10^-3 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 1.0 x 10^-13\n(1.3 x 10^-13) erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team.\n\n[GCN OPS NOTE(05may18): Per author's request, the GRB name\nwas added to the Subject-line.]"
+}

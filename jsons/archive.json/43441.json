@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260117A: SVOM/VT optical candidate",
+  "eventId": "GRB 260117A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43441....1L",
+  "createdOn": 1768723773790,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 43441,
+  "format": "text/plain",
+  "body": "H. L. Li, C. Wu, Y. N. Ma, Y. L. Qiu, Z. H. Yao, L.P. Xin, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. T. Palmerio, D. Adrien(CEA/Irfu)  report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation for the long faint burst GRB 260117A triggered by SVOM/ECLAIRs  (sb26011705, Palmerio et al., GCN 43437). The observation started at 2026-01-17T22:14:53 UTC, i.e., 2.398 hours post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued source was detected only in VT_R stacked images within the error box of EP/FXT and source 1 from Swift-XRT (Salvaggio et al., GCN 43439; Evans et al., GCN 43438), compared to the Legacy survey catalog. It is also located in the error box of ECLAIRs (Palmerio et al., GCN 43437). The position is at R.A., Dec. = 188.138564, 43.912747 degrees, equivalent to:\n    R.A. (J2000) =   12:32:33.25\n    Dec. (J2000) =  +43:54:45.89\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitudes are given below:\n    Mid_time       Band    Exposure Time     Magnitude (AB)\n    4.36 hour      VT_R     68*70 sec        22.98+/-0.25 \n    4.36 hour      VT_B     73*70 sec        >23.8 \n\nOur photometry was not corrected for Galactic extinction.\n    \nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

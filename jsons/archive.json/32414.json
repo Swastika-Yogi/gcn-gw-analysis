@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220715B: Swift-BAT refined analysis",
+  "eventId": "GRB 220715B",
+  "bibcode": "2022GCN.32414....1L",
+  "createdOn": 1658175126000,
+  "circularId": 32414,
+  "submitter": "Hans Krimm at NSF/NASA-GSFC  <hkrimm@nsf.gov>",
+  "email": "hkrimm@nsf.gov",
+  "body": "A. Y. Lien (U Tampa), S. D. Barthelmy (GSFC), H. A. Krimm (NSF),\r\nS. Laha (GSFC/UMBC), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\r\nT. Parsotan (GSFC/UMBC), T. Sakamoto (AGU), M. Stamatikos (OSU),\r\nE. Troja (NASA/GSFC/UMCP), (i.e. the Swift-BAT team):\r\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\r\nwe report further analysis of BAT GRB 220715B (trigger #1116441)\r\n(Troja, et al., GCN Circ. 32405).  The BAT ground-calculated position is\r\nRA, Dec = 254.860, -33.586 deg which is\r\n   RA(J2000)  =  16h 59m 26.5s\r\n   Dec(J2000) = -33d 35' 10.3\"\r\nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\r\nThe partial coding was 95%.\r\nThe mask-weighted light curve shows an initial pulse with a FRED shape,\r\nBeginning at just before T+0 and extending to about T+20.  There is a second\r\nweaker, softer pulse centered just after T+40 sec.  There are a few gaps in the\r\nlight curve data, but none appear to correspond to burst activity.\r\nT90 (15-350 keV) is 40.40 +- 1.24 sec (estimated error including systematics).\r\nThe time-averaged spectrum from T-0.15 to T+42.17 sec is best fit by a simple\r\npower-law model.  The power law index of the time-averaged spectrum is\r\n1.36 +- 0.11.  The fluence in the 15-150 keV band is 1.2 +- 0.1 x 10^-6 erg/cm2.\r\nThe 1-sec peak photon flux measured from T-0.08 sec in the 15-150 keV band\r\nis 1.3 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\r\nlevel.\r\n\r\nThe results of the batgrbproduct analysis are available at\r\nhttp://gcn.gsfc.nasa.gov/notices_s/1116441/BA/"
+}

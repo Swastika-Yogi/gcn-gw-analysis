@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250321A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 250321A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39814....1S",
+  "createdOn": 1742565316498,
+  "submitter": "Sam Shilling at Lancaster University <shilling.sam@gmail.com>",
+  "circularId": 39814,
+  "format": "text/plain",
+  "body": "S. P. R. Shilling (Lancaster U.) and R. Gupta (NASA/GSFC) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250321A\n128 s after the BAT trigger (Gupta et al., GCN Circ. 39794).\nNo optical afterglow consistent with the XRT position\n(Page et al., GCN Circ. 39798) is detected in the initial UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           128          278          147         >19.9\nwhite              128         4071          344         >20.6\nv                 4282         4482          197         >18.9\nb                 3667         5142          236         >20.0\nu                  340         5097          232         >19.4\nw1                4693         4892          197         >19.3\nm2                4487         4687          197         >19.2\nw2                4077         4277          197         >19.3\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 4.368 in the direction of the burst\n(Schlegel et al. 1998)."
+}

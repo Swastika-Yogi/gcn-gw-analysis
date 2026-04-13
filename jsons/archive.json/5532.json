@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060906: KAIT observations",
+  "eventId": "GRB 060906",
+  "bibcode": "2006GCN..5532....1L",
+  "createdOn": 1157540671000,
+  "circularId": 5532,
+  "submitter": "Weidong Li at UC Berkeley KAIT/LOSS  <weidong@astron.berkeley.edu>",
+  "email": "weidong@astron.berkeley.edu",
+  "body": "W. Li and J. Bloom (University of California, Berkeley), on behalf\nof the KAIT GRB team, report:\n\nThe robotic 0.76-m Katzman Automatic Imaging Telescope (KAIT)\nat Lick Observatory observed GRB 060906, detected with Swift\n(Trigger 228316; Racusin et al. GCN 5528). The automatic sequence\nstarted at 08:34:32, 106 s after the burst. In a 15 s unfiltered \nimage, no afterglow candidate is detected to a limiting magnitude\nof 18.2 (from comparison with the USNO B1.0 catalog). We detected\nthe optical afterglow reported by Cenko et al. (GCN 5529, 5531)\nin a 45 s unfiltered image started at 336 s after the burst, with\nthe following precise (+/- 0.2\") position:\n\nRA = 2:43:00.84   Dec = +39:21:41.9 (J2000.)\n\nA table of photometry (3-sigma limits and detections) is reported\nbelow. \n\n======================================================================\n\nStart UT   t(GRB)   Filter    Exp(s)  3sigma-limit       detection \n\n08:34:32    106s    clear     15.0     <18.2\n08:35:07    141s    V         15.0     <16.7\n08:35:33    167s    I         15.0     <17.5\n08:35:59    193s    clear     20.0     <18.4\n08:36:30    224s    V         45.0     <17.3\n08:37:27    281s    I         45.0     <18.3\n08:38:22    336s    clear     45.0                          18.9 +/- 0.3\n\n========================================================================"
+}

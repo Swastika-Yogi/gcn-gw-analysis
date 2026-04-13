@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G211117: Refined localization from CBC parameter estimation",
+  "eventId": "LIGO/Virgo G211117",
+  "bibcode": "2016GCN.18889....1L",
+  "createdOn": 1453132550000,
+  "circularId": 18889,
+  "submitter": "Leo Singer at NASA/GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "The LIGO Scientific Collaboration and Virgo report:\n\nWe have completed a Bayesian parameter estimation analysis of the GW\ncandidate G211117 (GCN 18728) under the assumption that the signal arises\nfrom a compact binary coalescence (CBC) and using the initial online\ncalibration of the GW strain data. The data is most consistent with a\nbinary black hole merger.\n\nOne refined sky map is now available and can be retrieved from\nGraceDB (https://gracedb.ligo.org/events/G211117):\n\n * LALInference_skymap.fits.gz, using Bayesian Markov-chain Monte Carlo\n   and nested sampling to perform forward modeling of the full GW signal\n   including spin precession and regression of systematic calibration\n   errors. We expect that additional parameter estimation runs based on\n   the offline re-calibration of the GW data and additional waveform\n   approximants will yield consistent results. We regard this sky map as\n   the most accurate to date for this event.\n\nThis sky map agrees with the initial BAYESTAR and cWB localizations on\nfavoring two broad, disjoint segments of an annulus.\n\nThe table below presents a quantitative comparison of the available\nlocalizations along the lines of Sec. 4.5 of Essick et al. (2015,\nhttp://adsabs.harvard.edu/abs/2015ApJ...800...81E). The first column gives\nthe area in deg2 of the 90% credible region, and the second column gives\nthe area in deg2 of the overlap with the LALInference 90% credible region.\n\n Area  Overlap   Algorithm (filename)         \n-------------------------------------------------------------\n 1340   1090     BAYESTAR (bayestar.fits.gz)\n 2230   1180     cWB (skyprobcc_cWB.fits)\n 1240   ----     LALInference (LALInference_skymap.fits.gz)"
+}

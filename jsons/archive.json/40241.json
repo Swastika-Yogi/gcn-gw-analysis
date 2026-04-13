@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250424A: Skynet Optical Observations",
+  "eventId": "GRB 250424A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40241....1D",
+  "createdOn": 1745525821179,
+  "circularId": 40241,
+  "submitter": "Dylan Dutton at UNC Chapel Hill <ddutton59@gmail.com>",
+  "format": "text/plain",
+  "body": "Dylan Dutton, Daniel Reichart, Joshua Haislip, Vladimir Kouprianov, and Donovan Schlekat report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 250424A detected by Swift (Cenko, GCN 40224) with one of Skynet's PROMPT telescopes located at the Cerro Tololo Inter-American Observatory.\n\nWe detect the optical afterglow (Francile et al., GCN 40222; Cenko et al., GCN 40224; Brivio et al., GCN 40225; Becerra et al., GCN 40226; Saccardi et al., GCN 40228; de Wet et al., GCN 40229; Ducoin et al., GCN 40230; and D. Turpin et al., GCN 40240) in the B, V, and R bands and report the initial photometry below. Exposure lengths were calculated using our automated exposure length scaling model.\n\nTmid - T0 (s)| Telescope | Filter | Exposure (s) | Mag\t   | Mag Error\n------------------------------------------------------------------\n1224         | PROMPT-5  | B      | 264          | 19.610  | 0.054\n1467\t     | PROMPT-5  | V      | 216          | 19.253  | 0.065\n1649\t     | PROMPT-5  | R      | 144          | 18.500  | 0.051\n\nOur images have been calibrated using stars from the APASS catalog. Magnitudes were not corrected for dust extinction."
+}

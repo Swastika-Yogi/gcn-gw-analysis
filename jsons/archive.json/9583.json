@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090625B: Fermi GBM observation",
+  "eventId": "GRB 090625B",
+  "bibcode": "2009GCN..9583....1R",
+  "createdOn": 1246052943000,
+  "circularId": 9583,
+  "submitter": "Arne Rau at MPE  <arau@mpe.mpg.de>",
+  "email": "arau@mpe.mpg.de",
+  "body": "Arne Rau (MPE) reports on behalf of the Fermi GBM Team:\n\n\"At 13:26:22.51  UT on 25 June 2009, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 090625B (trigger 267629184 / 090625560)\nwhich was also detected by the INTEGRAL (Goetz et al. 2009, GCN 9572).\nThe GBM on-ground location is consistent with the INTEGRAL position.\n \nThe angle from the Fermi LAT boresight is 125 degrees.\n\nThe GBM light curve consists of a single pulse\nwith a duration (T90) of about 13.6 s (8-1000 keV).\nThe time-averaged spectrum from T0-2.048 s to T0+6.144 s is\nwell fit  by a power law function with an exponential\nhigh energy cutoff.  The power law index is -0.9 +/- 0.2 and\nthe cutoff energy, parameterized as Epeak, is 165 +/- 28 keV\n(chi squared 429 for 453 d.o.f.).\n\nThe event fluence (8-1000 keV) in this time interval is\n(1.04 +/- 0.13)E-06 erg/cm^2. The 1.024-sec peak photon flux measured\nstarting from T0+3.072 s in the 8-1000 keV band\nis 1.87 +/- 0.09 ph/s/cm^2.\n\nA Band function fits the spectrum equally well (chi squared 424 for 454 \nd.o.f.)\nwith Epeak= 100 +/- 32 keV, alpha = -0.4 +/- 0.5, and beta -2.0 +/- 0.2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

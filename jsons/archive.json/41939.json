@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 250911A",
+  "eventId": "GRB 250911A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41939....1P",
+  "createdOn": 1758559028624,
+  "submitter": "Valentina Panteleeva at Ioffe Institute <panteleevav228@gmail.com>",
+  "circularId": 41939,
+  "format": "text/plain",
+  "body": "V. Panteleeva, D. Frederiks, A. Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 250911A\n(Swift-BAT detection: Klingler et al., GCN 41781;\nPalmer et al., GCN 41812; \nGECAM-B detection: Zhang et al., GCN 41813;\nInsight-HXMT detection: Wang et al., GCN 41827)\ntriggered Konus-Wind at T0=05370.240 s UT (01:29:30.240).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-2.3 s and has a total duration of ~57 s.\nThe weak precursor that triggered Swift-BAT is seen at ~T0-100 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250911_T05370/\n\nAs observed by Konus-Wind, the burst\nhad the total fluence of 4.54(-0.29,+0.30)x10^-5 erg/cm2,\nand the 64-ms peak flux, measured from T0+1.440 s,\nof 5.15(-0.88,+0.90)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+41.216 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.85(-0.11,+0.12),\nthe high energy photon index beta = -2.58(-0.19,+0.14),\nthe peak energy Ep = 196(-13,+14) keV\n(chi2 = 102/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.92(-0.11,+0.12),\nthe high energy photon index beta = -2.44(-0.19,+0.14),\nthe peak energy Ep = 257(-25,+26) keV\n(chi2 = 88/84 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

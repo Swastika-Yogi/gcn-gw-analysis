@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051215: Swift detection of a possible burst",
+  "eventId": "GRB 051215",
+  "bibcode": "2005GCN..4352....1H",
+  "createdOn": 1134610349000,
+  "circularId": 4352,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S.T. Holland (GSFC/USRA), S. Barthelmy (GSFC), D. Burrows (PSU),\nJ. Cummings (GSFC/NRC), N. Gehrels (GSFC), C. Gronwall (PSU),\nJ. Kennea (PSU), H. Krimm (GSFC/USRA), D. Palmer (LANL),\nM. Perri (ASDC)\non behalf of the Swift team:\n\nAt 00:39:49 UT, Swift-BAT triggered and located possible GRB 051215\n(trigger=172767).  The spacecraft slewed immediately.  The BAT on-board\ncalculated location is RA,Dec 163.139d,+38.626d {10h 52m 33s,+38d 37' 34\"}\n(J2000), with an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe TDRSS lightcurve is consistent with noise which means it is either a weak\nshort burst (less than ~0.1 sec) or a cosmic ray event.  We can not determine\nwhich until we get the full data set during the next Malindi downlink\nin about 3 hours.\n\nXRT began observing the field at 00:41:08 UT, 79 seconds after the BAT trigger.\nThe on-board centroiding algorithm did not converge on a source, so no prompt\nX-ray position is available.  The XRT prompt spectrum and lightcurve show\nno signficant X-ray emission in the field.  Further analysis will require\nprocessing of the XRT full telemetry data following the next ground station\ncontact.\n\nUVOT began observing at UT 00:41:06, 77 seconds after the BAT trigger.  \nThere is no new source with respect to the DSS in a 200 second V-band finding \nchart image to a limiting magnitude of V=19.3.  The extinction towards this\nfield is A_V = 0.05.  The finding chart image covers 12% of the BAT error\ncircle.\n\nThe TDRSS Notices were delayed by ~7 min due to this trigger happening during\na Malindi downlink pass when TDRSS is buffered for delayed transmission."
+}

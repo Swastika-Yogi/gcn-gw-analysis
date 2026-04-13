@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250430A / EP250430a: J-band upper limits with WINTER",
+  "eventId": "GRB 250430A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40308....1M",
+  "createdOn": 1746121827585,
+  "circularId": 40308,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (MIT), Tomas Ahumada (Caltech), Benjamin Schneider (LAM), Viraj Karambelkar (Caltech), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 250430A / EP250430a (Parsotan et al., GCN 40292; Wang et al., GCN 40299) in the near-infrared J-band with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations began at 2025-05-01T08:49:52 UTC (15.3 hours after the GRB), consisting of 15 x 120 s exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar\n (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe do not detect a source at the optical and X-ray counterpart position (Parsotan et al., GCN 40292; Kawabata et al., GCN 40294; Odeh et al., GCN 40295; Garnichey et al., GCN 40301; Hagio et al., GCN 40302; Quadri et al., GCN 40303; Moretti et al., GCN 40304; Atri et al., GCN 40305; Komesh et al., GCN 40307). We obtain the following 5-sigma upper limit: J ~ 19.7 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

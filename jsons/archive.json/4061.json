@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051006: Swift detection of a burst",
+  "eventId": "GRB 051006",
+  "bibcode": "2005GCN..4061....1N",
+  "createdOn": 1128634344000,
+  "circularId": 4061,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Norris (GSFC), S. Barthelmy (GSFC), D. Burrows (PSU), M. Capalbi (ASDC),\nN. Gehrels (GSFC), S.T. Holland (GSFC), J. Kennea (PSU),\nC. Markwardt (GSFC/UMD), F. Marshall (GSFC), D. Morris (PSU),\nJ. Nousek (PSU), C. Pagani (PSU), D. Palmer (LANL), P. Roming (PSU)\non behalf of the Swift team:\n\nAt 20:30:33 UT, Swift-BAT triggered and located GRB051006 (trigger=158593).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 110.830d,+9.531d {07h 23m 19s,+09d 31' 50\"} (J2000), with an\nuncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe BAT light curve shows a multi-peak structure with a total duration\nof ~20 sec.  The peak count rate was ~1500 counts/sec (15-350 keV),\nat ~3 seconds after the trigger.\n\nXRT began observing the field at 20:32:21.46, 108 seconds after the  \nBAT trigger.  No prompt X-ray position is available.  The XRT lightcurve\nsuggests a fading source is present in the field of view.  The TDRSS  \ndownlinked spectrum is inconclusive.  Further analysis of the XRT data\nwill be reported when the full data set becomes available.\n\nThe UVOT began observing the position of trigger #158593 at 20:32:20.4 UT, \n107 s after the BAT trigger.  In the 200 s V-band image, no new source is \ndetected with respect to the DSS down to a 3-sigma limiting mag of 18.8.\nThe estimated extinction in this direction is A_V ~ 0.2 magnitudes.\nThe UVOT image gives 25% coverage of the BAT error circle.  The BAT source\nis located in a crowded star field."
+}

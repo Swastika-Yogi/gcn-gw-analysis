@@ -1,0 +1,11 @@
+{
+  "subject": "GRB250205A: SVOM/VT optical afterglow detection",
+  "eventId": "GRB 250205A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39159....1P",
+  "createdOn": 1738799419089,
+  "circularId": 39159,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "GRB 250205A: SVOM/VT optical counterpart confirmation\n\nJ. T. Palmerio (CEA), S. Vergani (Obs.Paris), L.P. Xin, Y. L. Qiu (NAOC), A. Saccardi (CEA), H.L. Li., C. Wu, Z.H. Yao, Y.N. Ma, X.H. Han, H.B. Cai, J.Y. Wei (NAOC), report on behalf of the SVOM team:\n\nAfter the trigger by SVOM/ECLAIRs at 2025-02-05T21:24:38 UTC (Tb), SVOM performed an automatic slew on the burst. The VT observing time reported in (Saccardi et al. GCN 39154) is  incorrect, rather SVOM/VT began observing the field at 2025-02-05T21:32:08, 449 seconds after the SVOM trigger, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued source was detected within the error box of SVOM/MXT (Saccardi et al. GCN 39154) using the VT VHF pipeline at ra=113.51107, dec=32.37187 (J2000), corresponding to:\n\nRA (J2000) = 07h34m02.7s \nDec (J2000) = +32d22m18.7s\nwith an uncertainty of 1 arcsec.\n\nconsistent with the optical afterglow reported by Gompertz et al. (GCN 39156) and Schneider et al. (GCN 39157).\n\nThe source was detected in both VT_R and VT_B, though the presence of light bloom from a bright source in the image prevents the determination of the VT_R magnitude from the VHF pipeline. The source was fading between the first 2 VT observing sequences, the magnitudes are given below:\n\nmag(AB) VT_B | mag err | mid-observing time since trigger (minutes)\n20.91 | 0.06 | 8.75\n21.18 | 0.05 | 12.5\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC),CAS.\n\n"
+}

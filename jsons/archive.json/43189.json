@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251222A: SVOM/VT optical candidate",
+  "eventId": "GRB 251222A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43189....1P",
+  "createdOn": 1766425735971,
+  "circularId": 43189,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "J. T. Palmerio (CEA/Irfu), Y. L. Qiu, C. Wu, L. P. Xin (NAOC) on behalf of the SVOM/VT team.\n\nAfter the trigger by SVOM/ECLAIRs at 2025-12-22T17:05:46 UTC (T0), SVOM performed an automatic slew on the burst location (Yang et al., GCN 43188). SVOM/VT began observing the field at 2025-12-22T17:10:47, 300.27 seconds after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, at least one credible candidate is identified, the details of which are presented below.\n\nVT_ID 117: \n  This bright candidate was flagged as an uncatalogued fading source. The position of this candidate is R.A., Dec. 77.1948558, -7.2135525 degrees, corresponding to:\n    R.A. (J2000) = 05h08m46.8s\n    Dec. (J2000) = -07d12m48.8s\n  with an uncertainty of 0.5 arcsec. This location is within the R90 uncertainty region of the SVOM/MXT onboard localization. The source was detected in both VT_R and VT_B. The candidate's magnitudes are:\n | date-obs (UTC) | mid-time | exposure | band | mag(AB) |\n | -------------------- | ----------- | ---------  | ----- | ------------- |\n | 2025-10-13T17:44:04 | 7.5 min | 6*50 sec | VT_B | 18.70 ± 0.01 |\n | 2025-10-13T17:44:04 | 7.5 min | 6*50 sec | VT_R | 17.89 ± 0.01 |\n \n Magnitudes were not corrected for dust extinction.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

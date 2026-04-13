@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240422ed: WINTER near-infrared J-band observations",
+  "eventId": "LIGO/Virgo/KAGRA S240422ed",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36248....1K",
+  "createdOn": 1713859826239,
+  "submitter": "Viraj Karambelkar at Indian Inst of Tech,Bombay <karambelkarvraj21197@gmail.com>",
+  "circularId": 36248,
+  "body": "Viraj Karambelkar (Caltech), Geoffrey Mo (MIT), Robert Stein (Caltech),\nNathan Lourie (MIT),\n\nDanielle Frostig (MIT), Tomas Ahumada (Caltech), Robert Simcoe (MIT), and\nMansi Kasliwal (Caltech)\n\nWe observed the localization region of the LVK trigger S240422ed (GCN\n36236) with the 1.2 sq. degree WINTER camera on the Palomar 1-m telescope\n(Lourie et al. 2021). We obtained images in the near-IR J-band of the Bilby\nsky map (GCN 36240). Our observations began at 2024-04-23T03:04 UTC, ~5.5\nhours after the GW event time, and lasted for ~2.5 hours.\n\nOur observations covered ~14% of the localization probability, and achieved\na 5-sigma depth ranging between m_J = 16 - 17 mag (AB) depending on the\nsensor temperature. The observations have been reported to TreasureMap\n(Wyatt et al. 2020).\n\nThe images were processed through the WINTER data reduction pipeline\nimplemented using mirar (https://github.com/winter-telescope/mirar,\nhttps://doi.org/10.5281/zenodo.10888436). We cross-matched all sources with\nthe alert stream from the Zwicky Transient Facility (GCN 36246). We found\n153 candidates and rejected them as variable stars. Further analysis is\nunderway.\n\n\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between\nMIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF\nAAG, the David and Lucille Packard Foundation, and the MIT Kavli Institute\nfor Astrophysics and Space Research.\n"
+}

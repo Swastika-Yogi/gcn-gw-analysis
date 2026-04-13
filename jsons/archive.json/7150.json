@@ -1,0 +1,10 @@
+{
+  "subject": "GRB071227: Swift/UVOT refined analysis",
+  "eventId": "GRB 071227",
+  "bibcode": "2007GCN..7150....1C",
+  "createdOn": 1198814424000,
+  "circularId": 7150,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A. Cucchiara (PSU), T. Sakamoto (GSFC/UMBC)\nreport on behalf of the Swift-UVOT team:\n\nThe Swift/UVOT observed the field of GRB071227 (trigger #299787)\nstarting 86 seconds after the BAT trigger (Sakamoto et al.2007,\nGCN Circ. 7147). We do not find any new source in any of the UVOT\nsingle observations inside the XRT error circle.\nCoadding all the images for each single filter an OT candidate\nhas been detected at 3-sigma confidence level in the White filter\ncoadded image at the position\n\nRA: 03:52:31.102\nDEC: -55:59:00.65\n\nwith an uncertainty of 0.6 arcsec (90% confidence).\nThis position is 4.5 arcsec from the XRT position.\n\nThe 3-sigma upper limits and the detection(in the UVOT photometric\nsystem,Breeveld et al., GCN Circ. 6614)  are listed.\n\nFilter       Tstart   Tstop     Exp      Magnitude  \n              (s)      (s)      (s)   \n\nWhite         86      6129       609      21.73 +- 0.36\nv             68      6539       828      > 20.46\nb            673      5923       409      > 21.01\nu            648      5718       230      > 20.33\nuvw1         624      5512       239      > 20.17\nuvm2         599     10886      1191      > 21.00\nuvw2         703      6334       419      > 20.65\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.01 mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

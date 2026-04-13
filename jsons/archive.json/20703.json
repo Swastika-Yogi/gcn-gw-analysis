@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170219A (short/hard)",
+  "eventId": "GRB 170219A",
+  "bibcode": "2017GCN.20703....1F",
+  "createdOn": 1487527238000,
+  "circularId": 20703,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short/hard GRB 170219A (IPN triangulation: Svinkin et al.,\nGCN 20702) triggered Konus-Wind at T0=186.125 s UT (00:03:06.125).\n\nThe light curve shows a single, bright pulse with a\nduration of ~0.25s. The emission is seen up to ~5 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(1.6 �� 0.6)x10^-6 erg/cm2 and a 16-ms peak energy flux,\nmeasured from T0, of (2.8 �� 0.9)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum, measured from T0 to T0+0.064 s,\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.24 (-0.15,+0.17), Ep = 1620 (-660,+1920) keV,\nCstat=47/56 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170219_T00186/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240225B: WINTER near-IR observations and upper limits",
+  "eventId": "GRB 240225B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35829....1M",
+  "createdOn": 1709169022649,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "circularId": 35829,
+  "body": "Geoffrey Mo (MIT), Viraj Karambelkar (Caltech), Danielle Frostig (MIT), Robert Stein (Caltech), Nathan Lourie (MIT), Tomas Ahumada (Caltech), Robert Simcoe (MIT), Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 240225B (Nakajima et al., GCN 35796; Evans, GCN 35797; Joshi et al., GCN 35798; D'Ai et al., GCN 35810; Kawakubo et al., GCN 35811) using the Palomar 1-m telescope equipped with the 1-square degree infrared WINTER camera (Lourie et al., 2020) in the Y and J bands. Observations began at 2024-02-28T05:55:09 UTC (~2.4 days after the GRB) and consisted of 8 x 120 s exposures in each filter.\n\nThe images were processed using the WINTER data reduction pipeline (https://github.com/winter-telescope/mirar), with J-band image subtraction performed against reference images from the UKIRT Hemisphere Survey (Dye et al., 2017). \n\nWe do not detect the GOTO-discovered counterpart (Gompertz et al., GCN 35805; Liu et al., GCN 35812; Malesani et al., GCN 35819; Wise et al., GCN 35820; Gompertz & Malesani, GCN 35824; Pankov et al., GCN 35826; Moskvitin et al., GCN 35828), setting the following upper limits (AB): Y = 18.3 mag and J = 18.8 mag."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130708A: Swift XRT and UVOT Observations",
+  "eventId": "GRB 130708A",
+  "bibcode": "2013GCN.15001....1M",
+  "createdOn": 1373486857000,
+  "circularId": 15001,
+  "submitter": "Alessandro Maselli at INAF/IASF Palermo  <maselli@ifc.inaf.it>",
+  "email": "maselli@ifc.inaf.it",
+  "body": "A. Maselli (INAF-IASF Palermo) and A. Breeveld (MSSL-UCL) report on behalf of the Swift XRT and UVOT teams:\n\nThe Swift/XRT started observing the field of the BAT ground-detected GRB 130708A (Cummings, GCN Circ. 14997) on 2013-07-09 at 14:49:07 UT, 97564 s after the BAT trigger. In 3881 s of XRT data in Photon Counting mode we detected no significant X-ray source within the BAT error circle. The 3-sigma upper limit at the reported BAT position is 4.0E-03 cts/s.\n\nThe Swift/UVOT began settled observations of the field of GRB 130708A 97557 s after the BAT trigger. No optical afterglow consistent with the BAT position is detected in the initial UVOT exposures. Preliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite            97741       107968         1001         >21.6\nv                97926       103874         1037         >20.1\nu                97557       107909         1804         >21.4\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.03 in the direction of the burst (Schlegel et al. 1998).\n\nThis circular is an official product of the Swift XRT and UVOT teams."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190829A, Swift-BAT refined analysis",
+  "eventId": "GRB 190829A",
+  "bibcode": "2019GCN.25579....1L",
+  "createdOn": 1567177852000,
+  "circularId": 25579,
+  "submitter": "Hans Krimm at NSF/NASA-GSFC  <hkrimm@nsf.gov>",
+  "email": "hkrimm@nsf.gov",
+  "body": "A. Y. Lien (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), S. Dichiara (NASA/GSFC/UMCP),\nH. A. Krimm (NSF), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n(i.e. the Swift-BAT team):(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 190829A (trigger #922968)\n(Dichiara, et al., GCN Circ. 25552).  The BAT ground-calculated position is\nRA, Dec = 44.542, -8.958 deg which is \n  RA(J2000)  =  02h 58m 10.0s \n  Dec(J2000) = -08d 57' 28.4\" \nwith an uncertainty of 1.9 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 5%.\n\nThe mask-weighted light curve shows an early peak centered at T-50 sec, coincident \nwith the Fermi/GBM trigger (Lesage, et al., GCN Circ. 25575).  This early peak \nshows more counts in the higher energy bands (> 50 keV) than is typical for a precursor.  \nThis was followed by the main peak of emission from T-5 to T+10 sec, peaking at the \ntrigger time.  Finally, there was a weak, hard peak between T+15 and T+20 sec.  \nT90 (15-350 keV) is 58.2 +- 8.9 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-51.9 to T+7.2 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.56 +- 0.21.  The fluence in the 15-150 keV band is 6.4 +- 0.7 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.01 sec in the 15-150 keV band\nis 18.0 +- 2.7 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/922968/BA/"
+}

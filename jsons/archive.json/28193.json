@@ -1,0 +1,9 @@
+{
+  "subject": "AX J1846.4-0258: Swift-BAT refined analysis",
+  "bibcode": "2020GCN.28193....1L",
+  "createdOn": 1596394805000,
+  "circularId": 28193,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "S. Laha (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), H. A. Krimm (NSF),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+722 sec from the recent telemetry\ndownlink, we report further analysis of the SGR-like burst from\nAX J1846.4-0258/PSR J1846-0258 (trigger #985320)\n(Krimm et al., GCN Circ. 28187).\nThe BAT ground-calculated position is\nRA, Dec = 281.633, -3.006 deg which is\n   RA(J2000)  =  18h 46m 32.0s\n   Dec(J2000) = -03d 00' 20.9\"\nwith an uncertainty of 2.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows a single pulse structure that\nstarts at ~T0, peaks at ~T+0.007 s, and ends at ~T+0.012.\nT90 (15-350 keV) is 0.012 +- 0.006 sec (estimated error including\nsystematics). The source went out of the BAT field of view at ~T+130 s.\n\nThe time-averaged spectrum from T+0.00 to T+0.012 sec fit by a simple\npower-law model shows the power law index of 3.05 +- 0.28\n(chi squared 50.60 for 57 d.o.f.). The fluence in the 15-150 keV band\nis 1.2 +- 0.2 x 10^-8 erg/cm2.\n\nA single blackbody fit to the time-averaged spectrum shows the blackbody\ntemperature of 6.31 +- 0.99 keV (chi squared 39.29 for 57 d.o.f.).\nA thermal bremsstrahlung model fit shows the temperature of\n24.18 +- 6.24 keV (chi squared 40.51 for 57 d.o.f.).\nAll the quoted errors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/985320/BA/"
+}

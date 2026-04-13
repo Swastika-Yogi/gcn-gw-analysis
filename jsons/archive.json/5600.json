@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060923C, Swift-BAT partial refined analysis",
+  "eventId": "GRB 060923C",
+  "bibcode": "2006GCN..5600....1B",
+  "createdOn": 1159051377000,
+  "circularId": 5600,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), L. Barbier (GSFC), J. Cummings (GSFC/UMBC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hullinger (BYU-Idaho),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing a partial data set from T-119 to T+183 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060923C (trigger #230711)\n(Stamatikos, et al., GCN Circ. 5591).  The BAT ground-calculated position\nis RA,Dec = 346.123, 3.963 deg {23h 4m 29.4s, 3d 57' 47.4\"} (J2000)\n+- 2.2 arcmin, (radius, sys+stat, 90% containment).  The partial coding was 17%.\n \nWith only a partial data set downlinked (there is a gap in the data\nbetween T+51 to +62 sec), the mask-weighted lightcurve has a single long\nemision from T+0 to T+110 sec.\n \nThe lower limit to the fluence in the 15-150 keV band is\n1.3 +- 0.2 x 10^-6 erg/cm2.  We repeat that there is an 11-sec gap\nin the data in the middle of this burst used for this analysis.\n\nWhen the full data set is downlinked, we will report the usual numbers."
+}

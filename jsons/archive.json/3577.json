@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050709: Swift UVOT and XRT observations",
+  "eventId": "GRB 050709",
+  "bibcode": "2005GCN..3577....1M",
+  "createdOn": 1121206174000,
+  "circularId": 3577,
+  "submitter": "Adam Morgan at PSU/Swift-UVOT  <qmorgan@gmail.com>",
+  "email": "qmorgan@gmail.com",
+  "body": "A. Morgan, D. Grupe, C. Gronwall, J. Racusin, A. Falcone (PSU), F. \nMarshall (GSFC), M. Chester (PSU), and N. Gehrels (GSFC) report on \nbehalf of the Swift UVOT and XRT teams:\n\nHETE detected GRB 050709 at 22:36:37 UT on 9 July 2005. (Butler et al., \nGCN 3570).  Swift executed a Target of Opportunity observation of the \nHETE position.  The Swift Ultra-Violet/Optical Telescope (UVOT) and \nX-Ray Telescope (XRT) began observations of GRB 050709 at UT 13:06:53 on \n11 July 2005, approximately 38.5 hrs after the HETE detection.\n\nWe detect no new source with either telescope within the 1.34' HETE \nerror circle.  In the V filter of the UVOT, we find the following 5 \nsigma and 3 sigma limiting magnitudes (in 6\" radius apertures measured \nat the HETE position):\n\nFilter    Lim_Mag      Lim_mag   Exposure time (s)   T_range (hr)\n          5sigma       3sigma\n\nV         21.08        21.64        17752            38.50 - 50.27\n\nFor XRT data, we assumed a typical spectrum.  We find the following 1 \nsigma and 3 sigma upper limits (in 50\" radius apertures measured at the \nHETE position):\n\nLim_Flux     Lim_Flux   Exposure time (s)   T_range (hr)\n1sigma       3sigma\n\n2e-14        6e-14         15243            38.50 - 50.27\n\nThe limiting flux is given in units of erg/s/cm^2.  T_range is the range \nfrom the HETE detection from the beginning of the first observation to \nthe end of the last.\n\nThe UVOT magnitudes are based on preliminary zero-points, measured in \norbit, and will require refinement with further calibration.\n\nThis message may be cited."
+}

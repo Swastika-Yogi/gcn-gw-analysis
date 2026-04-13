@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240107A: MAXI/GSC detection",
+  "eventId": "GRB 240107A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35495....1K",
+  "createdOn": 1704681478406,
+  "submitter": "Hitoshi Negoro at Nihon University/MAXI team <negoro.hitoshi@nihon-u.ac.jp>",
+  "circularId": 35495,
+  "body": "T. Kurihara (JAXA), H. Negoro, M. Nakajima, K. Kobayashi, M. Tanaka, Y. Soejima, Y. Kudo (Nihon U.),\nT. Mihara, T. Kawamuro, S. Yamada, T. Tamagawa, N. Kawai, M. Matsuoka (RIKEN),\nT. Sakamoto, M. Serino, S. Sugita, H. Hiramatsu, H. Nishikawa, A. Yoshida (AGU),\nY. Tsuboi, S. Urabe, S. Nawa, N. Nemoto, E.Goto (Chuo U.), M. Shidatsu, Y. Niida (Ehime U.),\nI. Takahashi, M. Niwano, S. Sato, N. Higuchi, Y. Yatsu (Tokyo Tech),\nS. Nakahira, S. Ueno, H. Tomida, M. Ishikawa, S. Ogawa (JAXA),\nY. Ueda, K. Setoguchi, T. Yoshitake, Y. Nakatani, Y. Okada (Kyoto U.),\nM. Yamauchi, Y. Hagiwara, Y. Umeki, Y. Otsuki (Miyazaki U.),\nK. Yamaoka (Nagoya U.), Y. Kawakubo (LSU), M. Sugizaki (NAOC), and W. Iwakiri (Chiba U.)\n\nThe MAXI/GSC nova alert system triggered on a bright uncatalogued X-ray transient source\nat 19:15:47 UT on January 7, 2023.\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (298.014 deg, -68.228 deg) = (19 52 03, -68 13 39) (J2000)\nwith a 90% C.L. statistical error of 0.41 deg and an additional systematic uncertainty of 0.1 deg\n(90% containment radius). The X-ray flux averaged over the scan was 114 +- 24 mCrab\n(4.0-10.0keV, 1 sigma error).\nWithout assumptions on the source constancy, we obtain a rectangular error\nbox for the transient source with the following corners:\n(R.A., Dec) = (296.278, -67.736) deg = (19 45 06, -67 44 09) (J2000)\n(R.A., Dec) = (296.022, -68.496) deg = (19 44 05, -68 29 45) (J2000)\n(R.A., Dec) = (303.762, -68.679) deg = (20 15 02, -68 40 44) (J2000)\n(R.A., Dec) = (303.766, -67.913) deg = (20 15 03, -67 54 46) (J2000)\nThere was no significant excess flux in the previous transit at 17:42 UT\nand in the next transit at 20:48 UT with an upper limit of 20 mCrab for each."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240807A: Fermi GBM Final Localization",
+  "eventId": "GRB 240807A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37089....1F",
+  "createdOn": 1723038458465,
+  "circularId": 37089,
+  "submitter": "Christian Malacaria at INAF-OAR <cmalacaria.astro@gmail.com>",
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely Short GRB.\n\nAt 05:42:45 UT on 7 Aug 2024, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 240807A (trigger 744702170 / 240807238). The on-ground calculated location, using the Fermi GBM trigger data, is RA = 346.2, Dec = -82.6 (J2000 degrees, equivalent to J2000 23h 04m, -82d 34'), with a statistical uncertainty of 7.1 degrees. The angle from the Fermi LAT boresight is 148.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240807238/quicklook/glg_skymap_all_bn240807238.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here: \nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240807238/quicklook/glg_healpix_all_bn240807238.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240807238/quicklook/glg_lc_medres34_bn240807238.gif"
+}

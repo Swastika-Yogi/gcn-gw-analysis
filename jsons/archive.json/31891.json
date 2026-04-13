@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220412A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 220412A",
+  "bibcode": "2022GCN.31891....1M",
+  "createdOn": 1649828144000,
+  "circularId": 31891,
+  "submitter": "Katsuhiro L. Murata at Nagoya U  <murata@u.phys.nagoya-u.ac.jp>",
+  "email": "murata@u.phys.nagoya-u.ac.jp",
+  "body": "K. L. Murata, M. Niwano, Y. Imai, N. Ito, Y. Takamatsu, S. Sato, R.\nHosokawa, M. Sasada, Y. Yatsu, and N. Kawai (Tokyo Tech) report on behalf\nof the MITSuME collaboration:\n\nWe observed the field of GRB 220412A (Klingler et al. GCN Circular #31881,\nWatson et al. GCN Circular #31882, Breeveld and Klingler et al. GCN\nCircular #31885, Evans et al. GCN Circular #31887, D'Ai et al. GCN Circular\n#31888) with the optical three color (g', Rc, and Ic) CCD cameras attached\nto the MITSuME 50 cm telescope Akeno. The observation with a series of 60\nsec exposures started at 2022-04-12 10:10:00 UT (214 minutes after the\nSwift/BAT trigger). We stacked the images with good conditions. We did not\ndetect any uncatalogued sources within the enhanced XRT error region (Evans\net al. GCN Circular #31887). We obtained the 5-sigma limits of the stacked\nimages as follows.\n\nT0+[min] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n214 2022-04-12 10:53:37 3960 g'>19.0, Rc>19.3, Ic>18.8\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used the PS1 catalog for flux calibration. The magnitudes are expressed\nin the AB system. The images were processed in real-time through the\nMITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1,\nPages 4-24; https://github.com/MNiwano/Eclaire)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090107B: Swift/UVOT Observations",
+  "eventId": "GRB 090107B",
+  "bibcode": "2009GCN..8790....1M",
+  "createdOn": 1231364516000,
+  "circularId": 8790,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC)\nreports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 090107B starting 4396 s after\nthe INTEGRAL trigger (Gotz et al., GCN Circ. 8786). No optical afterglow\nis detected in the initial UVOT exposures at the position\nof the candidate X-ray afterglow (Perri et al., GCN Circ. 8789).\nThere is also no obvious optical afterglow candidate\nelsewhere in the INTEGRAL error circle.\n\nThe 3-sigma upper limits in the UVOT photometric system \n(Poole et al. 2008, MNRAS, 383, 627) for detecting\na source at the position of the XRT candidate are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)       Mag \n\nwhite             5420         5535          113        >20.9\nv                 4396         4595          197        >19.6\nb                 5216         5415          197        >20.3\nu                 5010         5209          197        >20.1\nuvw1              4806         5005          197        >20.3\nuvm2              4600         4799          197        >20.3\nuvw2              4191         4390          197        >20.6\n\nThe values quoted above are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.046 in the direction of the burst \n(Schlegel et al. 1998)."
+}

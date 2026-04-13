@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050509b: Swift/UVOT follow-up measurements",
+  "eventId": "GRB 050509B",
+  "bibcode": "2005GCN..3412....1B",
+  "createdOn": 1115832342000,
+  "circularId": 3412,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. Breeveld (MSSL), T. Poole (MSSL), E. Rol(LU),\nM. Ivanushkina (PSU), S. Rosen (MSSL), M. Still (GSFC),\nP. Roming (PSU), N. Gehrels (GSFC), K. Mason (MSSL),\nJ. Nousek (PSU), on behalf of the Swift UVOT team\n\nFurther to the initial Swift UVOT results (C. Hurkett\net al. GCN 3381 and A. Breeveld et al. GCN 3397) we report\nthe results of co-added, deeper exposures of GRB 050509b\nwith the Swift Ultra-Violet/Optical Telescope (UVOT) in\nthe 21 hours following the burst on May 09-10, 2005.\n\nWe detect no source at the refined XRT determined\nlocation (12:36:13.9,28:59:01; E. Rol et al., GCN 3395)\nnor in the location of the extended source S1 (12:36:13.7,\n28:58:57.3; S. Bradley Cenko et al. GCN 3391) in any of\nthe UVOT filters. The 3-sigma limiting magnitudes are\nlisted in the following table for the XRT position\n(XRT_Lim_Mag) and the S1 position (S1_Lim_Mag). A 6\"\naperture was used in all cases.\n\nFilter  XRT_Lim_Mag   S1_Lim_Mag  Total Exp (s) T_range (s)\n\nV\t21.1         21.1         5213          50 - 71553\nB\t21.8         21.8         4696          196 - 69818\nU\t21.8         21.8         5070          182 - 76713\nUVW1\t22.3         22.2         6491          169 - 76511\nUVM2\t22.2         22.2         6493          154 - 75603\nUVW2\t22.7         22.6         5596          212 - 70726\n\nT_range values are start and stop times between which UVOT\nexposures were made, measured w.r.t the BAT trigger time\n(Barthelmy et al. GCN 3385).\n\nThe magnitudes are based on preliminary zero-points,\nmeasured in orbit, and will require refinement with further\ncalibration."
+}

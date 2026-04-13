@@ -1,0 +1,14 @@
+{
+  "editedOn": 1757942353297,
+  "subject": "GRB 250912A: SVOM/GRM analysis suggests a possible short GRB with extended emission",
+  "version": 2,
+  "eventId": "GRB 250912A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41826....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 41826,
+  "createdOn": 1757787433853,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Hui Yang, Jean-Luc Atteia (IRAP), Stéphane Schanne (CEA)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM detected the burst GRB 250912A at 2025-09-12T21:06:23.700 UTC (T0), which is also detected by SVOM/ECLAIRs (Jean-Grégoire Ducoin et al., GCN #41820) and Fermi/GBM (Fermi GBM team, GCN #41819)\n\nWith the event-by-event data downloaded through the X-band ground station, we conducted the standard analysis pipeline of GRB 250912A. The GRM light curve shows that this burst consists of a hard pulse followed by extended emission with a T90 of 13.0 +6.5/-2.0 s in the 15-5000 keV band, and there is a weak precursor-like signal at about T0-10 s, which is also clearly detected by ECLAIRs. \n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250912A.png\n\nWith the localization of ECLAIRs (RA= 14.953, DEC= 11.137), the time-averaged spectrum from T0-1 to T0+16 s can be fitted by a power law function with an exponential high-energy cutoff adequately. The power law index is -1.15 +0.19/- 0.15 and the cutoff energy, parameterized as Epeak, is 520 +692/-203 keV. The event fluence (10-1000 keV) in this time interval is (3.01 +0.40/- 0.44)E-06 erg/cm^2. Thus GRB 250912A is consistent with Type I GRBs in the 'Amati' relation diagram, as shown at:\nhttps://www.bursthub.cn//admin/static/svgrb250912A_amati.png\n\nBased on the location of this GRB in 'Amati' relation diagram, as well as the shape of the light curve, a possible merger origin is suggested. Follow-up observations are encouraged.\n\nWe note that the calibration of SVOM/GRM is undergoing thus these results are preliminary. Refined analysis will be reported later.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Chen-Wei Wang (IHEP) (cwwang@ihep.ac.cn)\n"
+}

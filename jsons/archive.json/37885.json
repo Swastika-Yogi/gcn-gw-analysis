@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 241022A (short/hard) ",
+  "eventId": "GRB 241022A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37885....1K",
+  "createdOn": 1729885681168,
+  "circularId": 37885,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 241022A was detected by\nKonus-Wind, INTEGRAL (SPI-ACS), Swift (BAT),\nand Mars-Odyssey (HEND) at about 79703 s UT (22:08:23).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n    0.480 (00h 01m 55s) +31.665 (+31d 39' 53\")\n Corners:\n    1.971 (00h 07m 53s) +29.734 (+29d 44' 02\")\n  359.012 (23h 56m 03s) +33.596 (+33d 35' 47\")\n  359.001 (23h 56m 00s) +33.460 (+33d 27' 35\")\n    1.968 (00h 07m 52s) +29.579 (+29d 34' 43\")\n ---------------------------------------------\nThe error box area is 1401 sq. arcmin, and its maximum\ndimension is 4.74 deg (the minimum one is 5 arcmin).\nThe Sun distance was 146 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241022_T79706/IPN/\nThe HEALPix triangulation maps are in units of probability density. "
+}

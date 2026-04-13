@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 090929A",
+  "eventId": "GRB 090929A",
+  "bibcode": "2009GCN..9976....1G",
+  "createdOn": 1254327413000,
+  "circularId": 9976,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the \nKonus-Wind team, report:\n\nThe bright GRB 090929A (Fermi-GBM trigger trigger 275891585:\nRau, GCN 9962) localized by Swift-BAT (Cummings and Krimm, GCN 9966)\ntriggered Konus-Wind at T0=16387.790 s UT (04:33:07.790).\n\nAs observed by Konus-Wind the burst\nhad a fluence of 1.32(-0.24, +0.23)x10^-5 erg/cm2,\nand a 16-ms peak flux measured from T0+0.736 s\nof 2.04(-0.61, +0.60)x10^-5 erg/cm2/s\n(both in the 20 keV - 3 MeV energy range).\n\nThe time-integrated spectrum of the burst (from T0 to T0+8.448 s)\nis well fitted (in the 20 keV - 3 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep), with\nalpha = -0.47(-0.22, +0.25),  and\nEp = 574(-100, +151) keV (chi2 = 66.2/65 dof).\nFitting by GRB (Band) model yields:\nthe low-energy photon index alpha = -0.36(-0.29, +0.62),\nthe high energy photon index beta = -2.16(-1.41, +0.43),\nthe peak energy Ep = 494(-191, +175) keV (chi2 = 62.1/64 dof).\n\nThese values are consistent with the Konus-RF results (Golenetskii et \nal., GCN 9968).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.ru/LEA/GRBs/GRB090929_T16384/"
+}

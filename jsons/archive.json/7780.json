@@ -1,0 +1,9 @@
+{
+  "subject": "Swift analysis of BAT Slew Survey event (Trigger=009)",
+  "bibcode": "2008GCN..7780....1T",
+  "createdOn": 1212360466000,
+  "circularId": 7780,
+  "submitter": "Eleonora Troja at INAF-IASFPA  <nora@ifc.inaf.it>",
+  "email": "nora@ifc.inaf.it",
+  "body": "E. Troja (U.  Leicester/INAF-IASFPA), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), A. Copete (Harvard),\nJ. Grindlay (Harvard), P. Evans (U. Leicester)\nreport:\n\nAt 01:17:20 UT on 2008-05-31, BAT detected a source during a spacecraft\nslewing interval (when normal BAT triggering is disabled). This event\n(ID_Num=009) was detected using the BAT Slew Survey (BATSS) method and\nclassified it as 'Silver plated' -- highly likely to be a GRB. The\nlocation is\n   RA(J2000) = 22h 53m 24s\n  Dec(J2000) = +54d 57' 00\"\nwith an uncertainty of 7.7 arcmin.\nThis was initially distributed as a GCN/BAT_SLEW_POS Notice at 13:53 UT,\n12.6 hrs after the slew.\nThe Swift BAT team performed a further analysis of the event data during\nthis slew. No sign of a source was found at the BATSS position with a\n3 sigma upper limit of 0.10 cts/s.\n\nA  2 ks ToO observation of the location started at 15:42 UT, 14.4 hrs\nafter the slew. The XRT observation (Photon Counting mode) detected\nan X-ray source with a count rate of 0.04 cts/s. Its position is\n\n   RA(J2000) = 22h 53m 08.54s\n  Dec(J2000) = +55d 04m 34.0s\n\nwith an uncertainty of 4.6 arcsec (90% confidence). This is at the edge\nof the BATSS error circle. This source shows no indication of fading over\nthe 2 ks interval.\n\nWe therefore conclude that this event is not a GRB and that the source\nfound by XRT is an unassociated field object."
+}

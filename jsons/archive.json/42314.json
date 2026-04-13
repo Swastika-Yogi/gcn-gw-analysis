@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251016A: BOOTES-6/DPRT optical upper limit",
+  "eventId": "GRB 251016A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42314....1P",
+  "createdOn": 1760649192822,
+  "submitter": "I. Perez-Garcia at Institute of Astrophysics of Andalusia <ipg@iaa.es>",
+  "circularId": 42314,
+  "format": "text/markdown",
+  "body": "I. Perez-Garcia, E. Fernandez-Garcia, M.D. Caballero-Garcia, R. Sanchez-Ramirez, S.-Y. Wu, S. Guziy and A. J. Castro-Tirado (IAA-CSIC, Granada), P. J. Meintjes and H. J. van Heerden (UFS, South Africa), A. Martin-Carrillo and L. Hanlon (UCD, Ireland), M. Gritsevich (Univ. of Helsinki), M. Jelinek (ASU-CAS), A. Kumar (ARIES) and C. J. Perez del Pulgar (UMA, Malaga), on behalf of a larger collaboration, report:\n\nFollowing the detection of GRB 251016A by Fermi/GBM (Smith et al., GCN 42309) and SVOM/ECLAIRs (Basa et al., GCN 42308), the BOOTES-6/DPRT 0.6m robotic telescope at Boyden Observatory in Maselspoort (South Africa) responded to this event starting on Oct 16, 17:35 UT (~ 2.6 h after trigger) with 60s images. No new source is detected within the Swift/XRT X-ray afterglow Source 1 position (Evans et al., GCN 42311) up to magnitude 17.14 using Gaia DR3 Gmag magnitude as reference on our first image. Further images were gathered and using ATLAS REFCAT2 as reference (Tonry et al. 2018) we get an upper limit of:\n\n| UT  mid exposure    | Mag limit | Filter | Exp time (sec) |\n| ------------------- | --------- | ------ | -------------- |\n| 2025-10-16 18:05:07 | 19.3      | clear  | 60x7           |\n| 2025-10-16 18:37:07 | 17.6      | Z      | 60x4           |\n| 2025-10-16 18:43:02 | 19.1      | g      | 60x4           |\n| 2025-10-16 19:05:30 | 18.7      | r      | 60x3           |\n| 2025-10-16 19:10:38 | 18.3      | i      | 60x4           |\n\nWe thank the staff at Boyden Observatory for their excellent support."
+}

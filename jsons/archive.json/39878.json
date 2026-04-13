@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250327A: COLIBRÍ optical upper limit",
+  "eventId": "GRB 250327A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39878....1D",
+  "createdOn": 1743076755178,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "circularId": 39878,
+  "format": "text/plain",
+  "body": "Jean-Grégoire Ducoin (CPPM), Benjamin Schneider (LAM), Antonio de Ugarte Postigo (LAM), Rosa L. Becerra (U Roma), Stéphane Basa (LAM), William H. Lee (UNAM), Dalya Akl (AUS), Camila Angulo (UNAM), Sarah Antier (OCA), Jean-Luc Atteia (IRAP), Nathaniel R. Butler (ASU), Damien Dornic (CPPM), Francis Fortin (IRAP), Ramandeep Gill (UNAM), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Margarita Pereyra (UNAM) and Ny Avo Rakotondrainibe (LAM) report:\n\nWe observed the field of the Swift/BAT GRB 250327A (Parsotan et al., GCN 39877) also detected by Fermi/GBM (Fermi GBM Team, GCN 39876) with the DDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico. We obtained 23 minutes of exposure in the i filter from 2025-03-27 07:50 to 08:34 UTC (20.5 to 64.1 minutes after the trigger). \n\nWithin the Swift/BAT localization, we do not detect any credible uncatalogued source to a 5-sigma limiting magnitude of:\n\ni > 22.9 mag (AB)\n\nWe also performed an image subtraction using HOTPANTS and the PanSTARRS i-band image as a reference, which did not reveal any credible residuals.\n\nThe data were coadded with the COLIBRI pipeline and analysed in STDWeb/STDPipe (Karpov 2021). The photometric calibration was performed using nearby stars from the Pan-STARRS DR1 catalog and the magnitude is not corrected for Galactic extinction.\n\nFurther observations are ongoing.\n\nWe acknowledge the excellent support from the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir."
+}

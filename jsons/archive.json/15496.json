@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131117A: Swift/UVOT Detection",
+  "eventId": "GRB 131117A",
+  "bibcode": "2013GCN.15496....1B",
+  "createdOn": 1384700245000,
+  "circularId": 15496,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and M. J. Page (UCL-MSSL) report on behalf of \nthe Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 131117A \n70s after the BAT trigger (Page et al., GCN Circ. 15490).\nA fading source consistent with the afterglow position found by Trotter \net al. (GCN Circ. 15491) is found in the white filter only. This is \nconsistent with the redshift of z=4.042 given by Hartoog et al. (GCN \nCirc. 15494).\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  22:09:19.36 = 332.33067 (deg.)\n     Dec (J2000) = -31:45:44.3  = -31.76231 (deg.)\nwith an estimated uncertainty of 0.64 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               70          219          147         20.13 � 0.17\nv                  611         5157          216        >20.0\nb                  537         4542          216        >20.6\nu                  282         4336          442        >20.7\nw1                 660         5567          216        >20.4\nm2                 636         5362          216        >20.0\nw2                 587         4952          216        >20.5\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.02 in the direction of the \nburst (Schlegel et al. 1998)."
+}

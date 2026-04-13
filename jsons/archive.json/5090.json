@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060507: Swift-BAT Refined Analysis",
+  "eventId": "GRB 060507",
+  "bibcode": "2006GCN..5090....1T",
+  "createdOn": 1147056597000,
+  "circularId": 5090,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), M. Koss (UMD),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\non behalf of the Swift-BAT team:\n\nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060507 (trigger #208870)\n(Barbier, et al., GCN 5089).  The BAT ground-calculated position is\nRA,Dec = 89.935,+75.243 deg {5h 59m 44.3s,+75d 14' 36.1\"} (J2000)\n+- 5.0 arcmin, (radius, sys+stat, 90% containment).  The partial coding\nwas 33%.\n\nThe light curve shows an initial peak with a long decay, followed by\na series of smaller peaks between T+100 and T+200 seconds.\nCurrently, there are four gaps in the telemetry downlinked data\nwhich prevent us from analyzing this burst between T-42 to T-10.3 sec,\nT+78.4 to T+80.6, T+88.7 to T+98.6, and T+167.4 to T+170.6 sec.\nT90 (15-350 keV) is 185 +- 5 sec (estimated error including systematics).\nThe very long duration and absence of short timescale spikes in the\nlightcurve could be indicative of a high redshift event.\n\nThe time-averaged spectrum from T-10 to T+192 (minus the gaps listed above)\nis best fit by a simple power-law model.  The power law index of the\ntime-averaged spectrum is 1.83 +- 0.09.  Because of the data gaps,\nthe lower limit on the fluence in the 15-150 keV band is\n4.1 +- 0.2 x 10^-6 erg/cm2.  The 1-sec peak photon flux measured from\nT+1.24 sec in the 15-150 keV band is 1.3 +- 0.2 ph/cm2/sec.  All the quoted\nerrors are at the 90% confidence level."
+}

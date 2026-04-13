@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050721A: Early Swift XRT analysis results",
+  "eventId": "GRB 050721A",
+  "bibcode": "2005GCN..3659....1R",
+  "createdOn": 1121941527000,
+  "circularId": 3659,
+  "submitter": "Pat Romano at OAB-Swift  <romano@merate.mi.astro.it>",
+  "email": "romano@merate.mi.astro.it",
+  "body": "P. Romano (INAF-OAB), L.A. Antonelli (INAF-OAR), G. Chincarini, A. \nMoretti, G. Tagliaferri (INAF-OAB), K. Page (U. Leicester), F. Marshall \n(GSFC), P. Boyd (GSFC-UMBC) on behalf of the Swift-XRT team:\n\nWe have analyzed the Swift XRT data from the first orbit observation of \nGRB 050721A (Antonelli et al., GCN 3654). The new refined coordinates are:\n\nRA(J2000) = 16h 53m 44.9s Dec(J2000) = -28 22 51.7\n\nThis position is 41 arcseconds from the BAT position given in GCN 3654. \nWe estimate an uncertainty of 6 arcseconds radius (90% containment).\n\nA preliminary spectral fit (simple absorbed power-law) to the combined \nPC and WT data yields a photon index of 1.7+/-0.1 in the [0.5-10] keV \nband. The derived NH is 3.16E21 cm^-2, which is higher than the Galactic \nvalue (1.57E21 cm^-2; Dickey & Lockman 1990). The average (194-323 \nseconds from trigger for WT and 324-463 seconds from trigger for PC) \nestimated unabsorbed 0.5-10 keV flux is then 3.5E-10 ergs/s/cm^2.\n\nThe light curves in Windowed Timing (WT) and Photon Counting (PC) mode \nstart 194 and 324 seconds from the BAT trigger (T0), and they show a \nfading afterglow with a preliminary decay slope -1.99+/-0.07 (first \norbit only). The unabsorbed 0.5-10.0 keV flux at 1 hour after the burst \nis estimated to be 5E-12 ergs/s/cm^2."
+}

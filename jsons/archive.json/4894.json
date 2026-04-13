@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060319: Swift/UVOT upper limits",
+  "eventId": "GRB 060319",
+  "bibcode": "2006GCN..4894....1B",
+  "createdOn": 1142757274000,
+  "circularId": 4894,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), H. Ziaeepour (UCL-MSSL), F. E. Marshall\n(NASA/GSFC) on behalf of the Swift/UVOT team\n\nThe Swift/UVOT began taking data on the field of GRB060319 at\n00:58:02 on 2006-03-19, 139 s after the BAT trigger (Ziaeepour et\nal., GCN 4885). In the initial 100 s White filter image no new\nsource is detected at the XRT position (Kennea et al., GCN 4886)\ndown to a 3-sigma magnitude upper limit of 20.6. No source is\ndetected in summed images from any of the filters down to the\nfollowing 3-sigma upper limits.\n\nFilter  T_range(s) Exp(s) 3sigUL(mag)\nV       500-2150   544    19.9\nB       448-2102   128    20.2\nU       423-2078   158    20.0\nUVW1    400-2054   178    19.8\nUVM2    245-2030   308    19.9\nUVW2    476-2141   158    20.2\nWhite   139-2116   276    20.7\n\nThese magnitudes are not corrected for Galactic extinction;\nE(B-V)=0.022."
+}

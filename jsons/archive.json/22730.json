@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180510A: MITSuME Ishigakijima optical upper limits",
+  "eventId": "GRB 180510A",
+  "bibcode": "2018GCN.22730....1H",
+  "createdOn": 1526346157000,
+  "circularId": 22730,
+  "submitter": "Ryosuke Itoh at Tokyo Institute of Tech.  <itoh@hp.phys.titech.ac.jp>",
+  "email": "itoh@hp.phys.titech.ac.jp",
+  "body": "T. Horiuchi,  H. Hanayama, M. Honma (IAO, NAOJ),\nR. Itoh, K. L. Murata and N. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME and OISTER collaboration:\n\nWe observed the field of GRB 180510A (Gropp et al.,GCN 22695)\nwith the optical three color (g', Rc and Ic) CCD camera attached\nto the Murikabushi 1m telescope of Ishigakijima Astronomical\nObservatory.\n\nThe observation started on 2018-05-10 19:29:21 UT, (287 seconds after\nthe burst).\nNo new or fading source is detected within the Swift-XRT error circle.\n\nWe note that there is faint (~20mag) source detected in DSS images within\nXRT error circle (at 18:25:19.2, -31:54:22.7) but the source did not\nshows temporal variability during observation (~45 min).\n\nwe derive the following upper limits using\nUCAC-4 catalog for flux calibration.\n\n#T0+[sec]  MID-UT    T-EXP[sec] g'   Rc   Ic\n-------------------------------------------------------------------\n287 19:55:17 2700.0 >19.4 >20.4 >20.2\n-------------------------------------------------------------------\nT0+ : Elapsed time after the burst [hour]\nT-EXP: Total Exposure time [sec]"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "HETE Trigger 4043: ROTSE-III Optical Limits",
+  "bibcode": "2006GCN..4940....1R",
+  "createdOn": 1143831730000,
+  "circularId": 4940,
+  "submitter": "Eli Rykoff at U of Michigan/ROTSE  <erykoff@umich.edu>",
+  "email": "erykoff@umich.edu",
+  "body": "E.S. Rykoff (U Mich), S.A. Yost (U Mich), H. Swan (U Mich), report on \nbehalf of the ROTSE collaboration:\n\nROTSE-IIIa, located at Siding Spring Observatory, Australia, responded\nto HETE Trigger #6063 (Fenimore, et al, GCN 4938), producing images \nbeginning 7.2 s after the GCN notice time. An automated response took \nthe first image at 15:32:47.2 UT, 31864 s after the burst, under fair \nconditions. We took 10 5-sec, 10 20-sec and 80+ 60-sec eposures. These \nunfiltered images are calibrated relative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the \nWXM error box described in GCN 4938.  Individual images have limiting \nmagnitudes ranging from 15.8-17.2; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n15:32:47.2     15:36:3.1      50       17.2    31864           Y\n15:42:14.3     15:53:53.9     600      18.0    33131           Y"
+}

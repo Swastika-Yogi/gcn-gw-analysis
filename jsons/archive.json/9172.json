@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090419: Swift-XRT refined analysis",
+  "eventId": "GRB 090419",
+  "bibcode": "2009GCN..9172....1S",
+  "createdOn": 1240240773000,
+  "circularId": 9172,
+  "submitter": "Matteo Perri at ISAC/ASDC  <perri@asdc.asi.it>",
+  "email": "perri@asdc.asi.it",
+  "body": "G. Stratta and M. Perri (ASDC) report on behalf of the\nSwift-XRT Team:\n\nWe have analysed the first 4 orbits of Swift-XRT data obtained from\nGRB 090419 (trigger 349592; Stratta, et al., GCN Circ. 9161),\nfrom T+128 s to T+271 s in Windowed Timing (WT) mode and from\nT+303 s to T+4.9 h in Photon Counting (PC) mode.\n\nThe best position of the X-ray afterglow is the UVOT enhanced XRT\nposition given in Osborne et al. (GCN Circ. 9164).\n\nThe 0.3-10 keV X-ray light curve shows an initial flaring activity\nsuperimposed to a constant continuum at a level of ~5 counts/s\nup to ~520 s after the trigger that is consistent with being\nthe X-ray tail of the BAT data (GCN Circ. 9167, Krimm et al.) during\nthe prompt emission.\n\nStarting from 520 s up to 1200 s the count rate decays as\na power law with alpha1=3.5+/-0.5 and from T+1200\nto T+12 ks it features a flattening with index alpha2=1.1+/-0.2.\nIf decaying at this rate, the afterglow will reach a count-rate of\n1.3(0.6)E-3 counts/s at T+24(48)h.\n\nThe average WT spectrum (corresponding to the initial flat decay phase)\ncan be fitted by an absorbed power-law model (reduced chi square 1.0 with\n18 degrees of freedom), with photon index 1.3+/-0.3, and equivalent\nhydrogen column density NH=(1.1+/-0.6)E22 cm-2 in excess with\nrespect to the Galactic absorption value of 1.2E21 cm-2 (Kalberla et al.\n2005). The average observed(unabsorbed) flux in the 0.3-10 keV band is\n4.2(5.4)E-10 ergs cm-2 s-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00349510.\n\nThis circular is an official product of the Swift-XRT team."
+}

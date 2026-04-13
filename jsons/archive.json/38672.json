@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241029A: LCO optical observation",
+  "eventId": "GRB 241029A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38672....1G",
+  "createdOn": 1735221651926,
+  "circularId": 38672,
+  "submitter": "ankur ghosh at CAPP, University of Johannesburg <ghosh.ankur1994@gmail.com>",
+  "format": "text/markdown",
+  "body": "Ankur Ghosh, Soebur Razzaque (CAPP, University of Johannesburg), Navin Dukiya (ARIES), Alexander Moskvitin (SAO RAS), Yulia Sotnikova (SAO RAS) on behalf of a larger collaboration.\n\nWe observed the field of the GRB 241029A (The Fermi GBM team, GCN 37932; Schanne et. al, GCN 37934; Wang et. al, GCN 37935; Evans, GCN 37936) using r filter of the 1-meter Sinistro telescope and B filter of the 0.4-m SCICAM QHY600 at the Las Cumbres Observatory Global Telescope (LCOGT) node located at South African Astronomical Observatory (SAAO) Sutherland observatory. The 1-m Sinistro telescope is equipped with a 4K x 4K CCD (FOV: 26 x 26 arcmin, scale: 0.39 arcsec/pixel) and the 0.4 m SCICAM QHY600 is equipped with 9576 x 6388 pixel CCD (FOV: 1.9 x 1.2 degrees, scale: 0.74 arcsec/pixel).\n\nObservations began on October 30 2024, starting from 22.30 hours after the trigger of GRB 241029A. We clearly detect the optical transient (OT) reported by GCNs (Jiang et. al, GCN 37937; Lin et. al, GCN 37939; Jiang et. al, GCN 37940; C.Francile et. al, GCN 37941; Ackley et. al, GCN 37943; Odeh et. al, GCN 37944; Myers et. al, GCN 37945; Bernardini et. al, GCN 37946; Adami et. al, GCN 37948; Fernandez et. al, GCN 37950; Moskvitin et. al, GCN 37954; Saikia et. al, GCN 37961; Qiu et. al, GCN 37994; Izzo, GCN 38006; Watson et. al, GCN 38009; Dafcikova et. al, GCN 38048, Pankov et. al, GCN 38669) in our stacked images. Our detection is well consistent with the observation reported at the similar epoch by Watson et. al, GCN 38009.\n\ndateobs    jd           t-t0 (hrs) mag     dmag   telescope filter\n2024-10-30 2460613.52658 22.30     21.9422 0.2573 0m4-76    B \n2024-10-30 2460613.99240 33.48     22.1959 0.0399 1m0-11    r \n \n\nThe field was calibrated against nearby APASS stars, with magnitudes converted using Lupton (2005) equations, and has not been corrected for Galactic extinction."
+}

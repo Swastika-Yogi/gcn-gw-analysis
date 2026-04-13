@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100322B or possible Galactic transient detected in ground analysis of BAT data",
+  "eventId": "GRB 100322B",
+  "bibcode": "2010GCN.10542....1C",
+  "createdOn": 1269306654000,
+  "circularId": 10542,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\non behalf of the Swift team\n\nAt 7:06:18 on March 22, 2010, Swift-BAT detected a rate increase\n(trigger #416771).  No source was detected onboard. A source was\ndetected in ground analysis at RA, Dec 76.489, +42.685, which is:\n\nRA (J2000)   05h 05m 57.4s\nDEC (J2000)  +42d 41'07\"\n\nwith an estimated uncertainty of 4 arcmin (radius, 90% containment).\nThe source is 1 degree from the Galactic plane, and was 70% coded in\nthe BAT field of view.\n\nThe burst was short, consisting of a single peak with T90 of about\n1.5 sec, and weak. The spectrum is best fit by a simple powerlaw with\na photon index of 1.6 +- 0.3.  The fluence from 15-150 keV was\n5 +- 3 e-08 ergs/cm2.\n\nWhile the burst duration and location near the galactic plane are\nsuggestive of a thermonuclear X-ray burst from a galactic neutron star\nX-ray binary, the BAT spectrum argues against that interpretation.\nThere are about 360 square degrees within 1 degree of the galactic\nplane, or ~1% of the entire sky.  Thus, it is certainly plausible for\nthis burst to be a cosmological GRB.\n\nBecause no source was detected onboard, there are no automated data\nproducts.  A Swift TOO has been requested."
+}

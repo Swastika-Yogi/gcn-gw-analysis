@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 070724B",
+  "eventId": "GRB 070724B",
+  "bibcode": "2007GCN..6671....1G",
+  "createdOn": 1185463951000,
+  "circularId": 6671,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long soft GRB 070724B localized by SuperAGILE (Feroci et al., GCN \n6668), triggered Konus-Wind at T0=84307.346 s UT (23:25:07.346).\n\nThe Konus-Wind light curve shows the main multipeaked pulse\nwith a total duration of ~50 s followed by a weak pulse\nat T-T0 ~102 sec with a duration of ~10 s.\nAs observed by Konus-Wind the burst\nhad a fluence of 1.80(-0.25, +0.04)x10^-5 erg/cm2,\nand a 64-ms peak flux measured from T0+29.744 s\n2.17(-0.45, +0.34)x10^-6 erg/cm2/s\n(both in the 20 - 500 keV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+49.408 s) can be fitted (in the 20 - 500 keV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 1.15 +/- 0.13\nand Ep = 82 +/- 5 keV (chi2 = 40/42 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB070724_T84307/"
+}

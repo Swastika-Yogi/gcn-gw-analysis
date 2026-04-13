@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230802A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 230802A",
+  "submittedHow": "email",
+  "bibcode": "2023GCN.34329....1L",
+  "createdOn": 1691071166477,
+  "submitter": "Sam LaPorte at PSU <sjl5346@psu.edu>",
+  "circularId": 34329,
+  "body": "GRB 230802A: Swift/UVOT Upper Limits\n\nS. J. LaPorte (PSU) and N. J. Klingler (GSFC/UMBC/CRESSTII)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 230802A\n73 s after the BAT trigger (Klingler et al., GCN Circ. 34313).\nNo optical afterglow consistent with the XRT position\n(Evans et al., GCN Circ. 34317)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            73          223          147         >20.0\nu_FC               286          535          246         >19.5\nwhite               73         1186          353         >20.5\nv                  615         1581          117         >18.4\nb                  541         1506           97         >19.2\nu                  286         5048          492         >19.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.614 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

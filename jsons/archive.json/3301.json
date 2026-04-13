@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050421: early Swift XRT analysis results",
+  "eventId": "GRB 050421",
+  "bibcode": "2005GCN..3301....1G",
+  "createdOn": 1114081157000,
+  "circularId": 3301,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "O. Godet, M. Goad, K. Page, J. Osborne (U. Leicester), D. N. Burrows (PSU),\nN. Gehrels (NASA/GSFC) report on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first orbit observation of GRB\n050421. The refined coordinates are:\n\nRA(J2000) = 20h 29m 01.75s\nDec(J2000) = +73d 39' 17.4\"\n\nThis position is 40 arcseconds from the BAT position given in GCN 3296\n(Barbier et al 2005). We estimate a total uncertainty of 5 arcseconds radius\n(90% containment).  We note that this refined position is 8.1 arcseconds \nfrom the XRT position reported in GCN 3296.  Optical observers should \nre-check their images for sources in the new error circle.\n\nOur 0.2-10 keV light curve covers the interval 116-591 sec after the BAT\ntrigger. It is well-fit with a broken powerlaw with initial slope of 0.9\n+1.1/-1.6 breaking to a steeper slope of 3.3 +0.6/-0.3 after 147 +/-10 sec.\nAll errors are 90% confidence. A single power law decline is not a good\nfit to the data.\n\nA preliminary spectral fit to the WT mode data gives a power law photon index\nof 1.23 +0.37/-0.34 (error at 90% confidence level) in the 0.3-10 keV band,\nassuming Galactic absorption (1.44 E21 cm^-2) and a possible excess in the\nabsorption of 6 +4/-3 E21 cm^-2.  The unabsorbed 0.3-10 keV flux is 8.5E-10\nerg cm^-2 s^-1 in the interval 116-171 sec after the BAT trigger."
+}

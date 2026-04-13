@@ -1,0 +1,10 @@
+{
+  "subject": "GRB000926: X-ray afterglow by BeppoSAX: revised fluxes (fwd)",
+  "eventId": "GRB 000926",
+  "bibcode": "2000GCN...833....1P",
+  "createdOn": 970843833000,
+  "circularId": 833,
+  "submitter": "Luigi Piro at IAS/CNR Frascati  <piro@ias.rm.cnr.it>",
+  "email": "piro@ias.rm.cnr.it",
+  "body": "L. Piro (BeppoSAX Mission Scientist, IAS/CNR Roma) & L. A. Antonelli (OaR)\nreport on behalf of the BeppoSAX team:\n\n\nWe have found an error in the application of a conversion factor which\nunderestimates the fluxes distributed in GCN n.832\n\nThe correct value of the average flux (at T=29.25) is\n\n F(1.6-10 keV)= (2.6+\\-0.6) 10^-13 erg/cm2/s\n\nWe have also carefully checked different background subtraction methods,\nfinding that the corresponding systematic effect amouts to less than about\n15%. This has been included in the flux error quoted above.\n\nAll the other results on the fading behaviour and on the spectral\nshape presented in GCN 832 remain unaffected."
+}

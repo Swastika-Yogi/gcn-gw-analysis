@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170127C (short/hard GRB with extended emission)",
+  "eventId": "GRB 170127C",
+  "bibcode": "2017GCN.20567....1F",
+  "createdOn": 1485706514000,
+  "circularId": 20567,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short/hard GRB 170127C (Fermi-GBM detection: Bissaldi et al.,\nGCN 20543; Fermi-LAT detection: Moretti et al., GCN 20544;\nAGILE analysis: Ursi et al., GCN 20545;\nAstroSat CZTI Sharma:  Verrecchia et al., GCN 20561;\nPOLAR observation: Marcinkowski et al., GCN 20563)\ntriggered Konus-Wind at T0=5744.660 s UT (01:35:44.660).\n\nThe light curve shows a bright, hard initial pulse with a\nduration of ~0.170 ms, followed, after a short period of quiescence,\nby a weaker and softer emission episode lasing for ~16 s.\nEven more weaker and softer emission is traced in the KW light curve\nup to ~T0+90 s.\nThe emission in the initial pulse is seen up to ~5 MeV.\n\nAs observed by Konus-Wind, the burst had a total fluence of\n1.62(-0.25, +0.49)x10^-5 erg/cm2 and a 16-ms peak energy flux,\nmeasured from T0, of (1.1 �� 0.1)x10^-4 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the initial pulse\n(measured from T0 to T0+0.192 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.01 (-0.14,+0.16), Ep = 887 (-88,+90) keV,\nchi2 = 46/55 dof.\n\nThe time-averaged spectrum of the extended emission\n(measured from T0+0.256 to T0+16.640 s)\nis best fit in the 20 keV - 15 MeV range\nby the CPL model with alpha = -1.19 (-0.29,+0.35),\nEp = 307 (-98,+342) keV, chi2 = 91/98 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170127_T05744/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

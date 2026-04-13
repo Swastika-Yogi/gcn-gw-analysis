@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250314A: Swift XRT Detection",
+  "eventId": "GRB 250314A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39734....1K",
+  "createdOn": 1742047728960,
+  "circularId": 39734,
+  "submitter": "Jamie Kennea at Penn State <jak51@psu.edu>",
+  "format": "text/plain",
+  "body": "J. A. Kennea (PSU), V. D'Elia (SSDC & INAF-OAR), P. A. Evans (Leicester) report on behalf of the Swift/XRT Team\n\nAt 14:28UT on March 14, 2024 Swift began a Target-of-Opportunity observation of GRB 250314A, a SVOM ECLAIRs detected GRB (GCN #39719). Swift finds a uncatalogued point source inside the ECLAIRS error region at the following position: RA(J2000) = 201.30136, -5.2823:\n\nRA(J2000) = 13h 25m 12.22s,\nDec(J2000) = -05h 16' 56.1'',\n\nwith an estimated uncertainty of 3.5 arc-seconds radius (90% confidence). This position matches the reported optical counterpart (GCN #39727) with a reported redshift of z = 7.21 (GCN #39732). The XRT source has a peak flux of 2.2 x 10^-12 erg/s/cm^2 (0.3 - 10 keV).\n\nAs Swift has performed only a single observation, we cannot confirm fading. We note also the presence of 2 other X-ray sources in the XRT field of view, source #2 lies at the edge of the ECLAIRs error region, source #3 lies outside. Given reported observations of source #1 and it's redshift, we do not believe these sources are credible afterglow candidates:\n\nSource no:   2\nRA (J2000):  201.33727 [degrees] = 13h 25m 20.94s\nDec (J2000): -5.16436 [degrees] = -05d 09' 51.7\"\nError:       +4.8 [arcsec, 90% conf. radius]\nFlag:        Good\n\nSource no:   3\nRA (J2000):  201.44746 [degrees] = 13h 25m 47.39s\nDec (J2000): -5.27117 [degrees] = -05d 16' 16.2\"\nError:       +5.3 [arcsec, 90% conf. radius]\nFlag:        Good\n"
+}

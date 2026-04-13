@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 260127B (short)",
+  "eventId": "GRB 260127B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43559....1R",
+  "createdOn": 1769710416479,
+  "circularId": 43559,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nand\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\nreport:\n\nThe short-duration GRB 260127B\n(Fermi-GBM detection: The Fermi GBM team, GCN 43533)\nwas detected by Fermi (GBM trigger 791236957) and Konus-Wind\nat about 72153 s UT (20:02:33).\n\nWe have triangulated it to a Konus-GBM annulus centered at\nRA(2000)=104.669 deg (06h 58m 40s)  Dec(2000)=+21.845 deg (+21d 50' 41\"),\nwhose radius is 72.490 +/- 0.104 deg (3 sigma).\n\nThe annulus combined with the Fermi-GBM final position (GCN 43533;\nglg_healpix_all_bn260127835_v00) gives ~6.8 sq. deg (3 sigma) localization region.\n\nThe the optical source detected by GOTO (GOTO26aih/AT2026bnn, GCN 43538)\nis outside the IPN annulus.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260127_T72154/IPN/\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250702B,D,E / EP250702a: 10 GHz detection with the VLA",
+  "eventId": "GRB 250702B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41053....1S",
+  "createdOn": 1752084939111,
+  "circularId": 41053,
+  "submitter": "Itai Sfaradi at University of California, Berkeley <itai.sfaradi@mail.huji.ac.il>",
+  "format": "text/plain",
+  "body": "Authors: I. Sfaradi (UC Berkeley), Y. Yao (UC Berkeley), H. Sears (Rutgers), E. Wiston (UC Berkeley), R. Margutti (UC Berkeley), R. Chornock (UC Berkeley), K.D. Alexander (U of Arizona), T. Laskar (Utah), E. Hammerstein (UC Berkeley), W. Lu (UC Berkeley)\n\nWe report here a radio detection of GRB 250702B,D,E / EP250702a (GCNs 40906, 40883, 40885, 40886, 40890, 40891) with the Karl G. Jansky Very Large Array (VLA program 25A-109; PI: Yao). We conducted our observation from 2025-07-08 05:29:18 (UTC) to 2025-07-08 06:29:03 (UTC), 6.13 days after the first detection with the Einstein Probe (GCN 40906) and 5.7 days after the first Fermi trigger (GCN 40883). Calibration and imaging were performed in CASA using the VLA calibration pipeline, with 3C286 as a bandpass and flux density calibrator, and J1832-1035 as the complex gain calibrator. \n\nOur observation in X-band, with a 3.9 GHz bandwidth centered around 10 GHz, results in a detection of a point source with a flux density of 0.49 +/- 0.05 mJy (including 10% systematic flux calibration uncertainties) at R.A.: 18:58:45.565 +/- 0.015s, Dec.: -07:52:26.42 +/- 0.35’’ (J2000), consistent within 1 sigma uncertainty with the NIR counterpart (GCN 40924) and the EP X-ray counterpart (GCN 40906). The in-band spectral slope of F_nu ~ nu^1.3 implies optically thick emission. Radio detection with the MeerKAT telescope of a 0.1 mJy point source at 3 GHz was previously reported in GCN 40985.\n\nWe plan to continue monitoring this source and encourage further multi-wavelength observations.\n\nWe thank the VLA and the NRAO staff for scheduling and performing this observation.\n"
+}

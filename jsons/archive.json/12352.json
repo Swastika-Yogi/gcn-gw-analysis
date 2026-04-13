@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110915A, Swift-BAT refined analysis",
+  "eventId": "GRB 110915A",
+  "bibcode": "2011GCN.12352....1U",
+  "createdOn": 1316183590000,
+  "circularId": 12352,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.krimm@nasa.gov>",
+  "email": "hans.krimm@nasa.gov",
+  "body": "T. N. Ukwatta (MSU), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC), S. T.\nHolland (CRESST/USRA/GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC), M. Stamatikos (OSU),\nJ. Tueller (GSFC), (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 110915A (trigger #503219)\n(Holland, et al., GCN Circ. 12335).  The BAT ground-calculated position is\nRA, Dec = 310.830, -0.713 deg which is\n     RA(J2000)  =  20h 43m 19.2s\n     Dec(J2000) = -00d 42' 45.8\"\nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 25%.\n\nThe light curve consists first of a group of multiple overlapping peaks lasting\nfrom T0-5 sec to T0+45 sec.  This is followed by a second cluster from T0+55\nsec to T0+85 sec, containing the brightest peak at ~T0+70 sec. T90 (15-350 keV)\nis 78.76 +- 1.25 sec (estimated error including systematics).\n\nThe time-averaged spectrum from -2.74 to 92.1 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.94 +- 0.23,\nand Epeak of 124.8 +- 41.4 keV (chi squared 58.07 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 5.7 +- 0.2 x 1006 erg/cm2\nand the 1-sec peak flux measured from T+68.04 sec in the 15-150 keV band is\n3.3 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.41 +- 0.05 (chi squared 72.11 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/503219/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190320A: Swift detection of a burst",
+  "eventId": "GRB 190320A",
+  "bibcode": "2019GCN.23973....1G",
+  "createdOn": 1553046421000,
+  "circularId": 23973,
+  "submitter": "Boris Sbarufatti at PSU  <bxs60@psu.edu>",
+  "email": "bxs60@psu.edu",
+  "body": "J.D. Gropp (PSU), H. A. Krimm (NSF/USRA), A. Y. Lien (GSFC/UMBC),\nM. J. Moss (George Washington University), T. Sakamoto (AGU),\nB. Sbarufatti (PSU) and A. Tohuvavohu (PSU) report on behalf of the\nNeil Gehrels Swift Observatory Team:\n\nAt 01:14:36 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 190320A (trigger=893808).  Swift did not slew immediately \ndue to an observing constraint. The BAT on-board calculated location is \nRA, Dec 117.811, -45.890 which is \n RA(J2000) = 07h 51m 15s\n Dec(J2000) = -45d 53' 22\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  There is a data gap from ~T+10 s to ~T+100 s,\nand the available data show no significant structure. However, \nsince the image significance is 7.63 sigma, and the trigger is \ntemporally (within ~ 20 sec) coincident with the Fermi/GBM event \n(trignum=574737261), we believe this is likely to be a real GRB. \n\nDue to an observing constraint, Swift will not slew until T0+44.3\nminutes. There will be no XRT or UVOT data until this time. \n\nBurst Advocate for this burst is J.D. Gropp (jdg44 AT psu.edu). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)"
+}

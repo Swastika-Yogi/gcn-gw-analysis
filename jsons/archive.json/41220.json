@@ -1,0 +1,11 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S250802dn: Updated Sky localization",
+  "eventId": "LIGO/Virgo/KAGRA S250802dn",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41220....1L",
+  "createdOn": 1754198325243,
+  "submitter": "lucy.thomas@ligo.org",
+  "circularId": 41220,
+  "format": "text/plain",
+  "body": "\nThe LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data around the time of the compact binary merger (CBC) candidate S250802dn (GCN Circular 41218). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.multiorder.fits,0, distributed via GCN and SCiMMA notices, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S250802dn\n\nFor the Bilby.multiorder.fits,0 sky map, the 90% credible region is 3209 deg2. Marginalized over the whole sky, the a posteriori luminosity distance estimate is 3070 +/- 1219 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/.\n\n [1] Ashton et al. ApJS 241, 27 (2019) doi:10.3847/1538-4365/ab06fc and Morisaki et al. PRD 108, 123040 (2023) doi:10.1103/PhysRevD.108.123040"
+}

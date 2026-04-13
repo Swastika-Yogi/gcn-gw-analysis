@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240821A: Swift/UVOT observations of the XRT sources.",
+  "eventId": "GRB 240821A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37262....1S",
+  "createdOn": 1724518015902,
+  "submitter": "Sam Shilling at Lancaster University <shilling.sam@gmail.com>",
+  "circularId": 37262,
+  "format": "text/plain",
+  "body": "S. P. R. Shilling (Lancaster U.) and S. R. Oates (Lancaster U.) reports on behalf \nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240821A\n91 ks after the Fermi/GBM trigger (Fermi GBM team, GCN Circ. 37219). The\nUVOT exposures include the positions of XRT sources 1, 2, 3 and 4\n(Bernardini et al., GCN 37249).\n\nWe note there is a DSS source (J233641.30-100258.0, Rmag ~20.76) coincident with\nthe XRT source 2 position, and a USNO-B1.0 source (0798-0668880, Bmag ~18.31)\ncoincident with the XRT source 4 position. There are no DSS or USNO-B1.0 sources\nat the positions of XRT sources 1 and 3.\n\nPreliminary magnitudes, and upper limits, using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the four XRT sources are:\n\nSource          Filter     T_start(s)  T_stop(s)    Exp(s)       Mag\n\nXRT source 1    u          91622       93293\t    1643        >20.92\nXRT source 2\tu\t   91622       93293        1643\t 20.73 +/- 0.30\nXRT source 3\tu\t   91622       93293        1643        >20.92\nXRT source 4\tu\t   91622       93293        1643         18.27 +/- 0.05\n\nXRT source 1    w2         136400      153663       3261        >21.42\nXRT source 2    w2         136400      153663       3261\t 20.55 +/- 0.18\nXRT source 3    w2         136400      153663       3261        >21.43\nXRT source 4    w2         136400      153663       3261         20.66 +/- 0.20\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

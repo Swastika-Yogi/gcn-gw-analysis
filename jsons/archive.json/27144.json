@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S200219ac: Fermi GBM transient event not confidently associated with GW signal",
+  "eventId": "LIGO/Virgo S200219ac",
+  "bibcode": "2020GCN.27144....1H",
+  "createdOn": 1582149444000,
+  "circularId": 27144,
+  "submitter": "Rachel Hamburg at UAH  <rkh0007@uah.edu>",
+  "email": "rkh0007@uah.edu",
+  "body": "R. Hamburg (UAH) reports on behalf of the Fermi-GBM Team:\n\nFor S200219ac and using the initial BAYESTAR skymap, Fermi-GBM was\nobserving 46.6% of the localization probability at event time; the southern\nlobe was Earth-occulted for GBM.\n\nThere was a Fermi-GBM onboard trigger, GRB 200219B (GCN 27127),\napproximately 10 min after the LIGO/Virgo detection of the GW trigger (GCN\n27130). However due to the temporal offset and spatial inconsistency, we do\nnot consider these two events associated. An automated, blind search for\nshort gamma-ray bursts below the onboard triggering threshold in Fermi-GBM\nalso identified no counterpart candidates +/- 1 hour around the GW event\ntime.\n\nThe GBM targeted search, the most sensitive, coherent search for GRB-like\nsignals, was run from +/-30 s around merger time for S200219ac. The\ntargeted search identified a transient at approximately T0+11 s that is\nconsistent with a short GRB origin and spatially consistent with the\ninitial S200219ac localization map. The SNR of this event is 5.6, and the\nFalse Alarm Rate for signals of this significance in GBM data is 3.0E-4 Hz.\nHowever, due to the weak nature of the event, the rate of events of similar\nsignificance in GBM, and the presence of multiple galactic transient\nsignals around the time of interest, we are not confident in an association.\n\nFor the interested observer, the GBM localization HEALPix file can be found\non the Gravitational Wave Treasure Map (Wyatt et al. 2020,\narXiv:2001.00588) at:\nhttp://treasuremap.space/static/S200219ac_GBM_Event1_healpix.fit.\nThe skymap image can be found at:\nhttp://treasuremap.space/static/S200219ac_GBM_Event1_skymap.png."
+}

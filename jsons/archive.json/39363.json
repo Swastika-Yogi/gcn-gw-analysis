@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM/sb25021804: SVOM detection of a long X-ray transient",
+  "eventId": "sb25021804",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39363....1W",
+  "createdOn": 1739894175000,
+  "submitter": "Stéphane Schanne at CEA Paris-Saclay/IRFU <s.schanne@cea.fr>",
+  "circularId": 39363,
+  "format": "text/plain",
+  "body": "\n\nC.-W. Wang, W.-J. Tan (IHEP), D. Turpin, S. Schanne, N. Dagoneau (CEA)\nreport on behalf of the SVOM mission team:\n\nThe SVOM/ECLAIRs telescope triggered and located a long duration soft X-ray transient (SVOM burst-id sb25021804) starting at 2025-02-18T07:20:27 UTC (Tb).\n\nThe following trigger information was received on the ground with low-latency by the SVOM VHF Alert Network.\n\nThe burst was detected by the Image Trigger (IMT) and only 1 alert was produced with a signal-to-noise ratio of 7.56 in the 5-8 keV energy band over a time window of 22 minutes starting at Tb. The sub-image transmitted shows a clean point-like source.\n\nThe localization of the alert is R.A., Dec = 195.020, 28.078 degrees:\nRA (J2000) = 13h00m04.93s\nDec (J2000) = 28d04m39.02s\nwith a 90% C.L. radius of 10.4 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nWe notice that this error-box contains several X-ray sources which could produce such a transient,\nincluding 4 AGNs and the ULX-candidate labelled \"[SRW2012] Src. 6\" in Simbad, located at 9.2 arcmin distance.\n\nThis trigger did not reach the slew threshold, hence no automatic slew was performed. A SVOM ToO has been scheduled and a Swift XRT ToO has been requested. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe Burst Advocate (BA) on shift for this burst is Chen-Wei Wang (IHEP) : cwwang@ihep.ac.cn\nPlease contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n\n"
+}

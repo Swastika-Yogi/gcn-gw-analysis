@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251129A: SVOM/VT optical counterpart confirmation with VHF data",
+  "eventId": "GRB 251129A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42882....1W",
+  "createdOn": 1764389546190,
+  "circularId": 42882,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "C. Wu, H. L. Li, L.P. Xin, Y. L. Qiu (NAOC), J. T. Palmerio (CEA), W. J. Tan (IHEP), D. F. Kong (GXU)  report on behalf of the SVOM team.\n\nAfter the trigger by SVOM/ECLAIRs at 2025-11-29T02:32:05 UTC (T0), SVOM/VT performed an automatic slew to the burst GRB 251129A (sb25112901, Tan et al., GCN 42879). The observation began at 2025-11-29T02:43:03, 658 seconds after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nThe optical counterpart reported (Angulo et al., GCN 42880) was clearly detected  in the 1-bit subimages and source lists downloaded via VHF network in both channels. \nThe magnitudes are :\n Mid_time     Band    Magnitude (AB)\n  808 sec     VT_B   18.63+/-0.01 mag                      \n  808 sec     VT_R   18.02+/-0.01 mag \n\nOur photometry was derived in AB magnitude and not corrected for Galactic extinction.\n\nGiven the VT color, it is likely a low redshift GRB. \n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

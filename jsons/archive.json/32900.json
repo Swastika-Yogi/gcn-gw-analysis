@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221029A: Fermi GBM Final Localization",
+  "eventId": "GRB 221029A",
+  "bibcode": "2022GCN.32900....1F",
+  "createdOn": 1667223770000,
+  "circularId": 32900,
+  "submitter": "Joe Mangan at UCD  <joseph.mangan@ucdconnect.ie>",
+  "email": "joseph.mangan@ucdconnect.ie",
+  "body": "The Fermi GBM team reports the detection of a likely Long GRB.\n\n\"At 01:05:27.31 UT on 29 October 2022, the Fermi Gamma-Ray Burst\nMonitor (GBM) triggered and located GRB221029A (trigger 688698332 /\n221029045).\n\nThe on-ground calculated location, using the GBM trigger data, is RA =\n53.3, DEC = -44.9 (J2000 degrees, equivalent to 3h 33m, -44d 54'),\nwith a statistical uncertainty of 1 degrees (radius, 1-sigma\ncontainment, statistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90%\nof GRBs having a 3.7 deg error and a small tail suffering a larger\nthan 10 deg systematic error. [Connaughton et al. 2015, ApJS, 216, 32]\n).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 72 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn221029045/quicklook/glg_skymap_all_bn221029045.png\n\nThe HEALPix FITS file, including the estimated localization\nsystematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn221029045/quicklook/glg_healpix_all_bn221029045.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2022/bn221029045/quicklook/glg_lc_medres34_bn221029045.gif"
+}

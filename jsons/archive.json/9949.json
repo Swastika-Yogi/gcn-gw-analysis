@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090926B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090926B",
+  "bibcode": "2009GCN..9949....1O",
+  "createdOn": 1254055343000,
+  "circularId": 9949,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and D. Grupe (PSU) report on behalf of the  \nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 090926B 98s after the BAT trigger (Grupe et al., GCN 9935).\nWe do not detect any source at the position reported by\nVLT (Malesani et al., GCN 9944) and the enhanced Swift XRT\nposition (Grupe et al. GCN 9940).\n\nThe 3-sigma upper limits for the finding charts (FC) and summed images  \nare:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite(FC)  98       248\t     147       > 21.02\nwhite      591      2053     303       > 21.21\nv\t   641      2103     175       > 19.19\nb\t   567      5976     226       > 20.32\nu(FC)      310      560\t     246       > 20.30\nu\t   715      5900     333       > 20.22\nuvw1\t   691      5695     333       > 20.25\nuvm2\t   5290     5490     197       > 19.77\nuvw2\t   616      1389     58        > 19.09\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.02 mag.\nAll photometry is on the UVOT photometric system described in Poole et\nal. (2008, MNRAS, 383, 627)."
+}

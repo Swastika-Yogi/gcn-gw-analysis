@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051221: Swift/UVOT upper limits",
+  "eventId": "GRB 051221",
+  "bibcode": "2005GCN..4373....1B",
+  "createdOn": 1135183996000,
+  "circularId": 4373,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aad@mssl.ucl.ac.uk>",
+  "email": "aad@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL), F. Marshall (GSFC), A. Parsons (GSFC), P. \nMezsaros (PSU), M. Chester (PSU) on behalf of the Swift/UVOT team\n\nThe Swift/UVOT began the settling exposure of the field of GRB 051221 at \n01:52:29 on 2005-12-21, 73s after the BAT trigger (Parsons et al. GCN \n4363). The 86s delay reported in GCN 4363 did not include the settling \nexposure. No source was detected at the XRT position (Burrows et al. GCN \n4366) nor the candidate IR position (Bloom, GCN 4368) down to the \nfollowing 5-sigma upper limits. No correction has been made for the \nexpected visual extinction of about 0.23 magnitudes.\n\n  Filter  T_range(s)   Summed exposure times  5sigUL(mag)\n  V       73 - 12530   1109                   19.2\n  B       453 - 19212  2098                   20.8\n  U       399 - 18305  2098                   20.2\n  W1      345 - 14127  1080                   20.3\n  M2      290 - 13437  1298                   20.7\n  W2      562 - 8341   1119                   20.7\n  white   507 - 934    99.5                   19.2"
+}

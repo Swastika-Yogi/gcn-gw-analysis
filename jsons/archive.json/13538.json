@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 529076 is from Swift J1910.2-0546 and is not a GRB",
+  "bibcode": "2012GCN.13538....1K",
+  "createdOn": 1343585805000,
+  "circularId": 13538,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "H. A. Krimm (CRESST/GSFC/USRA) for the Swift team\n\nFurther analysis of the Swift/BAT event data from Trigger 529076 (GCN Circ \n13527, Chester et al) yields a significance of 5.4-sigma.  Over the time range \nwe have data (T-120 to T+180 sec), the mask-weighted light curve shows constant \nemission with no significant features on time scales typical of a gamma-ray \nburst.  Therefore we conclude that this trigger was not due to a GRB.\n     The XRT and UVOT positions reported in GCN Circ 13530 are consistent within \nreported errors of the position for Swift J1910.2-0546 (ATel #4144; Rau, \nGreiner, and Schady).  Also this source has been steadily brightening in the BAT \nhard X-ray transient monitor (average of 0.021 � 0.001 ct/s/cm^2 (~100 mCrab) in \nthe 15-50 keV band for 28-July-2012). Therefore we conclude that Trigger 529076 \nwas caused by Swift J1910.2-0546, but that low statistics in the trigger \ninterval yielded a BAT position inconsistent with this known source.\n\n[GCN OPS NOTE(29jul12): Per author's request, \"13530, Ukwatta\" was changed to \"13527, Chester\".]"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 260330B: SVOM/VT optical upper limits",
+  "eventId": "GRB 260330B",
+  "submittedHow": "web",
+  "createdOn": 1774970754249,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 44168,
+  "format": "text/plain",
+  "body": "H. L. Li, Y. N. Ma, C. Wu, Z. H. Yao, Y. L. Qiu, J. R. Xu, L. P. Xin, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA/Irfu), G. X. Lan, S. Guillot (IRAP) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed observations with automatic slew to the field of GRB 260330B detected by SVOM/ECLAIRs and SVOM/GRM (sb26033003, Lan et al., GCN 44157). It was also a sub-threshold detection by Fermi/GBM (Trigg et al., GCN 44159). The observation started at 2026-03-30T15:06:18 UTC, i.e., about 46 minutes post trigger in the VT_B (400-650 nm) and VT_R (650-1000 nm) channels simultaneously. \n\nNo credible sources were detected within the error box of ECLAIRs (Lan et al., GCN 44157), compared to the Legacy Survey. The 5 sigma upper limits in AB magnitude are derived as follows:\n\nMid time  | Band | Exposure Time | 5 sigma upper limit\n1.03 hour   VT_B      38*50 sec      > 22.7 mag    \n1.00 hour   VT_R      34*50 sec      > 22.5 mag\n\nOur photometry was in AB magnitude and was not corrected for Galactic extinction.\n\nThis result is consistent with the nondetection report by LCO (Turpin et al., GCN 44158). More detailed analysis is ongoing. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

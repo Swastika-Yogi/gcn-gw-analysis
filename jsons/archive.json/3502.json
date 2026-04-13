@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-BAT GRB 050528: a soft burst",
+  "eventId": "GRB 050528",
+  "bibcode": "2005GCN..3502....1C",
+  "createdOn": 1117309737000,
+  "circularId": 3502,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC/NRC), L. Barbier, S. Barthelmy (GSFC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hullinger (GSFC/UMD),\nH. Krimm (GSFC/USRA), C. Markwardt, (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC), G. Sato (ISAS), M. Suzuki (Saitama),\nT. Takahashi (ISAS), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nThe full data set has been delivered (GCN 3501).\nAnalysis of the data has allowed us to determine that Trigger 130649\nat 04:06:45 UT (GCN 3496) is a real GRB.  The ground-analysis position\nis RA,Dec 353.515,+45.938 (J2000) with an uncertainty of 3 arcmin\n(radius, 90%, statistical plus systematic).\n\nThe lightcuve shows a single smooth peak lasting ~12 sec with an ~1-sec spike\nriding on top towards the end of the event.  It starts ~T-8 and ends at T+4 sec.\nT90 is 10.8 sec.\n\nThe burst spectrum is consistant with a simple power-law with a photon index\nof 2.44 +-0.25 and a flux of 11.8 +-0.1 ph/cm2/sec (15-350 keV, 90% c.l.).\nThis is a very soft event with essentially no emission above 100 keV.\nThe fluence is (5.1+-0.1)x10^-7 ergs/cm2 (15-350 keV, 90% c.l.)."
+}

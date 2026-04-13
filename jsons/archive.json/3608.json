@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050714A: ROTSE-III Optical Limits",
+  "eventId": "GRB 050714A",
+  "bibcode": "2005GCN..3608....1S",
+  "createdOn": 1121304683000,
+  "circularId": 3608,
+  "submitter": "Brad Schaefer at LSU  <schaefer@grb.phys.lsu.edu>",
+  "email": "schaefer@grb.phys.lsu.edu",
+  "body": "B. Schaefer (Louisiana State), S.A. Yost (U Mich), H. Swan (U Mich), E.S. \nRykoff (U Mich), report on behalf of the ROTSE collaboration:\n\nROTSE-IIId, located at the Turkish National Observatory at Bakirlitepe, \nTurkey, responded to GRB 050714A (Integral trigger 2598), producing images \nbeginning 9.1 s after the GCN notice time. An automated response took the \nfirst image at 00:06:33.1 UT, 27.9 s after the burst, under excellent \nconditions. We took 10 5-sec, 10 20-sec and 60 60-sec eposures. These \nunfiltered images are calibrated relative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the \n3-sigma error circle, for both single images and coadding into sets of 10. \nIndividual images have limiting magnitudes ranging from 16.5-17.9; we set \nthe following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n00:06:33.1    0:06:38.1         5     16.6           27.9       N\n00:06:33.1    0:08:55.1       142     18.2           27.9       Y"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190627A: Swift-BAT refined analysis (short-soft burst)",
+  "eventId": "GRB 190627A",
+  "bibcode": "2019GCN.24899....1B",
+  "createdOn": 1561734117000,
+  "circularId": 24899,
+  "submitter": "Hans Krimm at NSF/NASA-GSFC  <hkrimm@nsf.gov>",
+  "email": "hkrimm@nsf.gov",
+  "body": "S. D. Barthelmy (GSFC),  J. R. Cummings (CPI), H. A. Krimm (NSF),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (AGU), E. Sonbas (Adiyaman Univ.),  M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 190627A (trigger #911609)\n(Sonbas, et al., GCN Circ. 24888).  The BAT ground-calculated position is\nRA, Dec = 244.843, -5.302 deg which is \n  RA(J2000)  =  16h 19m 22.3s \n  Dec(J2000) = -05d 18' 08.6\" \nwith an uncertainty of 2.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 73%.\n\nThe mask-weighted light curve shows a single peak, visible only in the softest\nenergy channels, with a duration of about four seconds.  The burst location\nwent out of the BAT field soon after T+400 sec due to a spacecraft slew.\nT90 (15-350 keV) is 1.60 +- 0.28 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T+0.04 to T+1.78 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.38 +- 0.38.  The fluence in the 15-150 keV band is 9.9 +- 2.2 x 10^-8 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.78 sec in the 15-150 keV band\nis 1.1 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n\nAlthough GRB 190627A has a brief duration, it is not clear that it is a short GRB.  \nThe duration and relative softness of the spectrum place it intermediate between \nmost short and long bursts detected by BAT.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/911609/BA/"
+}

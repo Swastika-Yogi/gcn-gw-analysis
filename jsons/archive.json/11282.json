@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100915A:  Swift/UVOT Upper Limits",
+  "eventId": "GRB 100915A",
+  "bibcode": "2010GCN.11282....1S",
+  "createdOn": 1284559844000,
+  "circularId": 11282,
+  "submitter": "Craig Swenson at PSU/Swift  <cswenson@astro.psu.edu>",
+  "email": "cswenson@astro.psu.edu",
+  "body": "C. A. Swenson (PSU) and O. M. Littlejohns (U Leicester) report on behalf\nof the Swift/UVOT team.\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100915A 123s after the BAT trigger (Littlejohns et al.,\nGCN Circ. 11277).  No new source is found at the enhanced\nXRT position (Osborne et al., GCN Circ. 11279).\n\nThe 3-sigma uppder limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER      T_start(s)    T_stop     Exposure      Mag/3UL\n===========================================================\nwhite fc        140          290        147        >21.46\nwhite           142        11637       1619        >22.83\nv               123        13122       1057        >20.98\nb               557         7343        467        >21.43\nu fc            300          550        246        >20.68\nu               300         7161        963        >21.52\nuvw1            680         6956        491        >20.87\nuvm2           1256        18902       2787        >21.79\nuvw2            606        12544       1152        >21.50\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.51 (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 251126A: Swift detection of a burst",
+  "eventId": "GRB 251126A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.42843....1C",
+  "createdOn": 1764185204331,
+  "submitter": "K.L. Page at U Leicester <klp5@leicester.ac.uk>",
+  "circularId": 42843,
+  "body": "R. Caputo (GSFC), M. J. Moss (GSFC), K. L. Page (U Leicester) and\nD. M. Palmer (LANL) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 19:10:36 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 251126A (trigger=1417793).  Swift slewed immediately to the burst.\nThe BAT on-board calculated location is \nRA, Dec 99.910, +54.987 which is \n   RA(J2000) = 06h 39m 39s\n   Dec(J2000) = +54d 59' 13\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a complex\nstructure with a duration of about 20 sec.  The peak count rate\nwas ~2600 counts/sec (15-350 keV), at ~0 sec after the trigger.\n\nThe XRT began observing the field at 19:11:58.3 UT, 81.7 seconds after\nthe BAT trigger. Using promptly downlinked data we find an uncatalogued\nX-ray source located at RA, Dec 99.94124, 54.98591 which is equivalent\nto:\n   RA(J2000)  = 06h 39m 45.90s\n   Dec(J2000) = +54d 59' 09.3\"\nwith an uncertainty of 4.4 arcseconds (radius, 90% containment). This\nlocation is 64 arcseconds from the BAT onboard position, within the BAT\nerror circle. This position may be improved as more data are received;\nthe latest position is available at https://www.swift.ac.uk/sper. No\nspectrum from the promptly downlinked event data is yet available to\ndetermine the column density.\n\nThere are no UVOT data available at this time. Analysis will be reported at a later time.\n\nBurst Advocate for this burst is R. Caputo (regina.caputo AT nasa.gov).\nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090929A, Swift-BAT refined analysis",
+  "eventId": "GRB 090929A",
+  "bibcode": "2009GCN..9980....1C",
+  "createdOn": 1254344812000,
+  "circularId": 9980,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC),\nS. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC),\nE. E. Fenimore (LANL),\nN. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC/UMD),\nK. Page (U Leicester),\nD. M. Palmer (LANL),\nA. M. Parsons (GSFC),\nT. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nWe report further analysis of Fermi-GBM GRB 090929A (Rau, et al.,\nGCN Circ. 9962).  The BAT ground-calculated position is the same\nas stated in Cummings et al. (GCN Circ. 9966),\nRA, Dec = 56.494, -5.952 or\n\nRA (J2000) 03h 45m 57.9s\nDec (J2000) -05d 57' 50\"\n\nwith an estimated 90% containment error radius of 3 arcmin. The\npartial coding was 73-90% during the burst.\n\nThe mask-weighted lightcurve shows multiple peaks and spikes, at\nT+1, T+2, T+4, T+5, and T+10 sec, where T0 is 04:33:07. T90 was\n7 +- 2 seconds.\n\nThe time-averaged spectrum from T0 to T+12 sec is best fit by a\nsimple power-law model.  The power law index of the time-averaged\nspectrum is 0.96 +- 0.04.  The fluence in the 15-150 keV band is\n1.69 +- 0.07 x 10^-06 ergs/cm2.  The 1-sec peak photon flux\nmeasured from T+0.5 sec in the 15-150 keV band is\n5.9 +- 0.3 ph/cm2/sec. All the quoted errors are at the 90%\nconfidence level."
+}

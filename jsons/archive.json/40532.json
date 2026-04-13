@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250521B: EP-FXT follow-up observation and afterglow candidates",
+  "eventId": "GRB 250521B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40532....1S",
+  "createdOn": 1747984655425,
+  "circularId": 40532,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Q. C. Shui (IHEP, CAS), H. Q. Cheng, Y. J. Song, Z. X. Ling (NAO, CAS), A. Foisseau, C. Lachaud (APC), M. Brunet (IRAP), N. Dagoneau (CEA) report on behalf of the Einstein Probe and SVOM team\n\nWe performed a follow-up observation of GRB 250521B (detected through offline search of SVOM/ECLAIRs, Foisseau et al, GCN #40513; followed by Swift/XRT, Evans et al. GCN #40517 and SVOM/COLIBRI, Angulo et al. GCN #40521), with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) mission. The observation began at 2025-05-22T02:46:16 (T-TGRB ~ 22.5 hrs), and the exposure time is about 5.2 ks.\n\n3 uncatalogued sources were detected both by FXTA and FXTB in the 90% localization error circle provided by SVOM/ECLAIRs (with a radius of 12.2 arcmin centered at RA, DEC = 200.822 deg, +1.766 deg), as listed below (the FXT flux is taken from FXTB module).\n\nSource name | RA | DEC | Estimated Flux | SNR | Dist from SVOM/ECLAIRs |\n            | deg | deg | (erg/s/cm^2) |        | offset (in arcmin) |\n-----------------------------------------------------------------------------\nEP J132305.4+015154 | 200.7724 | 1.865 | 4.7(+/-1.3) x 10^-14 | 4.0 | 6.64 | \nEP J132344.5+015453 * | 200.9355 | 1.9148 | 1.3(+/-0.3) x 10^-13 | 8.1 | 11.23 | \nEP J132351.8+015429 | 200.9659 | 1.908 | 7.8(+/-1.8) x 10^-14 | 5.1 | 12.13 | \n-----------------------------------------------------------------------------\nNote: * EP J132344.5+015453 was also detected by Swift/XRT (GCN #40517) in a ~2.8 ks observation conducted at 2025-05-21T23:46:50, with a flux of ~2.4e-13 erg/s/cm^2. The source thus exhibits a decreasing trend in the X-ray flux within two epochs.\n\nThe above observation was made with the EP-FXT instrument. Launched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). EP is a mission of the Chinese Academy of Sciences in collaboration with ESA, MPE and CNES."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060403:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060403",
+  "bibcode": "2006GCN..4948....1T",
+  "createdOn": 1144100828000,
+  "circularId": 4948,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), L. Barbier (GSFC), S.D. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), \nJ. Norris (GSFC), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-119 to T+183 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060403 (trigger #203755)\n(Boyd, et al., GCN 4945).  The BAT ground-calculated position is RA,Dec =\n282.336, 8.328 deg {18h 49m 20.7s, 8d 19' 39.8\"} (J2000) +- 1.1 arcmin,\n(radius, sys+stat, 90% containment).  The partial coding was 100%.\n \nThe mask-weighted light curve shows a single FRED-like peak starting at\nT-8 sec and extending out to about T+32 sec.  T90 (15-350 keV) is\n30 +- 3 sec (estimated error including systematics).\nThe spectral lags place this burst in the long-burst class\n(Norris et al. 2005, ApJ, 627, 324):\n1.23 +- 0.55 s (15-25 keV vs. 50-100 keV) and\n0.80 +- 0.24 s (25-50 keV vs. 50-100 keV).\n \nThe time-averaged spectrum from T-6.2 to T+32.1 is best fit by \na simple power-law model.  The power law index of the time-averaged\nspectrum is 1.08 +- 0.09.  The fluence in the 15-150 keV band is\n1.4 +- 0.1 x 10^-06 erg/cm2.  The 1-sec peak photon flux measured\nfrom T-1.22 sec in the 15-150 keV band is 1.0 +- 0.1 ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level."
+}

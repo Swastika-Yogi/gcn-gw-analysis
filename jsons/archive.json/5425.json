@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060807: UVOT Upper limits",
+  "eventId": "GRB 060807",
+  "bibcode": "2006GCN..5425....1P",
+  "createdOn": 1155038319000,
+  "circularId": 5425,
+  "submitter": "Shashi Pandey at MSSL  <sbp2@mssl.ucl.ac.uk>",
+  "email": "sbp2@mssl.ucl.ac.uk",
+  "body": "S. B. Pandey and M. De Pasquale (UCL-MSSL) report on behalf of the \nSwift/UVOT\nteam:\n\nThe Swift UVOT began observing GRB 060807 (trigger #223217,\nM. De Pasquale et al., GCN Circular 5409) 110 seconds after the BAT\ntrigger. No optical afterglow is detected in the XRT refined error\ncircle (Page et al, GCN Circular 5423) and at location of the\nafterglow reported by Fynbo et al. 2006 (GCN Circular 5420).\n\nThe 3-sigma limiting magnitudes for the coadded images for the\nUVOT filters are listed below:\n\nFilter            T_range(s)      Exposure(s)     3sig_Upper limit\n\nWHITE        110-6965          599                20.5\nV                  215-12151        1796              20.7\nB                  693-18617        1079              21.4\nU                  669-17927        1317              21.2\nW1               645-17012        1318              20.4\nM2               621-12834        1099              20.7\nW2               721-11238        1102              20.8\n\nT_range is calculated from the time of the burst. No correction has\nbeen made for the Galactic reddening of to E(B-V) = 0.03 mag\n(Schlegel et al. 1998) along the line of sight to the burst."
+}

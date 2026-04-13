@@ -1,0 +1,14 @@
+{
+  "editedOn": 1766619347944,
+  "subject": "EP251222b/GRB 251222A: SVOM/GRM observation",
+  "eventId": "EP251222b",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43202....1S",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 43202,
+  "createdOn": 1766462848689,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Wen-Jun Tan, Yue Huang, Shi-Jie Zheng, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Hui Yang, Sebastien Guillot(IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered in-flight by a burst GRB 251222A (SVOM trigger reference: sb25122207) at 2025-12-22T17:05:52.000 UTC (T0), which is also detected by Fermi/GBM (Fermi GBM team, GCN#43186), SVOM/ECLAIRs (Yang et al., GCN#43188) and EP (Guo et al., GCN#43201).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of multiple pulses with a T90 of 85.5 +3.0/-3.5 s in the 15-5000 keV band. \n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb251222A.png\n\nIn addition, the position of this burst, as determined by SVOM/ECLAIRs (RA= 77.202 deg, DEC= -7.206 deg, ERR=29 arcsec), is located at about 34 degrees from the SVOM optical axis.\n\nWith this localization, the time-averaged spectrum from T0-20 to T0+100 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.49 +0.12/-0.12 and the cutoff energy, parameterized as Epeak, is 221 +233/-60 keV. The event fluence (10-1000 keV) in this time interval is (1.37 +0.17/-0.14)E-05 erg/cm^2. \n\nThe 1s peak spectrum, measured from T0+53 to T0+54 s, is also best fitted by a power law function with an exponential high-energy cutoff. The power law index is -0.95 +0.12/-0.12 and the cutoff energy, parameterized as Epeak, is 209 +40/-28 keV. The flux (10-1000 keV) in this time interval is (1.05 +0.09/-0.08)E-06 erg/cm^2/s.\n\nThe localization of GRB 251222A in the 'Amati' relation diagram is shown at: \nhttps://www.bursthub.cn//admin/static/svgrb251222A_amati.png\nAnd the localization in the 'Yonetoku' relation diagram is shown at: \nhttps://www.bursthub.cn//admin/static/svgrb251222A_yonetoku.png\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM point of contact for this burst is: Chen-Wei Wang (IHEP)(cwwang@ihep.ac.cn)\n"
+}

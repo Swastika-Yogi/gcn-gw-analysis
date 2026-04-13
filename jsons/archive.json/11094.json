@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100814A, Swift-BAT refined analysis",
+  "eventId": "GRB 100814A",
+  "bibcode": "2010GCN.11094....1K",
+  "createdOn": 1281791816000,
+  "circularId": 11094,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori.sakamoto-1@nasa.gov>",
+  "email": "takanori.sakamoto-1@nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nA. P. Beardmore (U Leicester), J. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL),\nN. Gehrels (GSFC), C. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL),\nA. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 100814A (trigger #431605)\n(Beardmore, et al., GCN Circ. 11087).  The BAT ground-calculated position is\nRA, Dec = 22.479, -17.990 deg which is \n   RA(J2000)  =  01h 29m 55.0s \n   Dec(J2000) = -17d 59' 25.7\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 90%.\n \nThe mask-weighted light curve shows three FRED-like spikes starting around \nT-4 sec, T+60 sec and T+140 sec.  Those spikes peak around T+5 sec, T+70 sec \nand T+145 sec.  The low level emission is visible up to T+235 sec.  \nT90 (15-350 keV) is 174.5 +- 9.4 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-3 to T+235 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.47 +- 0.04.  The fluence in the 15-150 keV band is 9.0 +- 0.2 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.06 sec in the 15-150 keV band\nis 2.5 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/431605/BA/"
+}

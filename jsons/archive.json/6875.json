@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 071006, Swift-BAT refined analysis",
+  "eventId": "GRB 071006",
+  "bibcode": "2007GCN..6875....1M",
+  "createdOn": 1192064447000,
+  "circularId": 6875,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "C. B. Markwardt (GSFC/UMD), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), D. Palmer (LANL), P. Romano (Univ. Bicocca & INAF-OAB),\nT. Sakamoto (GSFC/UMBC), G. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T0 to T+13 sec (which covers only one of the\nminor peaks in the burst), we report further analysis of\nBAT GRB 071006 (trigger #293250) (Cummings, et al., GCN Circ. 6858).  \nThe best BAT position is RA, Dec = 335.294 -23.147 deg which is\n   RA(J2000)  =  22h 21m 10.4s\n   Dec(J2000) = -23d 08' 47\"\nwith an uncertainty of 1.9 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 6%.\n \nWe do not have a mask-weighted light curve for this event. The raw\nlight curve based on the whole detector rate shows 3 peaks of \nincreasing amplitude, the two minor peaks at T-2 and T+10 sec, and the \nmain peak at T+32 sec. The two smaller peaks are each about 6 seconds \nlong and the larger about 30 seconds long. All the peaks are roughly \nsymmetric. T90 is 50 +- 10 seconds (estimated error including \nsystematics).\n \nThe time-averaged spectrum from T+0 to T+13 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n0.75 +- 0.21.  The fluence in the 15-150 keV band is\n1.4 +- 0.2 x 10^-7 erg/cm2. \n\nThe 1-sec peak photon flux occurs where no event data is available.\nBy comparing the portions of the raw light curve and the mask-weighted\nlight curve that do overlap, we extrapolate a peak flux of \n13 +- 3 ph/cm2/sec in the 15-150 keV band.  Similarly, we extrapolate a \ntotal fluence of  1.0 +- 0.3 x 10^-6 erg/cm2.  All the quoted errors\nare at the 90% confidence level."
+}

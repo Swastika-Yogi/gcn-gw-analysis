@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060813: Swift/UVOT upper limits",
+  "eventId": "GRB 060813",
+  "bibcode": "2006GCN..5445....1C",
+  "createdOn": 1155568437000,
+  "circularId": 5445,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A. Cucchiara, P. Brown, A. Moretti report on behalf of the\nSwift/UVOT team:\n\nThe Swift UVOT began observing GRB 060813 (trigger #224364,\nA. Moretti et al., GCN Circ. 5442) 83 seconds after the BAT\ntrigger. No optical afterglow is detected in the XRT refined error\ncircle (A. Moretti et al., GCN Circ. 5444).\n\nThe 3-sigma limiting magnitudes for the finding chart and the\ncoadded images for the UVOT filters are listed below:\n\nFinding chart:\n\nFilter        T_range (s)    Exposure (s)    3sigma UL\nWhite         83-181         98              19.46\n\nCoadded images:\n\nFilter          T_range (s)      Exposure (s)   3sigma UL\nWHITE           83-12239         1394           20.89\nV               183-29590        1235           19.66\nB               391-18023        1822           21.03\nU               366-23807        2203           20.76\nW1              343-23609        2200           20.82\nM2              300-22702        1613           20.86\nW2              419-28770        1279           20.93\n\nT_range is calculated from the time of the burst. No correction has\nbeen made for the Galactic reddening of E(B-V) = 0.33 mag\n(Schlegel et al. 1998) along the line of sight to the burst."
+}

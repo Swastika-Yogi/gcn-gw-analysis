@@ -1,0 +1,14 @@
+{
+  "editedOn": 1759152915166,
+  "subject": "GRB 250925A: Mondy and AbAO optical observations",
+  "eventId": "GRB 250925A",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42005....1P",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "circularId": 42005,
+  "createdOn": 1758900454906,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP), R. Ya. Inasaridze (AbAO) report on behalf of GRB-IKI-FuN:\n\nWe observed the field of GRB 250925A detected by Swift (Dichiara et. al, GCN 41985) at z=3.899 (Castro-Tirado et. al, GCN 41997) with the AZT-33IK 1.5m telescope of the Sayan Solar Observatory (Mondy) and the AS-32 0.7m telescope of the Abastumani Observatory (AbAO). The observations started at AbAO on 2025-09-25 at 19:24 UT, i.e. ~0.097 days (~2.3 hr) since trigger. In total we obtained 30x120 s exposures with AZT-33IK, and 85x60 s exposures with AS-32. The optical afterglow initially detected by NOT/ORM (Corcoran et. al, GCN 41990) and also observed by (Saikia et. al, GCN 41986; Pavoni & Moretti et. al, GCN 41989; Bochenek & Perley, GCN 41991; Masi et. al, GCN 41992; Mendez et. al, GCN 41995; Castro-Tirado et. al, GCN 41997; Liu et. al, GCN 41998; Ochi et. al, GCN 41999; Xin et. al., GCN 42002; Rakotondrainibe et. al, GCN 42004) is clearly visible in the stacked images from Mondy. Preliminary photometry is as follows:\n\nDate       UTstart  Exptime    t-T0       Filter OT    Err.    UL    Site/Telescope\n                     (nxs)     (mid, days)                  (3sigma)\n2025-09-25 19:24:44 79x60      0.12486       R   n/d   n/d    21.0   AbAO/AS-32\n2025-09-25 20:00:15 6x120      0.12626       R   21.47 0.19   22.3   Mondy/AZT-33IK\n2025-09-25 20:12:15 6x120      0.13460       R   21.26 0.15   22.2   Mondy/AZT-33IK\n2025-09-25 20:24:16 6x120      0.14294       R   21.32 0.18   22.3   Mondy/AZT-33IK\n2025-09-25 20:36:16 6x120      0.15128       R   21.26 0.14   22.3   Mondy/AZT-33IK\n2025-09-25 20:48:16 6x120      0.15962       R   21.79 0.24   22.3   Mondy/AZT-33IK\n\nThe photometry was calibrated against nearby USNO-B1.0 stars (R2-mags) and not corrected for the Galactic extinction. Using all available r-data we estimate a temporal slope of alpha = -1.17 +/- 0.05."
+}

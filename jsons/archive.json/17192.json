@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141202A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 141202A",
+  "bibcode": "2014GCN.17192....1E",
+  "createdOn": 1418963776000,
+  "circularId": 17192,
+  "submitter": "Makoto Tashiro at Saitama U/Swift  <tashiro@phy.saitama-u.ac.jp>",
+  "email": "tashiro@phy.saitama-u.ac.jp",
+  "body": "J. Enomoto, M. Tashiro, Y. Terada, T. Yasuda, S. Koyama, S. Takeda,\nS. Nakaya, T. Fujinuma, S. Matsuoka (Saitama U.), M. Yamauchi,\nN. Ohmori, R. Kinoshita (Univ. of Miyazaki), W. Iwakiri (RIKEN),\nK. Yamaoka (Nagoya U.), S. Sugita (Ehime U.),Y. Hanabata (ICRR),\nM. Ohno, T. Kawano, S. Furui, Y. Fukazawa (Hiroshima U.),\nY. E. Nakagawa, M. Kokubun, T. Takahashi (ISAS/JAXA),\nY. Urata (NCU), K. Nakazawa, K. Makishima (Univ. of Tokyo)\non behalf of the Suzaku WAM team, report:\n\nThe short and IPN localized GRB 141202A (IPN localization: S.\nGolenetskii et al., GCN 17131; Fermi GBM Detection: O.J. Roberts et al.,\nGCN 17133; Konus-Wind observation: S. Golenetskii et al., GCN 17136)\ntriggered the Suzaku Wide-band All-sky Monitor (WAM) which covers an\nenergy range of 50 keV - 5 MeV at 11:17:5.508 UT (=T0).\n\nThe observed light curve shows a multi-peaked structure lasting from T0s\nto T0+2s, followed by a weaker emission seen with a duration (T90) of\nabout 1.8 seconds. The fluence in 100 - 1000 keV was\n4.48 (-0.18, +0.10) x 10^-6 erg/cm^2. The 1-s peak flux measured from\nT0+0.5s was 7.61 (-2.44, -0.11) photons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0 s to\nT0+2 s is well fitted by a power-law with exponential cutoff model:\ndN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha       0.28 (-0.56, +0.48), and\nEpeak       565 (-66, +96) keV (chi^2/d.o.f. = 24.5/25).\n\nAll the quoted errors are at statistical 90% confidence level, in which\nthe systematic uncertainties are not included.\n\nThe light curves for this burst will be available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 175653 is probably not a GRB",
+  "bibcode": "2006GCN..4426....1G",
+  "createdOn": 1136263279000,
+  "circularId": 4426,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "D. Grupe (PSU), S. Barthelmy (GSFC), D. Burrows (PSU),\nM. Chester (PSU), N. Gehrels (GSFC), C. Gronwall (PSU),\nS. Immler (GSFC), J. Kennea (PSU), F. Marshall (GSFC),\nT. Sakamoto (GSFC)\non behalf of the Swift team:\n\nThe Swift-BAT trigger (trigger=175653) at ~04:03 UT on 03 January 2006\nis probably not due to a GRB or any other astrophysical source.\nThe background is high while entering the SAA.  This was a single-sided\ntrigger criterion which is susceptible to rising backgrounds.\n\nThe XRT began observing the field in the SAA and attempted to find a \ncentroid of a bright source in the field of view, but failed to find a \nsource.  This is consistent with a non-burst origin for this event, but \nthis is not conclusive, as we only succeed in on-board centroids \napproximately 40% of the time due to faint afterglows.\n\nThis GCN Notices have the same incorrect trigger time as did\nthe previous burst.  This problem is being worked."
+}

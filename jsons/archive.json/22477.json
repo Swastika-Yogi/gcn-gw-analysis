@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 814090: Swift detection of MAXI J1820+070",
+  "bibcode": "2018GCN.22477....1D",
+  "createdOn": 1520964345000,
+  "circularId": 22477,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@swift.psu.edu>",
+  "email": "kennea@swift.psu.edu",
+  "body": "P. D'Avanzo (INAF-OAB), J. A. Kennea (PSU), A. Y. Lien (GSFC/UMBC),\nA. Melandri (INAF-OAB), K. L. Page (U Leicester) and\nA. Tohuvavohu (PSU) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 17:48:54 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated MAXI J1820+070 (trigger=814090).  Swift did not slew to the source\nbecause Swift was already looking at this source. \nThe BAT on-board calculated location is \nRA, Dec 275.091, +7.188, which is \n   RA(J2000)  =  18h 20m 22s\n   Dec(J2000) = +07d 11' 17\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a few peaks\nwith a duration of about 30 sec.  The peak count rate\nwas ~1100 counts/sec (15-350 keV), at ~2 sec after the trigger. \n\nSwift was observing MAXI J1820+070 when BAT triggered, at a higher merit \nthan the BAT trigger. As such no prompt XRT or UVOT data are available \nfor this trigger."
+}

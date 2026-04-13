@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170906C",
+  "eventId": "GRB 170906C",
+  "bibcode": "2017GCN.21857....1T",
+  "createdOn": 1505145181000,
+  "circularId": 21857,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R.Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Lysenko, A. Kozlova and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 170906C (Swift-BAT trigger #770981:\nSiegel et al., GCN 21826; Lien et al., GCN 21832)\ntriggered Konus-Wind at T0=26780.985 s UT (07:26:20.985).\n\nThe burst light curve shows a single pulse\nstarted at ~T0-40.8 s with a total duration of ~65.8 s.\nThe emission is seen up to ~4 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of�� 1.60(-0.19,+0.28)x10^-5 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+0.354 s,\nof 2.77(-0.73,+0.74)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith�� alpha = -1.06(-0.18,+0.19),\nand Ep = 154(-19,+26) keV (chi2 = 64/72 dof).\nFitting by the GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -2.56 (chi2 = 64/71 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170906_T26780/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

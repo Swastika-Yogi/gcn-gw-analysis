@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 250107D (short/hard)",
+  "eventId": "GRB 250107D",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.38881....1F",
+  "createdOn": 1736460514799,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 38881,
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 250107D (IPN triangulation: Kozyrev et al., GCN 38880)\ntriggered Konus-Wind (KW) at T0=19411.897 s UT (05:23:31.897).\n\nThe burst light curve shows a single, multi-peaked emission pulse\nwhich starts at ~T0-0.112 s and has a duration of ~0.208 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250107_T19411/\n\nAs observed by Konus-Wind, the burst had\nthe total fluence of 2.06(-0.34,+0.62)x10^-6 erg/cm^2\nand a 16-ms peak energy flux, measured from T0-0.064 s,\nof 1.99(-0.32,+0.59)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nSince a major part of the burst emission was detected before the trigger time,\nthe time-averaged spectral analysis was performed using the KW 3-channel light curve data.\nModeling the 3-channel time-integrated spectrum (measured from T0-0.112 s to T0+0.096 s)\nby a power law with exponential cutoff (CPL) model dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.40 (-0.32, + 0.41) and Ep = 897(-203,+453) keV.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

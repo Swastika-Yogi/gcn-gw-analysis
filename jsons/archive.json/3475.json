@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT UV and optical detections of GRB 050525",
+  "eventId": "GRB 050525",
+  "bibcode": "2005GCN..3475....1H",
+  "createdOn": 1117024177000,
+  "circularId": 3475,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "S. Holland (GSFC), D. Band (GSFC/UMBC), A. Blustin,\nS. Rosen (MSSL), P. Roming (PSU), P. Schady (MSSL/PSU),\nK. Mason (MSSL), C. Gronwall (PSU), A. Breeveld (MSSL),\nT. Poole, C. James, K. McGowan, M. de Pasquale (MSSL)\nS. Hunsberger, C. Pagani, P. Brown, M. Ivanushkina (PSU),\nB. Hancock, T. Kennedy (MSSL), P. Broos, S. Koch (PSU),\nP. Smith, H. Huckle (MSSL), M. Still, P. Boyd,\nW. Landsman (GSFC), J. Nousek (PSU), N. Gehrels (GSFC)\non behalf of the Swift UVOT team.\n\nSwift/UVOT has detected GRB 050525 in all of its UV and\noptical filters. Using data from 65 seconds after the\nburst, we obtain the following magnitudes from images\nsummed between the T_start and T_stop times in the table:\n\nFilter    Magnitude     Exp (s)  T_start  T_stop\n\nV       14.97 +/- 0.02   287      65       1292\nB       16.53 +/- 0.03   188      224      1084\nU       15.32 +/- 0.03   98       90       979\nUVW1    15.63 +/- 0.04   98       196      2046\nUVM2    15.75 +/- 0.06   98       182      952\nUVW2    16.62 +/- 0.05   188      952      1189\n\nWhere T_start and T_stop are in seconds after the\ntrigger (Band et al. GCN 3466).\n\nThe magnitudes are based on preliminary zero-points,\nmeasured in orbit, and will require refinement with\nfurther calibration."
+}

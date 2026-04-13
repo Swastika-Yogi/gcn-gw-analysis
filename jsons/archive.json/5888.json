@@ -1,0 +1,10 @@
+{
+  "subject": "GRB061202: Swift/UVOT Upper Limits",
+  "eventId": "GRB 061202",
+  "bibcode": "2006GCN..5888....1M",
+  "createdOn": 1165079160000,
+  "circularId": 5888,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) reports on behalf of the Swift/UVOT team:\n \nThe Swift/UVOT began its first finding chart exposure of the field of  \nGRB 061202 129 seconds after the BAT trigger (Sakamoto et al., GCN Circ. 5886).\nNo afterglow candidate is detected in the XRT error circle reported by \nSakamoto et al. in this or any of the other early UVOT exposures.\n \nThe initial photometry upper limits for each UVOT filter are given \nbelow where Tmid is the average time of the exposure, in seconds,\nsince the BAT trigger and Mag_3 is the 3-sigma\nupper limit for the magnitude. The quoted errors do not \ninclude the 0.1 mag systematic uncertainty in the photometric zero points.\n \n   Filter    Tmid    Exposure  Mag_3\n              (s)     (s)\n==========================================\n   White      179      98       20.4\n              911      98       20.4\n\n   V          434     393       20.1\n\n   B         5054     197       20.7\n\n   U         4850     197       20.3\n\n   UVW1      4645     197       20.1\n\n   UVM2      4440     197       20.1\n\n   UVW2      5464     197       20.5\n\n==========================================\n \nThe values quoted above are not corrected for the expected Galactic\nextinction of E_{B-V} = 0.15 mag (Schlegel et al. 1998)."
+}

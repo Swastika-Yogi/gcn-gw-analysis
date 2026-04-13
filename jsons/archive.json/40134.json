@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250314A: e-MERLIN observations",
+  "eventId": "GRB 250314A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40134....1T",
+  "createdOn": 1744316278986,
+  "submitter": "Aishwarya L Thakur at INAF-IAPS, Rome <aishth@outlook.com>",
+  "circularId": 40134,
+  "format": "text/plain",
+  "body": "A.L. Thakur [1], G. Bruni [1], L. Piro [1] and G. Gianfagna [1] report:\n\nWe observed the z=7.3 GRB 250314A (SVOM GCN 39719, VLT/X-shooter GCN 39732, GTC/OSIRIS+ GCN 39743), with the e-MERLIN radio telescope under project RR19004 (PI: Thakur) at 5 GHz starting from Mar 31 (~17 days post-GRB) for three runs of ~12 hours each.\n\n1331+3030 was used for flux scale calibration, and 1332-0509 for complex gain. The beam size was 122x34 milli-arcsec. Data were reduced with the e-MERLIN pipeline and imaged with CASA. The image RMS was 18 uJy/beam.\n\nWe do not find statistically significant emission at a level above 5-sigma at the position of the NOT counterpart (GCN 39727) or in the broader 2x2 arcsec field. We thus set a 5-sigma upper limit of 90 uJy at 5 GHz. \n\nFurther e-MERLIN observations are planned.\n\nWe thank the e-MERLIN director for promptly approving these DDT observations and acknowledge Justin Bray's excellent support in scheduling and executing them. e-MERLIN is a National Facility operated by the University of Manchester at Jodrell Bank Observatory on behalf of STFC, part of UK Research and Innovation.\n—------------------------\n[1] INAF-IAPS"
+}

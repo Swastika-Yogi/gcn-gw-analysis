@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050906: Swift/BAT Detection of a possible burst",
+  "eventId": "GRB 050906",
+  "bibcode": "2005GCN..3926....1K",
+  "createdOn": 1126005045000,
+  "circularId": 3926,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), V. La Parola (IASF-CNR), M. de Pasquale (MSSL),\nS. Barthelmy (GSFC), A. Blustin (MSSL) , D. Burrows (PSU),\nN. Gehrels (GSFC), C. Gronwall (PSU), C. Pagani (PSU),  K. Page (U. Leicester)\non behalf of the Swift team:\n\nAt 10:32:05 UT, Swift-BAT triggered and located GRB050906 (trigger=153866).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 52.803d, -14.625d {+03h 31m 13s, -14d 37' 30\"} (J2000), with an\nuncertainty of 3 arcmin (radius, 90% containment, stat+sys).  This was a\n64-msec trigger.  The BAT TDRSS light curve shows hints of emission, but it is\nnot possible to separate source variations from background variations\nat this early stage in the analysis.  Given that this is at high galactic\nlatitude, we believe this is a burst rather than a hard x-ray transient.\n\nXRT slewed promptly to the target and observation started at UT 10:33:24\nwith XRT in auto state, 79 seconds after the GRB trigger. XRT did not reveal\nany source with the on board algorithm.  The TDRSS light curve suggests the\npresence of a weak source. We are waiting for downlinked data to \ndetermine a position.\n\nThe Ultraviolet and Optical telescope (UVOT) could not perform any prompt\nobservation of this event because it was in safe mode.\n\n[GCN OPS NOTE(06sep05): Per author's request: \"XRT slewed promptly at the target\"\nwas changed to \"XRT slewed promptly to the target\", and \"prompt obervation\" to\n\"prompt observation\".]"
+}

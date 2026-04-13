@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050418: Swift-BAT refined analysis",
+  "eventId": "GRB 050418",
+  "bibcode": "2005GCN..3289....1M",
+  "createdOn": 1113838254000,
+  "circularId": 3289,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "T. Mitani (ISAS), L. Barbier (GSFC), S. Barthelmy (GSFC), \nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC), \nD. Hullinger (UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/NRC), \nG. Sato (ISAS), M. Suzuki (Saitama), J. Tueller (GSFC), \non behalf of the Swift/BAT team:\n\nAt 11:00:34.6 UT Swift-BAT detected GRB 050418 (trigger=114893)\n(GCN Circ 3288, Barbier et al.).  The refined BAT ground position\nis (RA,Dec) = 44.346, -18.538, [deg; J2000] +- 3 arcmin, (95%\ncontainment).  The partial coding was 48 %.  \n\nThe BAT mask-weighted light curve shows an initial triangular peak\n(~12 s rise, ~8 s fall time) followed by a quartet of softer peaks\nfrom 50 to 80 seconds after the maximum of the first peak, with\nthe last and brightest of the four being as intense as the\ninitial peak in 15-50 keV, but less than a quarter the height\nin 50-100 keV.  T90 (15-350 keV) is (83 +- 5) seconds \n(estimated error including systematics).  \n\nThe photon index of the time-averaged spectrum is 1.7 +- 0.1.  The \nfluence in the 15-350 keV band are (8.6 +- 0.4) x 10^-6 erg/cm2.  \nThe 1-s peak photon flux measured from T0+0.75 second in the 15-350 \nband is (5.0 +- 0.3) ph/cm2/s.  All the quoted errors are at the 90% \nconfidence level."
+}

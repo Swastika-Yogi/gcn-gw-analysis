@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230802aq: Updated Sky localization and EM Bright Classification",
+  "eventId": "LIGO/Virgo/KAGRA S230802aq",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34336....1H",
+  "createdOn": 1691190530046,
+  "submitter": "carl.haster@unlv.edu",
+  "circularId": 34336,
+  "body": "We have conducted further analysis of the LIGO Hanford Observatory (H1) data around the time of the compact binary merger (CBC) candidate S230802aq (GCN Circular 34314). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.offline0.multiorder.fits,0, distributed via GCN Notice, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S230802aq\n\nBased on posterior support from parameter estimation [1], under the assumption that the candidate S230802aq is astrophysical in origin, the probability that the lighter compact object is consistent with a neutron star mass (HasNS) is 9%. [2] Using the masses and spins inferred from the signal, the probability of matter outside the final compact object (HasRemnant) is <1%. [2] Both HasNS and HasRemnant consider the support of several neutron star equations of state. The probability that either of the binary components lies between 3 and 5 solar masses (HasMassgap) is 62%.\n\nFor the Bilby.offline0.multiorder.fits,0 sky map, the 90% credible region is 25885 deg2. Marginalized over the whole sky, the a posteriori luminosity distance estimate is 576 +/- 246 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/userguide/."
+}

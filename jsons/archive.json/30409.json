@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of a burst from SGR 1935+2154 on 2021 July 6",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2021GCN.30409....1R",
+  "createdOn": 1625676483000,
+  "circularId": 30409,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, S. Golenetskii, A. Lysenko,\nD. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short burst from SGR 1935+2154\n(INTEGRAL detection: Mereghetti, GCN 30395)\ntriggered Konus-Wind on 2021 July 6 at\nT0=62093.331 s UT (17:14:53.331).\n\nThe burst light curve features a sharp rise,\nfollowed by a gradual decay, and, finally,\na quick return of a count rate to the background level.\nThe burst total duration is ~50 ms.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/SGRs/210706_T62093/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.90(-0.22,+1.45)x10^-7 erg/cm2,\nand a 2-ms peak flux, measured from T0-0.004 s,\nof 2.56(-0.43,+0.60)x10^-5 erg/cm2/s\n(both in the 20 - 500 keV energy range).\n\nSince the brightest part of the burst emission was detected\nbefore the trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModelling the time-integrated spectrum of the burst\n(measured from T0-0.038 to T0+0.018 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -1.15(-0.72,+2.34) and Ep = 23(-17,+16) keV.\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

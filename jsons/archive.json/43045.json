@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251208B: GROWTH-India Telescope optical upper limits",
+  "eventId": "GRB 251208B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43045....1K",
+  "createdOn": 1765270948354,
+  "circularId": 43045,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "A. Kumar, T. Mohan, V.Swain, S. Patil, A.P. Saikia, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of Fermi GBM transient (Fermi GBM Team, GCN 43028), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-12-08T23:43:57 UT, i.e., about 13.4 hours after the Fermi GBM Trigger. Exposures were obtained in r' and i' filters. We did not detect any transient in our images within the Fermi-LAT on-ground localization region (Bissaldi et al., GCN 43034). Additionally, we checked the source 1 and 5 of Swift-XRT ToO observations (Evans at al., GCN 43035), and did not detect any optical counterpart at their respective position and uncertainty. The photometric upper limits are as follows:\n\n\n| MJD (mid)    | Filter | tmid-t0 (hrs) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | ------------- | ------------------- | ---------------- |\n| 61018.007928 | r'     | 13.90        | 3 x 360                 | 20.6            |\n| 61018.020746 | i'     | 14.21        | 2 x 360                 | 17.4            |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

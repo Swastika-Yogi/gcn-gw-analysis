@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180418A: TAROT La Silla observatory early optical observations",
+  "eventId": "GRB 180418A",
+  "bibcode": "2018GCN.22671....1K",
+  "createdOn": 1524616060000,
+  "circularId": 22671,
+  "submitter": "Alain Klotz at IRAP-CNRS-OMP  <Alain.Klotz@free.fr>",
+  "email": "Alain.Klotz@free.fr",
+  "body": "Klotz A., Noysena.K., Atteia J.L. (CNRS-OMP-IRAP),\nBoer, M., Eymar, L. (CNRS-ARTEMIS),\nGendre B. (UVI - Etelman Obs.) report:\n\nWe imaged the field of GRB 180418A detected by SWIFT\n(trigger 826428) with the TAROT robotic telescope (D=25cm)\nlocated at the European Southern Observatory,\nLa Silla observatory, Chile.\n\nThe observations started 28s after the GRB trigger\n(15s after the notice). The elevation of the field decreased from\n6 degrees above horizon and weather conditions were good.\n\nThe first image is trailed with a duration of 60.0s\n(see the description in Klotz et al., 2006, A&A 451, L39).\nDespite the very elevation we can measure the very\nearly optical light variation of the OT reported by\nZheng & Filippenko (GCNC 22647). We used NOMAD-1 1149-0186465\nas reference star r(AB)=15.23 (according SDSS DR9).\nPreliminary analysis gives:\n\nstart end  r(AB) 1sig\n(sec) (sec)\n   28   36  14.30 0.04\n   36   43  14.24 0.03\n   43   51  14.40 0.03\n   51   58  14.61 0.04\n   58   66  14.98 0.05\n   66   73  15.42 0.06\n   73   81  15.52 0.09\n   81   88  15.83 0.15\n\nThe following images are taken in tracking mode.\nWe used the same reference star for PSF fitting:\n\nstart end  r(AB) 1sig\n(sec) (sec)\n  100  130  15.96 0.06\n  141  171  16.50 0.11\n  181  211  16.58 0.13\n  221  251  17.10 0.31\n  262  292  16.90 0.25\n  302  392  17.00 0.29\n\nMagnitudes are not corrected for galactic dust extinction.\n\nWe note that the maximum brightness of the OT\nseems to occured at 40s r(AB)=14.24 followed by\na decay of about alpha=2.7 until 70s. Then the decay\nis compatible with alpha=1.1 until 6 min (end of TAROT\nobservations because the elevation was too low)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211129A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 211129A",
+  "bibcode": "2021GCN.31137....1Y",
+  "createdOn": 1638182183000,
+  "circularId": 31137,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Yamaguchi, R. Hosokawa, Y. Imai, K. L. Murata, M. Niwano, Y.\nTakamatsu, N. Ito, R. Noto, S. Sato, M. Takaku, Y. Yatsu, and N. Kawai\n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 211129A(J.D. Gropp et al. GCN Circular\n#31136) with the optical three color (g', Rc, and Ic) CCD cameras\nattached to the MITSuME 50 cm telescope Akeno. The observation with a\nseries of 10 sec exposures started at 2021-11-29 09:52:06 UT (60\nseconds after Swift trigger). We stacked the images with good\nconditions. We did not detect any uncatalogued sources within the XRT\nerror region (J.D. Gropp et al. GCN Circular #31136). We obtained the\n5-sigma limits of the stacked images as follows.\n\nT0+[sec] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n159 2021-11-29 09:53:45 70 g'>17.0, Rc>17.3, Ic>16.4\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

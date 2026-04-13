@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200224C: Fermi GBM Final Real-time Localization",
+  "eventId": "GRB 200224C",
+  "bibcode": "2020GCN.27178....1F",
+  "createdOn": 1582538943000,
+  "circularId": 27178,
+  "submitter": "Fermi GBM Team at MSFC/Fermi-GBM  <do_not_reply@GIOC.nsstc.nasa.gov>",
+  "email": "do_not_reply@GIOC.nsstc.nasa.gov",
+  "body": "The Fermi GBM team reports the detection of a likely SHORT GRB\n\nAt 09:58:44 UT on 24 Feb 2020, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 200224A (trigger 604231129.56693 / 200224416).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 270.5, Dec = -56.8 (J2000 degrees, equivalent to J2000 18h 02m, -56d 47'), with a statistical uncertainty of 6.0 degrees.\n\nThe angle from the Fermi LAT boresight is 151.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200224416/quicklook/glg_skymap_all_bn200224416.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200224416/quicklook/glg_healpix_all_bn200224416.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn200224416/quicklook/glg_lc_medres34_bn200224416.gif\n\n[GCN OPS NOTE(24feb20): This is the seventh Circular in the sequence of 8 circulars\nwhich were all labeled A because of the sequence assigner being offline.\nThis circular was orginally, incorrectly labelled A, but the true letter identity is C.]"
+}

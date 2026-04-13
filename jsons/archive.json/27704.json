@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200509A: Swift-XRT refined Analysis",
+  "eventId": "GRB 200509A",
+  "bibcode": "2020GCN.27704....1D",
+  "createdOn": 1589048932000,
+  "circularId": 27704,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. D'Ai (INAF-IASFPA), J.A. Kennea (PSU), A. Tohuvavohu (U. Toronto),\nB. Sbarufatti (PSU), K.L. Page (U. Leicester), A.P. Beardmore (U.\nLeicester), P.A. Evans (U. Leicester), A. Melandri (INAF-OAB), T.\nSbarrato (INAF-OAB) and E. Troja report on behalf of the Swift-XRT\nteam:\n\nWe have analysed 9.4 ks of XRT data for GRB 200509A (Troja et al. GCN\nCirc. 27701), from 104 s to 34.9 ks after the  BAT trigger. The data\ncomprise 7 s in Windowed Timing (WT) mode (taken while Swift was\nslewing), with the remainder in Photon Counting (PC) mode. The enhanced\nXRT position for this burst was given by Evans et al. (GCN Circ.\n27703). The late-time light curve (from T0+5.0 ks) is consistent with a\nconstant source of mean count rate 1.8e-01 ct/sec. A power-law fit\ngives an index of -0.2 (+/-1.2).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.725 (+/-0.020). The\nbest-fitting absorption column is  1.89 (+0.08, -0.07) x 10^21 cm^-2,\nin excess of the Galactic value of 1.6 x 10^21 cm^-2 (Willingale et al.\n2013). The PC mode spectrum has a photon index of 1.55 (+0.10, -0.08)\nand a best-fitting absorption column consistent with the Galactic\nvalue. The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 4.5 x 10^-11 (5.1 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.58 (+0.17, -0.00) x 10^21 cm^-2\nGalactic foreground: 1.6 x 10^21 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.55 (+0.10, -0.08)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00970886.\n\nThis circular is an official product of the Swift-XRT team."
+}

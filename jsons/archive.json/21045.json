@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170428A",
+  "eventId": "GRB 170428A",
+  "bibcode": "2017GCN.21045....1T",
+  "createdOn": 1493404250000,
+  "circularId": 21045,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R. Aptekar, D. Frederiks, D. Svinkin,\nP. Oleynik, M. Ulanov, A. Lysenko, A.Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration, bright GRB 170428A\n(Swift-BAT detection: Beardmore et al., GCN Circ. 21042)\ntriggered Konus-Wind at T0=33218.719 s UT (09:13:38.719).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.02 s and has a total duration of ~0.14 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170428_T33218/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.20(-0.90,+0.91)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.056 s,\nof 5.00(-1.52,+1.53)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+0.128 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.47(-0.21,+0.28),\nthe high energy photon index beta = -2.46(-7.54,+0.52),\nthe peak energy Ep = 982(-355,+394) keV (chi2 = 31/37 dof).\n\nFitting this spectrum by a power law with exponential cutoff model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep) yields\nalpha = -0.53(-0.18,+0.21) and\nEp = 1134(-268,+368) keV (chi2 = 33/38 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

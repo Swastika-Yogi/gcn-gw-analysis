@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140428A: Swift Detection of a Possible Burst",
+  "eventId": "GRB 140428A",
+  "bibcode": "2014GCN.16177....1K",
+  "createdOn": 1398728076000,
+  "circularId": 16177,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "D. Kocevski (NASA/GSFC/ORAU), S. D. Barthelmy (GSFC),\nA. Y. Lien (NASA/GSFC/ORAU), D. Malesani (DARK/NBI),\nC. B. Markwardt (NASA/GSFC) and D. M. Palmer (LANL) report on behalf\nof the Swift Team:\n\nAt 22:40:50 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 140428A (trigger=597519).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 194.342, +28.357, which is \n   RA(J2000)  =  12h 57m 22s\n   Dec(J2000) = +28d 21' 26\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  Most of the expected realtime products were\nnot available for this trigger so we have limited information.   We \nknow that the trigger duration is 4 seconds and the image significance\nis 9 sigma during that exposure.  A light curve is not yet available. \n\nWe note that the position reported in TDRSS light curve notices are \nincorrect.  The position reported above is correct. \n\nBecause of outage in the TDRSS telemetry downlink,\nall but one BAT light curve notice and all of the XRT notices\nare missing.  Only a pair of UVOT SourceList and Image notices were \nreceived on the ground. \n\nHowever, based on the strong detection in BAT, we believe that this is\nmost likely a real GRB.  We will issue a Circular when the full dataset\nis downlinked. \n\nBurst Advocate for this burst is D. Kocevski (dankocevski AT gmail.com). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/too.html.)"
+}

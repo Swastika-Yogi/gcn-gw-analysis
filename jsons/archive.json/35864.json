@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240303B",
+  "eventId": "GRB 240303B",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35864....1F",
+  "createdOn": 1709577673726,
+  "circularId": 35864,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 240303B (Fermi GBM detection:\nFermi GBM team, GCN 35850; Hamburg and Meegan, GCN 35860;\nCALET detection: Nakahira et al., GCN 35857;\nIPN localization: Kozyrev et al., GCN 35862)\ntriggered Konus-Wind (KW) at T0=44327.406 s UT (12:18:47.406).\n\nThe burst light curve shows a bright initial pulse,\nwhich starts at ~T0-0.5s, peaks at ~T0+4s, and has a duration of ~6.5s.\nThis pulse is followed by a weaker extended emission that lasts\nup to ~T0+250s.\nThe emission in is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240303_T44327/\n\nAs observed by Konus-Wind, the initial pulse had\na fluence of (2.62 ± 0.27)x10^-5 erg/cm^2 and\na 64-ms peak energy flux, measured from T0+4.032 s,\nof (1.11 ± 0.12)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nA time-averaged spectrum of this pulse (measured from T0 to T0+6.4 s)\nis best fit in the 20 keV - 15 MeV range\nby a GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.21 (-0.12,+0.12),\nthe high energy photon index beta = -2.69 (-0.77,+0.27),\nthe peak energy Ep = 422 (-49,+61) keV,\nchi2 = 92/77 dof.\n\nA spectrum of the extended emission (measured from T0+30.976 to T0+252.16 s)\nis best fit by a simple power-law (PL) function with\nthe PL index of -1.42(-0.22,+0.18), chi2 = 86/99 dof.\nA 20-3000 keV fluence in this interval is estimated to (2.42 ± 0.63)x10^-5 erg/cm^2.\n\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary.\n\n"
+}

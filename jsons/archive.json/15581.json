@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131205A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 131205A",
+  "bibcode": "2013GCN.15581....1S",
+  "createdOn": 1386265258000,
+  "circularId": 15581,
+  "submitter": "Craig Swenson at PSU/Swift  <cswenson@astro.psu.edu>",
+  "email": "cswenson@astro.psu.edu",
+  "body": "C. A. Swenson (PSU) and T. N. Ukwatta (MSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 131205A\n94 s after the BAT trigger (Ukwatta et al., GCN Circ. 15578).\nNo optical afterglow consistent with the enhanced XRT position\n(Beardmore et al. GCN Circ. 15580) is detected in the initial UVOT\nexposures.  Because the spacecraft attitude was not stable during\nthe first finding chart exposure, we do not report on that exposure here.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the second\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s) Mag\n\nu_FC               306          556          246 >20.8\nwhite              586        12884         1171 >21.7\nv                  636         6778          471 >20.5\nb                  561        12313         1160 >21.5\nu                  306        11400         1386 >22.0\nw1                 685         7121          385 >20.4\nm2                 660         6983          471 >20.4\nw2                 611         6574          471 >20.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.26 in the direction of the burst\n(Schlegel et al. 1998)."
+}

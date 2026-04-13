@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250925A: MAO/AZT-22 optical observations",
+  "eventId": "GRB 250925A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42030....1R",
+  "createdOn": 1759222299589,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "circularId": 42030,
+  "format": "text/plain",
+  "body": "Y. Rajabov, O. Burkhonov, B.Abidkhanov, S. Ehgamberdiev, Y. Tillayev (UBAI), T. Boyqobilov, A. Shaymanov (Maidanak Observatory/UBAI) report on behalf of UBAI team.\n\nWe observed the field of GRB 250925A detected by Swift (Dichiara et. al, GCN 41985), at z=3.899 (Castro-Tirado et. al, GCN 41997), with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2025-09-25 at 19:13:36 UT, i.e. ~2.18 hours since trigger. In total we obtained 6x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). \nThe optical afterglow initially detected by NOT/ORM (Corcoran et. al, GCN 41990) and also observed (Saikia et. al, GCN 41986; Pavoni & Moretti et. al, GCN 41989; Bochenek & Perley, GCN 41991; Masi et. al, GCN 41992; Mendez et. al, GCN 41995; Castro-Tirado et. al, GCN 41997; Liu et. al, GCN 41998; Ochi et. al, GCN 41999; Xin et. al., GCN 42002; Rakotondrainibe et. al, GCN 42004; Pankov et. al, GCN 42005; Pankov et. al, GCN 42025 ) is detected in our stacked frames.\nPreliminary photometry is as follows:\nDate       UTstart  Exptime     t-T0       Filter OT    Err.    UL    Site/Telescope\n                    (nxs)     (mid, days)                 \n2025-09-25 19:13:36 6x300      0.10011       R   21.74   0.17    21.82   MAO/AZT-22\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). \nImages obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog.\nThe data has not corrected for the Galactic extinction.\n\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical \nInstitute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130606A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130606A",
+  "bibcode": "2013GCN.14814....1P",
+  "createdOn": 1370635323000,
+  "circularId": 14814,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and T. N. Ukwatta (MSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130606A\n84 s after the BAT trigger (Ukwatta et al., GCN Circ. 14781).\nNo optical afterglow consistent with the optical position\n(Xu et al., GCN Circ 15783) is detected in the initial UVOT exposures.\nAspect correction was lost in a number of sub-exposures resulting in\nimage streaks, rough aspect corrections and larger apertures have been\nused to calibrate the field, although with a lower sensitivity.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            84          231          144         >21.1\nu_FC               293          543          246         >20.3\nwhite               84         6539          361         >22.1\nv                 5314        12245         1148         >20.6\nb                  549         6334          236         >20.7\nu                  293        18354          561         >20.4\nw1                 672        18247         1102         >21.1\nm2                5519        15930          625         >20.5\nw2                1028         6744          216         >20.1\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

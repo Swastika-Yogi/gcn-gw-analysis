@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250213A: COLIBRÍ/DDRAGO Optical Upper Limits on the Afterglow",
+  "eventId": "GRB 250213A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39337....1D",
+  "createdOn": 1739631768106,
+  "submitter": "Alan Watson at UNAM <alan@astro.unam.mx>",
+  "circularId": 39337,
+  "format": "text/plain",
+  "body": "Jean-Grégoire Ducoin (CPPM), Alan M. Watson (UNAM), Rosa L. Becerra (U Roma), Jean-Luc Atteia (IRAP), Benjamin Schneider (LAM) Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Dalya Akl (AUS), Camila Angulo (UNAM), Sarah Antier (OCA), Nathaniel R. Butler (ASU), Damien Dornic (CPPM), Francis Fortin (IRAP), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Francesco Magnani (CPPM), Margarita Pereyra (UNAM), and Ny Avo Rakotondrainibe (LAM) report:\n\nWe imaged the field of the SVOM/ECLAIRs GRB 250213A (Wang et al., GCN Circ. 39317) with the DDRAGO wide-field imager on the COLIBRÍ telescope at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir in Mexico.\n\nWe observed from 2025-02-15 02:22 UTC to 09:19 UTC (T+1.11 to T+1.40 days after the trigger) and obtained 229 minutes of exposure in the r filter under very poor seeing conditions. The data were coadded with the COLIBRÍ pipeline and analyzed in STDWeb/STDPipe (Karpov 2021), with photometric calibration against Pan-STARRS DR1 and image subtraction against Pan-STARRS DR2.\n\nOur field includes the position of the SVOM/VT optical afterglow candidate (Xin et al., GCN Circ. 39325) and the X-ray sources #2 (consistent with the VT source) and #3 (consistent with the SVOM/ECLAIRs uncertainty) in the Swift/XRT ToO observations (Evans et al., GCN Circ. 39321).\n\nAt the position of the SVOM/VT optical candidate, after image subtraction, we do not detect a point source to a 3-sigma limit of:\n\n\tr > 22.8\n\nWithin the uncertainty region of XRT source #3, we do not detect any point sources to a 3-sigma limit of:\n\tr > 22.5\n\nOur magnitude limits are not corrected for the substantial Galactic extinction in the direction of this burst, estimated to be A_V = 2.46 or A_r = 2.05 (Schlafly & Finkbeiner, 2011).\n\nWe warmly thank the COLIBRÍ and DDRAGO engineering teams and the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir.\n"
+}

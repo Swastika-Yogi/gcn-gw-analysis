@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220426A",
+  "eventId": "GRB 220426A",
+  "bibcode": "2022GCN.31959....1F",
+  "createdOn": 1651090534000,
+  "circularId": 31959,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 220426A (BALROG localization: Biltzinger et al., GCN Circ. \n31950;\nSwift/BAT-GUANO detection outside the coded FOV: Tohuvavohu et al.,\nGCN Circ. 31954;\nFermi-GBM detection: Malacaria & Meegan, GCN Circ. 31955;\nIPN localization: Kozyrev et al., GCN 31958)\ntriggered Konus-Wind (KW) at T0=24589.598 s UT (06:49:49.598).\n\nThe burst light curve shows a bright, double-peaked pulse\nwhich starts at ~T0-0.5 s and has a total duration of ~11 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220426_T24589/\n\nAs observed by Konus-Wind, the burst had\na fluence of (9.2 �� 0.2)x10^-5 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 2.432 s,\nof (2.9 �� 0.2)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+13.312 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.29 (-0.07,+0.07),\nthe high energy photon index beta = -4.00 (-0.71,+0.32),\nthe peak energy Ep = 158 (-3,+4) keV,\nchi2 = 112/97 dof.\n\nThe spectrum near the peak count rate (measured from T0+2.304 s\nto T0+2.560 s) is best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = 0.10 (-0.17,+0.21),\nthe high energy photon index beta = -5.6 (-4.3,+1.7),\nthe peak energy Ep = 227 (-15,+13) keV,\nchi2 = 47/38 dof.\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

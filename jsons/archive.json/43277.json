@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251230A: 1.3m DFOT optical upper limit",
+  "eventId": "GRB 251230A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43277....1G",
+  "createdOn": 1767173907402,
+  "submitter": "ANSHIKA GUPTA at ARIES <anshika05180@gmail.com>",
+  "circularId": 43277,
+  "format": "text/plain",
+  "body": "Anshika Gupta, Kuntal Misra, Pankaj Pawar, Dhruv Jain, Debalina Kar (ARIES) report:\n\nWe observed the field of GRB 251230A detected by Swift (Lanava et al. 2025, GCN 43252) with the 1.3m Devasthal Fast Optical Telescope (DFOT), located at the Devasthal Observatory of the Aryabhatta Research Institute of Observational Sciences (ARIES), India. The observations began on 2025-12-30 at 21:36:37 UT, ~ 20.24 hours after the Swift trigger. We have taken multiple frames with an exposure time of 300s in the R filter. We stacked the images after the alignment. We could not detect the optical emission in our stacked image within the error box of Swift/UVOT (Breeveld et al. 2025, GCN 43271). We obtain the following 3-sigma upper limit in the stacked image:\n\n\nDate Start_UT T_start-T0 (hour) Filter  Exp time (s)  Magnitude\n===============================================================\n2025-12-30  21:36:37    ~20.24     R     300s*6    >22.3\n\n\nThe non-detection of the burst is consistent with Li et al. 2025, (GCN 43255); Lipunov et al. 2025, (GCN 43256); Busmann et al. 2025, (GCN 43258); Masi et al. 2025, (GCN 43260);  Ghosh et al. 2025, (GCN 43262); Ma et al. 2025, (GCN 43265); Starling et al. 2025, (GCN 43267); He et al. 2025, (GCN 43269); Breeveld et al. 2025, (GCN 43271).\n\nThe magnitude is not corrected for the Galactic extinction in the direction of the burst. Photometric calibration is performed using the standard stars from the USNO-B1.0 catalogue.\n"
+}

@@ -1,0 +1,14 @@
+{
+  "editedOn": 1734530422156,
+  "subject": "EP241217a: GROWTH-India Telescope optical observations",
+  "version": 2,
+  "eventId": "EP241217a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38612....1M",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "circularId": 38612,
+  "createdOn": 1734517745845,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, R. Kumar, A.P. Saikia, V. Bhalerao (IITB), D. Eappachen, A. Balasubramanian, G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\n\nWe observed the field of EP241217a reported by EP-WXT (Zhou et al., GCN 38586) with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2024-12-17T15:31:11 UT, i.e., 9.9 hours after trigger time. We obtained multiple exposures of 360 seconds in the r', i' and z' filters. We detected the source in i'-band at the coordinates given by Gemini North (Levan et al., GCN 38587). The obtained photometry are as follow:\n\n\n| MJD (mid)| tmid-t0 (in hours)  | Filter | Total Exposure (s) | Magnitude (AB) | Lim Mag (5-sigma)\n| -------------|----- | ------ | ------------------ | -------------- | ---- |\n| 60661.77892 |13.09| r'     | 5x360              | - | 20.8 |\n| 60661.69600 | 11.10| i'     | 3x360              | 19.53 +/- 0.10  | 20.4 |\n| 60661.75717 |12.57 | i'     | 5x360              | 19.92 +/- 0.11  | 20.4 |\n| 60661.73551 |12.05 | z'     | 5x360              | - | 19.2 |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction. The i band flux at the epoch of our observation is higher than the reported r and z band fluxes at earlier epochs in other optical detections (Levan et al., GCN 38587, Izzo et al., GCN 38588, Fan et al., GCN 38592, Jin et al., GCN 38607). We note that there is a WISE source present [WISEA J030746.09+305548.3](https://vizier.cds.unistra.fr/viz-bin/VizieR-S?WISEA%20J030746.09%2b305548.3) at the location, with a W1 band magnitude 17.591 +- 0.2.\n\nFurther observations are necessary to determine the nature of the source and presence of any variability.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB080409",
+  "eventId": "GRB 080409",
+  "bibcode": "2008GCN..7579....1S",
+  "createdOn": 1207746078000,
+  "circularId": 7579,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "Swift/UVOT began settled observations of the field of GRB 080409 starting \n88s after the BAT trigger (Holland et al., GCN Circ 7573). We do not \ndetect an optical/uv afterglow at the enhanced XRT position (Evans et al., \nGCN Circ. 7575) in the initial finding chart observations or subsequent \nsummed images down to the following 3 sigma upper limits:\n\nFilter  T_start T_stop  Exp.    Mag UL (3sig)\n \t(s)\t(s)\t(s)\nwhite   88      187     93      > 20.22\nwhite   682     7079    494     > 21.16\nv       188     587     393     > 19.45\nv       721     12243   1099    > 20.03\nb       667     676     412     > 20.42\nu       642     661     432     > 20.13\nuvw1    618     637     430     > 19.86\nuvm2    593     12940   1070    > 20.23\nuvw2    697     11330   1082    > 20.46\n\nThe above magnitudes are not corrected for the large Galactic extinction \nin the line of sight to GRB 080409, corresponding to a reddening of \nE(B-V)=0.78 mag (Schlegel et al., 1998, ApJS, 500, 525). The photometry is \non the UVOT flight system described in Poole et al. (2008, MNRAS, 383, \n627)."
+}

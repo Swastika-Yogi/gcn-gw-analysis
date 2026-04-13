@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050802: Swift Gamma-ray Burst",
+  "eventId": "GRB 050802",
+  "bibcode": "2005GCN..3734....1B",
+  "createdOn": 1122983581000,
+  "circularId": 3734,
+  "submitter": "David L. Band at NASA/GSFC  <dband@lheapop.gsfc.nasa.gov>",
+  "email": "dband@lheapop.gsfc.nasa.gov",
+  "body": "D. Band (GSFC-UMBC), C. Markwardt (GSFC-UMD), M. Perri\n(ASDC), K. McGowan (MSSL), C. Gronwall (PSU), K. Page (U.\nLeicester), J. Racusin (PSU), D. Burrows (PSU), N. Gehrels\n(GSFC), J. Kennea (PSU), report on behalf of the Swift\nTeam:\n\nAt 10:08:02 UT, Swift-BAT triggered and located GRB050802\n(trigger=148646).  The spacecraft slewed immediately.  The\nBAT on-board calculated location is RA,Dec 219.287, +27.806\n{+14h 37m 09s, +27d 48' 23\"} (J2000), with an uncertainty\nof 3 arcmin (radius, 90% containment, stat+sys).  The BAT\nlight curve has a total duration of ~20 sec.  The peak\ncount rate was ~2000 counts/sec (15-350 keV).\n\nThe XRT began observing at 10:12:51 UT, 289 seconds after\nthe BAT trigger. XRT was unable to centroid on any source,\nhowever the downlinked lightcurve and raw spectrum show a\nbright variable source is present in the XRT field of view.\nThere are no catalogued X-ray sources in the field,\nsuggesting that this bright source is the GRB afterglow.\n\nSwift-UVOT began observations after the slew, however, the\nUVOT dark burst image did not come down via TDRSS so no\ninformation is available at this time.  Detailed analysis\nwill be performed when data is available after the next\nMalindi pass.\n\n[GCN OPS NOTE(02aug05): Per author's request, The \"05080\"\nin the Subject-line was changed \"050802\".]"
+}

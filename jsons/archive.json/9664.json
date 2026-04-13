@@ -1,0 +1,9 @@
+{
+  "subject": "Swift satellite anomaly",
+  "bibcode": "2009GCN..9664....1G",
+  "createdOn": 1247603763000,
+  "circularId": 9664,
+  "submitter": "Neil Gehrels at GSFC  <gehrels@milkyway.gsfc.nasa.gov>",
+  "email": "gehrels@milkyway.gsfc.nasa.gov",
+  "body": "The Swift observatory is currently experiencing an anomaly, and\nnormal science operations have been temporarily suspended. Data\non the onboard solid state recorder (SSR) were found to be\ncorrupted starting at 1532UT on July 12.  The spacecraft is still\npointing as commanded.  Good data are returned when the\ndownlink is through TDRSS and when real-time data are sent to the\nMalindi ground station during a pass.  It appears that the problem\nis in the writing or storage of data on the SSR.  The anomaly is\nbeing worked by a group including the operations team at Penn\nState, the Swift project at Goddard and the General Dynamics\nengineering team in Gilbert, Arizona.  The first step will be to fully\ncharacterize the problem, followed by efforts to restore operations\nof the SSR.\n\nDuring this time, Swift will observe targets that were being viewed\nprior to the anomaly.  Swift will not slew to new TOOs or new GRBs.\nBAT will continue to detect new GRBs and transients, and will\ntelemeter the usual messages through TDRSS to the ground for\ndistribution by the GCN.  XRT and UVOT continue to observe, but\nalmost none of the science data are being successfully transmitted\nto the ground.  Ground-based follow-up of BAT GRBs is strongly\nencouraged.\n\nMore information will follow as we learn more."
+}

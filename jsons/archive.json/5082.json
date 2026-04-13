@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060505: Swift/UVOT Observations",
+  "eventId": "GRB 060505",
+  "bibcode": "2006GCN..5082....1B",
+  "createdOn": 1146935866000,
+  "circularId": 5082,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P J. Brown (Penn State) & D. Palmer (LANL)\non behalf of the Swift/UVOT team.\n\nThe Swift/UVOT began observing the field of GRB060505\n(BAT Trigger=208654, Palmer et. al, GCN 5076) at\n2006-05-05 20:58:30 UT, 14.37 hours after the BAT trigger.\nThe galaxy at the position of the first XRT source\n(Conciatore et al GCN 5078) is detected in all 6 filters\nbut does not show significant variation, consistent with\nConciatore et al (GCN 5081).\n\nNo source is detected at the position of the second XRT\nsource (Conciatore et al GCN 5081) in coadded images with\nany of the filters. The following 5-sigma magnitude\nupper limits are not corrected for Galactic extinction.\n\nFilter   T_range(h)  T_exp(s)  5sigmaUpperLimit(mag)\n\nV        14.85-19.73   835      19.1\nB        14.56-19.44   835      20.2\nU\t 14.49-19.38   835      19.9\nUVW1     14.37-19.32   1666     19.8\nUVM2     14.92-19.85   1987     20.1\nUVW2     14.62-19.67   3388     21.0\n\nWhere T_range is time post-trigger in hours, and T_exp\nis the exposure time of the summed image in seconds."
+}

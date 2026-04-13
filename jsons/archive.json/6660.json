@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT refined analysis of GRB070724",
+  "eventId": "GRB 070724",
+  "bibcode": "2007GCN..6660....1D",
+  "createdOn": 1185300338000,
+  "circularId": 6660,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and H. Ziaeepour (MSSL-UCL) report on\nthe behalf of the Swift UVOT/team:\n\n  The Swift/UVOT observed the field of GRB070724 starting 58s after\nthe BAT trigger (Ziaaepour et al. GCN circ. 6654). Inside the\nrefined XRT error circle (Page et al., GCN circ 6659) we do not\nfind any new source, either in the first finding chart exposures\nin the White and V filter or in the summed exposures of any of the\nUVOT filters.\n\n  The 3 sigma upper limits for detecting a source inside the XRT\nerror circle are:\n\n  Filter  T obs (s)  Exp (s)  Mag (3 sigma u.l.)\n\n  White    76-176      98           20.4\n\n   v      182-581     393           19.5\n\n\n  White   76-5531     380           21.1\n\n   v     182-5941     806           20.0\n\n   b     662-5325     216           20.3\n\n   u     636-6456     332           20.0\n\n  uvw1   612-6352     432           20.4\n\n  uvm2   587-6146     432           20.4\n\n  uvw2   692-5736     432           20.7\n\n\n  No correction has been done for the expected low Galactic\nreddening towards the burst, E(B-V)=0.01 (Schlegel et al.\n11998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090407: Swift UVOT Upper Limits",
+  "eventId": "GRB 090407",
+  "bibcode": "2009GCN..9106....1O",
+  "createdOn": 1239140084000,
+  "circularId": 9106,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R.  Oates (MSSL-UCL) and H. Ziaeepour (MSSL-UCL) report on behalf  \nof the Swift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 090407 98 s\nafter the BAT trigger (Ziaeepour et al., GCN Circ. 9101). No\noptical afterglow is detected in the initial UVOT exposures at\nthe refined position of the X-ray afterglow (Evans et al., GCN Circ.  \n9105).\n\nThe 3 sigma upper limits for the finding chart (fc) and summed\nexposures are reported below.\n\nFilter    T_start (s) T_stop  Exposure      Mag/3UL\n------------------------------------------------------------\nwhite fc    98          248          147         <20.50\nu fc\t          310       559          246         <19.89\nwhite        590       2050        303         <21.04\nv               640        5550        352         <19.25\nu    \t         713        2001        136         <19.61\nb    \t         565        2026        156         <19.99\nuvw1       689\t        1977        136         <19.35\nuvm2       664        5607        207         <19.49\nuvw2       615\t        2071        170         <19.74\n\t\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} =  0.40 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric system\ndescribed in Poole et al. (2008, MNRAS, 383,627)."
+}

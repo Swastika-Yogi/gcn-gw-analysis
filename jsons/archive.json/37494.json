@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240905E: further NOT optical observations",
+  "eventId": "GRB 240905E",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37494....1F",
+  "createdOn": 1726294649921,
+  "circularId": 37494,
+  "submitter": "Dong Xu at NAOC/CAS <dxu@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "S.Y. Fu (NAOC), J.P.U. Fynbo (DAWN/NBI), L. Izzo (INAF/OAC and DARK/ NBI), D. B. Malesani (DAWN/NBI and Radboud Univ.), D. Xu (NAOC), N. Koivisto (NOT and UTU) report on behalf of a large collaboration:\n\nWe observed again the field of GRB 240905E detected by Swift/BAT (Dichiara et al., GCN 37397), and SVOM/GRM (Zhang et al., GCN 37404), using the 2.56-m Nordic Optical Telescope (NOT) equipped with the ALFOSC camera. We obtained 8 x 300 s frames in the Sloan r-band, starting at 2024-09-12T04:39:24.2, i.e., 6.43 days after the Swift/BAT trigger.\n\nNo new optical transient is detected in our stacked images within the refined Swift/XRT error circle (Ferro et al., GCN 37406), consistent with previous optical upper limits (Lipunov et al., GCN 37398; An et al., GCN 37399; Moskvitin &amp; Spiridonova, GCN 37401; Shilling et al., GCN 37402; Strausbaugh et al., GCN 37403; Brivio et al., GCN 37408; Fu et al., GCN 37409; Adami et al., GCN 37412; Wu et al., GCN 37413; Odeh et al., GCN 37414; Belkin et al., GCN 37415;  Mo et al., GCN 37416; Maksut et al., GCN 37419; Fu et al., GCN 37420; Mohan et al., GCN 37422; Qiu et al., GCN 37453). The 5-sigma limiting magnitude is r ~ 23.5 mag, calibrated against nearby Pan-STARRS stars, and not corrected for Galactic extinction.\n\nThe optical source report by CrAO (Belkin et al., GCN 37415) is detected in our two epochs at the NOT (Fu et al., GCN 37409). The photometric results are as follow:\n\nTmid time | T-T0 (days) | Filter | Magnitude (AB)\n---------------------------------------\n2024-09-05T20:51:11.5 | 0.10 | r |23.09 +- 0.12\n2024-09-12T05:15:23.6 | 6.45 | r |23.10 +- 0.15\n\nThere is no variability between the two epochs. And the NOT magnitude is also consistent with r = 23.37 +/- 0.27 that we measure from the Pan-STARRS-DR1 r-band image. Also considering the large offset from the refined X-ray position (Ferro et al., GCN 37406), we conclude that this source is unrelated to the GRB. "
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250119C",
+  "eventId": "GRB 250119C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39045....1S",
+  "createdOn": 1737982115992,
+  "circularId": 39045,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 250119C\n(Fermi-GBM detection: The Fermi GBM team, GCN 38990;\nSmith and Meegan, GCN 39030;\nSwift-BAT/GUANO detection: Ronchini et al., GCN 39008)\nwas detected by Fermi (GBM trigger 759019271), Swift (BAT),\nKonus-Wind, and INTEGRAL (SPI-ACS) at about 81666 s UT (22:41:06).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  158.335 (10h 33m 20s) +20.621 (+20d 37' 17\")\n Corners:\n  135.211 (09h 00m 51s) +18.215 (+18d 12' 54\")\n  179.680 (11h 58m 43s) +14.804 (+14d 48' 15\")\n  182.465 (12h 09m 52s) +23.952 (+23d 57' 06\")\n  135.484 (09h 01m 56s) +27.480 (+27d 28' 47\")\n ---------------------------------------------\nThe error box area is 393.4 sq. deg, and its maximum\ndimension is 44.2 deg (the minimum one is 9.2 deg).\nThe Sun distance was 124 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM (GCN 38990) and Swift-BAT/GUANO (GCN 39008) localizations.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250119_T81666/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density."
+}

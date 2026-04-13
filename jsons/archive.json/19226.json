@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 680457 is not a GRB",
+  "bibcode": "2016GCN.19226....1B",
+  "createdOn": 1458913640000,
+  "circularId": 19226,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), D. N. Burrows (PSU), J. A. Kennea (PSU),\nA. Y. Lien (GSFC/UMBC), K. L. Page (U Leicester),\nT. G. R. Roegiers (PSU), B. Sbarufatti (INAF-OAB/PSU) and\nM. H. Siegel (PSU) report on behalf of the Swift Team:\n\nAt 13:16:35 UT, the Swift Burst Alert Telescope (BAT) triggered \non a noise event (trigger=680457).  Swift slewed immediately. \nThe BAT on-board calculated location is \nRA, Dec 292.702, -0.668, which is \n   RA(J2000)  =  19h 30m 48s\n   Dec(J2000) = -00d 40' 02\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The real-time TDRSS BAT light curve does not show\nanything significant. \n\nGiven that this trigger occurred while entering the SAA region, the increasing\nbackground diminishes the likelihood that this trigger is real.  That plus\nthe low image domain significance (6.55 sigma) indicates that this trigger\nis due to noise and not anything astrophysical. \n\nThe XRT began observing the field at 13:17:27.8 UT, 52.8 seconds after\nthe BAT trigger. No source was detected in the 2.5-s promptly available\nimage."
+}

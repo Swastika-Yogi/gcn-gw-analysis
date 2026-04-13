@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100216A: XRT Refined Analysis",
+  "eventId": "GRB 100216A",
+  "bibcode": "2010GCN.10435....1R",
+  "createdOn": 1266623515000,
+  "circularId": 10435,
+  "submitter": "Antonia Rowlinson at U.of Leicester  <bar7@star.le.ac.uk>",
+  "email": "bar7@star.le.ac.uk",
+  "body": "A. Rowlinson (U. Leicester), K. Page (U. Leicester) and N. Lyons (U.\nLeicester) report on behalf of the Swift-XRT team:\n\nWe have analysed 9.9 ks of XRT data for GRB 100216A (Cummings et al. GCN\nCirc. 10428), from 214.4 ks to 249.2 ks after the BAT trigger. The data\nare entirely in Photon Counting (PC) mode.\n\nWe do not detect any fading source within the BAT refined error circle\nof Cummings et al. (GCN Circ. 10428). A source is detected within the\nBAT refined error circle at RA, Dec = 154.25836, +35.56772 which is\nequivalent to:\n\nRA (J2000): 10h 17m 2.0s\nDec (J2000): +35d 34' 3.8''\n\nwith an uncertainty of 5 arcsec (radius, 90% confidence) and is likely\nto be the known X-ray source 1RXS J101702.9+353404. This source has a\ncount rate of 0.004 count s^-1, corresponding to a flux of 2.6e-13 erg\ncm^-2 s^-1, however fading cannot be determined at this time and futher\nobservations are being planned.\n\nThe three sigma upper limit 0.3 - 10 keV count rate for a source at any\nother position within the BAT error circle is 6e-4 count s^-1, which\ncorresponds to an observed flux limit of 2.3e-14 erg cm^-2 s^-1\n(assuming a typical count-to-observed flux conversion factor of 3.8e-11\nerg cm^-2 ct^-1, Evans et al., 2009, MNRAS, 397, 1177).\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.acc.uk/xrt_products/00020127.\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251023C: Glowbug gamma-ray detection",
+  "eventId": "GRB 251023C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42429....1W",
+  "createdOn": 1761341884825,
+  "submitter": "richard.s.woolf.civ@us.navy.mil",
+  "circularId": 42429,
+  "format": "text/plain",
+  "body": "R. Woolf, C.C. Cheung, M. Kerr, J.E. Grove (NRL), A. Goldstein (USRA), C.A. Wilson-Hodge, D. Kocevski (MSFC), and M.S. Briggs (UAH) report:\n \nThe Glowbug gamma-ray telescope [1,2,3], operating on the International Space Station, reports the detection of GRB 251023C, which was also detected by Swift/BAT-GUANO (GCN 42412), CALET (GCN 42414), and AstroSat CZTI (GCN 42419). \n \nUsing an adaptive window with a resolution of 32-ms, the burst onset is determined to be 2025-10-23 16:24:17.240 with a duration of 30.7 s and a total significance of about 110 sigma.  The light curve comprises two primary peaks at ~T0+10s and ~T0+14s, and a tertiary peak around ~T0+28s. The Glowbug onset is ~7.7 s earlier than the CALET-reported T0 because we detect low-level emission prior to the first peak at ~T0+10s.\n\nThe best-fit localization is RA, Decl. (J2000, deg) = 333.9, 58.4 with a radius of 2.1 deg (95% confidence), with a highly uncertain systematic uncertainty. We note that this localization is offset by ~40 deg from the Swift/BAT-GUANO-reported localization.\n \nThe analysis results presented here are preliminary and use a response function that lacks a detailed characterization of the surrounding passive structure of the ISS.\n \nGlowbug is a NASA-funded technology demonstrator for sensitive, low-cost gamma-ray transient telescopes developed, built, and operated by the U.S. Naval Research Laboratory (NRL) with support from the University of Alabama in Huntsville, USRA, and NASA MSFC.  It was launched on 2023 March 15 aboard the Department of Defense Space Test Program’s STP-H9 to the ISS, and operated until 2024 April when it was put in safe storage on orbit. Glowbug was removed from storage and resumed operation on 2025 September 12.\n \n[1] Grove, J.E. et al. 2020, Proc. Yamada Conf. LXXI, arXiv:2009.11959\n[2] Woolf, R.S. et al. 2022, Proc. SPIE, 12181, id. 121811O\n[3] Woolf, R.S. et al. 2024, Proc. SPIE, 13151, id. 1315108\n \nDistribution Statement A: Approved for public release.  Distribution is unlimited.\n"
+}

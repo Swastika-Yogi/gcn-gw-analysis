@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101023A: Swift-BAT refined analysis",
+  "eventId": "GRB 101023A",
+  "bibcode": "2010GCN.11367....1S",
+  "createdOn": 1287890447000,
+  "circularId": 11367,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "M. Stamatikos (OSU), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nC. J. Saxton (UCL-MSSL), J. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+542 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 101023A (trigger #436981)\n(Saxton, et al., GCN Circ. 11363).  The BAT ground-calculated position is\nRA, Dec = 317.949, -65.389 deg, which is \n   RA(J2000)  =  21h 11m 47.8s \n   Dec(J2000) = -65d 23' 20.1\" \nwith an uncertainty of 1.4 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 11%.\n \nThe mask-weighted light curve shows a small peak starting at ~T-10 sec, peaking\nat T_zero.  The main emission starts with about 3 overaping peaks peaking at\n~T+54 and ~T+58 sec and ending at ~T+140 sec.  T90 (15-350 keV) is 80.8 +- 2.2 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T-11.0 to T+137.3 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 1.26 +- 0.15, \nand Epeak of 101.1 +- 18.9 keV (chi squared 45.1 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 2.7 +- 0.1 x 10^-5 erg/cm2\nand the 1-sec peak flux measured from T+57.34 sec in the 15-150 keV band is\n0.0 +- 0.0 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.67 +- 0.03 (chi squared 69.3 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/436981/BA/"
+}

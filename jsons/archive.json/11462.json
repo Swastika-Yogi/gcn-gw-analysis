@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101219A: ROTSE-III Optical Limits",
+  "eventId": "GRB 101219A",
+  "bibcode": "2010GCN.11462....1P",
+  "createdOn": 1292727957000,
+  "circularId": 11462,
+  "submitter": "Shashi Bhushan Pandey at ROTSE  <shaship@umich.edu>",
+  "email": "shaship@umich.edu",
+  "body": "S. B. Pandey (U Mich), W. Zheng (U Mich) and W. Rujopakarn (Steward),\nreport on behalf of the ROTSE collaboration:\n\nROTSE-IIIc, located at the H.E.S.S. site at Mt. Gamsberg, Namibia,\nresponded to GRB 101219A (Swift trigger 440606; Gelbord J. M., GCN 11461),\nproducing images beginning 8.1 s after the GCN notice time. An automated\nresponse took the first image at 02:31:48.0 UT, 12.0 s after the burst,\nunder fair conditions. We took 10 5-sec, 10 20-sec and 10 60-sec exposures.\nThese unfiltered images are calibrated relative to USNO A2.0 (R). Imaging\nis on going.\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle or the XRT error circle, for both single\nimages and coadding into sets of 10. Individual images have limiting\nmagnitudes ranging from 15.7-17.2; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n02:31:48.0   02:31:53.0         5     15.7           12.0       N\n02:31:48.0   02:33:04.1        76     17.2           90.0       Y"
+}

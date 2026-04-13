@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251126A: TShAO, Mondy, and AbAO optical observations",
+  "eventId": "GRB 251126A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42875....1P",
+  "createdOn": 1764365436692,
+  "circularId": 42875,
+  "submitter": "Alina Volnova at IKI RAS <alinusss@gmail.com>",
+  "format": "text/plain",
+  "body": "N. S. Pankov (HSE, IKI), A. A. Volnova (IKI), I. V. Reva (FAI), E. Klunko (ISTP), R. Ya. Inasaridze (AbAO), A. S. Moskvitin (SAO RAS), A. S. Pozanenko (IKI) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of Swift GRB 251126A (Caputo et al., GCN 42843; Evans, GCN 42845; Goad et al., GCN 42851) with the \nZeiss-1000 1m telescope of the Tien-Shan Observatory (TSHAO), the AZT-33IK 1.5m telescope of the Sayan Solar Observatory (Mondy), and the AS-32 0.7m telescope of Abastumani Observatory (AbAO) taking several frames in R-band. The observations began at TSHAO on 2025-11-27 at 16:32 UT (~0.907 days after the trigger), further observations at AZT-33IK started at 18:55 (~1.01 days after the trigger), then followed by AbAO starting at 20:09 UT (~1.06 days after the trigger). The optical afterglow (Swain, GCN 42844; Fu et al., GCN  42848; Reguitti et al., GCN 42849; Broens et al., GCN 42850; Anguloet al., GCN 42855; Pulido-Torres et al; GCN 42856; Gupta et al., GCN 42857; Cotter et al., GCN 42858; Seki et al, GCN 42859; Volnova et al, GCN 42861; Breeveld, GCN 42863; Gupta et al., GCN 42864; Burkhonov et al., GCN 42866; Maksut et al., GCN 42868; Moskvitin et al., GCN 42870; Adami et al., GCN 42871) is not detected in the stacked frames from Zeiss-1000 and AS-32 and is seen in the stacked AZT-33IK frame. \n\nThe preliminary results and observational details are provided below.\n\nDate        UT start  t-T0       Exp.    Filter  OT     Err.  UL      Site/Instrum\n                     (mid,days)  (n*s)                       (3sigma)\n2025-11-27  16:32:42  0.90745    35*90   R       n/d    n/d   21.2    TSHAO/Zeiss-1000\n2025-11-27  18:55:21  1.01164    30*120  R       22.10  0.12  22.3    Mondy/AZT-33IK\n2025-11-27  20:09:59  1.06624    72*60   R       n/d    n/d   21.9    AbAO/AS-32\n\nThe photometry is based on several nearby stars from the USNO-B1 catalogue (R2 magnitudes) and is not corrected for the Galactic extinction."
+}

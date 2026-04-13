@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220412A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 220412A",
+  "bibcode": "2022GCN.31885....1B",
+  "createdOn": 1649780420000,
+  "circularId": 31885,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. Breeveld (UCL-MSSL) and N. Klingler (GSFC/UMBC/CRESSTII) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 220412A 127 s after the BAT trigger \n(Klingler et al., GCN Circ. 31881).\nNo optical afterglow consistent with the RATIR position (Watson et al., GCN Circ. 31882) is detected \nin the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. \nProc. 1358, 373) for the first finding chart (FC) exposures and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           127          276          147         >20.5\nu_FC               285          479          191         >19.6\nwhite              566          758           34         >19.7\nb                  542          734           34         >18.97\nv                  616         1059           53         >18.18\nuvw1               665          857           34         >18.25\nuvw2               592         1039           58         >18.64\nuvm2               813          833           20         >17.37\n\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of \nE(B-V) = 0.0373 in the direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061025: ROTSE-III Optical Limits",
+  "eventId": "GRB 061025",
+  "bibcode": "2006GCN..5752....1R",
+  "createdOn": 1161806131000,
+  "circularId": 5752,
+  "submitter": "Eli Rykoff at U of Michigan/ROTSE  <erykoff@umich.edu>",
+  "email": "erykoff@umich.edu",
+  "body": "E.S. Rykoff (U Mich), B. E. Schaefer (Louisiana State), R. Quimby (U \nTexas), H. Swan (U Mich), S.A. Yost (U Mich), report on behalf of the \nROTSE collaboration:\n\nROTSE-IIIc, located at the H.E.S.S. site at Mt. Gamsberg, Namibia, \nresponded to GRB 061025 (Integral trigger 3525, Mereghetti, et al, GCN \n5751), producing images beginning 4.6 s after the GCN notice time. An \nautomated response took the first image at 18:36:46.6 UT, 44.7 s after \nthe burst, under excellent conditions. We took 10 5-sec, 10 20-sec and \n31 60-sec eposures. These unfiltered images are calibrated relative to \nUSNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the \n90% INTEGRAL error circle, for both single images and coadding into sets \nof 10; however, we are limited as the field is somewhat crowded.  We \nnote that the bright elliptical galaxy NGC 6851 is in the error box. \nIndividual images have limiting magnitudes ranging from 13.3-16.9; we \nset the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n18:36:46.6   18:36:51.6         5     15.2           44.7       N\n18:36:46.6   18:39:01.9       135     16.9           44.7       Y\n18:39:11.4   18:43:57.0       285     17.5          189.5       Y"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift trigger 314975 is not a GRB",
+  "bibcode": "2008GCN..7893....1M",
+  "createdOn": 1214140203000,
+  "circularId": 7893,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "K. McLean (GSFC/UMD), S. D. Barthelmy (GSFC), W. Baumgartner (GSFC/UMBC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nS. Immler (CRESST/GSFC/UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nK. L. Page (U. Leicester), D. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the BAT data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of trigger #314975 (Immler, et al., GCN Circ. 7892).\nGround processing of the full data set does not show any significant emission.\nThere is a pair of cosmic ray shower events within the trigger time interval plus\na small ~3-sigma fluctuation in the 25-100 keV band.\n\nThe XRT did not detect any sources, down to a conservative 3-sigma upper limit\nof 2.5x10^-3 count s^-1 (using 3.4 ks of data obtained between 2 and 15 hours\nafter the trigger).\n\nGiven no other indications within the data, we conclude that this trigger\nwas caused by these temporally coincident noise events and not due to\nanything astrophysical."
+}

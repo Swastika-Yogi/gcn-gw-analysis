@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190324A: Swift-XRT refined Analysis",
+  "eventId": "GRB 190324A",
+  "bibcode": "2019GCN.24004....1D",
+  "createdOn": 1553503900000,
+  "circularId": 24004,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. D'Ai (INAF-IASFPA), A. Melandri (INAF-OAB), P. D'Avanzo (INAF-OAB),\nA. Tohuvavohu (PSU), S. J. LaPorte (PSU), J.A. Kennea (PSU), A.P.\nBeardmore (U. Leicester), P.A. Evans (U. Leicester), J.P. Osborne (U.\nLeicester) and S.J. LaPorte report on behalf of the Swift-XRT team:\n\nWe have analysed 6.6 ks of XRT data for GRB 190324A (LaPorte et al. GCN\nCirc. 23993), from 3.3 ks to 28.6 ks after the\tBAT trigger. The data\nare entirely in Photon Counting (PC) mode. The enhanced XRT position\nfor this burst was given by Beardmore et al. (GCN Circ. 24001).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=1.33 (+/-0.05).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.00 (+0.10, -0.09). The\nbest-fitting absorption column is  8.6 (+2.4, -2.2) x 10^20 cm^-2, in\nexcess of the Galactic value of 1.7 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.3 x 10^-11 (4.0 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     8.6 (+2.4, -2.2) x 10^20 cm^-2\nGalactic foreground: 1.7 x 10^20 cm^-2\nExcess significance: 5.0 sigma\nPhoton index:\t     2.00 (+0.10, -0.09)\n\nIf the light curve continues to decay with a power-law decay index of\n1.33, the count rate at T+24 hours will be 0.032 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 1.1 x\n10^-12 (1.3 x 10^-12) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00894718.\n\nThis circular is an official product of the Swift-XRT team."
+}

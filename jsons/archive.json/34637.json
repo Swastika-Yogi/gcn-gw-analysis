@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 230906A (short)",
+  "eventId": "GRB 230906A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2023GCN.34637....1K",
+  "createdOn": 1694098707796,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 34637,
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks,  A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe bright, short-duration GRB 230906A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 34631)\nwas detected by Fermi (GBM trigger 715697712), INTEGRAL (SPI-ACS),\nKonus-Wind, and Mars-Odyssey (HEND) at about 46507 s UT (12:55:07).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n   79.757 (05h 19m 02s) -47.887 (-47d 53' 13\")\n Corners:\n   79.710 (05h 18m 50s) -47.945 (-47d 56' 41\")\n   79.748 (05h 19m 00s) -47.986 (-47d 59' 08\")\n   79.803 (05h 19m 13s) -47.829 (-47d 49' 45\")\n   79.765 (05h 19m 04s) -47.788 (-47d 47' 17\")\n ---------------------------------------------\nThe error box area is 20 sq. arcmin, and its maximum\ndimension is 12 arcmin (the minimum one is 2 arcmin).\nThe Sun distance was 91 deg.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM final localization (glg_healpix_all_bn230715190_v00).\n\nSwift ToO has been submitted (GCN 34636).\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230906_T46507/IPN/\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular.\n\n"
+}

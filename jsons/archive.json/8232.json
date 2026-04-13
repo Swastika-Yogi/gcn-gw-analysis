@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080915: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080915",
+  "bibcode": "2008GCN..8232....1B",
+  "createdOn": 1221485995000,
+  "circularId": 8232,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aad@mssl.ucl.ac.uk>",
+  "email": "aad@mssl.ucl.ac.uk",
+  "body": "A. Breeveld (MSSL-UCL) and S.R. Oates (MSSL-UCL) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080915 (Oates et al., GCN Circ.\n8227) with settled exposures starting 3872s after the trigger. We do not\nfind a source in any of the UVOT observations inside the XRT error\ncircle (Evans et al., GCN Circ. 8231). The 3-sigma upper limits in the\nUVOT photometric system (Poole et al. 2008, MNRAS, 383, 627) for\ndetecting a source in the first white finding chart exposure and\nsubsequent co-added exposures are:\n\nFilter          T_start T_stop  Exp     Mag (3-sigma UL)\n                  (s)     (s)     (s)\n=========================================================\nwhite (FC)      3872    3972    98.2    > 19.9\nwhite           5004    5204    196.6   > 20.5\nv               3979    4179    196.6   > 18.8\nv               9633    10539   885.1   > 19.7\nb               4799    4999    196.6   > 19.6\nu               4594    4794    196.6\t> 19.1\nuvw1            4389    4589    196.6\t> 19.3\nuvm2            4184    11087   731.3   > 20.4\nuvw2            5210    5329    117.3\t> 19.6\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E(B-V) = 0.049 mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050915: Swift-BAT refined analysis",
+  "eventId": "GRB 050915",
+  "bibcode": "2005GCN..3982....1B",
+  "createdOn": 1126799622000,
+  "circularId": 3982,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), L. Barbier (GSFC), J. Cummings (GSFC/NRC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hinshaw (GSFC-SPSYS),\nD. Hullinger (UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nP. Meszaros (PSU), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC),\non behalf of the Swift-BAT team:\n\nUsing the data set from T-100 to T+300 sec from the recent telemetry\ndownlink, we report further analysis of Swift-BAT GRB 050915 (trigger\n#155242)  (Grupe, et al., GCN 3977).  The refined BAT ground position is\nRA,Dec = 81.682d,-28.010d {5h26m43.7s,-28d0'36\"} [J2000] +/- 1.4 arcmin,\n(radius, sys+stat, 90% containment).  This position is 25 arcsec from \nthe XRT afterglow position reported in Kennea, et al. (GCN circ. 3979).  \nThe partial coding was 75%.\n\nThe light curve shows about seven 2-second long peaks from T-10 to \nT+20 sec and one more peak at about T+43 sec.  T90 (15-350 keV) is \n53 +- 3 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-8 to T+56 sec is well fit by a\nsimple power law.  The power law index is 1.36 +- 0.16.  The fluence\nin the 15-150 keV band is 8.8 +- 0.9 x 10^-7 erg/cm2.  The 1-sec peak\nphoton flux measured from T+13.7 sec in the 15-150 keV band is\n0.8 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel."
+}

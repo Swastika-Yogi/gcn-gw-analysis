@@ -1,0 +1,14 @@
+{
+  "subject": "EP260131a: VLT/X-shooter spectroscopic redshift z = 0.937",
+  "editedOn": 1770042498612,
+  "eventId": "EP260131a",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43582....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Daniele Bjørn Malesani at Cosmic Dawn Center, Niels Bohr Institute <daniele.malesani@nbi.ku.dk>",
+  "circularId": 43582,
+  "createdOn": 1769862263243,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "format": "text/plain",
+  "body": "B. Schneider (LAM), A. Saccardi (CEA/Irfu), J. An (NAOC), D. Xu (NAOC), D. B. Malesani (DAWN/NBI and Radboud), V. D'Elia (ASI-SSDC), S. D. Vergani (LUX-Paris Obs.), N. Habeeb (U. Leicester), N. R. Tanvir (U. Leicester), A. L. Thakur (INAF-IAPS) report on behalf of the Stargate collaboration:\n\nWe observed the optical counterpart (Li et al., GCN 43577; Sánchez Álvarez et al., GCN 43578, Malesani et al, GCN 43581) of EP260131a (Ding et al., GCN 43574) using the ESO/VLT UT3 (Melipal) equipped with the X-shooter spectrograph. Our spectra cover the wavelength range 3000-21000 AA and consist of 4 exposures of 1200 s each. Observations started on 2026 January 31 at 07:30:09 UT (3.98 hr after the burst).\n\nIn a stacked image of 3x60 s secured in the r-band (3.79 after trigger), we measure r = 21.20 +/- 0.04 (AB), calibrated against nearby stars from Pan-STARRS.\n\nIn a preliminary reduction of the spectra, we detect a continuum over the entire wavelength range. From detection in the blue down to 3090 AA, and the lack of hydrogen absorption, we set a redshift upper limit z < 1.54. Furthermore, we detect multiple absorption lines, which we interpret as Al II, Mn II, Fe II, Mg II doublet, and Ca II at a common redshift of z = 0.937.\n\nThe non-detection of fine-structure transitions at z = 0.937 does not allow us to firmly associate this redshift with the GRB, however, the absence of unidentified features at higher redshift and the good S/N over the full continuum, support z = 0.937 as the most likely redshift.\n\nWe acknowledge the excellent support of the ESO observing staff in Paranal, in particular Elisa Garro. The analysis of this spectrum was carried out with the help of the zHunter tool (https://doi.org/10.5281/zenodo.15189495)."
+}

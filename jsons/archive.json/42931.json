@@ -1,0 +1,14 @@
+{
+  "editedOn": 1764695157242,
+  "subject": "GRB 251201B: SVOM/VT optical fading",
+  "eventId": "GRB 251201B",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42931....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 42931,
+  "createdOn": 1764636358847,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H.L. Li, L.P. Xin, Y. L. Qiu, C. Wu, Z. H. Yao, Y. N. Ma, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA)  report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation to the field of GRB 251201B  (Fermi GBM team, GCN 42923; Moss et al., GCN 42924; Osborne et al., GCN 42927; Goyal et al., GCN 42925). The observation  stared at 2025-12-01T17:48:58 UTC, I.e., 1.40 hours post trigger  in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n \nThe optical counterpart (Cerón et al., GCN 42929;Buckley et al., GCN 42930) was detected Within the error box of Swift-UVOT (Moss et al., GCN 42924) and Swift-XRT (Osborne et al., GCN 42927).\nThe position is at R.A., Dec. = 6.39414, -44.23374  degrees, equivalent to:\nR.A. (J2000) =    0:25:34.59\nDec. (J2000) =  -44:14:01.46\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitude without correction for Galactic extinction are given below:\n\nMid_time        Band        Exposure Time       Magnitude (AB)\n1.40 hours      VT_B            70 sec         18.56+/-0.03 mag                      \n1.40 hours      VT_R            70 sec         18.08+/-0.03 mag \n3.04 hours      VT_B            70 sec         19.46+/-0.04 mag                      \n3.04 hours      VT_R            70 sec         18.97+/-0.04 mag \n\nIt was fading with a slope of about -1.0  with a single power law.\n\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181010A: Swift/UVOT Detection",
+  "eventId": "GRB 181010A",
+  "bibcode": "2018GCN.23317....1E",
+  "createdOn": 1539176125000,
+  "circularId": 23317,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and A. Melandri (INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 181010A\n96 s after the BAT trigger (Melandri et al., GCN Circ. 23309).\nA source consistent with the XRT position\n(Evans et al. GCN Circ. 23313)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  03:30:16.89 =  52.57038 (deg.)\n    Dec (J2000) = -23:02:15.4  = -23.03761 (deg.)\nwith an estimated uncertainty of 0.49 arc sec. (radius, 90% confidence),\n\nconsistent with (MASTER-OAFA, Gorbovskoy et al., GCN Circ. 23310;\nLCO Cerro Tololo, Martone et al., GCN Circ. 23311; RATIR, Troja et al., GCN Circ. 23312;\nVLT/X-shooter, Vielfaure et al., GCN Circ. 23315)\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)       Mag\n\nwhite_FC            96          246          147        19.42 +/- 0.09\nwhite              589         6359          247        >21.0\nv                 3867         5503          393        >19.4\nb                  564         6323          413        >20.9\nu                  309         6117          639        >20.6\nuvw1              4277         5912          393        >20.1\nuvm2              4072         5707          393        >20.7\nuvw2              5098         5298          197        >20.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

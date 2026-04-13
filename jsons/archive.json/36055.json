@@ -1,0 +1,10 @@
+{
+  "subject": "X-ray transient EP240315a: second epoch e-MERLIN radio observations",
+  "eventId": "EP240315a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36055....1R",
+  "createdOn": 1712679727923,
+  "circularId": 36055,
+  "submitter": "Lauren Rhodes at Oxford <lauren.rhodes@physics.ox.ac.uk>",
+  "body": "L. Rhodes (Oxford), G. Bruni (INAF-IAPS), L. Piro, G. Gianfagna, A.L. Thakur (INAF-IAPS), J. Bright, F. Carotenuto, S. Smartt, R. Fender (Oxford), P. Jonker (Radboud) report:\n\nWe observed the new Fast X-ray Transient EP240315a (Zhang et al., GCN 35931) with the e-Merlin radio telescope under the projects DD17003 (PI: Piro) and DD17004 (PI: Rhodes) at 5 GHz for a total of ~16 hours using a combination of two runs in two consecutive nights (from ~17:00 UT to ~01.00 UT, on March 27 and 28, 2024). \n\n3C286 was used for flux scale calibration, and 0933-0819 for complex gain, respectively. The beam size was 0.15x0.03arcsec. Data was reduced with the eMERLIN pipeline and imaged with CASA. The image RMS was 21 uJy/beam. \n\nWe did not find statistically significant emission at a level above 5-sigma at the position of the optical counterpart (AT2024eju, Srivastav et al., GCN 35932). Thus, we estimated a 5 sigma upper limit of 105 uJy at 5 GHz. Our upper limit is consistent with the reports by Leung et al., GCN 35968 and Ricci et al., GCN 35990). \n\nTo search for fainter emission at the position of AT2024eju, we concatenated our two e-Merlin epochs (reported here and in Bruni et al., GCN 35980). Using a uniform weighting, we find a source with a flux density of about 70 uJy/beam at coordinates consistent with AT2024eju. The rms noise in this image is ~20uJy/beam.  \n\nWe thank the e-Merlin staff for their excellent support.\n"
+}

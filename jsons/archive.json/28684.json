@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201017A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 201017A",
+  "bibcode": "2020GCN.28684....1H",
+  "createdOn": 1603116808000,
+  "circularId": 28684,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, K. L. Murata, R. Adachi, M. Niwano, F. Ogawa, N.\nNakamura, N. Ito, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.\nKawai (TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 201017A (The Fermi GBM team, GCN #28665,\nA. D'Ai et al., GCN #28666, V. Lipunov et al., GCN #28667, L. P. Xin\net al., GCN #28672, S. Belkin et al., GCN #28679) with the optical\nthree color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm\ntelescope of Akeno Observatory, Yamanashi,  Japan.\nThe observation started at 2020-10-17 12:53:15 UT.(186 min after\ntrigger) Since some images were heavily affected by bad weather, we\nstacked the images with good conditions. We did not find any new point\nsources within the enhanced Swift/XRT circle (M. R. Goad et al., GCN\n#28671) in all three bands.\nWe obtained the 5-sigma limits as follows\nT0+[min] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n296 17:53:37 9480 g'>20.0,Rc>19.9,Ic>19.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used the PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al., accepted for publication in PASJ,\nhttps://arxiv.org/abs/2008.11486; https://github.com/MNiwano/Eclaire)."
+}

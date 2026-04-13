@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230307A: Swift/UVOT detection",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33471....1B",
+  "createdOn": 1678722892000,
+  "circularId": 33471,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL), and C. Salvaggio (INAF-OAB) report on behalf \nof the Swift/UVOT team:\n\nThe Swift/UVOT began observations of the field of GRB 230307A 99.5 ks \nafter the Fermi/GBM-detected trigger (Dalessi et al., GCN 33407).\nA fading source consistent with the enhanced XRT position (Burrows et \nal., GCN 33465) and consistent with the optical counterpart reported by \nLevan et al. (GCN 33439), Lipunov et al. (GCN 33441), Fulton et al. (GCN \n33443), O'Connor et al. (GCN 33447), Im et al. (GCN 33449), Vanderspek \net al. (GCN 33453) and Bom et al. (GCN 33459) is detected in the initial \nUVOT exposures. Detections and 3 sigma upper limits are given in the \nfollowing table:\n\nFilter      T_start(s) T_stop(s)   Exp(s)   Mag\n\nwhite        99525      110441      2265     21.28 +/- 0.16\nwhite       133031      208070      2931     22.09 +/- 0.32\nwhite       212899      420530      3418    >22.25\nu            83621       88252       422    >20.44\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.084 in the direction of \nthe burst (Schlegel et al. 1998)."
+}

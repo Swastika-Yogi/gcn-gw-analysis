@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G268556: Refined localization from CBC parameter estimation",
+  "eventId": "LIGO/Virgo G268556",
+  "bibcode": "2017GCN.21056....1L",
+  "createdOn": 1493734570000,
+  "circularId": 21056,
+  "submitter": "Christopher Berry at U of Birmingham/LVC  <cplb@star.sr.bham.ac.uk>",
+  "email": "cplb@star.sr.bham.ac.uk",
+  "body": "The LIGO Scientific Collaboration and Virgo Collaboration report:\n\nWe have completed a Bayesian parameter-estimation analysis of the GW\ncandidate G268556 (GCN 20364) under the assumption that the signal\narises from a compact binary coalescence (CBC) and using the latest\ncalibration of the GW strain data. The data are still found to be\nconsistent with a binary black hole merger.\n\nA refined sky localization is now available and can be retrieved\nfrom GraceDB (https://gracedb.ligo.org/events/G268556):\n\n * LALInference_f.fits.gz, produced using a coherent Bayesian\n   analysis (Veitch et al. PRD 91, 042003) of the full GW signal\n   including spin precession, and incorporating the potential\n   effects of calibration errors. We regard this LALInference sky\n   map as the most authoritative localization for this event.\n\nThe localization is similar in structure to previous ones (GCN\n20364 and 20385), with two arcs tracing part of the annulus set by\nthe 3 ms delay in arrival time between the Hanford and Livingston\nobservatories. The differences compared to previous localizations\nare primarily a consequence of the improved calibration of the data."
+}

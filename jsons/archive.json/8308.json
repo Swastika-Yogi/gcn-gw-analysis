@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081001: Swift UVOT Observations",
+  "eventId": "GRB 081001",
+  "bibcode": "2008GCN..8308....1H",
+  "createdOn": 1222968561000,
+  "circularId": 8308,
+  "submitter": "Erik Hoversten at Swift/Penn State  <hoversten@astro.psu.edu>",
+  "email": "hoversten@astro.psu.edu",
+  "body": "E. A. Hoversten (PSU), and H.A. Krimm (CRESST/GSFC/USRA) report on\nbehalf of the Swift UVOT team:\n\nThe Swift/UVOT began observations of the field of GRB 081001 14.5 ks\nafter the SuperAGILE dectection (Lazzarotto et al., GCN\nCirc. 8305). No afterglow is detected within the Swift XRT error\ncircle (Page et al., GCN 8307) in any of the observed UVOT filters.\n\nUVOT magnitude 3-sigma upper limits are reported in the following\ntable:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nv         16285    22214      350       > 19.84\nb         15213    21209      416       > 20.90\nu         14997    20992      416       > 20.51\nuvw1      14568    20776      834       > 20.84\nuvm2      16502    16696      191       > 19.81\nuvw2      15431    22064     1670       > 21.65\n\nThe quoted upper limits have not been corrected for the large expected\nGalactic extinction along the line of sight of E(B-V) = 2.63 mag\n(Schlegel et al., 1998).  All photometry is on the UVOT photometry system\ndescribed in Poole et al. (2008, MNRAS, 383, 627)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251005C: SVOM/VT optical candidate",
+  "eventId": "GRB 251005C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42123....1P",
+  "createdOn": 1759757716033,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42123,
+  "format": "text/plain",
+  "body": "J. T. Palmerio (CEA), L. P. Xin, H. L. Li, Y. N. Ma, Z. H. Yao, Y. L. Qiu, C. Wu,  X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC) report on behalf of the SVOM/VT team:\n    \nSVOM/VT performed a Target of Opportunity observation of GRB 251005C detected by Swift (Page et al., GCN 42113) and Fermi GBM (Smith et al., GCN 42118), starting at 2025-10-06T02:00:33 UTC, 9.90 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n    \nAn uncatalogued optical counterpart, compared to the PanSTARRS catalogue, is detected in VT_R at R.A., Dec. = 75.68455, 16.88019 degrees, equivalent to:\nR.A. (J2000) = 05h02m44.3s \nDec. (J2000) = +16d52m48.7s\nwith an uncertainty of 0.5 arcsec.\n\nThis location is 4.6 arcsec from the Swift-XRT position (Goad et al. GCN 42116), outside of the 90% confidence region of 2.3 arcsec.\nThe candidate's magnitudes are given below:\n\n  Mid_time     |   Band     |    Exposure Time  |     Magnitude (AB)\n11.18  hour        VT_R            36*50 sec             22.64+/-0.25  mag                      \n12.79  hour        VT_R            36*50 sec             22.81+/-0.25  mag\n10.71  hour        VT_B            60*50 sec             >23.7 mag\n12.86  hour        VT_B            50*50 sec             >23.6 mag\n\nThe fading of this candidate cannot be confirmed given the uncertainties.\n\nOur photometry is not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

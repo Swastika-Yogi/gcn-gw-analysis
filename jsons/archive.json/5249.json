@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060610: KAIT observations",
+  "eventId": "GRB 060610",
+  "bibcode": "2006GCN..5249....1L",
+  "createdOn": 1149928085000,
+  "circularId": 5249,
+  "submitter": "Weidong Li at UC Berkeley KAIT/LOSS  <weidong@astron.berkeley.edu>",
+  "email": "weidong@astron.berkeley.edu",
+  "body": "W. Li, University of California, Berkeley, on behalf of the \nKAIT GRB team, report: \n\nThe robotic 0.76-m Katzman Automatic Imaging Telescope (KAIT)\nat Lick Observatory observed GRB 060610 detected with Swift\n(Trigger 214277). A combination of filters is used: V, I, \nand clear. The first 15 s unfiltered image started at 06:53:38\nUT, 37.1s after the burst. Our automatic image processing pipeline \nidentified several new sources relative to the DSS II red \nimage (probably due to the proper motion of the stars in the\ndense field), but none of them show apparent variable behavior.\nFurthermore, image subtraction between the images taken between \n1 and 45 minutes after the burst show no variable source within\nthe BAT error radius. We set the following limiting magnitudes\n(calibrated to USNO B1.0 catalog):\n\nstart UT    Exposure    Filter    Limiting mag\n\n06:53:38    15 s        clear     17.7\n06:54:37    15 s        I         17.5\n06:55:03    20 s        clear     17.8\n06:55:34    45 s        V         16.6\n06:56:31    45 s        I         17.6\n06:57:26    45 s        clear     18.0\n\nMore observations and analysis are in progress."
+}

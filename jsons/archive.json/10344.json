@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT refined analysis of GRB100117A",
+  "eventId": "GRB 100117A",
+  "bibcode": "2010GCN.10344....1D",
+  "createdOn": 1263837620000,
+  "circularId": 10344,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL), S. T. Holland (NASA/GSFC), S. Oates (MSSL) \nreport, on the behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100117A\n89s after the BAT trigger (De Pasquale et al., GCN 10336). We do not\ndetect any source in the UVOT-enhanced XRT error circle (Sbarufatti et\nal. GCN 10342) in the initial finding chart in the white filter, nor\nin the other filters. We do not detect the the S3 source of Cenko\net al. (GCN 10339). UVOT magnitude 3-sigma upper limits are\nreported in the following table:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nWHITE        89      238     147          > 20.4\nWHITE        89    11957    1228          > 21.4\nv          5589    17747    1082          > 19.8\nb           557     6607     216          > 19.9\nu           302     6402     442          > 19.9\nuvw1       5999    18941     474          > 20.1\nuvm2       5793    18652    1082          > 20.8\nuvw2       5384    12757     978          > 20.9\n\nNo UVOT source has been found at the position of the NOT source\n(Xu et al., GCN 10337) outside the XRT error circle.\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.02 mag\n(Schlegel et al. 1998). All photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

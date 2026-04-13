@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220310A: MITSuME Akeno optical observation",
+  "eventId": "GRB 220310A",
+  "bibcode": "2022GCN.31765....1H",
+  "createdOn": 1647562523000,
+  "circularId": 31765,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, Y. Imai, K. L. Murata, M. Niwano, N. Ito, Y. Takamatsu,\nR. Noto, S. Sato, M. Takaku, R. Yamaguchi, Y. Yatsu, and N. Kawai\n(Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 220310A (H. Negoro et al. GCN Circular\n#31725, A. Yoshida et al. GCN Circular #31730, P. A. Evans et al. GCN\nCircular #31731, V. Lipunov et al. GCN Circular #31732, H. Kumar et\nal. GCN Circular #31738, D. Svinkin et al. GCN Circular #31748, Ahmed\nM. Fouad et al. GCN Circular #31750, S. Belkin et al. GCN Circular\n#31751, A.S. Kozyrev et al. GCN Circular #31756) with the optical\nthree color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm\ntelescope Akeno. The observation with a series of 60 sec exposures\nstarted at 2022-03-10 15:13:33 UT (14.7 hours after MAXI trigger). We\nstacked the images with good conditions. We marginally detected the\noptical counterpart candidate at the position reported previously (V.\nLipunov et al. GCN Circular #31732, H. Kumar et al. GCN Circular\n#31738, Ahmed M. Fouad et al. GCN Circular #31750).\nThe magnitudes of the source are as follows.\n\nT0+[hour] | Band | MID-UT | T-EXP[sec] | candidate magnitude\n------------------------------------------------------------\n16.1 | g' |2022-03-10 16:32:13 | 6720.0 | 19.62+/-0.18\n16.1 | Rc |2022-03-10 16:32:13 | 6780.0 | 19.67+/-0.18\n16.1 | Ic |2022-03-10 16:32:13 | 6780.0 | 19.05+/-0.23\n------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

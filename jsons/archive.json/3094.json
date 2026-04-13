@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-BAT detection of GRB 050315",
+  "eventId": "GRB 050315",
+  "bibcode": "2005GCN..3094....1P",
+  "createdOn": 1110923741000,
+  "circularId": 3094,
+  "submitter": "Ann M. Parsons at NASA/GSFC/Swift  <parsons@milkyway.gsfc.nasa.gov>",
+  "email": "parsons@milkyway.gsfc.nasa.gov",
+  "body": "A. Parsons, S. Barthelmy, L. Barbier (GSFC), J. Cummings (GSFC/NRC),\nE. Fenimore (LANL), R. Fink, N. Gehrels (GSFC), S. Holland (GSFC/USRA),\nD. Hullinger (GSFC/UMD), K. Hurley (UCB), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), S. Piranomonte (ASDC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), A. Smale (NASA HQ), M. Suzuki \n(Saitama),\nJ. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nAt 20:59:42 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB 050315.  The spacecraft automatically slewed\nto the burst location, and UVOT began automated observations.  XRT was\nnot in a mode suitable for immediate position determination.\n\nUsing the time interval of the trigger of the burst, the \nground-calculated\nlocation is RA,Dec 306.476,-42.591 (J2000) with an uncertainty of 3 \narcmin\n(radius, including a systematic uncertainty, 90% containment).\nThe burst was 40 degrees off the BAT boresight (60% coding).\n\nThe burst lightcurve has 2 overlapping FRED-like peaks.  The duration\nis ~40 sec.  There is no further emmission out to T+180 sec, where the \nend\nof the real-time TDRSS data ends.  The peak count rate is ~2500 \ncounts/sec."
+}

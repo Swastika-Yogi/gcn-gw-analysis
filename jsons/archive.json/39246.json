@@ -1,0 +1,14 @@
+{
+  "editedOn": 1739196606206,
+  "subject": "GRB 250129A: GRANDMA Continued Afterglow Detection",
+  "eventId": "GRB 250129A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39246....1A",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Dalya Akl at American Uni. SHJ <dalyaakl.d@gmail.com>",
+  "circularId": 39246,
+  "createdOn": 1739087842291,
+  "submitter": "Sarah Antier at OCA <sarah.antier@oca.eu>",
+  "format": "text/plain",
+  "body": "D. Akl (AUS), S. Antier (OCA/IJCLAB), M. Tanasan (NARIT). A. Simon (TShNU of Kyiv), N. Sasaki (OPD/LNA), S. Karpov (FZU), D. Turpin (CEA-Saclay/Irfu), M. Coughlin (UMN), P. Hello (IJCLAB), C. Andrade (UMN), P-A Duverne (APC), T. Pradier (Unistra/IPHC), I. Tosta e Melo (UniCT-DFA), N. Guessoum (AUS), A. Takey (NRIAG), Y. Hendy (NRIAG), M. Abdelkareem (NRIAG), E. Elhosseiny (NRIAG), N. Kochiashvili (AbAO), V. Zhuzhunadze (AbAO), V.Aivazyan (AbAO), R. Inasaridze (AbAO), A. Klotz (IRAP), F. Colas (Obs-Paris/LTE), A. Iskandar（XAO), X. F. Wang (THU), R. Hellot (KNC, AITP-OBS-SPC), M. Freeberg (KNC), S. Leonini (KNC, Montarrenti Obs.), C. Galdies (KNC), D. Marchais (KNC), M. Odeh (KNC, AKO), B. M. Mihov (BAS), L. Slavcheva-Mihova (BAS), T. Sun (PMO), F. Dux (Euler),\non behalf of GRANDMA:\n\nWe observed the field of GRB 250129A detected by Swift (Beardmore et al., GCN 39066) using GRANDMA and its citizen science project Kilonova-catcher (KNC).\n\nWe clearly detect the optical afterglow  and we report a subset of  the following magnitudes using different instruments:\n\n| T-T0 (d)|Filter| Magnitude (AB) |Exposure(s)| Telescope    | \n| 0.65    | g'   | 19.21 +/- 0.03 | 10x100s   | TNOT         |\n| 0.86    | i'   | 18.92 +/- 0.03 | 5x150s    | KAO          | \n| 2.77    | R    | 20.19 +/- 0.08 | 50x60s    | AbAO-T70     |\n| 3.04    | V    | 20.35 +/- 0.04 | 3x600s    | KNC          |\n| 4.88    | g'   | 21.12 +/- 0.06 | 10x600s   | NAO-2m       |\n| 6.99    | r'   | 22.8 +/- 0.14  | 20x180s   | 1m-PicduMidi |\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained in Johnson Cousin filters were calibrated using the Gaia DR3 Synphot catalog, images taken with Sloan filters were calibrated with PanSTARRS-DR1 Catalog. Our measurements are not corrected from extinction. Weather conditions were excellent in all sites.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023).\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

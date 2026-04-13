@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061102B: Swift detection of a possible burst",
+  "eventId": "GRB 061102B",
+  "bibcode": "2006GCN..5778....1H",
+  "createdOn": 1162449701000,
+  "circularId": 5778,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. T. Holland (GSFC/USRA), A. M. Parsons (GSFC),\nL. M. Barbier (NASA/GSFC), S. D. Barthelmy (GSFC),\nA. P. Beardmore (U Leicester), D. N. Burrows (PSU),\nP. A. Evans (U Leicester), C. Gronwall (PSU),\nC. B. Markwardt (GSFC/UMD), K. L. Page (U Leicester),\nD. M. Palmer (LANL) and M. Stamatikos (NASA/ORAU) report on behalf of\nthe Swift Team:\n\nAt 06:13:16 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated possible GRB 061102B (trigger=236481).  Swift slewed immediately\nto the burst.  The BAT on-board calculated location is \nRA,Dec 309.881, +15.179 {20h 39m 31s, +15d 10' 44\"} (J2000)\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  This is a 32 msec trigger and the TDRSS lightcurve\nshows nothing significant.  Therefore, it is possible that this trigger is\ndue to a cosmic ray shower event in the spacecraft.  We will not be able\nto separate the burst and shower possibilities until we receive the\nfull data set in 2 hours. \n\nThe XRT began taking data at 06:14:38 UT, 83 seconds after the BAT\ntrigger. The XRT on-board centroid algorithm did not find a source in\nthe image and no prompt position is available. There is no source in\nthe quicklook downlinked data products, which have an exposure time\nof about 250 s, giving us a rough upper limit of 2E-12 ergs/cm2/s for\nany point source in the field of view. We are waiting for full\ndown-linked data to make a more sensitive search for a possible point\nsource. \n\nThe UVOT began observing at 06:14:44, 89 s after the BAT trigger with\nthe White (160-650 nm) filter. No source is detected inside the BAT\nerror circle. The 3-sigma upper limit is approximately V = 18 mag. No\ncorrection has been made for the expected Galactic extinction of\nE_{B-V} = 0.09 mag."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120320A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 120320A",
+  "bibcode": "2012GCN.13083....1C",
+  "createdOn": 1332330574000,
+  "circularId": 13083,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M. M. Chester (PSU) and C. B. Markwardt (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 120320A\n175 s after the BAT trigger (Markwardt et al., GCN Circ 13071).\nNo optical afterglow consistent with the enhanced XRT position\n(Beardmore et al., GCN Circ 13075) or optical candidate reported\nby Levan et al. (GCN Circ 13077) is detected in the initial UVOT\nexposures.  Preliminary 3-sigma upper limits using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373)\nfor the first finding chart (FC) exposure and subsequent exposures are:\n\nFilter    T_start(s)  T_stop(s)    Exp(s)    Mag\nWhite_FC    175          325        147      >20.9\nWhite       175        11021       1435      >22.1\t\t\nv           663         6181        452      >19.8\t\t\nb           589         6965        416      >20.4\t\t\nu           333         6796        678      >20.6\t\t\nuvw1        713         6591        432      >20.4\t\t\nuvm2        688         6386        432      >20.4\t\t\nuvw2        639        11148        570      >20.9\n\nThe magnitudes in the table are not corrected for the Galactic  \nextinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

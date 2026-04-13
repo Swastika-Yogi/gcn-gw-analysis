@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 150210A",
+  "eventId": "GRB 150210A",
+  "bibcode": "2015GCN.17440....1G",
+  "createdOn": 1423667087000,
+  "circularId": 17440,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, hard-spectrum GRB 150210A\n(Fermi-GBM detection: Burns, GCN 17432;\nFermi-LAT detection: Zhu et al., GCN 17438;\nIPN triangulation: Golenetskii et al., GCN 17439)\ntriggered Konus-Wind at T0=80787.209 s UT (22:26:27.209).\n\nThe light curve shows a bright, multi-peaked pulse with a duration\nof ~3.5 s followed by a much weaker tail visible up to ~T0+30 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB150210_T80787/\n\nAs observed by Konus-Wind, the burst had a fluence\nof 7.8(-0.8,+0.9)x10^-5 erg/cm2, and a 64-ms peak flux,\nmeasured from T0+2.368 s, of 4.2(-0.3,+0.3)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum (measured from T0 to T0+24.832 s)\nis best fit in the 20 keV - 15 MeV range\nby the cutoff power law with the following model parameters:\nthe photon index alpha = -0.99(-0.07,+0.08),\nand the peak energy Ep = 2170(-340,+440) keV,\nchi2 = 107/98 dof.\nFitting this spectrum with the Band model yields the same\nvalues of alpha and Ep with an upper limit on the high-energy\nphoton index beta of -2.6\n\nThe spectrum near the peak count rate (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 15 MeV range\nby the cutoff power law with the following model parameters:\nthe photon index alpha = -0.89(-0.06,+0.06),\nand the peak energy Ep = 2250(-240,+280) keV,\nchi2 = 126/98 dof.\n\nAll the quoted errors are at the 90% sigma confidence level.\nAll the quoted values are preliminary."
+}

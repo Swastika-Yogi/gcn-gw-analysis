@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110709A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 110709A",
+  "bibcode": "2011GCN.12148....1H",
+  "createdOn": 1310410490000,
+  "circularId": 12148,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC)\nreports on behalf of the Swift/UVOT team:\n\n      The Swift/UVOT observed the field of GRB 110709A starting 56 s\nafter the BAT trigger (Holland et al., 2011, GCNC 12118).  Settled\nobservations started at 74 s.  We do not detect an optical afterglow\nat the UVOT-enhanced XRT position (Osborne, et al., 2011, GCNC 12123)\nin any of the UVOT filters.  Preliminary 3-sigma upper limits for\ndetecting a source in the finding charts and in the co-added images,\nare\n\nFilter       TSTART       TSTOP  ESPOSURE       Mag\n---------------------------------------------------\nwhite (FC)       74         224       147     >21.7\n    u (FC)      287         536       246     >21.0\nwhite (FC)      865        1014       147     >21.8\n---------------------------------------------------\n    v           616        7409       549     >20.9\n    b           542      19,323      2148     >22.5\n    u           287      18,560      2337     >22.2\n uvw1           666      17,646      1383     >21.7\n uvm2          5978        7614       393     >20.7\n uvw2           591        7204       490     >21.2\nwhite            74      13,546      1538     >23.1\n---------------------------------------------------\n\n     The quoted magnitudes and upper limits have not been corrected\nfor the large, but uncertain, Galactic extinction along the line of\nsight to this burst (E_{B-V} = 0.02 mag, Schlegel et al. 1998, ApJS,\n500, 525)."
+}

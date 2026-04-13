@@ -1,0 +1,14 @@
+{
+  "editedOn": 1743386623836,
+  "subject": "GRB 250329A: SVOM  detection of a burst",
+  "version": 2,
+  "eventId": "GRB 250329A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39916....1W",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 39916,
+  "createdOn": 1743226455726,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "B.-T.Wang(YNAO, CAS), Y.H. Cheng (SWIFAR, YNU), W.J. Xie, D.H. Zhao (NAOC), C.W. Wang (IHEP), and D. Götz (CEA) on behalf of the SVOM mission team.\n\nAt 2025-03-29T04:17:54 UTC (Tb) SVOM/ECLAIRs triggered on the gamma-ray burst GRB 250329A (SVOM burst-id sb25032901). The following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was detected by both Count-Rate Trigger (CRT) and Image Trigger (IMT), which produced a sequence of 17 alerts. CRT provided the alert with the best signal-to-noise-ratio (SNR) of 37.28 in the [8-50] keV energy band over a time window of 5.10 seconds starting at Tb.\n\nThe localization of the best alert is R.A., Dec 197.4374, 9.4849 degrees (J2000) with a 90% C.L.radius of 2.88 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThe burst was also detected by GRM. The GRM light curve shows that this burst consists of a single main pulse. \nThe SVOM/GRM lightcurve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250329A.png\n\nSVOM slewed to the burst position.\n\nMXT began observing the field at 2025-03-29T04:20:20 UTC, 146 seconds after Tb.\n\nUsing onboard processed data we found a faint uncatalogued X-ray source located at R.A., Dec 197.4168, 9.5412 degrees:\nRA (J2000) = 13h09m40s\nDEC (J2000) = 9d32m28s\nwith a 90% C.L. radius of 2.5 arc minutes.\nThis location is 3.59 arcminutes from the ECLAIRs onboard position. This position may be improved as more data is received. \n\nVT began observing the field after the slew. The analysis of the recorded images will be published in a future circular gathering information on the follow-up of the SVOM optical instruments.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe Burst Advocate (BA) on shift for this burst is Boting Wang: wangbaiting@ynao.ac.cn.\nPlease contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n"
+}

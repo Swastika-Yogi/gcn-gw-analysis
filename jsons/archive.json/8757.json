@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081230  Swift/UVOT Observations",
+  "eventId": "GRB 081230",
+  "bibcode": "2008GCN..8757....1O",
+  "createdOn": 1230726701000,
+  "circularId": 8757,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and V. La Parola (INAF-IASFPA) report on behalf  \nof the Swift/UVOT team:\n\nThe Swift/UVOT began observerving the field of GRB 081230 132 s\nafter the BAT trigger ( La Parola et al., GCN Circ. 8753). We detect the\noptical afterglow in the white, v, b and u filters at the position:\n\nRA(J2000.0)  = 02:29:19.467\nDEC(J2000.0) = -25:08:51.0\n\nwith an estimated uncertainty of 0.9 arcsec (radius, 90% confidence).\nThis position is consistent with the UVOT-enhanced XRT position  \n(Osborne et al., GCN 8756)\nand the optical afterglow position reported by ROTSE-III (Yuan et al.,  \nGCN 8754).\n\nThe magnitudes and 3 sigma upper limits are reported below:\n\nFilter    T_start (s) T_stop  Exposure    Mag/3sig UL\n------------------------------------------------------------\nwhite       4060  4210   147   20.45 +/- 0.35\nv\t         587    607     19     18.30 +/- 0.48\nb\t         388    408     19     18.92 +/- 0.36\nu\t         132    382     246   20.28 +/- 0.38\nu\t         511    531 \t19     19.04 +/- 0.52\nuvw1\t 487    5854   435   > 21.23\nuvm2       462    5649   255   > 20.95\nuvw2       414\t    6575   353   > 21.44\n------------------------------------------------------------\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.01 mag (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT flight system\ndescribed in Poole et al. (2008, MNRAS, 383,627)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251001B: AbAO optical upper limit",
+  "eventId": "GRB 251001B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42083....1P",
+  "createdOn": 1759485085708,
+  "circularId": 42083,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), R. Ya. Inasaridze (AbAO) report on behalf of IKI-GRB-FuN:\n\nWe performed optical observations of the field of GRB 251001B detected by Fermi/GBM (The Fermi GBM team et. al, GCN 42038), and Swift/BAT (Beardmore et. al, GCN 42039) with the AS-32 0.7m telescope of the Abastumani Observatory (AbAO). The R-filter observations began on 2025-10-01 22:37 UT, i.e. ~0.35 days since trigger and consisted of 55x30 s exposures. The optical source at z = 2.162 (Sanchez-Ramirez et. al, GCN 42053) found by GOTO (Gompertz et. al, GCN 42040) and also observed by (An et. al, GCN 42041; Strausbaugh & Cucchiara, GCN 42043; O'Neill et. al, GCN 42046; de Ugarte Postigo et. al, GCN 42050; Ma et. al, GCN 42051; Sanchez-Ramirez et. al, GCN 42053; Schneider et. al, GCN 42054; Breeveld et. al, GCN 42055) is not detected in the co-add image of 51x30 s. Preliminary photometry and observation details are presented below:\n\nDate       UT start  t-T0         Exp.  Filter OT  Err. UL\n                     (mid, days)  (s)                   (3sigma)\n2025-10-01 22:37:48  0.35641      51x30 R      n/d n/d  19.9\n\nThe photometry was calibrated using nearby stars from USNO-B1.0 (R2 magnitudes) and not corrected for the Galactic extinction.\n\nRef. stars\nUSNO-B1.0\nRA Dec R2\n42.63445 -23.02161 14.13\n42.77496 -23.05166 13.47"
+}

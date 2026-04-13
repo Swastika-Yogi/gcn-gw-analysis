@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 251129B (short/hard)",
+  "eventId": "GRB 251129B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42960....1K",
+  "createdOn": 1764700286677,
+  "circularId": 42960,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, A. Tohuvavohu,\nand J. DeLaunay on behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 251129B\n(AstroSat-CZTI detection: Salunke et al., GCN 42958)\nwas detected by Konus-Wind, Swift(BAT), Mars-Odyssey (HEND),\nand AstroSat (CZTI), at about 35494 s UT (09:51:34).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  124.862 (08h 19m 27s) +76.391 (+76d 23' 28\")\n Corners:\n  118.469 (07h 53m 53s) +78.048 (+78d 02' 53\")\n  119.970 (07h 59m 53s) +77.774 (+77d 46' 26\")\n  129.621 (08h 38m 29s) +74.606 (+74d 36' 22\")\n  128.692 (08h 34m 46s) +74.931 (+74d 55' 51\")\n ---------------------------------------------\nThe error box area is 617 sq. arcmin, and its maximum\ndimension is 4.32 deg (the minimum one is 2.6 arcmin).\nThe Sun distance was 117 deg.\n\nThe localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB251129_T35496/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular.\n"
+}

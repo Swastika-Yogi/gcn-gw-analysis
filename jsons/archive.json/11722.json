@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 110213B",
+  "eventId": "GRB 110213B",
+  "bibcode": "2011GCN.11722....1G",
+  "createdOn": 1297682538000,
+  "circularId": 11722,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam, report:\n\nThe GRB 110213B discovered and localized by MAXI/GSC (Negoro et al., GCN \n11716) was detected by Konus-Wind in the waiting mode at T0(KW)=52293 s \n  UT (14:31:33).\n\nThe burst light curve shows a single pulse with a duration of ~50 s.\n\nAs observed by Konus-Wind, the burst had a fluence of (1.77 +/- \n0.16)x10^-5 erg/cm2 (in the 20 - 1400 keV range).\n\nModeling the K-W 3-channel time-integrated spectrum (from T0 to\nT0+50 s) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.52 +/- 0.25, and Ep = 123 +/- 19 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB110213B/"
+}

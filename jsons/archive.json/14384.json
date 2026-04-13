@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130418A: Swift/UVOT Detection and request for continuing coverage",
+  "eventId": "GRB 130418A",
+  "bibcode": "2013GCN.14384....1K",
+  "createdOn": 1366334377000,
+  "circularId": 14384,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin and M. De_Pasquale (UCL-MSSL) report on behalf of\nthe Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130418A\n138 s after the BAT trigger (De_Pasquale et al., GCN Circ. 14377).\nA source consistent with the XRT position (De Pasquale et al.\nGCN Circ. 14377) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  09:56:08.88 = 149.03700 (deg.)\n    Dec (J2000) = +13:40:02.7  =  13.66741 (deg.)\nwith an estimated uncertainty of 0.50 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              138          288          146         14.85 +/- 0.05\n\nu                  296          353           56         14.71 +/- 0.04\nv                 5634         5834          197         17.69 +/- 0.08\nb                 3567         3766          197         17.41 +/- 0.05\nw1                6044         6124           78         17.25 +/- 0.11\nm2                5839         6039          197         17.61 +/- 0.11\nw2                5430         5630          197         18.08 +/- 0.11\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998).\n\nDue to a Moon constraint, Swift observations will stop for now. Continuing\nacquisition of ground-based data, including ubv photometry will be useful\nat this time."
+}

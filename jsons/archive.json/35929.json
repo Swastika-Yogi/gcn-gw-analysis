@@ -1,0 +1,9 @@
+{
+  "subject": "Changes to the Fermi-GBM Triggering Thresholds",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35929....1R",
+  "createdOn": 1710527320384,
+  "submitter": "Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "circularId": 35929,
+  "body": "O.J. Roberts reports on behalf of the GBM Team\n\nAt 15:00 UTC on March 14th, 2024, the triggering thresholds on Fermi-GBM triggering algorithms 8-11, were reduced from 4.5 sigma to 4.0 sigma. These algorithms are designed to trigger on short (256 and 512 ms) timescales over 50-300 keV. More information on these and other triggering algorithms that Fermi-GBM uses can be found in Table 1 of the first GBM Catalog [1]. This was undertaken to obtain additional short GRBs that will be rapidly down-linked for multi messenger science. The external coincidence search RAVEN [2,3] will automatically ingest the GBM localizations from these GRBs and issue joint GW-GRB detection skymaps through the LVK alert stream. \n\nFurther testing is ongoing, during which time, these and possibly other triggering algorithm thresholds may be reduced further. Consequently, Fermi-GBM may trigger and localize spurious events. We note that the trigger algorithm and significance are listed in the Fermi-GBM Alert GCN notice type. We will report on any spurious events, and provide a final update on the threshold values of the triggering algorithms that were amended, in a further GCN notice once testing has concluded. \n\n[1] Paciesas, W.S., et al., 2012 ApJS 199 18, https://iopscience.iop.org/article/10.1088/0067-0049/199/1/18/pdf \n[2] Urban, A.L., 2016, Ph.D. Thesis. https://dc.uwm.edu/etd/1218/\n[3] Piotrzkowski, B.J., 2022, Ph.D. Thesis https://dc.uwm.edu/etd/3060"
+}

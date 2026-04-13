@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250114B : MITSuME Akeno optical afterglow candidate detection",
+  "eventId": "GRB 250114B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38950....1S",
+  "createdOn": 1736937038089,
+  "circularId": 38950,
+  "submitter": "Mahito Sasada at Tokyo Institute of Technology <sasada@hp.phys.titech.ac.jp>",
+  "format": "text/plain",
+  "body": "M. Sasada, I. Takahashi, H. Hagio, Y. Kubo, N. Higuchi, H. Seki, S. Joshima, Y. Yatsu and N. Kawai (Science Tokyo) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 250114B (Gotz et al. GCN 38938; Evans et al. GCN 38941) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2025-01-14 13:16:36.51 UT (60 seconds after the INTEGRAL trigger). We stacked the images with good conditions. Then we detected a point source in the Rc- and Ic-band images within the circle of INTEGRAL uncertainty area  (Gotz et al. GCN 38938). The source position is R.A. = 48.8582 deg and Dec. = -2.2936 deg, which is consistent with the 2nd X-ray source position of R.A. = 48.8582 deg and Dec. = -2.2940 deg detected by XRT within 1 arcsec (Evans et al. GCN 38941; Williams et al. GCN 38949). Here we report upper limits of the observations, and magnitudes of the source as follows.\n\nT0+[sec] | MID-UT | T-EXP[sec] | 5-sigma limits and magnitudes\n------------------------------------------------------------------------------------------------\n399 | 2025-01-14 13:22:16.31 | 480 | g'>18.0, Rc=18.1+/-0.1, Ic=17.6+/-0.1\n2232 | 2025-01-14 13:52:49.03 | 2460 | g'>18.6, Rc=19.4+/-0.2, Ic=19.1+/-0.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire).\n"
+}

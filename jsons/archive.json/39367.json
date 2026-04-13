@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250217C: Fermi GBM Observation",
+  "eventId": "GRB 250217C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39367....1S",
+  "createdOn": 1739904940295,
+  "circularId": 39367,
+  "submitter": "Jacob Smith at Fermi-GBM Team <jrs0118@uah.edu>",
+  "format": "text/plain",
+  "body": "Jacob Smith (UAH) reports on behalf of the Fermi Gamma-ray Burst Monitor Team:\n\nAt 23:54:41.80 UT on 17 February 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 250217C (trigger 761529286/250217996).\nwhich was also detected by AstroSat (M. Tembhurnikar, et al. 2025, GCN 39359) and IPN triangulation (A.S. Kozyrev, et al. 2025, GCN 39365).\nThe Fermi GBM on-ground location is consistent with the IPN triangulation.\n\nThe angle from the Fermi LAT boresight is 100 degrees.\n\nThe GBM light curve consists of a double emission episode with a duration (T90)\nof about 0.35 s (50-300 keV). The time-averaged spectrum\nfrom T0-0.06 to T0+0.38 s is best fit by\na Band function with Epeak = 85 +/- 13 keV,\nalpha = -0.2 +/- 0.3, and beta = -1.83 +/- 0.04.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.68 +/- 0.05)E-06 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0+0.0 s in the 10-1000 keV band is 62 +/- 3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/"
+}

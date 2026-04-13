@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260127A: SVOM/C-GFT optical observations",
+  "eventId": "GRB 260127A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43537....1W",
+  "createdOn": 1769575486921,
+  "circularId": 43537,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "C. Wu (NAOC), Z. Kang (CHO), L.P. Xin, X.H. Han, P.P. Zhang, X.M. Lu (NAOC), Z.W. Li, Y. Lv (CHO), R.S. Zhang, Y.J. Xiao, Y.L. Qiu, J. Wang, J.S. Deng, L. Huang, J.Y. Wei (NAOC)  report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of  GRB 260127A detected by Fermi/GBM  (Fermi GBM team, GCN 43528) and Swift/BAT (Klingler et al., GCN 43529) with LATIOS on SVOM/C-GFT. Observations started at 2026-01-27T19:07:40  UTC, ~76.55 min after the trigger. \n\nThe optical counterpart (Saccardiet et al., GCN 43530), consistent with XRT position (Evans et al., GCN 43532; Osborne et al., GCN 43535), was detected in our stacked i-band image. The magnitude is:\n\n\n| Mid_t-T0(hr) | exposure time (s) | band | mag (AB) | mag_err|\n|--------------|-------------------|------|----------|--------|\n|  2.24        |  30x90s           | i    | 20.37    | 0.20   |\n\n\nOur detection is deeper than the upper limit reported by Lipunov et al. (GCN 43532). \n\nThe photometry was calibrated against  nearby stars from  UCAC4  catalog and no correction for Galactic dust extinction was applied.\n\n\nWe thank the observation assistants Yin-Huai Hao Chun-Lei Guo at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

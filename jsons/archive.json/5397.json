@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060804: Swift UVOT observations",
+  "eventId": "GRB 060804",
+  "bibcode": "2006GCN..5397....1P",
+  "createdOn": 1154727873000,
+  "circularId": 5397,
+  "submitter": "Mat Page at MSSL/Swift  <mjp@mssl.ucl.ac.uk>",
+  "email": "mjp@mssl.ucl.ac.uk",
+  "body": "S. B. Pandey, M. De Pasquale, M. J. Page and \nH.Z. Ziaeepour (UCL-MSSL) report on behalf of the \nSwift/UVOT team:\n\nThe Swift UVOT began taking settled exposures\non the field of the long duration GRB 060804\n(BAT Trigger #222546), 128s after the BAT trigger\n(Ziaeepour et al., GCN Circ. 5394). The optical\nafterglow candidate (RA(J2000) = 07h 28m 49.36s\nDec(J2000) = -27d 12' 56.7\") reported by Ziaeepour \net al. 2006 (GCN Circ. 5394) is clearly detected in \nearly frames. The fading behaviour of the candidate \nbefore the later frames confirms that it is the \nafterglow of GRB 060804. Detections in the initial \nV and White images, and 3-sigma upper limits in the \nlater, coadded images are listed below.\n\nFilter  T_range(s)    Exposure (s)    Magnitude\n\nWhite   126-225         98            17.9+-0.1\nV       231-631         393           17.7+-0.1\n\n\nFilter  T_range(s)    Exposure (s)    3-sigma UL\n\nWhite   5211-12280      253           > 20.1\nV       5621-5820       197           > 19.4\nB       709-12219       944           > 20.5\nU       685-18065       896           > 19.9\nUVW1    661-15696       408           > 19.8\nUVM2    637-6025        216           > 19.5\nUVW2    5417-21845      747           > 19.7\n\nT_range is calculated from the time of the trigger.\nWe caution that photometry of this afterglow\nis complicated by the presence of a nearby source.\n\nThese measurements have not been corrected for the\nestimated Galactic reddening of E_(B-V) = 0.657 mag\n(Schlegel et al. 1998). We caution that the \nextinction estimate for this burst, which has\n|Galactic latitude| < 5 deg, is unreliable."
+}

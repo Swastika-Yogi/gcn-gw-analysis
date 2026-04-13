@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 161104A, Swift-BAT refined analysis",
+  "eventId": "GRB 161104A",
+  "bibcode": "2016GCN.20129....1L",
+  "createdOn": 1478312052000,
+  "circularId": 20129,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "A. Y. Lien (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC),\nB. Mingo (U Leicester), J. P. Norris (BSU), D. M. Palmer (LANL),\nT. Sakamoto (AGU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+150 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 161104A (trigger #720568)\n(Mingo, et al., GCN Circ. 20123). The BAT ground-calculated position is\nRA, Dec = 77.906, -51.447 deg which is\n   RA(J2000)  =  05h 11m 37.3s\n   Dec(J2000) = -51d 26' 49.7\"\nwith an uncertainty of 1.8 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 99%.\n\nThe mask-weighted light curve shows a single spike that starts at at ~T-0.02,\npeaks at ~T+0.02, and ends at~T+0.1. T90 (15-350 keV) is 0.1 +- 0.02 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-0.0 to T+0.1 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.57 +- 0.20.  The fluence in the 15-150 keV band is 3.1 +- 0.5 x 10^-8 erg/cm2.\nThe 1-sec peak photon flux measured from T-0.46 sec in the 15-150 keV band\nis 0.6 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nUsing a 4-ms binned light curve, the lag analysis finds a lag of\n2.0 +/- 8.0 ms for the 100-350 keV to 25-50 keV band,\nand -3.5 +/- 8.0 ms for the 50-100 keV to 15-25 keV band.\nThese values are consistent with those of a short GRB.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/720568/BA/\n\n[GCN OPS NOTE05nov16):  Per author's request, JN as was added\nto the author list.]"
+}

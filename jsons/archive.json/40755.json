@@ -1,0 +1,14 @@
+{
+  "subject": "EP-WXT trigger 01709178975: GOTO optical upper limit",
+  "editedOn": 1750176430094,
+  "eventId": "EP-WXT 01709178975",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40755....1M",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov>",
+  "circularId": 40755,
+  "createdOn": 1750165409663,
+  "submitter": "Shane Moran at University of Leicester <smk48@leicester.ac.uk>",
+  "format": "text/plain",
+  "body": "S. Moran, M. Kennedy, A. Kumar, D. O'Neill, G. Ramsay, B. P. Gompertz, R. Starling, K. Ackley, M. J. Dyer, J. Lyman, K. Ulaczyk, B. Godson, D. Steeghs, D. K. Galloway, V. Dhillon, P. O'Brien, K. Noysena, R. Kotak, R. P. Breton, L. K. Nuttall, and J. Casares report on behalf of the GOTO collaboration: \n\nThe Gravitational-wave Optical Transient Observer (GOTO; Steeghs et al. 2022, Dyer et al. 2024) performed the targeted observations of the field of EP-WXT trigger 01709178975 (Chen, et al., 40754) on 2025-06-17 from 11:35:33 to 11:47:07 UT (respectively from 13.46 mins to 25.03 mins after the trigger). The observation was taken by GOTO-South and consisted of 4x90s exposures in the GOTO L-band (400-700 nm). \n\nImages were processed immediately after acquisition using the GOTO pipeline. Difference imaging was performed using deeper template observations of the same pointings. Source candidates were initially filtered using a classifier (Killestein et al. 2021) and cross-matched against a variety of contextual and minor planet catalogues. \n\nWe do not identify any candidate optical counterparts within the EP-WXT localisation uncertainty region, down to a 5-sigma limiting magnitude of L > 20.7 in the initial image. We were unable to assess any variability of CD-32 11039 in the GOTO L-band, as the source appears saturated in all available frames.\n\nMagnitudes were calibrated using ATLAS-REFCAT2 (Tonry et al. 2018) and are not corrected for Galactic extinction. \n\nGOTO (https://goto-observatory.org/) is a network of telescopes that is principally funded by the STFC and operated at the Roque de los Muchachos Observatory on La Palma, Spain, and Siding Spring Observatory in NSW, Australia, on behalf of a consortium including the University of Warwick, Monash University, Armagh Observatory & Planetarium, the University of Leicester, the University of Sheffield, the National Astronomical Research Institute of Thailand (NARIT), the University of Turku, the University of Portsmouth, the University of Manchester and the Instituto de Astrofisica de Canarias (IAC)."
+}

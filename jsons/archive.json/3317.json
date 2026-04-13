@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050422: Swift-UVOT observation",
+  "eventId": "GRB 050422",
+  "bibcode": "2005GCN..3317....1M",
+  "createdOn": 1114196345000,
+  "circularId": 3317,
+  "submitter": "Katie McGowan at MSSL-UCL  <km2@mssl.ucl.ac.uk>",
+  "email": "km2@mssl.ucl.ac.uk",
+  "body": "K. McGowan (MSSL), A. Blustin (MSSL), S. Rosen (MSSL),\nL. Barbier (GSFC), S. Hunsberger (PSU), M. Still (GSFC),\nP. Smith (MSSL), N. Gehrels (GSFC), K. Mason (MSSL),\nJ. Nousek (PSU), on behalf of the Swift UVOT team\n\nStarting with the data taken ~113s after the BAT trigger\n(Barbier et al, GCN 3314) we have co-added the data of\nGRB 050422 in each of the Ultra-Violet/Optical Telescope\n(UVOT) V, B and U bands.  The co-added image for the V-band\nis made up of 1 x 100 s and 5 x 10 s exposures, the co-added\nB-band and U-band images are made up of 5 x 10 s exposures.\nThe XRT error circle (Pagani et al., GCN 3315) falls\npartially on a known source from the DSS.  No new source\nis detected in any of the bands; we estimate the five\nsigma magnitude upper limits from the co-added images to be:\n\nFilter  Upper Limit  Duration(s)  T_start(s)  T_mid(s)\n   V        17.9        148.7        112.9      374.1\n   B        18.2         48.8        258.6      432.5\n   U        17.8         48.8        244.5      418.0\n\nWhere T_start is time after trigger, and T_mid is the midpoint\nof the summed exposure.\n\nThe magnitudes are based on preliminary zero-points, measured\nin orbit, and will require refinement with further calibration.\n\nWe note that the reddening in this direction is E_{B-V} = 1.4."
+}

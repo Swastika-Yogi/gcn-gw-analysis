@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 100625A",
+  "eventId": "GRB 100625A",
+  "bibcode": "2010GCN.10890....1G",
+  "createdOn": 1277548131000,
+  "circularId": 10890,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, E. Mazets, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf\nof the Konus-Wind team, report:\n\nThe short hard GRB 100625A (Swift-BAT trigger #425647:\nHolland et al., GCN 10884) triggered Konus-Wind\nat T0=66747.799 s UT (18:32:27.799).\n\nThe burst light curve consists of two main peaks separated\nby ~100 ms, with a total duration of the burst of ~350 ms.\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB100625_T66747/\n\nAs observed by Konus-Wind the burst\nhad a fluence of 0.83(+/-0.15)x10-6 erg/cm2,\nand a 16-ms peak flux measured from T0 + 0.128s\nof 8.1(+/-1.5)x10-6 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+0.192 s) is well fit\nin the 20 keV - 2 MeV range by a power law\nwith exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep), with\nalpha = -0.1(-0.5, +0.6),\nand Ep = 414(-78,+128) keV,\nchi2 = 18/18 dof.\n\nThis spectrum is equally well fit\nin the same range by the GRB (Band) model, for which:\nthe low-energy photon index alpha = +0.1 (+/-0.6),\nthe high energy photon index beta = -2.6 ( <-1.9 ),\nthe peak energy Ep = 371(-100,+135) keV,\nchi2 = 17/17 dof.\n\nAll the quoted results are preliminary.\nAll the quoted errors are at the 90% confidence level."
+}

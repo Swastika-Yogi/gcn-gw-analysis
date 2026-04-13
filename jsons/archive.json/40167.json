@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 250416C (a counterpart of EP250416a)",
+  "eventId": "GRB 250416C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40167....1S",
+  "createdOn": 1744997913525,
+  "circularId": 40167,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A.Lysenko, A. Ridnaya, A. Tsvetkova,\nM. Ulanov, and T. Cline, on behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 250416C was detected by Konus-Wind (KW)\nin the waiting mode at about T0=64427 s UT (17:53:47).\n\nA Bayesian block analysis of the KW waiting mode data in\nthe 20-400 keV band reveals a ~7 sigma count-rate increase in \nthe interval from T0-6.3 s to T0+11.4 s.\n\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB250416C/\n\nThe total burst fluence is 1.50(-0.42,+1.04)x10^-6 erg/cm^2,\nand the 2.944 s peak energy flux, measured from T0-0.405 s,\nis 1.57(-0.57,+1.15)x10^-7 erg/cm^2.\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst,\nmeasured from T0-6.3 s to T0+11.4 s,\ncan be described by a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.35(-0.36,+0.66) and Ep = 228(-110,+735) keV.\n\nThe burst was detected simultaneously with the fast X-ray transient EP250416a \n(T0(EP)=17:53:59 UT; Zhao et al., GCN 40154; Zhou et al., GCN 40165). \nThe positional and temporal coincidence of this burst with the transient \nsupports the conclusion that the EP250416a is the GRB counterpart.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary. "
+}

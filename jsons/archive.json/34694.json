@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230812B: Bad Time Intervals for Fermi GBM data",
+  "eventId": "GRB 230812B",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34694....1R",
+  "createdOn": 1694704624864,
+  "submitter": "Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "circularId": 34694,
+  "body": "O.J. Roberts (USRA), S. Lesage (UAH) and W. Cleveland (USRA) report on behalf of the Fermi GBM Team: \n\n\"The Fermi Gamma-ray Burst Monitor data for GRB 230812B has a period of bad time intervals, affecting all data types and all detectors. At particularly high rates, the Time-Tagged Event (TTE) data has data-loss due to the bandwidth limit between the instrument and the spacecraft. CTIME and CSPEC data do not experience data-loss due to the electronics bandwidth, but do experience deadtime effects. Additionally, at particularly high rates both CTIME and CSPEC are affected by pulse pile-up, which will distort the spectra (see, S. Lesage et al., 2023, ApJL, 952, L42). \n\nDue to the orientation of the burst, we recommend only using BGO detector: B0, and the NaI detectors: N0, N3, N6, N7 for any analysis of this burst, as all other detectors either have an unfavorable detector-source angle (>60 degrees), or are blocked by different parts of the spacecraft.\n\nFor CTIME and CSPEC data of these detectors, pulse pile-up occurs during the time intervals of T0+0.61 to T0+1.12 seconds for the BGO detector, B0. We find pulse pile-up occurs from T0+0.54 to T0+1.70 seconds for the NaI detectors N0, N3, N6, N7. T0 is the GBM trigger time.\n\nIn the TTE data, data losses due to the bandwidth limit being exceeded occurs between roughly T0+0.5 to T0+1.4 seconds. This region includes the artificially created pulse centered at roughly T0+1.233 seconds (width of approximately 0.098 seconds), that is due to TTE drop out. We are currently reprocessing the TTE files and will alert the community when these files become available in a forthcoming circular. \n\nWe recommend the exclusion of these time intervals for GBM analysis of this burst, as well as caution using bins adjacent to these selections.\"\n"
+}

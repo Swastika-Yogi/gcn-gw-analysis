@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231115A: JinShan optical upper limits",
+  "eventId": "GRB 231115A",
+  "submittedHow": "email",
+  "bibcode": "2023GCN.35091....1A",
+  "createdOn": 1700273101610,
+  "circularId": 35091,
+  "submitter": "Dong Xu at NAOC/CAS <dxu@nao.cas.cn>",
+  "body": "J. An, S.Q. Jiang, X. Liu, S.Y. Fu, Z.P. Zhu, T.H. Lu, D. Xu (NAOC), J.Z. Liu (XAO) report on behalf of a large collaboration:\n\nWe observed the field of GRB 231115A detected by the Fermi GBM (Fermi GBM Team, GCN 35035), INTEGRAL (Mereghetti et al., GCN 35037), and Glowbug (Cheung et al., GCN 35045), using two 50cm telescopes (50A, 50B) located at Altay, Xinjiang, China. Observations started at 17:30:51 UT on 2023-11-15, i.e., 1.91 hr after the Fermi/GBM trigger, in the Sloan g-/r-/i-/z- bands.\n\nNo credible optical transient is detected in our stacked images within and beside the error region of the INTEGRAL. Preliminary results are as follows:\n-----------------------------------------------------------------\n              Tmid(UT)      exp(s)   filter      UL(3-sigma)\n-----------------------------------------------------------------\n2023-11-15T17:47:17  60sx30      g           20.4\n2023-11-15T18:20:18  60sx30      r            20.3\n2023-11-15T18:34:16  30sx60      i            18.1\n2023-11-15T17:54:39  30sx66      z           16.0\n-----------------------------------------------------------------\n\ncalibrated with nearby PanSTARRS stars. The magnitude is not corrected for Galactic extinction. The z-band upper limit is shallower than expected due to a technical issue.\n\nAltay Astronomical Time-Domain Project (JinShan Project for short) consists of four 50cm telescopes with FOV of 1.7x1.7 deg^2 for each (50A, 50B, 50C, and 50D), two 100cm telescopes with FOV of 1.4x1.4 deg^2 for each (100A and 100B), and one 100cm telescope with FOV of 14x14 arcmin^2 (100C). Each telescope is equipped with different filters. JinShan is now at its early commissioning stage.\n\n"
+}

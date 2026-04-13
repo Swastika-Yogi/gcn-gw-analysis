@@ -1,0 +1,9 @@
+{
+  "subject": "Swift problem fixed",
+  "bibcode": "2009GCN..9669....1G",
+  "createdOn": 1247694434000,
+  "circularId": 9669,
+  "submitter": "Neil Gehrels at GSFC  <gehrels@milkyway.gsfc.nasa.gov>",
+  "email": "gehrels@milkyway.gsfc.nasa.gov",
+  "body": "The anomaly with the Swift on-board solid state recorder has been\nresolved and the mission is back to autonomous slewing for GRBs.\nNormal observing and TOO requests will be enabled tomorrow (July\n16) morning.\n\nThe anomaly was resolved by sending a \"stop all transfers\"\ncommand to the recorder on July 15 at ~1500UT.  This essentially\nreset the input and output interfaces.  Data dumps following the\ncommanding indicate that the recorder is working normally again.\nAn investigation on the root cause is in progress."
+}

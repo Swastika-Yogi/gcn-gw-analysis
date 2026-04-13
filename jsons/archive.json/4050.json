@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051001: ROTSE-III Optical Limits",
+  "eventId": "GRB 051001",
+  "bibcode": "2005GCN..4050....1R",
+  "createdOn": 1128167450000,
+  "circularId": 4050,
+  "submitter": "Eli Rykoff at U of Michigan/ROTSE  <erykoff@umich.edu>",
+  "email": "erykoff@umich.edu",
+  "body": "E.S. Rykoff (U Mich), H. Swan (U Mich), B. Schaefer (Louisiana State), \nS.A. Yost (U Mich), F. Yuan (U Mich) report on behalf of the ROTSE \ncollaboration:\n\nROTSE-IIIa, located at Siding Spring Observatory, Australia, responded \nto GRB 051001 (Swift trigger 157870), producing images beginning 7.9 s \nafter the GCN notice time. An automated response took the first image at \n11:13:01.9 UT, 85.6 s after the burst, under fair conditions. We took 10 \n5-sec, 10 20-sec and 20+ 60-sec eposures. Observations are ongoing. \nThese unfiltered images are calibrated relative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the \n3-sigma BAT error circle (or the possible X-ray position from the GCN \nnotice), for both single images and coadding into sets of 10. Individual \nimages have limiting magnitudes ranging from 16.1-17.4; we set the \nfollowing specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n11:13:01.9   11:13:06.9         5     16.2           85.6       N\n11:13:01.9   11:15:25.9       144     17.7           85.6       Y\n11:15:26.6   11:20:19.6       293     18.1          230.3       Y"
+}

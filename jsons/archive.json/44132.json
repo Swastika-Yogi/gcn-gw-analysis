@@ -1,0 +1,10 @@
+{
+  "subject": "EP260327a: WINTER J-band upper limit",
+  "eventId": "EP260327a",
+  "submittedHow": "web",
+  "createdOn": 1774632048734,
+  "circularId": 44132,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "format": "text/plain",
+  "body": "Benjamin Schneider (LAM), Geoffrey Mo (Caltech/Carnegie), Viraj Karambelkar (Columbia), Tomas Ahumada (NOIRLab), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of the EP260327a (Dai et al., GCN Circ. 44126) in the near-infrared with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). Observations started on 2026-03-27 at 06:33:36 UT (38.92 min after the trigger) and consisted of 30 exposures of 120 s in the J-band.\n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565) and analysed with STDWeb/STDPipe (Karpov 2025). The photometric calibration was performed using nearby stars from the 2MASS catalog. The magnitude is in the AB system and is not corrected for Galactic extinction.\n\nIn the stacked image, we do not detect any new source at the FXT source position (Dai et al., GCN Circ. 44126) and derive the following 5-sigma upper limit:\n\nJ > 19.6\n\nWe note that van Hoof et al., (GCN Circ. 44129) and Guelfand et al., (GCN Circ. 44131) report deep, early-time optical non-detections.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

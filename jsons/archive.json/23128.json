@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180809B",
+  "eventId": "GRB 180809B",
+  "bibcode": "2018GCN.23128....1S",
+  "createdOn": 1534003596000,
+  "circularId": 23128,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A.Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 180809B\n(Swift-BAT detection: Moss et al., GCN Circ. 23105;\nCALET-GBM detection: Cherry, et al., GCN Circ. 23116)\ntriggered Konus-Wind at T0=73730.033 s UT (20:28:50.033).\n\nThe burst light curve shows a bright multi-peaked emission episode\nwhich starts at ~T0-4 s and has a duration of ~80 s, followed by a \nweaker episode at ~T0-205 s. The total burst duration is ~300 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180809_T73730/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.07(-0.30,+0.36)x10^-4 erg/cm2,\nand a 64-ms peak flux, measured from T0+37.952 s,\nof 2.66(-0.41,+0.42)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+252.672 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.87(-0.10,+0.12),\nthe high energy photon index beta = -2.44(-0.24,+0.19),\nthe peak energy Ep = 275(-30,+25) keV\n(chi2 = 123/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+36.608 to T0+38.144 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.77(-0.12,+0.15),\nthe high energy photon index beta = -2.20(-0.21,+0.15),\nthe peak energy Ep = 525(-95,+103) keV\n(chi2 = 66/68 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

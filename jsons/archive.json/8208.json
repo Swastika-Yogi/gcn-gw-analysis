@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080905A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080905A",
+  "bibcode": "2008GCN..8208....1B",
+  "createdOn": 1221052700000,
+  "circularId": 8208,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown and C. Pagani (PSU) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080905A\nstarting about 114 s after the BAT detection\n(Pagani et al., GCN Circ. 8180).  We do not detect\nany source in the revised XRT error circle (Evans et\nal., GCN Circ. 8203) including the faint optical afterglow\nseen by Malesani et al. (GCN Circ. 8190)\nin any of the UVOT filters down to the following 3 sigma\nupper limits (where T_start and T_stop represent the\nelapsed time since the BAT trigger in seconds).\n\nFilter  T_start(s) T_stop  Exp(s)   MagLimit\nwhite   114        970     198      >21.3\nuvw2    730        750     19       >18.1\nuvm2    626        4520    95       >19.2\nuvw1    651        825     39       >18.8\nu       675        850     39       >19.2\nb       700        865     15       >18.9\nv       220        1250    1014     >20.6\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E(B-V) = 0.14 mag (Schlegel et al.,\n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383,627)."
+}

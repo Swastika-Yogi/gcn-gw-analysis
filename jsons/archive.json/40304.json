@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250430A: Leavitt Observatory optical upper limit",
+  "eventId": "GRB 250430A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40304....1M",
+  "createdOn": 1746108165062,
+  "submitter": "leavittob@gmail.com",
+  "circularId": 40304,
+  "format": "text/plain",
+  "body": "L. Moretti, E. Pavoni (Leavitt Observatory, Italy)\n\nMembers of:\nGRB/UAI - Gamma Ray Burst Section of Unione Astrofili Italiani\nATA - Associazione Tuscolana di Astronomia\n\nIn a large collaboration with:\nM.G. Dainotti (National Astronomical Observatory of Japan),\nY. Niino (Tokyo University, Institute of Astronomy),\nK. Kalinowski (Aarhus University, Department of Physics and Astronomy),\nreport:\n\nWe observed the field of the GRB 250430A / EP250430a (Parsotan et al., GCN 40292; Wang et al., GCN 40299) with our RC telescope (D=250 mm, F/D=8) of Leavitt Observatory, Manciano, Italy.\n\nThe observations started approximately 6 hours after the Swift/BAT trigger time, with good weather conditions. We utilized the astropy package (Astropy Collaboration et al., 2022ApJ...935..167A) to align and stack 25 individual frames of 120 sec each, with a median time of 2025-04-30T23:29:41 (UTC). All images are unfiltered and were processed by a single data processing pipeline based on astropy package (Astropy Collaboration et al., 2022ApJ...935..167A).\n\nIn the stacked frame, we did not found any optical uncatalogued object within the Swift error circle.\n\nMid-Time (UTC)             Rc limit \tError\n2025-04-30T23:29:41        >20.32 \t+/- 0.01\n\nThis upper limit is consistent with other observations reported by K. S. Kawabata et al. (GCN Circular 40294), Mohammad Odeh et al. (GCN Circular 40295), Andrea Saccardi et al (GCN Circular 40301), H. Hagio et al. (GCN Circular 40302), Quadri et al. (GCN 40303).\n\nOur photometry is in the AB system and is not corrected for galactic dust extinction. Magnitudes were estimated with the Pan-STARRS cat. and converted using Lupton (2005) equations. \n\nThe message may be cited.\n\n\nReference:\nhttps://leavittobservatory.altervista.org"
+}

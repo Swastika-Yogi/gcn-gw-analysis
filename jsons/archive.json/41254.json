@@ -1,0 +1,11 @@
+{
+  "subject": "EP250806a: SVOM /VT optical candidate",
+  "eventId": "EP250806a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41254....1X",
+  "createdOn": 1754531111270,
+  "circularId": 41254,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "L. P. Xin, H. L. Li, Y. N. Ma, Y. L. Qiu, C. Wu, Z. H. Yao, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), H. N. Yang, R. D. Liang (NAOC), Y. J. Zhang (THU), W. D. Zhang (NAOC) report on behalf of the SVOM and EP teams.\n\nSVOM performed a Target of Opportunity observation of EP250806a detected by EP/WXT (Yang et al., GCN 41246). SVOM/VT began observing the field at 2025-08-06T17:09:08 UTC, 7.9 hours after the EP trigger time, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nAn uncatalogued source is found using VT X-band data within the errorbox of EP/FXT (Yang et al., GCN 41246), compared to Legacy survey. The optical source is at R.A., Dec 335.103182, -26.877607 degrees:\n \nRA (J2000) = 22:20:24.76\nDec (J2000) = -26:52:39.38\nwith an uncertainty of 0.5 arcsec.\n\nThe source is detected in both VT_B and VT_R images. The magnitudes are derived as below:\n \nDeltaT(Mid time)      | exposure time (s) | band | mag (AB) | mag err\n--------------------  |-------------------|------|----------|--------\n8.19 hours            | 49*50             | VT_B | 23.3     | 0.2  \n8.19 hours            | 49*50             | VT_R | 22.6     | 0.2    \n\nOur photometry is not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

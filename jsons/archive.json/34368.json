@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230805B : MITSuME Akeno optical upper limits",
+  "eventId": "GRB 230805B",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34368....1H",
+  "createdOn": 1691490545027,
+  "circularId": 34368,
+  "submitter": "Narikazu Higuchi at Tokyo Tech <higuchi@hp.phys.titech.ac.jp>",
+  "body": "N. Higuchi, I. Takahashi, M. Sasada, M. Niwano, S. Sato, S. Hayatsu, R. Hosokawa, H. Seki, H. Takei, Y. Yatsu (Tokyo Tech) and N. Kawai (Riken) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 230805B (Cenko et al. GCN Circular #34339) with the optical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope Akeno. \n\nThe observation started at 2023-8-05 11:25:51 UT (120 seconds after the Swift/BAT trigger). We stacked the images with good conditions. We did not detect any uncatalogued sources within the error region (Osborne et al. GCN Circular #34353). We obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[sec] | MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n1117 | 2023-08-05 11:42:28 | 240.0 | g'>18.5, Rc>18.5, Ic>17.9\n4357 | 2023-08-05 12:36:28 | 840.0 | g'>18.9, Rc>19.0, Ic>18.5\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages 4-24; https://github.com/MNiwano/Eclaire)."
+}

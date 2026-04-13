@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G211117: Swift observations of PS15dpn",
+  "eventId": "LIGO/Virgo G211117",
+  "bibcode": "2016GCN.18849....1E",
+  "createdOn": 1452361968000,
+  "circularId": 18849,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans and K.L. Page (U. Leicester) report on behalf of the Swift team:\n\nOn 2016 Jan 7 at 15:54 Swift began observations of the transient PS15dpn\n(Chambers et al., GCN 18811; Cenko et al., GCN 18848), collecting 4 ks\nof data.\n\nNo X-ray emission was detected at the location of the source, with a\n3-sigma upper limit of 2.4e-3 ct/sec, corresponding to a 0.3-10 keV flux\nof 1.0e-13 erg/cm^2/s (assuming a power-law spectrum with photon index\n1.7 and column density 3e20 cm^-2).\n\nUVOT did detect PS15dpn in the uvm2 filter, at a mangitude of 19.09 �� 0.07.\n\nA single uncatalogued X-ray source was found in our observations,\nhowever this is below the RASS upper limit at its location, and likely\nunrelated to the LIGO trigger. It has been assigned a rank of 3 under\nour classification scheme described at http://www.swift.ac.uk/ranks.php.\n\n   Source 56:\n   =============\n     RA:      38.0971 ( = 02h 32m 23.30s) J2000\n     Dec:     +18.5781 ( = +18d 34' 41.2\") J2000\n     Error:     +5.9 (arcsec, radius, 90% confidence).\n     Peak Rate:     2.9e-03 �� 1.1e-03 ct/sec (0.3-10 keV)\n     Peak Flux:     1.3e-13 �� 4.9e-14 erg cm^-2 s^-1 (0.3-10 keV)\n     RASS UL:     1.2e-01 ct/sec, 3-sigma, converted to XRT (0.3-10 keV)\n        so the source is not above the RASS 3-sigma upper limit.\n     There is no evidence for fading.\n     NOTE: this source is not within 200 kpc of a GWGC galaxy.\n\nThis circular is an official product of the Swift team.\n\n[GCN OPS NOTE(10jan16): The event ID number in the Subject-line\nwas changed from 2111117 to 211117.]"
+}

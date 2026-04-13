@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070509: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070509",
+  "bibcode": "2007GCN..6404....1H",
+  "createdOn": 1178812838000,
+  "circularId": 6404,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) and L. Vetere (PSU)\nreport on the behalf of the Swift UVOT team:\n\n\n       The Swift/UVOT observed the field of GRB 070509 starting 73 s\nafter the BAT trigger (Vetere et al. 2007, GCN Circ. 6394).  We do\nnot find any source, in any of the UVOT observations, inside the\nrefined XRT error circle (Vetere et al., 2007 GCN Circ. 6400).\n\n       The 3-sigma upper limits for detecting a source anywhere inside\nthe refined XRT error circle in the co-added frames are:\n\n\nFilter    T_start   T_stop    Exp(s)    Mag (3-sigma upper limit)\n-----------------------------------------------------------------\nV             179     6074      1003    20.6\nB             657     1468        39    18.6\nU             633     1443        58    18.4\nUVW1          609     1419        58    18.0\nUVM2          584     6085        65    17.5\nUVW2          686     5869       236    19.3\nWhite          73     1482       225    21.1\n-----------------------------------------------------------------\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.14 mag towards\nthe direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060111A: refined UVOT anaysis",
+  "eventId": "GRB 060111A",
+  "bibcode": "2006GCN..4497....1R",
+  "createdOn": 1137083237000,
+  "circularId": 4497,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "S. R. Rosen (UCL-MSSL), S. Zane (UCL-MSSL), A. J. Blustin (UCL-MSSL),\nK. Hurley (Berkeley), M. Chester (PSU), N. Gehrels (GSFC) on behalf\nof the Swift/UVOT team\n\nFurther analysis of the Swift/UVOT data for GRB 060111A (Zane et al.,\nGCN 4479) reveals that the afterglow candidate reported by Blustin et\nal. (GCN 4482) in the initial UVOT V-band exposure has faded from view\nin subsequent data. The 3 sigma magnitude upper limits from later summed\nimages in the different filters are as follows:\n\nFilter   T_range(s)  Exp(s)  3sigUL(mag)\n\nV        3750-4105   59      18.5\nV        4757-10346  472     19.6\n\nB        280-17141   1746    21.2\nU        6042-16227  1476    20.8\nW1       5838-21553  1033    20.3\nM2       5633-10550  572     20.1\nW2       9942-12104  435     20.1\n\nThese magnitudes are uncorrected for Galactic extinction."
+}

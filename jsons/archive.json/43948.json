@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 260307B",
+  "eventId": "GRB 260307B",
+  "submittedHow": "web",
+  "createdOn": 1772982849152,
+  "submitter": "Rushikesh  Sonawane  at IISER, TVM <rushikesh23@iisertvm.ac.in>",
+  "circularId": 43948,
+  "format": "text/plain",
+  "body": "\n\nR. Sonawane (IISER TVM), reports on behalf of the Fermi-GBM Team:\n\nSVOM/ECLAIRs detected the GRB 260307B on 2026-03-07 at 13:45:26 UTC (Magnani et al. 2026, GCN 43940). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified a candidate. \n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, identified a transient starting at 2026-03-07T13:45:30.6 (UTC), most significantly on the 32 s timescale, with a false alarm rate of 2.5e-04 Hz. The Fermi-MET of this transient is 794583935.8 s. The Targeted Search localization is found to be spatially consistent with the SVOM/ECLAIRs localization.\n \nAdditionally, the GBM Targeted Search event was found with the highest significance using a\n\"soft\" spectrum (Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7) for a GRB.\n \n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

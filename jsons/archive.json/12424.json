@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111008A, Swift-BAT refined analysis,",
+  "eventId": "GRB 111008A",
+  "bibcode": "2011GCN.12424....1B",
+  "createdOn": 1318122089000,
+  "circularId": 12424,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.a.krimm@nasa.gov>",
+  "email": "hans.a.krimm@nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC),S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nC. J. Saxton (UCL-MSSL), M. Stamatikos (OSU), J. Tueller (GSFC),\nT. N. Ukwatta (MSU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+302 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 111008A (trigger #505054)\n(Saxton, et al., GCN Circ. 12423).  The BAT ground-calculated position is\nRA, Dec = 60.439, -32.708 deg which is\n    RA(J2000)  =  04h 01m 45.3s\n    Dec(J2000) = -32d 42' 29.3\"\nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 9%.\n\nThe mask-tagged light curve shows three clusters of peaks, each containing at least\ntwo subpeaks, and with returns to the baseline between clusters.  Each cluster\nis softer and weaker than the one preceding it. The first cluster runs from\nT-10 sec to T+10 sec, the second runs from T+28 sec to T+35 sec, and the third\nfrom T+58 to T+65 sec.  We note that there is a gap in the telemetry from T+180\nto T+240 sec, but there is no indication of any emission between the last peak\nand the gap or after the gap. T90 (15-350 keV) is 63.46 +- 2.19 sec (estimated\nerror including systematics).\n\nThe time-averaged spectrum from T-2.64 to T+68.80 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.86 +- 0.09.  The fluence in the 15-150 keV band is 5.3 +- 0.3 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.04 sec in the 15-150 keV band\nis 6.4 +- 0.7 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/505054/BA/"
+}

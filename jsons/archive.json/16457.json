@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140619B: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 140619B",
+  "bibcode": "2014GCN.16457....1I",
+  "createdOn": 1403749001000,
+  "circularId": 16457,
+  "submitter": "Masanori Ohno at Hiroshima U  <ohno@hep01.hepl.hiroshima-u.ac.jp>",
+  "email": "ohno@hep01.hepl.hiroshima-u.ac.jp",
+  "body": "W. Iwakiri(RIKEN), M. Tashiro, Y. Terada, T. Yasuda, S. Koyama, S. Takeda,\nT. Nagayoshi, J. Enomoto, S. Nakaya, T. Fujinuma, S. Matsuoka (Saitama U.),\nM. Yamauchi, N. Ohmori, R. Kinoshita (Univ. of Miyazaki),\nM. Ohno, T. Kawano, S. Furui, Y. Fukazawa(Hiroshima U.),\nK. Yamaoka (Nagoya U.), S. Sugita (Ehime U.),\nY. Hanabata (ICRR), Y. E. Nakagawa, M. Kokubun, T. Takahashi (ISAS/JAXA),\nY. Urata (NCU), K. Nakazawa, K. Makishima (Univ. of Tokyo)\non behalf of the Suzaku WAM team, report:\n\nThe short GRB 140619B (Fermi-GBM detection : Connaughton et al, GCN\n16419; Fermi-LAT detection: Kocevski et al., GCN 16420) triggered the\nSuzaku Wide-band All-sky Monitor (WAM) which covers an\nenergy range of 50 keV - 5 MeV at 11:24:40.128 UT (=T0).\n\nThe observed light curve shows a single peak, lasting from T0 to T0+1 s\nwith a duration\n(T90) of about 0.7 seconds. The fluence in 100 - 1000 keV was 1.50\n(+0.07, -0.22) x10^-6 erg/cm^2.\nThe 1-s peak flux measured from T0 was 2.29 (+0.19, -0.53)\nphotons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0 to T0+1\ns is well fitted by a power-law with exponential cutoff model:\ndN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha 0.45 (+0.31, -0.37), and\nEpeak 1418 (+292, -239) keV (chi^2/d.o.f. = 23.78/29).\n\nAll the quoted errors are at statistical 90% confidence level, in which\nthe systematic uncertainties are not included.\n\nThe light curves with 1-sec time resolution for this burst will be\nappeared at:\n\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/untrig/grb_table.html"
+}

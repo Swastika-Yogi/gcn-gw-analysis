@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Observations of GRB100814A - a clearer table.",
+  "eventId": "GRB 100814A",
+  "bibcode": "2010GCN.11097....1D",
+  "createdOn": 1281864807000,
+  "circularId": 11097,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and C.J. Saxton (MSSL-UCL)\nreport on the behalf of the Swift UVOT team:\n\nIn the GCN circ 11095 (Swift/UVOT observations of\nGRB100814A) the table containing the information\non epochs and magnitudes could not be read well because\nof a formatting problem. In the following, we rewrite\nthe table with a clearer look.\n\n  We apologize for any inconvenience it might have caused.\n\n\nFilter      T_start   T_stop    Exp(s)      Mag   Err\n----------------------------------------------------------\n    u (fc)    153      403        246      16.80  0.06\n    v         458      627        39       17.91  0.32\n    b         408      721        53       21.22  0.20\n    u         153      701       285       16.84  0.06\n  uvw1        507      676        39       17.33  0.20\n  uvm2        483      651        39       17.86  0.31\n  uvw2        434      602        39      >18.52  3-sigma UL\n  white      3858     4211       344       18.63  0.07\n----------------------------------------------------------\n\n\n[GCN OPS NOTE(15aug10):  Per author's request, the \"B\" \nin the Subject line was changed to \"A\".]"
+}

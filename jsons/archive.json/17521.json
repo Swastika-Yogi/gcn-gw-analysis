@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150301A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 150301A",
+  "bibcode": "2015GCN.17521....1H",
+  "createdOn": 1425257987000,
+  "circularId": 17521,
+  "submitter": "Lea Hagen at PSU  <lea.zernow.hagen@gmail.com>",
+  "email": "lea.zernow.hagen@gmail.com",
+  "body": "L. M. Z. Hagen (PSU) and A. Y. Lien (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150301A\n66 s after the BAT trigger (Lien et al., GCN Circ. 17510).\nNo optical afterglow consistent with the XRT position (Lien et al.\nGCN Circ. 17510) or GROND candidates (Tanga et al. GCN Circ. 17513)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite               66         4931          306        >21.08\nv                 5143         5343          196        >19.40\nb                 4526        10879          750        >21.16\nu                 4321         5926          362        >20.08\nuvw1              5553         5752          196        >19.61\nuvm2              5347         5547          196        >19.40\nuvw2              4937         5137          196        >19.82\n\nThe magnitudes in the table are not corrected for the substantial Galactic\nextinction due to the reddening of E(B-V) = 3.84 in the direction of the\nburst (Schlegel et al. 1998).  We note that the photometry is likely\naffected by a nearby bright foreground star."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220408B",
+  "eventId": "GRB 220408B",
+  "bibcode": "2022GCN.31878....1K",
+  "createdOn": 1649711727000,
+  "circularId": 31878,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team, report:\n\nThe bright, long-duration GRB 220408B\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 31854;\nAstroSat-CZTI detection: Gopalakrishnan et al., GCN Circ. 31863)\nwas detected by Fermi (GBM trigger 671095689), Konus-Wind,\nBepiColombo (MGNS), and AstroSat (CZTI) at about 26884 s UT (07:28:04).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n    92.538 (06h 10m 09s) -49.610 (-49d 36' 36\")\n  Corners:\n    93.180 (06h 12m 43s) -49.644 (-49d 38' 40\")\n    93.133 (06h 12m 32s) -47.629 (-47d 37' 43\")\n    91.896 (06h 07m 35s) -49.572 (-49d 34' 20\")\n    91.889 (06h 07m 33s) -51.597 (-51d 35' 50\")\n  ---------------------------------------------\nThe error box area is 1.7 sq. deg, and its maximum\ndimension is 4.0 deg (the minimum one is 48 arcmin).\nThe Sun distance was 86 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi GBM final position (GCN 31854).\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220408_T26885/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

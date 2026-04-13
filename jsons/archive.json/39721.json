@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 250313A",
+  "eventId": "GRB 250313A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.39721....1F",
+  "createdOn": 1741968465451,
+  "circularId": 39721,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 250313A (Fermi-GBM detection: Fermi GBM team, GCN 39703;\nBALROG localization: Preis & Greiner, GCN 39704;\nFermi-LAT detection: Di Lalla et al., GCN 39711;\nAstroSat CZTI detection: Dasgupta et al., GCN 39714;\nSVOM/GRM observation: Wang et al., GCN 39716)\ntriggered Konus-Wind (KW) at T0=52473.618 s UT (14:34:33.618).\n\nThe burst light curve shows a bright, multi-peaked emission pulse,\nwith the duration of ~15 s, followed by a broad, weaker pulse,\npeaked at T0+270 s. The total duration of the burst is ~345 s.\nThe emission is seen up to ~1.5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250313_T52473/\n\nAs observed by Konus-Wind, the burst had\na fluence of (1.06 ± 0.19)x10^-4 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 7.936 s,\nof (1.23 ± 0.10)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+345 s)\nis best fit in the 20 keV - 1.5 MeV range\nby a GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -1.13 (-0.04,+0.04),\nthe high energy photon index beta = -2.64 (-0.73,+0.21),\nthe peak energy Ep = 237 (-15,+18) keV,\nchi2 = 34/63 dof.\n\nThe spectrum near the peak count rate (measured from T0+7.936 s to T0+8.960 s)\nis best fit in the 20 keV - 1.5 MeV range\nby a GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.52 (-0.07,+0.08),\nthe high energy photon index beta = -2.80 (-0.41,+0.25),\nthe peak energy Ep = 294 (-20,+21) keV,\nchi2 = 34/51 dof.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

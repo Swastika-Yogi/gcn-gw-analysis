@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070125: UVOT Detection in Ultraviolet Filters",
+  "eventId": "GRB 070125",
+  "bibcode": "2007GCN..6041....1M",
+  "createdOn": 1169849059000,
+  "circularId": 6041,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC), D. E. vanden Berk (PSU), and \nJ. Racusin (PSU) report on behalf of the Swift team:\n\nThe afterglow of GRB 070125 (Hurley et al., GCN Circ. 6024)\nhas now been detected in all 6 UVOT filters ranging from\nV (central wavelength of 546 nm) to UWW2\n(central wavelength of 193 nm).\nThe decay in the V filter is consistent\nwith a 1/t decay rate. Detection in the UVW2\nfilter requires a redshift of < 1.5, which\nis consistent with earlier suggestions by\nProchaska et al. (GCN 6031 and 6032) and\nPelangeon and Atteia (GCN 6033).\n\nThe table below gives the measured magnitudes. \nT_start and T_end are the start and stop\ntimes of the summed exposures in seconds from the trigger.\nNo correction has been made for the expected\nGalactic reddening of E(B-V) = 0.05.\n\nFilter  T_start   T_end  Exposure  Mag   Error\nV       46685     53261   1736    18.54  0.06\nV       58269     63986   1590    18.74  0.07\nV      116966    117176    205    19.26  0.27\nB       47550     54163   1674    18.92  0.03\nB       59126     59947    798    19.03  0.06\nUVW2   116119    116959    840    19.26  0.10"
+}

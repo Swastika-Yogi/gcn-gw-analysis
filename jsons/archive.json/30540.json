@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 210726A",
+  "eventId": "GRB 210726A",
+  "bibcode": "2021GCN.30540....1V",
+  "createdOn": 1627485701000,
+  "circularId": 30540,
+  "submitter": "Peter Veres at UAH  <veresp@gmail.com>",
+  "email": "veresp@gmail.com",
+  "body": "P. Veres (UAH) reports on behalf of the Fermi-GBM Team:\n\n\"Swift-BAT detected GRB 210726A at 19:19:03 UT (GCN 30523). There was\nno Fermi-GBM\nonboard trigger around the event.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals was run from +/-30 s around the BAT trigger time.  A\ntransient source was identified whose most significant timescale according\nto the search is 512 ms, and a location consistent with the Swift-BAT\nevent.  The GBM targeted search event was found with the highest\nsignificance with a \"soft\" spectral template (Band function with Epeak = 70\nkeV, alpha = -1.9, beta = -3.7).\n\nThe GBM light curve consists of a single peak. The time-averaged spectrum\nfrom T0+0.6 s to T0+1.4 s is best fit by a power law function with index\n-2.03 +/- 0.3 (T0 is 2021-07-26 19:19:03 UT). A power law function with an\nexponential high-energy cutoff fits equally well, but it is not\nstatistically preferred over the power law;  the fit measures the power law\nindex 0.23 +/- 1.67 and the cutoff energy, parameterized as Epeak, is 41\n+/- 10 keV.\n\nThe event fluence (10-1000 keV) in this time interval for the power law\nwith the exponential cutoff is (6.4 +/- 1.7)E-08 erg/cm^2. Using the\nphotometric redshift z=0.35 reported by Watson et al. (GCN 30534), we\nderive an isotropic equivalent energy in the 1-10,000 keV range of (2.1 +/-\n0.5)E+49 erg.\n\nThis analysis is preliminary.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597\n\""
+}

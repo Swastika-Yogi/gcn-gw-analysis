@@ -1,0 +1,10 @@
+{
+  "subject": "EP260327a: SVOM/VT optical upper limits",
+  "eventId": "EP260327a",
+  "submittedHow": "web",
+  "createdOn": 1774666540954,
+  "circularId": 44135,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, Y. N. Ma, C. Wu, Z. H. Yao, Y. L. Qiu, L. P. Xin, J. R. Xu, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. T. Palmerio (CEA/Irfu) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed a ToO observation of the field of EP260327a detected by Einstein Probe (Dai et al., GCN 44126). The observation started at 2026-03-27T06:41:45 UTC, i.e., about 47 minutes post trigger in the VT_B (400-650 nm) and VT_R (650-1000 nm) channels simultaneously.\n\nNo uncatalogued optical source was detected at the FXT source position (Dai et al., GCN Circ. 44126) in our stacked images, compared to the Legacy Survey. The 3-sigma upper limits are:\n\nMid_time     Band        Exposure time     Magnitude (AB) \n2.80 h       VT_R           79*50 sec       > 23.7 mag\n2.80 h       VT_B           66*50 sec       > 23.5 mag\n\nThe magnitudes are in the AB system and are not corrected for Galactic extinction.\n\nOur non-detection is consistent with the observations from MASTER (Lipunov et al., GCN 44127), Gemini-North (van Hoof et al., GCN 44129), COLIBRÍ (Guelfand et al., GCN 44131) and WINTER (Schneider et al., GCN 44132).\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

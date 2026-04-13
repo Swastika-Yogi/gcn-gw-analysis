@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060204A: ROSAT Pointing",
+  "eventId": "GRB 060204A",
+  "bibcode": "2006GCN..4700....1M",
+  "createdOn": 1139272486000,
+  "circularId": 4700,
+  "submitter": "Jules Halpern at Columbia U.  <jules@astro.columbia.edu>",
+  "email": "jules@astro.columbia.edu",
+  "body": "I note that a faint ROSAT PSPC source was detected in a \npointed observation in 1992 at a position and flux consistent\nwith the Swift XRT source (Morris et al., GCN 4685) in the\nINTEGRAL error circle of GRB 060204A (Mereghetti et al., \nGCN 4654, 4659).  This is not the RASS source mentioned\nby Kong (GCN 4676).\n\nThe source 2RXP J152858.6-392721 has 0.0112+/-0.0023 ct/s,\nand its 8\" radius error circle is also very near the bright\nvariable star detected in the Swift UVOT (Cucchiara et al.,\nGCN 4698), suggesting that these objects are identical:\n\n                  R.A.(2000)     Dec.(2000)   +/-(\")  \n  --------------------------------------------------\t\n  Swift XRT       15 28 58.4    -39 27 28.5     5\n  ROSAT PSPC      15 28 58.55   -39 27 20.9     8\n  USNO B1.0       15 28 58.79   -39 27 30.4\n  --------------------------------------------------\n\nThese results together argue that the Swift candidate is a\nvariable Galactic source rather than a GRB afterglow."
+}

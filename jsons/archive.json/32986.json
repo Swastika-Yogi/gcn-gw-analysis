@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 221124A (long)",
+  "eventId": "GRB 221124A",
+  "bibcode": "2022GCN.32986....1S",
+  "createdOn": 1669561275000,
+  "circularId": 32986,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nS. Xiao, S.-L. Xiong, X.-Q. Li, X.-Y. Wen, L.-M. Song, S.-J. Zheng,\nW.-X. Peng, and F. Zhang on behalf of the GECAM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 221124A\n(CALET-CGBM detection: Sugita et al., GCN Circ. 32981;\nSwift/BAT-GUANO detection: Tohuvavohu et al., GCN Circ. 32984;\nGECAM-B detection: Huang et al., ATel 15777)\nhas been detected by CALET (CGBM), Konus-Wind, INTEGRAL (SPI-ACS),\nGECAM-B (GRD), and Swift (BAT), so far,\nat about 7224 s UT (02:00:24).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   310.423 (20h 41m 42s) +34.999 (+34d 59' 56\")\n  Corners:\n   317.972 (21h 11m 53s) +25.823 (+25d 49' 21\")\n   314.677 (20h 58m 42s) +33.947 (+33d 56' 49\")\n   299.731 (19h 58m 56s) +43.400 (+43d 24' 01\")\n   305.508 (20h 22m 02s) +36.238 (+36d 14' 17\")\n  ---------------------------------------------\nThe error box area is 50 sq. deg, and its maximum\ndimension is 23 deg (the minimum one is 3.3 deg).\nThe Sun distance was about 84 deg.\n\nThis box may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB221124_T07224/IPN\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

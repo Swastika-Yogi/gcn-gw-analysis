@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 241030A: Swift/UVOT Detection",
+  "eventId": "GRB 241030A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37974....1B",
+  "createdOn": 1730302962104,
+  "circularId": 37974,
+  "submitter": "Alice Breeveld at MSSL-UCL <a.breeveld@ucl.ac.uk>",
+  "body": "A.A. Breeveld (UCL-MSSL) and N. J. Klingler (GSFC/UMBC/CRESSTII) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 241030A 83s after the BAT trigger (Klingler et al., GCN Circ. 37956) and Fermi/GBM trigger (Fermi GBM team, GCN Circ. 37955).\nA fading source consistent with the XRT position (Beardmore et al., GCN Circ. 37962) and the optical counterpart (Watson et al., GCN 37957; Fernández-Rodríguez et al., GCN 37958; Zheng et al., GCN 37959; An et al., GCN 37960; Higuchi et al., GCN 37963; Qiu et al., GCN 37965 and Wu et al., GCN 37970), is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  22:52:33.47 = 343.13946 (deg.)\n    Dec (J2000) = +80:26:59.8  =  80.44995 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               83          232          147         15.43 ± 0.02\nwhite              575          595           19         13.80 ± 0.05\nwhite              748          768           20         14.19 ± 0.04\nv                  625          645           19         13.71 ± 0.05\nb                  551          571           20         13.96 ± 0.04\nu                  295          545          246         12.96 ± 0.02\nw1                 674          694           20         14.09 ± 0.06\nm2                 650          670           20         14.57 ± 0.10\nw2                 601          621           20         15.34 ± 0.11\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.131 in the direction of the burst (Schlegel et al. 1998).\n"
+}

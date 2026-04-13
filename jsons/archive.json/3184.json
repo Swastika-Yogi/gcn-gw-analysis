@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050406: early Swift XRT analysis results",
+  "eventId": "GRB 050406",
+  "bibcode": "2005GCN..3184....1C",
+  "createdOn": 1112823948000,
+  "circularId": 3184,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "M. Capalbi, M. Perri (ASDC), P. Romano, A. Moretti, C. Pagani, G. \nTagliaferri (INAF-OAB), D. Malesani (SISSA), D. N. Burrows, J. Kennea, D. \nGrupe (PSU), K. Page, M. Goad, A. Beardmore (U. Leicester), V. La Parola, \nT. Mineo (IASF/Palermo), N. Gehrels (NASA/GSFC), and S. Kobayashi (PSU) \nreport on behalf of the Swift XRT team:\n\n\nWe have analyzed the Swift XRT data from the first orbit observation \nof  GRB 050406 (Parsons et al., GCN3180; Cusumano et al., GCN 3186).  The \nnew refined coordinates are:\n\nRA(J2000) = 2h 17m 52.64s\nDec(J2000) = -50:11:18.80\n\nThis position is 28 arcseconds from the refined BAT position given in GCN \n3183 (Krimm et al. 2005).  We estimate an uncertainty of 5 arcseconds \nradius (90% containment).\n\nThis is 30 arcsec from the refined BAT position (Krimm et al., GCN \n3183)  and 3.2 arcsec from the preliminary XRT position (GCN 3186).\n\nThe [0.2-10] keV light curve in Windowed Timing (WT) and Photon Counting \n(PC) mode starts 106 seconds from the BAT trigger (T0). At the beginning, \nthe count rate is rapidly rising, peaking at about 218 seconds from T0. \nThen it decays very fast, possibly flattening at T-T0=300 seconds.\n\nA preliminary spectral fit to the WT data gives a spectral power law photon \nindex of  2.1 � 0.3 in the [0.5-10] keV band, assuming Galactic absorption \n(3.3E20cm^-2).  The average (in the time range 100-700 seconds from \ntrigger) estimated unabsorbed 0.5-10 keV flux is then about 2.8E-11 erg \ncm^-2 s^-1."
+}

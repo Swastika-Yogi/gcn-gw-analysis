@@ -1,0 +1,10 @@
+{
+  "subject": "GRB240419A: Skynet Optical Afterglow Analysis",
+  "eventId": "GRB 240419A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36200....1D",
+  "createdOn": 1713647557086,
+  "circularId": 36200,
+  "submitter": "maedubay@unc.edu",
+  "body": "Megan Dubay, Donovan Schlekat, Dylan Dutton, Daniel Reichart, Joshua Haislip, and Vladimir Kouprianov report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 240419A with one of Skynet’s 16”-diameter PROMPT telescopes at CTIO. The first detection occurred in the I band approximately 1 hour after the trigger reported by Swift (Siegel et al., GCN 36169).\n\nWe detect the afterglow with coordinates consistent with those reported by VLT (B. Schneider et al., GCN 36175) and REM (Ferro et al., GCN 36183).\n\nThe coordinates are:\t\nR.A. (J2000):  06:18:08.18\nDec. (J2000): -44:59:57.60\n\nWe report the photometry below.\n\nExpLen | Filter | Mag   | Mag Error  | MJD (Center)   \n------------------------------------------------\n45x8   | I      | 19.06 | 0.199      | 60419.119\n60x8   | R      | ----- | -----      | 60419.119\n\nWe report non-detection in the R-band from the reported time with an upper magnitude limit of 20.39.\n \nWe note that the large R-I color is consistent with the presence of the Lyman-alpha forest in the R band, given its large redshift (Schneider et al., GCN 36176, Lamb & Reichart 2000).\n\nOur images have been calibrated using stars from the APASS catalog.\n"
+}

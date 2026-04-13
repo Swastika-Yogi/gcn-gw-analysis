@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 240810A (short)",
+  "eventId": "GRB 240810A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37156....1K",
+  "createdOn": 1723497804026,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 37156,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 240810A\n(Fermi-GBM detection: The Fermi GBM team, GCN 37133)\nwas detected by Fermi (GBM), Konus-Wind, INTEGRAL (SPI-ACS),\nand Mars-Odyssey (HEND) at about 76039 s UT (21:07:19).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  146.339 (09h 45m 21s) -38.135 (-38d 08' 07\")\n Corners:\n  146.325 (09h 45m 18s) -38.221 (-38d 13' 16\")\n  146.211 (09h 44m 51s) -38.270 (-38d 16' 13\")\n  146.353 (09h 45m 25s) -38.050 (-38d 02' 58\")\n  146.467 (09h 45m 52s) -38.000 (-37d 60' 00\")\n ---------------------------------------------\nThe error box area is 51 sq. arcmin, and its maximum\ndimension is 20 arcmin (the minimum one is 3 arcmin).\nThe Sun distance was 53 deg.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM localization.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240810_T76037/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

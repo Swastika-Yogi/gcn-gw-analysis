@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050820B: Swift XRT position",
+  "eventId": "GRB 050820B",
+  "bibcode": "2005GCN..3842....1B",
+  "createdOn": 1124594795000,
+  "circularId": 3842,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "D. N. Burrows (PSU) reports on behalf of the Swift XRT team:\n\nThe Swift BAT instrument triggered on GRB 050820B at 23:50:27.19 UT (GCN \n3839, Page et al.).  At that time, the source was within the Earth limb \nconstraint and the S/C was not able to slew immediately.  Swift executed a \ndelayed slew at 0:17:37, while the observatory was in the South Atlantic \nAnomaly.  The XRT attempted to locate a bright source in its field of view, \nbut was not able to do so due to the delayed slew and to the presence of \nmany charged particle events in the image.  XRT Photon-Counting mode \nobservations began at 00:28:3.6 (2256 s after the burst trigger), following \nexit from the South Atlantic Anomaly and completion of pre-programmed XRT \nengineering data collection.   In analysis of engineering format (PASS1) \nground-processed data at the MOC, we find a faint, fading, uncataloged \nX-ray source located at:\n\nRA(J2000) = 09h 02m 24.6s\nDec(J2000) = -72d 38' 43\"\n\nwith an estimated uncertainty of 8 arcseconds (90% containment \nradius).  This position is 25 arcseconds from the refined BAT position \nreported in GCN 3840 (Fenimore et al.).\n\nFurther observations are in progress.  Refined analysis will become \navailable following processing of the data through the Swift Data Center's \npipeline."
+}

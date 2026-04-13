@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090423 - Swift/UVOT upper limits.",
+  "eventId": "GRB 090423",
+  "bibcode": "2009GCN..9210....1D",
+  "createdOn": 1240506383000,
+  "circularId": 9210,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and H. Krimm (GSFC/GWU) report on\nbehalf of the Swift UVOT team:\n\nThe Swift/UVOT took the first settled exposure of GRB 090423 starting \n77 s after the BAT trigger (Krimm, et al., 2009, GCN Circ. 9198) in the \nwhite filter. We do not find any new source, at the enhanced position of \nthe XRT afterglow (Evans, et al. 2009, GCN Circ. 9205) nor at the\nposition of the K band candidate found by UKIRT (Tanvir,\net al. 2009, GCN Circ. 9206). No source is detected even when all\nthe images of all filters are summed. The 3-sigma upper limits for\ndetecting a source in the white and u band first exposures, and\nsubsequent co-added images in all filters are:\n\nFilter           T_start   T_stop   Exp(s)      Mag\n----------------------------------------------------------\nwhite               77      227     147         >20.7\nu                   290     540     246         >20.0\n\nv                  619      6162    413         >19.6\nb                  545      5497    413         >20.2\nu                  290      5342    462         >20.4\nuvw1               668      6503    344         >20.1\nuvm2               644      6367    413         >20.1\nuvw2               594      5958    412         >20.5\nwhite               77      5752    560         >21.3\n---------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nmodest Galactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.03 mag (Schlegel, et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

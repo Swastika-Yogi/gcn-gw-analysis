@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231205B : MITSuME Akeno optical upper limits",
+  "eventId": "GRB 231205B",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35284....1S",
+  "createdOn": 1701849947455,
+  "circularId": 35284,
+  "submitter": "Mahito Sasada at Tokyo Institute of Technology <sasada@hp.phys.titech.ac.jp>",
+  "body": "M. Sasada, I. Takahashi, M. Niwano, S. Sato, N. Higuchi, S. Hayatsu, H. Takei,  H. Seki, Y. Yatsu and N. Kawai  (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 231205B (Evans et al., GCN 35269) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2023-12-05 16:46:02 UT (123 seconds after the Swift/BAT trigger). We stacked the images with good conditions. We did not detect any uncatalogued sources within the enhanced Swift/XRT error region (Osborne et al., GCN 35275), consistent with other non-detections (Odeh et al., GCN 35270; Strausbaugh et al., GCN 25278; Jiang et al., GCN 35280; Jiang et al., GCN 35281, Gendre et al., GCN 35282). We obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[sec] | MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n517 | 2023-12-05 16:52:36 | 100 | g'>17.2, Rc>16.6, Ic>16.2\n5970 | 2023-12-05 18:23:29 | 420 | g’>17.5, Rc>17.5, Ic>17.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages 4-24; https://github.com/MNiwano/Eclaire).\n"
+}

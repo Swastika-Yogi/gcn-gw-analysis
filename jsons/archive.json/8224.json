@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080913: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080913",
+  "bibcode": "2008GCN..8224....1O",
+  "createdOn": 1221324012000,
+  "circularId": 8224,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates and P. Schady report on behalf of the Swift/UVOT team.\n\nThe Swift/UVOT began settled observations of the field of GRB 080913 \nstarting\n105s after the BAT trigger (Schady et al., GCN 8217). We do not detect an\nafterglow in any of the UVOT filters inside the UVOT-enhanced XRT\nerror circle (Beardmore et al., GCN 8219).\n\nThe 3 sigma upper limits for the finding charts (fc) and summed images\nare given below:\n\nFilter    T_start(s)  T_stop(s)  Expo(s)  Magnitude (3 sigma UL)\n-----------------------------------------------------------------\nWhite (fc)   105        205        98           >20.92\nWhite        105       1964        238          >21.26                 \nv (fc)       211        611        393          >20.08\nv            211       1858        865          >20.39\nb            691       1957        97           >19.62\nu            666       1932        117          >19.36\nw1           641       1907        117          >19.48\nm2           616       1882        78           >18.84\nw2           721       1833        58           >18.99\n----------------------------------------------------------------\n\nThe above magnitudes are not corrected for the Galactic extinction \ncorresponding to a\nreddening of E_{B-V} = 0.04 mag (Schlegel et al., 1998, ApJS, 500, 525). \nThe photometry\nis on the UVOT flight system described in Poole et al. \n(2008,MNRAS,383,627)."
+}

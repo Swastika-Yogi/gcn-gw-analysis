@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120324A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 120324A",
+  "bibcode": "2012GCN.13095....1O",
+  "createdOn": 1332592609000,
+  "circularId": 13095,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and B.-B. Zhang (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 120324A\n84 s after the BAT trigger (Zhang et al., GCN Circ. 13090).\nNo optical afterglow, consistent with the XRT position\n(Evans et al., GCN Circ. 13093) or the uncatalogued \nobject reported by the Liverpool Telescope (Guidorzi et al., GCN Circ. 13092),\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            84          234          147         >21.2\nu_FC               297          547          246         >20.2\nwhite               84         4917          569         >22.1\nv                  627         5329          294         >19.9\nb                  553         1510           89         >19.6\nu                  297         1493          324         >20.2\nw1                 676         5615          171         >19.9\nm2                 652         5534          216         >20.0\nw2                 603         5124          274         >20.8\n\nThe magnitudes in the table are not corrected for the significant Galactic extinction\ndue to the reddening of E(B-V) = 1.12 in the direction of the burst\n(Schlegel et al. 1998)."
+}

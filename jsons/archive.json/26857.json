@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 200120A",
+  "eventId": "GRB 200120A",
+  "bibcode": "2020GCN.26857....1F",
+  "createdOn": 1579717139000,
+  "circularId": 26857,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R. Aptekar, A. Lysenko,\nA. Ridnaia, D. Svinkin, A. Tsvetkova, M. Ulanov, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long GRB 200120A (Fermi GBM localization: GCN 26831;\nIPN triangulation: Hurley et al., GCN 26856;\nInsight-HXMT/HE detection: Zheng et al., GCN 26840)\ntriggered Konus-Wind at T0=83096.553 s UT (23:04:56.553).\n\nThe burst light curve shows a mult-peaked pulse\nwhich starts at ~T0-5 s and has a total duration of ~12 s.\nThe emission is seen up to ~2 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.2(-0.7,+0.8)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+3.368 s,\nof 4.0(-0.5,+0.4)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.12(-0.15,+0.17)\nand Ep = 221(-32,+47) keV (chi2 = 105/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.3\n(chi2 =105/97 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200120_T83096/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

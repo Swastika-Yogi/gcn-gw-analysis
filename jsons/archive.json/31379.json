@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211229B: Fermi GBM observation",
+  "eventId": "GRB 211229B",
+  "bibcode": "2022GCN.31379....1F",
+  "createdOn": 1641250595000,
+  "circularId": 31379,
+  "submitter": "Cori Fletcher at USRA  <cfletcher@usra.edu>",
+  "email": "cfletcher@usra.edu",
+  "body": "C. Fletcher (USRA) and C. Meegan (UAH) report on behalf of the Fermi GBM Team:\n\n\"At 22:18:43.10 UT on 29 December 2021, the Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 211229B (trigger 662509128 / 211229930)\nwhich was also detected by the Swift/BAT-GUANO (Raman et al. 2022, GCN 31375),\nGECAM (Zhao et al. 2021, GCN 31339), AGILE (Ursi et al. 2021, GCN 31344)\nand INTEGRAL/SPI-ACS (#9581). The Fermi GBM Final Real-time Localization (GCN 31336)\nis consistent with the GECAM position.\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 59 degrees.\n\nThe GBM light curve consists of a single peak\nwith a duration (T90) of about 24 s (50-300 keV).\nThe time-averaged spectrum from T0-15 s to T0+8.6 s is\nbest fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -1.14 +/- 0.05 and\nthe cutoff energy, parameterized as Epeak, is 565 +/- 110 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(8.8 +/- 0.4)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+1.3 s in the 10-1000 keV band\nis 12.4 +/- 0.3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

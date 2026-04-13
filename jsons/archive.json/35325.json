@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231212A: GECAM-C detection of a likely short burst ",
+  "eventId": "GRB 231212A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35325....1W",
+  "createdOn": 1702352122831,
+  "submitter": "Yue Wang <m18509381757@163.com>",
+  "circularId": 35325,
+  "body": "Yue Wang, Shao-Lin Xiong report on behalf of the GECAM team:\n\nGECAM-C was triggered in-flight by a likely short burst, GRB 231212A, at 2023-12-12T00:56:48.850 UTC (T0), which was also triggered by Fermi/GBM (TrigNum724035412) . \n\nAccording to the realtime alert data, the GECAM-C light curve shows a short pulse with a duration of ~4 sec (15-1050 keV). \n\nThe time-averaged spectrum of GECAM-C realtime data from about T0-2 s to T0+2 s could be\nadequately fit by a cut-off power-law with a flux about 8.01E-7 erg/cm^2/s in 20-1000 keV.\n\nUsing the automatic on-ground localization pipeline with the realtime alert data, \nGECAM-C localized this burst to the following position (J2000): \nRa:  151.1 deg \nDec: -74.1 deg\nErr: 7.1 deg (1-sigma, statistical only)\n\nThe GECAM light curve and localization could be found here: \nhttp://twiki.ihep.ac.cn/pub/GECAM/GRBList/231212A_lc.jpg\nhttp://twiki.ihep.ac.cn/pub/GECAM/GRBList/231212A_loc.png\n\nWe note that these results are based on realtime alert data and thus very preliminary. \n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor(GECAM) mission originally consists of two microsatellites (GECAM-A and GECAM-B) launched in Dec. 2020. As the third member of GECAM constellation, GECAM-C was launched onboard SATech-01 experimental satellite in July 2022. GECAM mission is funded by the Chinese Academy of Sciences (CAS)."
+}

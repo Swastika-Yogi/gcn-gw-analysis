@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170607B",
+  "eventId": "GRB 170607B",
+  "bibcode": "2017GCN.21246....1F",
+  "createdOn": 1497188169000,
+  "circularId": 21246,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 170607B (AstroSat CZTI detection: Sharma et al., GCN 21232;\nFermi GBM detection: Hamburg et al., GCN 21238;\nIPN triangulation: Hurley et al., GCN 21242)\ntriggered Konus-Wind at T0=81725.036 s UT (22:42:05.036).\n\nThe burst light curve shows a bright, multi-peaked pulse\nwhich started at ~T0-9 s an had a total duration of ~35 s.\nA weak count rate increase is also visible around ~T0+100 s\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(7.2 �� 0.8)x10^-5 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+18.752 s of (8.1 �� 1.2)x10^-6 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+22.528 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.77 (-0.07,+0.08),\nthe high energy photon index beta = -2.87 (-1.27,+0.40),\nthe peak energy Ep = 512 (-50,+49) keV,\nchi2 = 105/97 dof.\n\nThe spectrum near the peak count rate (measured from T0+14.336\nto T0+22.528 s) is best fit in the 20 keV - 5 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.58 (-0.32,+0.38),\nthe high energy photon index beta = -2.22 (-1.17,+0.22),\nthe peak energy Ep = 244 (-51,+103) keV,\nchi2 = 70/72 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170607_T81725/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

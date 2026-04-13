@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140102A: Swift/UVOT Detection",
+  "eventId": "GRB 140102A",
+  "bibcode": "2014GCN.15690....1H",
+  "createdOn": 1388979216000,
+  "circularId": 15690,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "L. M. Z. Hagen (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 140102A 65 s\nafter the BAT trigger (Hagen et al., GCN Circ. 15653). We detect a fading\nsource consistent with the XRT position (Goad et al. GCN Circ. 15657) that\nis detected in all but the bluest UVOT filters.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  14:07:40.65 = 211.91939 (deg.)\n    Dec (J2000) = +01:19:59.8  =   1.33329 (deg.)\nwith an estimated uncertainty of 0.50 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite (fc)          65          215          147         16.07 +/- 0.03\nwhite              557         2215          322         18.38 +/- 0.05 \nwhite             6222         7858          393         20.08 +/- 0.21\nv                  607         2265          194         18.21 +/- 0.23\nb                  533         2191          175         18.50 +/- 0.15\nu (fc)             278          527          245         16.90 +/- 0.05\nu                  681         2166          155         17.97 +/- 0.14\nw1                 657         2142          175         19.10 +/- 0.33 \nm2                 631         2117          175        >19.34\nw2                6428         8034          364        >19.96\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

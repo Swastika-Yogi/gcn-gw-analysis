@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 161017A",
+  "eventId": "GRB 161017A",
+  "bibcode": "2016GCN.20082....1F",
+  "createdOn": 1476898976000,
+  "circularId": 20082,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 161017A (Swift-BAT trigger #718023:\nTroja et al., GCN 20064, T0(BAT)=17:51:51 UT;\nFermi-GBM observation: Hui & Meegan, GCN 20068;\nLomonosov observation: Sadovnichy et al., GCN 20075)\nwas detected by Konus-Wind in the waiting mode.\n\nThe light curve shows an emission pulse which starts\n~10 s before the BAT trigger, peaks at ~T0(BAT)+7 s,\nand lasts till ~T0(BAT)+28 s.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB161017_T64311/\n\nAs observed by Konus-Wind, the burst had a fluence of\n(8.5 �� 1.1)x10^-6 erg/cm2 and a 2.944-s peak energy flux,\nmeasured from ~T0(BAT)+7 s, of (8.7 �� 0.2)x10^-7 erg/cm2\n(both in the 20 - 10000 keV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0(BAT)-10 s to T0(BAT)+28 s) by a power law\nwith exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.25 �� 0.16, and Ep = 289 �� 73 keV.\n\nModeling the KW 3-channel spectrum near the peak count rate with\nthe CPL model yields alpha = -1.17 �� 0.20, and Ep = 404 �� 136 keV.\n\nAssuming the redshift z=2.013 (de Ugarte Postigo et al., GCN 20069)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.3, and Omega_Lambda = 0.7,\nwe estimate the following rest-frame parameters:\nthe isotropic energy release E_iso is ~8.3x10^52 erg,\nthe peak luminosity L_iso is ~2.5x10^52 erg/s,\nand the rest-frame peak energy of the time-integrated spectrum,\nEp,i, is ~870 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

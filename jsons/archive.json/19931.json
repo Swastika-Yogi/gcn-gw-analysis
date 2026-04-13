@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160917A: Swift/UVOT Detection",
+  "eventId": "GRB 160917A",
+  "bibcode": "2016GCN.19931....1K",
+  "createdOn": 1474156478000,
+  "circularId": 19931,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (UCL-MSSL) and J. L. Racusin (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160917A\n100 s after the BAT trigger (Racusin et al., GCN Circ. 19926). The\nrefined XRT position (Evans et al. GCN Circ. 19927) is close to a\nbright star. However, a faint GRB candidate has been found at an\noffset of 6.5 arcsec to the south east from the bright star in the\nu exposures.\nThe UVOT candidate position is: RA, Dec = 295.66687, 46.40368 (J2000)\nwhich is :\nRA = 19:42:40.049\nDec = +46:24:13.25\nwith an estimated accuracy of 1.5 arcsec.\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              100          224          123          >21.01\nb                 4222         4422          100          >20.64\nu                 4017         5545          146           20.47 +- 0.36\nv                 3402         5038          200          >19.77\nuvw1              3812         5448          200          >20.16\nuvm2              3606         5242          100          >19.97\nuvw2              4633         4833          200          >19.70\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.16 in the direction of the burst\n(Schlegel et al. 1998)."
+}

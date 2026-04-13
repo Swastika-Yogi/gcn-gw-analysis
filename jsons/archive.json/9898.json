@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090904B: Swift/UVOT Refined Analysis",
+  "eventId": "GRB 090904B",
+  "bibcode": "2009GCN..9898....1P",
+  "createdOn": 1252129547000,
+  "circularId": 9898,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and D'Elia (ASDC) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 090904B,\n138 seconds\nafter the BAT trigger (D'Elia et al., GCN Circ. 9881). We do not detect\nany source\nat the UVOT-enhanced XRT position (J.P. Osbourne et al., GCN Circ.9887).\n\nThe 3-sigma upper limits for the exposures are:\n\nFilter   T_start(s)   T_stop(s)   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite      138          1357       369      > 22.17\nv          625          1237        78      > 19.08\nb          551           1335        78      > 20.08\nu          295            545       246      > 20.41\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the highly uncertain\nextinction\ncorresponding to a reddening along the line of sight of of E_(B-V) =\n1.76 mag\nSchlegel et al., (1998, ApJS, 500, 525).  All photometry is on the UVOT\nphotometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

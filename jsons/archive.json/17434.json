@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150211A: Swift detection of a burst",
+  "eventId": "GRB 150211A",
+  "bibcode": "2015GCN.17434....1S",
+  "createdOn": 1423656587000,
+  "circularId": 17434,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "R. L. C. Starling (U Leicester), S. D. Barthelmy (GSFC),\nM. M. Chester (PSU), P. A. Evans (U Leicester),\nN. Gehrels (NASA/GSFC), J. A. Kennea (PSU) and\nK. L. Page (U Leicester) report on behalf of the Swift Team:\n\nAt 11:52:11 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 150211A (trigger=630714).  Swift did not slew because of observing\nconstraint.  The BAT on-board calculated location is \nRA, Dec 254.856, +55.383, which is \n   RA(J2000)  =  16h 59m 25s\n   Dec(J2000) = +55d 22' 59\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows several overlapping peaks\nstructure with a total duration of about 20 sec.  The peak count rate\nwas ~7000 counts/sec (15-350 keV), at ~4 sec after the trigger. \n\nDue to an observing constraint, Swift will not slew until T0+33.7\nminutes. There will be no XRT or UVOT data until this time. \n\nThe star tracker lost lock about 1 minute before the trigger,\nbut the location should be good by propagating the gyros.  INTEGRAL-SPIACS\nalso saw this burst. \n\nBurst Advocate for this burst is R. L. C. Starling (rlcs1 AT star.le.ac.uk). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/too.html.)"
+}

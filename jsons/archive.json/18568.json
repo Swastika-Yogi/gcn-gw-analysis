@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 151107A, Swift-BAT refined analysis",
+  "eventId": "GRB 151107A",
+  "bibcode": "2015GCN.18568....1B",
+  "createdOn": 1447002260000,
+  "circularId": 18568,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "S. D. Barthelmy (GSFC),  J. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 151107A (trigger #662757)\n( Lien et al., GCN Circ. 18564).  The BAT ground-calculated position is\nRA, Dec = 217.139, -59.680 deg which is\n  RA(J2000)  =  14h 28m 33.4s\n  Dec(J2000) = -59d -40' -46.9\"\nwith an uncertainty of 2.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows no obvious structure. The event starts\nbefore the beginning of captured data at T-239 sec and extends out past the\nend of collected event data at T+910 sec when the source location left the FoV\nwhen the spacecraft slewed to a new target.\n\nThis burst occurred during the period of recovering the thermal control system\n(Barthelmy et al., GCN Circ. 18562). The CZT bias voltage has been reduced\nto -150v (instead of the normal -200v) and as such the energy scale is not fully\ncalibrated. Therefore, an accurate spectral analysis is unavailable.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/662757/BA/"
+}

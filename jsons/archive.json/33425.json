@@ -1,0 +1,10 @@
+{
+  "subject": "Improved IPN localization for GRB 230307A",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33425....1K",
+  "createdOn": 1678306589000,
+  "circularId": 33425,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nUsing the Konus-Wind data we have triangulated GRB 230307A\n(GCNs 33405, 33406, 33407, 33410, 33411, 33412, 33413, 33414,\n33415, 33416, 33418, 33424)\nto the 3 sigma error box whose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n    60.819 (04h 03m 17s) -75.379 (-75d 22' 43\")\n  Corners:\n    61.075 (04h 04m 18s) -75.436 (-75d 26' 10\")\n    61.016 (04h 04m 04s) -75.358 (-75d 21' 29\")\n    60.565 (04h 02m 16s) -75.321 (-75d 19' 14\")\n    60.622 (04h 02m 29s) -75.399 (-75d 23' 56\")\n  ---------------------------------------------\nThe error box area is 30 sq. arcmin, and its maximum\ndimension is 10 arcmin (the minimum one is 4.2 arcmin).\nThe Sun distance was 80 deg.\n\nThis box may be further improved.\n\nThe Swift ToO is ongoing.\n\nAn updated triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230307_T56646/IPN"
+}

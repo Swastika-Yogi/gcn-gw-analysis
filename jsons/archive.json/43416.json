@@ -1,0 +1,11 @@
+{
+  "subject": "GRB260114A: STEP/T80S optical limits",
+  "eventId": "GRB 260114A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43416....1S",
+  "createdOn": 1768494005217,
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "circularId": 43416,
+  "format": "text/plain",
+  "body": "A. Santos (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), L. Santana-Silva (CBPF), P. Darc (CBPF/Northwestern), Gabriel Teixeira (CBPF/UCA), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration:\n\nWe conducted optical follow up with the T80S 0.8-m robotic telescope with the S-PLUS Transient Extension Program (STEP; Santos et al., 2024, MNRAS, 529, 59) of the short gamma-ray burst GRB260114A discovered by the Fermi-GBM, Swift-BAT and XRT instruments (GCN 43395,43396).  The T80S observations started on Jan 15 03:18:38 UT (~16 hours after the trigger). We obtained images totaling 1200s (6x200s) in i-band with the T80S camera centered at the position reported in the Swift-BAT and XRT report at R.A.=04:58:23.59 and Decl.=-08:00:51.6 (J2000).  \n\nAfter subtracting a Pan-STARRS DR2 template image from the T80S coadded frame using photpipe (Rest et al., 2005, ApJ, 634, 1103), we do not detect any transient source in our difference image within the XRT error circle and derive a 3-sigma limiting magnitude of i > 22.4 mag.\n"
+}

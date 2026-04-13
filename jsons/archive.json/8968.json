@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090306B: INTEGRAL SPI-ACS light curve",
+  "eventId": "GRB 090306B",
+  "bibcode": "2009GCN..8968....1B",
+  "createdOn": 1236694985000,
+  "circularId": 8968,
+  "submitter": "Volker Beckmann at ISDC  <Volker.Beckmann@obs.unige.ch>",
+  "email": "Volker.Beckmann@obs.unige.ch",
+  "body": "V. Beckmann, M. Beck, C. Ferrigno, N. Produit, V. Savchenko (ISDC),\nJ. Borkowski (CAMK/Torun), D. Gotz (CEA/Saclay), S. Mereghetti \n(INAF/IASF-Milano), A. von Kienlin (MPE) report on behalf of the \nINTEGRAL SPI-ACS GRB team:\n\nGRB 090306B, detected in Swift/BAT slew data (Copete et al. GCN 8944), \nhas been independently detected by the SPI Anti-Coincidence\nSystem (ACS) on-board INTEGRAL. The SPI-ACS light curve shows the peak \nof the burst at 2009-03-06T23:07:21.9 with a maximum count-rate of ~390 \ncounts/50msec. The duration of the GRB is about 14 seconds.\n\nThe SPI-ACS light curves are available (both as images and data files)\nat http://isdc.unige.ch/Soft/ibas/ibas_acs_web.cgi\n\nThe light curves, binned at 50 ms, are derived from 91 independent\ndetectors with different lower energy thresholds (mainly between 50 keV\nand 150 keV) and an upper threshold at about 100 MeV. The ACS response\nvaries as a function of the GRB incident angle. For these reasons we\ncaution that the count rates cannot be easily translated into physical\nflux units."
+}

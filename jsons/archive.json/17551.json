@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150305A: Swift XRT confirms weak INTEGRAL event as a new GRB",
+  "eventId": "GRB 150305A",
+  "bibcode": "2015GCN.17551....1S",
+  "createdOn": 1425838337000,
+  "circularId": 17551,
+  "submitter": "Rhaana Starling at U of Leicester  <rlcs1@star.le.ac.uk>",
+  "email": "rlcs1@star.le.ac.uk",
+  "body": "R. Starling (U. Leicester) reports:\n\nOn 2015-03-05T09:49:19 UT INTEGRAL recorded a 7.6 sigma event at \nRA, Dec 269.78943, -41.62041 degrees (err 3.39 arcmin) and issued WEAK \nAlert 6905. We triggered a Swift ToO to observe this position.\n\nSwift observations began at 1.8E4 s after the INTEGRAL trigger with \nexposure time 3ks (obsID33663). Two sources were present in the error circle.\nOne of these is consistent with the ROSAT source 1RXS J175914.5-423529, \nwhich is likely associated with dwarf nova V728 CrA.\n\nThe second is a new source, with enhanced XRT position of\nRA, Dec (J2000) = 17h 59m 02.60s, -42\u001b$B!k\u001b(B 39\u001b$B!l\u001b(B 49.5\u001b$B!l!l\u001b(B (269.76082, -42.66374 deg) \nwith an uncertainty of 3.3\u001b$B!l!l\u001b(B (radius, 90% confidence).\n\nIn this first observation the new source had a count rate 0.035 ct/s.\nFurther Swift observations beginning 1.1E5s post-burst with exposure time \n3.7ks showed that this source had a count rate of approx. 0.007 ct/s, having \nfaded with a decay rate of alpha ~ -0.7. \n\nThe spectrum of the new source can be described with an absorbed power law.\n\nThe UVOT data were taken in UVM2 and UVW1 filters. A preliminary analysis \ndoes not reveal any UV counterpart to the new XRT source.\n\nWe conclude that the INTEGRAL WEAK event was a real GRB and that the \nfading source discovered by Swift XRT is the afterglow.\n\nWe thank the Swift team for carrying out these ToOs, and acknowledge use\nof the UK Swift Science Data Centre in our analysis."
+}

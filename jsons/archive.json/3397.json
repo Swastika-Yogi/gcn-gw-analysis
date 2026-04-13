@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT Follow-up Observations of GRB 050509B",
+  "eventId": "GRB 050509B",
+  "bibcode": "2005GCN..3397....1B",
+  "createdOn": 1115663450000,
+  "circularId": 3397,
+  "submitter": "Pete Roming at PSU  <roming@astro.psu.edu>",
+  "email": "roming@astro.psu.edu",
+  "body": "A. Breeveld, S. Rosen (MSSL), C. Hurkett (LU), E. Rol(LU), S. Holland (GSFC), P.\nRoming (PSU), N. Gehrels (GSFC), K. Mason (MSSL), J. Nousek (PSU), on behalf of\nthe Swift UVOT team\n\nFurther to the initial Swift UVOT results (C. Hurkett et al. GCN 3381) we report\nthe results of co-added, deeper exposures of GRB 050509b with the Swift\nUltra-Violet/Optical Telescope (UVOT) on May 09, 2005.\n\nWe detect no source at the XRT determined location (Kennea et al., GCN 3383) in\nany of the UVOT filters with the following 5 sigma limits in 6\" radius\napertures. Because of the proximity of this position to the galaxy cluster NSC\nJ123610+285901 the measurements were repeated with a smaller (3.5\") aperture.\nThe measurements are listed in the following table.\n\nFilter    Lim_Mag      Lim_mag           Total duration (s)   T_range (s)\n           5sigma (6\")  5sigma (3.5\")\n\nV          19.0         19.6                 345                51 - 1670\nB          19.7         20.3            197.4           196 - 1502\nU          19.41        19.44           752.88          182 - 7642\n\nT_range values are start and stop times between which UVOT exposures were made,\nmeasured w.r.t the BAT trigger time (Barthelmy et al. GCN 3385).\n\nThe magnitudes are based on preliminary zero-points, measured in orbit, and will\nrequire refinement with further calibration."
+}

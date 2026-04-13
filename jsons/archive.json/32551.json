@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220910A: Fermi GBM observation",
+  "eventId": "GRB 220910A",
+  "bibcode": "2022GCN.32551....1M",
+  "createdOn": 1663010255000,
+  "circularId": 32551,
+  "submitter": "Christian Malacaria at ISSI  <cmalacaria.astro@gmail.com>",
+  "email": "cmalacaria.astro@gmail.com",
+  "body": "C. Malacaria (ISSI) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 05:48:21.55 UT on 10 September 2022, the Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 220910A (trigger 684481706 / 220910242),\nwhich was also detected by AGILE (Ursi et al. 2022, GCN 32540)\nand AstroSAT/CZTI (Gopalakrishnan et al. 2022, GCN 32541).\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 9.1, Dec = -1.1 (J2000 degrees, equivalent to\nJ2000 00h 32m, -01d 06'), with a statistical uncertainty of 1.0 degrees\n(radius, 1-sigma containment, statistical only; there is additionally a systematic error\nwhich we have characterized as a core-plus-tail model, with 90% of GRBs having a\n3.7 deg error and a small tail suffering a larger than 10 deg systematic error\n[Connaughton et al. 2015, ApJS, 216, 32].\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 89 degrees.\n\nThe GBM light curve shows a precursor and a main, subsequent peak\nwith a duration (T90) of about 4 s (50-300 keV).\nThe time-averaged spectrum from T0-4.5 s to T0+10.6 s is\nbest fit by a Band function with Epeak = 357 +/- 8 keV,\nalpha = -0.69 +/- 0.01, and beta = -2.51 +/- 0.06\n\nThe event fluence (10-1000 keV) in this time interval is\n(4.69 +/- 0.03)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+6.85 s in the 10-1000 keV band\nis 76.9 +/- 0.6 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html  <https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html>\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/  <https://fermi.gsfc.nasa.gov/ssc/data/access/gbm/>\""
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050603: Swift-BAT refined analysis of a long three-spiked burst",
+  "eventId": "GRB 050603",
+  "bibcode": "2005GCN..3512....1F",
+  "createdOn": 1117798688000,
+  "circularId": 3512,
+  "submitter": "David Palmer at LANL  <palmer@nis.lanl.gov>",
+  "email": "palmer@nis.lanl.gov",
+  "body": "E. Fenimore (LANL), L. Angelini (GSFC-JHU)L. Barbier (GSFC),\nS. Barthelmy (GSFC), J. Cummings (GSFC/NRC), N. Gehrels (GSFC),\nJ. Greiner (MPE), D. Hullinger (UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nA. Retter (PSU) T. Sakamoto (GSFC/NRC), G. Sato (ISAS),\nM. Suzuki (Saitama), J. Tueller (GSFC)\non behalf of the Swift/BAT team:\n\nAt 06:29:05.2 UT, Swift-BAT detected GRB 050603 (trigger=131560)\n(GCN Circ 3509, Retter et al.). The refined BAT ground position\nis (RA,Dec) = 39.982,-25.195, [deg; J2000] {02:39:56;  -25:11:41}\n(~1 arcminute statistical and systematic error radius, \n95% containment).   This is about  45 arcseconds from the\non-board derived position.  This source was near the edge of\nthe field of view, 41 degrees from the boresight in the\nshort direction, directly illuminating only 9% of the\ndetector array.\n\nThe mask-weighted lightcurve of the burst shows three\nfast-rise-exponential-decay (FRED) spikes, peaking at \nT-2.7, T-0.85 and T+0.15 with each spike having a width \nof ~0.6 s (FWHM). The third spike is ~3x the height of each of \nthe first two spikes and produced the original image detection.\nAdditional tail emission continues to decay after the third\nspike, extending to T+10.\n\nThe photon index of the time-averaged spectrum is well-fit\nover the 15-350 keV energy band  by a power law of index\n1.22 +/- 0.06 with a normalization at 50 keV of \n(2.96 +/- 0.10) x 10^-2 photons/s/cm^2/keV. The fluence\nin the 15-350 keV band is 1.30 x 10^-5 erg/cm^2. The peak\nflux is 31.8+/1.7 photons/cm^2/s for the 1 second interval\nstarting at T-0.18 s.\n\nDue to the current engineering mode of the spacecraft, \nXRT and UVOT observations will be delayed until a \nTarget Of Opportunity pointing is manually commanded."
+}

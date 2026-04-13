@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160912A: Swift/UVOT Weak Afterglow Detection",
+  "eventId": "GRB 160912A",
+  "bibcode": "2016GCN.19921....1M",
+  "createdOn": 1473783001000,
+  "circularId": 19921,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and J. K. Cannizzo (NASA/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160912A\n138 s after the BAT trigger (Cannizzo et al., GCN Circ. 19912).\nThere is a weak detection of a source consistent with the XRT position\n(Beardmore et al., GCN Circ. 19915) and the optical afterglow\npositions (Tanvir and Levan, GCN Circ. 19918; Mazaeva et al., GCN Circ. 19919)\nin the initial UVOT exposures. There is little evidence for\nvariability.\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  20:05:59.74  = 301.49893 (deg.)\n   Dec (J2000) =  +57:33:56.0  =  57.56555 (deg.)\nwith an estimated uncertainty of 1.0 arcsec. (radius, 90% confidence).\n\nPreliminary detections and 2-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              138         8135          883         22.03 +/- 0.27\nv                  626         7110          411         20.60 +/- 0.44\nb                  552         7931          584        >22.14\nu                  296         7726          814        >21.92\nw1                 675         7520          588        >21.25\nm2                 650         7314          391        >20.75\nw2                 602         8215          484        >21.05\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.20 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250103A: Xinglong 2.16m Optical Candidate",
+  "eventId": "GRB 250103A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38795....1L",
+  "createdOn": 1735913908988,
+  "circularId": 38795,
+  "submitter": "Rui-Zhi Li at Yunnan Observatories, CAS <liruizhi@ynao.ac.cn>",
+  "format": "text/plain",
+  "body": "R.-Z. Li, B.-T. Wang, J. Mao (YNAO, CAS), L. P. XIN, J. Y. Wei, H. L. Li, Y. L. Qiu, J. Wang, C. Wu, X. H. Han (NAOC), J. X. Cao, D. F. Kong (GXU) and Y. Wang (PMO, CAS) report on behalf of SVOM team:\n \nWe observed the field of GRB 250103A (Wang et al., GCN 38786) using the 2.16m telescope at the Xinglong Observatory, China. The observation began at 2025-01-03T11:41:12 UTC, about 1.74 hours after the trigger. 5*200 sec I-band images were obtained. \n\nAn uncataloged bright source was detected in I-band images within the error box of SVOM/ECLAIR (Wang et al., GCN 38786), compared to Pan-STARRS1 image. The coordinates (J2000):\nR.A.  =  01:28:15.29\nDEC. =  -05:03:06.4\nwith an uncertainty of 0.5 arcseconds.\n\nThe preliminary analysis results are shown as follows:\n+-------------------+------------+----------+--------------+----------------+\n|  Tstart (UTC)     |  Exp. [s]  |  Filter  |     Mag      |  5-sigma U.L.  |\n+===================+============+==========+==============+================+\n|2025-01-03T11:41:12|   5*200    |    I     | 19.49 ± 0.04 |      21.5      |\n+-------------------+------------+----------+--------------+----------------+ \n\nWe propose it is the candidate of the burst. More follow-ups are encouraged to confirm the nature of the source.\n\nThe given magnitudes are derived based on calibration against Pan-STARRS1 field stars, and are not corrected for the expected Galactic foreground extinction, corresponding to a reddening of E(B-V) = 0.0362 mag in the direction of the optical counterpart (Schlafly & Finkbeiner 2011).\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260310A: NOT optical polarimetry",
+  "eventId": "GRB 260310A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43990....1P",
+  "createdOn": 1773412409500,
+  "circularId": 43990,
+  "submitter": "Daniele Bjørn Malesani at Cosmic Dawn Center, Niels Bohr Institute <daniele.malesani@nbi.ku.dk>",
+  "format": "text/plain",
+  "body": "M. Pursiainen (Warwick), D. B. Malesani (DAWN/NBI and Radboud), G. Leloudas (DTU Space), Dimple (Birmingham), A. Martin-Carrillo (UCD), B. P. Gompertz (Birmingham), D. A. Perley (LJMU), N. Pyykkinen (NOT and UTU), report on behalf of a larger collaboration:\n\nWe observed the likely optical counterpart AT 2026fgk (Konno et al., GCN 43974; Hinds et al., AstroNote 2026-65; O’Neill et al. 2026, TNS Discovery Report 294132) of GRB 260310A (Hamburg & Meegan, GCN 43975; Salunke et al., GCN 43958), using the Nordic Optical Telescope (NOT) equipped with ALFOSC, carrying out imaging polarimetry.\n\nIn an image taken on 2026 Mar 13.09 UT (2.89 days after trigger), the transient had an AB magnitude of r = 18.12 +- 0.02 (calibrated against Pan-STARRS sources, not corrected for Galactic extinction). Unfortunately the seeing conditions were poor (~2.8\" FWHM).\n\nA sequence of 4x900 s exposures was secured in linear imaging polarimetry (mean epoch Mar 13.09 UT), employing four different retarder plate angles and an SDSS r filter. The data were reduced with a custom-built reduction pipeline (Pursiainen et al. 2025, doi:10.1093/mnras/staf232) based on the photutils python library (Bradley et al. 2024, doi:10.5281/zenodo.13989456), with reduction steps detailed in Pursiainen et al. (2023, doi:10.1051/0004-6361/202345945).\n\nNo significant polarization is found for the transient, down to a 3-sigma upper limit of P < 1.5%. No correction for Galactic interstellar polarization has been applied, though we note that the line of sight to GRB 260310A only suffers from very modest extinction (A_V = 0.05 mag).\n"
+}

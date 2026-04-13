@@ -1,0 +1,9 @@
+{
+  "subject": "Fermi 423717114: Additional P48 and P60 observations",
+  "bibcode": "2014GCN.16362....1P",
+  "createdOn": 1402142505000,
+  "circularId": 16362,
+  "submitter": "Daniel Perley at Caltech  <dperley@astro.caltech.edu>",
+  "email": "dperley@astro.caltech.edu",
+  "body": "D. A. Perley and L. Singer (Caltech) report on behalf of a larger \ncollaboration:\n\nWe re-imaged the same ten P48 fields near the center of the error circle \nof Fermi trigger 423717114 (Singer et al., GCN 16360) between 09:28:30 \nthrough 09:42:30 UT on the night of 2014-06-07.  iPTF14bfw and iPTF14bga \nhave not faded relative to our observations during the previous night.\n\nFor iPTF14bgc, we measure R = 20.68 +/- 0.21, consistent with the \npoint-like counterpart in our reference images but significantly fainter \nthan the previous night. A power law fit to the decay gives a temporal \nindex of alpha = -1.1 +/- 0.1.\n\nWe do not detect iPTF14bfu in our P48 image with a limiting magnitude of \nR ~ 21.1.  Further imaging was obtained with the Palomar 60-inch \ntelescope on two epochs, starting at 07:47:45 and 10:47:31, \nrespectively.  We acquired a series of seven 180-second images in r-band \nand five 180-second images in i-band in the first epoch, and a series of \nseven 180-second images in r-band during the second epoch.\n\nWe detect the transient in a combined stack of all exposures in each \nband/epoch.  Calibrating relative to USNO-B1.0 stars in the image, we \nmeasure magnitudes of:\n\nr = 21.1 +/- 0.2 (t_mid = 28.78 hr)\ni = 21.0 +/- 0.3 (t_mid = 29.12 hr)\nr = 21.4 +/- 0.2 (t_mid = 31.78 hr)\n\nRelative to the magnitudes presented by Singer et al., these \nobservations suggest an average temporal index of only alpha~-0.5, much \nslower than observed during the first night. Further observations are \nongoing."
+}

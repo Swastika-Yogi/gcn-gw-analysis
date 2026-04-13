@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 648422: Swift possible detection of a source in NGC4552",
+  "bibcode": "2015GCN.17998....1M",
+  "createdOn": 1436479328000,
+  "circularId": 17998,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "A. Melandri (INAF-OAB), S. D. Barthelmy (GSFC),\nM. G. Bernardini (INAF-OAB), P. D'Avanzo (INAF-OAB),\nA. Y. Lien (GSFC/UMBC), B. Sbarufatti (INAF-OAB/PSU) and\nM. H. Siegel (PSU) report on behalf of the Swift Team:\n\nAt 21:42:17 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a possible source near NGC4552 (trigger=648422).  Swift did not slew\nbecause of an earth-limb observing constraint.  The BAT on-board calculated\nlocation is RA, Dec 188.824, +12.672, which is \n   RA(J2000)  =  12h 35m 18s\n   Dec(J2000) = +12d 40' 20\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  We note that this is ~9 arcmin NGC 4552, and as such\nit allows for a lower threshold value not the trigger criteria. \nAs is typical for image triggers, there is nothing significant in the real-time\nlight curve. \n\nWhen the source location comes out of observing constraint (at T+49 minutes),\nSwift will slew to it and then XRT and UVOT will produce their usual automated data\nproducts.  And then a refined circular will be issued about the identity and\nreality of this trigger. \n\nBurst Advocate for this burst is A. Melandri (andrea.melandri AT brera.inaf.it). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/too.html.)"
+}

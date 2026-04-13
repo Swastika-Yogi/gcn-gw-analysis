@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220606B: GUANO coordinate correction to GCN 32167",
+  "eventId": "GRB 220606B",
+  "bibcode": "2022GCN.32170....1T",
+  "createdOn": 1654531272000,
+  "circularId": 32170,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "The coordinates for GRB 220606B reported in GCN 32167 were transposed\nin the declination, and therefore incorrect.\n\nThe correct coordinates of the GRB localization candidate are:\n\nRA, Dec = 28.474, -54.741 deg which is\n   RA(J2000)  = 01h 53m 53.76s\n   Dec(J2000) = -54d 44��� 27.6���\nwith an estimated uncertainty of 5 arcmin.\n\nThe Swift XRT/UVOT ToO followup is at the correct position.\nSincere apologies for the transcription error."
+}

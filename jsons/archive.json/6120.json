@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT refined analysis of GRB070220",
+  "eventId": "GRB 070220",
+  "bibcode": "2007GCN..6120....1D",
+  "createdOn": 1172001611000,
+  "circularId": 6120,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and M. Stamatikos (NASA/ORAU) report on\nbehalf of the Swift UVOT team:\n\n  The Swift/UVOT observed the field of GRB 070220 starting 70 s\nafter the BAT trigger (Stamatikos et al. 2007, GCN Circ. 6114) with\nthe settling exposure.\n  We do not find any source, in any of the UVOT observations, inside\nthe refined XRT error circle (Beardmore et al., 2007 GCN Circ. 6118).\n\n  We have the following 3-sigma upper limits for a source inside the\nXRT error circle in the first exposure with White filter and in the \nco-added frames with all filters:\n\n\nFilter         T_start   T_stop    Exp(s)    Mag (3-sigma UL)\n-----------------------------------------------------------------\nWhite           90         190        98     19.6\n\nV              195        7101      1278     20.0\nB              673        6487       276     20.2\nU              649        7627       410     20.0\nUVW1           625        7510       498     19.7\nUVM2           601        7306       498     20.1\nUVW2           701        6897       498     20.1\nWhite           90        6691       638     20.6\n-----------------------------------------------------------------\n\n  The values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.9 mag towards\nthe direction of the burst (Schlegel et al. 1998)."
+}

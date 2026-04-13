@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S191213g: Updated Sky Localization",
+  "eventId": "LIGO/Virgo S191213g",
+  "bibcode": "2019GCN.26417....1L",
+  "createdOn": 1576288899000,
+  "circularId": 26417,
+  "submitter": "Geoffrey Mo at MIT  <gmo@mit.edu>",
+  "email": "gmo@mit.edu",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory\n(H1), LIGO Livingston Observatory (L1), and Virgo Observatory (V1)\ndata around the time of the compact binary merger (CBC) candidate\nS191213g (GCN Circular 26402).\nParameter estimation has been performed using LALInference [1] and a\nnew sky map, LALInference.fits.gz, distributed via GCN Notice, is\navailable for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S191213g\n\nThe preferred sky map at this time is LALInference.fits.gz. For the\nLALInference.fits.gz sky map, the 90% credible region is 4480 deg2.\nMarginalized over the whole sky, the a posteriori luminosity distance\nestimate is 201 +/- 81 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n [1] Veitch et al. PRD 91, 042003 (2015)"
+}

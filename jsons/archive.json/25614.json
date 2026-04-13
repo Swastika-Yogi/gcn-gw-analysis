@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190901ap: Updated Sky Localization",
+  "eventId": "LIGO/Virgo S190901ap",
+  "bibcode": "2019GCN.25614....1L",
+  "createdOn": 1567425935000,
+  "circularId": 25614,
+  "submitter": "Peter Shawhan at U of Maryland/LSC  <pshawhan@umd.edu>",
+  "email": "pshawhan@umd.edu",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO Livingston Observatory\n(L1) and Virgo Observatory (V1) data around the time of the compact\nbinary merger (CBC) candidate S190901ap (GCN Circular\n25606). Parameter estimation has been performed using LALInference [1]\nand a new sky map, LALInference.v2.fits.gz, distributed via GCN\nNotice, is available for retrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190901ap/\n\nThe preferred sky map at this time is LALInference.v2.fits.gz. For the\nLALInference.v2.fits.gz sky map, the 90% credible region is 14753\ndeg2. Marginalized over the whole sky, the a posteriori luminosity\ndistance estimate is 241 +/- 79 Mpc (a posteriori mean +/- standard\ndeviation).\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

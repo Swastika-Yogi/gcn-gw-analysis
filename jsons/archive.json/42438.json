@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251025B: SVOM/C-GFT optical counterpart detection",
+  "eventId": "GRB 251025B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42438....1W",
+  "createdOn": 1761407439903,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42438,
+  "format": "text/plain",
+  "body": "Chao WU (NAOC), Zhe Kang (CHO), Liping Xin(NAOC), Xuhui Han(NAOC), Pinpin Zhang (NAOC), Xiaomeng Lu (NAOC), Zhenwei Li (CHO), You Lv (CHO), Ruosong Zhang (NAOC), Yujie Xiao(NAOC), Yulei  Qiu(NAOC), Jing Wang (NAOC), Jinsong Deng(NAOC), Lei Huang(NAOC), Jianyan Wei (NAOC),S.Hussein (IJCLab), M. Brunet (IRAP) report on behalf of the SVOM/C-GFT team:\n\n\nWe observed the field of GRB 251025B (sb25102502) detected by SVOM/ECLAIRs (Hussein et al. GCN 42437) with LATIOS on SVOM/C-GFT. Observations started at 2025-10-25T14:25:38 UTC, ~93 seconds after the trigger. \n\nAn uncatalogued optical source compared to PanStarrs1  catalogue is detected in our images within the SVOM/MXT  localization error circle at:\n\nRA (J2000)  = 01h58m07.49s  = 29.53123 degrees\nDec (J2000) = +30h18m14.5s  = 30.30405 degrees\n\nwith an uncertainty of ~0.5 arcsec.  \n\nThe magnitudes are:\n\n|[date-obs(mid-time)] | Mid_t-T0(s) | exposure time (s) | band | mag (AB) | mag_err|\n|--------------------|--------------|-------------------|------|----------|--------|\n| 2025-10-25T14:25:38|  98          | 10                | i    | 17.49    | 0.12   |\n\n\nThe photometry was calibrated against nearby Pan-STARRS1 stars and no correction for Galactic dust extinction was applied.\n\nThe source exhibited ~1 mag decline in the i band over about 10 min. We propose that it is the optical counterpart of GRB 251025B.\n\n\nWe thank the observation assistants Hongxu Xuan and Bowen Li at Jilin observatory for their excellent support.\n\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

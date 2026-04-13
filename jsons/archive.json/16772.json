@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140903A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 140903A",
+  "bibcode": "2014GCN.16772....1B",
+  "createdOn": 1409826934000,
+  "circularId": 16772,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and J. R. Cummings (NASA/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 140903A 76 \ns after the BAT trigger (Cummings et al., GCN Circ. 16763).\nNo optical afterglow consistent with the XRT position (De Pasquale et \nal. GCN Circ. 16767) or optical position given by Cenko et al. (GCN \nCirc. 16770), is detected in the initial UVOT exposures. The analysis is \ncomplicated by the wings of the bright star mentioned by Capone et al. \n(GCN Circ. 16767), and thus the upper limits should be treated with caution.\nPreliminary 3-sigma upper limits using the UVOT photometric system \n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding \nchart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            77          227          147         >20.01\nu_FC               289          539          246         >17.4\nwhite               77        17449          944         >21.0\nv                  618        29425         1322         >18.9\nb                  544        17228         1376         >20.0\nu                  289        23404         1138         >18.2\nw1                1097        22967         1121         >18.4\nm2                 643         6613          255         >18.8\nw2                5562        28728         1918         >18.6\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.03 in the direction of the \nburst (Schlegel et al. 1998)."
+}

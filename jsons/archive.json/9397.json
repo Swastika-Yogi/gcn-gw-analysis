@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090518: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090518",
+  "bibcode": "2009GCN..9397....1M",
+  "createdOn": 1242733839000,
+  "circularId": 9397,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and P. Evans (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 090518 starting 77 s after\nthe BAT trigger (Evans et al., GCN Circ. 9386). No optical afterglow\nis detected in the initial UVOT exposures at the position\nof the X-ray afterglow (Evans et al., GCN Circ. 9387).\nThree-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)        Mag \n\nwhite (FC)          77          227          147         >20.7\nwhite               77         1367          373         >21.3\nv                  620         1417           97         >19.3\nb                  545         1341           78         >19.7\nu                  290         1316          304         >20.0\nuvw1               669         1466           97         >19.7\nuvm2               644         1442           97         >21.2\nuvw2               596         1392           97         >20.0\n\nThe values quoted above are not corrected for the Galactic extinction due\nto the reddening of E(B-V) = 0.04 in the direction of the burst \n(Schlegel et al. 1998)."
+}

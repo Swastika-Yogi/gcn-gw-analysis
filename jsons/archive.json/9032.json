@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090323: UVOT Detection of Afterglow",
+  "eventId": "GRB 090323",
+  "bibcode": "2009GCN..9032....1H",
+  "createdOn": 1237923658000,
+  "circularId": 9032,
+  "submitter": "Erik Hoversten at Swift/Penn State  <hoversten@astro.psu.edu>",
+  "email": "hoversten@astro.psu.edu",
+  "body": "E. A. Hoversten (PSU) reports on behalf of the Swift UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 090323 70 ks after the Fermi LAT trigger (Ohno et al., GCN 9021).\nThe afterglow is detected in the UVOT white filter at:\n\n     RA (J2000)  12:42:50.29\n    Dec (J2000)  17:03:11.8\n\nwith an estimated uncertainty of 0.8 arcsec (radius, 90% confidence).\nThis position is consistent with the UVOT enhanced XRT position (Kennea\net al., GCN 9024) as well as the optical position determined by\nGROND (Updike et al., GCN 9026)  The afterglow candidate does not\nappear in the DSS images.  Photometry from the second set of Swift\nobservations may be indicative of fading, but is not deep enough to be\nconclusive.\n\nUVOT magnitudes and 3-sigma upper limits are reported in the following\ntable:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-----------------------------------------------------\nWHITE     70287     75931    1196   21.66 +/- 0.28\nWHITE    115572    121460     601      > 21.60\nV         70667     76062     517      > 19.88\nU         69906     75078    1200      > 21.02\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E(B-V) = 0.03 mag.\nAll photometry is on the UVOT photometric system described in Poole et al.\n(2008, MNRAS, 383, 627)."
+}

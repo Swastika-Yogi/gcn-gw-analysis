@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240112A",
+  "eventId": "GRB 240112A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35603....1R",
+  "createdOn": 1706011019431,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 35603,
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 240112A\n(GECAM-B detection: Wang and Xiong, GCN 35520;\nIPN triangulation: Kozyrev et al., GCN 35554)\ntriggered Konus-Wind at T0=20481.732 s UT (05:41:21.732).\n\nThe burst light curve shows the main multi-peaked episode,\nwhich starts at ~T0-0.2 s and has a total duration of ~2.8 s.\nA fainter broad pulse is observed in the KW data from ~T0+113 s\nto ~T0+120 s after the main pulse, whose association with\nGRB 240112A is supported by the consistent KW ecliptic\nlatitude response. \n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240112_T20481/\n\nAs observed by Konus-Wind, the burst (main episode)\nhad a fluence of 7.58(-1.05,+1.13)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+1.376 s,\nof 1.03(-0.19,+0.20)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the main episode\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -1.04(-0.21,+0.23),\nthe high energy photon index beta = -2.67(-0.73,+0.26),\nthe peak energy Ep = 120(-15,+20) keV\n(chi2 = 118/75 dof).\n\nThe spectrum of the fainter broad pulse\n(measured from T0+106.752 to T0+123.136 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.67(-0.32,+0.53)\nand Ep = 206(-195,+1360) keV (chi2 = 71/86 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.0\n(chi2 = 71/85 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary.\n"
+}

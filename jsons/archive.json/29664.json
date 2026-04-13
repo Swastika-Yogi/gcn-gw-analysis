@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210318B",
+  "eventId": "GRB 210318B",
+  "bibcode": "2021GCN.29664....1S",
+  "createdOn": 1616088472000,
+  "circularId": 29664,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, D. Frederiks, M. Ulanov,\nA. Tsvetkova, A. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 210318B\n(Swift-BAT detection: Troja et al., GCN Circ. 29663)\ntriggered Konus-Wind at T0=11309.57 s UT (03:08:29.570).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.5 s and has a total duration of ~14 s.\nThe emission is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210318_T11309/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.83(-0.44,+0.50)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+1.872 s,\nof 1.57(-0.28,+0.29)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+13.824 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.81(-0.12,+0.15),\nthe high energy photon index beta = -2.51(-0.39,+0.23),\nthe peak energy Ep = 264(-32,+33) keV\n(chi2 = 70/82 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+5.632 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.64(-0.13,+0.14),\nthe high energy photon index beta = -2.59(-0.45,+0.23),\nthe peak energy Ep = 297(-32,+36) keV\n(chi2 = 67/81 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210919A: SPI-ACS/INTEGRAL observation and evaluation of Ep",
+  "eventId": "GRB 210919A",
+  "bibcode": "2022GCN.31566....1M",
+  "createdOn": 1644516853000,
+  "circularId": 31566,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "P. Minaev (IKI), A. Pozanenko (IKI) report on behalf of GRB IKI FuN:\n\nWe investigated SPI-ACS/INTEGRAL data of GRB 210919A detected by Swift \n(Tohuvavohu et al. GCN 30846).  GRB 210919A was not triggered by IBAS at \nINTEGRAL observatory. We find the burst in SPI-ACS/INTEGRAL data with a \nsignificance of 5 sigma and duration of 0.15 s. The total count fluence \nof the burst is 900 �� 185 counts, which corresponds to the fluence of \n2.4e-7 erg/cm^2 in 10-1000 keV energy band (the 95% confidence region is \n7.2e-8 -- 8.4e-7 erg/cm^2, incl. systematics). We do not find both \nprecursor and extended emission components for the burst. Light curve of \nGRB 210919A can be found in\n\nhttp://grb.rssi.ru/GRB210919A/GRB210919A_SPI-ACS_light_curve.png\n\nUsing spectral data of BAT/Swift (Barthelmy et al. GCN 30863) and \npossible redshift of z = 0.2411 (Rossi et al. GCN 31453) we estimated \nEiso = (1.3 �� 0.3)e49 erg in 15-150 keV energy band. Although spectral \nparameter Ep was not constrained yet, we can estimate Ep using T90,i - \nEH diagram [1] by constructing a trajectory depending on the Ep,i \nparameter, where Ep,i is Ep in a rest frame. The most probable value is \nfound to be Ep,i = 90 keV with 95% confidence region of (14 ��� 640) keV \nwhich is converted into observable Ep = 73 (11 --  516) keV. Since GRB \n210919A was detected by SPI-ACS with a nominal lower threshold of >80 \nkeV, Ep can be further limited to the energy range of 80 - 516 keV.\n\nThe T90,i - EH diagram can be found in\n\nhttp://grb.rssi.ru/GRB210919A/GRB210919A_EHD.png\n\n[1] - Minaev et al., MNRAS, 492, 1919, 2020"
+}

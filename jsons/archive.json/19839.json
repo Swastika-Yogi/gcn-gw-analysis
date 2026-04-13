@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160821B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 160821B",
+  "bibcode": "2016GCN.19839....1B",
+  "createdOn": 1471869993000,
+  "circularId": 19839,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and M. H. Siegel (PSU) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160821B 76 \ns after the BAT trigger (Siegel et al., GCN Circ. 19833).\nNo optical afterglow consistent with the XRT position (Evans et al. GCN \nCirc. 19837) or the NOT position (Xu et al. GCN Circ. 19834) is detected \nin the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system \n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding \nchart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            76          226          147         >21.1\nu_FC               288          501          209         >20.4\nwhite               76         6306          344         >21.7\nv                 5080         5280          197         >19.1\nb                 5901         6101          197         >20.2\nu                  288         5895          406         >20.6\nw1                5491         5691          197         >19.6\nm2                5285         5485          197         >19.5\nw2                4875         6439          322         >20.1\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.05 in the direction of the \nburst (Schlegel et al. 1998)."
+}

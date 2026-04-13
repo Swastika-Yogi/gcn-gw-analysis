@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240930B: CALET Gamma-Ray Burst Monitor detection",
+  "eventId": "GRB 240930B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37691....1S",
+  "createdOn": 1727955280884,
+  "submitter": "Yuta Kawakubo at Aoyama Gakuin University <kawakubo@phys.aoyama.ac.jp>",
+  "circularId": 37691,
+  "format": "text/plain",
+  "body": "Y. Shimizu (Kanagawa U), A. Yoshida, T. Sakamoto, S. Sugita, Y. Kawakubo (AGU),\nK. Yamaoka (Nagoya U), S. Nakahira (JAXA), Y. Asaoka (ICRR), S. Torii,\nY. Akaike, K. Kobayashi (Waseda U), T. Tamura (Kanagawa U),\nN. Cannady (GSFC/UMBC), M. L. Cherry (LSU), S. Ricciarini (U of Florence),\nP. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe long GRB 240930B (Fermi GBM Final Real-time Localization: Fermi GBM team, \nGCN Circ. 37640; EP-WXT detection of a fast X-ray transient: Tian et al.,\nGCN Circ. 37648; Swift/BAT-GUANO localization skymap of a burst: DeLaunay et al.,\nGCN Circ. 37654; GRBAlpha detection, Dafcikova et al., GCN Circ. 37658; \nFermi GBM Observation: Smith et al., GCN Circ. 37660)\ntriggered the CALET Gamma-ray Burst Monitor (CGBM) at 17:18:02.638 UTC \non 30 September 2024 \n(https://cgbm.calet.jp/cgbm_trigger/flight/1411751821/).\nThe burst signal was seen by all CGBM detectors.  Because of a problem with the ground \nalert processing script, the GCN notice was not distributed automatically for this event.\n\nThe burst light curve shows a multi-peaked structure that starts\nat T-1.5 sec, peaks at T+3.5 sec, and ends at T+74.0 sec.\nThe T90 and T50 durations measured by the SGM data are 67.2 s +/- 3.1 sec\nand 34.7 s +/- 0.4 sec (40-1000 keV), respectively.\n\nThe ground-processed light curve is available at\n\nhttps://cgbm.calet.jp/cgbm_trigger/ground/1411751821/\n\nThe CALET data used in this analysis are provided by\nthe Waseda CALET Operation Center located at Waseda University."
+}

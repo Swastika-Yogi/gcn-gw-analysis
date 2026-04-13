@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130605A: Swift/UVOT Detection",
+  "eventId": "GRB 130605A",
+  "bibcode": "2013GCN.14780....1P",
+  "createdOn": 1370545231000,
+  "circularId": 14780,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "B. Porterfield (PSU) and S. T. Holland (STScI)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB \n130605A 96 s after the BAT trigger (Holland et al., GCN Circ. 14773).\nA source consistent with the optical position(Guelbenzu et al. GCN\nCirc. 14774) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) = 08:58:08.61 = 134.53587 (deg.)\n    Dec (J2000) = -33:27:40.2 = -33.46118 (deg.)\nwith an estimated uncertainty of 0.50 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the\nUVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc.\n1358, 373) for the early exposures are: \n\nFilter     T_start(s)   T_stop(s)     Exp(s)      Mag\n\nwhite fc       95          202         105     16.40+-0.07\nwh           5498         5698         196     21.04+-0.29\nv            4474         6109         393     19.90+-0.36\nb            5294        30053        1355    >21.70\nu            5089        35820        3306    >21.45\nw1           4884        35150        3778    >21.57\nm2           4679        34243        2860    >21.02\nw2           5705        39258         421    >20.27\n\nThe magnitudes in the table are not corrected for the Galactic\nextinction due to the reddening of E(B-V) = 0.36 in the direction\nof the burst (Schlegel et al. 1998)."
+}

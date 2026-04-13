@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260226A: LAST optical upper limit",
+  "eventId": "GRB 260226A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43852....1K",
+  "createdOn": 1772134920651,
+  "circularId": 43852,
+  "submitter": "Ruslan Konno at Weizmann Institute of Science <ruslankonno@gmail.com>",
+  "format": "text/plain",
+  "body": "R. Konno (WIS), S. Garrappa (WIS), E. A. Zimmerman (WIS), A. Horowicz (WIS), E. O. Ofek (WIS), S. Ben-Ami (WIS), D. Polishook (WIS), O. Yaron (WIS), S. Fainer (WIS), A. Krassilchtchikov (WIS), Y. M. Shani (WIS), E. Segre (WIS), A. Gal-Yam (WIS), and S. Spitzer (WIS) report on behalf of the LAST Collaboration.\n\nWe report observations of GRB 260226A, reported by Fermi-GBM (Fermi GBM Team, GCN 43840), as well as by Fermi-LAT (Depalo et al, GCN 43844) and AstroSat CZTI (Harsha et al, GCN 43846). Observations were conducted with the Large Array Survey Telescope (LAST; Ofek et al. 2023, PASP 135, 5001; Ben-Ami et al. 2023, PASP 135, 5002).\n\nObservations of GRB 260226A were taken over 10 sequential epochs in clear band (similar to the Gaia Bp band) with 4 telescopes simultaneously. The first epoch began at 2026-02-26 16:30:51UTC (T-T0 = 5.88 h). Each epoch consists of 20x20s exposures per telescope.\n\nWe coadd a total of 4x120x20s (mid. T-T0=6.67 h) exposure images and perform image subtraction using a reference image of the field. We do not detect any clear new optical source up to a 5-sigma limiting magnitude of 20.15 (AB) within the error region reported in Bissaldi et al., GCN 43851. Performing image subtraction between the latest (mid. T-T0 = 7.31 h) and earliest (mid. T-T0 = 5.94 h) 20x20s exposure images also shows no source brighter than 19.4 mag decaying by more than 0.5 mag. Our results are consistent with other optical non-detections (Lipunov et al., GCN 43847,43848).\n\nLAST is a survey telescope array of the Weizmann Astrophysical Observatory (https://www.weizmann.ac.il/wao/)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "sb25061218: SVOM detection of a X-ray transient",
+  "eventId": "sb25061218",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40712....1R",
+  "createdOn": 1749764447694,
+  "circularId": 40712,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "J. Rodriguez, T. Sadibekova, B. Cordier, N. Dagoneau (CEA), U. Jacob (LUPM)\non behalf of the SVOM mission team.\n\nAt 2025-06-12T20:36:00 UTC (T0), SVOM/ECLAIRs triggered and located the X-ray transient sb25061218 (SVOM burst-id sb25061218).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Image Trigger (IMT), which produced a sequence of 1 alert. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 7.01 in the [8-120] keV energy band over a time window of 81.92 seconds starting at 2025-06-12T20:34:38.\n\nThe localization of the best alert is R.A., Dec. 198.5028, 54.6582 degrees:\nR.A. (J2000) = 13h14m00.67s\nDec. (J2000) = 54d39m29.47s\n with a 90% confidence level (C.L.) radius of 11.16 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThis burst was also detected by SVOM/GRM with a significance of 5.80.\nDue to the detection significance being below the slew threshold, no immediate slew was performed on this burst.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE. \n\nThe Burst Advocate (BA) on shift for this alert is Jerome Rodriguez: jerome.rodriguez@cea.fr.\nPlease contact the BA by email if you require additional information.\n\n"
+}

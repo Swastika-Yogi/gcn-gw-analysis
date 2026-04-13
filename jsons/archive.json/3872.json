@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050824: XRT refined analysis and possible afterglow detection",
+  "eventId": "GRB 050824",
+  "bibcode": "2005GCN..3872....1C",
+  "createdOn": 1124947732000,
+  "circularId": 3872,
+  "submitter": "Sergio Campana at INAF-OAB  <campana@merate.mi.astro.it>",
+  "email": "campana@merate.mi.astro.it",
+  "body": "S. Campana (INAF-OAB), V. Mangano (INAF-IASF Palermo), G. Chincarini \n(INAF-OAB &\nUni. Bicocca), G. Tagliaferri (INAF-OAB), D.N. Burrows (PSU), L. \nCominsky (Sonoma\nState U.) and J. Norris (GSFC) report on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first orbit observation of \nGRB 050824\n(Campana et al., GCN3866). The new refined coordinates are:\n\nRA(J2000)  = 0h48m56.05s\nDec(J2000) = +22:36:28.5\n\nThis position is 59 arcseconds from the BAT position given in GCN3866 \n(and 83\narcsec from the refined BAT position, Krimm et al. GCN3871) and 3.4 \narcsec from\nthe suggested optical counterpart (Gorosabel et al., GCN3865).\nWe estimated an uncertainty of 6.8 arcseconds radius (90% confidence \nlevel, throughout\nthe circular). A second fainter X-ray source is located 2.5 arcmin from \nthe suggested\nafterglow position (and further away from the BAT refined position).\n\nThe 0.5-10 keV light curve XRT started 2005-08-25 UT00:53:45, 6089 \nseconds after\nthe BAT trigger, following an uploaded TOO since Swift did not \nautomatically\nslewed on source (due to the Moon constraint). At the moment we have \ndata from\none Swift orbit. During the first orbit we accumulated 1346 seconds of \ngood data.\nThe afterglow candidate is detected with a count rate of (4.1+/-1.1)x10^-2\ncounts/second (55 total counts). We found no indication of count rate decay.\n\nThe number of counts is too low to perform a full spectral analysis.\nFixing the column density to the Galactic value (3.6x10^20 cm-2) a \npreliminary\nspectral fit to the PC data gives a spectral power law photon index of \n2.6+/-0.6\nin the 0.5-10 keV band. The average unabsorbed 0.5-10 keV flux is about\n(1.2+/-0.7)E-12 erg cm-2 s-1."
+}

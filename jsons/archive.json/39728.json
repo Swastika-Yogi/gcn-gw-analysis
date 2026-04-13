@@ -1,0 +1,14 @@
+{
+  "editedOn": 1742069593121,
+  "subject": "GRB 250314A: SVOM/VT upper limit",
+  "version": 2,
+  "eventId": "GRB 250314A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39728....1L",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 39728,
+  "createdOn": 1742015083885,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "H.L. Li (NAOC), R.-Z. Li (YNAO, CAS), Y. Wang (PMO, CAS), J.X. Cao, D.F. Kong (GXU), L.P. Xin, Y. L. Qiu, C. Wu, Z.H. Yao, Y.N. Ma, X.H. Han, J. Wang, W.J. Xie, Y. Xu, H.B. Cai, J.Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM team:\n\nSVOM performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Wang et al., GCN 39719). SVOM/VT began observing the field automatically with the slew of the platform triggered on-board, in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nWith X band downlinked data, no any credible candidates were found in our single or stacked images within the errorbox of Eclairs (Wang et al., GCN 39719) compared to DESI catalog, or at the position of NOT candidate (Malesani et al., GCN 39727) in J-band. \n\nThe 3 sigma limits in AB magnitude were derived as follows:\n---------------------------------------------------------\n(t-T0)_mid(hr)  exptime(ks)   Band    upperlim (3sigma)\n 2.2              2.85        VT_R       23.3\n 2.2              3.30        VT_B       23.3\n\nIf the NOT candidate is confirmed as the counterpart of the burst, given the non-detection in the VT-B and VT-R stacked images at early phase, it is likey the high-z GRB candidate.\n\nMore deeper photometries in near-inferred or spectroscopies of the source are encouraged to confirm the nature of the event. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

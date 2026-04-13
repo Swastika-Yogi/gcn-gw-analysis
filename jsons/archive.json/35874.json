@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240227A (short/hard)",
+  "eventId": "GRB 240227A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35874....1F",
+  "createdOn": 1709656228788,
+  "circularId": 35874,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 240227A (Fermi-GBM detection: The Fermi GBM team, GCN 35814;\nIPN triangulation: Svinkin et al., GCN 35821; Kozyrev et al., GCN 35871).\ntriggered Konus-Wind (KW) at T0=16812.986 s UT (04:40:12.986).\n\nThe burst light curve shows a single multi-peaked emission pulse\nwhich starts at ~T0-0.400 s and has a duration of ~0.5 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240227_T16812/\n\nAs observed by Konus-Wind, the burst had\nthe total fluence of 1.72(-0.28,+0.36)x10^-6 erg/cm^2\nand a 16-ms peak energy flux, measured from T0+0.032 s,\nof 8.21(-2.63,+3.09)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nSince a major part of the burst emission was detected before the trigger,\na time-averaged spectral analysis was performed using the KW 3-channel light curve data.\nModeling the 3-channel time-integrated spectrum (measured from T0-0.400 s to T0+0.096 s)\nby a power law with exponential cutoff (CPL) model dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.47 (-0.24, + 0.28) and Ep = 688(-133,+222) keV.\n\nA multi-channel spectrum near the peak count rate (measured from T0 to T0+0.064 s)\nis best fit in the 20 keV - 15 MeV range by a CPL model\nwith  alpha = -0.12(-0.47,+0.70) and Ep = 759(-233,+403) keV (chi2 = 6.4/10 dof).\n\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n\n"
+}

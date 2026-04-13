@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160815A: Swift/UVOT Afterglow Detection",
+  "eventId": "GRB 160815A",
+  "bibcode": "2016GCN.19795....1M",
+  "createdOn": 1471266224000,
+  "circularId": 19795,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and C. B. Markwardt (NASA/GSFC) \nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT has discovered an optical afterglow for \nGRB 160815A (Markwardt et al., GCN Circ. 19794) in\nan exposure with the white filter.\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  19:14:09.63 = 288.5401 (deg.)\n   Dec (J2000) =  +84:18:50.4  =  84.3140 (deg.)\nwith an estimated uncertainty of 1.0 arcsec. (radius, 90% confidence).\n\nThe preliminary magnitude using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) is:\n\nFilter         T_start(s)   T_stop(s)    Exp(s)       Mag\n\nwhite           863        1013          150          19.1\n\nThe magnitude is not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.12 in the direction of the burst\n(Schlegel et al. 1998)."
+}

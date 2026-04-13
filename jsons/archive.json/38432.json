@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi-GBM Sub-Threshold Detection of GRB 241128A",
+  "eventId": "GRB 241128A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38432....1H",
+  "createdOn": 1733245755822,
+  "circularId": 38432,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "R. Hamburg (USRA) reports on behalf of the Fermi-GBM Team:\n\nThe Swift-BAT detected GRB 241128A on 2024-11-28 at 16:14:34 UTC (Brivio et al. 2024, GCN 38367). There was no Fermi-GBM onboard trigger around this event time. \n\nAn automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no counterparts. \n\nThe GBM Targeted Search [1], a sensitive and coherent search for subthreshold GRB-like signals, was run from +/-30 s around the Swift-BAT trigger time and identified a gamma-ray transient most significantly at 16:14:38 UTC (Fermi MET=754503283), about 4 s after the Swift-BAT trigger time. The transient is approximately 2 s in duration and was identified with the \"normal\" spectral template (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) with FAR of 1.7e-4 Hz. The Targeted Search localization is consistent with the Swift-BAT location.\n\n[1] Goldstein et al. arXiv:1903.12597"
+}

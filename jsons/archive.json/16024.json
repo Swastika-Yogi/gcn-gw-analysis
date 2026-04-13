@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140320B: P60 detection of a very red afterglow",
+  "eventId": "GRB 140320B",
+  "bibcode": "2014GCN.16024....1P",
+  "createdOn": 1395419940000,
+  "circularId": 16024,
+  "submitter": "Daniel Perley at Caltech  <dperley@astro.caltech.edu>",
+  "email": "dperley@astro.caltech.edu",
+  "body": "D. A. Perley (Caltech) and S. B. Cenko (NASA-GSFC) report:\n\nThe Palomar 60-inch telescope automatically responded to the INTEGRAL \ntrigger for GRB 130420B (Mereghetti et al. GCN 16004) and began taking a \nseries of 60-second exposures in the r, i, and z filters starting at \n2014-03-20 09:31:41.744 (7.12 minutes after the trigger).\n\nThe afterglow candidate reported by Guidorzi et al. (GCN 16003) is \nwell-detected in the initial z-band exposure, weakly detected in the \ninitial i-band exposure, and not detected in the initial r-band \nexposure.  However, a weak r-band detection is recovered by stacking \nseveral images.\n\nThe light curve (in the i- and z-band filters) shows a rise to a peak at \naround 15 minutes post-trigger, followed by a decline up until the end \nof our sequence at 1.3 hours after the GRB.\n\nStacking the first 7 exposures in each filter, we estimate magnitudes of:\n\nr = 21.29 +/- 0.24\ni = 20.07 +/- 0.09\nz = 17.97 +/- 0.03\n\nAt a mid-UT time of approximately 09:46 in each filter (20 minutes after \nthe trigger).\n\nThe redder apparent color in i-z compared to r-i may suggest a highly \nreddened afterglow with host contribution to the r-band, or a reddened \nafterglow with a very strong 2175 dust feature at z~2.5, or a Lyman \nbreak in the i-band with some Lyman-alpha forest blueward (z~5).  We \nencourage further observations, particularly in the NIR."
+}

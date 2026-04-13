@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141028A: Swift/UVOT Detection",
+  "eventId": "GRB 141028A",
+  "bibcode": "2014GCN.16979....1S",
+  "createdOn": 1414555133000,
+  "circularId": 16979,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "M. H. Siegel (PSU) and C. Pagani (UL)  report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 141028A\n31037 s after the LAT trigger (Bissaldi et al., GCN Circ. 16969).\nWe detect an optical afterglow consistent with the afterglow reported by\nMASTER (Gorbovsky et a., GCN, Circ 16972), GROND (Graham et al., GCN Circ.\n16977) and the XRT (Kennea, et al., GCN Circ 16978).\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  21:30:24.54 = 322.60226 (deg.)\n   Dec (J2000) = -00:13:52.4  =  -0.23122 (deg.)\nwith an estimated uncertainty of 0.4 arc sec. (radius, 90% confidence). This is\nconsistent with the GROND and MASTER positions.\n\nPreliminary detection using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposure is:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nu                31037        37759          233         19.14+-0.19\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.05 in the direction of the burst\n(Schlegel et al. 1998)."
+}

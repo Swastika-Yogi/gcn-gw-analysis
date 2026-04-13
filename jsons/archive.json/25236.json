@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190728q: Correction to GCN #25235: also PS19dxm and DG19zrjmb are not associated with S190728q",
+  "eventId": "LIGO/Virgo S190728q",
+  "bibcode": "2019GCN.25236....1A",
+  "createdOn": 1564600659000,
+  "circularId": 25236,
+  "submitter": "Igor Andreoni at Caltech  <igor.andreoni@gmail.com>",
+  "email": "igor.andreoni@gmail.com",
+  "body": "Igor Andreoni (Caltech), Danny Goldstein (Caltech), Erik Kool (OKC)\n\nThis GCN is a correction of GCN #25235, presenting ZTF photometry of Pan-STARRS and DECam-GROWTH candidates (GCN #25224, GCN #25215). \n\nIn GCN #25235, the following candidates were included in the table of transients with no ZTF detection before S190718q (GCN #25187).  Instead, they should have been included in the table of candidates with ZTF pre-detections.  \n\n+----------------------------------------------------+\n| Name     | TNS name  | Date (UT)        | ZTF phot |\n+----------------------------------------------------+\n|PS19dxm   | AT2019lzu | 2019-07-14 11:05 | r = 21.5 |\n+----------------------------------------------------+\n|DG19zrjmb | AT2019lvx | 2019-07-06 07:31 | r = 21.5 |\n+----------------------------------------------------+\n\nHence we exclude the association of PS19dxm / AT2019lzu and DG19zrjmb / AT2019lvx  with S190728q.\n\nApologies for any confusion that this could have caused."
+}

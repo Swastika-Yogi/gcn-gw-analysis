@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061222A, Swift-BAT refined analysis",
+  "eventId": "GRB 061222A",
+  "bibcode": "2006GCN..5964....1T",
+  "createdOn": 1166769407000,
+  "circularId": 5964,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "GRB 061222A, Swift-BAT refined analysis\n \nJ. Tueller (GSFC), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), T. Ukwatta (UMD)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-240 to T+302 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 061222A (trigger #252588)\n(Grupe, et al., GCN Circ. 5954).  The BAT ground-calculated position\nis RA, Dec = 358.258, 46.527 deg which is \n   RA(J2000)  = 23h 53m  1.9s \n   Dec(J2000) = 46d 31' 37.3\" \nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 70%.\n \nThe mask-weighted lightcurve shows the emision starting at T-100 sec\nwith a small peak at T_zero, and then a 10-sec FRED peak starting at T+25 sec.\nIt is followed by two 10-sec peaks at T+50 and T+65 sec; then a large peak\nat T+88 sec with a FWHM of ~12 sec and the emission returns to background\nat T+115 sec.  T90 (15-350 keV) is 72 +- 3 sec (estimated error including\nsystematics).  At this time, there is a gap in the downlinked data\nfrom T-180 sec to T-110.  A further Circular will be issued if there is\nburst activity in this interval.\n \nThe time-averaged spectrum from T-2.5 to T+117.7 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.39 +- 0.04.  The fluence in the 15-150 keV band is 8.3 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+86.54 sec in the 15-150 keV band\nis 9.2 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence level."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251203B: SVOM/VT optical observation",
+  "eventId": "GRB 251203B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42978....1P",
+  "createdOn": 1764794908429,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42978,
+  "format": "text/plain",
+  "body": "J. T. Palmerio (CEA), D. B. Malesani (DAWN/NBI and Radboud), Y. L. Qiu, C. Wu, H. L. Li, L. P. Xin (NAOC) on behalf of the SVOM/VT team.\n\nAfter the trigger by SVOM/ECLAIRs at 2025-12-03T18:10:27 UTC (T0), SVOM performed an automatic slew on the burst location (Brunet et al., GCN 42973). SVOM/VT began observing the field at 2025-12-03T18:16:09, 341.62 seconds after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, no credible candidate is identified down to VT_R~21 mag within the error box provided by MXT (Brunet et al. GCN 42973).\n\nWe note the presence of the bright star Gaia DR3 2534635509050352256 within the error box of MXT which appeared to fade in our observations from magnitude VT_B = 12.4 to 14.0 over the course of ~1 hr. Despite the difference in photometric filters, this is brighter than its catalogued magnitude of mag g = 15.2 in Pan-STARRS1.\n\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

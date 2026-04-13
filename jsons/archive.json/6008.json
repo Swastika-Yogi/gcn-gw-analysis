@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070110: Swift XRT Team refined analysis",
+  "eventId": "GRB 070110",
+  "bibcode": "2007GCN..6008....1S",
+  "createdOn": 1168456307000,
+  "circularId": 6008,
+  "submitter": "Vanessa Mangano at INAF-IASFPA  <vanessa@ifc.inaf.it>",
+  "email": "vanessa@ifc.inaf.it",
+  "body": "B. Sbarufatti, V. Mangano, T. Mineo, G. Cusumano (INAF-IASFPA),\nand H. Krimm (GSFC/USRA) report on behalf of the Swift XRT Team:\n\n\nWe have analysed the first five orbits of XRT data of GRB07011,\nconsisting of 171 s of exposure in Windowed Timing (WT)\nmode and 10 ks of exposure in Photon Counting (PC) mode.\n\nThe XRT refined position from the PC data is:\n\n   RA(J2000)  =  00h 03m 39.43s\n   Dec(J2000) = -52d 58' 26.7s\n\nwith an error of 3.6 arcsec (90% containment). This is 45.3 arcsec\nfrom the refined BAT position (Cummings et al., GCN 6007),\n3.0 arcsec from the preliminary  XRT position and 1.9 arcsec\nfrom the UVOT position (Krimm et al., GCN 6005).\n\nThe 0.3-10 keV light curve shows an initial steep decay with\nslope -2.53 +/- 0.07 followed by a flat decay phase with slope\n-0.05 +/- 0.04, that starts 580 +/- 43 s after the trigger.\nAfter a further break at 20.3 +/- 0.8 ks from the trigger\nthe light curve steepens abruptly, with a slope -7.9 +/- 0.9.\nA small flare is detected at about T+380 s.\n\nThe WT and PC spectra are well fit by an absorbed power law\nwith photon index 2.00 +/- 0.08.\nThe absorption is at the level of 3e20 cm^-2, consistent with\nthe Galactic absorpion along the light of sight (1.8e20 cm^-2).\nThe average unabsorbed flux of the WT and PC spectra is\n7.0e-10 and 1.7e-11 erg cm^-2 s^-1 respectively.\n\nIf decaying at the present rate the source will reach a count rate\nof 4e-6 counts/s  in the 0.3-10 keV  band at T+24 hr, which\ncorresponds to an unabsorbed 0.3-10 keV flux of 2e-16 erg cm^-2 s^-1.\n\nAll quoted errors are the 90% confidence level.\n\nThis circular is an official product of the Swift XRT Team."
+}

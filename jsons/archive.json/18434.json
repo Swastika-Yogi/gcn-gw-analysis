@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 151021B: Fermi GBM detection",
+  "eventId": "GRB 151021B",
+  "bibcode": "2015GCN.18434....1V",
+  "createdOn": 1445487001000,
+  "circularId": 18434,
+  "submitter": "Peter Veres at UAH  <veresp@gmail.com>",
+  "email": "veresp@gmail.com",
+  "body": "P. Veres (UAH) and C. Meegan (UAH) report on behalf of the Fermi GBM Team:\n\n\"At 18:59:28.92 UT on 21 October 2015, the Fermi Gamma-Ray Burst\nMonitor triggered and located GRB 151021B (trigger 467146772 /\n151021791).\n\nThe on-ground calculated location, using the GBM trigger data, is RA =\n104.340, DEC = -10.960 (J2000 degrees, equivalent to 06 h 57 m, -10 d\n58 '), with an uncertainty of 1.20 degrees (radius, 1-sigma\ncontainment, statistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90%\nof GRBs having a 3.7 deg error and a small tail suffering a larger\nthan 10 deg systematic error. [Connaughton et al. 2015, ApJS, 216, 32]\n).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 83 degrees.\n\nThis burst was also independently detected by INTEGRAL SPI-ACS.\n\nThe GBM light curve consists of a single pulse with fast rise and\nexponential decay with a duration (T90) of about 7.2 s (50-300 keV).\nThe time-averaged spectrum from T0-0.1 s to T0+9.1 s is well fit by a\npower law function with an exponential high-energy cutoff. The power\nlaw index is -0.67 +/- 0.03 and the cutoff energy, parameterized as\nEpeak, is 270 +/- 10 keV.\n\nA Band function fits the spectrum equally well with Epeak = 241 +/- 13\nkeV, alpha = -0.61 +/- 0.04 and beta = -2.6 +/- 0.2.\n\nThe event fluence (10-1000 keV) in this time interval is (1.226 +/-\n0.004)E-05 erg/cm^2. The 1-sec peak photon flux measured starting from\nT0+0.77 s in the 10-1000 keV band is 21.5 +/- 0.4 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary; final\nresults will be published in the GBM GRB Catalog.\""
+}

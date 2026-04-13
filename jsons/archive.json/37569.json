@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240910A: radio detection with the VLA",
+  "eventId": "GRB 240910A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37569....1G",
+  "createdOn": 1726835283126,
+  "circularId": 37569,
+  "submitter": "Stefano Giarratana at INAF-OAB <s.giarratana@ira.inaf.it>",
+  "body": "S. Giarratana (INAF-OAB), M. Giroletti (INAF-IRA),\nG. Ghirlanda (INAF-OAB), N. Di Lalla (Stanford Univ.),\nN. Omodei (Stanford Univ.), O. S. Salafia (INAF-OAB)\n\nAt 05:42:45 UT on 2024 Sept 13 (T_mid = 3.10 days post-burst)\nthe Karl G. Jansky VLA observed the field of GRB 240910A\n(Fermi GBM team, GCN 37441, 37464; SVOM team, GCN37445, 37503)\nat a central frequency of 6, 10 and 15 GHz.\n\nThe standard 3C48 was used as bandpass and flux density\ncalibrator, while J0125-0005 was used as phase calibrator.\n\nFrom a preliminary analysis, an unresolved radio source\nis clearly detected at a position:\n\nRA: 01:36:23.458 +- 0.003\nDec: -00:12:17.42 +- 0.05\n\nconsistent with the optical (GOTO collaboration, GCN 37459;\nJiang et al., GCN 37460) and X-ray (D'Ai et al., GCN 37461)\ntransient.\n\nThe surface brightness peak is 137 uJy/beam, 114 uJy/b and\n86 uJy/beam at 6, 10 and 15 GHz, respectively.\nThe r.m.s. noise level of the images is 7 uJy/beam at 6 GHz,\n7 uJy/b at 10 GHz and 9 uJy/b at 15 GHz.\n\nThe synthesized beams are 1.36x1.01 arcsec (PA: -48deg)\nat 6 GHz, 0.79x0.63 arcsec (PA: -50deg) at 10 GHz\nand 0.61x0.43 arcsec (PA: -56deg) at 15 GHz.\n\nWhile no source is detected with a 3sigma confidence at the\naforementioned position in previous radio surveys (FIRST, NVSS,\nVLASS, RACS), their r.m.s. noise levels (1sigma) is above\n100 uJy/b. Therefore, we cannot exclude the contribution from\nthe GRB host galaxy yet.\n\nWe would like to thank the staff of the VLA for approving, executing,\nand processing the observations.\n\nThe National Radio Astronomy Observatory is a facility of the National\nScience Foundation operated under cooperative agreement by Associated\nUniversities, Inc.\n\nThese observations were carried out as part of project SF171028,\napproved in the framework of the Fermi - NRAO joint program agreement.\n"
+}

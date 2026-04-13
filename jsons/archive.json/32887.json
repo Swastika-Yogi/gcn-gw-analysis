@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 1132968: Swift trigger is the Crab",
+  "bibcode": "2022GCN.32887....1D",
+  "createdOn": 1667050774000,
+  "circularId": 32887,
+  "submitter": "Simone Dichiara at PSU  <sbd5667@psu.edu>",
+  "email": "sbd5667@psu.edu",
+  "body": "S. Dichiara (PSU), J. A. Kennea (PSU) and A. Y. Lien (U Tampa) report\non behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 06:48:50 UT, the Swift Burst Alert Telescope (BAT) triggered (trigger #1132968)\nthat was identified as Crab. However, the BAT transient monitor does not\nshow any significant activity of the Crab. Also, this trigger\nis a 12.7-min long image trigger, similar to the condition of\nprevious erroneous triggers due to a known race condition\nin the Swift/BAT software. Therefore, we believe this trigger\nis not due to interesting activity of the Crab. The full ground data\nis required to confirm the nature of this trigger.\n\nThe XRT began observing the field at 12:23:53.1 UT, 1087.3 seconds\nafter the BAT trigger. XRT's onboard centroiding algorithm did not\nfind a point source in the field of view, however as the Crab is an\nextended source, this is as expected."
+}

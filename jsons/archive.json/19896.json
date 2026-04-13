@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160905A: Swift-BAT refined analysis",
+  "eventId": "GRB 160905A",
+  "bibcode": "2016GCN.19896....1B",
+  "createdOn": 1473130270000,
+  "circularId": 19896,
+  "submitter": "Takanori Sakamoto at AGU  <tsakamoto@phys.aoyama.ac.jp>",
+  "email": "tsakamoto@phys.aoyama.ac.jp",
+  "body": "S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC), P. D'Avanzo (INAF-OAB),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), M. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n  \nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 160905A (trigger #711084)\n(D'Avanzo, et al., GCN Circ. 19887).  The BAT ground-calculated position is\nRA, Dec = 162.249, -50.803 deg which is\n    RA(J2000)  =  10h 48m 59.7s\n    Dec(J2000) = -50d 48' 09.2\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 98%.\n\nThe mask-weighted light curve shows a bright main episode with several\noverlapping peaks starting at ~T-10 sec, peaking at ~T+10 sec and ending\nat ~T+25 sec.  The additional peak is seen starting at ~T+30 sec, peaking\nat ~T+35 sec and ending at ~T+40 sec.  The further weak extended emission\nis visible up to ~T+180 sec.  T90 (15-350 keV) is 64 +- 16 sec (estimated\nerror including systematics).\n  \nThe time-averaged spectrum from T-15.2 to T+96.8 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.04 +- 0.03.  The fluence in the 15-150 keV band is 1.50 +- 0.02 x 10^-5 erg/cm2.\nThe 1-sec peak photon flux measured from T+8.30 sec in the 15-150 keV band\nis 6.3 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n  \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/711084/BA/"
+}

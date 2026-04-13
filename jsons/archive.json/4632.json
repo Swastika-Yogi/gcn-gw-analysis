@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060202: Swift XRT Team Refined Analysis",
+  "eventId": "GRB 060202",
+  "bibcode": "2006GCN..4632....1M",
+  "createdOn": 1138890273000,
+  "circularId": 4632,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@astro.psu.edu>",
+  "email": "kennea@astro.psu.edu",
+  "body": "D. Morris (PSU), D. Fox (PSU), D. Burrows (PSU), N. Gehrels (GSFC), F.\nMarshall (GSFC), P. Boyd (GSFC-UMBC), J. Kennea (PSU), H. Krimm\n(GSFC/USRA), D. Palmer (LANL) report on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first orbit observation of\nGRB 060202 (Fox et al., GCN4629), with a total exposure of 540 seconds.\nThe refined XRT position is:\n\nRA(J2000) = 02h 23m 23.02s\nDec(J2000) = +38d 23' 05.7\"\n\nThis position is 82.8 arcseconds from the BAT and 3.7 arcseconds from the\nXRT position given in GCN 4629. We estimate an uncertainty of 4 arcseconds\nradius (90% containment).\n\nThe 0.2-10 keV light curve in Windowed Timing (WT) mode starts 148.8\nseconds from the BAT trigger (T0). The lightcurve shows a steep early\ndecay index of 2.7 followed by a flattening to a decay index of 0.2 at\nT+310 s.\n\nA preliminary spectral fit to the WT data gives a spectral power law\nphoton index of 2.52 +/- 0.03 in the [0.2-10] keV band with NH of 5.8e21 +/-\n2e20, well above the galactic NH value for this direction of 5.1e20. The\nunabsorbed 0.2-10 keV flux at the start of the XRT observation is\nestimated to be about 2.5E-8 erg/cm2/s, flattening at a flux level of\nabout 2E-9 erg/cm2/s. We do not have sufficient data at this time to allow\nan accurate extrapolation of the flux to T+24 hr."
+}

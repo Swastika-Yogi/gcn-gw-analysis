@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT observations of GRB 090102",
+  "eventId": "GRB 090102",
+  "bibcode": "2009GCN..8770....1C",
+  "createdOn": 1230916534000,
+  "circularId": 8770,
+  "submitter": "Peter Curran at MSSL  <pac@mssl.ucl.ac.uk>",
+  "email": "pac@mssl.ucl.ac.uk",
+  "body": "P.A. Curran (UCL-MSSL), V. Mangano (INAF-IASF PA) and S.T. Holland\n(GSFC) on behalf of the Swift/UVOT team.\n\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began settled \nobservations of the Swift localised GRB 090102 (#338895; Mangano et al., \nGCN 8762) ~400 seconds after the BAT trigger.\n\nAn afterglow, consistent with the enhanced XRT position (Beardmore et \nal., GCN 8765) and with the afterglow candidate of Klotz et al. (GCN \n8761), is detected at the position reported by  Mangano et al. (GCN \n8762). The source is detected in the initial optical observations but \nquickly fades (with alpha ~ 0.9 +/- 0.2 in white filter) below detection \nlimits. The initial magnitudes (or 3 sigma limits) are:\n\n\nFilter  t_mid(s)  Exp(s)  Mag\n\nwh      470.      147.    18.04 +/- 0.04\nv       382.      10.     17.02 +/- 0.29\nb       660.      19.     18.35 +/- 0.27\nu       635.      19.     17.89 +/- 0.26\nuvw1    3547.     255.    >19.99\nuvm2    6278.     197.    >19.67\nuvw2    1035.     388.    >20.45\n\nThe detection in u along with the limits in uvw1 and bluer is consistent\nwith a redshift of approximately ~1.8 < z < ~2.5 and with the\nspectroscopic redshift suggested by de Ugarte Postigo et al. (GCN 8766).\n\nThe values quoted above are in the UVOT photometric system (Poole et al.\n2008, MNRAS, 383, 627).  They are not corrected for the expected\nGalactic extinction corresponding to a reddening of E(B-V)=0.047 mag in\nthe direction of the burst (Schlegel et al. 1998)."
+}

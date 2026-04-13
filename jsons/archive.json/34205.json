@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230707A: Swift/BAT-GUANO position correction",
+  "eventId": "GRB 230707A",
+  "bibcode": "2023GCN.34205....1T",
+  "createdOn": 1689127122011,
+  "circularId": 34205,
+  "submitter": "Aaron Tohuvavohu at University of Toronto <aaron.tohu@gmail.com>",
+  "body": "Aaron Tohuvavohu (U Toronto), Dmitry Svinkin (Ioffe Institute) report:\n\nThe prior reporting of the arcminute localization of GRB 230707A (GCN 34159) is incorrect.\n\nThe GRB signal detected and localized by BAT-GUANO is real, and correctly localized to arcminute precision in the instrument frame.\nHowever, an incorrect spacecraft attitude quaternion was used for conversion from instrument to celestial coordinates.\n\nThe corrected BAT position for this burst is:\nRA, Dec =  173.1992 -16.4121, which is:\n    RA (J2000)     11h 32m 47.81s\n    Dec (J2000)  -16d 24' 43.6\"\nwith an estimated uncertainty of 2 arcminutes.\n\nThis position is 5.35 degrees from the position reported in GCN 34159.\nI apologize for the error, and gratefully acknowledge the critical support from IPN teammates in identifying this discrepancy.\n\nThe source of the error has been identified and corrections will be implemented.\nPrevious BAT localizations have not been affected by this error."
+}

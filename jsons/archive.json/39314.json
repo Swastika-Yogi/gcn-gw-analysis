@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250205A: Leavitt Observatory optical upper limit",
+  "eventId": "GRB 250205A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39314....1P",
+  "createdOn": 1739483802969,
+  "submitter": "leavittob@gmail.com",
+  "circularId": 39314,
+  "format": "text/plain",
+  "body": "E. Pavoni and L. Moretti (Leavitt Observatory, Manciano, Italy)\n\nMembers of:\nGRB/UAI - Gamma Ray Burst Section of Unione Astrofili Italiani\nATA - Associazione Tuscolana di Astronomia\n\nIn a large collaboration with:\nM.G. Dainotti (National Astronomical Observatory of Japan),\nY. Niino (Tokyo University, Institute of Astronomy),\nK. Kalinowski (Aarhus University, Department of Physics and Astronomy),\nreport:\n\nWe observed the field of GRB 250205A (Saccardi et al. GCN 39154) with our RC telescope (D=250 mm, F/D=8) of Leavitt Observatory, Manciano, Italy. \nThe observations started approximately 43 minutes after the SVOM/ECLAIRs trigger time, with good weather conditions, and consisted of 8 individual frames of 240sec each in the R (Cousins) band.\n\nImages were processed using the astropy package (Astropy Collaboration et al., 2022ApJ...935..167A).\n\nIn the stacked frame, we did not found any optical uncatalogued object within the SVOM error circle.\n\nMid Time (UTC)             Limit (R filter)     Err.\n2025-02-05T22:28:28        >19.1                0.1\n\nThe non-detection of the burst is consistent with detection and upper limits already reported (Gompertz et al. GCN 39156; Schneider et al., GCN 39157; Gompertz et al., GCN 39158; Palmerio et al., GCN 39159; A. de Ugarte Postigo et al., GCN 39160; Watson et al., GCN 39162; Breeveld et al., GCN 39168; Busmann et al., GCN 39169; Ferro et al., GCN 39170; Gupta et al., GCN 39240; Calapai et al., GCN 39302).\n\nMagnitude was calibrated with the nearby Pan-STARRS stars converted using Lupton (2005) equations. No correction for galactic dust extinction was applied.\n\nThe message may be cited.\n\n\nReference:\nhttps://leavittobservatory.altervista.org"
+}

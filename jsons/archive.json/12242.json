@@ -1,0 +1,10 @@
+{
+  "subject": "GRB110731A: MOA optical observations of the steeply fading afterglow",
+  "eventId": "GRB 110731A",
+  "bibcode": "2011GCN.12242....1T",
+  "createdOn": 1312372180000,
+  "circularId": 12242,
+  "submitter": "Akihiko Fukui at Nagoya U/MOA  <afukui@stelab.nagoya-u.ac.jp>",
+  "email": "afukui@stelab.nagoya-u.ac.jp",
+  "body": "P. J. Tristram (MJUO), A. Fukui (Nagoya U.), K. Ohnishi (Nagano NCT) and T. Sako (Nagoya U.) \nreport on behalf of the MOA collaboration.\n\nWe began prompt observations of the afterglow of GRB110731A (Oates et al., GCN 12215)\nat July 31 11:12:47 UT responding to the Swift trigger 458448 (3.3 min after the trigger)  \nusing the 61 cm B&C telescope at the Mt John University Observatory in New Zealand.\nWe obtained a series of I and V band images with 60 sec exposure times followed by some \n120 sec exposures until 12:56 UT (105 min after the trigger). \nThe total number of I and V images are 39 and 35, respectively. \nAlthough the first image had a poor psf, the following images had well-shaped psf's and \nwe confirmed the steeply fading afterglow, which is consistent with the previous reports \n(e.g. Bersier et al. GCN 12216), on these images in both the I and V bands. \nThe afterglow is located within the error circle reported by Oates et al. GCN 12222.\nThe magnitude of the afterglow on the second and on the last images in the I band obtained \nby psf-fitting photometry with the DoPHOT package \n(Schechter et al. 1993) and calibrated to the USNO-B1.0 N magnitude (similar to I magnitude) \nfollow.\n\n------------------------------------------\nFilter mid_JD-2450000 exptime[sec] dT[min] Nmag error \nI  5773.96831  60  4.86  14.75  0.20\nI  5774.03807  120  105.31  20.2  2.7\n------------------------------------------\n\nHere dT denotes the difference between the mid_JD (mid time of exposure) and the trigger \ntime. The large error in the magnitude of the last image resulted from the calibration relying on extrapolation."
+}

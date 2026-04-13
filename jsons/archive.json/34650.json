@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230903A: TESS observations of optical emission",
+  "eventId": "GRB 230903A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34650....1J",
+  "createdOn": 1694356297909,
+  "circularId": 34650,
+  "submitter": "Rahul Jayaraman at MIT <rjayaram@mit.edu>",
+  "body": "R. Jayaraman (MIT), M.M. Fausnaugh (TTU/MIT), R. Vanderspek (MIT), and G.R. Ricker (MIT) report:\n\nThe Transiting Exoplanet Survey Satellite (TESS; Ricker et al. JATIS 2015) observed the location of the gamma-ray burst GRB230903A (GCN 34608, Fermi GBM Team et al.; GCN 34610, D’Ai et al.) at a 200 second cadence continuously from 2.8 days before the trigger to 3.75 days after the trigger. The GRB occurred during TESS observational Sector 69, in the field of view of Camera 2, CCD 3.\n\nWe extracted a light curve from the calibrated TESS Full-Frame Images (FFIs) produced by TICA (Fausnaugh et al. RNAAS 2020), using difference imaging and forced photometry at the enhanced location provided by Swift-XRT in GCN 34625 (Beardmore et al.). Our analysis procedure is described in Fausnaugh et al. 2023 (arXiv:2307.11815).\n\nTESS observations show a flux excess of 5.1-sigma above the background in the 200s FFI exposure that encompasses the Fermi trigger time, corresponding to an apparent magnitude of 17.20 ± 0.05 in the TESS band (600 nm–1000 nm). Further analysis is ongoing.\n\nThe TICA data are publicly available on the MAST archive at https://archive.stsci.edu/hlsp/tica."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210401A",
+  "eventId": "GRB 210401A",
+  "bibcode": "2021GCN.29744....1S",
+  "createdOn": 1617405540000,
+  "circularId": 29744,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, S. Golenetskii, A.Lysenko,\nA. Ridnaya, A. Tsvetkova,  M. Ulanov, and T. Cline, report:\n\nThe long-duration GRB 210401A (Fermi-GBM detection: The Fermi GBM team,\nGCN Circ. 29739) was detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in\nthe 20-1500 keV band reveals a count rate increase over background\nin the interval from ~T0-500 s to ~T0+340 s,\nwhere T0 = T0(GBM) = 83824 (23:17:04) UT.\nThe total duration of ~840 s makes this burst an ultra-long GRB candidate.\nOn the other hand, the proximity of the burst localization (GCN 29739)\nto the Galactic center may suggest that the burst is a galactic transient.\nThe KW light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210401A/\n\nModeling the KW 3-channel time-integrated spectrum\n(measured from T0-499.335 s to T0+339.705 s)\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.40(-0.10,+0.12) and Ep = 240(-35,+45) keV.\n\nA CPL fit to the spectrum near the peak count rate,\nmeasured from T0+248.441 s to T0+254.329 s, gives\nalpha -1.25(-0.12,+0.13), and Ep = 413(-78,+122) keV.\n\nIn the 10 keV -10 MeV band, the total burst fluence\nis (1.46 +/- 0.18)x10^-4 erg/cm^2, and the 2.944 s peak energy flux,\nmeasured in the interval starting from T0+248.441 s,\nis (1.73 +/- 0.22)x10^-6 erg/cm^2.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n\n[GCN OPS NOTE(03apr21),  Per author's request, the typo in the SUBJECT:-line\nwas changed from 210104A to 210401A.]"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 260411B: Ondrejov D50 optical afterglow detection",
+  "eventId": "GRB 260411B",
+  "submittedHow": "email",
+  "createdOn": 1775956183246,
+  "circularId": 44272,
+  "submitter": "Martin Jelinek at Astro.Inst-AVCR,Ondrejov <martin.jelinek@asu.cas.cz>",
+  "body": "M. Jelinek, J. Strobl, F. Novotny, A. Malenakova, R. Hudec (ASU CAS Ondrejov)\nreport:\n\nWe observed the position of the optical afterglow of GRB 260411B (Fermi GBM team, GCN 44262; O'Neill et al., GCN 44265) with the D50 robotic telescope of the Astronomical Institute Ondrejov, near Prague, Czech Republic. We performed a series of 80x60s exposures in the SDSS r' filter.\n\nWe faintly detect the optical afterglow (O'Neill et al., GCN 44265) in the 80x60s combined image with exposure mean time 11.45 h after the trigger. The AB magnitude of the object is:\n\n  r' = 20.0 +/- 0.3\n\nPhotometric calibration was performed using the ATLAS REFCAT2 (Tonry et al.) catalog. The magnitude is not corrected for Galactic extinction in the direction of the burst.\n\nComparing with the GOTO detection at t = 0.89 h (L = 17.55 +/- 0.02; O'Neill et al., GCN 44265), this would imply a temporal decay index of alpha ~ 0.9 (where F_nu ~ t^-alpha).\n"
+}

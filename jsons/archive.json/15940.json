@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140306A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 140306A",
+  "bibcode": "2014GCN.15940....1Y",
+  "createdOn": 1394350138000,
+  "circularId": 15940,
+  "submitter": "Tetsuya Yasuda at Saitama U  <yasuda@heal.phy.saitama-u.ac.jp>",
+  "email": "yasuda@heal.phy.saitama-u.ac.jp",
+  "body": "T. Yasuda, M. Tashiro, Y. Terada, Y. Ishida, H. Ueno,\nS. Sugimoto, S. Koyama, S. Takeda, T. Nagayoshi (Saitama U.),\nM. Yamauchi, N. Ohmori, M. Akiyama, R. Kinoshita (Univ. of Miyazaki),\nM. Ohno, K. Takaki, T. Kawano, R. Nakamura, S. Furui, Y. Fukazawa (Hiroshima U.),\nK. Yamaoka (Nagoya U.),  S. Sugita (Ehime U.), Y. E. Nakagawa, M. Kokubun,\nT. Takahashi (ISAS/JAXA), W. Iwakiri (RIKEN), Y. Hanabata (ICRR), \nY. Urata (NCU), K. Nakazawa, K. Makishima (Univ. of Tokyo)\non behalf of the Suzaku WAM team, report:\n\n\nThe bright long-duration GRB 140306A (localized by IPN: Golenetskii et al., GCN 15938;\nand by Fermi-GBM: Fitzpatrick and Stanbro, GCN 15935; \nand Konus-Wind detection: Golenetskii et al., GCN 15939) \ntriggered the Suzaku Wide-band  All-sky Monitor (WAM) which covers an \nenergy range of 50 keV - 5 MeV at 03:29:44.404 UT (=T0). \n\nThe observed light curve shows a multi-peaked structure starting at T0 and \nfollowed by a long weak tail seen up to T0+60 s with a duration (T90) of about 54 seconds. \nThe fluence in 100 - 1000 keV was 5.38 (+0.09 / -0.13) x10^-5 erg/cm^2. \nThe 1-s peak flux measured from T0+4.5 s was 6.86 (+0.25 / -0.36) photons/cm^2/s \nin the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-5 s to T0+60 s is well fitted by a power-law with exponential cutoff model:\ndN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha       0.91 (+0.05 / -0.05), and\nEpeak      1426 (+87 / -81) keV (chi^2/d.o.f. = 63.5/51).\n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe light curves for this burst are available at:\n\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

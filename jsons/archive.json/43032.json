@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251208D: SVOM possible detection of a faint burst",
+  "eventId": "GRB 251208D",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43032....1L",
+  "createdOn": 1765214754993,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 43032,
+  "format": "text/plain",
+  "body": "Z.-Y. Lin, F. Cangemi (APC), D. Turpin, S. Schanne (CEA/Irfu), F. Daigne (IAP)\n\nAt 2025-12-08T16:51:43 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 251208D (SVOM burst-id sb25120806).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Image Trigger (IMT), which produced a sequence of 1 alert. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 6.64 in the [8-120] keV energy band over a time window of 81.92 seconds starting at 2025-12-08T16:50:21.\n\nThe localization of the best alert is R.A., Dec. 337.5347, -0.3918 degrees:\nR.A. (J2000) = 22h30m08.33s\nDec. (J2000) = -0d23m30.32s\n with a 90% confidence level (C.L.) radius of 11.77 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nDue to the detection significance being below the slew threshold, no immediate slew was performed on this burst.\n\nA SVOM ToO has been requested. MXT and VT ToO observation results will be reported in dedicated GCN Circulars.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Zhe-Yu Lin: zheyu.lin@apc.in2p3.fr.\nPlease contact the BA by email if you require additional information.\n"
+}

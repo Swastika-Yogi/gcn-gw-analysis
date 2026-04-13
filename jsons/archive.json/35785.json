@@ -1,0 +1,9 @@
+{
+  "subject": "Insight-HXMT/HE Sub-Threshold Detection of Transient EPW20240219aa ",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35785....1C",
+  "createdOn": 1708759216760,
+  "submitter": "yqzhang_cl@163.com",
+  "circularId": 35785,
+  "body": "Ce Cai (HEBNU), Shao-Lin Xiong, Li-Ming Song, Shuang-Nan Zhang (IHEP) \nreport on behalf of the Insight-HXMT team:\n\nEinstein Probe detected a bright X-ray flare EPW20240219aa, which started \nfrom 2024-02-19T06:21:42 UTC (denoted as T0) with a duration about 200 s \n(ATel 16463; ATel 16472). There is no Insight-HXMT/HE on-ground automated \nblind search trigger around this event. Thus we implemented a targeted search \nfor sub-threshold burst signals within T0+/-100 s, using an improved coherent \nsearch algorithm [1]. \n\nFrom the targeted search, we identified a gamma-ray transient most significant \non the 4 s timescale, with the peak time of about T0+40 s and duration of about 50 s, \nmatching the observation by Fermi GBM (GCN 35773, GCN 35776) and Swift/BAT \n(GCN 35784). Its location is also consistent with the EP (ATel 16463) and Swift/BAT \npositions (GCN #35784). The spectrum is relatively hard (Band function with \nEpeak = 1 MeV, alpha = 0, beta = -1.5).\n\nWe note that these results are very preliminary. Refined analysis will be reported later.\n\nAll measurements above are made with the CsI detectors operating in the\nregular mode with the energy range of about 80-800 keV (deposited energy).\nOnly gamma-rays with energy greater than about 200 keV can penetrate\nthe spacecraft and leave signals in the CsI detectors installed inside\nthe telescope.\n\nInsight-HXMT is the first Chinese space X-ray telescope, which was\nfunded jointly by the China National Space Administration (CNSA) and\nthe Chinese Academy of Sciences (CAS).\nMore information about it could be found at:\nhttp://www.hxmt.org.\n\n[1] Cai, C., Xiong, S. L., Li, C. K., et al. 2021, MNRAS, 508, 3910S\n"
+}

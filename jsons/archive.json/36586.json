@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240531A: AstroSat CZTI detection of a short burst",
+  "eventId": "GRB 240531A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36586....1J",
+  "createdOn": 1717218920680,
+  "circularId": 36586,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "J. Joshi (IUCAA), G. Waratkar (IITB), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a short-duration GRB 240531A.\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range. The light curve showed a single burst of emission that peaked at 2024-05-31 18:54:12.0 UTC. The measured peak count rate associated with the burst is 1140 (+248, -251) counts/s above the background in the combined data of all quadrants, with a total of 202 (+40, -41) counts. The local mean background count rate was 335 (+11, -16) counts/s. Using cumulative rates, we measure a T90 of 0.6 (+0.1, -0.2) s.\n\nIt was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve showed a single burst of emission that peaked at 2024-05-31 18:54:11.2 UTC. The measured peak count rate is 292 (+72, -67) counts/s above the background in the combined Veto data of all quadrants, with a total of 264 (+155, -128) counts. The local mean background count rate was 1421 (+8, -14) counts/s. Due to the intrinsic 1 s binning of veto data, we cannot reliably estimate a T90 from it.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Fermi GBM-190816: Correction from the Zwicky Transient Facility",
+  "bibcode": "2019GCN.25432....1S",
+  "createdOn": 1566412306000,
+  "circularId": 25432,
+  "submitter": "Robert Stein at DESY  <robert.stein@desy.de>",
+  "email": "robert.stein@desy.de",
+  "body": "In GCN # 25430, four transient were reported. For one of these, ZTF19abqykei, also known as AT2019obh, the position given was incorrect. A negative sign was missing from the declination.  The correct position should be:\n---------------------------------------\n  ZTF Name     | RA (deg) | DEC (deg)  \n----------------------------------------\n ZTF19abqykei  | 69.0926074 | -10.3722396 \nWe apologise for any inconvenience caused."
+}

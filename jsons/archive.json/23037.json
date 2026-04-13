@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180720B: AMI-LA 15.5 GHz observation",
+  "eventId": "GRB 180720B",
+  "bibcode": "2018GCN.23037....1S",
+  "createdOn": 1532509920000,
+  "circularId": 23037,
+  "submitter": "Itai Sfaradi at Hebrew U of Jerusalem  <itai.sfaradi@mail.huji.ac.il>",
+  "email": "itai.sfaradi@mail.huji.ac.il",
+  "body": "Itai Sfaradi (HUJI), Joe Bright (Oxford), Assaf Horesh (HUJI), Rob Fender\n(Oxford) ,\nSara Motta (Oxford), David Titterington, Yvette Perrott (MRAO, Cambridge)\nreport:\n\nWe observed the position of GRB180720B (GCN CIRCULAR #22973) with the\nArcminute Microkelvin Imager Large Array (AMI-LA; Zwart et al. 2008; Hickish\net al. 2018) at 15.5 GHz on 2018-07-22.21 for 3.9 hours.\nWe clearly detect a source at the phase center, fitting the source with the\nCASA task IMFIT\nprovides an integrated flux density of ~ 1 mJy and a position of RA:\n00:02:07.02,\nDec: -02 55 02.224 with a synthesized beam major and minor FWHM of 93������ and\n27������ respectively\n(consistent with the position reported in GCN CIRCULAR #22973).\n\nThe custom pipeline REDUCE_DC (e.g. Perrott et al. 2015) was used to\ncalibrate\nand flag the data, with 3C286 as the absolute flux calibrator and J2357-0152\nas the interleaved phase calibrator.\n\nWe plan to continue monitoring this source, and would like to thank the\nMRAO staff for carrying out these observations."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220310A",
+  "eventId": "GRB 220310A",
+  "bibcode": "2022GCN.31748....1S",
+  "createdOn": 1647073544000,
+  "circularId": 31748,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, M. Ulanov, A. Tsvetkova,\nA. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 220310A\n(MAXI/GSC detection: Negoro et al., GCN Circ. 31725;\nCALET-CGBM detection: Negoro et al., GCN Circ. 31730)\ntriggered Konus-Wind at T0=1702.557 s UT (00:28:22.557).\n\nThe burst light curve shows an initial weak episode\nwhich starts at ~T0-24 s and ends at ~T0-12 s,\nfollowed by a brighter multipeaked structure\nseen up to ~T0+37 s. The total burst duration is ~61 s.\nThe emission is seen up to ~7 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220310_T01702/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.15(-0.46,+0.54)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+14.144 s,\nof 2.32(-0.62,+0.62)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+41.216 s)\nis best fit in the 20 keV - 8 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.49(-0.37,+0.61),\nthe high energy photon index beta = -2.47(-0.67,+0.25),\nthe peak energy Ep = 138(-27,+32) keV\n(chi2 = 75/85 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+8.448 s to T0+16.640 s)\nis best fit in the 20 keV - 8 MeV range\nby a power law with exponential cutoff model:\nwith  alpha = -0.70(-0.24,+0.28)\nand Ep = 168(-18,+23) keV (chi2 = 67/75 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.5\n(chi2 = 67/74 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

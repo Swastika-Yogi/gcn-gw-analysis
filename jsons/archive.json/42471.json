@@ -1,0 +1,11 @@
+{
+  "subject": " GRB 251027A: SVOM detection of a faint burst",
+  "eventId": "GRB 251027A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42471....1C",
+  "createdOn": 1761561692721,
+  "circularId": 42471,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. H.Cheng (YNU), Y. F. Liang (PMO), O. Godet, S. Guillot (IRAP), S. Schanne (CEA), L. Zhang (IHEP)\n\nAt 2025-10-27T09:38:17 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 251027A (SVOM burst-id sb25102702).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Count-Rate Trigger (CRT), which produced a sequence of 1 alert. CRT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 8.33 in the [5-20] keV energy band over a time window of 20.40 seconds starting at 2025-10-27T09:37:56.\n\nThe localization of the best alert is R.A., Dec. 95.1860, 11.6869 degrees:\nR.A. (J2000) = 6h20m44.64s\nDec. (J2000) = 11d41m12.73s\n with a 90% confidence level (C.L.) radius of 9.46 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThe GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb251027A.png\n\nDue to the ECLAIRs detection significance being below the slew threshold, no immediate slew was performed on this burst. But follow-up observations with SVOM/MXT and SVOM/VT have been requested.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Yehao Cheng: yhcheng@mail.ynu.edu.cn.\nPlease contact the BA by email if you require additional information.\n"
+}

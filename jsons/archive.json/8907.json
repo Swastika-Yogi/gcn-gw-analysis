@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090217: XRT analysis",
+  "eventId": "GRB 090217",
+  "bibcode": "2009GCN..8907....1G",
+  "createdOn": 1234993090000,
+  "circularId": 8907,
+  "submitter": "Olivier Godet at U.of Leicester  <og19@star.le.ac.uk>",
+  "email": "og19@star.le.ac.uk",
+  "body": "O. Godet (U. Leicester) on behalf the Swift-XRT team\n\nThe Swift-XRT started observing the field of GRB090217 (GCN Circ. 8903) 39ks\nafter the LAT trigger (T0) using an early LAT position (RA,Dec (J2000) =\n204.436 deg, -8.858 deg and a 90% confidence error radius of 0.454 deg) which\nis 39 arcmin away from that quoted in Ohno et al. (GCN Circ. 8903).\n\nWe analysed 7.5ks of Photon Counting (PC) data collected from T0+39ks to\nT0+62.8ks. The LAT error circle is larger than the XRT field of view. Three\nX-ray sources with a signal-to-noise ratio larger than 3 were found at\n(J2000):\n\nS1: RA, Dec, err = 13 37 18.11,  -08 45 28.5, 5.5 arcsec\n\nS2: RA, Dec, err = 13 37 40.35   -09 01 29.7, 4.5 arcsec\n\nS3: RA, Dec, err = 13 37 39.49   -09 02 26.6, 4.4 arcsec\n\nThe XRT error radii are quoted at 90% confidence level.\n\nThe position S3 is consistent with the AGN HE 1335-0847 previously detected by\nROSAT. The position S2 is consistent with that of a star from the USNO-B1\ncatalog, while the position S1 is 6.7 arcsec away from a USNO-B1 source.\n\nThe data for S1 and S2 are too sparse to check for any variability during the\nobservation.  Nevertheless, none of these sources are likely to be the X-ray\nafterglow of GRB 090217.\n\nThis is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation and Konus spectrum of the short/soft GRB051107 (large",
+  "eventId": "GRB 051107",
+  "bibcode": "2005GCN..4234....1G",
+  "createdOn": 1131562159000,
+  "circularId": 4234,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team,\n\nS. Barthelmy, J. Cummings, H. Krimm, N. Gehrels\non behalf of the Swift team,\n\nA. Rau, A. von Kienlin, G. Lichti on behalf of the INTEGRAL SPI-ACS\nGRB team,\n\nK. Hurley on behalf of the Ulysses, HETE, Mars Odyssey teams\nreport:\n\nA short soft GRB triggered the Konus-Wind instrument\nat T0=9044.551 s UT (02:30:44.551) on November 7. \nIt was also observed by Swift-BAT, and INTEGRAL SPI-ACS.\n\nWe have triangulated this burst to the 3sigma\nconfidence error box:\n\n                   RA(2000) Dec(2000)\n----------------------------------------\nERROR BOX CENTER:   94.016 -18.977\n\nERROR BOX CORNER 1: 102.953 -14.291 \nERROR BOX CORNER 2:  85.388 -24.124\nERROR BOX CORNER 2:  83.432 -22.350\nERROR BOX CORNER 4: 101.222 -12.721\n---------------------------------------\n\nThe area of the error box is ~40 sq. deg.\n\nThe total burst duration is 1.75 sec.\n\nThe K-W spectrum integrated over the most intense\npart of the GRB (from T0 to T0+0.256 sec) is \nwell fitted (in the 20 - 500 keV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-E/E0)\nwith alpha = -0.51  (-1.07, +0.71)\nand E0 = 60 (-24, +38) keV (chi^2 = 15/27 dof).\nThe peak energy Ep = 151 (-26, +34) keV.\n\nAs observed by Konus-Wind the burst had a fluence \n1.42(-0.79, +0.16)x10^-6 erg/cm2 and\npeak flux on 64-ms time scale 2.0(-1.2, +0.3)x10^-6 erg/cm2/sec\n(both in the 20 - 500 keV).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe K-W light curve of this GRB and IPN triangulation map will be\navailable at http://www.ioffe.rssi.ru/LEA/GRBs/GRB051107_T09044/"
+}

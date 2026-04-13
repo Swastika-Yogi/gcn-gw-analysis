@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260128A / EP260128a: Fermi-GBM Sub-Threshold Detection",
+  "eventId": "GRB 260128A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43556....1R",
+  "createdOn": 1769698207410,
+  "circularId": 43556,
+  "submitter": "mariaedvige.ravasio@ru.nl",
+  "format": "text/plain",
+  "body": "M. E. Ravasio (ICE-CSIC and Radboud Univ.), P.G. Jonker (Radboud Univ.)\nand\nE. Burns (LSU),  C. Malacaria (INAF-OAR) report on behalf of the Fermi-GBM Team:\n\nFermi-GBM had full spatial and temporal coverage of the transient EP260128a detected by EP-WXT (H. Zhou et al., GCN 43549; H. Zhou et al.,  GCN 43554). There was no Fermi-GBM onboard trigger around the refined EP starting time at T0 = 2026-01-28T23:38:19 UTC (H. Zhou et al.,  GCN 43554).\n\nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals, was run in the time interval [-50;+500] s from T0, seeking signals between 64 ms and 32.768 s in duration. A transient was found, with the most significant signal at T0+145 s on a 16 s timescale, with a false alarm rate of 1.1e-05  Hz, although there is significant evidence of an earlier start of the emission. The light curve is multi-peaked, and a significant signal is also found at T0+70 s with FAR of 6.5e-05 Hz. The localisation is consistent with the EP one, with a spatial association probability of 99.3%. Among the three spectral templates tested, the transient was best-fit with a “normal” spectral template (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

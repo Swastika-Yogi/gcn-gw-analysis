@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120202A: Swift/XRT and UVOT observations",
+  "eventId": "GRB 120202A",
+  "bibcode": "2012GCN.12911....1H",
+  "createdOn": 1328306100000,
+  "circularId": 12911,
+  "submitter": "Giulia Stratta at ASDC  <giulia.stratta@gmail.com>",
+  "email": "giulia.stratta@gmail.com",
+  "body": "S. Holland (NASA/GSFC), V. D'Elia (ASDC), G. Stratta (ASDC),\nR. Starling (U. Leicester) report on behalf of the Swift team:\n\nWe have analysed 4.5 ks of XRT data for the INTEGRAL-detected burst:\nGRB 120202A (Mereghetti et al., GCN Circ. 12909), from 33.9 ks to 58.6 ks\nafter the INTEGRAL trigger.\nThe data are entirely in Photon Counting (PC) mode.\nAn X-ray source is detected within the INTEGRAL error circle at:\nRA, Dec = 203.503595, 22.773873 deg which is equivalent to:\n\nRA (J2000): 13h 34m 00.86s\nDec(J2000): +22d 46' 25.94\"\n\nwith an uncertainty of 4.8 arcsec (radius, 90% confidence).\nThe source count rate is 3.26E-03+/-1.1E-03 cts/s (1 sigma error).\nThis position is 10.1 arcsec from the INTEGRAL position.\nWe note that there is a bright SDSS galaxy at about 32 arcseconds\nfrom the burst position, within the INTEGRAL error circle.\nAt the present time we can not assess whether the source is fading or not.\n\nThe Swift/UVOT observed the field of GRB 120202A starting 33,899 s\nafter the INTEGRAL/IBAS trigger.\nWe do not detect an optical afterglow inside the XRT error circle.\nPreliminary 3-sigma upper limits for detecting a source in the the co-added\nimages are\n\nFilter       TSTART       TSTOP  EXPOSURE       Mag\n---------------------------------------------------\nv            35,727      64,596       485     >20.0\nu            33,899      64,484      2884     >22.0\nwhite        34,522      64,580      1305     >22.4\n---------------------------------------------------\n\nThe quoted magnitudes and upper limits have not been corrected for\nthe Galactic extinction along the line of sight to this burst of\nE_{B-V} = 0.02 mag (Schlegel et al. 1998, ApJS, 500, 525)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 171102A",
+  "eventId": "GRB 171102A",
+  "bibcode": "2017GCN.22094....1T",
+  "createdOn": 1509747496000,
+  "circularId": 22094,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R.Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Lysenko, A. Kozlova and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, intense GRB 171102A\n(Fermi-LAT detection: Yassine et al., GCN 22081;\nFermi GBM detection: Stanbro et al., GCN 22083;\nIPN Triangulation: Kozlova et al., GCN 22091)\ntriggered Konus-Wind at T0=9247.579 s UT (02:34:07.579).\n\nThe burst light curve shows two emission episodes\nwith a total duration of ~28 s.\nThe emission is seen up to ~1 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.96(-0.32,+0.27)x10^-5 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+14.608 s,\nof 5.87(-0.95,+0.96)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+21.760 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.76(-0.11,+0.11),\nthe high energy photon index beta = -2.98(-3.40,+0.31),\nthe peak energy Ep = 174(-12,+16) keV,\nchi2 = 90/97 dof.\n\nThe spectrum near the peak count rate\n(measured from T0+8.448 to T0+16.128 s)\nis best fit in the 20 keV - 1.2 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith�� alpha = -0.91(-0.12,+0.12),\nand Ep = 203(-17,+21) keV (chi2 = 56/60 dof).\nFitting by the GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -2.52 (chi2 = 56/59 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB171102_T09247/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

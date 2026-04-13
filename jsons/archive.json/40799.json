@@ -1,0 +1,11 @@
+{
+  "subject": "GRB250620C: Fermi GBM Observation",
+  "eventId": "GRB 250620C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40799....1M",
+  "createdOn": 1750463280904,
+  "circularId": 40799,
+  "submitter": "oindabimukherjee@gmail.com",
+  "format": "text/plain",
+  "body": "O. Mukherjee (USRA) reports on behalf of the Fermi Gamma-ray Burst Monitor Team:\n\n\"At 16:07:09.92 UT on 20 June 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB250620C (trigger 772128434/250620672).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 142.61, Dec = 54.96 (J2000 degrees, equivalent to\nJ2000 9h 30m, +54d 57'), with a statistical uncertainty of 1.00 degrees.\n(radius, 1-sigma containment, statistical only; there is additionally a\nsystematic error which we have characterized as a mixture of two Gaussians,\none with a radius of 1.8 degrees (52% contribution) and one with a radius\nof 4.1 degrees (47% contribution) [A. Goldstein et al. 2020, ApJ, 895, 1]).\n\nThe angle from the Fermi LAT boresight is 124 degrees.\n\nThe GBM light curve consists of multiple emission episodes with a duration (T90)\nof about 32 s (50-300 keV). The time-averaged spectrum\nfrom T0 to T0+35.7 s is best fit by\na Band function with Epeak= 371 +/- 15 keV, alpha = -0.93 +/- 0.02 and beta = -2.6 +/- 0.2.\n\nThe event fluence (10-1000 keV) in this time interval is\n(6.64 +/- 0.07)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+0.96 s in the 10-1000 keV band is 50.1 +/- 0.7 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

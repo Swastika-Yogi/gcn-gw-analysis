@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081210: Swift/UVOT refined analysis",
+  "eventId": "GRB 081210",
+  "bibcode": "2008GCN..8654....1I",
+  "createdOn": 1229021943000,
+  "circularId": 8654,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (CRESST/UMD/GSFC), S. T. Holland (CRESST/USRA/GSFC), and H. A. \nKrimm (CRESST/GSFC/USRA) report on behalf of the Swift UVOT team:\n\nFurther analysis of Swift Ultraviolet/Optical Telescope (UVOT) data of \nGRB 081210 (Krimm et al., GCN Circ. 8648), starting 80 sec after the BAT \ntrigger, gives a detection of an optical source consistent with the \nenhanced XRT position (Osborne et al., GCN Circ 8650) in the white and u \nfilters at 12.6-sigma and 3.8-sigma levels of confidence, respectively. \nThe source is not detected in any of the other UVOT filters at the \nlimiting magnitudes reported below.\n\nFilter Tstart(s) Tstop(s)  Exp(s)  Magnitude\n\nwh      80       1009     318      19.91+/-0.08\nu      292        716     265      20.15+/-0.29\nb      548        741      39      >19.78  (3-sigma UL)\nuvw2   598       5251     235      >20.47  (3-sigma UL)\nv      622        816     244      >19.99  (3-sigma UL)\nuvm2   647        840     136      >19.55  (3-sigma UL)\nuvw1   672        866      39      >18.74  (3-sigma UL)\n\nThe values quoted above are in the UVOT photometric system (Poole et al. \n2008, MNRAS, 383, 627) and are not corrected for the expected Galactic \nextinction along the line of sight which corresponds to a reddening of \nE(B-V) = 0.077 mag (Schlegel et al. 1998).\n\nThe event data in the white filter shows a flare peaking at \napproximately 130 s after the BAT trigger, which approximately coincides \nwith the flare seen in the X-ray light curve (Evans et al., GCN Circ 8652)."
+}

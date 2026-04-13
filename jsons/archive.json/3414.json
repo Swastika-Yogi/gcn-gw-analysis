@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050509b: RAPTOR deep, early limits.",
+  "eventId": "GRB 050509B",
+  "bibcode": "2005GCN..3414....1W",
+  "createdOn": 1115849915000,
+  "circularId": 3414,
+  "submitter": "Przemyslaw R. Wozniak at LANL  <wozniak@lanl.gov>",
+  "email": "wozniak@lanl.gov",
+  "body": "P. Wozniak, W.T. Vestrand, J. Wren, S. Evans, and R. White,\non behalf the RAPTOR team at Los Alamos National Laboratory\n\n\nThe RAPTOR-S telescope at Los Alamos National Laboratory responded to\nSwift trigger 118749 (Hurkett et al. GCN 3381) and collected a series of\n113 unfiltered images starting at 26.57 s and continuing for the first\n90 minutes after the trigger. The exposure durations are 10 s for the\nfirst 10 images, 30 s for the next 10 images and 60 s for the remaining\n93 images.\n\nUsing difference imaging techniques, comparing individual images as well\nas stacks of images, we have placed limits on early time variability at\nthe locations of sources S1-S4 (Cenko et al. GCN 3401) within the XRT\nerror circle (Rol et al. GCN 3395). We find no evidence for transient\nemission at the four candidate locations with the following 5 sigma\nlimits.\n\ntime of mid  limiting  # of    effective  t-t_trig  t-t_trig  UT\nexp. (s)     mag (R)   images  duration   start (s) end (s)   start\n             (5 sigma)\n \n  31.6       18.8       1        10.0       26.6      36.6    04:00:45.8\n 193.9       20.0      10       100.0       26.6     220.4    04:00:45.8\n 395.3       20.8      10       300.0      234.0     629.3    04:04:13.3\n1399.5       21.7      20      1200.0      642.9    2042.4    04:11:02.1\n1402.7       21.8      19      1140.0     2052.9    3455.6    04:34:32.1\n1399.8       21.6      19      1140.0     3466.0    4865.8    04:58:05.2\n\nThe conversion of our unfiltered PSF fluxes to R-band magnitudes was\nperformed using measurements of 10 nearby comparison stars from the USNO\nB1.0 catalog. Sample RAPTOR-S images will be posted at\nhttp://www.raptor.lanl.gov/images/GRB050509/grb050509_raptorS.gif."
+}

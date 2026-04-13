@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240205B: Skynet Optical Afterglow Observations",
+  "eventId": "GRB 240205B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35687....1D",
+  "createdOn": 1707186346382,
+  "circularId": 35687,
+  "submitter": "Dylan Dutton at UNC Chapel Hill <ddutton59@gmail.com>",
+  "body": "Dylan Dutton, Donovan Schlekat, Logan Selph, Ruide Fu, Megan Dubay, Daniel Reichart, Joshua Haislip, Vladimir Kouprianov report on behalf of the Skynet Robotic Telescope Network at the University of North Carolina at Chapel Hill.\n\nWe observed the field of GRB 240205B with our 0.4m robotic telescopes located in the Cerro Tololo Inter-American Observatory, Chile. The observation began at 00:42:54 UTC on Feb 05 2024, approximately 2.5 hours after the trigger reported by Fermi (GCN 35682) and SWIFT (Palmer et al., GCN 35683).\n\nWe obtained multiple exposures in the B, V, R, and I filters. Exposure lengths were calculated using our automated exposure length scaling model.\n\nWe clearly detect the optical afterglow reported by MASTER (Lipunov et al., GCN 35684) and BOOTES-7 (GCN 35686). The coordinates are within the uncertainty radius of the Swift localization and consistent with the coordinates reported by MASTER (Lipunov et al., GCN 35684):\nR.A. (J2000): 23:25:50.12\nDec. (J2000): -55:07:05.5\n\nWe report the photometry below. We estimate a spectral index of -1.\n\nExpLen | Filter | Mag   | Mag Error  | MJD         \n------------------------------------------------\n223.98 | B      | 16.12 | 0.017      | 60346.030\n284.45 | B      | 16.12 | 0.017      | 60346.031\n233.30 | V      | 15.74 | 0.009      | 60346.032\n100.85 | R      | 15.49 | 0.010      | 60346.034\n298.28 | V      | 15.86 | 0.009      | 60346.035\n145.94 | R      | 15.66 | 0.011      | 60346.048\n265.82 | B      | 16.31 | 0.012      | 60346.049\n113.75 | I      | 15.33 | 0.019      | 60346.049\n272.02 | V      | 15.94 | 0.008      | 60346.052\n131.13 | R      | 15.76 | 0.010      | 60346.065\n391.41 | V      | 16.11 | 0.008      | 60346.065\n\nOur images have been calibrated using stars from the APASS catalog."
+}

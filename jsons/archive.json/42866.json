@@ -1,0 +1,11 @@
+{
+  "subject": "GRB251126A: MAO/AZT-22 optical observations",
+  "eventId": "GRB 251126A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42866....1B",
+  "createdOn": 1764306539260,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "circularId": 42866,
+  "format": "text/plain",
+  "body": "O. Burkhonov, Y. Rajabov, B.Abidkhanov, S. Ehgamberdiev, Y. Tillayev (UBAI), T. Boyqobilov, A. Shaymanov (Maidanak Observatory/UBAI) report on behalf of UBAI team.\n\nWe observed the field of GRB 251126A detected by Swift (Caputo et al. 2025, GCN 42843) ), with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2025-11-27 at 22:17:50 UT, i.e, ~1.13 days after the Swift trigger. In total we obtained 6x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). We stacked the images after the alignment. We detect the optical counterpart in our stacked image within the error box of GIT (Swain et al. 2025, GCN 42844). \n\nOur detection is consistent with Swain et al. 2025 (GCN 42844); Lipunov et al. 2025 (GCN 42847); Fu et al. 2025 (GCN 42848); Reguitti et al. 2025 (GCN 42849); Broens et al. 2025 (GCN 42850); Angulo et al. 2025 (GCN 42855); and Torres et al. 2025 (GCN 42856); Gupta et al. 2025 (GCN 42857); Cotter et al. 2025 (GCN 42858); Seki et al. 2025 (GCN 42859); Volnova et al. 2025 (GCN 42861); Breeveld et al. 2025 (GCN 42863); Gupta et al. 2025 (GCN 42864). \n\nPreliminary photometry is as follows:\n\nDate       UTstart  Exptime     t-T0     Filter  OT    Err.     UL    Site/Telescope\n                    (nxs)     (mid, days)                 \n2025-11-27 22:37:36 6x300      1.144       R   22.14   0.11    22.93   MAO/AZT-22\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog. \nThe data has not corrected for the Galactic extinction.\n\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical Institute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n"
+}

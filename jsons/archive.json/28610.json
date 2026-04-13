@@ -1,0 +1,9 @@
+{
+  "subject": "SGR 1830-0645: Swift/UVOT Upper Limits",
+  "bibcode": "2020GCN.28610....1K",
+  "createdOn": 1602598818000,
+  "circularId": 28610,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (UCL-MSSL) and Kim Page (U.Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of SGR 1830-0645/\nGRB 201010 71 s after the BAT trigger (Page et al., GCN Circ. 28594).\nThis field is crowded with sources. Near the XRT position\n(Osborne et al. GCN Circ. 28596) we find two sources which were\nboth observed not to vary within our measuring accuracy of 0.07 mag.\nHence, no optical afterglow consistent with the XRT position\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            71          221          147         >17.6\nu_FC               284          534          246         >18.1\nwhite               71          757          186         >17.6\nv                  614         5462          216         >16.4\nb                  540          733           39         >17.6\nu                  284         6049          434         >18.0\nw1                 664         5872          216         >18.6\nm2                 639         5667          216         >19.7\nw2                 590         5257          216         >19.3\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 1.78 in the direction of the burst\n(Schlegel et al. 1998)."
+}

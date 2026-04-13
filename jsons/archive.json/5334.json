@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060714:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060714",
+  "bibcode": "2006GCN..5334....1K",
+  "createdOn": 1153168556000,
+  "circularId": 5334,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), M. Koss (GSFC/UMD), C. Markwardt (GSFC/UMD), \nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/ORAU),\nG. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-240 to T+962 sec from the telemetry downlinks,\nwe report further analysis of BAT GRB 060714 (trigger #219101)\n(Krimm, et al., GCN Circ. 5311).  The BAT ground-calculated position is RA,Dec\n= 227.854, -6.545 deg {15h 11m 24.9s, -6d 32' 42.3\"} (J2000) +- 1.5 arcmin,\n(radius, sys+stat, 90% containment).  The partial coding was 27%.\n \nThe mask-weighted lightcurves show an initial triangular-shapped peak\nstarting at T-15 sec, peaking at T_zero, and ending at T+55.  Then come\ntwo peaks, each about 20 sec FWHM, peaking at T+76 and T+90 sec; the last peak\nending at T+120 sec.  We note that the XRT follow-up observation does not start\nuntil the trailing edge of the second peak.  T90 (15-350 keV) is 115 +- 5 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T-13.3 to T+120.6 is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.99 +- 0.10.  The fluence in the 15-150 keV band is 3.0 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+75.42 sec in the 15-150 keV band\nis 1.4 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence level.\n\nWe apologize for the long delay in issuing this standard BAT Second Circular."
+}

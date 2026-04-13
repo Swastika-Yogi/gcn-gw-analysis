@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050412: early Swift XRT analysis results",
+  "eventId": "GRB 050412",
+  "bibcode": "2005GCN..3253....1M",
+  "createdOn": 1113333035000,
+  "circularId": 3253,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "V. Mangano (IASF/Palermo), M. Capalbi (ASDC), C. Pagani (INAF-OAB), M. Goad \n(U. Leicester), J. Kennea and D. Burrows (PSU) report on behalf of the \nSwift XRT team:\n\nWe have analyzed the Swift XRT data from the first orbit observation of GRB \n050412 (Tamburelli et al., GCN3241). The new refined coordinates are:\n\nRA(J2000) = 12h 04m 25.5s\nDec(J2000) = -01:12:00.2\n\nThis position is 65.6 arcseconds from the refined BAT position given in GCN \n3251 (Tueller et al. 2005) and 3.6 arcsec from the preliminary XRT position \n(GCN3241). We estimate an uncertainty of 5 arcseconds radius (90% containment).\n\nThe [0.2-10] keV light curve in Windowed Timing (WT) and Photon Counting \n(PC) mode starts ~100 seconds from the BAT trigger (T0). We clearly detect \na rapidly fading source.\n\nA preliminary spectral fit to the WT data gives a spectral power law photon \nindex of 1.35 +/- 0.2 in the [0.5-10] keV band, assuming Galactic \nabsorption (2.21E20cm^-2). The average (~10000 seconds from trigger) \nestimated unabsorbed 0.5-10 keV flux is then about 3.9E-12 erg cm^-2 s^-1."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060105: BAT refined analysis",
+  "eventId": "GRB 060105",
+  "bibcode": "2006GCN..4435....1M",
+  "createdOn": 1136493909000,
+  "circularId": 4435,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "C. Markwardt (GSFC/UMD), L. Angelini (GSFC/JHU), L. Barbier (GSFC),\nS. Barthelmy (GSFC), J. Cummings (GSFC/ORAU), E. Fenimore (LANL),\nN. Gehrels (GSFC), J. Greiner (MPE), D. Hullinger (UMD),\nH. Krimm (GSFC/USRA), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC),\non behalf of the Swift-BAT team:\n\nUsing the data set from T-120 to T+300 sec from the recent\ntelemetry downlink, we report further analysis of BAT GRB 060105\n(trigger #175942)  (Ziaeepour, et al., GCN 4429).  The BAT ground-\ncalculated position is\n(RA,Dec) = 297.488, 46.359 {19h 49m 57.1s, 46d 21' 32.4\"} [deg; J2000]\n+- 0.9 arcmin, (radius, sys+stat, 90% containment). This is 36 arcsec\nfrom the BAT onboard position and 52 arcsec from the Swift XRT onboard\nposition (Ziaeepour et al, GCN #4429).  The partial coding was 28.5%.\n\nThe BAT mask-weighted light curve has 3 main peaks, each with multiple\nsub-peaks, an overall flat-topped shape, and similar spectra.  The\nfirst is T-22 to T-15 sec, the second from T-3 to T+11 sec, and the\nthird from T+23 to T+36 sec.  There is softer, weaker emission in the\n15-50 keV band out to at least T+150.  T90 (15-350 keV) is (55 +- 5)\nsec (estimated error including systematics).\n\nThe power law index of the time-averaged spectrum is 1.11 +- 0.03.\nThe fluence in the 15-150 keV band is (1.82 +- 0.04) x 10^-05 erg/cm2.\nThe 1-sec peak photon flux measured from T+30.42 sec in the 15-150 keV\nband is (7.5 +- 0.4) ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level.  This GRB is among the brightest bursts seen by BAT."
+}

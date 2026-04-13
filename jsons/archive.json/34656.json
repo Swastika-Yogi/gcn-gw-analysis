@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230911D: Fermi GBM Final Localization",
+  "eventId": "GRB 230911D",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34656....1F",
+  "createdOn": 1694424937650,
+  "circularId": 34656,
+  "submitter": "rachel.hamburg@ijclab.in2p3.fr",
+  "body": "The Fermi GBM team reports the detection of a likely long GRB.\n \nAt 07:53:09.73 UT on 11 September 2023, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 230911D (trigger 716111594 / 230911329).\n \nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 154.9, Dec = -20.9 (J2000 degrees, equivalent to J2000 +10h 19m, -20d 55'), with a statistical uncertainty of 1.0 degree.\n \nThe angle from the Fermi LAT boresight is 67 degrees.\n \nThe skymap can be found here: https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230911329/quicklook/glg_skymap_all_bn230911329.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here: https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230911329/quicklook/glg_healpix_all_bn230911329.fit\n\nThe GBM light curve can be found here: https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230911329/quicklook/glg_lc_medres34_bn230911329.gif"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP250711a: CrAO and Assy optical observations",
+  "eventId": "EP250711a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41212....1P",
+  "createdOn": 1753970962737,
+  "circularId": 41212,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), V. Rumyantsev (CrAO), V. Kim (FAI), A. Pozanenko (IKI), A. Volnova (IKI) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of a fast X-ray transient EP250711a detected by EP (Wang et. al, GCN 41078) using the 2.6-meter Shajn telescope (ZTSh) of the Crimean Astrophysical Observatory (CrAO) and the 1.5-meter AZT-20 telescope of the Assy-Turgen Astrophysical Observatory (Assy). The observations at Assy started on 2025-07-21 at 19:53:57 UT, i.e. ~10.14 days since trigger. A series of 101x60 s images in the r'-band was obtained. The observations at CrAO started on 2025-07-24 at 20:28:51 UT, i.e. ~13.17 days since trigger. A series of 61x120 s images was obtained in the R-band. In the co-add image taken by ZTSh we tentatively detect a source at the position of the optical source initially detected by NOT (Fu et. al, GCN 41071) that was also observed by COLIBRÍ (Becerra et. al, GCN 41073; Becerra, GCN 41084). The preliminary photometry is provided below:\n\nDate       UT start      t-T0      Exp.   Filter  OT    S/N      UL        Telescope\n                     (mid, days)  (n*s)                        (3sigma)\n\n2025-07-21 19:53:57    10.14828   101x60   r'     n/d   n/d      22.5      Assy/AZT-20\n2025-07-24 20:28:51    13.17980   61x120   R      23.5  2.0      23.1      CrAO/ZTSh\n\nTo calibrate both r' and R bands we used common stars of the USNO-B1.0 (R2) and the PS1 DR2 (rmag) catalogs. No correction was made for the Galactic extinction. We note that our result is fainter in comparison with the last COLIBRÍ observation (Becerra, GCN 41084) taken between 1.4192 and 1.725 days since trigger. We may suggest the source might be the host galaxy.\n\nRef. stars\nUSNO-B1.0 / PS1\nRA Dec R2 rmag\n292.1601 4.6919 16.86 17.44\n292.1451 4.7120 17.17 17.76\n292.1579 4.6937 17.98 18.76"
+}

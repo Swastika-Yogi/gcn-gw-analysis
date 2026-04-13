@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of a bright burst from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2020GCN.27631....1R",
+  "createdOn": 1587648065000,
+  "circularId": 27631,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe bright burst from SGR 1935+2154\n(CALET-GRBM detection: Cherry et al., GCN Circ. 27623;\nIPN triangulation: Hurley et al., GCN Circ. 27625)\ntriggered Konus-Wind at T0=31996.933 s UT (08:53:16.933)\non 2020 April 22.\n\nThe light curve shows a single pulse with a sharp rise\nand a total duration of ~0.6 s.\nThe emission is seen up to ~250 keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/SGRs/200422_T31996/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.15(-0.03,+0.03)x10^-5 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.072 s,\nof 2.75(-0.23,+0.23)x10^-5 erg/cm2/s\n(both in the 20 - 200 keV energy range).\n\nThe burst spectrum (measured from T0 to T0+0.256 s)\nis well fit by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.06(-0.24,+0.25)\nand Ep = 52(-2,+2) keV (chi2 = 30/25 dof).\n\nA double blackbody function fits this spectrum less well\n(chi2 = 40/24 dof), with\nthe cold BB temperature of 9.4 (-4.5,+1.9) keV and\nthe hot BB temperature of 18.9 (-3.7,+5.3) keV.\n\nAmong 17 bright bursts from SGR 1935+2154 detected by KW\nso far this event is the second most fluent (after\nthe April 12, 2015 Intermediate Flare; Kozlova et al. 2016,\nMNRAS 460, 2008) and the second most luminous (after\nthe November 5, 2019 burst; Ridnaia et al., GCN 26242).\nAlso, the spectrum of the burst is characterized by the\nhardest peak energy so far; a typical Ep(CPL) for the\nKW sample is in the 30-40 keV range.\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

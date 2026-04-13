@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150727A: Swift/UVOT Detection",
+  "eventId": "GRB 150727A",
+  "bibcode": "2015GCN.18084....1B",
+  "createdOn": 1438079928000,
+  "circularId": 18084,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and S. B. Cenko (GSFC) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150727A\n86 s after the BAT trigger (Cenko et al., GCN Circ. 18076).\nA fading source consistent with the enhanced XRT position (Osborne et \nal. GCN Circ. 18079) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  13:35:52.52 = 203.96885 (deg.)\n     Dec (J2000) = -18:19:31.3  = -18.32536 (deg.)\nwith an estimated uncertainty of 0.44 arc sec. (radius, 90% confidence).\n\nPreliminary detections in the white, u and uvw2 filters and 3-sigma \nupper limits using the UVOT photometric system (Breeveld et al. 2011, \nAIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               86          236          147         18.28 �� 0.06\nwhite              578          598           20         18.75 �� 0.24\nv                 4036         4236          197        >18.7\nb                  554          574           19        >18.5\nu                  298          548          246         18.75 �� 0.16\nm2                4241         4379          136        >19.1\nw2                3831         4031          197         19.53 �� 0.36\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening in the direction of the burst."
+}

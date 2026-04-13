@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210610A: CrAO/ZTSH optical observations",
+  "eventId": "GRB 210610A",
+  "bibcode": "2021GCN.30214....1B",
+  "createdOn": 1623450971000,
+  "circularId": 30214,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "S. Belkin (IKI, HSE), A. Pozanenko (IKI), V. Rumyantsev (CrAO),  N. \nPankov (IKI, HSE) report on behalf of IKI GRB FuN:\n\nWe observed the GRB 210610A (Page  et al., GCN  30160) with ZTSH 2.6m \ntelescope of CrAO observatory on June 10 starting on (UT) 18:29:17, and \nJune 11 starting on (UT) 18:53:09.  The optical afterglow  first \nreported by UVOT (Page  et al., GCN 30160) is clearly detected in each \nof a single images in R filter in both epochs.\nPreliminary photometry of the afterglow in the first image on June 10, \nand combined image on the June 11 is following\n\nDate       UT start   t-T0    Filter Exp.    OT      err   UL(3 sigma)\n                      (mid, days)       (s)\n\n2021-06-10 18:29:17   0.14310 R       1*60   19.47   0.12  20.7\n2021-06-11 18:53:09   1.16766 R      12*120  22.19   0.17  23.0\n\nThe photometry is based on nearby SDSS DR12 stars\nSDSS-DR12_id RA DEC B(Lupton transformation) R(Lupton transformation)\nJ133717.13+142854.9 204.32139900 +14.48192200 17.8777 17.0295\nJ133703.62+142832.7 204.26512000 +14.47576300 19.2842 17.7239\nJ133658.05+142404.4 204.24188500 +14.40123200 20.3290 18.3616\n\nThe light curve of can be found in \nhttp://grb.rssi.ru/GRB210610A/GRB210610A_LC.png\n\nInitial power law index  of the light curve in the first epoch is about \n-0.82, and it is steepening between the two epochs down to -1.03 which \nis compatible with broken power-law fit reported by D.A. Kann  et al. \n(GCN 30211)."
+}

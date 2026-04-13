@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060807: XRT Team refined analysis",
+  "eventId": "GRB 060807",
+  "bibcode": "2006GCN..5423....1P",
+  "createdOn": 1155029785000,
+  "circularId": 5423,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page, O. Godet (U. Leicester) & Max De Pasquale (UCL-MSSL) report on \nbehalf of the Swift-XRT team:\n\nWe have analysed the first 4 orbits of Swift-XRT data obtained for GRB \n060807 (trigger number 223217). All useful data were collected in Photon \nCounting mode, starting 117 seconds after the BAT trigger. Using these \nfirst 8.6 ks of data, we obtain a refined position of:\n\nRA(J2000) =   16 50 02.97\nDec(J2000) = +31 35 30.5\n\nwith an estimated uncertainty radius of 3.5 arcsec (90% containment).\n\nAnalysis of the light-curve implies that there was a steep decay at the \nstart of the observation, followed by a period of almost constant \nemission until the end of the first orbit. The data obtained for orbits \n2-4 show a decline with alpha = 1.18 +/- 0.10. \n\nA spectrum formed from all the PC data for the first 4 orbits (117 s - 18\nks after the trigger), can be modelled with a power-law of photon index\nGamma = 2.15 +/- 0.12, with an excess absorbing column of NH = (1.3 +/-\n0.3)e21 cm^-2 in addition to the Galactic value of 2.44e20 cm^-2. The mean\n0.3-10 keV observed flux for this time period is 1.02e-11 erg cm^-2 \ns^-1; the unabsorbed flux is 1.50e-11 erg cm^-2 s^-1.\n\nAssuming the light-curve continues to decay with alpha ~ 1.18, the count \nrate at 24 hours is predicted to be 0.016 count s^-1. This corresponds to \nan observed (unabsorbed) flux of 6.81e-13 (1.00e-12) erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

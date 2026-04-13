@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of a bright burst from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2016GCN.19613....1F",
+  "createdOn": 1467124157000,
+  "circularId": 19613,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe bright burst from SGR 1935+2154 (Swift detection:\nBarthelmy et al., GCN 19590; Cummings et al., GCN 19596;\nFermi/GBM detection: Younes et al., GCN 19598)\ntriggered Konus-Wind at T0=50073.909 s UT (13:54:33.909)\non 2016 June 26.\n\nThe light curve shows a single pulse with a sharp rise\nand a total duration of ~0.8 s.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/SGRs/160626_T50073/\n\nAs observed by Konus-Wind, the burst had a fluence\nof 1.28(-0.02,+0.02)x10^-5 erg/cm2, and a 16-ms peak flux,\nmeasured from T0, of 2.1(-0.1,+0.1)x10^-5 erg/cm2/s\n(both in the 20 - 200 keV energy range).\n\nThe burst spectrum (measured from T0 to T0+0.256 s)\nis well fit by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.17(-0.16,+0.16),\nand Ep = 37.5(-1.1,+1.0) keV\n(c-stat = 16.1/25 dof).\nA double blackbody function fits this spectrum equally well\n(c-stat = 17.3/26 dof), with\nthe cold BB temperature of 6.6 (-0.6,+0.6) keV and\nthe hot BB temperature of 13.9 (-0.6,+0.8) keV.\n\nThis event continues a series of about a dozen bright bursts\nfrom SGR 1935+2154 detected by Konus-Wind in May-June, 2016.\nVarying in their durations and energy fluences,\nthese bursts demonstrate spectral properties and peak\nluminosities similar to those of the 1.7s-long \"intermediate\"\nflare (IF) from this source (Kozlova et al. 2016, MNRAS 460, 2008).\n\nAll the quoted errors are at the 1 sigma confidence level.\nAll the quoted values are preliminary."
+}

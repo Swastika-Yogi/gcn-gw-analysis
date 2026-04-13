@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230322B: Swift/UVOT Detection",
+  "eventId": "GRB 230322B",
+  "bibcode": "2023GCN.33512....1O",
+  "createdOn": 1679579922000,
+  "circularId": 33512,
+  "submitter": "Samantha Oates at MSSL  <samantha.oates@alumni.ucl.ac.uk>",
+  "email": "samantha.oates@alumni.ucl.ac.uk",
+  "body": "S. R. Oates (U. of Birmingham) and S. B. Cenko (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 230322B\n119 s after the BAT trigger (Cenko et al., GCN Circ. 33505).\nA source consistent with the XRT position\n(Evans et al. GCN Circ. 33507)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  01:06:12.84 =  16.55350 (deg.)\n    Dec (J2000) = -47:42:02.8  = -47.70079 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              119          269          147         17.60 +/- 0.04\nv                  661         1061           58        >18.3\nb                  758          778           19         18.55 +/- 0.36\nu                  332          581          246         17.63 +/- 0.08\nw1                 710         1095           19         16.90 +/- 0.28\nm2                1064         1084           19         17.17 +/- 0.35\nw2                 635          655           19         17.36 +/- 0.32\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.017 in the direction of the burst\n(Schlegel et al. 1998)."
+}

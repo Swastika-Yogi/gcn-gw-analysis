@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230815B: GECAM-B and GECAM-C detection of a burst",
+  "eventId": "GRB 230815B",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34448....1X",
+  "createdOn": 1692195412518,
+  "submitter": "Yunfei Du at IHEP <duyunfei@ihep.ac.cn>",
+  "circularId": 34448,
+  "body": "Shaolin Xiong, Yanqiu Zhang, Yue Huang report on behalf of the GECAM team:\n\nGECAM-B and GECAM-C were triggered in-flight by a long burst, GRB 230815B,\nat 2023-08-15T16:07:29.150 UTC and 2023-08-15T16:07:29.350 UTC, respetively,\nwhich was also observed by INTEGRAL/SPI-ACS and Konus-Wind.\n\nAccording to the realtime alert data of GECAM-B and GECAM-C, this burst\nmainly consists of a bright short pulse followed by a broad pulse with\na total duration (T90) of about ~30 sec (15-1000 keV).\n\nUsing the automatic on-ground localization pipeline with the realtime alert data, \nGECAM-B localized this burst to the following position (J2000): \nRA: 325.9 deg \nDEC: 13.2 deg\nErr: 5.1 deg (1-sigma, statistical only)\nThe systematic error of this location is estimated to be several degrees.\n\nThe time-averaged spectrum of GECAM-B realtime data shows that it could be\nadequately fit by a Band function with a fluence about 1.6E-5 erg/cm^2 in 20-1000 keV. \n\nWe note that these results are based on realtime alert data and thus very preliminary. \nRefined analysis will be reported later.\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor\n(GECAM) mission originally consists of two microsatellites (GECAM-A and GECAM-B)\nlaunched in Dec. 2020. As the third member of GECAM constellation, \nGECAM-C was launched onboard SATech-01 experimental satellite in July 2022. \nGECAM mission is funded by the Chinese Academy of Sciences (CAS)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230826A: Swift detection of a burst",
+  "eventId": "GRB 230826A",
+  "submittedHow": "email",
+  "bibcode": "2023GCN.34565....1E",
+  "createdOn": 1693080963700,
+  "circularId": 34565,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "\nR. A. J. Eyles-Ferris (U Leicester), S. Dichiara (PSU),\nJ.D. Gropp (PSU), J. A. Kennea (PSU), D. M. Palmer (LANL),\nT. M. Parsotan (GSFC/UMBC/CRESSTII), M. H. Siegel (PSU) and\nA. Tohuvavohu (U Toronto) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 19:32:47 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 230826A (trigger=1187463).  Swift slewed immediately to\nthe location.  The BAT on-board calculated location is \nRA, Dec 83.012, +66.125 which is \n  RA(J2000) = 05h 32m 03s\n  Dec(J2000) = +66d 07' 30\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  Preliminary quicklook data suggests that the\nlight curve is doubly peaked with a T90 of ~50 sec and background \nsubtracted peak count rate of ~4000 counts/sec at T0+3 sec. \n\nThe XRT began observing the field at 19:34:03.7 UT, 76.7 seconds after\nthe BAT trigger. Using promptly downlinked data we find a bright,\nuncatalogued X-ray source located at RA, Dec 83.05920, 66.12506 which\nis equivalent to:\n   RA(J2000)  =  5h 32d 14.2s,\n   Dec(J2000) = 66h 07d 30.2s\nwith an uncertainty of 10.0 arcseconds (radius, 90% containment). This\nlocation is 69 arcseconds from the BAT onboard position, within the BAT\nerror circle. \n\nDue to a telemetry gap, no further information is available at\nthis time.  However a simultaneous Fermi trigger (GCN #34564) \nconfirms the GRB. \n\nBurst Advocate for this burst is R. A. J. Eyles-Ferris (raje1 AT leicester.ac.uk). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

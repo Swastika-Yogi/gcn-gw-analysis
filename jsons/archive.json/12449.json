@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111017A: Fermi GBM Detection",
+  "eventId": "GRB 111017A",
+  "bibcode": "2011GCN.12449....1J",
+  "createdOn": 1318952902000,
+  "circularId": 12449,
+  "submitter": "Peter Jenke at MSFC  <peter.a.jenke@nasa.gov>",
+  "email": "peter.a.jenke@nasa.gov",
+  "body": "Peter Jenke (MSFC/NPP)\nreport on behalf of the Fermi GBM Team:\n\n\"At 15:45:23.72 UT on 10 17 2011, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 111017A (trigger 340559125 / 111017.657).\nThere was an independent SPI-ACS detection of this burst at 15:45:27 UT.\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 8.10, DEC = -7.01 (J2000 degrees,\nequivalent to 00 h 32.4 m, -7 d 36 m), with an uncertainty\nof 1.0 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\nThe angle from the Fermi LAT boresight is 39.00 degrees.\n\nThe GBM light curve shows one main peak with emission\nextending to 1 MeV.  Moreover, this burst was\nbright enough to result in a Fermi spacecraft\nautonomous rapid repoint (ARR) maneuver.\nThe burst had a duration (T90) of about 11s (50-300 keV).\nThis single peak had an unusual symmetric form, unlike the\nusual FRED-like light curve.  The time-averaged spectrum from\nT0-0.512 s to T0+14.848 s is adequately fit by a Band function\n with Epeak =692.5 +/- 48.3 keV,\nalpha = -0.91 +/- 0.02, and beta = -2.7 +/- 0.40\n(CSTAT  1088.9 for 619 d.o.f.).\n\nThe event fluence (10-1000 keV) in this time interval is\n(2.26 +/- 0.038)E-05 erg/cm^2. The peak photon flux measured\nstarting from T0+-0.512 s in the 10-1000 keV band\nis 5.904 +/- 0.061 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

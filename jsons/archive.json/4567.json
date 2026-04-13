@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060121: Swift/UVOT upper limits",
+  "eventId": "GRB 060121",
+  "bibcode": "2006GCN..4567....1B",
+  "createdOn": 1138035625000,
+  "circularId": 4567,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aad@mssl.ucl.ac.uk>",
+  "email": "aad@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL), L. Angelini (GSFC), D. Hinshaw (GSFC-SPSYS), \nM. Carter (UCL-MSSL), N. Gehrels (GSFC) on behalf of the Swift/UVOT \nteam\n\nThe Swift UVOT instrument began observing the HETE-discovered GRB \n050121 (Arimoto et al., GCN 4550; Prigozhin et al., GCN 4551) as a \ntarget of opportunity at 01:21:28 UT on 22 January 2006 10.6 ks after \nthe burst. No new source is found at the XRT position (Mangano et al., \nGCN 4565) in coadded images from the first ToO observation, with any of \nthe filters used down to the following 5-sigma magnitude upper limits. \nNo exposures were taken in UVW1 or UVM2. These values are not corrected \nfor Galactic extinction.\n\nFilter\t     T_range(s)          Exp(s)    5sigUL(mag)\nB\t     10593-16768     1099      20.6\nV            11917-12639      712      19.4\nU            21650-22022      368      19.7\nUVW2   11003-18423      1625     21.2\nWhite    10798-17682      1099     20.7"
+}

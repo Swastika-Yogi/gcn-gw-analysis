@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190425z: Updated localization from LIGO and Virgo data",
+  "eventId": "LIGO/Virgo S190425z",
+  "bibcode": "2019GCN.24228....1L",
+  "createdOn": 1556292757000,
+  "circularId": 24228,
+  "submitter": "Leo Singer at GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have re-analyzed LIGO data around the time of the compact binary\ncoalescence (CBC) candidate S190425z (GCN 24168). Parameter\nestimation has been performed using LALInference [1] and a new sky\nmap, LALInference.fits.gz, is available for retrieval from the\nGraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190425z\n\nFor the LALInference.fits.gz skymap, the 90% credible region is 7461\ndeg2. Marginalized over the whole sky, the a posteriori luminosity\ndistance estimate is 156 +/- 41 Mpc (a posteriori mean +/- standard\ndeviation). This is the preferred sky map at this time.\n\nFor further information about analysis methodology and the contents\nof this alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n [1] Veitch et al. PRD 91, 042003 (2015)"
+}

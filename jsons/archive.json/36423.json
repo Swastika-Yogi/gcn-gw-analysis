@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240422ed: GMOS-S photometry of J-GEM24a",
+  "eventId": "LIGO/Virgo/KAGRA S240422ed",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36423....1A",
+  "createdOn": 1715385535983,
+  "submitter": "Tomas Ahumada Mena at Caltech <tahumada@caltech.edu>",
+  "circularId": 36423,
+  "body": "Tomas Ahumada (Caltech), Mansi Kasliwal (Caltech), Lei Hu (CMU), Robert Stein (Caltech), report on behalf of a larger collaboration:\n\nWe used the Gemini Multi-Object Spectrographs (GMOS) mounted at the Gemini-South Observatory to obtain r- and z-band photometry of J-GEM24a (GCN 36333). The observations started on UT 2024-05-01 23:41:06 (~8.7 days after the Subaru observations) and consisted of 6x60 sec exposures in the r-band and 10x90 sec in the z-band. We reduce the data using the DRAGONS (Labrie et al. 2019) pipeline, calibrate against Pan-STARRS sources, and similar to GCN 36337, we do not detect the source up to a 5-sigma limit of 24.5 in the r-band and 23.9 in the z-band.\n\nAdditionally, we do not detect the source on the ZTF g- and i-bands images of the field. The g-band 5-sigma limit is 20.5 mag on UT 2024-04-23 03:59:27 (~1.75 hours before the Subaru observations), while the i-band 5-sigma limit is 20 AB mag on UT 2024-04-24 04:48:32 (~21 hours after the Subaru observations). \n\nThis suggests two possibilities: either the source has faded significantly or the source is spurious. We encourage additional confirmation of the nature of the source by forced photometry at this location (RA:122.215846 deg, Dec: -24.516465 deg) by other surveys. \n\nUnfortunately, the position falls in a chip gap in the DECam images of the field, and WINTER did not cover the region.\n\nWe thank the Gemini staff for their kind cooperation. "
+}

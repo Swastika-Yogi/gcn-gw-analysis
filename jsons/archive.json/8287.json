@@ -1,0 +1,9 @@
+{
+  "subject": "Swift trigger 325707: Swift/UVOT Upper Limits",
+  "bibcode": "2008GCN..8287....1S",
+  "createdOn": 1222260780000,
+  "circularId": 8287,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and S. Immler (CRESST/GSFC/UMD) report on behalf of \nthe Swift/UVOT team:\n\nThe Swift/UVOT observed the field of the GRB candidate, BAT trigger number \n325707 (Immler et al., GCN Circ. 8285), with settled exposures starting \n78s after the trigger. We do not find any new source in the UVOT \nobservations inside the BAT error circle (Immler et al., GCN Circ. 8285) \nor anywhere in the UVOT field of view. We note that the field is very \ncrowded, and no observations were made in the white band filter due to the \npresence of a bright star in the field of view.\n\nThe 5-sigma upper limits in the UVOT photometric system (Poole et al. \n2008, MNRAS, 383, 627) for detecting a source in the first v finding chart \nexposure and subsequent co-added exposures from the first orbit of \nobservations are:\n\nFilter  T_start T_stop  Exp     Mag (5-sigma UL)\n         (s)     (s)     (s)\n================================================\nv (fc)   78      478    393.4   > 18.4\nv        599     759    40.1    > 18.4\nb        558     848    28.8    > 17.6\nu        533     833    58.5\t> 17.9\nuvw1     509     808    58.4\t> 17.5\nuvm2     484     783    58.4    > 17.3\nuvw2     574     734    58.4\t> 17.7\n\nThe values quoted above are not corrected for the expected Galactic \nextinction corresponding to a reddening of E(B-V) = 0.39 mag in the \ndirection of the burst (Schlegel et al. 1998)."
+}

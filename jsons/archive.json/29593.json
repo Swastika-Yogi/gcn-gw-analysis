@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 1035744: Swift detection of Sco X-1 due to Star Tracker loss of lock",
+  "bibcode": "2021GCN.29593....1B",
+  "createdOn": 1614908165000,
+  "circularId": 29593,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), V. D'Elia (SSDC) and N. J. Klingler (PSU)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 01:09:41 UT, the Swift Burst Alert Telescope (BAT) was triggered on a noise\nevent (trigger=1035744).  Swift did not slew due to Star Tracker\nloss of lock problems.  The BAT on-board calculated location is \nRA, Dec 244.831, -15.786, which is \n   RA(J2000)  =  16h 19m 19s\n   Dec(J2000) = -15d 47' 08\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows no signal but this is typical\nfor an image trigger and Star Tracker problems."
+}

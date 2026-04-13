@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140621A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 140621A",
+  "bibcode": "2014GCN.16519....1N",
+  "createdOn": 1404462191000,
+  "circularId": 16519,
+  "submitter": "Tetsuya Yasuda at Saitama U  <yasuda@heal.phy.saitama-u.ac.jp>",
+  "email": "yasuda@heal.phy.saitama-u.ac.jp",
+  "body": "T. Nagayoshi, M. Tashiro, Y. Terada, T. Yasuda, S. Koyama, S. Takeda,\nJ. Enomoto, S. Nakaya, T. Fujinuma, S. Matsuoka (Saitama U.),\nM. Yamauchi, N. Ohmori, R. Kinoshita (Univ. of Miyazaki),\nW. Iwakiri (RIKEN), K. Yamaoka (Nagoya U.), S. Sugita (Ehime U.), Y. Hanabata (ICRR), \nM. Ohno, K. Takaki, T. Kawano, R. Nakamura, S. Furui, Y. Fukazawa (Hiroshima U.),\nY. E. Nakagawa, M. Kokubun, T. Takahashi (ISAS/JAXA),\nY. Urata (NCU), K. Nakazawa, K. Makishima (Univ. of Tokyo)\non behalf of the Suzaku WAM team, report:\n\n\nThe long-duration GRB 140621A (IPN localization: S. Golenetskii et al., \nGCN 16444; Konus-Wind observation: S. Golenetskii et al., GCN 16445; \nFermi-GBM detection: G. Younes et al., GCN 16447; Swift-XRT observation: \nV. D'Elia et al., GCN 16449) triggered theSuzaku Wide-band All-sky Monitor \n(WAM) which covers an energy range of 50 keV - 5 MeV at 19:50:10.596 UT (=T0).\n\nThe observed light curve shows a multi-peaked structure lasting from T0 to T0+7 s \nwith a duration(T90) of about 6.135 seconds. The fluence in 100 - 1000 keV \nwas 4.96 (+0.11, -0.33) x10^-6 erg/cm^2. The 1-s peak flux measured from T0 was \n3.74 (+0.15, -0.30) photons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0 to T0+7 s \nis well fitted by a power-law with exponential cutoff model:\ndN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with \nalpha 0.87 (+0.30, -0.25), \nand Epeak 689 (+127, -93) keV (chi^2/d.o.f. = 28.3/29).\n\nAll the quoted errors are at statistical 90% confidence level, in which\nthe systematic uncertainties are not included.\n\nThe light curves for this burst will be available at:\n\n http://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

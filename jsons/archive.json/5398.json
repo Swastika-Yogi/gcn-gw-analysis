@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060805: Swift detection of a burst",
+  "eventId": "GRB 060805",
+  "bibcode": "2006GCN..5398....1Z",
+  "createdOn": 1154754783000,
+  "circularId": 5398,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "H. Z. Ziaeepour (UCL-MSSL), S. D. Barthelmy (GSFC),\nJ. R. Cummings (NASA/UMD), N. Gehrels (NASA/GSFC),\nC. Guidorzi (Univ Bicocca&INAF-OAB), J. A. Kennea (PSU),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nF. E. Marshall (NASA/GSFC), K. M. McLean (LANL/UTD),\nK. L. Page (U Leicester), M. J. Page (UCL-MSSL), D. M. Palmer (LANL)\nand T. Sakamoto (NASA/ORAU) report on behalf of the Swift Team:\n\nAt 04:47:49 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060805 (trigger=222683).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is RA,Dec 220.919, +12.592\n{14h 43m 41s, +12d 35' 32\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% containment, including systematic uncertainty). \nThe BAT light curve shows a single peak with a duration of about ~5 sec. \nThe peak count rate was ~1500 counts/sec (15-350 keV), at ~0 sec\nafter the trigger. \n\nThe XRT began taking data at 04:49:22 UT, 93 seconds after the BAT\ntrigger. Although the XRT on-board centroid algorithm did not find a\nsource in the image, ground analysis reveals a faint source at RA,\nDec 14h 43m 43.59s, +12 35 11.8 (J2000) with an uncertainty of 5.9\narcsec. \n\nUVOT took a finding chart exposure of 100 seconds with the white filter\nstarting 97 seconds after the BAT trigger. No afterglow candidate\nhas been found in the initial data products. Image catalog data are\nnot available at this time. The 8'x8' region for the list of sources\ngenerated on-board covers 100% of the BAT error circle. The list of\nsources is typically complete to about 18.0 mag. No correction has\nbeen made for the expected extinction of about 0.1 magnitudes."
+}

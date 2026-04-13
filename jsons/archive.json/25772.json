@@ -1,0 +1,10 @@
+{
+  "subject": "HAWC-190916A: Upper limits from Fermi-GBM Observations",
+  "eventId": "HAWC-190916A",
+  "bibcode": "2019GCN.25772....1W",
+  "createdOn": 1568742653000,
+  "circularId": 25772,
+  "submitter": "Joshua Wood at MSFC/Fermi-GBM  <joshua.r.wood@nasa.gov>",
+  "email": "joshua.r.wood@nasa.gov",
+  "body": "J. Wood (NASA/MSFC) reports on behalf of the Fermi GBM Team:\n\nFor HAWC-190916A, Fermi-GBM was observing the full localization region at event time.\n\nThere was no Fermi-GBM onboard trigger around the event time of HAWC-190916A (GCN 25766 and 25768). An automated, blind search for short gamma-ray bursts below the onboard triggering threshold in Fermi-GBM also identified no counterpart candidates. The GBM targeted search, the most sensitive, coherent search for GRB-like signals, was run from +/-30 s around trigger time, and also identified no counterpart candidates.\n\nWe therefore set upper limits on impulsive gamma-ray emission. Using the representative soft, normal, and hard GRB-like templates described in arXiv:1612.02395, we set the following 3 sigma flux upper limits over 10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale  Soft     Normal   Hard\n------------------------------------\n0.128 s:   1.5      2.3      4.9\n1.024 s:   0.6      0.9      1.9\n8.192 s:   0.2      0.4      0.7"
+}

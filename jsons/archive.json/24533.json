@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 190510A",
+  "eventId": "GRB 190510A",
+  "bibcode": "2019GCN.24533....1K",
+  "createdOn": 1557827727000,
+  "circularId": 24533,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 190510A\n(IPN triangulation: Kozlova et al., GCN 24497)\ntriggered Konus-Wind at T0=37156.266 s UT (10:19:16.266).\n\nThe burst light curve shows a multipeaked structure\nwhich started at T0-0.2 s and had a total duration of ~ 0.6 s.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.36(-0.29,+0.38)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.044 s,\nof 8.58(-2.57,+2.72)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the bulk of the burst emission was detected before\nthe trigger, the spectral analysis was performed using\nthe KW 3-channel light curve data.\n\nModeling the KW 3-channel time-integrated spectrum\n(from T0-0.220 s to T0+0.342 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = 0.5 (-0.54,+1.01), and Ep = 574 (-93,+105) keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB190510_T37156/\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

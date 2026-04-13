@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250702B,C,D,E/EP250702a: COLIBRÍ optical upper limit",
+  "eventId": "GRB 250702B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40918....1B",
+  "createdOn": 1751555522512,
+  "circularId": 40918,
+  "submitter": "Rosa L. Becerra at Tor Vergata, Roma <rosa.becerra@roma2.infn.it>",
+  "format": "text/plain",
+  "body": "Rosa L. Becerra (U Roma), Damien Dornic (CPPM), Margarita Pereyra (UNAM), Jean-Luc Atteia (IRAP), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Alan M. Watson (UNAM), Fredd Alvarez (UNAM), Camila Angulo (UNAM), Dalya Akl (AUS), Sarah Antier (OCA), Nathaniel R. Butler (ASU), Jean-Grégoire Ducoin (CPPM), Francis Fortin (IRAP), Leonardo García García (UNAM), Ramandeep Gill (UNAM), Noémie Globus (UNAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Ny Avo Rakotondrainibe (LAM), Benjamin Schneider (LAM) and Antonio de Ugarte Postigo (LAM):\n\nWe imaged the field of the likely ULGRB detected by Fermi/GBM (Fermi GBM Team, GCN Circ. 40883, 40885, 40886, 40890, 40891) specifically at the position of EP250702a (Cheng et al., GCN Circ. 40906) using the DDRAGO wide-field imager on the COLIBRÍ telescope. We observed from 2025-07-03 08:19 to 09:45 UTC, from 29.4 to 30.9 hours after the EP/WXT trigger (Cheng et al., GCN Circ. 40906) and obtained 64 minutes of exposure in the i filter.\n\nThe data were reduced and coadded with the COLIBRÍ pipeline and analysed with STDWeb/STDPipe (Karpov 2025). The photometry was calibrated using nearby stars from the PanSTARRS DR1 catalog, is in the AB system, and is not corrected for Galactic extinction.\n\nIn the stacked image and after performing image subtraction, we do not detect any new source at the EP/FXT source position (Cheng et al., GCN Circ. 40906) down to the following 3-sigma limit:\n\ni > 22.0\n\nThis upper limit is consistent with the one reported by GOTO (Kumar et al. GCN Circ. 40908)\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n\nCOLIBRÍ is an astronomical observatory developed and operated jointly by France (AMU, CNES and CNRS) and Mexico (UNAM and SECIHTI). It is located at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir, Baja California, Mexico.\n"
+}

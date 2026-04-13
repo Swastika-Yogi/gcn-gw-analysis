@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210321A",
+  "eventId": "GRB 210321A",
+  "bibcode": "2021GCN.29696....1F",
+  "createdOn": 1616503050000,
+  "circularId": 29696,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, A.Lysenko, D. Svinkin, A. Ridnaya,\nA. Tsvetkova,  M. Ulanov, and T. Cline, report:\n\nThe long GRB 210321A (Swift-BAT trigger #1037828, T0(BAT)= 07:13:51.023 UT:\nDichiara, et al., GCN 29677; Ukwatta, et al., GCN 29691)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in the 20-400 keV band\nreveals a ~10 sigma count rate increase over background in the interval\nfrom ~T0(BAT)-6.430 s to ~T0(BAT)+2.402 s.\n\nA fit to the KW 3-cannel waiting mode spectrum with by a power law with\nan exponential cutoff (CPL) yields alpha~-2 and doesn't constrain Ep.\nA fit with a simple power law (PL) gives a photon index of (2.19 �� 0.17), chi^2 = 0.78/ 1 dof.\nThis result is consistent with the Swift-BAT refined analysis (GCN 29691).\n\nIn the 10 keV-10 MeV band, standard for the KW spectral analysis, the total burst fluence,\nestimated from the PL model, is (1.6 �� 0.3)x10^-6 erg/cm^2,\nand the 2.944 s peak energy flux is (2.2 �� 0.4)x10^-7 erg/cm^2.\n\nAssuming the redshift z=1.487 (de Ugarte Postigo, et al., GCN 29685)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to ~9.7x10^51 erg\nand the isotropic luminosity L_iso to ~3.2x10^51 erg/s.\n\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB210321A/"
+}

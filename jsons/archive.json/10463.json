@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100302A: MASTER-Net  optical alert observations",
+  "eventId": "GRB 100302A",
+  "bibcode": "2010GCN.10463....1Y",
+  "createdOn": 1267615910000,
+  "circularId": 10463,
+  "submitter": "Vladimir Lipunov at Moscow State U/Krylov Obs  <gcncirc@observ.inetcomm.ru>",
+  "email": "gcncirc@observ.inetcomm.ru",
+  "body": "V.Yurkov, S.Sergienko, D.Varda,\nBlagoveschensk Educational State University, Blagoveschensk\n\n\nE. Gorbovskoy, V. Lipunov, V.Kornilov, A.Belinski, N.Shatskiy, N.Tyurina, \nD.Kuvshinov, P.Balanutsa, V.V.Chazov, P.V.Kortunov, A.Kuznetsov, D.Zemnukhov, \nM. Kornilov\nSternberg Astronomical Institute, Moscow State University\n\nA. Tlatov, A.V. Parhomenko, D. Dormidontov\nKislovodsk Solar Station of the Pulkovo Observatory\n\n\nV.Krushinski, I.Zalozhnih, T.Kopytova, A. Popov Ural State University, Kourovka\n\n\nK.Ivanov, S.Yazev, N.M.Budnev, E.Konstantinov, V.Lenok\nIrkutsk State University\n\n\nMASTER  robotic telescope (MASTER-Net: http://observ.pereplet.ru, 200\nmm, FOV=8 square degrees (testing telescope) and  Very Wide Field Camera \n(D=50 mm, 1000 square  degrees, 11 Mpx, 36\" per pix, mounted on telescope)\nlocated at Blagoveschensk   was responted to the  GRB 100302A (Swift Bat  alert,\n  Cummings et al, GCN CIRC 10458)   51 sec after  Notice time and  139 s \nafter the GRB time.\n\nThere is now OT in our images inside Swift XRT error box (Goad et al., GCN\nCIRC 10460).\n\n\n\nGRB_time     start UT       end UT       t_exp(s)   mlim     Coadd?\n-------------------------------------------------------------------\n\n139s          19:55:25      19:55:55       30       16.9       no\n139s-4046s    19:55:25      21:14:17     4020       18.5       68\n\n\nThe coadded image  is available at\nhttp://observ.pereplet.ru/images/GRB100302A/GRB_summ.jpg  .\nThe message may be cited.\n\nmailto: lipunov@sai.msu.ru"
+}

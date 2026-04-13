@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250806A: SVOM/ECLAIRs refined analysis",
+  "eventId": "GRB 250806A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41287....1B",
+  "createdOn": 1754659085643,
+  "circularId": 41287,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "L. Bouchet (IRAP), Y. Nourlil (CEA), S. Schanne (CEA), N. Dagoneau (CEA), J.-L. Atteia (IRAP) report on behalf of the SVOM/ECLAIRs team:\n\nWe performed further analysis of GRB 250806A (SVOM burst-id sb25080601), triggered by ECLAIRs onboard SVOM (Xie et al. GCN 41243).\n\nUsing the ECLAIRs event-by-event data downloaded through the X-band ground station, we confirm that the burst consists of a single peak, with a duration of about 20 s. The time-averaged spectrum from T0-10 s to T0+10 s (T0 = 2025-08-06T07:58:14 UTC) in the energy range 4-120 keV is best fitted by a powerlaw model with index -2.07 (-0.12, +0.12). With this model, the total flux in 4-120 keV is 1.2e-8 erg/cm^2/s. All quoted errors are at the 68% confidence level.\n\nThis prompt emission spectrum suggests that GRB 250806A is an X-Ray Flash (a low energy GRB with a soft spectrum) located at low redshift. This interpretation is consistent with the Swift/UVOT observation of the afterglow (GCN 41264) and the identification of a host galaxy candidate by NOT (GCN 41279).\n\nWe note that the calibration of SVOM/ECLAIRs is ongoing thus these results are preliminary.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC.\n\nThe SVOM/ECLAIRs point of contact for this GCN circular is: Laurent Bouchet (laurent.bouchet@irap.omp.eu).\n"
+}

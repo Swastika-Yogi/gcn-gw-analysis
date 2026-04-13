@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-BAT detection of GRB 050318",
+  "eventId": "GRB 050318",
+  "bibcode": "2005GCN..3111....1K",
+  "createdOn": 1111163788000,
+  "circularId": 3111,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), S. Barthelmy, L. Barbier (GSFC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (GSFC/UMD), C. Markwardt (GSFC/UMD), T. McMahon (Langston U.),\nP. Meszaros (PSU), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), M. Still (GSFC/USRA),\nM. Suzuki (Saitama), M. Tripicco (GSFC-SSAI) J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nAt 15:44:37 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB 050318.  The spacecraft did not automatically slew\nto the burst location because of an observing constraint.  The orbit is such\nthat we just started the approximate 6-hour gap in telemetry downlink orbits,\nso it will be ~7 hours before we get the full data set on this burst\nand can say anything more than what is available from the real-time\nTDRSS messages.\n\nUsing the time interval of the trigger of the burst (0.5 sec),\nthe ground-calculated location is RA,Dec 49.651,-46.392 (J2000)\nwith an uncertainty of 3 arcmin (radius, including a systematic uncertainty,\n90% containment).  The burst was 22 degrees off the BAT boresight (75% coding).\n\nThe burst lightcurve has 2 peaks.  The first peak is ~3 sec long with a peak\ncount rate of 4000 cnts/sec.  The second peak starts at T+25 and lasts ~15 sec\nwith a peak rate of 4500 cnts/sec (15-350 keV) ."
+}

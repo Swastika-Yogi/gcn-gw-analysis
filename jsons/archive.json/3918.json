@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050904: BAT refined analysis of partial data set",
+  "eventId": "GRB 050904",
+  "bibcode": "2005GCN..3918....1P",
+  "createdOn": 1125888372000,
+  "circularId": 3918,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "D. Palmer (LANL), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cannizzo (GSFC-UMBC), J. Cummings (GSFC/NRC), D. Hullinger (GSFC/UMD),\nE. Fenimore (LANL), N. Gehrels (GSFC), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), A. Parsons (GSFC), T. Sakamoto (GSFC/NRC),\nG. Sato (ISAS), M. Tashiro (Saitama U.), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing only a small amount of the full data set from recent telemetry\ndownlinks, we report further analysis of Swift-BAT Trigger #153514\n(Cummings, et al., GCN 3910).  Due to a large backlog in data downlinking,\nwe have only the data from T-40 to T+120 sec.  We do not expect the full\ndata set for at least another 2 days, so we are issuing this partial report.\nThe ground-analysis position is RA,Dec 13.722,14.081 {0h54m53s, 14d04'52\"}\n(J2000) with an uncertainty of 2.6 arcmin (radius, 90%, stat+sys).\nThis is 3.9 arcmin from the onboard position and 0.54 arcmin from the\nIR afterglow position reported by Haislip et al.  in GCN Circ. 3913.\n\nThis is a long burst with T90 greater than 120 sec.  The burst started\nat T+0 sec with continued emission past T+120 sec (where the downlinked\ndata stops)."
+}

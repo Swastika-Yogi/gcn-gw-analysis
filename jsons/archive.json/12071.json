@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110610A: Swift-XRT refined Analysis",
+  "eventId": "GRB 110610A",
+  "bibcode": "2011GCN.12071....1R",
+  "createdOn": 1307776864000,
+  "circularId": 12071,
+  "submitter": "Antonia Rowlinson at U.of Leicester  <bar7@star.le.ac.uk>",
+  "email": "bar7@star.le.ac.uk",
+  "body": "A. Rowlinson (U. Leicester) and F. E. Marshall (NASA/GSFC) report on\nbehalf of the Swift-XRT team:\n\nWe have analysed 9.4 ks of XRT data for GRB 110610A (Marshall  et al.\nGCN Circ. 12065), from 62 s to 24.2 ks after the  BAT trigger. The data\ncomprise 79 s in Windowed Timing (WT) mode (the first 8 s were taken\nwhile Swift was slewing) with the remainder in Photon Counting (PC)\nmode. The enhanced XRT position for this burst was given by Goad et al.\n(GCN. Circ 12069).\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=2.8 (+/-0.4). At T+174 s  the decay\nflattens to an alpha of 0.18 (+0.21, -0.32) before breaking again at\nT+984 s to a final decay with index alpha=1.33 (+0.12, -0.10).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.18 (+0.20, -0.19). The\nbest-fitting absorption column is  8.2 (+1.3, -1.2) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.3 x 10^21 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 5.1 x 10^-11 (1.2 x 10^-10) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     8.2 (+1.3, -1.2) x 10^21 cm^-2\nGalactic foreground: 1.3 x 10^21 cm^-2\nExcess significance: 11.4 sigma\nPhoton index:\t     2.18 (+0.20, -0.19)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00455155.\n\nThis circular is an official product of the Swift-XRT team."
+}

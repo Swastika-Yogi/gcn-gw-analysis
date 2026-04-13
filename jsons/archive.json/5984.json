@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 061222A",
+  "eventId": "GRB 061222A",
+  "bibcode": "2006GCN..5984....1P",
+  "createdOn": 1167229779000,
+  "circularId": 5984,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe most intense part of the long GRB 061222A (Swift-BAT trigger\n#252588; Grupe et al., GCN 5954; Tueller et al., GCN 5964)\ntriggered Konus-Wind at T0=12614.682 s UT (03:30:14.682).\nThe emission is clearly seen in the Konus-Wind data\nstarting at T-T0~-80 s.\n\nAs observed by Konus-Wind the burst had a duration of ~100 s,\nfluence 2.66(-0.23, +0.43)x10^-5 erg/cm2,\nthe 64-ms peak flux measured from T0+5.312 s\n5.65(-1.19, +1.42)x10^-6  erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe spectrum integrated over the most intense part of the burst\n(from T0 to T0+15.104 s) is well fitted (in the 20 keV - 2 MeV range)\nby GRBM (Band) model for which:\nthe low-energy photon index is alpha = -0.94(-0.13, +0.14),\nthe high energy photon index beta = -2.41(-1.21, +0.28),\nthe peak energy Ep = 283(-42, +59) keV (chi2 = 64/60 dof).\nThe fitting by a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nin the same energy range yields\nalpha = 1.02(-0.11, +0.10)\nand Ep = 324(-41, +54) keV (chi2 = 67/61 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB061222_T12614/\n\n[GCN OPS NOTE(28dec06): Per author's request, the author list\nwas added.]"
+}

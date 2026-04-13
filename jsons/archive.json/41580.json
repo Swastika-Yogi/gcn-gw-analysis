@@ -1,0 +1,11 @@
+{
+  "subject": "EP250827a: STEP/T80S Confirmation of fading optical counterpart ",
+  "eventId": "EP250827a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41580....1S",
+  "createdOn": 1756409677477,
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "circularId": 41580,
+  "format": "text/plain",
+  "body": "A. Santos (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), L. Santana-Silva (CBPF), P. Darc (CBPF), Gabriel Teixeira (CBPF), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration:\n\nWe conducted optical follow up with the T80S 0.8-m robotic telescope as part of the S-PLUS Transient Extension Program (Santos et al., 2024, MNRAS, 529, 59) targeting the fast X-ray transient EP250827a by the Einstein Probe instrument (GCN 41533).  The T80S observations started on Aug 28 06:34:09 UT (~23 hours after the trigger). We obtained imaging with exposure time 2x120s r-band and 2x150s in i-band with the T80S camera centered at the position of the optical afterglow detection reported in Levan et al., (GCN 41554); Li et al., GCN (41555); Levan et al., (GCN 41557); Lipunov et al., (GCN 41558); Gritsevich et al., (GCN 41559); An et al., (GCN 41560); Ghosh et al., GCN (41564); O’Neill et al., (GCN 41567); Pérez-Fournon et al., (GCN 41568); Passaleva et al., (GCN 41570) to EP250827a Hua et al., (GCN 41553); Ni et al., (GCN 41573) and Eyles-Ferris et al. (GCN 41576).\n\nSubtracting DECam template images from the T80S stacked frames using photpipe (Rest et al., 2005, ApJ, 634, 1103), we detect the afterglow at the previously reported position.\n\nMEAN-MJD FILTER Magnitude Uncertainty Limit (3sigma)\n60915.2823 r 21.32 0.12 22.86\n60915.2778 i 20.98 0.16 22.39\n\nThe counterpart is detected both in r and i bands. Given the time of imaging at 23.0 hr after the EP trigger and the measured magnitude, we argued the optical counterparting is fading after the rebrightening reported by Ghosh et al. (GCN 41564), confirming the fading reported by Eyles-Ferris (GCN 41576). \n\nWe acknowledge the T80S technical team with the provided support during the night."
+}

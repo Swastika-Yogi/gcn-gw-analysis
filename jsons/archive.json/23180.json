@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180824A",
+  "eventId": "GRB 180824A",
+  "bibcode": "2018GCN.23180....1T",
+  "createdOn": 1535381836000,
+  "circularId": 23180,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R.Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Lysenko, A. Kozlova and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 180824A\n(IPN triangulation: Svinkin et al., GCN 23174)\ntriggered Konus-Wind at T0=36319.887 s UT (10:05:19.887).\n\nThe burst light curve shows a double-peaked structure\nwith a total duration of ~2 s.\nThe emission is seen up to ~1.2 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.02(-0.34,+0.41)x10^-6 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+0.012 s,\nof 7.15(-3.46,+4.02)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the main pulse\n(measured from T0 to T0+0.256 s)\nis best fit in the 20 keV - 16 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith�� alpha = -0.04(-0.85,+1.65),\nand Ep = 375(-128,+267) keV (chi2 = 16/18 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180824_T36319/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130521A: Skynet/PROMPT observations",
+  "eventId": "GRB 130521A",
+  "bibcode": "2013GCN.14697....1J",
+  "createdOn": 1369275782000,
+  "circularId": 14697,
+  "submitter": "Adam S. Trotter at UNC-Chapel Hill/PROMPT/Skynet  <atrotter@physics.unc.edu>",
+  "email": "atrotter@physics.unc.edu",
+  "body": "D. James, C. Foster, P. Taylor, M. Carroll, A. Trotter, D. Reichart, A. \nLaCluyze, J. Haislip, T. Berger, H. T. Cromartie, R. Egger, A. Foster, \nN. Frank, K. Ivarsen, M. Maples, J. Moore, M. Nysewander, E. Speckhard, \nand J. A. Crain report\n\nSkynet observed the Swift/BAT localization of GRB 130521A (Pagani et \nal., GCN 14691, Swift trigger #556344) with four 16\" telescopes of the \nPROMPT array at CTIO, Chile.  Starting at 2013-05-21, 22:49:16 UT and \ncontinuing until 23:01:04 UT (t=49.2s-11.8m post-trigger), it took 66 \nexposures in the BVRI bands. We did not detect a fading afterglow within \nthe 3 arcmin radius of the Swift/BAT error circle, which was centered on \nRA 05h50m14.2s, Dec +14d27m08.6s (J2000.0).\n\nA plot of the 3-sigma limiting magnitudes in each exposure, calibrated \nto six USNO-B1/NOMAD stars in the field, is here:\nhttp://skynet.unc.edu/grb/grb130521a.png\n\nWe stacked all the images in each band and obtained 3-sigma limiting \nmagnitudes on any afterglow of:\nFilter       B       V       R       I\nMag       >18.29  >18.53  >18.13  >17.07\n\nMagnitudes are Vega magnitudes, and have not been corrected for the \nexpected line-of-sight Milky Way dust extinction E(B-V)=0.38 (Schlegel \net al. 1998).\n\nNo further Skynet observations are scheduled."
+}

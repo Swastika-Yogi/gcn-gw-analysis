@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051210: Swift detection of a burst",
+  "eventId": "GRB 051210",
+  "bibcode": "2005GCN..4315....1M",
+  "createdOn": 1134196013000,
+  "circularId": 4315,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "V. Mangano (INAF-IASS), S. Barthelmy (GSFC), D. Burrows (PSU),\nJ. Cummings (GSFC/NRC), N. Gehrels (GSFC), S. Hunsberger (PSU),\nD. Palmer (LANL), A. Parsons (GSFC)\non behalf of the Swift team:\n\nAt 05:46:21 UT, Swift-BAT triggered and located GRB 051210 (trigger=171931).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 330.197d,-57.634d {22h 00m 47s,-57d 38' 01\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe BAT light curve shows two ~1-sec peaks with a total duration of ~6 sec.\nThe peak count rate was ~2200 counts/sec (15-350 keV), at ~0 sec\nafter the trigger.\n\nXRT began observing the field at 05:47:40.40, 79.2 sec after the BAT trigger.\nOnboard centroiding found a bright fading uncatalogued X-ray source\nin the field of view at the following coordinates:\nRA(J2000):   22h 00m 41.7s\nDec(J2000):  -57d 36' 48.2\"\nWe estimate the uncertainty of this position to be 6 arcsec (radius,\n90% containment).  This position is 84 arcsec from the BAT position above.\nThe source initial flux is 9.7e-10 erg/cm2/sec.\n\nThe UVOT data products were delayed and the results will be forthcoming\nin a second Circular."
+}

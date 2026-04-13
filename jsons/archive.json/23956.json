@@ -1,0 +1,9 @@
+{
+  "subject": "Improved Fermi/GBM GRB localizations",
+  "bibcode": "2019GCN.23956....1G",
+  "createdOn": 1552384947000,
+  "circularId": 23956,
+  "submitter": "Jochen Greiner at MPI  <jcg@mpe.mpg.de>",
+  "email": "jcg@mpe.mpg.de",
+  "body": "Improved Fermi/GBM GRB localizations\n\nJ. Greiner, B. Biltzinger, F. Kunzweiler, F. Berlato, J.M. Burgess \n(all MPE Garching) report:\n\nEffective immediately, we will begin issuing GCN circulars for \nbright gamma-ray bursts triggered onboard the Gamma-Ray Burst Monitor\n(GBM) on Fermi. These GCNs will include localizations generated with \nthe BALROG scheme (Burgess et al. 2018, MNRAS 476, 1427). BALROG fits\nthe count data of the GBM detectors for spectrum and location on the \nsky simultaneously. This procedure allows us to get rid of the \n\"3.7 deg core plus 10 deg tail\" systematic error (Connaughton et al. 2015,\nApJS 216, 32). Our BALROG positions have a remaining systematic error\nof 2 deg when arriving from directions coincident with the spacecrafts\nsolar panels, and 1 deg otherwise (Berlato et al. 2019, ApJ, in press;\narXiv:1902.01082).\n\nWe plan to send GBM localizations for the about 20% brightest GBM triggers\n(with 2 sigma error radii < 10 deg), plus otherwise interesting GRBs. \nInformation on the localizations for all GRBs, including fainter ones, \nwill be logged at https://grb.mpe.mpg.de/ . The latency of these\nlocalization fits will be about 30 min. after the onboard trigger."
+}

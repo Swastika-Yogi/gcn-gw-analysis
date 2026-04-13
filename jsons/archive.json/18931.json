@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160123A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 160123A",
+  "bibcode": "2016GCN.18931....1D",
+  "createdOn": 1453585450000,
+  "circularId": 18931,
+  "submitter": "Massimiliano de Pasquale at IASF-Palermo  <m.depasquale@ucl.ac.uk>",
+  "email": "m.depasquale@ucl.ac.uk",
+  "body": "M. De Pasquale (UCL-MSSL) and D. Malesani (DARK/NBI)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160123A\n82 s after the BAT trigger (Malesani et al., GCN Circ. 18926).\nNo optical afterglow consistent with the XRT position (Beardmore et al.\nGCN Circ. 18927) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            82          231          147         >20.7\nu_FC               296          545          246         >19.9\nwhite               82         1196         1041         >21.8\nv                  626        11136         1191         >20.3\nb                  551        17792         1337         >21.4\nu                  296        17792         1563         >20.4\nw1                 675        12760         1152         >19.2\nm2                 650        12040         1160         >20.0\nw2                 601         6977          471         >21.0\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.10 in the direction of the burst\n(Schlegel et al. 1998)."
+}

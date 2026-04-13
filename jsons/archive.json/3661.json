@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050721A:  Swift-BAT refined analysis",
+  "eventId": "GRB 050721A",
+  "bibcode": "2005GCN..3661....1F",
+  "createdOn": 1121964108000,
+  "circularId": 3661,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "E. Fenimore (LANL), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), N. Gehrels (GSFC), D. Hullinger (UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nT. McMahon (Langston U), T. Mitani (ISAS), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), G. Sato (ISAS),\nM. Suzuki (Saitama), J. Tueller (GSFC), N. White (GSFC),\non behalf of the Swift/BAT team:\n\nAt 04:29:14.28 UT Swift-BAT detected GRB 050721 (trigger=146970)\n(GCN Circ 3654, A. Antonelli et al.).  This burst has been called\nGRB 050721A in some circulars, although it is so far the only bona fide\nburst of the day.  The refined BAT ground position is (RA,Dec) =\n253.452, -28.386 {16h 53m 48.5s, -28d 23' 10\"} (J2000) +- 3 arcmin\n(radius, 90% containment, stat+sys).  The partial coding was 13%.\n\nThe masked-weighted light curve shows a FRED-like structure with a\nsingle large peak starting to rise at T-5 seconds, peaking at T+3.7 seconds\nand decaying back to background levels by T+50 seconds.  The peak\nis visible in the 15-100 keV energy band, but not at higher energies.\nThe calculated T90 (15-350 keV) is 39 +- 2 sec (estimated error\nincluding systematics).\n\nThe power-law photon index of the time-averaged spectrum is 1.81 +- 0.08.\nThe fluence in the 15-350 keV band is (5.05 +- 0.25) x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+3.7 sec in the 15-350\nband is (3.4 +- 0.8) ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level."
+}

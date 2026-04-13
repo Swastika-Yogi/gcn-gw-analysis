@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220708B: Swift/BAT-GUANO arcminute localization",
+  "eventId": "GRB 220708B",
+  "bibcode": "2022GCN.32345....1T",
+  "createdOn": 1657275090000,
+  "circularId": 32345,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Aaron Tohuvavohu (U Toronto), James DeLaunay (UAlabama), Gayathri\nRaman (PSU), Jamie A. Kennea (PSU), report:\n\nSwift/BAT did not localize GRB 220708B onboard (T0:\n2022-07-08T02:06:67 UTC, CALET trig #1341281218).\n\nThe CALET notice, distributed in near real-time, triggered the Swift\nMission Operations Center operated Gamma-ray Urgent Archiver for Novel\nOpportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst\nAlert Telescope (BAT) to save 90 seconds of BAT event-mode data from\n[-45,+45] seconds around the time of the burst. All the requested\nevent mode data was delivered to the ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu,\narXiv:2111.01769), detects the burst in a 4.096 s analysis time bin\nwith a sqrt(TS) of 41.4.\nThe duration of the burst as seen by BAT is ~7 seconds.\n\nA confident arcminute localization is found with DeltaLLHOut of 150\nand a DeltaLLHPeak of 68.\n\nSee Section 9.1 and Figure 20 in the NITRATES paper for brief\ndescriptions and interpretations of sqrt(TS), DeltaLLHPeak, and\nDeltaLLHOut.\n\nThe BAT position is\nRA, Dec = 248.652, 36.338 deg which is\n   RA(J2000)  = 16h 34m 36.48s\n   Dec(J2000) = +36d 20��� 16.8���\nwith an estimated uncertainty of 5 arcmin.\n\nXRT and UVOT follow-up has been requested\nResults of follow-up observations will be reported in future circulars.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

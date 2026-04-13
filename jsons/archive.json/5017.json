@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060428B: Swift detection of a burst",
+  "eventId": "GRB 060428B",
+  "bibcode": "2006GCN..5017....1C",
+  "createdOn": 1146216690000,
+  "circularId": 5017,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Campana (INAF-OAB), S. D. Barthelmy (GSFC), D. N. Burrows (PSU),\nJ. R. Cummings (NASA/ORAU), N. Gehrels (NASA/GSFC),\nC. B. Markwardt (GSFC/UMD), K. L. Page (U Leicester),\nD. M. Palmer (LANL), P. Romano (INAF-OAB) and D. E. Vanden Berk (PSU)\nreport on behalf of the Swift Team:\n\nAt 08:54:38 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060428B (trigger=207399).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is RA,Dec 235.350,+62.010\n{15h 41m 24s,+62d 00' 36\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% containment, including systematic uncertainty).  This is\nan image trigger (128 sec), so the lightcurve does not show any significant\nactivity (as is typical). \n\nThe XRT began observing the field at 08:58:02 UT, 204 seconds after the\nBAT trigger. XRT found a bright, fading X-ray source\nlocated at RA(J2000) = 15h 41m 25.6s, Dec(J2000) = +62d 01' 25.6\", with an\nestimated uncertainty of 5.0 arcseconds (90% confidence radius). \nThis location is 51 arcseconds from the BAT on-board position, within\nthe BAT error circle. The initial flux in the 2.5s image was\n2.3e-09 erg/cm2/s (0.2-10 keV). \n\nUVOT took a finding chart exposure of 100 seconds with the White \n(160-650 nm) filter starting 212 seconds after the BAT trigger,\nand of 400 sec. with the V filter starting at 965 seconds after\nthe BAT trigger. No afterglow candidate has been found in the\ninitial data products. The 2.7'x2.7' sub-image covers 100% of\nthe XRT error circle. The 3-sigma V band upper limit is about\n19.1 mag. The 8'x8' region for the list of sources generated\non-board covers 100% of the XRT error circle. The list of sources\nis typically complete to about 18 mag. No correction has been made\nfor the expected extinction corresponding to E(B-V) of  0.01."
+}

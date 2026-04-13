@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081125: Fermi GBM detection",
+  "eventId": "GRB 081125",
+  "bibcode": "2008GCN..8553....1V",
+  "createdOn": 1227720523000,
+  "circularId": 8553,
+  "submitter": "Andreas von Kienlin at MPE  <azk@mpe.mpg.de>",
+  "email": "azk@mpe.mpg.de",
+  "body": "A. von Kienlin (MPE) and E. Bissaldi (MPE) \nreport on behalf of the Fermi GBM Team: \n\n\"At 11:53:39.00 UT on 25 November 2008, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 081125 (trigger 249306820 / 081125496).\n\nThe on-ground calculated location, using the GBM trigger \ndata, is RA = 42.3, DEC = -22.4 (J2000 degrees,\nequivalent to 02h 49m, -22d 24'), with an uncertainty\nof 1.0 degree (radius, 1-sigma containment, \nstatistical only; there is additionally a systematic\nerror which is currently estimated to be 2 to 3 degrees).\n \nThe angle from the Fermi LAT boresight is 126 degrees.\n\nThis burst was also independently detected by INTEGRAL SPI-ACS.\n\nThis GRB consists of a single peak with T90 (8-1000 keV) \nof about 15 s and T50 (8-1000 KeV) of about 4.4 s.\nSince this GRB shows strong spectral evolution we fitted \ntwo time intervals:\nThe time-averaged spectrum from T0 to T0+3.200 s is  \nbest fit by a Band function with Epeak = 221 +/- 16 keV, \nalpha = 0.14 +/- 0.09, and beta = -2.34 +/- 0.22\n(chi squared 354 for 357 d.o.f.).\nThe time-averaged spectrum from T0+3.200 s to T0+14.464 s is  \nbest fit by a power law function with an exponential\nhigh energy cutoff. The power law index is -0.27 +/- 0.06\nand the cutoff energy, parameterized as Epeak, is 257 +/- 12 keV\n(chi squared 360 for 358 d.o.f.)\n\nThe event fluence (8-1000 keV) from T0+0.003 s to T0+14.464 s is\n(4.91 +/- 0.16)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+2.176 s in the 8-1000 keV band \nis 27.0 +/- 2.7 ph/s/cm^2. \n\nThe spectral analysis results presented above are preliminary; \nfinal results will be published in the GBM GRB Catalog.\""
+}

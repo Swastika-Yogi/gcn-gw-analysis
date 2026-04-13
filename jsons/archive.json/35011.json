@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231110A: Swift-UVOT Upper Limits",
+  "eventId": "GRB 231110A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35011....1K",
+  "createdOn": 1699888222623,
+  "circularId": 35011,
+  "submitter": "N. Klingler at NASA-GSFC/UMBC/CRESST II <noelklingler@gmail.com>",
+  "body": "Swift-UVOT has performed follow-up observations of the Swift-BAT-detected burst GRB 231110A (Kennea et al. GCN 34977), collecting 2.8 ks of observations between T0+8.80 ks and T0+27.45 ks.  No source was detected in the UVOT data at the position of the X-ray source reported by Evans et al. (GCN 34986).\n\n3-sigma upper limits (AB) using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) are:\n\nFilter      T_start(s)      T_stop(s)      Exp(s)       Mag\nV\t\t 8893\t\t 9216\t   314.67\t>19.55\nB\t\t14638\t\t15545\t   881.77\t>21.00\nU\t\t26828\t\t27450\t   604.93\t>21.67\nW1\t\t25992\t\t26822\t   885.58\t>21.76\nwhite\t\t15545\t\t15695\t   147.43\t>21.68\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.198 in the direction of the burst (Schlegel et al. 1998)."
+}

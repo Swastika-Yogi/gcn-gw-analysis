@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160327A: KAIT optical afterglow confirmation",
+  "eventId": "GRB 160327A",
+  "bibcode": "2016GCN.19242....1Z",
+  "createdOn": 1459193800000,
+  "circularId": 19242,
+  "submitter": "Weikang Zheng at UC Berkeley  <weikang@berkeley.edu>",
+  "email": "weikang@berkeley.edu",
+  "body": "WeiKang Zheng and Alexei V. Filippenko (UC Berkeley) report\non behalf of the KAIT GRB team:\n\nThe 0.76-m Katzman Automatic Imaging Telescope (KAIT), located at\nLick Observatory, responded to Swift GRB 151027A (Racusin et al.,\nGCN 19235) starting at 09:17:37 UT, 90 s after the burst under\nfair condition. Observations were performed with an automatic \nsequence in the clear (roughly R), V, and I filters, and the \nexposure time was 20 s per image.  \n\nThe afterglow reported by Golkhou et al. (GCN 19236) was not detected\nin any of our single images, however, it is detected in the\nco-added images in both clear and I band, except V band. We report\nthe follow detection magnitude or upper limit:\n\nFilter   co-add      Mid-time  Detection_Mag    Upper_limit\n       \nclear    20s x 10     549s      19.8 +/- 0.3    -\nclear    20s x 10    1495s      20.2 +/- 0.4    -\nclear    20s x 10    2162s            -         20.0\nI        20s x 10     615s      18.1 +/- 0.2    -\nI        20s x 10    1541s      18.8 +/- 0.4    -\nI        20s x 10    2195s            -         18.7\nV        20s x 15     781s            -         18.9\n\n[GCN OPS NOTE(30mar16): Per author's request, the second reference\nwas changed from Zach to Golkhou.]"
+}

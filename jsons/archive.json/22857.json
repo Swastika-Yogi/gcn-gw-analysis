@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180626A: Swift/UVOT Detection",
+  "eventId": "GRB 180626A",
+  "bibcode": "2018GCN.22857....1B",
+  "createdOn": 1530026576000,
+  "circularId": 22857,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and P. A. Evans (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180626A \n123 s after the BAT trigger (Evans et al., GCN Circ. 22850).\nA fading source consistent with the XRT position (Osborne et al. GCN \nCirc. 22852) and also seen by Martone et al. (GCN Circ. 22854) and Troja \net al. (GCN Circ. 22855) is detected in the initial UVOT exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT \nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for \nthe finding chart (FC) and early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC           123          273          147         20.57 �� 0.22\nwhite              633         1033          190        >21.4\nv                  665         6473          452        >20.2\nb                  591         5858          246        >20.4\nu                  336         6936          529        >20.7\nw1                 714         6882          432        >21.0\nm2                5043         6677          393        >20.1\nw2                 641         6268          432        >21.3\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.04 in the direction of the \nburst (Schlegel et al. 1998)."
+}

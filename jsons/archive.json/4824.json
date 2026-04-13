@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060223a: Swift/UVOT refined analysis",
+  "eventId": "GRB 060223A",
+  "bibcode": "2006GCN..4824....1B",
+  "createdOn": 1140746559000,
+  "circularId": 4824,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), J. R. Cummings (NASA/ORAU) report on\nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 060223a 72 s\nafter the BAT trigger, detecting a red afterglow (Cummings\net al., GCN 4813; Marshall et al., GCN 4814). Analysis of a more\ncomplete dataset shows that V was the only band to yield a\nsignificant detection of the afterglow, as to be expected given\nthe redshift of the burst (z=4.41; Berger et al., GCN 4815).\nThe magnitudes and 3-sigma upper limits from all filters are\nlisted below.\n\nFilter  T_range (MET)  Exp (s)  Mag/3sigUL\n\nV       72-81          9        17.7 +/- 0.4\nV       85-285         200      17.8 +/- 0.1\nV       545-1034       239      19.4 +/- 0.3\nV       1294-11097     512      >19.6\n\nB       292-492        200      >20.2\nB       641-7249       731      >20.9\n\nU       616-7044       532      >20.4\nUVW1    593-6839       355      >20.4\nUVM2    569-6634       355      >20.9\nUVW2    521-10892      580      >21.1\n\nThese are uncorrected for the estimated Galactic extinction\ncorresponding to E(B-V) = 0.12"
+}

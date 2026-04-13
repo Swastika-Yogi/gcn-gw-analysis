@@ -1,0 +1,9 @@
+{
+  "subject": "BATSE Resumes Normal Operations",
+  "bibcode": "1999GCN...265....1M",
+  "createdOn": 919783488000,
+  "circularId": 265,
+  "submitter": "Charles Meegan at NASA/MSFC  <charles.meegan@msfc.nasa.gov>",
+  "email": "charles.meegan@msfc.nasa.gov",
+  "body": "Chip Meegan and the BATSE team (MSFC) report:\n\nYesterday's anomaly (GCN 264) has now been repaired.  As expected,\nit was caused by a single event upset in the area of the program\nthat calculates the average background rate.  The symptoms are consistent\nwith the error.  Only the burst triggers, the average rates and\ntrigger thresholds in the HER auxiliary data are invalid.  The time interval\nwhen the memory was corrupted is 99/02/22 06:56:26 to 99/02/23 13:3108 UT.\nAll triggers during this interval are invalid.\n\nNormal BATSE operations have resumed and all triggers are valid and suitable\nfor resumed burst follow-up activities."
+}

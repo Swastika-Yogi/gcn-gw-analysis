@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240910A: Fermi GBM Observation",
+  "eventId": "GRB 240910A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37464....1G",
+  "createdOn": 1726106119392,
+  "submitter": "Matt Godwin <msg0028@uah.edu>",
+  "circularId": 37464,
+  "format": "text/plain",
+  "body": "M. Godwin (UAH) reports on behalf of the Fermi GBM Team:\n\n\"At 04:00:44.21 UT on 10 September 2024, the Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 240910A (trigger 747633649 / 240910167) which was also detected by the \nSwift/BAT (A. D'ai et al. 2024, GCN 37461) and GOTO (Julakanti et al., 2024, GCN 37459).\nThe GBM on-ground location is consistent with the Swift position.\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 101 degrees.\n\n\nThe GBM light curve consists of multiple peaks with a duration (T90)\nof about 272 s (50-300 keV). The time-averaged spectrum\nfrom T0+0 to T0+272.4 s is best fit by\na power law function with an exponential high-energy cutoff.\nThe power law index is -1.23 +/- 0.05 and the cutoff energy,\nparameterized as Epeak, is 125 +/- 9 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.911 +/- 0.073)E-05 erg/cm^2. The 1s peak photon flux measured\nstarting from T0+86.1s in the 10-1000 keV band is 6.1 +/- 0.3 ph/s/cm^2.\n\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

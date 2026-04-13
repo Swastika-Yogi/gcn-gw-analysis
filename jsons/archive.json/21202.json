@@ -1,0 +1,9 @@
+{
+  "subject": "Swift trigger 755873: Swift BAT and XRT refined analysis",
+  "bibcode": "2017GCN.21202....1B",
+  "createdOn": 1496675573000,
+  "circularId": 21202,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), N. P. M. Kuin (UCL-MSSL),\nA. Y. Lien (GSFC/UMBC), K. L. Page (U Leicester),\nand D. M. Palmer (LANL) report on behalf of the Swift team:\n\nWe report further analysis of the Swift/BAT trigger #755873 (Page et al.,\nGCN Circ. 21193) using data from the recent telemetry downlink.\n\nThe BAT ground analysis uses the data set from T-240 to T+962 sec.\nThe BAT image significance is only 1.9 sigma. Also, the mask-weighted\nlight curve does not show anything significant.\n\nXRT collected 4.5 ks of Photon Counting mode data between 134 s and 13.1\nks after the BAT trigger. No X-ray was detected within the 90% BAT error\ncircle, to an 3-sigma upper limit of 3.1x10^-3 count s^-1.\n\nWe therefore conclude that this trigger is due to noise fluctuation.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/755873/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070328: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070328",
+  "bibcode": "2007GCN..6229....1M",
+  "createdOn": 1175113093000,
+  "circularId": 6229,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and C.B. Markwardt (GSFC/UMD) report \non behalf of the Swift UVOT team:\n\n      Swift/UVOT began its initial finding chart exposure of the \nfield of GRB 070328 (Markwardt et al. 2007, GCN Circ. 6224) \n98 s after the Swift/BAT trigger. No afterglow candidate is seen \nin the refined XRT error region (Evans et al. 2007, GCN Circ. 6227)\nin any of the early UVOT exposures. Three-sigma upper limits\nfor the initial finding chart exposure and for the total exposure\nfor each of the UVOT filters are provided below. The times\nin the table are from the Swift/BAT trigger.\n\n  Filter  t_start(s)  t_stop(s)  Exp(s)  Mag 3-sig UL\n\n   WHITE      98        198       98        19.6\n   WHITE      98       6984      567        21.1\n     V        79      11988     1721        20.7\n     B       682       6823      397        20.8\n     U       657       6619      429        20.4\n   UVW1      634       6414      432        20.7\n   UVM2      609      12770     1197        21.6\n   UVW2      711      11076     1101        21.5\n\nThese upper limits are not corrected for extinction.\nThe Galactic reddening in the direction of the burst is \nE_{B-V} = 0.04 mag (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231122A: GECAM detection",
+  "eventId": "GRB 231122A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35158....1W",
+  "createdOn": 1700671217479,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 35158,
+  "body": "Chen-Wei Wang, Shao-Lin Xiong report on behalf of the GECAM team:\nGECAM-C was triggered in-flight by a long burst, GRB 231122A \nat 2023-11-22T12:44:26.350 UTC (denoted as T0), \nwhich was also detected by Fermi/GBM (GCN #35156).\n\nAccording to the realtime alert data of GECAM-C, this burst mainly consists of many pulses\nwith a duration of about 50 s. The time-averaged spectrum from T0 to T0+4 s \ncould be adequately fit by a power law with high energy exponential cutoff function \nwith a fluence of about 6.8E-6 erg/cm2 in 20-1000 keV.\n\nUsing the automatic on-ground localization pipeline with the realtime alert data, \nGECAM-C localized this burst to the following position (J2000): \nRa: 106.1 deg \nDec: -7.8 deg\nErr: 14.2 deg (1-sigma, statistical only)\nGECAM location is consistent with that of Fermi/GBM within the error.\nWe note that this analysis is based on realtime alert data and thus very preliminary.\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor\n(GECAM) mission originally consists of two micro-satellites (GECAM-A and GECAM-B)\nlaunched in Dec. 2020. As the third member of GECAM constellation, \nGECAM-C was launched onboard SATech-01 experimental satellite in July 2022. \nGECAM mission is funded by the Chinese Academy of Sciences (CAS)."
+}

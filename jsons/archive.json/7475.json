@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080319C: KAIT OA observations",
+  "eventId": "GRB 080319C",
+  "bibcode": "2008GCN..7475....1L",
+  "createdOn": 1205991821000,
+  "circularId": 7475,
+  "submitter": "Weidong Li at UC Berkeley KAIT/LOSS  <weidong@astron.berkeley.edu>",
+  "email": "weidong@astron.berkeley.edu",
+  "body": "W. Li and A. V. Filippenko, University of California, Berkeley,\nreport on behalf of the KAIT GRB team:\n\nWe have analyzed the KAIT observations of the optical afterglow (OA) of GRB\n080319C (GCN 7442, GCN 7460) as reported in GCN 7441. Our first 5 s unfiltered\nobservation started at 12:27:11 UT, 75 s after the BAT trigger. Four subsequent\n5 s exposures from t = 81 s to 100 s indicate a smoothly decaying behavior (but\nperhaps not power law). After reaching a minimum at t = 180 s (or perhaps a bit\nearlier), the OA brightened steeply to a second prominent peak centered at t ~\n320 s, after which the OA decayed as an approximate power law, with evidence\nfor a gradually steepening decay index. Selected photometry, all unfiltered but\ncalibrated to the R band via USNO B1:\n\n  t_start (s) exp (s)    mag  mag_err\n\n          75    5.0      17.353 0.057 \n         100    5.0      17.71  0.062 \n         180   20.0      17.95  0.051\n         271   20.0      17.322 0.022\n         362   20.0      17.32  0.023 \n         453   20.0      17.487 0.027\n         845   20.0      18.06  0.048 \n        1429   20.0      18.866 0.096"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080515: Swift detection of a burst",
+  "eventId": "GRB 080515",
+  "bibcode": "2008GCN..7721....1H",
+  "createdOn": 1210832368000,
+  "circularId": 7721,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC), A. P. Beardmore (U Leicester),\nP. A. Evans (U Leicester), E. A. Hoversten (PSU),\nH. A. Krimm (CRESST/GSFC/USRA), C. B. Markwardt (CRESST/GSFC/UMD),\nP. T. O'Brien (U Leicester), K. L. Page (U Leicester),\nD. M. Palmer (LANL) and R. L. C. Starling (U Leicester) report on\nbehalf of the Swift Team:\n\nAt 06:01:13 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 080515 (trigger=311658).  Swift could not slew to the burst\ndue to Sun constraint.  The BAT on-board calculated location is \nRA, Dec 3.150, +32.599 which is \n   RA(J2000) = 00h 12m 36s\n   Dec(J2000) = +32d 35' 57\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve from TDRSS was \ntruncated by the beginning of a Malindi downlink and\nis further complicated as we were coming out of the SAA at the time, but\nshows activity from the trigger time to the end of available data\nat T+8s, with a peak count rate of ~500 counts/s (15-350 keV). \n\nThis burst is only 45.9 degrees from the Sun, so there will be no prompt \nXRT or UVOT data. The field will be outside the Swift Sun observing \nconstraint tomorrow. \n\nBurst Advocate for this burst is S. T. Holland (sholland AT milkyway.gsfc.nasa.gov). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/too.html.)"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070724, Swift-BAT refined analysis of a short burst",
+  "eventId": "GRB 070724",
+  "bibcode": "2007GCN..6656....1P",
+  "createdOn": 1185291064000,
+  "circularId": 6656,
+  "submitter": "Ann M. Parsons at NASA/GSFC/Swift  <parsons@milkyway.gsfc.nasa.gov>",
+  "email": "parsons@milkyway.gsfc.nasa.gov",
+  "body": "A. Parsons (GSFC), L. Barbier (GSFC), S.D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL),\nN. Gehrels (GSFC), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\nT. Ukwatta (GWU), H. Ziaeepour (UCL-MSSL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-310 to T+ 310 sec from the recent\ntelemetry downlink, we report further analysis of BAT GRB 070724\n(trigger #285948) (Ziaeepour, et al., GCN Circ. 6654).  The BAT\nground-calculated position is RA, Dec = 27.824, -18.610 deg which is\n    RA(J2000) = 1h 51m 17.9s\n    Dec(J2000) = -18d 36' 35\"\nwith an uncertainty of 2.3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 91%.\n\nThe mask-weighted light curve for GRB 070724 consists of a single spike\npeaking at  T+0.2 sec.  Upon inspection of the mask weighted light curve\nout to T + 310 sec we find no evidence for extended emission.\nT90 (15-350 keV) is 0.4 +- 0.04 sec (estimated error including\nsystematics).\n\nThe time-averaged spectrum from T-0.0 to T+0.4 sec is best fit by\na simple power-law model. The power law index of the time-averaged\nspectrum is 1.81 +- 0.33. The fluence in the 15-150 keV band is\n3.0 +- 0.7 x 10^-08 erg/cm2. The 1-sec peak photon flux measured\nfrom T-0.30 sec in the 15-150 keV band is 1.0 +- 0.2 ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level."
+}

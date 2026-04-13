@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250920B: AbAO optical upper limits",
+  "eventId": "GRB 250920B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41958....1P",
+  "createdOn": 1758663133505,
+  "circularId": 41958,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), A. Moskvitin (SAO RAS), R. Ya. Inasaridze (AbAO) report on behalf of GRB-IKI-FuN:\n\nWe observed the field of a long GRB 250920B detected by Fermi/GBM (The Fermi GBM team GCN 41897), Swift (Gupta et. al, GCN 41898), with the AS-32 0.7m telescope of AbAO. We obtained two series of images in the R band on epochs 2025-09-22 and 2025-09-23 (~2.3 and ~3.3 days since trigger, respectively). The optical afterglow initially detected by Swift/UVOT (Gupta et. al, GCN 41898) and further observed by (WU et. al, GCN 41908; Hall et. al, GCN 41914; Pankov et. al, GCN 41931; Reguitti et. al, GCN 41932; Moskvitin et. al, GCN 41948; Pankov et. al, GCN 41953) is not detected in the stacked images of both epochs. Preliminary upper limits are as follows:\n\nDate       UTstart  Exptime    t-T0      Filter OT   Err.    UL\n                     (nxs)     (mid, days)                  (3sigma)\n2025-09-22 16:09:15  20x2+97x30 2.32458    R    n/d  n/d     20.3\n2025-09-23 16:04:34  153*30     3.33076    R    n/d  n/d     20.3\n\nThe photometry was calibrated against nearby PS1 DR2 stars (R-mags obtained via Lupton 2005 transformations) and not corrected for the Galactic extinction.\n\nRef. stars\nPS1 DR2 (Lupton 2005)\nRA Dec R R_err\n187.24325 47.82521 15.134 0.007\n187.41433 47.78151 14.974 0.008"
+}

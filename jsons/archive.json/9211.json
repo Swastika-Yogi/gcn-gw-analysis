@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090418A Rc-band photometry",
+  "eventId": "GRB 090418A",
+  "bibcode": "2009GCN..9211....1H",
+  "createdOn": 1240513424000,
+  "circularId": 9211,
+  "submitter": "Arne A. Henden at AAVSO  <arne@aavso.org>",
+  "email": "arne@aavso.org",
+  "body": "A. Henden (AAVSO), J. Gross (SRO), B. Denny (DC-3),\nD. Terrell (SwRI), and W. Cooney (SRO) report:\n\nWe obtained photometry of the GRB090418A afterglow\nreported by Chornock et al. (GCN 9148) using the Sonoita\nResearch Observatory (SRO) 35cm telescope in southern\nArizona, utilizing an automatic VOevent trigger.  The\nRc-band exposures began about 2 minutes after the burst\nand continued until twilight.  Ten 60-second and five\n180-second exposures were acquired.\n\nAstrometry of the afterglow from several images and\nusing UCAC as the reference catalog yields coordinates:\n17:57:15.151 +33:24:20.93 J2000 (+/- 50mas)\n\nPhotometry, assuming that the star at\n17:57:42.53 +33:25:47.2\nhas an R magnitude of 13.12\n\nUT(mid)  delT  exp  Rc      err\n11.1728   162  60  15.802  0.044\n11.1919   231  60  16.185  0.048\n11.2111   300  60  16.500  0.043\n11.2303   369  60  16.818  0.058\n11.2494   438  60  17.019  0.066\n11.2686   507  60  17.249  0.067\n11.2878   576  60  17.440  0.063\n11.3069   645  60  17.605  0.105\n11.3261   714  60  17.680  0.089\n11.3450   782  60  17.855  0.115\n11.3958   965 180  18.007  0.104\n11.6522  1888 180  18.778  0.129\n11.7067  2084 180  18.919  0.138\n11.7592  2273 180  18.960  0.142\n11.8114  2461 180  18.891  0.196\n\nWhere delT is the time in seconds from the burst (Mangano et al.,\nGCN 9149), and the exposure is in seconds. The optical afterglow\ncandidate is in the filter reflection halo from HD163948,\na 6.9mag star about 2arcmin distant, so the last\nfew magnitudes may have a systematic bias.\n\nWe note that this field was not calibrated by SDSS through DR6.\nWe will perform a BVRI calibration over the next few nights."
+}

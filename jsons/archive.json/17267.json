@@ -1,0 +1,9 @@
+{
+  "subject": "Short burst found in ground analysis of Swift-BAT data",
+  "bibcode": "2015GCN.17267....1C",
+  "createdOn": 1420242181000,
+  "circularId": 17267,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings reports on behalf of the Swift-BAT science team:\n\nA short burst occurred during a Swift slew at 15:23 on Jan 1, 2015.  It\ntriggered Fermi GBM, trigger number 441818617.  A significant source was\nfound in ground analysis of BAT slew data at RA, Dec 188.044, -10.956,\nwhich is\n\n   RA (J2000) 12h 32m 10.5s\n   Dec (J2000) -10d 57' 21\"\n\nwith an estimated 90% containment radius of 2.5 arcmin.\n\nThe lightcurve shows a single peak with a T90 of 0.018 +- 0.006 seconds.\nThere appears to be significant spectral lag.\n\nThe spectrum seen in BAT is soft.  The best fit function is a blackbody\nspectrum with kT = 9.6 +- 1.5 keV.  A simple powerlaw fit has a photon\nindex of 3.3 +- 0.5.  The blackbody fit gives a fluence between 15-150 keV\nin 0.1 seconds of (2.3 +- 0.6) x 10^-8 ergs/cm^2.  Errors are 90%\nconfidence.\n\nA Swift TOO request has been submitted in order to determine the nature\nof the source."
+}

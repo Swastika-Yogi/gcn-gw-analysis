@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080604: Swift-XRT refined analysis",
+  "eventId": "GRB 080604",
+  "bibcode": "2008GCN..7816....1L",
+  "createdOn": 1212602128000,
+  "circularId": 7816,
+  "submitter": "Valentina La Parola at INAF-IASPA  <laparola@ifc.inaf.it>",
+  "email": "laparola@ifc.inaf.it",
+  "body": "V. La Parola, B. Sbarufatti, V. Mangano (INAF-IASF Pa) report on behalf\nof the Swift-XRT team\n\nThe Swift-XRT observed GRB 080604 (trigger 313116, La Parola et\nal. GCN Circ 7800) for 6.3 ksec, starting 119.3 seconds after\nthe BAT trigger.\n\nWe detect an X-ray counterpart at the position\n(astrometrically corrected using the XRT-UVOT alignment and matching UVOT field sources to the USNO-B1 catalogue): RA, Dec = 236.96516, +20.55777 which is equivalent to:\n\nRA (J2000): 15h 47m 51.64s\nDec (J2000): +20d 33' 28.0\"\n\nwith an uncertainty of 1.7 arcsec (radius, 90% confidence).\n\nThe X-ray light curve shows a power law decay with slope -2.18 +/-0.06, with a hint of a flare at ~T+1000 s.\n\nThe spectrum accumulated over the whole observation can be modelled with an absorbed powerlaw with the following parameters (Galactic nH is\n4.0e20cm**-2):\n\nnH = (8 +/- 4)e20 cm**-2\nGamma= 1.8 +/- 0.2\nFlux (0.3-10 keV) 4.18E-12 ergs cm**-2 s**-1\nUnabsorbed Flux (0.3-10 keV) = 4.9E-12 ergs cm**-2 s**-1\n\nThe predicted XRT count rate after 24 hours from the burst is 1.5e-5\ncounts/s\n\nThis circular is an official product of the Swift-XRT team.\n\nI.A.S.F.   INAF   Mailing System\nOutgoing mail is certified Virus Free.\nChecked by McAfee anti-virus system"
+}

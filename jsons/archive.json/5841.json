@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 061122",
+  "eventId": "GRB 061122",
+  "bibcode": "2006GCN..5841....1G",
+  "createdOn": 1164226522000,
+  "circularId": 5841,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long bright GRB 061122 (Mereghetti et al., GCN 5834, 5836)\ntriggered Konus-Wind at 28608.132 s UT (07:56:48.132).\n\nAs observed by Konus-Wind it had a duration of ~10 s,\nfluence 2.31(-0.12, +0.05)x10^-5 erg/cm2,\nthe 64-ms peak flux measured from T0+3.104 s\n8.81(-1.05, +0.83)x10^-6  erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the GRB\n(from T0 to T0+12.032 s) is well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nwith alpha = 1.03 (-0.07, +0.06)\nand Ep = 160 (-7, +8) keV (chi2 = 64/62 dof).\nThe fitting by GRBM (band) model yields only an upper limit on\nhigh energy photon index: beta < -3.31.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB061122_T28608/"
+}

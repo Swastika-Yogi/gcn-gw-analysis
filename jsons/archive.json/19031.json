@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 674752 is likely a noise fluctuation in the direction of IGR17488-3253",
+  "bibcode": "2016GCN.19031....1L",
+  "createdOn": 1455977006000,
+  "circularId": 19031,
+  "submitter": "Kim Page at U.of Leicester  <klp5@leicester.ac.uk>",
+  "email": "klp5@leicester.ac.uk",
+  "body": "A. Y. Lien (GSFC/UMBC), D. Malesani (DARK/NBI) and\nK. L. Page (U Leicester) report on behalf of the Swift Team:\n\nAt 13:34:56 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a possible source near IGR17488-3253 (trigger=674752). \nSwift will not slew to the source as the ongoing observations of\nGRB 160220B have a higher priority. \nThe BAT on-board calculated location is \nRA, Dec 267.196, -32.939 which is \n   RA(J2000) = 17h 48m 47s\n   Dec(J2000) = -32d 56' 20\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for image triggers, there is nothing\nsignificant in the real-time TDRSS light curve. \n\nWe note that this is a low significance trigger (5.9 sigma), part of\nthe sub-threshold program within BAT. Given that we lack XRT data, we\ncannot at present confirm that the source is real. We will have to\nwait until the full BAT dataset is transferred to ground to establish\nthe reality of this trigger."
+}

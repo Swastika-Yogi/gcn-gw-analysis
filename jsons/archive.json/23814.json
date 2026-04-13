@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190129B: GROND possible host candidate",
+  "eventId": "GRB 190129B",
+  "bibcode": "2019GCN.23814....1B",
+  "createdOn": 1548840629000,
+  "circularId": 23814,
+  "submitter": "Jan Bolmer at MPE/Garching  <jan@bolmer.de>",
+  "email": "jan@bolmer.de",
+  "body": "J. Bolmer (MPE, Garching) and H. Steinle report:\n\nWe observed the field of the extremely bright GRB 190129B (detected by Konus-Wind, INTEGRAL,\nand Mars-Odyssey; Hurley et al., GCN #23808) simultaneously in g'r'i'z'JHK with GROND\n(Greiner et al. 2008, PASP 120, 405) mounted at the 2.2 m MPG telescope at the ESO\nLa Silla Observatory (Chile).\n\nObservations started at 07:38 UT on 30th January, around 19.5 hours after the GRB trigger.\nThey were performed at an average seeing of 1.8\" and at an average airmass of 2.1. \n\nWe found a faint source at the edge of the XRT error circle reported by LaPorte et al.\n(GCN #23813) at:\n\nRA (J2000.0) = 07:49:50.81\nDEC (J2000.0) = +00:56:03.8\n\nwith an uncertainty of 1.5\" in each coordinate.\n\nThis source is already visible in the the PanSTARRS images and might\ntherefore be the host or an unrelated foreground galaxy.\n\nBased on 7.7 min of exposure in g'r'i'z', and 8.0 min in JHK, we report the\nfollowing preliminary AB magnitudes:  \n\ng < 23.0 mag\nr = 22.7 +/- 0.3 mag\ni = 21.8 +/- 0.3 mag\nz = 21.7 +/- 0.4 mag\nJ = 20.4 +/- 0.4 mag\nH = 19.1 +/- 0.2 mag\nK = 19.0 +/- 0.4 mag\n\nThe above magnitudes are calibrated against SDSS and 2MASS and are not corrected\nfor the expected Galactic foreground extinction corresponding to a reddening\nof E_(B-V)=0.08 in the direction of the burst (Schlafly & Finkbeiner 2011)."
+}

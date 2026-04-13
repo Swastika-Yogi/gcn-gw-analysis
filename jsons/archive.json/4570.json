@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060124: Swift-BAT detection of a burst",
+  "eventId": "GRB 060124",
+  "bibcode": "2006GCN..4570....1H",
+  "createdOn": 1138120037000,
+  "circularId": 4570,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "S. T. Holland (GSFC/USRA), S. Barthelmy (GSFC), D. N. Burrows (PSU),\nN. Gehrels (GSFC), S. Hunsberger (PSU), J. Kennea (PSU),\nV. La Parola (INAF-IASF/Palermo), C. Markwardt (GSFC/UMD),\nK. Page (U Leicester), D. Palmer (LANL), and\nT. Sakamoto (GSFC) report on behalf of the Swift team:\n\nAt 15:54:52 UT, Swift-BAT triggered and located GRB 060124 (trigger=178750).\nThe spacecraft slewed immediately. The BAT on-board calculated location is\nRA,Dec 77.043d,+69.709d {05h 08m 10s,+69d 42' 33\"} (J2000), with an \nuncertainty\nof 3 arcmin (radius, 90% containment, stat+sys).  The BAT light curve shows an\n~30-sec duration with at least two peaks.  The peak count rate was ~1700 \ncounts/sec\n(15-350 keV) at the trigger time.\n\nXRT began observing the field at 15:56:38, 106 sec after the BAT trigger.\nNo source was found by the onboard centroiding algorithm.  The lightcurve has a\nhint of a fading source, but more data are needed in order to assess the \npresence\nof a source in the field.\n\nNo UVOT data are available at this time."
+}

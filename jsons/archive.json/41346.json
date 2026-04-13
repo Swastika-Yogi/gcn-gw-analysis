@@ -1,0 +1,11 @@
+{
+  "subject": "GRB250812a: STEP/T80S Indication of slow decay of afterglow",
+  "eventId": "GRB 250812A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41346....1S",
+  "createdOn": 1755099090950,
+  "circularId": 41346,
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "format": "text/plain",
+  "body": "A. Santos (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), L. Santana-Silva (CBPF), P. Darc (CBPF), Gabriel Teixeira (CBPF), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration:\n\nWe conducted optical follow up with the T80S 0.8-m robotic telescope as part of the S-PLUS Transient Extension Program (Santos et al., 2024, MNRAS, 529, 59) targeting the faint, long gamma-ray burst GRB250812A discovered by the SVOM/ECLAIRs instrument (GCN 41322).  The T80S observations started on Aug 13 08:36:48 UT (~30 hours after the trigger). We obtained images totaling 600s (2x300s) in r-band and in i-band with the T80S camera centered at the position of the optical afterglow detection reported in He et al. (GCN 41324), Xin et al. (GCN 41326), Rakotondrainibe et al. (GCN 41328) and Freeberg et al. (GCN 41331). Subtracting DECam template images from the T80S individual frames using photpipe (Rest et al., 2005, ApJ, 634, 1103), we detect the afterglow at the previously reported position.\n\nMJD Filter Magnitude Uncertainty \n60900.358890 r 19.816 0.127\n60900.362940 r 19.925 0.111\n60900.366880 i 19.438 0.087\n60900.370920 i 19.589 0.094\n\nThe reported magnitudes in r and i-bands 30 hours post burst in template-subtracted images indicate a slow decay for the afterglow. We encourage further follow-up observations to better characterize the transient and the source of its optical emission.\n\nWe acknowledge the T80S technical team with the provided support during the night.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111123A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 111123A",
+  "bibcode": "2011GCN.12597....1H",
+  "createdOn": 1322167024000,
+  "circularId": 12597,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) and M. Stamatikos (OSU/NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\n     The Swift/UVOT observed the field of GRB 111123A starting 90 s\nafter the BAT trigger (Stamatikos et al., 2011, GCNC 12587).  Settled\nobservations started at 110 s.  We do not detect an optical afterglow\nat the location of the optical and near-infrared afterglow (Xu et al.,\n2011, GCNC 12589; Fugazza et al., 2011, GCNC 12593) in any of the UVOT\nfilters.  Preliminary 3-sigma upper limits for detecting a source in\nthe finding charts and in the co-added images, are\n\nFilter       TSTART       TSTOP  EXPOSURE       Mag \n---------------------------------------------------\nwhite (FC)      110         260       147     >21.2\n    u (FC)      268         518       246     >20.3\nwhite (FC)      871         934        62     >20.1\n---------------------------------------------------\n   v            598        5999       430     >20.2\n   b            524        6711       325     >20.7\n   u            268        6614       678     >20.8\nuvw1            647        6409       432     >20.6\nuvm2            622        6204       432     >20.6\nuvw2            573        5795       432     >20.9\nwhite           110        5589       445     >21.7\n---------------------------------------------------\n\n    The quoted magnitudes and upper limits have not been corrected\nfor the Galactic extinction along the line of sight to this burst of\nE_{B-V} = 0.05 mag (Schlegel et al. 1998, ApJS, 500, 525)."
+}

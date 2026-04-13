@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170210A: Fermi GBM observation",
+  "eventId": "GRB 170210A",
+  "bibcode": "2017GCN.20660....1R",
+  "createdOn": 1486749284000,
+  "circularId": 20660,
+  "submitter": "Bagrat Mailyan at UAH  <bm0054@uah.edu>",
+  "email": "bm0054@uah.edu",
+  "body": "O.J. Roberts (USRA/NASA) and B. Mailyan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 02:47:36.58 UT on February 10th 2017, the Fermi\nGamma-Ray Burst Monitor triggered and located\nGRB 170210A (trigger 508387661 / 170210116). The\non-ground calculated location using the GBM trigger\ndata is,\n\nRA = 232.56, DEC = -58.59 (J2000 degrees), equivalent to\nJ2000 15h 30m, -58d 35',\n\nwith an uncertainty of 1 degree (radius, 1-sigma\ncontainment, statistical only; there is additionally\na systematic error which we have characterized as a\ncore-plus-tail model, with 90% of GRBs having a 3.7 deg.\nerror and a small tail suffering a larger than 10 deg.\nsystematic error [Connaughton et al. 2015, ApJS, 216, 32]).\n\nThe initial angle from the Fermi-LAT boresight to the GBM\nground-location is 109 degrees.\n\nThe GBM light curve shows a long burst with multiple\nepisodes of bright emission over a duration (T90) of about\n79 s (50-300 keV). The time-averaged spectrum from T0+9 s\nto T0+84 s is best fit by a Band function with\nalpha= -0.90 +/- 0.02, beta= -2.28 +/- 0.08 and Epeak\nis 361.5 +/- 14.1 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.10 +/- 0.2) E-04 erg/cm^2. The 1s peak photon flux\nmeasured starting from T0+41.7 s in the 10-1000 keV band is\n32.8 +/- 0.6 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

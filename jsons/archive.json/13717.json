@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120907A: ROTSE-III Optical Limits",
+  "eventId": "GRB 120907A",
+  "bibcode": "2012GCN.13717....1Z",
+  "createdOn": 1346979559000,
+  "circularId": 13717,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "W. Zheng (U Mich), H. Flewelling (IfA/Hawaii), report on behalf of the ROTSE\ncollaboration: \n\nROTSE-IIId, located at the Turkish National Observatory at Bakirlitepe,\nTurkey, automatically responded to GRB 120907A (Swift trigger 532871;\nRacusin et al., GCN 13716). An automated response took the first image at\n00:31:23.7 UT, 420 s after the burst, under fair conditions. We took 10\n5-sec, 10 20-sec and 0 60-sec exposures. These unfiltered images are\ncalibrated relative to USNO A2.0 (R). Imaging is on going. \n\nWe do not detect the candidate afterglow reported in GCN 13716. Individual\nimages have limiting magnitudes ranging from 14.0-15.4; we set the following\nspecific limits. \n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n\n--------------------------------------------------------------------\n\n00:31:23.7   00:31:07.0         5      14.8            420       N\n\n00:31:23.7   00:33:35.0        50      15.8            420       Y\n\n00:33:40.0   00:38:20.0       200      16.4            557       Y"
+}

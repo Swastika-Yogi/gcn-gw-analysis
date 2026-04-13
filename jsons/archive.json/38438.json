@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241128A : RAPAS follow-up observations",
+  "eventId": "GRB 241128A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38438....1M",
+  "createdOn": 1733310536202,
+  "circularId": 38438,
+  "submitter": "Thierry Midavaine at GRANDMA <thierrymidavaine@sfr.fr>",
+  "format": "text/plain",
+  "body": "Thierry Midavaine on behalf of the RAPAS network reports (#3) :\nCédric Latgé, Patrick Martinez [1], Pierre-Michel Bergé, Erik Guthleben, Patrick Martinez [2], Thierry Midavaine [3] observed the Gamma-Ray Burst GRB241128A (R. Brivio et al. GCN 38367, K.L. Page GCN 38368) using [1][2] ADAGIO N 820mm telescope f=3.1m at Belesta Observatory (IAU A05) equiped with a Moravian C3 CMOS camera, 1200s exposure [1],1500s exposure [2], [3] RC 500mm f=1.414m at Salvia Observatory (I73) equipped with ZWO6200MMPRO CMOS camera, 2400s exposure, [1][2][3] are equiped with RAPAS filters meeting the Gaia G, Gbp, Grp photometric bands. The FITS files are reduced with the Gaia photometric catalog in respective G, Gbp, Grp bands.\n\nThe afterglow is detected RA(J2000) = 18h 14m 53.57s ; Dec(J2000) = +33° 26’ 20.4” ; ± 0.5’’ [1][2]\nAt this location it is not detected, above the upper limit magnitude [3] \n\nMJD (mid)     Gaia band   mag.(Gaia) RAPAS station\n60643.72986   G           20.50 ± 0.5 [1]\n60644.77083   G           21.00 ± 0.5 [2]\n60647.74270   G+Gbp+Grp  >21.         [3]\n\nRAPAS ( https://proam-gemini.fr/rapas/ ) is a new ProAm collaboration funded by Paris Observatory, delivering to a network of french amateur observatories a set of 3 filters meeting the Gaia spectral bands. This network is dedicated to deliver data in the Gaia photometric system on selected astrophysical alerts by Astro-COLIBRI ( https://astro-colibri.com/ ) or from Gaia alerts.\n"
+}

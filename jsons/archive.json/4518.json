@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060115:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060115",
+  "bibcode": "2006GCN..4518....1B",
+  "createdOn": 1137372727000,
+  "circularId": 4518,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "L. Barbier (GSFC), S. Barthelmy (GSFC), J. Cummings (GSFC/NRC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hullinger (GSFC/UMD),\nK. Hurley (Berkeley), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), \nJ. Norris (GSFC), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the downloaded data set from T-300 to T+302 sec\nfrom recent telemetry downlinks, we report further analysis\nof BAT GRB 060115 (trigger #177408)  (Tagliaferri, et al., GCN 4509).\nThe BAT ground-calculated position is (RA,Dec) = 54.005,+17.336 deg\n{03h 36m 01.1s,+17d 20' 10.5\"} (J2000) +- 2.0 arcmin, (radius,\nsys+stat, 90% containment).  This is 1.7 arcmin from the position \nreported by the XRT (Perri, et al. GCN 4514).  The partial coding was 85%.\n \nThe lightcurve consists of faint precursor peak starting at T-50 sec,\npeaking around T-30sec, and merging into the second peak.\nThe second peak is roughly triangular in shape, starting\nat T-15 sec, peaking at T+5sec, and ending at T+40 sec.  There is\na third and largest peak (also roughly triangular in shape)\nstarting at T+80 sec, peaking at T+95 sec, and ending at T+120 sec.\nT90 (15-350 keV) is at least 142 +- 5 sec (estimated error\nincluding systematics).\n \nThe power law index of the time-averaged spectrum is 1.76 +- 0.12.\nThe fluence in the 15-150 keV band is (1.9 +- 0.1) x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+94.71 sec in the 15-150 keV\nband is (0.9 +- 0.1) ph/cm2/sec.  A cut-off power law model is\na marginally better fit to the data.  The power law index is\n1.0 +/- 0.5 and Epeak is 62 (+31)(-10) keV; the total fluence is\n(1.8 +/- 0.2) x 10^-6 erg/cm2 and the peak flux is (0.9 +/- 0.1) ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level."
+}

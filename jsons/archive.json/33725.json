@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230420A: Mondy optical afterglow detection, TSHAO, CrAO optical upper limit",
+  "eventId": "GRB 230420A",
+  "bibcode": "2023GCN.33725....1P",
+  "createdOn": 1683325082820,
+  "circularId": 33725,
+  "submitter": "Alexei Pozanenko at IKI, Moscow <apozanen@iki.rssi.ru>",
+  "body": "N. Pankov (HSE),  A. Pozanenko (IKI), E. Klunko (ISTP), I. Reva (FAPI), V. Rumyantsev (CrAO), S. Belkin (IKI) report on behalf of GRB IKI FuN:\n\nWe observed  the field of Swift GRB 230420A (Klingler  et al. GCN 33658) with AZT-33IK telescope of Mondy observatory  in  R-filter on 2023-04-20 starting (UT) 13:31:08, with Zeiss-1000 telescope of of Tien Shan Astronomical Observatory on 2023-04-20 starting (UT) 22:11:07, with Shajn 2.6m telescope of CrAO on  2023-04-22 and 2023-04-23. We detect the afterglow (Hu et al., GCN 33663; Fu et al., GCN 33665; Fausey  et al., GCN 33671; O'Connor et al., GCN 33680) in Mondy observatory and obtained upper limits in TSHAO and CrAO observatories. The afterglow is detected at coordinates of (J2000)  10 44 11.53  +32 06 28.4 which are compatible with NOT estimated coordinates (Fu et al., GCN 33665) and are within Swift XRT enhanced position  (Osborneet al. GCN 33661).\n\nPreliminary photometry  of stacked images is following\n\nDate       UT start t-T0     Exp.  Filter  OT   Err.  UL(3sigma) Observ.\n                   (mid, days)  (s)\n2023-04-20 13:31:08 0.15424 30*120 R       22.0 0.1   22.8      Mondy\n2023-04-20 16:49:25 0.28431 20*120 R       22.7 0.3   22.7      Mondy\n2023-04-20 22:11:07 0.36494 31*120 R       n/d  n/d   22.1      TSHAO\n2023-04-21 15:23:44 1.25189 27*120 R       n/d  n/d   22.5      Mondy\n2023-04-22 18:33:32 2.52854 49*120 R       n/d  n/d   22.6      CrAO\n2023-04-23 19:22:36 3.41915 60*120 R       n/d  n/d   23.1      CrAO\n2023-04-22+2023-04-23 2.97385 109*120 R    n/d  n/d   23.5      CrAO\n\nThe photometry is based on nearby USNO-B1.0 R2 stars.\n\n"
+}

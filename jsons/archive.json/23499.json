@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181201A: Swift/UVOT Detection",
+  "eventId": "GRB 181201A",
+  "bibcode": "2018GCN.23499....1S",
+  "createdOn": 1543882932000,
+  "circularId": 23499,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <mhs18@psu.edu>",
+  "email": "mhs18@psu.edu",
+  "body": "M. H. Siegel (PSU) and J. K. Cannizzo (NASA/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 18201A\n14.3 ks after the INTEGRAL trigger (Mereghetti et al., GCN Circ. 23469).\nWe confirm the optical afterglow initially reported by MASTER (Podeta et al.,\nGCN Circ. 23470, Kong, GCN Circ. 23475, Volnova et al., GCN Circ. 23477, Mazaeva\net al., GCN Circ. 23479, Watson et al., GCN Circ. 23481, Belkin et al., GCN Circ.\n23485, Bolmer and Schady, GCN Circ. 23486, Cai et al., GCN Circ. 23491). The \nposition of the afterglow is also consistent with the XRT afterglow\n(Page et al., GCN Circ. 23474). The detection of the afterglow in the uvw2\nfilter would be consistent with the redshift report by Izzy et al. (GCN Circ. 23488).\n\nThe preliminary UVOT position is:\n  RA  (J2000) =  21:17:11.17 = 319.29656 (deg.)\n  Dec (J2000) = -12:37:51.0  = -12.63084 (deg.)\nwith an estimated uncertainty of 0.2 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)       Mag\n\nuvw2             14310        26435         4901       15.39 +/- 0.02\nwhite            56416        74104          924       17.53 +/- 0.03\nwhite           148341       165117         1162       18.71 +/- 0.04\nv                56713        74204          535       17.70 +/- 0.10\nv               160066       165389          389       18.70 +/- 0.26\nu                56120        77881         2757       17.25 +/- 0.03\nu               148114       164276         2896       18.30 +/- 0.05\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061021: Swift-XRT refined analysis",
+  "eventId": "GRB 061021",
+  "bibcode": "2006GCN..5746....1M",
+  "createdOn": 1161470281000,
+  "circularId": 5746,
+  "submitter": "Alberto Moretti at Obs Brera Merate  <alberto.moretti@brera.inaf.it>",
+  "email": "alberto.moretti@brera.inaf.it",
+  "body": "A. Moretti (INAF-OAB), C. Guidorzi (Univ. Bicocca & INAF-OAB),\nP. Romano (INAF-OAB) S. Campana (INAF-OAB) report on behalf of\nthe Swift-XRT team:\n\nWe have analysed the first 3 orbits of Swift-XRT data obtained for GRB\n061021 (trigger=234905, GCN 5743). The data consist of 189 s in Windowed\nTiming (WT) mode, starting 78 seconds after the BAT trigger and 5.5 ks\nin Photon Counting (PC) mode. Using PC data we obtain a refined\nposition of:\n\nRA(J2000) =  09h 40m 35.87s\nDec(J2000)= -21d 57' 07.2\"\n\nwith an estimated uncertainty radius of 5 arcsec (90% containment).\nThis location is 3.8 arcseconds from the UVOT position (GCN 5745).\n\nThe light-curve, initially, shows a steep decay (alpha1=2.1+/-0.1) up\nto a break at t_break=368+/-20.s.  After the break, the afterglow\nshows a shallow decay (alpha2=0.55+/-0.03) up to the end of the third\norbit (t=12.5 ks). At this point the observed count rate was 2.2\ncounts per second, corresponding to an unabsorbed flux of 1.4E-11\nerg/cm2/sec.\n\nThe spectrum formed from all the WT data can be modelled with a\npower-law of photon index Gamma = 1.88 +/- 0.07, with an absorbing\ncolumn of NH = (3.4 +/- 0.8)E20 cm^-2 consistent with the Galactic\nvalue of 4.20E20 cm^-2. The spectrum formed from the PC data is\nslightly softer than the WT spectrum: it can be modelled with a\npower-law of photon index Gamma = 1.96 +/- 0.08.\nAll errors are quoted at 90% confidence level.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150311A: MAXI/GSC possible afterglow detection",
+  "eventId": "GRB 150311A",
+  "bibcode": "2015GCN.17568....1M",
+  "createdOn": 1426137394000,
+  "circularId": 17568,
+  "submitter": "Motoko Suzuki at RIKEN  <motoko@crab.riken.jp>",
+  "email": "motoko@crab.riken.jp",
+  "body": "M. Morii (RIKEN), H. Negoro (Nihon U.), M. Serino (RIKEN),\nS. Ueno, H. Tomida, S. Nakahira, M. Kimura, M. Ishikawa, Y. E. Nakagawa (JAXA),\nT. Mihara, M. Sugizaki, J. Sugimoto, T. Takagi, A. Yoshikawa, M. Matsuoka (RIKEN),\nN. Kawai, T. Yoshii, Y. Tachibana (Tokyo Tech),\nA. Yoshida, T. Sakamoto, Y. Kawakubo, H. Ohtsuki (AGU),\nH. Tsunemi, D. Uchida (Osaka U.),\nM. Nakajima, K. Fukushima, T. Onodera, K. Suzuki, T. Namba, M. Fujita, F. Honda (Nihon U.),\nY. Ueda, M. Shidatsu, T. Kawamuro, T. Hori (Kyoto U.),\nY. Tsuboi, A. Kawagoe (Chuo U.),\nM. Yamauchi, Y. Morooka, D. Itoh (Miyazaki U.),\nK. Yamaoka (Nagoya U.)\nreport on behalf of the MAXI team:\n\nThe MAXI/GSC nova alert system triggered a bright uncatalogued X-ray transient source at 2015-03-11T16:18:16 UT .\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (235.099 deg, -15.809 deg) = (15 40 23, -15 48 32) (J2000)\nwith a statistical 90% C.L. elliptical error region\nwith long and short radii of 0.27 deg and 0.26 deg, respectively.\nThe roll angle of long axis from the north direction is 79.0 deg counterclockwise.\nThere is an additional systematic uncertainty of 0.1 deg (90% containment radius).\nThe X-ray flux averaged over the scan was 93 +- 20 mCrab\n(4-10keV, 1 sigma error).\nThere was no significant excess flux in the previous transit at UT 14:45\nand in the next transit at 17:50 UT with an upper limit of 20 mCrab for each.\n\nAccording to GCN IPN_RAW Notices, The Konus-Wind instrument triggered at\n16:16:24.88, which is 111s before the MAXI trigger.\nTherefore MAXI might have observed the afterglow of GRB 150311A triggered by\nKonus-Wind, while the position of this burst is not known."
+}

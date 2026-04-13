@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB080218B",
+  "eventId": "GRB 080218B",
+  "bibcode": "2008GCN..7323....1S",
+  "createdOn": 1203409539000,
+  "circularId": 7323,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) reports on behalf of the Swift-UVOT team\n\nThe Swift-UVOT observed the field of GRB080218B starting 551 s after the \nBAT trigger (Schady et al., GCN 7314). No new source is detected within \nthe refined XRT error circle (Osborne et al., GCN 7320) in any of the UVOT \nco-added observations down to the following 3-sigma upper limits:\n\nFilter  Tmid (s) Exp (s)  Upper Limit\nwh      4178     420        > 21.09\nv       2955     494        > 19.87\nb       4126     283        > 20.24\nu       4098     294        > 19.98\nuvw1    3984     294        > 19.77\nuvm2    3868     313        > 19.67\nuvw2    6056     281        > 19.91\n\nwhere Tmid is the weighted mid time of the co-added observations. The \nvalues quoted above are not corrected for the expected Galactic extinction \ncorresponding to a reddening of E(B-V)= 0.17 mag in the direction of the \nburst (Schlegel et al. 1998),"
+}

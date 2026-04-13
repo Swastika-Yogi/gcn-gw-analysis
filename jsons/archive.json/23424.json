@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 181110A",
+  "eventId": "GRB 181110A",
+  "bibcode": "2018GCN.23424....1F",
+  "createdOn": 1542033498000,
+  "circularId": 23424,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, A. Kozlova,\nA.Lysenko,  D. Svinkin, A. Tsvetkova,  M. Ulanov,\nand T. Cline, on behalf of the Konus-Wind team, report:\n\nThe long GRB 181110A (Swift-BAT trigger #871316: (Evans et al.,\nGCN  23413; Lien et al., GCN 23420; T0(BAT)= 08:43:31.320 UT)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in\nthe 22-380 keV band reveals a count rate increase in the interval\nfrom ~T0(BAT)-42 s to ~T0(BAT)+98 s.\nNo statistically significant emission has been detected above\n380 keV.\n\nThe KW light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB181110A/\n\nModeling the KW 3-channel spectrum (from T0(BAT)-36 s to T0(BAT)+32 s)\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.63(-0.26,+0.34) and Ep = 48(-27,+14) keV.\n\nThe total burst fluence in the 15-1500 keV band\nis (1.1 �� 0.2)x10^-5 erg/cm^2.\n\nAssuming z = 1.505 (Perley et al., GCN 23421) and a standard cosmology\nmodel with H_0 = 70 km/s/Mpc, Omega_M = 0.30, and Omega_Lambda = 0.70, \nthe burst isotropic energy release E_iso is ~1.1x10^53 erg (1-10000 keV,\nrest frame), and the rest-frame peak energy is ~120 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

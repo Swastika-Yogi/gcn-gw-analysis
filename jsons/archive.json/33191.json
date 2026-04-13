@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230116D: SAO RAS photometry",
+  "eventId": "GRB 230116D",
+  "bibcode": "2023GCN.33191....1B",
+  "createdOn": 1673991587000,
+  "circularId": 33191,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "S. Belkin (IKI, HSE), A. Moskvitin (SAO RAS), A. Pozanenko (IKI),  A. \nMoiseev (SAO RAS), D. Oparin  (SAO RAS), N. Pankov (HSE, IKI) report on \nbehalf of  GRB IKI FuN:\n\nWe observed the optical afterglow (Zhu et al., GCN 33177; Nazarov  et\nal., GCN 33178; Moskvitin et al. GCNs 33179, 33187; Swain et al., GCN\n33182; Belkin et al., GCNs 33189, 33190)  of GRB 230116D (Sonbas et al., \nGCN 33176) with BTA SAO RAS telescope equipped with SCORPIO-2. \nObservation started on 2023-01-16 (UT) 23:31:38. Photometric \nobservations consists of r -filter acquisition imaging and  g,r,i - \nfilters after before spectroscopy (Moskvitin et al. GCN 33187). \nPreliminary photometry of stacked images is following\n\n\nDate       UT-start Exptime Filter t-T0     OT     Err    UL\n2023-01-16 23:31:48 2*20    r      0.10951  20.29  0.05   21.4\n2023-01-17 01:33:17 2*90    r      0.18859  20.97  0.04   23.2\n2023-01-17 01:30:43 3*120   g      0.18935  22.18  0.08   23.1\n\nRef.stars\nPanSTARRS-PS1\nRA DEC g r i z\n06:34:21.9567816 +49:52:11.318772 16.3946 15.7833 15.5155 15.3912\n06:34:23.9012808 +49:51:55.541160 18.8105 18.2189 17.9721 17.8591\n06:34:37.7805360 +49:50:45.780468 18.3294 17.6554 17.3783 17.2518\n\nThe light curve based on afterglow observations (GCNs 33177,  33178, \n33179, 33187, 33188, 33182, 33189, 33190)   can be found at\nhttp://grb.rssi.ru/GRB230116D/GRB230116D_lc_1.png\n\nThe light curve  confirms rebrightening (Moskvitin et al. GCN 33179) or \nplateau at 0.03 - 0.1 days and correlate with XRT LC \n(https://www.swift.ac.uk/xrt_curves/01149293/)."
+}

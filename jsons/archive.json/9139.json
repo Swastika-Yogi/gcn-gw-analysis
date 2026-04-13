@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090417B: Swift-BAT refined analysis",
+  "eventId": "GRB 090417B",
+  "bibcode": "2009GCN..9139....1C",
+  "createdOn": 1240011118000,
+  "circularId": 9139,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC/UMD), D. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), B. Sbarufatti (INAF-IASFPA),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 090417B (trigger #349450)\n(Sbarufatti, et al., GCN Circ. 9135).  The BAT ground-calculated position is\nRA, Dec = 209.624, 46.954 deg, which is \n   RA(J2000)  =  13h 58m 29.7s \n   Dec(J2000) = +46d 57' 14.1\" \nwith an uncertainty of 4.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 94%.\n \nThe mask-weighted light curve shows that this burst started before T-200 sec\n(where we start collecting event data on each trigger), slowly rises\nto a peak around T+400 sec and slowly decreases out past T+950 sec\n(where we stop processing the data).  T90 (15-350 keV) is greater than 260 sec.\n \nThe time-averaged spectrum from T+278.7 to T+617.1 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.85 +- 0.14.  The fluence in the 15-150 keV band is 2.3 +- 0.2 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+434.93 sec in the 15-150 keV band\nis 0.3 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/349450/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G298936: Updated localization from gravitational-wave data",
+  "eventId": "LIGO/Virgo G298936",
+  "bibcode": "2017GCN.21661....1L",
+  "createdOn": 1503507809000,
+  "circularId": 21661,
+  "submitter": "Leo Singer at NASA/GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nIn GCN 21656, we reported the identification of the binary black hole\ncandidate G298936 in data from LIGO Hanford Observatory (H1) and LIGO\nLivingston Observatory (L1). We have obtained and inspected the Virgo (V1)\ndata at the time of the candidate and found them to be suitable for manual\nre-analysis using the PyCBC pipeline.\n\nAn updated BAYESTAR localization using data from all three detectors (H1,\nL1, V1) is now available for retrieval from the GraceDB page:\nbayestar-HLV.fits.gz. This is the preferred sky map at this time.\n\nCompared to the initial BAYESTAR localization, the 50% area has decreased\nfrom 605 to 277 deg2 and the 90% area has decreased from 2145 to 1219\ndeg2. The all-sky, marginalized luminosity distance estimate is 1541 +/-\n415 Mpc (a posteriori mean +/- standard deviation), largely consistent\nwith the original estimate.\n\nWe will continue to refine the sky map using offline parameter estimation."
+}

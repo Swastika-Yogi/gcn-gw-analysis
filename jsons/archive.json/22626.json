@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180409A: Fermi GBM observation",
+  "eventId": "GRB 180409A",
+  "bibcode": "2018GCN.22626....1B",
+  "createdOn": 1523383911000,
+  "circularId": 22626,
+  "submitter": "Elisabetta Bissaldi at INFN,Bari  <elisabetta.bissaldi@ba.infn.it>",
+  "email": "elisabetta.bissaldi@ba.infn.it",
+  "body": "E. Bissaldi (Politecnico & INFN Bari) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\n\"At 08:18:18.67 UT on 9 April 2018, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 180409A (trigger 544954703 / 180409346),\nwhich was triangulated by IPN (Hurley et al., GCN 22619) and was also\ndetected by Konus (Frederiks et al., GCN 22621).\n\nThe on-ground calculated location, using the GBM trigger data, is\n\nRA = 178.18, DEC = +36.050 (J2000 degrees),\n\nwith an uncertainty of 1 degree (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90% of\nGRBs having a 3.7 deg error and a small tail suffering a larger than 10 deg\nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 71 degrees.\n\nThe GBM light curve consists of multiple peaks\nwith a duration (T90) of about 13 s (50-300 keV).\nThe time-averaged spectrum from T0-0.5 s to T0+15 s is\nbest fit by a Band function with Epeak = 151 +/- 5 keV,\nalpha = -0.85 +/- 0.03, and beta = -2.33 +/- 0.05.\n\nThe event fluence (10-1000 keV) in this time interval is\n(2.87 +/- 0.03)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+10.1 s in the 10-1000 keV band\nis 41 +/- 1 ph/s/cm^2.\n\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

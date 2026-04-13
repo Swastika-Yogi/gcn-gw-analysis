@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 190415A",
+  "eventId": "GRB 190415A",
+  "bibcode": "2019GCN.24138....1F",
+  "createdOn": 1555871637000,
+  "circularId": 24138,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, A. Kozlova,\nA.Lysenko,  D. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 190415A (Insight-HXMT/HE detection: Luo et al.,\nGCN 24125; IPN triangulation: Svinkin et al., GCN 24128)\ntriggered Konus-Wind (KW) at T0=14986.024 s UT (04:09:46.024).\n\nThe light curve of the burst shows a bright, hard-spectrum,\nmulti-peaked pulse, which started at ~T0 s and had a duration of ~ 19s. \nThis pulse was followed by a weaker and softer emission tail\nof the emission detectable until ~T0+57 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB190415_T14986/\n\nAs observed by Konus-Wind, the burst had\na fluence of (8.8 �� 0.8)x10^-5 erg/cm2 and\na 64-ms peak energy flux, measured from T0+5.824,\nof (2.33 �� 0.14)x10^-5 erg/cm2 (both in the 20 keV - 10 MeV\nenergy range).\n\nThe time-integrated spectrum (measured from T0 to T0+56.512 s)\nis best fit in the 20 keV - 15 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -0.65(-0.10,+0.11),\nand the peak energy Ep = 892(-99,+120) keV,\nchi2 = 94/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta (-3.1).\n\nThe spectrum near the peak count rate (measured from T0 to T0+7.360)\nis best fit in the 20 keV - 15 MeV range by\nthe CPL function with the following model parameters:\nthe photon index alpha = -0.17(-0.09,+0.10),\nand the peak energy Ep = 994(-62,+67) keV,\nchi2 = 89/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta (-3.8).\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

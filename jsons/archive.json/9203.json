@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090422: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090422",
+  "bibcode": "2009GCN..9203....1B",
+  "createdOn": 1240486674000,
+  "circularId": 9203,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL/UCL) and T. N. Ukwatta (GSFC/GWU) report on  \nbehalf of the Swift UVOT team:\n\n     The Swift/UVOT observed the field of GRB 090422 starting 55 s  \nafter the BAT trigger (Ukwatta, et al., 2009, GCN Circ. 9185). Settled  \nexposures started at T+74 s with a Finding Chart (FC) in the white  \nfilter. We do not find any new source, at the enhanced position of the  \nXRT afterglow (Beardmore, et al. 2009, GCN Circ. 9194) nor at the  \nposition of the candidate found by the Liverpool Telescope (Guidorzi,  \net al. 2009, GCN Circ. 9197).  3-sigma upper limits for detecting a  \nsource in the white and u FCs, and subsequent co-added images in all  \nfilters are:\n\nFilter           T_start   T_stop   Exp(s)      Mag\n----------------------------------------------------------\nwhite (FC)  74           224       147         >20.5\nu (FC)          287        537        246        >19.6\t\t\n\nv                  617         11744   1317      >20.3\nb                  542         18318   1145     >20.8\nu                  690         24099   2059     >20.8\nuvw1          666          23300   2203     >21.0\nuvm2          641          22393   2092     >20.8\nuvw2          592          10831   1318     >20.8\nwhite          566          5591     341.4    >20.8\n---------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected  \nGalactic extinction along the line of sight corresponding to a  \nreddening of E_{B-V} = 0.198 mag (Schlegel, et al., 1998, ApJS, 500,  \n525).  All photometry is on the UVOT photometry system described in  \nPoole et al. (2008, MNRAS, 383, 627)."
+}

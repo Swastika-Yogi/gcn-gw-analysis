@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210104A: MITSuME Akeno optical observation",
+  "eventId": "GRB 210104A",
+  "bibcode": "2021GCN.29237....1H",
+  "createdOn": 1609764281000,
+  "circularId": 29237,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, R. Adachi, M. Niwano, K. L. Murata, F. Ogawa, N.\nNakamura, N. Ito, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.\nKawai (TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210104A (The Fermi GBM team\n, GCN 29232, E. Troja et al., GCN 29233, B. Biltzinger et al., GCN 29234) with\nthe optical three color (g', Rc, and Ic) CCD cameras attached to the\nMITSuME 50 cm telescope of Akeno Observatory, Yamanashi, Japan.\nThe observation started at 2021-01-04 11:27:54 UT (55s after Swift BAT\ntrigger). We detected the point source at the position consistent with\nthe afterglow detected previously(E. Troja et al., GCN 29233, L. P.\nXin et al., GCN 29235, Y.-D. Hu et al., GCN 29236).\nWe measured the magnitudes as follows.\n\nT0+[sec] MID-UT T-EXP[sec] measured magnitudes\n------------------------------------------------------------------------------------------------\n55 11:28:24 60 g'=14.6+/-0.1, Rc=14.2+/-0.1, Ic=13.8+/-0.1\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al.,\nhttps://doi.org/10.1093/pasj/psaa091,\nhttps://arxiv.org/abs/2008.11486; https://github.com/MNiwano/Eclaire)."
+}

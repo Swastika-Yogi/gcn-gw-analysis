@@ -1,0 +1,11 @@
+{
+  "subject": "GRB250427A/EP250427a GIT optical afterglow detection:",
+  "eventId": "GRB 250427A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40270....1S",
+  "createdOn": 1745842205363,
+  "circularId": 40270,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "V. Swain (IITB), A. Salgundi (IITB), Y. Wagh (IITB), A.P. Saikia (IITB), D. Eappachen (IIA), V. Bhalerao (IITB), G.C. Anupama (IIA), S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of of EP 250427a (Wang et al., GCN #40257), also detected by Fermi-GBM (Ravasio et al., GCN #40262) with 0.7m GROWTH-India Telescope (GIT) in g and r filters. We started the observation at 2025-04-27 19:19:43 UT, i.e., 15.68 hrs after the EP trigger. The source is detected at EP position and the position reported by TRT network (Liu et al., GRB #40260) and the photometry result follows as:\n\n| JD (mid)          | t-t0 (hours) | Filter | Exposure (s) | Mag (AB) | \n| ----------------- | ----------- |------- | ------------------ | -------------- |\n|  2460793.305359 |    15.68    |   r'   |   360       |  19.66+/- 0.10 |\n|  2460793.318148 |    15.98    |   g'   |   360       |  20.47+/- 0.10 |\n|  2460793.366678 |    17.15    |   r'   |   360       |  20.00+/- 0.09 |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe object is decaying with powerlaw index of 1.15 +/- 0.04. Further observations are under way. Our result is consistent with BOOTES-7 (Perez-Garcia et al., GCN #40259), TRT (Liu et al., GCN #40260), COLIBRÍ (Becerra et al., GCN #40261), REM (Brivio et al., GCN #40264), LCO (Pérez-Fournon et al., GCN #40267) LT (Qiang Xi et al., GCn #40269). \n\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

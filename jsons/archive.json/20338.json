@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 161224A: Swift-XRT refined Analysis",
+  "eventId": "GRB 161224A",
+  "bibcode": "2016GCN.20338....1C",
+  "createdOn": 1482732937000,
+  "circularId": 20338,
+  "submitter": "Aaron Cholden-Brown at PSU/Swift  <aaronb@swift.psu.edu>",
+  "email": "aaronb@swift.psu.edu",
+  "body": "A. Cholden-Brown (PSU) and P.A. Evans (U. Leicester) report on behalf\nof the Swift-XRT team:\n\nWe have analysed 4.9 ks of XRT data for GRB 161224A, from 28.3 ks to\n52.2 ks after the  BAT trigger. The data are entirely in Photon\nCounting (PC) mode. A fading X-ray source is found in the BAT error\nregion. Using 617 s of PC mode data and 1 UVOT image, we find an\nenhanced XRT position (using the XRT-UVOT alignment and matching UVOT\nfield sources to the USNO-B1 catalogue): RA, Dec = 204.81579, -18.02909\nwhich is equivalent to:\n\nRA (J2000): 13h 39m 15.79s\nDec(J2000): -18d 01' 44.7\"\n\nwith an uncertainty of 4.1 arcsec (radius, 90% confidence).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=2.8 (+0.8, -2.1).\n\nIf the light curve continues to decay with a power-law decay index of\n2.8, the count rate at T+24 hours will be 8.4 x 10^-4 count s^-1\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00728268.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070508: Suzaku/WAM observation of the prompt emission",
+  "eventId": "GRB 070508",
+  "bibcode": "2007GCN..6396....1U",
+  "createdOn": 1178695178000,
+  "circularId": 6396,
+  "submitter": "Takeshi Uehara at Hiroshima U  <uehara@hirax7.hepl.hiroshima-u.ac.jp>",
+  "email": "uehara@hirax7.hepl.hiroshima-u.ac.jp",
+  "body": "T. Uehara, M. Ohno, T. Takahashi, Y. Fukazawa, C. Kira (Hiroshima U.),\nT. Enoto, R. Miyawaki, K. Nakawaza, K. Makishima (Univ. of Tokyo),\nK. Yamaoka, Y. E. Nakagawa, S. Sugita (Aoyama Gakuin U.),\nY. Urata, K. Onda, M. Suzuki, K. Morigami, N. Kodaka, M. Tashiro (Saitama U.),\nM. Suzuki, T. Tamagawa, Y. Terada (RIKEN), S. Hong (Nihon U.),\nM. Kokubun, T. Takahashi (ISAS/JAXA), \nE. Sonoda, M.Yamauchi (Univ. of Miyazaki), and Suzaku WAM team report\n\nThe bright, long burst, GRB 070508 (Swift/BAT trigger #278854 ; D. Grupe et al., GCN Circ. 6383 ),\nwas detected at 04:18:21 UT (=T0) by the Suzaku Wide-band All-sky \nMonitor (WAM) which covers an energy range of 50 keV - 5 MeV.\nThe observed light curve shows multiple peaked structures \nwith a duration (T90) of nearly 12 seconds.\nThe fluence in 100-1000 keV was (3.0+/-0.1) * 10^-5 erg/cm^2.\nThe 1-s peak flux was 11.6+/-0.5 photons/cm^2/s\nin the same energy range.\n\n\nPreliminary result shows that the time-averaged spectrum from T0-4 to T0+26 s\ncan be described by a power law with an exponential cutoff model, \nin the 100 keV - 1000 keV range as follows:\n\ndN/dE =  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha = 0.96 +/- 0.21 and\nEpeak = 233 +/- 12 keV (chi^2/d.o.f. = 29/20).\n   \n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe WAM light curve of this event is available at\nhttp://www.astro.isas.ac.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

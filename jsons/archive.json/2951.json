@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050117: Swift XRT Position",
+  "eventId": "GRB 050117",
+  "bibcode": "2005GCN..2951....1B",
+  "createdOn": 1105969320000,
+  "circularId": 2951,
+  "submitter": "David Burrows at PSU/Swift  <burrows@astro.psu.edu>",
+  "email": "burrows@astro.psu.edu",
+  "body": "D. N. Burrows, J. E. Hill,  G. Chincarini, J. Nousek, N. Gehrels, and P. Schady\nreport on behalf of the Swift XRT team:\n\nThe Swift XRT reported a prompt position for GRB050117.  The burst was\ndiscovered by the BAT and the Swift spacecraft performed a prompt slew.   The\nXRT found a bright source in the field and imaged it at\nIMG_START_DATE:  13387 TJD;    17 DOY;   05/01/17\nIMG_START_TIME:  46548.64 SOD {12:55:48.64} UT\n\nThe XRT position is\nGRB_RA:          358.4644d {+23h 53m 51s} (J2000),\n                 358.5274d {+23h 54m 07s} (current),\n                 357.8439d {+23h 51m 23s} (1950)\nGRB_DEC:         +65.9418d {+65d 56' 30\"} (J2000),\n                 +65.9699d {+65d 58' 12\"} (current),\n                 +65.6635d {+65d 39' 49\"} (1950)\n\nThe XRT positions are not yet fully calibrated, and we estimate an uncertainty\nof 30 arcseconds in these coordinates.  The XRT prompt image confirms that a\npoint source is located at this position.  A check of SIMBAD shows no bright\nX-ray sources in this location.  Further information, including an XRT\nlightcurve and spectrum, will be available in a few hours."
+}

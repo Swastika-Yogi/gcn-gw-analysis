@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160629A: SAO RAS independent OT detection",
+  "eventId": "GRB 160629A",
+  "bibcode": "2016GCN.19623....1S",
+  "createdOn": 1467258914000,
+  "circularId": 19623,
+  "submitter": "Moskvitin Alexander at SAO RAS  <mosk@sao.ru>",
+  "email": "mosk@sao.ru",
+  "body": "V. Sokolov, A. Valeev, A. Moskvitin and V. Komarova (SAO RAS)\nreport on behalf of a larger team.\n\nWe observed the error box of INTEGRAL GRB 160629A (Gotz et al.\nGCNC #19621) with the SAO RAS 6-meter telescope BTA + Scorpio.\nThe observations started since ~10 minutes after the trigger.\nSeveral images in Rc band were obtained.\n\nWe find a fading source with the coordinates\n\nR.A. =  00:19:27.1\nDec. = +76:58:00.7\nerror = 0\".5\n\nThis object is consistent with the OT reported by Klotz et al.\n(GCNC #19622).\n\nWe used USNO-B1 star 1669-0002297 (R.A = 00:19:31.12;\nDec. = +76:57:41.3) with R2 = 15.53 for the calibrations.\nPreliminary magnitudes of OT are as following.\n\nT-T0,s  exp,s  R_mag  err\n==========================\n 615     30    17.40  0.03\n 688     60    17.55  0.03\n 848    180    17.71  0.02\n1039     60    17.85  0.05\n1118     30    18.13  0.08\n1393     80    18.21  0.09\n1508     80    18.24  0.11\n1648     80    18.41  0.10\n1964    180    18.55  0.09\n3859    180    19.25  0.07\n4066    180    19.18  0.04\n4262    180    19.25  0.04\n4483    180    19.29  0.11\n4725    180    19.24  0.05\n4926    180    19.24  0.03\n5132    180    19.33  0.04\n5347    180    19.30  0.04\n5585    180    19.43  0.05\n5824    180    19.44  0.06\n\nftp://ftp.sao.ru/pub/grb/GRB160629A/GRB160629A_BTA.jpg"
+}

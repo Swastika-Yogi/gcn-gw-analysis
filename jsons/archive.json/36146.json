@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S240413p: STEP - T80S Search and Candidate Counterpart Identification",
+  "eventId": "LIGO/Virgo/KAGRA S240413p",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36146....1B",
+  "createdOn": 1713363370477,
+  "circularId": 36146,
+  "submitter": "Clecio Bom at CBPF <debom@cbpf.br>",
+  "body": "C.R.Bom (CBPF), A. Santos (CBPF), C. D. Kilpatrick (Northwestern), Luidhy Santana-Silva (CBPF), Phelipe Darc (CBPF), Claudia Mendes de Oliveira (IAG-USP) report on behalf of the STEP-GW collaboration:\n\nWe conducted an optical search for candidate counterparts in the localization region of LVK gravitational wave event S240413p with the T80S 0.8-m robotic telescope using the 1.4 x 1.4 field-of-view T80S-Cam imager.  The tiling was optimally determined using the latest localization map from the LVK and galaxy catalogs in Teglon (Coulter et al., in prep.).  In total, T80S observed 28 fields within the 90th percentile localization region of S240413p. \n\n\nWe subtracted Pan-STARRS template images from the T80S images using photpipe (Rest et al., 2005). As this GW event is classified as a binary black hole merger (GCN #36075), we also cross-matched with known AGNs. we identified the following candidate counterpart in our imaging:\n\nName MJD RA(deg) Dec(deg) Filter Mag Magerr \nSTEP24a 60416.109690 162.814 5.806 10:51:15.43 +05:48:24.69 g 18.626 0.046\n\nThis candidate shows a possible flare and has a spectroscopic redshift of 0.069, which falls close to the lower end of the 2-sigma distance distribution of S240413p.\n\nWe have checked the Minor Planet Center and Transient Name Server, finding no previously reported solar system object or transient. We encourage follow-up observations of this source.\n"
+}

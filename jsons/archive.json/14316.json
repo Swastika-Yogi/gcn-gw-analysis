@@ -1,0 +1,10 @@
+{
+  "subject": "Swift XRT observations of GRB 130310A",
+  "eventId": "GRB 130310A",
+  "bibcode": "2013GCN.14316....1S",
+  "createdOn": 1363385016000,
+  "circularId": 14316,
+  "submitter": "Boris Sbarufatti at INAF-OAB/IASFPA  <boris.sbarufatti@brera.inaf.it>",
+  "email": "boris.sbarufatti@brera.inaf.it",
+  "body": "B. Sbarufatti (INAF-OAB/PSU), D. N. Burrows (PSU), P. E. Evans (U\nLeicester) report on behalf of the Swift XRT team:\n\nSwift performed a total of 7 pointings for this burst on March 11th: 4x1ks\ncovering the Fermi LAT error circle (Guiriec et al., GCN #1482) and 3x1.5\nks covering the IPN error box (Golenetskii et al., GCN #14284). We detect\na total of 5 sources:\n\n#  RA          DEC          Err     counts  rate(counts/ks)\n1  09 28 45.9  -17 18 49.5  7.4\"    9\t    11  (+11/-7)\n2  09 29 27.0  -17 30 13.8  6.8\"    12\t    13  (+14/-8)\n3  09 28 59.0  -17 00 40.8  5.4\"    8\t    9   (+10/-7)\n4  09 27 58.9  -17 12 57.9  8.6\"    10\t    11  (+12/-7)\n5  09 27 31.7  -17 08 55.3  11.0\"   5\t    4.7 (+6/-4)\n\nThe fluxes are computed at the 99% confidence level, following Kraft,\nBurrows & Nousek (1991). The background level was computed both generally,\nusing the 'background' task of XIMAGE on each pointing, and locally, using\nthe 'sosta' task of XIMAGE, and selecting the highest value.\nAll sources are inside the LAT error circle, but only source #5 is inside\nthe IPN error box.\n\nSwift performed another observation in the direction of source #5 on March\n13th, with a 3.4 ks exposure. The 99% confidence level upper limit at the\nposition of source #5 is 4.6E-3 counts/s, which does not give strong\nevidence for fading.\n\nNo further observations are planned.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S200224ca: Upper limits from Insight-HXMT/HE observations",
+  "eventId": "LIGO/Virgo S200224ca",
+  "bibcode": "2020GCN.27219....1L",
+  "createdOn": 1582704404000,
+  "circularId": 27219,
+  "submitter": "Qi Luo at IHEP  <luoqi@ihep.ac.cn>",
+  "email": "luoqi@ihep.ac.cn",
+  "body": "Q. Luo, Y. G. Zheng, C. Cai, S. Xiao, Q. B. Yi, \nY. Huang, C. K. Li, G. Li, X. B. Li, J. Y. Liao, S. L. Xiong,\nC. Z. Liu, X. F. Li, Z. W. Li, Z. Chang, A. M. Zhang, \nY. F. Zhang, X. F. Lu, C. L. Zou (IHEP), Y. J. Jin, \nZ. Zhang (THU), T. P. Li (IHEP/THU), F. J. Lu, L. M. Song, \nM. Wu, Y. P. Xu, S. N. Zhang (IHEP), \nreport on behalf of the Insight-HXMT team:\n\nInsight-HXMT was taking data normally around the reported LIGO/Virgo \nS200224ca event (GCN #27184). At the GW trigger time \n2020-02-24T22:22:34.406 UTC (denoted as T0), about 99.6% of the \nGW localization region was covered by the Insight-HXMT without \noccultation by the Earth.\n\nWithin T0 +/- 100 s, no significant excess events (SNR > 3 sigma) are \nfound in a search of the Insight-HXMT/HE raw light curves.\n\nAssuming the GW counterpart GRB with three typical GRB Band spectral \nmodels, two typical duration timescales (1 s, 10 s) from the center \nof the LIGO-Virgo location probability map (RA=174.9 deg, DEC=-9.8 deg), \nthe 5-sigma upper-limits fluence (0.2 - 5 MeV, incident energy) are \nreported below:\n\nBand model 1 (alpha=-1.9, beta=-3.7, Ep=70 keV):\n1 s:   1.4e-07 erg cm^-2\n10 s:  1.1e-06 erg cm^-2\n\nBand model 2 (alpha=-1.0, beta=-2.3, Ep=230 keV):\n1 s:   2.2e-07 erg cm^-2\n10 s:  1.7e-06 erg cm^-2\n\nBand model 3 (alpha=-0.0, beta=-1.5, Ep=1000 keV):\n1 s:   6.8e-07 erg cm^-2\n10 s:  3.9e-06 erg cm^-2\n\nAll measurements above are made with the CsI detectors operating in the\nregular mode with the energy range of about 80-800 keV (deposited energy).\nOnly gamma-rays with energy greater than about 200 keV can penetrate\nthe spacecraft and leave signals in the CsI detectors installed inside\nof the spacecraft."
+}

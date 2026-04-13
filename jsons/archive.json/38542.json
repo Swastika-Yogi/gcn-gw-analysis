@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241207A: TSHAO Zeiss-1000 optical observations",
+  "eventId": "GRB 241207A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38542....1P",
+  "createdOn": 1734013150004,
+  "circularId": 38542,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), I. Reva (FAI), M. Krugov (FAI), A. Pozanenko (IKI) report on behalf of IKI-GRB-FuN:\n\nWe performed optical observations of GRB 241207A (Fermi GBM team, GCN 38454; V.Lipunov et. al, GCN 38459; McKenna et. al, GCN 38536) in the R filter with 1-meter Zeiss-1000 telescope of Tien-Shan observatory (TSHAO). The observations began on 2024-12-07 13:04:43 UT, i.e. ~0.17 days since trigger. Using STDWeb (Karpov, 2024) ZOGY-based image subtraction against ZTF DR7 we did not find an optical candidate transient in the median stacked images of the fields:\n\nFieldID RA       Dec       Width Height\n        (hr)     (deg)       (arcmin)\n1       19:15:05 +42:01:05 19.03 19.03\n2       19:09:58 +42:29:55 19.03 19.03\n\nThe preliminary upper limits are as follows:\n\nDate       UT start  t-T0         Exp.    Filter   OT  Err. UL(3sigma) FieldID\n                     (mid, days)  (s)\n2024-12-07 13:04:43  0.176087     4*90    R        n/d n/d  20.3       1\n2024-12-07 13:15:56  0.206782     48*90   R        n/d n/d  20.8       2\n\n\nThe magnitudes were calibrated using nearby stars from USNO-B1.0 (R2 magnitudes) and are not corrected for the Galactic extinction towards the GRB 241207A.\n"
+}

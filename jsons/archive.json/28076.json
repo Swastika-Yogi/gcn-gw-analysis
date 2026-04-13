@@ -1,0 +1,10 @@
+{
+  "subject": "Update of alert from the HAWC Burst Monitor HAWC-200709A",
+  "eventId": "HAWC-200709A",
+  "bibcode": "2020GCN.28076....1H",
+  "createdOn": 1594420722000,
+  "circularId": 28076,
+  "submitter": "Hugo Ayala at Pennsylvania State University  <hgayala@psu.edu>",
+  "email": "hgayala@psu.edu",
+  "body": "The HAWC Collaboration  (http://www.hawc-observatory.org/collaboration/)\nreports:\n\nOn July 9th, 2020, at 04:47:11 UT, HAWC detected a burst signal\nfrom its Burst Monitoring named HAWC-200709A. This monitor system looks\nfor excesses above the expected background in time windows of 0.2, 1, 10\nand 100 seconds.\nThis event was found in the 100-second time window starting\nat the reported trigger time.\n\nWe apply an offline analysis around the time and location of the\nHAWC-200709A alert.\nThe offline analysis consists of a maximum likelihood analysis where\nwe compare the presence of a source against the background-only hypothesis.\nWe use the search window where the alert was detected for the analysis.\n\nThe results of the offline analysis are:\nRA (J200): 252.60 deg\nDec (J2000): 15.48 deg\nLocation uncertainty (68% containment): 0.39 deg (statistical only).\nFAR: 16.04 per year\n\nThis result just confirms the previous sub-threshold alert from the\nreal-time system\nwith an update on the position.\n\nThe initial automated alert is recorded here:\nhttps://gcn.gsfc.nasa.gov/notices_amon_hawc/1009500_793.amon\n\nHAWC is a very-high-energy gamma-ray observatory operating in Central\nMexico at latitude 19 deg. north. Operating day and night with over\n95% duty cycle, HAWC has an instantaneous field of view of 2 sr and\nsurveys 2/3 of the sky every day. It is sensitive to gamma rays\nfrom 300 GeV to 100 TeV."
+}

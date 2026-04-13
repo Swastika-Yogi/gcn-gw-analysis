@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241025C: Fermi GBM Detection",
+  "eventId": "GRB 241025C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37887....1S",
+  "createdOn": 1729896082358,
+  "submitter": "Lorenzo Scotton at UAH <lscottongcn@outlook.com>",
+  "circularId": 37887,
+  "format": "text/plain",
+  "body": "L. Scotton (UAH) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 15:36:10.66 UT on 25 October 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 241025C (trigger 751563375/241025650).\n\nThe GBM on-ground calculated location was reported in GCN Circular 37883.\n\nThe angle from the Fermi LAT boresight is 75 degrees.\n\nThe GBM light curve consists of a single emission episode with a duration (T90)\nof about 5 s (50-300 keV). The time-averaged spectrum\nfrom T0-3.0 to T0+3.2 s is best fit by\na power law function with an exponential high-energy cutoff.\nThe power law index is -0.68 +/- 0.13 and the cutoff energy,\nparameterized as Epeak, is 103 +/- 7 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.71 +/- 0.08)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+0.26 s in the 10-1000 keV band is 9.7 +/- 0.3 ph/s/cm^2.\n\nA Band function fits the spectrum equally well with\nEpeak = 102 +/- 10 keV, alpha = -0.68 +/- 0.15 and beta = -3.68 +/- 2.34.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

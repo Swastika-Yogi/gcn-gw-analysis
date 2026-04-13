@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080307: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080307",
+  "bibcode": "2008GCN..7375....1H",
+  "createdOn": 1204921240000,
+  "circularId": 7375,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <sholland@milkyway.gsfc.nasa.gov>",
+  "email": "sholland@milkyway.gsfc.nasa.gov",
+  "body": "S. T. Holland (CRESST/GSFC/USRA) reports on the behalf of the Swift\nUVOT team:\n\n        The Swift/UVOT observed the field of GRB 080307 starting 105 s\nafter the BAT trigger (Holland et al. 2008, GCN Circ. 7362).  We do not\nfind any source, in any of the UVOT observations, at the location of\nthe Gemini-North source (Tanvir, 2008 GCN Circ. 7369).\n\n        The 3-sigma upper limits for detecting a source at this\nlocation in the co-added images are:\n\n\nFilter    T_start   T_stop    Exp(s)    Mag (3-sigma upper limit)\n-----------------------------------------------------------------\n   v         212      5754       676     >20.7\n   b         691      6574       412     >21.4\n   u         666      6369       432     >21.1\n  uvw1       642      6164       432     >20.9\n  uvm2       618      5959       413     >20.6\n  uvw2       721      6816       245     >20.7\nwhite       105      6779       599     >22.3\n-----------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E_{B-V} = 0.03 mag.  All photometry is on the UVOT flight\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

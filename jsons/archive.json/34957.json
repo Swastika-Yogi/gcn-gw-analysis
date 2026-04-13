@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231104A: NuSTAR Observation of the prompt emission",
+  "eventId": "GRB 231104A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34957....1G",
+  "createdOn": 1699298511615,
+  "submitter": "Brian Grefenstette at Caltech/NuSTAR <bwgref@srl.caltech.edu>",
+  "circularId": 34957,
+  "body": "B. Grefenstette reports on behalf of the NuSTAR Search for INteresting Gamma-ray Signals (SINGS) working group:\n\nThe NuSTAR SINGS working group reports the discovery of prompt emission from a potential GRB 231104A in the NuSTAR CsI anti-coincidence shields and the CdZnTe imagers. This GRB was identified through a blind search using the CsI shield rates. Details of the search algorithm will be described in a future paper. \n\nThe CsI data are recorded at 1 Hz and show a broad burst with multiple peaks. The initial NuSTAR trigger had a T0 of 2023-11-04T01:47:31, though offline analysis shows that a initial rise in the shield of 2023-11-04T01:47:37, which is consistent with the onset time reported by Ferm GBM (Bala et al, GCN Circ 34950). Peak 1-sec count rates were ~4,000 counts per second in both the FPMA and FPMB shield units. Typical background rates are ~1,000 counts per second. The burst was detected in both the CdZnTe detectors as well as in the shields.\n\nUsing the localization from Swift (Palmer et al, GCN Circ 34938):\n\n RA(J2000) = 01h 35m 09s\n Dec(J2000) = +83d 47' 27\"\n\n…the burst was ~100-degrees from the instrument boresight.\n\nThe main burst lasts for ~6-s. Two narrow (<1-s) peaks can be seen in both the 1-Hz CsI shield rates and in the CdZnTe detectors.\n\nThe automated light curve report for this GRB, discovery report, off-line analysis of the shield data, and the CdZnTe lightcurves can be found here:\n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/reports/2023/231104A/\n\nInformation on NuSTAR SINGS can be found here: \n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/\n\nNuSTAR is a NASA Small Explorer mission led by Caltech and managed by JPL for NASA’s Science Mission Directorate in Washington. \n"
+}

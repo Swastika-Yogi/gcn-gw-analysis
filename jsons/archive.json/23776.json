@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 885456: Swift detection of MAXI J1631-479",
+  "bibcode": "2019GCN.23776....1D",
+  "createdOn": 1548300881000,
+  "circularId": 23776,
+  "submitter": "Aaron Tohuvavohu at PSU/Swift  <aaronb@swift.psu.edu>",
+  "email": "aaronb@swift.psu.edu",
+  "body": "V. D'Elia (SSDC), A. Y. Lien (GSFC/UMBC), K. L. Page (U Leicester),\nD. M. Palmer (LANL) and A. Tohuvavohu (PSU) report on behalf of the\nNeil Gehrels Swift Observatory Team:\n\nAt 03:17:21 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated MAXI J1631-479 (trigger=885456).  Swift slewed immediately to the target. \nThe BAT on-board calculated location is \nRA, Dec 247.798, -47.808 which is \n   RA(J2000) = 16h 31m 11s\n   Dec(J2000) = -47d 48' 28\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for an image trigger, there is nothing\nvisible in the real-time light curve. \n\nThe XRT began observing the field at 03:19:14.0 UT, 112.3 seconds after\nthe BAT trigger. XRT found a bright, uncatalogued X-ray source located\nat RA, Dec 247.8092, -47.8066 which is equivalent to:\n   RA(J2000)  = 16h 31m 14.21s\n   Dec(J2000) = -47d 48' 23.8\"\nwith an uncertainty of 5.3 arcseconds (radius, 90% containment), \nconsistent with the known position of MAXI J1631-479. No event data \nare yet available to determine the column density using X-ray spectroscopy. \n\nThe initial flux in the 0.1 s image was 3.90e-08 erg cm^-2 s^-1 (0.2-10\nkeV)."
+}

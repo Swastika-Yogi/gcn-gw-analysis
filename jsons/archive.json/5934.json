@@ -1,0 +1,10 @@
+{
+  "subject": "GRB061217: Swift/UVOT refined analysis.",
+  "eventId": "GRB 061217",
+  "bibcode": "2006GCN..5934....1D",
+  "createdOn": 1166392954000,
+  "circularId": 5934,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale, H. Ziaeepour, M. Chester, M.J. Page\nreport on the behalf of the Swift UVOT team:\n\n  The Swift/UVOT began observing the field of the short GRB GRB061217\n4917 seconds after the BAT trigger (Barthelmy et al., GCN Circ. 5926).\nNo optical afterglow candidate is detected in the XRT error circle of\nsource S1, the likely X-ray afterglow reported by Evans et al. GCN\ncirc. 5932, in the first V and White exposures or in the coadded\nones. We quote 3-sigma magnitude upper limits.\n\n\n    Filter    T_start  T_end    Exposure  3s u.l.\n               (s)     (s)        (s)\n==========================================\n   White      4917     5017      100     19.2\n     V        5024     5223      200     19.2\n\n\n   White      4917    11602     1343     20.6\n\n     V        5024    17392     1278     20.3\n\n     B        5842     7474      393     20.2\n\n     U        5637     7269      342     19.8\n\n     UVW1     5433     7065      393     19.7\n\n     UVM2     5228    17725      717     20.4\n\n     UVW2     5464    13325      997     20.6\n\n==========================================\n\n  We note that source S1 lies about 10'' from the bright - V~17.6 - galaxy\nwhich is also visible in the Supercosmos scans of the UKST sky survey \nplates.\n\n  The magnitudes quoted above are not corrected for the expected small \nGalactic extinction of E_{B-V} = 0.045 mag (Schlegel et al. 1998).\n\n[GCN OPS NOTE(17dec06): Per author's request, the HZ author's name\nwas corrected.]"
+}

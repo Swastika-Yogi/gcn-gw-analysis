@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100401A Burst, possibly short, detected in ground analysis of BAT data",
+  "eventId": "GRB 100401A",
+  "bibcode": "2010GCN.10567....1C",
+  "createdOn": 1270238269000,
+  "circularId": 10567,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), N. Gehrels (NASA/GSFC), F. E. Marshall (NASA/GSFC)\non behalf of the Swift team\n\n\nAt 2010-04-01T07:07:31.9 BAT detected a rate increase (trigger# 417974).\nThe source was found with insufficient significance onboard to trigger\nan automated burst response.  A significant source was found in ground\nanalysis at RA, Dec 290.813, -8.257, which is:\n\nRA (J2000)   19h 23m 15.5s\nDec (J2000) -08d 15' 25\"\n\nwith an estimated uncertainty of 2 arcmin radius (90% containment). The\nsource was 10% coded in the BAT field of view.\n\nAs seen in BAT, the burst had a single square-shaped pulse of about\n2 seconds duration.\n\nThe spectrum from 15 to 150 keV is best fit by a simple power law function\nwith a photon index of 1.7 +- 0.2.  We note that this is softer than is\ntypical for \"short, hard\" GRBs.  The fluence was (3.6 +- 1.2) erg/cm2.  The\n1-second peak flux was 2.4 photons/cm2.\n\nSince this burst was not detected with sufficient significance onboard,\nthere are no automated data products.  A Swift TOO is in progress."
+}

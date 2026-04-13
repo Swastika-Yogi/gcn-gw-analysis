@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060123: Swift detection of a very long, faint burst",
+  "eventId": "GRB 060123",
+  "bibcode": "2006GCN..4584....1P",
+  "createdOn": 1138144147000,
+  "circularId": 4584,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "D. Palmer (LANL), J. Kennea (PSU), J. Cummings (GSFC), D. N. Burrows (PSU), \nN. Gehrels (GSFC), F. Marshall (GSFC), C. Markwardt (GSFC/UMD), J. A. \nNousek (PSU), A. Parsons (GSFC) report on behalf of the Swift team:\n\nAt 22:22:40 UT, the Swift Burst Alert Telescope (BAT) located GRB \n060123.  The burst did not trigger GCN notices because the source was found \nin a long-term (5 minute) image, for which triggers are not currently \nenabled.  The BAT ground-calculated location is RA,Dec 179.750, +45.513 \n{11h 59m 00s, +45d 30' 47\"} (J2000) with an uncertainty of 3 arcmin \n(radius, 90% containment, including systematic uncertainty).  The BAT light \ncurve showed a multi-peaked structure with a duration of about 900 +- 100 \nsec.  The peak count rate was ~160 counts/sec (15-50 keV, note the unusual \nenergy interval), at ~300 sec after the trigger.  We note that this is a \nvery long duration burst, which suggests the possibility of a high-z event.\n\nAt 19:14:14 on Jan 24th, 2006 (75.1 ks after the event) Swift began a \ntarget of opportunity observation of this source.  Analysis of XRT data \nreveals a faint, fading, uncataloged point source at the following coordinates:\n\nRA(J2000):  11h 58m 47.9s\nDec(J2000): +45d 30' 45.5\"\n\nwith an error circle of 6 arcseconds (90% containment). This position lies \n128 arcseconds from the BAT position of this source. The fading X-ray \nlightcurve of this object strongly suggests that this is a GRB afterglow.\n\nUVOT took a 210 second exposure with the V filter starting at 19:14:14 \nUT.  No source was detected with a 3-sigma upper limit of 20.0 mag. at the \nXRT position."
+}

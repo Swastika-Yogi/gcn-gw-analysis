@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080605: Swift-UVOT refined analysis",
+  "eventId": "GRB 080605",
+  "bibcode": "2008GCN..7844....1K",
+  "createdOn": 1212785157000,
+  "circularId": 7844,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL),  B. Sbarufatti (INAF-IASFPA), F. Marshall (GSFC),\nand P.Schady (MSSL/UCL), report on behalf of the Swift UVOT team\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began observations\nof GRB 080605, on June 5, 2008, at  23:49:19 UT,  82 seconds after\nthe initial Swift BAT trigger (Mangano et al., GCN Circ. 7794), and\nstarted the finding chart exposure in the white filter at 102\nseconds after the trigger.\n\nThe refined uvot position of GRB080605 is RA=262.12522, Dec=+4.01555\ndeg.(= 17:28:30.05 +04:00:55.97), with an accuracy of 0.5\", consistent\nwith the positions reported in GCN Circ. 7830 (Holland et al.) and\n7835 (Goad et al.).\n\nThe GRB is found close (about 4\" distant) to a star, which may cause\nan error in the measured flux, especially at later times. For this\nanalysis we use a small 2\" aperture which which reduces the\ncontamination, and apply a standard aperture correction. We note that\nthe DSS image indicates the presence of a weak, possibly extended\nsource near the position of the afterglow.\n\nThe magnitudes with 1-sigma errors for GRB080605 are given below\nfor the initial observation sequence.\n\nFilter Tstart(s) Tstop(s) Exp(s) Magnitude\n\nwh      102      201     98.2    18.11 +/- 0.06\nv       208      607    393.5    18.53 +/- 0.11\nwh      858      957     98.2    20.02 +/- 0.17\nuvm2    615      788     38.9   >18.38 (3 sigma UL)\nuvw1    639      813     38.9   >18.95 (3 sigma UL)\nuvw2    720      739     19.5   >18.16 (3 sigma UL)\nb     27679    28264    571.7    21.10 +/- 0.27\nu     18432    41856    550.7    21.17 +/- 0.43\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al, 2008, MNRAS 383,627). They are not corrected for the\nexpected galactic reddening of E(B-V) = 0.137 in the direction of\nthe burst (Schlegel et al. 1998)."
+}

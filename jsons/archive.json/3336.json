@@ -1,0 +1,9 @@
+{
+  "subject": "Retraction of Swift-BAT trigger 116145",
+  "bibcode": "2005GCN..3336....1B",
+  "createdOn": 1115060309000,
+  "circularId": 3336,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC) on behalf of the Swift-BAT team:\n\nThe Swift-BAT trigger (trigger=116145) at 15:06:48 UT is not due to a GRB.\nThe trigger was the result of an error in the BAT flight software\nfor processing image triggers (not the normal rate triggers).  That pathway\nin the BAT FSW has now been disabled. \n\nSome GCN Notice clients received FOM_OBSERVE and SC_SLEW notices\non this trigger.  The BAT_POSITION notice was correctly identified\nas a non-GRB and blocked from distribution by the GCN filtering code,\nbut the FOM_AT and SC_SLEW were not blocked.  This error in the filtering code\nwill be fixed.\n\nWe apologize for any inconvenience that this false-positive may have caused."
+}

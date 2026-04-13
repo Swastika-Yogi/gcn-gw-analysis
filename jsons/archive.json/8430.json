@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT observations of GRB081028",
+  "eventId": "GRB 081028",
+  "bibcode": "2008GCN..8430....1S",
+  "createdOn": 1225197660000,
+  "circularId": 8430,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and C. Guidorzi (INAF-OAB) report on behalf of  \nthe Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 081028  \n201s after the BAT detection (Guidorziet al., GCN Circ. 8421). No  \nsource is detected in any of the individual or coadded exposures in  \nany of the UVOT filters at the XRT position (GCN Circ. 8427), or at  \nthe position of the reported optical counterpart (GCN Circ. 8424, GCN  \nCirc. 8425).  The 3 sigma upper limits at the position of the optical  \ncounterpart for the first white finding chart (fc) and in consequent  \nco-added observations are reported below (where T_start and T_stop  \nrepresent the elapsed time since the BAT trigger in seconds).\n\nFilter  T_start(s) T_stop(s)  Exp(s)   3 sigma Upper Limit\nwhite     201           350           146         > 20.95\nwhite     481           846            58           > 20.05\nv             357          722            58           > 18.50\nb             456          821            58           > 19.33\nu             432          796            58           > 18.98\nuvw1      407         771             58           >19.01\nuvm2      382         746             58           >18.70\nuvw2      506          868            55           >19.01\n\nThe above magnitudes are not corrected for the Galactic extinction  \ncorresponding to a reddening of E(B-V) = 0.03 mag (Schlegel et al.,  \n1998, ApJS, 500, 525).  The photometry is on the UVOT photometric  \nsystem described in Poole et al. (2008, MNRAS, 383,627)."
+}

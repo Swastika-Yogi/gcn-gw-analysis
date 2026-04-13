@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090626: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 090626",
+  "bibcode": "2009GCN..9629....1N",
+  "createdOn": 1247130005000,
+  "circularId": 9629,
+  "submitter": "Kazuhiro Noda at Miyazaki U  <kaz1206@astro.miyazaki-u.ac.jp>",
+  "email": "kaz1206@astro.miyazaki-u.ac.jp",
+  "body": "K. Noda, E. Sonoda, M. Yamauchi, N. Ohmori, H. Hayashi,\nK. Kono, A. Daikyuji, Y. Nishioka (Univ. of Miyazaki),\nY. Hanabata, T. Uehara, T. Takahashi, Y. Fukazawa (Hiroshima U.),\nM. Ohno, M. Suzuki, M. Kokubun, T. Takahashi (ISAS/JAXA),\nW. Iwakiri, M. Tashiro, Y. Terada, A. Endo, K. Onda,\nT. Sugasahara (Saitama U.), Y. Urata (NCU),\nT. Enoto, K. Nakazawa, K. Makishima (Univ. of Tokyo),\nK. Yamaoka, S. Sugita (Aoyama Gakuin U.), Y. E. Nakagawa,\nT. Tamagawa (RIKEN), S. Hong (Nihon U.), N. Vasquez (Tokyo Tech.),\non behalf of the Suzaku WAM team, report:\n\n\nThe long GRB 090626 (Fermi/GBM trigger 267683530 / 090626189 ; A. von Kienlin et al.,\nGCN 9579) triggered the Suzaku Wide-band All-sky Monitor (WAM) which\ncovers an energy range of 50 keV - 5 MeV at 04:32:09 UT (=T0). The observed\nlight curve shows a multi-peaked structure lasting from T0-2 s, ending at\nT0+65 s, with a duration (T90) of about 45 seconds.\n\nThe fluence in 100 - 1000 keV was 3.60 (-0.07, +0.22) x10-5 erg/cm2.\nThe 1-s peak flux measured from T0+2 s was 10.51 (-0.76, +0.67)\nphotons/cm2/s\nin the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-2s to T0+65s is well fitted by a power-law with exponential cutoff model:\n  dN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\n  alpha 1.76(-0.18, +0.17), and\n  Epeak 270(-79, +63) keV (chi2/d.o.f. = 26/22).\n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe light curves for this burst will be available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

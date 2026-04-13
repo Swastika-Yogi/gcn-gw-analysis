@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060223: Swift detection of a burst",
+  "eventId": "GRB 060223",
+  "bibcode": "2006GCN..4813....1C",
+  "createdOn": 1140676173000,
+  "circularId": 4813,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (NASA/ORAU), S. D. Barthelmy (NASA/GSFC), P. T. Boyd\n(NASA/GSFC), D. N. Burrows (PSU), M. Capalbi (ASDC), M. M. Chester\n(PSU), J. A. Kennea (PSU), H. A. Krimm (GSFC/USRA), C. B. Markwardt\n(GSFC/UMD), F. E. Marshall (NASA/GSFC), D. M. Palmer (LANL) and M. \nPerri (ASDC) report on behalf of the Swift Team:\n\nAt 06:04:23 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060223 (trigger=192059).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA,Dec 55.216, -17.139 {03h 40m 52s, -17d 08' 19\"} (J2000)\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a multi-peaked\nstructure with a duration of about 15 sec.  The peak count rate\nwas ~1500 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nThe XRT began taking data at 06:05:49 UT, 86 seconds after the BAT\ntrigger.  The XRT on-board centroid algorithm did not find a source in the\nimage and no prompt position is available.  We are waiting for down-linked\ndata to detect and determine a position for the source. \n\nIn response to the Swift/BAT trigger 192059, UVOT took a finding chart\nexposure of nominally 200 seconds with the V filter starting 86.5\nseconds after the BAT trigger. There is a candidate afterglow in the\nsub-imagae and the list of sources generated on-board at (RA,DEC)\n(J2000) of (55.2065, -17.1301) with a 1-sigma error radius of about 1\narcsec. This position is 45.9 arcsec from the center of the BAT error\ncircle. The estimated V magnitude is 17.6 with a 1-sigma error of\nabout 0.5 mag."
+}

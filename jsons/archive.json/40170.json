@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250419A: SVOM/VT optical bright counterpart confirmation",
+  "eventId": "GRB 250419A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40170....1X",
+  "createdOn": 1745039151127,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "circularId": 40170,
+  "format": "text/plain",
+  "body": "L. P. Xin, Y. L. Qiu, C. Wu,  H. L. Li., Z. H. Yao, Y. N. Ma, X. H. Han, H. B. Cai,J.Y. Wei (NAOC), J. T. Palmerio (CEA), B.-T. Wang (YNAO, CAS), Y.H. Cheng (SWIFAR,YNU), W. J. Xie(NAOC), report on behalf of SVOM/VT team:\n\nAfter the trigger by SVOM/ECLAIRs at 2025-04-19T02:29:32 UTC (Tb), SVOM performed an automatic slew on the burst. SVOM/VT began observing the field at 45.26 min after the SVOM trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued and bright source, compared to DESI catalog, is found by automatic ground pipeline based on VHF data within the error box of SVOM/ECLAIRs (Wang et al. GCN 40168) at ra=202.40533, dec=7.04106 (J2000), corresponding to:\n\nRA (J2000) = 13:29:37.28\nDec (J2000) = +07:02:27.8\nwith an uncertainty of 0.5 arcsec.\n\nThe source is detected in both VT_R and VT_B in the third VT observing sequence, the magnitudes are given below:\n\nMidTime min | exposure time (s) | mag(AB) | mag err | band\n47.767 | 6x50 | 17.790| 0.02 | VT_R\n47.767 | 6x50 | 18.220| 0.01 | VT_B\n\nThe position and the brightness are consistent with the report (López et al., GCN 40169).\n\nGiven the VT color of the counterpart, it might be a low redshift gamma-ray burst. \n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n"
+}

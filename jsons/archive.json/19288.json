@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 160410A (short/hard)",
+  "eventId": "GRB 160410A",
+  "bibcode": "2016GCN.19288....1F",
+  "createdOn": 1460385482000,
+  "circularId": 19288,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 160410A (Swift/BAT observation:\nGibson et al., GCN 19271; Sakamoto et al., GCN 19276)\ntriggered Konus-Wind at T0=18592.644 s UT (05:09:52.644).\n\nThe light curve shows a short, hard pulse with a total duration is ~2 s.\nThe emission is seen up to ~4 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(1.20 �� 0.3)x10^-5 erg/cm2 and a 16-ms peak energy flux,\nmeasured from T0-0.016, of (2.8 �� 0.4)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -0.71(-0.20,+0.26),\nand the peak energy Ep = 1416(-356,+528) keV,\nchi2 = 92/97 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep with only an upper limit on beta of -2.1,\nchi2 = 92/96 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB160410_T18592/\n\nAssuming the redshift z=1.717 (Selsing et al., GCN 19274)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.27, and Omega_Lambda = 0.73,\nwe estimate the following rest-frame parameters:\nthe isotropic energy release E_iso is ~4.0x10^52 erg,\nthe peak luminosity L_iso is ~7.5x10^52 erg/s,\nand the rest-frame peak energy of the time-integrated spectrum,\nEp,i, is ~4660 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

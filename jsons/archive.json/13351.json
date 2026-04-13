@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 120528B",
+  "eventId": "GRB 120528B",
+  "bibcode": "2012GCN.13351....1G",
+  "createdOn": 1338459904000,
+  "circularId": 13351,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam report:\n\nThe long GRB 120528B (MAXI/GSC detection and localization:\nM. Morii et al., GCN 13346) was detected by Konus-Wind\nin the waiting mode starting at T0(KW)= 65508 s UT (18:11:48),\n~20s before the T0(MAXI).\n\nThe burst light curve shows a single pulse with a total duration of ~30s.\n\nAs observed by Konus-Wind, the burst had a fluence\nof (2.9 � 0.8)x10-6 erg/cm2 (in the 20 - 1200 keV energy range).\n\nModelling the K-W 3-channel time-integrated spectrum\n(from T0(KW) to T0(KW)+26 s)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.41 � 1.22, and Ep = 201 � 112 keV\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB120528B/"
+}

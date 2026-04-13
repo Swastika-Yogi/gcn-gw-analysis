@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210318B: MITSuME Okayama optical upper limits",
+  "eventId": "GRB 210318B",
+  "bibcode": "2021GCN.29675....1H",
+  "createdOn": 1616206292000,
+  "circularId": 29675,
+  "submitter": "Ryohei Hosokawa at Tokyo Institute of Technology  <hosokawa@hp.phys.titech.ac.jp>",
+  "email": "hosokawa@hp.phys.titech.ac.jp",
+  "body": "R. Hosokawa, K. L. Murata, R. Adachi, M. Niwano, F. Ogawa, N.Nakamura,\nN. Ito, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.Kawai\n(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 210318B (Troja et al. GCN Circular\n#29663, Svinkin et al. GCN Circular #29664, Stamatikos et al. GCN\nCircular #29666, Lipunov et al. GCN Circular #29667, Malacaria et al.\nGCN Circular #29668) with the optical three color (g', Rc, and Ic) CCD\ncameras attached to the MITSuME 50 cm telescope of Okayama\nAstrophysical Observatory, Okayama, Japan. The observation with a\nseries of 60 sec exposures started at 2021-03-19 19:11:03 UT.(40.4\nhours after Swift BAT trigger) We stacked the images with good\nconditions. We did not find any new point sources within the Swift XRT\ncircle (Troja et al. GCN Circular #29663) in all three bands.\nWe obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n40.4 19:50:32 2040 g'>14.3, Rc>14.2, Ic>13.4\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used the UCAC4 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

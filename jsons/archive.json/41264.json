@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250806A: Swift/UVOT U-band detection",
+  "eventId": "GRB 250806A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41264....1B",
+  "createdOn": 1754565310199,
+  "circularId": 41264,
+  "submitter": "Alice Breeveld at MSSL-UCL <a.breeveld@ucl.ac.uk>",
+  "body": "A.A. Breeveld (UCL-MSSL) and Paul Kuin (UCL-MSSL) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of the SVOM/ECLAIRS detected burst GRB 250806A (Xie et al., GCN Circ. 41243) 354 s after the SVOM trigger. The X-ray afterglow reported by Campana et al. (GCN Circ. 41249) and Liang et al. (GCN Circ. 41260) is detected in the initial U-band exposure, but has faded in the later white band exposures.\n\nPreliminary magnitude and 3-sigma upper limit using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures is:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nu              354          1370           1000             20.5 ± 0.3\nwhite          63123        64122          975            > 21.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V)=0.044 in the direction of the burst (Schlegel et al. 1998).\n"
+}

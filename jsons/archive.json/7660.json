@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080430: Swift/UVOT observations",
+  "eventId": "GRB 080430",
+  "bibcode": "2008GCN..7660....1L",
+  "createdOn": 1209678580000,
+  "circularId": 7660,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W.B. Landsman (NASA/GSFC) and C. Guidorzi (INAF-OAB)  report on behalf \nof the Swift/UVOT team\n\nThe Swift/UVOT observed the field of GRB 080430 starting at 58s after  \nthe BAT trigger (Guidorzi et al., GCN 7647). We detect the afterglow in \nall seven UVOT filters at the position\n\nRA(J2000.0)  =   11:01:14.66\nDEC(J2000.0) =  +51:41:08.4\n\nwith an estimated uncertainty of 0.5 arcsec (radius, 90% confidence).  \nThis position is consistent with the enhanced XRT position (Guidorzi et \nal. GCN 7653)\nand the position reported from  BOOTES obervations by Jelinek et al.  \n(GCN 7648).     The detection in the UVW2 (1950 A) filter is consistent \nwith the\nredshift of ~0.76 determined from spectroscopic observations by Deugarte \nPostigo et al. (GCN 7650) and  Cucchiara & Fox (GCN 7654). The temporal \nslope in the white filter out to 30400 seconds is approximately alpha = \n0.23.\n\nUVOT photometry from early individual images is reported below.     \n\nFilter    Tmid(s)     Expo(s)            Magnitude\n-----------------------------------------------------\nWhite      108          98              17.08 � 0.03\nWhite      928          98              18.23 � 0.05\nv          364         393              17.64 � 0.06\nv         1184         393              18.50 � 0.09\nb         5989         197              20.05 � 0.21\nu         5784         197              18.92 � 0.12\nw1        7014         197              18.89 � 0.16\nm2        6809         197              18.88 � 0.22\nw2        5684         197              19.24 � 0.20\n-----------------------------------------------------\n\nThese magnitudes are not corrected for the Galactic extinction  \ncorresponding to a reddening of E{B-V} = 0.012 mag (Schlegel et al. \n1998).  The photometry is on the UVOT flight system described in Poole \net al. (2008,MNRAS,383,627)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190602aq: Upper limits from CALET observations",
+  "eventId": "LIGO/Virgo S190602aq",
+  "bibcode": "2019GCN.24735....1T",
+  "createdOn": 1559618742000,
+  "circularId": 24735,
+  "submitter": "Yuta Kawakubo at Louisiana State U./CALET  <kawakubo1@lsu.edu>",
+  "email": "kawakubo1@lsu.edu",
+  "body": "S. Torii (Waseda U), A. Yoshida, T. Sakamoto, V. Pal'shin, \nS. Sugita (AGU), Y. Kawakubo (LSU), K. Yamaoka (Nagoya U),\nS. Nakahira (RIKEN), Y. Asaoka, S. Ozawa (Waseda U), Y. Shimizu, \nT. Tamura (Kanagawa U), N. Cannady (GSFC/UMBC), \nM. L. Cherry (LSU), S. Ricciarini (U of Florence),\nP. S. Marrocchesi (U of Siena),\n\nThe CALET Gamma-ray Burst Monitor (CGBM) was operating at the\ntrigger time of S190602aq T0 = 2019-06-02 17:59:27.089 UT (The\nLIGO Scientific Collaboration and Virgo Collaboration, GCN Circ.\n24717).\n\nNo CGBM on-board trigger occurred around the event time.  Based\non the LIGO-Virgo localization sky map, most of the high probability\narea was within the field-of-view of the CGBM SGM.  The summed\nLIGO probabilities inside the CGBM HXM (7-3000 keV) and SGM\n(40 keV - 28 MeV) fields of view are 11% and 70%, respectively\n(and 99% credible region of the initial localization map was above\nthe horizon).  The HXM and SGM fields of view were centered at\nRA = 118.5 deg, Dec = 53.8 deg and  RA = 127.2 deg, Dec = 45.5 deg\nat T0, respectively.\n\nBased on the analysis of the light curve data with 0.125 sec\ntime resolution from T0-60 sec to T0+60 sec, we found no\nsignificant excess (signal-to-noise ratio >= 7) around the trigger\ntime in either the HXM or the SGM data.\n\nThe CALET Calorimeter (CAL) was operating in the high energy\ntrigger mode at the trigger time of S190602aq. Using the CAL data,\nwe have searched for gamma-ray events in the 10-100 GeV\nband from -60 sec to +60 sec from the GW trigger time and\nfound no candidates.\nThe 90% upper limit of CAL is 2.9x10^-4 erg/cm^2/s (10-100 GeV) when\nthe summed LIGO-Virgo probability reaches 5%.\nThe CAL FOV was centered at RA= 127.5 deg, DEC= 45.1 deg at T0."
+}

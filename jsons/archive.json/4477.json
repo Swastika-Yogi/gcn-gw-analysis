@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060110: Swift-BAT refined analysis",
+  "eventId": "GRB 060110",
+  "bibcode": "2006GCN..4477....1P",
+  "createdOn": 1136948241000,
+  "circularId": 4477,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "A. Parsons (GSFC), L. Barbier (GSFC), S. Barthelmy (GSFC), \nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC), \nD. Hullinger (UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nJ. Nousek (PSU),  D. Palmer (LANL), T. Sakamoto (GSFC/ORAU), \nG. Sato (ISAS), M. Tripicco (GSFC-SSAI), J. Tueller (GSFC), \non behalf of the Swift-BAT team:\n\nUsing the data set from T-299.7 to T+95 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060110\n(trigger #176702)  (Zane, et al., GCN 4463).  \nThe BAT ground-calculated position\nis (RA,Dec) = 72.738, 28.427 {4h 50m 57.2s, 28d 25' 35.7\"} (deg; J2000)\n+- 0.7 arcmin, (radius, sys+stat, 90% containment).  \nThe partial coding was 92%.\n \nThe mask-tagged lightcurve shows a single FRED like peak starting from \nT-2 sec.  T90 (15-350 keV) is (17 +- 2) sec \n(estimated error including systematics).\nDue to viewing constraints, Swift slewed away from this burst after\n95 seconds, so no information on any possible later emission is\navailable.  There is no sign of emission after the single FRED peak,\nhowever.\n\nOver the full burst interval (T-3.7 to T+20.4 sec), \nthe power law index of the time-averaged spectrum is 1.63 +- 0.08.\nThe fluence in the 15-150 keV band is (1.4 +- 0.1) x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+1.22 sec in the 15-150 keV\nband is (1.9 +- 0.2) ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level."
+}

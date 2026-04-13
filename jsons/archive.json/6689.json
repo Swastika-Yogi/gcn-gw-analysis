@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT detection of GRB070714B",
+  "eventId": "GRB 070714B",
+  "bibcode": "2007GCN..6689....1L",
+  "createdOn": 1185830227000,
+  "circularId": 6689,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (NASA/GSFC), F.E. Marshall (NASA/GSFC), and J. Racusin (PSU) \nreport on behalf of the  Swift/UVOT team:\n\nThe Swift/UVOT observed the field of the short-hard burst GRB 070714B \nstarting 70 s after the  BAT trigger (Racusin et al. GCN Circ. \n6620).     Upper limits on individual exposures were reported by \nLandsman & Racusin (GCN Circ. 6632).    We now  combine all data \nobtained within the first 7350s and find detections in the white (4.5 \nsigma) and v (3.3  sigma) filters at the position of the source first \nreported by Melandri et al. (GCN Circ. 6621).     The source is detected \nin each of the three UV filters at the ~2.9 sigma level.   Presuming the \ndetection in the UVW2 (2100 A) filter is real, an upper limit of ~1.3 \ncan be set on the redshift.\n\n\nFilter    Tstart  Tstop     Exp       Mag\n            (s)    (s)      (s) \nWhite       70    7143      628      20.95 � 0.23\n\nv          177    6117     1435      20.36 � 0.32\n          7355   87569     4321     >20.9 (3 sigma)\n\nuvw1       607    6528      294      20.14 � 0.38\n         11649   99315     9741     >22.1 (3 sigma)\n\nuvm2       583    6321      294      20.02 � 0.37\n         10742   98409     8750     >22.3 (3 sigma)\n\nuvw2       687    7350      471      20.55 � 0.37\n         16463  104208     5313     >22.1 (3 sigma)"
+}

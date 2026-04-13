@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220427A",
+  "eventId": "GRB 220427A",
+  "bibcode": "2022GCN.31964....1F",
+  "createdOn": 1651155652000,
+  "circularId": 31964,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 220427A (Swift detection: D'Ai et al., GCN Circ. 31960)\ntriggered Konus-Wind (KW) at T0=75645.009 s UT (21:00:45.009).\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-3 s and has a total duration of ~15 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220427_T75645/\n\nAs observed by Konus-Wind, the burst had\na fluence of (1.0 �� 0.3)x10^-5 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 0.256 s,\nof (2.5 �� 0.7)x10^-6 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nA time-averaged spectrum of the burst (measured from T0 to T0+8.448 s)\nis well fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.04(-0.30,+0.43) and Ep = 503(-204,+757) keV (chi2 = 77/97 dof).\nA fit to this spectrum by the Band GRB function is poorly constrained,\nit results in the best fit values of alpha~-0.6, Ep~260 keV, and\nthe high energy photon index beta ~ -2.0 (chi2 = 77/96 dof).\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

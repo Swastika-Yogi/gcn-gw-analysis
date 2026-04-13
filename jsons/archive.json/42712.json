@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 251116C: SVOM/VT optical upper limit",
+  "editedOn": 1763396413439,
+  "eventId": "GRB 251116C",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42712....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 42712,
+  "createdOn": 1763372391207,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, Y. N. Ma, Z. H. Yao, Y. Xu, X. H. Han, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), M. Pillas (IAP), M.G. Bernardini (INAF-OAB, LUPM)  report on behalf of the SVOM/VT team.\n\nSVOM/VT performed an automatic slew on GRB 251116C (SVOM burst-id sb25111605, Pillas et al., GCN 42703). The observation started on 2025-11-16T17:04:52 UT (i.e. 1.1 hour post trigger) in VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nNo uncatalogued sources are detected in single or stacked images within ECL's error box (Pillas et al., GCN 42703) and the Swift/XRT source #1 and source #2's error box (https://www.swift.ac.uk/SVOM/SVOM_FIELD00051/). The 3 sigma limit magnitudes are derived as below:\n\nMid time | Band | Exposure Time | 3 sigma limit magnitude\n1.4 hour   VT_B     23*50 sec           >23.3 mag    \n1.4 hour   VT_R     28*50 sec           >23.4 mag\n\nOur result is consistent with the LCO's observation (Turpin et al., GCN 42705).\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

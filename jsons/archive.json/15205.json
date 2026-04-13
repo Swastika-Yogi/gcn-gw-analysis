@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130907A:  Further Swift-BAT refined analysis",
+  "eventId": "GRB 130907A",
+  "bibcode": "2013GCN.15205....1K",
+  "createdOn": 1378755661000,
+  "circularId": 15205,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.krimm@nasa.gov>",
+  "email": "hans.krimm@nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA), J. R. Cummings (GSFC/UMBC), D. M. Palmer (LANL),\nC. B. Markwardt (GSFC) for the Swift-BAT team):\n\nUsing the complete data set from T-239 to T+963 sec, we report further analysis \nof BAT GRB 130907A (trigger #569992) (Page, et al., GCN Circ. 15183).  The \ninitial report on the BAT data was presented in Cummings, et al., GCN Circ. 15202.\n\nThe burst started while Swift was slewing from another target, and the burst \nlocation came into the BAT coded field of view at about T-80 seconds. The \ninitial pair of peaks at T-117 that triggered Konus-Wind (Golenetskii, et al., \nGCN Circ. 15203) and INTEGRAL/SPI-ACS  (Savchenko, et al., GCN Circ. 15204) were \nseen from outside the coded field in the non-weighted rates.\n\nThe mask-weighted light curve is described in Cummings, et al., GCN Circ. 15202. \nAlthough there are no discrete peaks later than T+240 seconds, the burst is \nstill detected in the mask-weighted rate out to T+963 sec, when this data cuts \noff and continues to be detected onboard in a 64-second image starting at \nT+1388, and possibly later.  Since the BAT event data does not cover the full \nextent of the burst, we cannot reliably calculate T90 at this point, but it is \nat least 360 seconds.\n\nThe time-averaged spectrum from T-73.7 to T+767.4 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.17 +- 0.02.  The fluence in the 15-150 keV band is 1.4 +- 0.01 x 10^-4 \nerg/cm2. We note that this time interval does not cover the entire burst \nduration, so should be considered a lower limit.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/569992/BA/"
+}

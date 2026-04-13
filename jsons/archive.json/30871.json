@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-210922A: Upper limits from Fermi-GBM Observations",
+  "eventId": "IceCube-210922A",
+  "bibcode": "2021GCN.30871....1M",
+  "createdOn": 1632412031000,
+  "circularId": 30871,
+  "submitter": "Christian Malacaria at NASA-MSFC/USRA  <cmalacaria@usra.edu>",
+  "email": "cmalacaria@usra.edu",
+  "body": "C. Malacaria (USRA) reports on behalf of the Fermi-GBM team:\n\nFor the IceCube high-energy neutrino candidate event IceCube-210811A\n(GCN 30862), at the event time Fermi-GBM was observing the reported\nneutrino location at:\n\nRA: 60.73 (+0.96, -0.66 deg  90% PSF containment) J2000\nDec: -4.18 (+0.42, -0.55 deg 90% PSF containment) J2000\n\nThere was no Fermi-GBM onboard trigger around the event time of the\nneutrino candidate. An automated, blind search for short gamma-ray bursts\nbelow the onboard triggering threshold in Fermi-GBM also identified no\ncounterpart candidates. \n\nThe GBM targeted search, the most sensitive, coherent search for GRB-like\nsignals, was run from +/-30 s around the neutrino candidate time.\nFrom this search, no significant signal was found related\nto IceCube-210922A.\n\nWe set upper limits on impulsive gamma-ray emission. Using the\nrepresentative soft, normal, and hard GRB-like templates described in\narXiv:1612.02395, we set the following 3 sigma flux upper limits over\n10-1000 keV (in units of 10^-7 erg/s/cm^2):\n\nTimescale   soft    norm    hard\n--------------------------------------\n0.128 s:       6.4      11.        14.\n1.024 s:       2.1      3.4        4.6\n8.192 s:       0.6      0.9        1.4\n\nThese results are preliminary."
+}

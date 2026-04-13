@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180709A: Optical limits",
+  "eventId": "GRB 180709A",
+  "bibcode": "2018GCN.22935....1H",
+  "createdOn": 1531154182000,
+  "circularId": 22935,
+  "submitter": "Jules Halpern at Columbia U.  <jph1@columbia.edu>",
+  "email": "jph1@columbia.edu",
+  "body": "J. P. Halpern (Columbia U.) reports:\n\nI observed the field of Swift GRB 180709A (Marshall et al., GCN 22930)\nwith an SDSS r filter using the 1.3m McGraw Hill telescope of the\nMDM Observatory, beginning 17.6 minutes after the trigger.\nFour 5-minute exposures were obtained in morning twilight.\nUpper limits at the enhanced Swift-XRT position of Beardmore et al.\n(GCN 22933) are listed below, as calibrated to Pan-STARRS1 photometry.\n\n       ---------------------------------------------\n        Date(UT)  Start(UT)  Mid-time T-T0   r(mag)\n       ---------------------------------------------\n        July 9     11:09:34      1194 s      > 22.0\n        July 9     11:14:41      1501 s      > 21.8\n        July 9     11:19:47      1807 s      > 21.4\n        July 9     11:24:54      2114 s      > 21.1\n       ---------------------------------------------\n\nThese magnitudes are not corrected for Galactic extinction, which is\nconsiderable at this Galactic latitude of -0.1 deg.  According to the\nNED implementation of Schlafly & Finkbeiner (2011), A_r = 6.1 mag."
+}

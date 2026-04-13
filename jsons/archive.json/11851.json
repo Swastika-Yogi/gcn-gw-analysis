@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110328/Swift J164449.3+573451: Fermi observations",
+  "eventId": "GRB 110328",
+  "bibcode": "2011GCN.11851....1C",
+  "createdOn": 1301582835000,
+  "circularId": 11851,
+  "submitter": "Sergio Campana at INAF-OAB  <sergio.campana@brera.inaf.it>",
+  "email": "sergio.campana@brera.inaf.it",
+  "body": "S. Campana, L. Foschini, G. Tagliaferri, G. Ghisellini,\nS. Covino (INAF-OAB) report:\n\nWe retrieved Fermi LAT publicly available data in near-real time\nfrom http://fermi.gsfc.nasa.gov/cgi-bin/ssc/LAT/LATDataQuery.cgi\nto search for high energy emission from GRB 110328 /\nSwift J164449.3+573451 within the time interval:\n2011-03-27 00:00:00 UTC\n2011-03-31 00:00:00 UTC\n\nWe used LAT Science Tools 9.18.6 and the corresponding calibration\nfiles to perform the analysis. We analyzed data for each of the four\ndays and in none of the corresponding datasets we detect the\nsource.\nFollowing Foschini et al. (2011, http://arxiv.org/abs/1101.1085),\nwe derived a 3 sigma upper limit of ~3x10^-7 ph/cm2/s in the\n0.1-100 GeV energy band in each exposure (lasting 4-5 ks)."
+}

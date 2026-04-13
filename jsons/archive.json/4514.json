@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060115: Swift XRT refined analysis",
+  "eventId": "GRB 060115",
+  "bibcode": "2006GCN..4514....1P",
+  "createdOn": 1137356190000,
+  "circularId": 4514,
+  "submitter": "Matteo Perri at ISAC/ASDC  <perri@asdc.asi.it>",
+  "email": "perri@asdc.asi.it",
+  "body": "M. Perri (ASDC), G. Chincarini (Univ. Milano-Bicocca), G. Tagliaferri\n(INAF-OAB), D.N. Burrows (PSU), M. Tripicco (GSFC-SSAI) and F. Marshall\n(GSFC) report on behalf of the Swift XRT team:\n\nWe have analyzed the first two orbits of XRT data from GRB 060115\n(trigger 177408, GCN 4509). A 1260s Photon Counting mode image\nprovides a refined XRT position:\n\nRA(J2000) = 03h 36m 08.49s,\nDec(J2000) = +17d 20m 45.3s\n\nwith an uncertainty of 3.8 arcsec (90% containment). This position\nis 1.7 arcsec away from the on-board XRT position (Tagliaferri et al.,\nGCN 4509) and includes the latest XRT boresight correction. This\nposition is 2.6 arcsec from the optical afterglow position (which\nalso has an uncertainty of 2 arcsec) reported by Yanagisawa et al.\n(GCN 4510).\n\nThe X-ray light curve in the first two orbits can be fit with a broken\npower-law with an initial decay slope of -3.3+/-0.1, a break at\nT+570+/-40 s, and a post-break slope of -0.7+/-0.1. At around T+400s\nsome flare activity is also evident.\n\nA power-law fit to the X-ray spectrum from T+121s to T+153s gave a\nphoton index of 1.8+/-0.1 and a column density of (1.5+/-0.6)E21 cm**-2,\nconsistent with the Galactic hydrogen column density in the direction\nof the burst of 1.3E21cm**-2.\n\nIf the burst continues to decay at the current rate we estimate an XRT\ncount rate of 8E-3 counts/s at T+24hr, which corresponds to an observed\n0.3-10.keV flux of ~4E-13 ergs cm**-2 s**-1."
+}

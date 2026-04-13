@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210104A: Swift/UVOT Detection",
+  "eventId": "GRB 210104A",
+  "bibcode": "2021GCN.29247....1B",
+  "createdOn": 1609798885000,
+  "circularId": 29247,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and E. Troja (NASA/GSFC/UMCP) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 210104A 71 s after the BAT trigger \n(Troja et al., GCN Circ. 29233).\nA fading source is detected in all UVOT filters in the initial exposures, at the position given in \nTroja et al., (GCN Circ. 29233), and also seen by others (Xin et al., GCN Circ. 29235; Hosokawa et \nal., GCN Circ. 29237; Kim et al., GCN Circ. 29238; Lipunov et al., GCN Circ. 29239 and Horiuchi et \nal., GCN Circ. 29241).\n\nPreliminary detections using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. \n1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC            71          221          147         14.61 �� 0.02\nwhite              562          582           20         16.23 �� 0.05\nwhite             1512         1706           39         17.02 �� 0.05\n\nb                  538          558           20         16.59 �� 0.10\nu_FC               283          533          246         15.28 �� 0.03\nv                  613          632           20         16.36 �� 0.16\nuvw1               662          682           20         16.12 �� 0.16\nuvm2               637          657           20         16.58 �� 0.25\nuvw2               588          608           20         17.09 �� 0.26\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of \nE(B-V) = 0.04 in the direction of the burst (Schlegel et al. 1998)."
+}

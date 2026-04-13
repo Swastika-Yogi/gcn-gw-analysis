@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230308A: Fermi GBM Final Real-time Localization",
+  "eventId": "GRB 230308A",
+  "bibcode": "2023GCN.33420....1F",
+  "createdOn": 1678282969000,
+  "circularId": 33420,
+  "submitter": "Fermi GBM Team at MSFC/Fermi-GBM  <do_not_reply@GIOC.nsstc.nasa.gov>",
+  "email": "do_not_reply@GIOC.nsstc.nasa.gov",
+  "body": "The Fermi GBM team reports the detection of a likely SHORT GRB\n\nAt 13:32:27 UT on 8 Mar 2023, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 230308A (trigger 699975152.401482 / 230308564).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 94.9, Dec = 68.5 (J2000 degrees, equivalent to J2000 06h 19m, 68d 30'), with a statistical uncertainty of 1.2 degrees.\n\nThe angle from the Fermi LAT boresight is 42.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230308564/quicklook/glg_skymap_all_bn230308564.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230308564/quicklook/glg_healpix_all_bn230308564.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230308564/quicklook/glg_lc_medres34_bn230308564.gif"
+}

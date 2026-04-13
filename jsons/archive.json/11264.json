@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100909A: ROTSE-III Optical Limits",
+  "eventId": "GRB 100909A",
+  "bibcode": "2010GCN.11264....1S",
+  "createdOn": 1284042553000,
+  "circularId": 11264,
+  "submitter": "Brad Schaefer at LSU  <schaefer@grb.phys.lsu.edu>",
+  "email": "schaefer@grb.phys.lsu.edu",
+  "body": "B. E. Schaefer (Louisiana State) reports on behalf of the ROTSE \ncollaboration:\n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB\n100909A (INTEGRAL trigger 6060; Mereghetti et al., GCN 11260), producing\nimages beginning 6.4 s after the GCN notice time. An automated response\ntook the first image at 10:41:45.5 UT, 5811.6 s after the burst.  For the\nfirst 20 minutes the conditions were partly cloudy with occassional holes,\nbut after 11:02 UT the sky became clear and excellent. We took 10 5-sec,\n10 20-sec and 116 60-sec exposures. These unfiltered images are calibrated\nrelative to USNO A2.0 (R).\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma INTEGRAL/IBIS error circle, for both single images and coadding\ninto sets of 10.  The Swift XRT team reports that a faint X-ray source is\nvisible at 12:19 UT (Siegel et al. 2010, GCN 11261), and we have also\nclosely examined this error circle, again finding no variable star or\nobject of interest.  The Swift XRT position is not crowded, although there\nis one fairly faint star in it. Individual images have limiting magnitudes\nranging from 12.8-17.6; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n10:44:07.5   10:45:25.7        78     15.7         5953.6       Y\n11:02:58.7   11:07:40.0       281     18.5         7084.8       Y"
+}

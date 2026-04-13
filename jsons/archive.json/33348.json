@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230217A: Swift-XRT observations",
+  "eventId": "GRB 230217A",
+  "bibcode": "2023GCN.33348....1C",
+  "createdOn": 1676792895000,
+  "circularId": 33348,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "M. Capalbi (INAF-IASFPA), J.A. Kennea (PSU), A. Tohuvavohu (U.\nToronto), D.N. Burrows (PSU), K.L. Page (U. Leicester), A.P. Beardmore\n(U. Leicester), M. Perri (SSDC & INAF-OAR), V. D'Elia (SSDC & INAF-OAR)\nand M. J. Moss (GWU) report on behalf of the Swift-XRT team:\n\nWe have analysed 4.8 ks of Photon Counting (PC) mode XRT data for the\nSwift-BAT-detected burst GRB 230217A (Moss et al. GCN Circ. 33339),\ncollected between T0+45.8 ks and T0+84.4 ks. \n\nTwo uncatalogued X-ray sources have been detected consistent with being\nwithin 296 arcsec of the Swift-BAT position, however none of them is\nabove the RASS limit or shows definitive signs of fading. Therefore, at\nthe present time we cannot identify which, if any, is the afterglow.\nDetails of these sources are given below:\n\nSource 3:\n  RA (J2000.0):  280.7700  =  18:43:4.80\n  Dec (J2000.0): -28.8374  =  -28:50:14.6\n  Error: 4.7 arcsec (radius, 90% conf. [Enhanced position])\n  Count-rate: 0.0144 [+0.0022, -0.0021] ct s^-1   \n  Distance: 67 arcsec from Swift-BAT position.\n  Flux: (6.48 [+0.98, -0.94])e-13 erg cm^-2 s^-1 (observed, 0.3-10 keV)\n\nSource 5:\n  RA (J2000.0):  280.7763  =  18:43:6.30\n  Dec (J2000.0): -28.7796  =  -28:46:46.7\n  Error: 6.4 arcsec (radius, 90% conf.)\n  Count-rate: (1.43 [+0.85, -0.64])e-3 ct s^-1\t \n  Distance: 275 arcsec from Swift-BAT position.\n\nSix uncatalogued sources were also detected too far from the GRB\nposition to be likely afterglow candidates.\n\nThe results of the XRT-team automatic analysis of the XRT observations,\nincluding a position-specific upper limit calculator, are available at\nhttps://www.swift.ac.uk/ToO_GRBs/01154967.\n\nThis circular is an official product of the Swift-XRT team."
+}

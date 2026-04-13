@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051028: Swift/UVOT upper limits",
+  "eventId": "GRB 051028",
+  "bibcode": "2005GCN..4177....1B",
+  "createdOn": 1130599005000,
+  "circularId": 4177,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin, M. J. Page, M. De Pasquale, S. R. Oates (UCL-MSSL),\nK. Hurley (Berkeley), M. Chester (PSU), N. Gehrels (GSFC) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 051028 at\n20:44:06 UT on 2005-10-28, 7.1 hours after the HETE trigger (Hurley\net al. GCN 4172). No new source (with respect to the DSS) was\ndetected at the XRT (Racusin et al. GCN 4174) or WHT (Jelinek et al.\nGCN 4175, Pandey et al. GCN 4176) positions in summed images from\nthe four UVOT filters used down to the following 3-sigma upper\nlimits:\n\nFilter  T_range(hours)  Exp(sec)  3sigUL\nV       7.4-10.3        1441      20.2\nW1      8.7-10.8        1700      21.1\nM2      8.5-10.5        1763      21.4\nW2      7.1-9.1         1456      21.4\n\nWe note that this burst is at low galactic latitude, with an\nE(B-V) of 0.21 and A_v of 0.71 mag."
+}

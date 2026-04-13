@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 251007A",
+  "eventId": "GRB 251007A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42297....1R",
+  "createdOn": 1760550901411,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 42297,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 251007A\n(Swift-BAT detection: Ambrosi et al., GCN 42146;\nLaha et al., GCN 42186;\nGlowbug detection: Cheung et al., GCN 42151;\nCALET-GBM detection: Yoshida et al., GCN 42156;\nAstroSat CZTI detection: Salunke et al., GCN 42167;\nInsight-HXMT detection: Wang et al., GCN 42183;\nSVOM/GRM detection: Yu et al., GCN 42184)\ntriggered Konus-Wind at T0=70671.956 s UT (19:37:51.956).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-44.6 s and has a total duration of ~66.4 s.\nThe emission is seen up to ~4 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB251007_T70671/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.89(-0.15,+0.16)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+0.656 s,\nof 7.08(-0.94,+0.95)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+24.832 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.09(-0.06,+0.06)\nand Ep = 395(-27,+31) keV (chi2 = 108/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 108/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model\nwith  alpha = -1.20(-0.07,+0.07)\nand Ep = 436(-41,+50) keV (chi2 = 98/81 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.4\n(chi2 = 96/80 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

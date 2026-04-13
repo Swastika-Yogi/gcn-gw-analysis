@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180624A: MITSuME Okayama optical upper limits",
+  "eventId": "GRB 180624A",
+  "bibcode": "2018GCN.22838....1I",
+  "createdOn": 1529901992000,
+  "circularId": 22838,
+  "submitter": "Ryosuke Itoh at Tokyo Institute of Tech.  <itoh@hp.phys.titech.ac.jp>",
+  "email": "itoh@hp.phys.titech.ac.jp",
+  "body": "R. Itoh,  K. L. Murata, Y. Tachibana, K. Morita,\nK. Shiraishi, M. Oeda, R. Adachi, K. Iida, S. Niwano,   Y. Yatsu, and\nN. Kawai (Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 180624A (S. L. Gibson et al., GCN Circular #22832)\nwith the optical three color (g', Rc and Ic) CCD camera attached\nto the MITSuME 50cm telescope of Okayama Astrophysical Observatory.\n\nThe observation started on 2018-06-24 13:51:38.54 UT (~118 sec after\nthe burst). We did not find any new point source within the\nenhanced XRT error circle in all the three bands.\n\nWe obtained following limits for the magnitudes.\n\nT0+[sec]    MID-UT      T-EXP[sec]    g'       Rc        Ic\n-------------------------------------------------------------------------------------------------------\n~118      ~13:52:08      60   >15.5   >16.1   >16.2\n~1537    ~14:15:47   2100   >17.2   >17.7   >17.6\n-------------------------------------------------------------------------------------------------------\n\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used UCAC-4 catalog for flux calibration."
+}

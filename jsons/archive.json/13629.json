@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120811C: Swift/UVOT Detection",
+  "eventId": "GRB 120811C",
+  "bibcode": "2012GCN.13629....1K",
+  "createdOn": 1344736719000,
+  "circularId": 13629,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "P. Kuin, S. R. Oates (MSSL-UCL) and B.N. Barlow (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 120811C\n76 s after the BAT trigger (Barlow et al., GCN Circ. 13622).\nA source consistent with the XRT position Evans et al., GCN Circ.\n13625 is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  13:18:43.82 = 199.68258 (deg.)\n    Dec (J2000) = +62:18:02.8  =  62.30077 (deg.)\nwith an estimated uncertainty of 0.52 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT\nphotometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               76          226          147         18.59 +/- 0.05\nv                  620         1243           78         18.49 +/- 0.19\nb                  544          739           39         18.95 +/- 0.19\nu                  288          538          246         18.61 +/- 0.09\nw1                 670         1464           97        >20.0\nm2                 819         1439           78        >20.5\nw2                 595         1219           78        >19.7\n\nThe absence of a detection in the uv bands is consistent with the reported\nredshift from Thoene et al., GCN Circ. 13628.\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110212A: ROTSE-III Optical Limits",
+  "eventId": "GRB 110212A",
+  "bibcode": "2011GCN.11700....1Z",
+  "createdOn": 1297475502000,
+  "circularId": 11700,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "W. Zheng (U Mich), report on behalf of the ROTSE collaboration: \n\nROTSE-IIIb, located at McDonald Observatory, Texas, responded to GRB\n110212A (Swift trigger 445321; D'Elia et al., GCN 11699), producing\nimages beginning 31.0 s after the GCN notice time. An automated response\ntook the first image at 01:09:39 UT, 31.0 s after the burst.\nUnfortunately the sky is still under twilight conditions, the first\nuseful image stared 725s after the burst.\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle for co-added images with a sets of 10\ncalibrated relative to USNO A2.0 (R). We set the following specific\nlimits. \n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n01:21:13.5   01:25:54.7       281     16.8          725.5       Y\n01:26:04.0   01:30:45.5       281     17.1         1016.0       Y\n01:30:54.3   01:35:35.5       281     17.2         1306.3       Y\n01:35:44.3   01:40:25.0       280     17.4         1596.3       Y"
+}

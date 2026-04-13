@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210506A: Swift/BAT-GUANO position retraction",
+  "eventId": "GRB 210506A",
+  "bibcode": "2021GCN.29969....1T",
+  "createdOn": 1620515085000,
+  "circularId": 29969,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Aaron Tohuvavohu (U Toronto), James DeLaunay (PSU), Jamie A. Kennea\n(PSU) report:\n\nAs stated in the detection circular (GCN 29947) the candidate position\nreported was uncertain, with a near-threshold significance and an\nimplied spectral index outside of typical astrophysical priors for GRB\nprompt emission.\n\nWithout an independent spectral measurement of this burst, the BAT\ncandidate image-domain arcmin localization cannot be ruled out via BAT\nanalysis alone. However, the IPN localization (GCN 29968; which\nutilizes the BAT-GUANO rates-domain detection) strongly suggests that\nthe GRB originated from outside the BAT FoV. An origin for the GRB\ncounts from along this line of sight implies a much more reasonable\n(though still hard) emission spectrum.\nThe BAT-GUANO rates-domain detection of this GRB remains robust and we\nare confident that the counts in the detector originate from GRB\n210506A.\n\nThe BAT maximum likelihood analysis (DeLaunay et al. 2021, in prep)\nindependently shows a slight preference for an out of FoV origin. We\ndid not report the test statistic results for this source from the\nmaximum likelihood analysis in the detection circular due to delayed\nrun times on the cluster.\n\nWe do not identify any detector glitches, noise sources, or cosmic ray\ninduced showers that can account for the image source.\n\nWe conclude that the SNR 6.8 image source reported is likely to be\nrare high-significance spurious image noise caused by an unfortunate\nspatial correlation of true GRB counts in the detector plane.\n\nThe False Alarm Probability for a BAT source at SNR 6.8 in a\nbackground subtracted image from ground analysis is low (~1-5%) and we\nstress that other GRBs with lower image significance GUANO\nlocalizations have been confirmed by XRT afterglow discovery."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050815: XRT refined analysis",
+  "eventId": "GRB 050815",
+  "bibcode": "2005GCN..3816....1M",
+  "createdOn": 1124159348000,
+  "circularId": 3816,
+  "submitter": "David Morris at PSU/Swift-XRT  <morris@astro.psu.edu>",
+  "email": "morris@astro.psu.edu",
+  "body": "D. C. Morris, D. N. Burrows, J. A. Kennea, J. L. Racusin (PSU), and N. \nGehrels (GSFC) report on behalf of the Swift XRT team:\n\nWe have analysed the first three orbits of data for GRB050815 (GCN 3811, \nFox et al., 2005).  Using xrtcentoid, the refined position is:\n\nRA(J2000) = 19h 34m 23.2s\nDec(J2000) = +09d 08' 49.6\"\n\nwith an uncertainty of 8 arcsec. This is 5.6 arcsec from the original \nXRT position (GCN 3812, Morris et al., 2005).\n\nThe XRT began taking data at 17:26:28UT, 69 seconds after the BAT \ntrigger. The XRT collected data for only 123s during the first orbit \nbefore the source was occulted. The data show a faint source in the \nfirst orbit and suggest an initially shallow decay index of ~-0.2 \nfollowed by a break occuring somewhere between 192s and 3000s to a \nsteeper decay index of ~-2.1.\n\nThe spectrum is well fit (reduced chi-sq of 1.03 for 9 dof) by a power \nlaw with neutral hydrogen consistent with the galactic column density of \n2.7e21:\n\ngamma=1.4 + / - 0.2\nNH=2.1e21 + / - 7e20\n\nFixing the NH to the galactic column density also returns a good fit \n(reduced chi-sq of 1.00 for 10 dof):\n\ngamma=1.5 + / - 0.1\n\nThe count rate at 10000s after the trigger is ~0.015 cts/s which \nconverts to an unabsorbed flux of 9e-13 ergs cm^-2 s^-1 from 0.2-10keV."
+}

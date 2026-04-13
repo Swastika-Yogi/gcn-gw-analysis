@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051210: Swift XRT refined analysis",
+  "eventId": "GRB 051210",
+  "bibcode": "2005GCN..4320....1M",
+  "createdOn": 1134221732000,
+  "circularId": 4320,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "V. Mangano, G. Cusumano, V. La Parola (INAF-IASF), D. N. Burrows (PSU), L. \nAngelini (GSFC-JHU), and N. White (GSFC) report on behalf of the Swift team:\n\n\nWe have analyzed the Swift XRT data from the first observation\nof GRB 051210 (Mangano et al. 2005, GCN 4315) consisting\nof three orbits (about 5.7 ks exposure).\nThe refined coordinates of the X-ray afterglow are:\n\nRA(J2000)  = +22h 00m 41.3s\nDec(J2000) = -57d 36' 48.2\"\n\nwith an estimated uncertainty of 4.2 arcseconds radius (90%\ncontainment). The XRT boresight correction has been applied\nthrough the new TELDEF file provided by the Swift Science\nData Center (Angelini et al. 2005, GCN 4313).\nThis position is 54.4 arcsec from the revised BAT position given\nin GCN 4318 (Sato et al. 2005) and 3 arcsec from\nthe XRT position determined on board (Mangano et al. 2005, GCN 4315).\n\nThe 0.2-10 keV light curve, that starts in Windowed Timing (WT) mode\n87.3 seconds after the BAT trigger, shows a fading behaviour with\na decaying slope of 2.3+/-0.1 over the first two orbits and\nis not detectable anymore during the third (the expected count rate\nat the end of the third orbit would be 7.0e-4 c/s).\n\nA preliminary spectral fit to WT and PC data of the first two orbits\nwith an absorbed power law gives a photon index of 1.5+/-0.1 and an\nabsorption column of (7.5 +/- 3) x 1e20 cm^-2.\nThe Galactic absorption in the GRB direction is 2.2e20 cm^-2.\nAssuming the current steep decay we predict a flux lower than\n1.e-16 erg cm^-2 s^-1 at one day from the burst."
+}

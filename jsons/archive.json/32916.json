@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221009A: Extended Bad Time Intervals for Fermi LAT data",
+  "eventId": "GRB 221009A",
+  "bibcode": "2022GCN.32916....1O",
+  "createdOn": 1667842716000,
+  "circularId": 32916,
+  "submitter": "Nicola Omodei at Stanford U.  <nicola.omodei@slac.stanford.edu>",
+  "email": "nicola.omodei@slac.stanford.edu",
+  "body": "N. Omodei (Stanford Univ.), P. Bruel (CNRS/IN2P3), J. Bregeon (CNRS/IN2P3), M. Pesce-Rollins (INFN Pisa), D. Horan (CNRS/IN2P3),  E. Bissaldi (Politecnico and INFN Bari), and R. Pillera (Politecnico and INFN Bari) \nreport on behalf of the Fermi-LAT team: \n\nFurther investigation of the low-level data has shown that X-ray and soft gamma-ray pile-up, multiple photons being recorded at the same time, impacted a larger time interval than reported in the first GCN (Omodei et al. GCN #32760). \nThis very high level of pile-up means that the LAT data cannot be analyzed with the standard tools. \nWe have thus extended the Bad Time Interval (BTI) to cover the time between T0+203 and T0+294, where T0 is the Fermi-GBM trigger time, October 9, 2022, at 13:16:59.99 UT.\n\nWe are currently working on analysis methods that would allow us to reduce the duration of these BTIs.\n\nThe signals in the instrument produced by the 99 GeV photon observed 240 seconds after the GBM trigger were well above the noise due to the GRB induced pile-up. Because the extra energy deposited in the instrument at that time was much less than 99 GeV, we are confident that the photon energy was well reconstructed.\n\nThe Fermi-LAT point of contact for this burst is \nElisabetta Bissaldi (elisabetta.bissaldi@ba.infn.it).\n\nThe Fermi-LAT is a pair conversion telescope designed to cover the energy band from 20 MeV to greater than 300 GeV.\nIt is the product of an international collaboration between NASA and DOE in the U.S. and many scientific institutions across France, Italy, Japan and Sweden."
+}

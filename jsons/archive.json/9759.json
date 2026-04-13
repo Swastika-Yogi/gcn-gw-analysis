@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090809: Swift-XRT refined analysis",
+  "eventId": "GRB 090809",
+  "bibcode": "2009GCN..9759....1M",
+  "createdOn": 1249891302000,
+  "circularId": 9759,
+  "submitter": "Jirong Mao at INAF-OAB  <jirong.mao@brera.inaf.it>",
+  "email": "jirong.mao@brera.inaf.it",
+  "body": "J. Mao, R. Margutti, A. de Ugarte Postigo (INAF-OAB) and C. B. Markwardt \n(CRESST/GSFC/UMD) report on behalf of the Swift-XRT team:\n\nWe have analysed 8.6 ks of XRT data for GRB 090809 (Markwardt et al. GCN \nCirc. 9754), from 107 s to 23.3 ks after the BAT trigger. The data \ncomprise 59 s in Windowed Timing (WT) mode with the remainder in Photon \nCounting (PC) mode. The enhanced XRT position for this burst was given \nby Evans et al. (GCN. Circ 9757).\n\nThe light curve shows a first flare evidence peaking around 189s, then, \nit shows a second flare peaking around 4.6ks, these flares make an order \nof magnitude increase in count-rate, after that, the light curve decays \ncontinuously.  In general, the underlying light curve can be modelled \nwith a power-law decay with a decay index of alpha=1.02+/-0.02.\n\nA spectrum extracted from the WT mode data can be fitted with an \nabsorbed power-law with a photon spectral index of 1.75 (+/-0.09). The \nbest-fitting absorption column is 2.4 (+/-0.3) x 1021 cm^-2, in excess \nof the Galactic value of 6.1 x 1020 cm^-2 (Kalberla et al. 2005). The PC \nmode spectrum has a photon index of 1.84 (+0.14, -0.13) and a \nbest-fitting absorption column of 1.18 (+0.19, -0.18) x 1021 cm^-2. The \ncounts to observed (unabsorbed) 0.3-10 keV flux conversion factor \ndeduced from this spectrum is 1.08 x 10^-11 (1.24\nx 10^-11) erg cm^-2 count^-1.\n\nIf the light curve continues to decay with a power-law decay index of \n1.0, the count rate at T+24 hours will be 0.007 count s^-1, \ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 2.9 x \n10^-13 (3.4 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at \nhttp://www.swift.ac.uk/xrt_products/00359530.\n\nThis circular is an official product of the Swift-XRT team."
+}

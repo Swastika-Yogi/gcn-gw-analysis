@@ -1,0 +1,10 @@
+{
+  "subject": "GRB101024A: Swift/UVOT",
+  "eventId": "GRB 101024A",
+  "bibcode": "2010GCN.11375....1D",
+  "createdOn": 1287948107000,
+  "circularId": 11375,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (UCL-MSSL) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 101024A\n82 s after the BAT trigger (De Pasquale et al., GCN Circ. 11370).\nAn optical afterglow is detected within the refined XRT error circle\n(Beardmore et al., GCN Circ. 11372) in the white filter finding chart.\nThe same source is detected very marginally in the sum of the following \nwhite filter exposures. It is not found in any other filter, either\nin single and in summed exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter       T_start(s)   T_stop(s)      Exp(s)        Mag\n\nwhite_FC         82          232          147      19.4 +/- 0.2\nu_FC            294          543          246         >20.3\nwhite           573         6068          413   22.3 +/- 0.6 (2.1 sigma)\nv               624         6479          413         >20.0\nb               549         5864          413         >20.6\nu               294         5659          459         >20.6\nw1              673         5454          216         >20.1\nm2              648         5249          221         >19.7\nw2              599         6274          413         >20.5\n\nThe values quoted above are not corrected for the non-negligible Galactic \nextinction due to the reddening of E(B-V) = 0.09 in the direction of the \nburst (Schlegel et al. 1998)."
+}

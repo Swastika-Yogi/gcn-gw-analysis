@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080727C: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080727C",
+  "bibcode": "2008GCN..8043....1H",
+  "createdOn": 1217274078000,
+  "circularId": 8043,
+  "submitter": "Erik Hoversten at Swift/Penn State  <hoversten@astro.psu.edu>",
+  "email": "hoversten@astro.psu.edu",
+  "body": "E. A. Hoversten (PSU) and A. M. Parsons (GSFC) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 080727C starting 82\nseconds after the BAT trigger (Parsons, et al. GCN Circ. 8035).  We do\nnot detect any source in any of the filters at the UVOT-enhanced XRT\nposition (Osborne, et al., GCN Circ. 8038).  The 3-sigma upper limits\nat this position for single exposures are:\n\nFilter  T_start    T_stop   Exp(s)  Mag (3-sigma upper limit)\n-----------------------------------------------------\nwhite      82.1     181.0    97.3     > 20.81\nwhite    3987.1    4186.8   196.6     > 21.58\nv         187.4     587.2   393.5     > 19.89\nv        4397.7    4597.5   196.6     > 19.93\nb         668.8     673.4     4.6     > 17.79\nu         643.0     662.8    19.5     > 18.32\nuvw1      618.4     638.2    19.5     > 18.11\nuvm2      593.5     613.3    19.5     > 17.61\nuvw2     4192.9    4392.7   196.6     > 20.17\n\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a large\nreddening of E_{B-V} = 1.1 mag.  All photometry is on the UVOT flight\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

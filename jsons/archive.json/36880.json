@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240713A: LAST optical upper limit",
+  "eventId": "GRB 240713A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36880....1K",
+  "createdOn": 1721116580145,
+  "circularId": 36880,
+  "submitter": "Ruslan Konno at Weizmann Institute of Science <ruslan.konno@desy.de>",
+  "format": "text/markdown",
+  "body": "R. Konno (WIS), S. Garrappa (WIS), E. O. Ofek (WIS), S. Ben-Ami (WIS), D. Polishook (WIS), P. Chen (WIS), A. Krassilchtchikov (WIS), Y. M. Shani (WIS), E. Segre (WIS), A. Gal-Yam (WIS), S. Spitzer (WIS), and K. Rybicki (WIS) on behalf of the LAST Collaboration\n\n\nWe report observations of GRB 240713A detected by SVOM/ECLAIR (Schanne et al, GCN 36854) and potentially Fermi/GBM (Burns et al., GCN 36856) with the Large Array Survey Telescope (LAST; Ofek et al. 2023 PASP 135, 5001; Ben-Ami et al. 2023 PASP 135, 5002).\n\n\nWe observed the field of GRB 240713A at two epochs using 4 parallel telescopes, each with a FoV of 7.4 deg^2 and no filter (clear - similar to the GAIA Bp band).\nIn each epoch, we coadd about 400 images with each of  20s exposure, and the limiting magnitude is around 22.5 (AB mag). We performed image subtraction between the two epochs, and we did not find any optical source decaying by more than 0.5 magnitudes between the two epochs, down to a limiting magnitude of 22.\nThe search was conducted within 10 arcminutes of J2000 RA, Dec = 352.59, 1.88.\n\n\nThe epoch details are:\n\n\n| Time (JD)     | T - T0 (h) | Exposure (s) |\n|---------------|------------|--------------|\n| 2460505.50132 | 22.043     | 7960         |\n| 2460506.50084 | 46.031     | 7880         |\n\n\nLAST is a survey telescope array of the Weizmann Astrophysical Observatory (https://www.weizmann.ac.il/wao/).\n"
+}

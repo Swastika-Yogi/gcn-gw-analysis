@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051012: Swift-BAT detection of burst yesterday",
+  "eventId": "GRB 051012",
+  "bibcode": "2005GCN..4093....1S",
+  "createdOn": 1129241740000,
+  "circularId": 4093,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "G. Sato (ISAS), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), N. Gehrels (GSFC), D. Hinshaw (GSFC-SPSYS),\nH. Krimm (GSFC/USRA), K. McLean (LANL), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC), J. Tueller (GSFC),\non behalf of the Swift-BAT team:\n\n\nAt 2005-10-12 17:05:58 UT, Swift-BAT triggered and detected GRB 051012\n(trigger 159413).  Because Swift was executing a preplanned slew, the \nburst was not identified onboard and no prompt notices were distributed.\nUsing the data set from T-4 to T+16, the refined BAT ground position is \nRA, Dec 270.564d, -52.795d {18h 02m 15s, -52d 47' 40\"} [deg; J2000], \n+- 1.8 arcmin (radius, sys+stat, 90% containment). The burst was in the\nfully-coded field of view.\n\nThe lightcurve shows a single weak peak with a slow rise and fall from\napproximately T-3 to T+11 sec.  T90 (15-350 keV) was 13 +- 1 sec (estimated \nerror including systematics).  Because of the slew, we cannot rule out \nfurther emission after T+16 sec.\n\nThe power law index of the time-averaged spectrum was 2.25 +- 0.25.  The\nfluence in the 15-150 keV band was (2.9 +- 0.5) x 10^-7 ergs / cm^2.  The\n1-sec peak flux measured from T+3 sec in the 15-150 keV band was\n0.6 +- 0.2 photons / cm^2 sec. All the quoted errors are at the 90%\nconfidence level."
+}

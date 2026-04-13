@@ -1,0 +1,11 @@
+{
+  "subject": "EP240919a is likely a GRB event",
+  "eventId": "EP240919a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37563....1L",
+  "createdOn": 1726820357802,
+  "submitter": "yfliang@pmo.ac.cn",
+  "circularId": 37563,
+  "format": "text/plain",
+  "body": "Yi-Fang Liang (PMO, CAS), Jun Yang (NJU), Yi-Han Iris Yin (NJU), An Li (BNU), Ye Li (PMO, CAS), Bin-Bin Zhang (NJU), Hui Sun (NAOC, CAS) and Xuefeng Wu (PMO, CAS) report on behalf of large collaboration:\n\nWe have conducted a follow-up high-energy data search of the X-ray transient detected by the Einstein Probe (EP) at 2024-09-19T14:47:40 UTC (T0 of EP240919a; GCN Circular 37561). We discovered an untriggered gamma-ray transient in the Fermi/GBM data approximately 80 seconds after T0 of EP240919a, coinciding with the timing of the X-ray transient.\n\nThe GBM light curve shows a single emission episode with a duration (T90) of approximately 50 seconds (10-1000 keV) and a peak at about T0+90 seconds. The time-averaged spectrum from T0+83 to T0+108 seconds is well fitted by a cutoff power-law function, N(E) = A*(E^-Gamma)*exp(-E*(2-Gamma)/Ep), with a peak energy of 95 (+19/-12) keV and a photon index, Gamma, of 0.6 (+0.3/-0.4). The average flux (10-1000 keV) during this interval is estimated to be 4.5 (+0.5/-0.5) x 10^(-8) erg/s/cm^2.\n\nGiven that the gamma-ray transient is consistent with EP240919a in both timing and location, we propose that this is likely a GRB event.\n\nWe strongly recommend further follow-up observations of EP240919a to confirm its physical nature and to search for potential afterglows.\n"
+}

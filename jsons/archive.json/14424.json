@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130420A: Swift/UVOT Detection",
+  "eventId": "GRB 130420A",
+  "bibcode": "2013GCN.14424....1O",
+  "createdOn": 1366491986000,
+  "circularId": 14424,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates, M. De Pasquale, and M. J. Page (UCL-MSSL)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130420A\n739 s after the BAT trigger (Page et al., GCN Circ. 14406).\nA source consistent with the XRT position\n(Goad et al. GCN Circ. 14416) is detected in the initial UVOT exposures.\nThe GRB is detected in all filters and is therefore consistent with\nbeing at a redshift of  ~<1.6.\n\nThe preliminary UVOT position is:\n  RA  (J2000) =  13:04:25.55 = 196.10647 (deg.)\n  Dec (J2000) = +59:25:27.1  =  59.42420 (deg.)\nwith an estimated uncertainty of 0.50 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              739          888          147         17.14 +/- 0.03\nv                 1072         1092           20         17.66 +/- 0.31\nb                 1171         1191           19         18.13 +/- 0.21\nu                 1146         1166           20         17.19 +/- 0.17\nw1                1122         1141           19         17.51 +/- 0.29\nm2                1097         1465           58         18.30 +/- 0.31\nw2                1049         1240           39         18.50 +/- 0.33\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

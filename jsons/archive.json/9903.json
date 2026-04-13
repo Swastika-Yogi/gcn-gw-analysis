@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090814A: Skynet/DSO & GORT Observations",
+  "eventId": "GRB 090814A",
+  "bibcode": "2009GCN..9903....1H",
+  "createdOn": 1252456919000,
+  "circularId": 9903,
+  "submitter": "Josh Haislip at U.North Carolina  <haislip@physics.unc.edu>",
+  "email": "haislip@physics.unc.edu",
+  "body": "J. Haislip, D. Reichart, K. Ivarsen, A. Smith, D. Caton, L. Hawkins, L. \nCominsky, K. McLin, T. Graves, G. Spear, A. LaCluyze, A. Foster, J. Moore, \nA. Oza, M. Schubel, J. Styblova, A. Trotter, J. A. Crain, and M. Nysewander \nreport:\n\nSkynet observed the Swift/BAT localization of GRB 090814A (Ukwatta et al., \nGCN 9793) with the 14\" Dark Sky Observatory telescope in North Carolina \nbeginning 71.1 minutes after the trigger in RI through variable cloud \ncover.\n\nSkynet continued observing with the 14\" GORT telescope at Hume Observatory \nin California beginning 3.3 hours after the the trigger in RI.\n\nWe do not detect the afterglow (Updike et al., GCN 9794).  Stacking only \nimages that increase the limiting magnitude yields:\n\nmean\ntime                                    3-sigma    secondary\nsince                                   limiting   calibration\ntrigger  telescope  exposures   filter  magnitude  stars *\n\n75.4 m   DSO-14     2 x 160 s   I       18.5       13 SDSS 6\n                     + 1 x 80 s\n86.4 m   DSO-14     4 x 160 s   R       19.2       9 SDSS 6\n96.6 m   DSO-14     3 x 160 s   I       17.8       13 SDSS 6\n105.3 m  DSO-14     1 x 160 s   R       16.9       9 SDSS 6\n4.7 h    GORT       35 x 80 s   I       20.1       8 SDSS 6\n5.2 h    GORT       40 x 80 s   R       20.8       7 SDSS 6\n24.9 h   DSO-14     11 x 160 s  R       20.0       9 SDSS 6\n\n* Transformed using Jester et al., 2005, ApJ, 130, 873."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "MAXI J1820+070: Swift/UVOT counterpart correction",
+  "bibcode": "2018GCN.22472....1K",
+  "createdOn": 1520823349000,
+  "circularId": 22472,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@swift.psu.edu>",
+  "email": "kennea@swift.psu.edu",
+  "body": "J. A. Kennea and M. H. Siegel (PSU) report on behalf of the Neil Gehrels\nSwift Observatory\n\nIn GCN #22471 the UVOT counterpart reported was incorrect, and was in fact\nan unrelated star near the XRT position. In the UVOT prompt white image we\ndetect a bright source, which has considerable brightening over archival\nimages of the field, at the following coordinates, RA/Dec(J2000) = 75.09138,\n7.1853, which is equivalent to:\n\nRA(J2000) =  18h 20m 21.93s,\nDec(J2000) = +07d 11m 07.1s\n\nThis source lies 0.36 arc-seconds from the source ASASSN-18ey (ATEL #11400),\nand is therefore the same source.\n\nWe note that the XRT position is 10.5 arc-seconds from the UVOT/ASASSN\nposition, however, given the brightness of the XRT source, we believe it is\nthe same object as MAXI J1820-070 and the associated ASASSN-18ey.\n\nWe apologize any confusion.\n\n[GCN OPS NOTE(13mar18):  Per author's request, the \"ASASSN-18el\" was changed\nto \"ASASSN-18ey\".]"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060912: Swift/UVOT Observations",
+  "eventId": "GRB 060912",
+  "bibcode": "2006GCN..5565....1B",
+  "createdOn": 1158103758000,
+  "circularId": 5565,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU) & C. P. Hurkett (U Leicester)\nreport on behalf of the Swift UVOT team:\n\nSwift/UVOT began settled observations of\nGRB060912 (BAT trigger 229185) at 13:57:47 UT,\n113 seconds after the initial Swift BAT trigger\n(Hurkett et al., GCN Circ. 5558).  The fading\noptical counterpart seen in the white finding\ncharts was also detected by UVOT in V, B, U, UVW1\nand marginally in UVM2.  The relatively shallow\nupper limit in UVW2 prevents us from constraining\nthe redshift well.\n\nThe magnitudes from early observations and the\nupper limit in UVW2 are tabulated below.\n\nFilter  T_range(s)    Exp(s)     Magnitude\n\nWhite   113-212       100        16.0 +/- 0.1\nWhite   859-958       100        18.1 +/- 0.1\n\nV       219-618       400        17.4 +/- 0.1\nV       964-1363      400        18.4 +/- 0.2\n\nB       697-1776      79         19.5 +/- 0.4\n\nU       672-691       20         17.6 +/- 0.2\n\nUVW1    649-668       20         18.51 +/- 0.4\n\nUVM2    624-1861      119        19.3 +/- 0.4\n\nUVW2    725-1814      78       > 19.5 (3.0-sigma)\n\nT_range is the span of the exposure in seconds\nfrom the BAT trigger.\n\nThe values quoted above are not corrected for\nthe expected Galactic extinction corresponding\nto a reddening of E(B-V)=0.05."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250327A: SVOM/VT upper limits on the XRT position",
+  "eventId": "GRB 250327A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39899....1L",
+  "createdOn": 1743144288318,
+  "circularId": 39899,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "H.L. Li(NAOC), L. Zhang (IHEP), Y.D. Hu (GXU), X.L. Chen (YNU), Y. L. Qiu, L.P. Xin, C. Wu, Z.H. Yao, Y. Xu, P.P. Zhang, J. Wang, Y.N. Ma, X.H. Han, H.B. Cai, W. J. Xie, J.Y. Wei (NAOC), J. T. Palmerio (CEA)report on behalf of the SVOM/VT team:\n\nSVOM performed a Target of Opportunity observation of GRB 250327A (Fermi GBM team, GCN 39876; Parsotan et al., GCN 39877). SVOM/VT began observing the field at 2025-03-27T11:25:40.50 UT, ~3.9 hours after the Swift/BAT trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nWith the full X-band data, no any source was detected in the stacked images within the errorbox of Swift/XRT (Burrows et al. GCNC39892).\n\nThe 3 sigma limits in AB magnitude were derived as follows:\n\n---------------------------------------------------------\n(t-T0)_mid(hr)  exptime(ks)   Band    upperlim (3sigma)\n 5.9              7.32        VT_R       23.8\n 5.9              7.38        VT_B       23.8\n\nDeeper or redder observations are encouraged to investigate the nature of the burst.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC),CAS."
+}

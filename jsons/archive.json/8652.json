@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081210: Swift-XRT refined analysis",
+  "eventId": "GRB 081210",
+  "bibcode": "2008GCN..8652....1E",
+  "createdOn": 1228986157000,
+  "circularId": 8652,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans, K.L. Page (U. Leicester) and H.A. Krimm (CRESST/GSFC/USRA)\nreport on behalf of the Swift-XRT team:\n\nWe have analysed 4.9 ks of XRT data for GRB 081210 (Krimm et al., GCN\nCirc. 8648), beginning 78 s after the BAT trigger. The first 387 s were\nobtained in Windowed Timing (WT) mode and the remainder in Photon\nCounting (PC) mode. The enhanced XRT position for this burst was given\nby Osborne et al. (GCN Circ 8650).\n\nThe light curve shows an initial period of flaring activity. A strong\npeak is seen at T+138 s coincident with the third peak seen by the BAT\n(Barthelmy et al. GCN Circ. 8649). Further peaks are seen at T+219 s,\n317 s and 391 s. During this time the underlying light curve, while\ndifficult to constrain, is clearly decaying, with a power-law index of\naround 1.5. Around T+5000 s the decay flattens, to a slope of 0.74\n(+/-0.24).\n\nA spectrum formed from the PC mode data, i.e. after the flaring activity\nhas ceased, can be fitted with an absorbed power-law with a photon\nindex of 1.91 (+/-0.12). The best-fitting absorption column is 6.1\n(+2.5, -1.5) x 10^20 cm^-2, consistent with the Galactic value in the\ndirection of the burst (4.6 x 10^20 cm^-2, Kalberla et al. 2005). The\ncounts to observed 0.3-10 keV flux conversion factor deduced from this\nspectrum is 4.2 x 10^-11 erg cm^-2 count^-1.\n\nIf the light curve continues to decay with a power-law decay index of\n0.74, the count rate at T+24 hours will be 0.017 count s^-1,\ncorresponding to an observed (unabsorbed) flux of 6.73 x 10^-13 (8.02 x\n10 ^-13) erg cm^-2 s^-1.\n\nThe results of the xrt automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00337073.\n\nThis circular is an official product of the Swift-XRT team."
+}

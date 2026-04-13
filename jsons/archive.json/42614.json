@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 251105B (possible sGRB with EE)",
+  "eventId": "GRB 251105B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42614....1K",
+  "createdOn": 1762528328904,
+  "circularId": 42614,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nY. Zhang, C. Wang, S. Xiong, J. Wei, and B. Cordier\non behalf of the SVOM-GRM team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe possible short-duration GRB with extended emission GRB 251105B\n(SVOM-GRM detection: Wang et al., GCN 42586;\nFermi-GBM detection: Hamburg eat al., GCN 42589;\nAstroSat-CZTI detection: Harsha et al., GCN 42591)\nwas detected by SVOM (GRM), Konus-Wind, Fermi (GBM), AstroSat (CZTI),\nand Mars-Odyssey (HEND) at about 3514 s UT (00:58:34).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  277.814 (18h 31m 15s)  +9.028 ( +9d 01' 39\")\n Corners:\n  277.022 (18h 28m 05s)  +9.993 ( +9d 59' 36\")\n  277.294 (18h 29m 11s)  +9.729 ( +9d 43' 46\")\n  278.607 (18h 34m 26s)  +8.012 ( +8d 00' 43\")\n  278.333 (18h 33m 20s)  +8.303 ( +8d 18' 10\")\n ---------------------------------------------\nThe error box area is 362 sq. arcmin, and its maximum\ndimension is 2.5 deg (the minimum one is 3 arcmin).\nThe Sun distance was 62 deg.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB251105_T03511/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

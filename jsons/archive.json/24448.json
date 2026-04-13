@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190510g: Updated localization from LIGO and Virgo data",
+  "eventId": "LIGO/Virgo S190510g",
+  "bibcode": "2019GCN.24448....1L",
+  "createdOn": 1557484218000,
+  "circularId": 24448,
+  "submitter": "Qi Chu at LSC  <qi.chu@ligo.org>",
+  "email": "qi.chu@ligo.org",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have re-analyzed LIGO and Virgo data around the time of the compact\nbinary coalescence (CBC) candidate S190510g (GCN 24442). Parameter\nestimation has been performed using LALInference [1] and a new sky map,\nLALInference.fits.gz, distributed via GCN Notice, is available for\nretrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190510g\n\nFor the LALInference.fits.gz skymap, the 90% credible region is 1166 deg2.\nMarginalized over the whole sky, the a posteriori luminosity distance\nestimate is 227 +/- 92 Mpc (a posteriori mean +/- standard deviation).\nThis is the preferred sky map at this time.\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

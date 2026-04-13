@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241030A: TESS observations ",
+  "eventId": "GRB 241030A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38134....1J",
+  "createdOn": 1731092979593,
+  "circularId": 38134,
+  "submitter": "Rahul Jayaraman at MIT <rjayaram@mit.edu>",
+  "format": "text/plain",
+  "body": "R. Jayaraman (MIT), M.M. Fausnaugh (TTU), R. Vanderspek (MIT), G.R. Ricker (MIT) report:\n\nThe Transiting Exoplanet Survey Satellite (TESS; Ricker et al. JATIS 1 2015) observed GRB 241030A (Klingler et al., GCN 37956; Fermi GBM Team, GCN 37955) during its scheduled sky survey. Further information on the TESS observation times and public data postings were given in Petitpas et al., GCN 38050.\n\nWe performed forced difference-imaging photometry at the location of the confirmed X-ray afterglow (Beardmore et al., GCN 37962) using the full-frame images from the publicly available TICA data archived at MAST (https://archive.stsci.edu/hlsp/tica). Our analysis routine is described in Fausnaugh et al. 2023 (ApJ 956(2):108). \n\nThe trigger occurred 90 seconds before the end of a concurrent TESS 200-second exposure. The light curve shows a rapid rise that peaks ~600 seconds after the burst, reaching an apparent magnitude of ~12 in the TESS band (600 nm–1000 nm). The light curve has an initial decay slope of -2.07 ± 0.04, with a subsequent shallower slope. It decays to the detection limit of 17.5 (3-sigma, 200s exposure) 0.6 d after the trigger time. These results are consistent with measurements of the afterglow rise and peak from Swift-UVOT (Breeveld et al., GCN 37974). The light curve fades at a rate consistent with other optical observations in red bands (Watson et al., GCN 37957; Fernández-Rodríguez et al., GCN 37958; An et al., GCN 37960; Higuchi et al, GCN 37963; and Qiu et al., GCN 37965).\n\nThis circular includes data collected with the TESS mission, obtained from the MAST data archive at the Space Telescope Science Institute (STScI). Funding for the TESS mission is provided by the NASA Explorer Program. STScI is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract NAS 5-26555.\n"
+}

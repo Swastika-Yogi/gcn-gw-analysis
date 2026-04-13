@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 140423A",
+  "eventId": "GRB 140423A",
+  "bibcode": "2014GCN.16213....1G",
+  "createdOn": 1399275806000,
+  "circularId": 16213,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam report:\n\nThe long GRB 140423A (Swift-BAT trigger #596901: Sonbas, et al., GCN \nCirc. 16142, Cummings, et al., GCN Circ. 16161) was detected by \nKonus-Wind in the waiting mode.\n\nThe burst light curve shows a single episode started at ~T0(BAT)-46 s \nwith a duration of ~130 s.\n\nAs observed by Konus-Wind, the burst had a fluence of \n1.87(-0.17,+0.13)x10^-5 erg/cm2 (in the 20 - 1200 keV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum (from T0(BAT)-46 s\nto T0(BAT)+84 s) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.1 +/- 0.1, and Ep = 196(-20,+30) keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB140423A/"
+}

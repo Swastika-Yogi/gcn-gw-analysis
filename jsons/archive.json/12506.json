@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111029A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 111029A",
+  "bibcode": "2011GCN.12506....1H",
+  "createdOn": 1319913133000,
+  "circularId": 12506,
+  "submitter": "Erik Hoversten at Swift/Penn State  <hoversten@astro.psu.edu>",
+  "email": "hoversten@astro.psu.edu",
+  "body": "E. A. Hoversten (PSU) and E. Troja (NASA/GSFC/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 111029A\n164 s after the BAT trigger (Troja et al., GCN Circ. 12498).\nNo optical afterglow consistent with the XRT position\n(Evans et al., GCN Circ. 12502) is detected in the initial UVOT  \nexposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite (FC)         164          235           70         >20.5\nwhite              164         5606          463         >21.6\nv                 4381         6010          387         >19.6\nb                 3765         5401          393         >21.0\nu                 3560         5196          393         >20.9\nw1                4791         4991          197         >20.0\nm2                4586         4786          197         >20.6\nw2                4177         5812          393         >21.0\n\nThe magnitudes in the table are not corrected for the Galactic  \nextinction\ndue to the reddening of E(B-V) = 1.55 in the direction of the burst\n(Schlegel et al. 1998)."
+}

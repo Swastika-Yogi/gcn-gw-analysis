@@ -1,0 +1,14 @@
+{
+  "subject": "Konus-Wind detection of GRB 250206A",
+  "editedOn": 1739283977302,
+  "version": 2,
+  "eventId": "GRB 250206A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39283....1R",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 39283,
+  "createdOn": 1739281686269,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 250206A\n(Fermi-GBM detection: Fermi GBM team, GCN 39172;\nBALROG localization: Preis & Greiner, GCN 39173;\nFermi-LAT detection: Gupta et al., GCN 39233;\nEIRSAT-1 GMOD detection: Murphy et al., GCN 39236)\ntriggered Konus-Wind at T0=71491.594 s UT (19:51:31.594).\n\nThe burst light curve shows two multipeaked episodes\nstarted at ~T0-3.6 s with a total duration of ~75.6 s.\nThe emission is seen up to ~4 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250206_T71491/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.44(-0.09,+0.10)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+9.072 s,\nof 2.91(-0.44,+0.44)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+73.984 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.76(-0.10,+0.11)\nand Ep = 205(-11,+13) keV (chi2 = 87/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.4\n(chi2 = 85/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+8.448 to T0+16.640 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.06(-0.13,+0.13)\nand Ep = 223(-9,+10) keV (chi2 = 85/82 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.4\n(chi2 = 85/81 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

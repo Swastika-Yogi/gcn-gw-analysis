@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050824: Swift/UVOT detection of fading afterglow",
+  "eventId": "GRB 050824",
+  "bibcode": "2005GCN..3878....1S",
+  "createdOn": 1124991706000,
+  "circularId": 3878,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "The Swift Ultra-Violet/Optical Telescope (UVOT) observations began at\n00:53:49 UT, 1.8 hrs after the BAT trigger. UVOT detects a fading source at a \nposition consistent with that reported by Gorosabel et al. (GCN 3865) in 5 \nof its 6 filters. The magnitudes or 3-sigma upper limit in the first \nexposure taken in each filter are as follows:\n\nFilter  Mid Time (hrs)  Exp (s)  Mag/3-sig UL\nV\t1.8\t\t109\t20.02+/-0.39\nB\t5.1\t\t305\t20.88+/-0.36\nU\t3.6\t\t217\t19.55+/-0.32\nW1\t9.5\t\t205\t19.85+/-0.33\nM2\t11.7\t\t121\t19.34+/-0.36\nW2\t12.3\t\t1457\t> 20.79\t\n\nThe afterglow has faded below 2-sigma above background 11hrs after the \nburst trigger in all filters apart from the V and U, where it is still \ndetected at the 2.3-sigma and >3-sigma level, respectively.\n\nThe magnitudes have not been corrected for extinction. These magnitudes \nare based on preliminary zero-points, measured in orbit, and will require \nrefinement with further calibration."
+}

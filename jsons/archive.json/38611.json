@@ -1,0 +1,14 @@
+{
+  "editedOn": 1734530394856,
+  "subject": "GRB 241218A: NUTTelA-TAO / BSTI Optical Limits",
+  "eventId": "GRB 241218A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38611....1M",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Zhanat Maksut at Nazarbayev University <zhanat.maksut@nu.edu.kz>",
+  "circularId": 38611,
+  "createdOn": 1734516341095,
+  "submitter": "Zhanat Maksut at Nazarbayev University <zhanat.maksut@nu.edu.kz>",
+  "format": "text/plain",
+  "body": "Z. Maksut (NU), B. Grossan (UCB, NU), T. Komesh (NU), Z. Abdullayev (NU), M. Krugov (FAI) and E. Abdikamalov (NU) report on behalf of the Energetic Cosmos Laboratory:\n\n\nThe Nazarbayev University Transient Telescope at Assy-Turgen Astrophysical Observatory (NUTTelA-TAO) observed the field of GRB 241218A, 12 seconds after receipt of an automated GCN / BAT position alert, in Sloan g' and r' bands, with the Burst Simultaneous Three-Channel Imager (Grossan, Kumar & Smoot 2019, JHEA, 32, 14).\n\n\nWe started observations of GRB 241218A (Williams et al., GCN 38601; Strausbaugh et al., GCN 38605) at UT 00:13:43 on 2024-12-18, 292 seconds after the BAT trigger. Observations were made in clear conditions.  We report the following upper limit results:\n\n\nstart time  t_m-t0(s)  end time    UL g'   UL r'   exposure_time (image x s)\n-----------------------------------------------------------------------\n00:26:30     1191     00:29:30     19.51     19.57    3 x 60\n\n\nThe start and end time is in UT. t_m is the middle time, t0 is the BAT trigger time, t_m-t0 is given in seconds. UL gives the 5 sigma upper limit sensitivity in magnitudes, for images co-added to the given exposure time. Calibration was done with 4 Pan-STARRS catalog stars on our images. No color corrections were applied to the values above.\n\n----------------------------------\nNU = Nazarbayev University, Astana, Kazakhstan\nUCB = University of California, Berkeley, USA\nFAI = Fesenkov Astrophysical Institute, Kazakhstan"
+}

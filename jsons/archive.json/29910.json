@@ -1,0 +1,9 @@
+{
+  "subject": "Delayed GRB GCN Notices from Swift",
+  "bibcode": "2021GCN.29910....1C",
+  "createdOn": 1619636347000,
+  "circularId": 29910,
+  "submitter": "Brad Cenko at NASA/GSFC  <brad.cenko@nasa.gov>",
+  "email": "brad.cenko@nasa.gov",
+  "body": "On 8 April 2021 the Swift satellite entered into an anomaly state. The cause of this anomaly was significantly degraded performance from one of the two primary antennae used for communications.\r\n\r\nTo preserve functionality the affected antenna was disabled on 13 April 2021, and since that time all spacecraft communications have been handled by the remaining (fully functional) primary antenna.\r\n\r\nThe antenna failure did not result in any interruption of pre-planned science observations, and all data has been successfully transmitted to the ground. The primary impact to Swift currently is in the capacity for prompt uplink to and downlink from the spacecraft (e.g, prompt GRB notifications), which was typically handled by the affected antenna.\r\n\r\nOur experience of the last few weeks is that the full set of GCN notices associated with on-board GRB triggers are promptly downlinked ~ 50% of the time. For the remainder of events, a subset of notices may be immediately available, but the full suite of standard GRB products may take several hours to reach the ground.\r\n\r\nThe team is currently investigating several approaches to restore full functionality, including activation of on-board backup antennae. We will do our best to keep the community informed we progress in these investigations in the coming weeks.\r\n\r\nIf you have further questions, please feel free to reach out to the Swift PI, Brad Cenko, at brad.cenko@nasa.gov<mailto:brad.cenko@nasa.gov>"
+}

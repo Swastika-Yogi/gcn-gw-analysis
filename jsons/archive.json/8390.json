@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081017, Swift-BAT refined analysis",
+  "eventId": "GRB 081017",
+  "bibcode": "2008GCN..8390....1T",
+  "createdOn": 1224338186000,
+  "circularId": 8390,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nO. Godet (U Leicester), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), A. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 081017 (trigger #331964)\n(Godet, et al., GCN Circ. 8388).  The BAT ground-calculated position is\nRA, Dec = 230.209, -32.790 deg which is \n   RA(J2000)  =  15h 20m 50.1s \n   Dec(J2000) = -32d 47' 23.3\" \nwith an uncertainty of 2.3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 80%.\n \nThe mask-weighted light curve shows a broad lo-level emission with some\nstructure starting at ~T-70 and ending around T+400 sec.  The spacecraft slewed\nto the next pre-planned observing target at T+400 sec such that the partial coding\nof this burst location decreased to a small value.  As such the statisitical\nerror on the flux measurement increased to the point that we can only say\nthere is a hint of emission out to around T+700 sec.\nT90 (15-350 keV) is 320 +- 50 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T+0.0 to T+320.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.64 +- 0.23.  The fluence in the 15-150 keV band is 1.4 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.00 sec in the 15-150 keV band\nis 0.07 +- 0.01 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/331964/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 220910A",
+  "eventId": "GRB 220910A",
+  "bibcode": "2022GCN.32555....1S",
+  "createdOn": 1663082171000,
+  "circularId": 32555,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, M. Ulanov, A. Tsvetkova,\nA. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe very bright, long-duration GRB 220910A\n(AGILE detection: Ursi et al., GCN Circ. 32540;\nAstroSat-CZTI detection: Gopalakrishnan et al., GCN Circ. 32541;\nIPN triangulaton: Svinkin et al., GCN Circ. 32550;\nFermi-GBM observation: Malacaria and Meegan, GCN Circ. 32551)\ntriggered Konus-Wind at T0=20910.521 s UT (05:48:30.521).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-5.7 s and has a total duration of ~13.4 s.\nThe emission is seen up to ~16 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220910_T20910/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 5.23(-0.50,+0.53)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+2.112 s,\nof 3.93(-0.47,+0.49)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+10.496 s)\nis best fit in the 20 keV - 16 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.53(-0.14,+0.17),\nthe high energy photon index beta = -2.46(-0.29,+0.19),\nthe peak energy Ep = 310(-37,+39) keV\n(chi2 = 110/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+1.280 to T0+2.304 s)\nis best fit in the 20 keV - 16 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.21(-0.19,+0.25),\nthe high energy photon index beta = -2.61(-0.27,+0.19),\nthe peak energy Ep = 254(-29,+30) keV\n(chi2 = 72/59 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

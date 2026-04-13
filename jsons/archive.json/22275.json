@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 171222A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 171222A",
+  "bibcode": "2017GCN.22275....1K",
+  "createdOn": 1514038152000,
+  "circularId": 22275,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (UCL-MSSL) and J. L. Racusin (NASA/GSFC) report on\nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 171222A\n176 s after the BAT trigger (Racusin et al., GCN Circ. 22265). No\noptical afterglow consistent with the enhanced XRT position (Osborne\net al. GCN Circ 22266) or the NOT position (Perley et al., GCN Circ\n22269) is detected in the initial UVOT exposures.\nThe optical afterglow was detected however by Perley et al. (GCN Circ\n22269), Tyurina et al. (GCN Circ. 22273), and a redshift was reported\nby de Ugarte Postigo (GCN Circ. 22272).\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding\nchart (FC) exposure and subsequent exposures are:\n\n Filter T_start(s) T_stop(s) Exp(s) Mag\n\n u_FC     176         426      246   >20.6\n u        176        1026      393   >20.3\n b        432        1795      175   >20.3\n v        482        1846      175   >19.2\n uvw1     531        1895      175   >19.4\n uvm2     506        1870      175   >19.3\n uvw2     458        1821      175   >19.6\n\nThe magnitudes in the table are not corrected for the Galactic\nextinction due to the reddening of E(B-V) = 0.01 in the direction\nof the burst (Schlegel et al. 1998)."
+}

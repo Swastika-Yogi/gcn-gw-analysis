@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240726A: AstroSat CZTI detection of a short burst",
+  "eventId": "GRB 240726A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36937....1S",
+  "createdOn": 1722012605243,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "circularId": 36937,
+  "format": "text/plain",
+  "body": "S. Srijan (IITB), A. Dasgupta (BITS Pilani, Hyderabad), G. Waratkar (IITB), U. Pathak (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of the short-duration GRB 240726A which was also detected by Fermi/GBM (Fermi GBM team, GCN Circ. 36935).\n\nThe source was detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-07-26 08:07:48.942 UTC. The measured peak count rate associated with the burst is 1882 (+1349, -579) counts/s above the background in the combined data of all quadrants, with a total of 28 (+23, -12) counts. The local mean background count rate was 311 (+5, -182) counts/s. Using cumulative rates, we measure a T90 of 0.07 (+0.02, -0.06) s. We note that the Fermi localization of 111.9, 66.8 (RA, Dec) is close to the Earth limb for AstroSat and is occulted by Earth immediately after this short burst. We also note that the relative intensities among the 4 CZT quadrants are unexpected given the GBM localization; however, this is likely impacted by the small number statistics. \n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

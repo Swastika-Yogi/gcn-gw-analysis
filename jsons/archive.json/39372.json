@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM/sb25021804: QSO variability in Liverpool Telescope observations",
+  "eventId": "sb25021804",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39372....1E",
+  "createdOn": 1739965038181,
+  "circularId": 39372,
+  "submitter": "Rob Eyles-Ferris at U of Leicester <raje1@leicester.ac.uk>",
+  "format": "text/plain",
+  "body": "R. A. J. Eyles-Ferris, P. T. O’Brien and R. L. C. Starling (U of Leicester) report on behalf of a larger collaboration:\n \nWe observed the field of the SVOM/ECLAIRs transient sb25021804 (Wang et al., GCN 39363) in four pointings covering ~87% of the error area using the IO:O on the 2m Liverpool Telescope. We obtained 4x150s exposures per pointing in the SDSS g’ filter starting at 2025-02-19 04:59:09 UT, approximately 21.7 hours after the SVOM/ECLAIRs detection.\n \nWe performed image subtraction on the stacked images using reference images from Pan-STARRS. We identify a residual at RA, Dec 195.044, 28.130 which corresponds to the X-ray bright QSO WISEA J130010.60+280749.7, about 3.4 arcmin from the SVOM ECLAIRs position reported by Wang et al., GCN 39363. We performed PSF photometry on the stacked image and find g’ = 20.09 +/- 0.11 calibrated to Pan-STARRS and not corrected for Galactic extinction. This is ~0.5 mag brighter than the magnitude catalogued in Pan-STARRS DR2 and we suggest sb25021804 is related to this variability.\n\nWe find no other obvious residuals in the subtracted images to a 3-sigma limiting magnitude of ~21.5."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081204: Swift/UVOT Upper Limits",
+  "eventId": "GRB 081204",
+  "bibcode": "2008GCN..8621....1C",
+  "createdOn": 1228486658000,
+  "circularId": 8621,
+  "submitter": "Peter Curran at MSSL  <pac@mssl.ucl.ac.uk>",
+  "email": "pac@mssl.ucl.ac.uk",
+  "body": "P.A. Curran (UCL-MSSL) and W. Baumgartner  (GSFC)\nreport on behalf of the Swift/UVOT team:\n\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began settled ToO \nobservations of the  INTEGRAL-IBAS localised  GRB 081204 (Gotz et al., \nGCN 8614) ~ 3 hours after the event. The field was observed with the \nwhite filter only. No afterglow is detected within the 7\" XRT position \n(Mangano et al., GCN 8616) in the co-added image, down to the following \n3-sigma limiting magnitude:\n\nFilter      T_start(s)    Exp(s)     Mag UL (3sig)\n-----------------------------------\nwhite      1.01e4        3.4e3      >  22.04\n-----------------------------------\n\nThere is a DSS detected object approximately 11\" south-west of the \ncenter of the XRT position with an observed white magnitide of ~20.5.\n\nThe values quoted above are in the UVOT photometric system (Poole et al. \n2008, MNRAS, 383, 627); they are not corrected for the expected Galactic \nextinction along the line of sight which corresponds to a reddening of \nE(B-V)=0.027 mag (Schlegel et al. 1998).\n\n[GCN OPS NOTE(05dec08): Per author's request, the typo for T_start\nin the table was changed from 1.01e5 to 1.01e4.]"
+}

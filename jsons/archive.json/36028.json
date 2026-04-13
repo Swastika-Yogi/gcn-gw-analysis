@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of LXT 240402A/GRB 240402B",
+  "eventId": "GRB 240402B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36028....1R",
+  "createdOn": 1712246351251,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 36028,
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 240402B \n(GECAM-C detection: Xue et al., GCN 36017)\nassociated with the LEIA fast X-ray transient \nLXT 240402A (Xu et al., GCN 36016)\ntriggered Konus-Wind at T0=31668.797 s UT (08:47:48.797).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.2 s and has a total duration of ~5.1 s.\nThe emission is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240402_T31668/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 7.56(-0.43,+0.50)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+2.704 s,\nof 5.07(-0.66,+0.68)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 4 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.71(-0.17,+0.19),\nthe high energy photon index beta = -3.58(-1.30,+0.44),\nthe peak energy Ep = 86(-4,+5) keV\n(chi2 = 57/68 dof).\n\nThis spectrum is nearly-well fitted \nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.78(-0.15,+0.16)\nand Ep = 88(-4,+4) keV (chi2 = 61/69 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary.\n"
+}

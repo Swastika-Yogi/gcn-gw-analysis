@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090205: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090205",
+  "bibcode": "2009GCN..8893....1L",
+  "createdOn": 1233939299000,
+  "circularId": 8893,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W. Landsman (NASA/GSFC) and M. Perri (ASDC) report on behalf of the \nSwift UVOT team\n\nThe Swift/UVOT began settled observations of the field of GRB 090205 92s \nafter the BAT trigger (Perri et al., GCN 8884). We do not detect any \nsource at the enhanced Swift XRT position (Evans et al. GCN 8885) or at \nthe VLT optical candidate position (D'Avanzo et al. GCN 8887).     The \nUVOT non-detections are consistent with the spectroscopic redshift of \n4.6 reported by Thoene et al. (GCN 8889).    Our 3-sigma upper limits \nare reported below.\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite       92       242     148       > 21.1\nwhite       92      7633     824       > 21.9\nv          580     12829    1234       > 20.7\nb          506     34930    2073       > 21.7\nu          250       500     246       > 20.5\nu          298     18581    1660       > 21.4\nuvw1       629     17668    1415       > 21.4\nuvm2       604     23148    1882       > 21.4\nuvw2       555     11915    1322       > 21.5\n\nThe quoted upper limits have not been corrected for the expected \nGalactic extinction along the line of sight of E_(B-V) = 0.12 mag.   All \nphotometry is on the UVOT photometric system described in Poole et al. \n(2008, MNRAS, 383, 627)."
+}

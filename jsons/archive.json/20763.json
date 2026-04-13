@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G275697: Identification of a GW CBC Candidate",
+  "eventId": "LIGO/Virgo G275697",
+  "bibcode": "2017GCN.20763....1L",
+  "createdOn": 1488225092000,
+  "circularId": 20763,
+  "submitter": "Karelle Siellez at Georgia Inst of Tech  <karelle.siellez@ligo.org>",
+  "email": "karelle.siellez@ligo.org",
+  "body": "The LIGO Scientific Collaboration and Virgo report:\n\nThe pycbc CBC analysis (Usman et al. 2016, CQG 33, 215004) identified\ncandidate G275697 during real-time processing of data from LIGO\nHanford Observatory (H1) and LIGO Livingston Observatory (L1) at\n2017-02-27 18:57:31.375 UTC (GPS time: 1172257069.375).\n\nG275697 is an event of interest because its false alarm rate, as\ndetermined by the online analysis, is 1.43e-07 Hz or about one in 2\nmonths, passing our alert threshold of ~1/month. The event's\nproperties can be found at this URL:\n\nhttps://gracedb.ligo.org/events/G275697\n\nNo other GW event candidates were identified within a 300 s window\nbefore or after G275697.\n\nBased on preliminary matched-filter estimates of the masses and spins,\nif astrophysical, there is a 100% chance that the less massive companion\nin the binary has a mass less than 3 Msun. Based on the tidal disruption\ncondition and disk mass formula of Foucart (PRD 86, 124007), using an\nimplementation based on Pannarale & Ohme (ApJL 791, 7), we estimate\nthat there is a 100% chance that the system ejected enough neutron-rich\nmaterial to power an electromagnetic transient.\n\nOne sky map with directional distance information (e.g., Singer et al.\n2016, ApJL 829, 15) is available at this time and can be retrieved from\nthe GraceDB event page: bayestar.fits.gz, an initial localization generated\nby the BAYESTAR pipeline. The probability is concentrated in two\nsections of an annulus. The 50% credible region spans about 480 deg2 and\nthe 90% region about 1800 deg2. The luminosity distance is estimated to\nbe 181 +/- 55 Mpc (mean +/- standard deviation). This is the preferred sky\nmap at this time.\n\nUpdates on our analysis of this event will be sent as they become\navailable."
+}

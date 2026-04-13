@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120922A: Swift/UVOT Detection",
+  "eventId": "GRB 120922A",
+  "bibcode": "2012GCN.13808....1K",
+  "createdOn": 1348420092000,
+  "circularId": 13808,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL) and V.N. Yershov (MSSL/UCL)  report on\nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 120922A  127 s after the BAT trigger (Yershov et al., GCN\nCirc. 13793).  A source consistent with the XRT position (Evans et al.\nGCN Circ. 13800),  and the initial optical detection by GROND (Knust\net al., GCN Circ. 13795)  is detected in the initial UVOT exposures\n(Yershov et al. GCN Circ. 13803).\n\nThe uvot observations show a slow initial rise in brightness peaking\naround 900s after the trigger.  The burst is only detected in the v,b and\nwhite filters which is probably due to the high galactic reddening.\n\nPreliminary detections and 3-sigma upper limits using the UVOT\nphotometric system  (Breeveld et al. 2011, AIP Conf. Proc. 1358,\n373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              126          276          147        >20.67\nwhite              865         1014          147         19.34 +/- 0.14\nv                  615         1239           78         17.94 +/- 0.22\nb                  541          733           78        >19.17\nb                 1145         2030          119         19.62 +/- 0.36\nu                  285          534          250        >19.98\nu                  688         1139           40        >18.82\nw1                 664        16852         1434        >20.95\nm2                 639        11081         1232        >20.96\nw2                 590        12900         1424        >21.20\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.15 in the direction of the burst\n(Schlegel et al. 1998)."
+}

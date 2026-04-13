@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140103A: AAO optical afterglow candidate",
+  "eventId": "GRB 140103A",
+  "bibcode": "2014GCN.15735....1V",
+  "createdOn": 1389731030000,
+  "circularId": 15735,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "A. Volnova (IKI), R. Inasaridze (AAO), G. Inasaridze (AAO), V.\nZhuzhunadze (AAO), Yu. Krugly (IA KhNU), I. Molotov (KIAM), A. Pozanenko \n(IKI) report on behalf of larger GRB follow-up collaboration:\n\nWe observed the optical counterpart of the Swift GRB 140103A (Mangano et \nal., GCN 15656) with AS-32 (0.7m) telescope of Abastumani Observatory on \nJan. 3 and 4. We obtained several unfiltered images of 120 s exposure \nduring each observational set. In the refined XRT position (Mangano, GCN \n15666) we do not detect any object in stacked images. However we found a \nfading object which is not present in SDSS catalog. The coordinates of \nthe obsjet is (J2000)   RA=15 28 20.73, Dec = +37 45 28.8 with \nuncertainity of  0.3\" in each coordinate. The position of the fading \nobject is 5.2\" from the refined XRT position (Mangano, GCN 15666). Due \nto fading nature of the new object we suggest it as an afterglow of the \nGRB 140103A.\n\nDetails of the photometry   is following:\n\nDate        T_start   t-t0,     Filter  Exp.,    OT   err.\n               (UT)    mid, d            s\n2014-01-03  01:21:18  0.03953  None     5*120  21.14  0.12\n2014-01-03  01:34:40  0.05345  None    10*120  21.35  0.12\n2014-01-03  02:01:21  0.07662  None    15*120  21.41  0.11\n2014-01-04  01:47:48  1.08483  None    34*120  >22.3  (3 sigma)\n\nThe photometry is based on SDSS DR9 stars and gri -> R transformations \n(Lupton):\n\nN  SDSS_id              R(Lupton)\n1  J152814.09+374706.3  18.20\n2  J152819.83+374538.8  15.61\n\nFinding chart and a light curve of the afterglow can be found in\nhttp://grb.rssi.ru/GRB140103A/grb140103A_chart.png\nand\nhttp://grb.rssi.ru/GRB140103A/grb140103A_lc.PNG"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220408A: Swift/UVOT Detection",
+  "eventId": "GRB 220408A",
+  "bibcode": "2022GCN.31855....1O",
+  "createdOn": 1649432063000,
+  "circularId": 31855,
+  "submitter": "Samantha Oates at MSSL  <samantha.oates@alumni.ucl.ac.uk>",
+  "email": "samantha.oates@alumni.ucl.ac.uk",
+  "body": "S. R. Oates (U.Birmingham) and R. Caputo (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 220408A\n112 s after the BAT trigger (Caputo et al., GCN Circ. 31848).\nA source consistent with the XRT position (Beardmore et al., GCN Circ. 31852)\nis detected in the initial white UVOT exposure only.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite (FC)         112          262          147        20.30 +/- 0.22\nwhite              605\t        799          40        >21.4\nv                  655\t        675          19        >19.3\nb                  581\t        774          39        >20.7\nu                  325\t        575         246        >20.2\nw1                 704\t        724          19        >17.9\nm2                 679\t        699          19        >17.4\nw2                 631\t        650          19        >17.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.042 in the direction of the burst\n(Schlegel et al. 1998)."
+}

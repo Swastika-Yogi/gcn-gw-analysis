@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240112C: Swift/UVOT Detection",
+  "eventId": "GRB 240112C",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.35534....1K",
+  "createdOn": 1705256542697,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "circularId": 35534,
+  "body": "N. P. M. Kuin (UCL-MSSL) and Eyles-Ferris (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240112C\n121 s after the BAT trigger (Eyles-Ferris et al., GCN Circ. 35522).\nA source consistent with the XRT position is detected in the initial\nUVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  18:02:34.58 = 270.64410 (deg.)\n    Dec (J2000) = +24:29:21.3  =  24.48925 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              121          236          113         16.98 +/- 0.04\nv                 4955         5126          169        >18.6\nb                 4340         4539          197         19.35 +/- 0.16\nu                 4134         4334          197         19.11 +/- 0.18\nw1                3930         4129          197         19.13 +/- 0.24\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.108 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

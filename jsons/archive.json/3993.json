@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050915B: Swift-BAT refined analysis",
+  "eventId": "GRB 050915B",
+  "bibcode": "2005GCN..3993....1C",
+  "createdOn": 1126905251000,
+  "circularId": 3993,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "J. Cummings (GSFC/NRC), M. Ajello (MPE), L. Barbier (GSFC),\nS. Barthelmy (GSFC), E. Fenimore (LANL), R. Fink (GSFC),\nN. Gehrels (GSFC), D. Hullinger (UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC),\non behalf of the Swift-BAT team:\n\nUsing the full data set from T-90 to T+300 sec from the recent\ntelemetry downlinks, we report further analysis of Swift-BAT\nGRB 050915B (trigger #155284)  (Falcone, et al., GCN 3987).  The\nrefined BAT ground position is (RA,Dec) = 219.112, -67.412 degrees\n{14h 36m 26.8, -67d 24' 43\"} (J2000) +-0.7 arcmin, (radius, sys+stat,\n90% containment).  This is within 8 arcseconds of the XRT counterpart\n(Falcone et al. GCN 3989).  The partial coding was 53% including\nprojection effects.\n\nThe mask-weighted light curve shows a rise from T-10 seconds to a\npeak at T-4, dropping off to a lumpy plateau spanning T+0 to T+25,\nthen steadily declining to zero at T+50.  No further instances of\nemission are apparent on a 1 second timescale out to T+1200 sec.\nT90 (15-350 keV) is (40 +- 1) sec (estimated error including systematics).\n\nThe time-averaged spectrum is well-fit by a power law with photon\nindex 1.89 +- 0.06.  The fluence in the 15-150 keV band is\n(3.4 +- 0.1) x 10^-6 erg/cm2. The 1-sec peak photon flux measured\nfrom T-3.1 sec in the 15-150 keV band is (2.3 +- 0.2) ph/cm2/sec.\nAll quoted errors are at the 90% confidence level.\n\n--"
+}

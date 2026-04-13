@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221110A: Swift/UVOT Detection and Corrected UVOT Position",
+  "eventId": "GRB 221110A",
+  "bibcode": "2022GCN.32932....1L",
+  "createdOn": 1668140848000,
+  "circularId": 32932,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "GRB 221110A: Swift/UVOT Detection and Corrected UVOT Position\n\nS. J. LaPorte (PSU) and M. Williams (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 221110A\n83 s after the BAT trigger (Williams et al., GCN Circ. 32925).\nA fading source is detected at\nRA (J2000) = 01:56:23.72 = 29.09882\nDec (J2000): = -27:17:45.09 = -27.29586\nwhich is consistent with the XRT position (Evans et al. GCN Circ. 32929).\n\nThe UVOT position reported in the initial detection circular\n(Williams et al., GCN Circ. 32925)\nwas incorrect, and differs from the updated position presented here by 8.45\narcsec.\nWe apologize for any inconvenience this discrepancy may cause.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nb                     3773          3973          196        >19.91\nm2                  4593          4793          196        >19.35\nu                       326            439          110        >19.33\nv                      4357          4557          197        >19.5\nw1                   4798          4998          196        >19.48\nw2                   4184          4383          196         >19.55\nwhite_FC            114            264          147          18.68+-0.08\nwhite                3978          4178          196         >20.66\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.013 in the direction of the burst\n(Schlegel et al. 1998)."
+}

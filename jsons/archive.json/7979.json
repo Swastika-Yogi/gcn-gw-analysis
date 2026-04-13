@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080714: Swift-BAT refined analysis",
+  "eventId": "GRB 080714",
+  "bibcode": "2008GCN..7979....1B",
+  "createdOn": 1216090798000,
+  "circularId": 7979,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. Baumgartner (GSFC/UMBC), J. Cummings \n(GSFC/UMBC),\nE. Fenimore (LANL), N. Gehrels (GSFC), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), K. McLean (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), M. Perri (ASDC), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. Ukwatta \n(GWU)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-240 to T+963 sec from the recent telemetry \ndownlink,\nwe report further analysis of BAT GRB 080714 (trigger #316910)\n(Perri, et al., GCN Circ. 7978).  The BAT ground-calculated position is\nRA, Dec = 188.104, -60.274 deg which is\n   RA(J2000) = 12h 32m 24.9s \n   Dec(J2000) = -60d 16' 28.2\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment). The\npartial coding was 43%. \n\nThe mask-weighted lightcurve shows a single peak with a rise time of about\n3 seconds and an exponential decay with a time constant of about 10 \nseconds. \nT90 (15-350 keV) is 33 +- 9 sec (estimated error including systematics).\nThere is a small peak in the raw light curve, mostly above 25 keV, at about\nT-90 sec that appears to be from a different source, out of the field of \nview.\n\nThe time-averaged spectrum from T-3.6 to T+50.3 sec is best fit by a simple\npower-law model. The power law index of the time-averaged spectrum is\n1.52 +- 0.08. The fluence in the 15-150 keV band is 2.5 +- 0.1 x 10^-06 \nerg/cm2.\nThe 1-sec peak photon flux measured from T-0.37 sec in the 15-150 keV band\nis 4.2 +- 0.3 ph/cm2/sec. All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/316910/BA/"
+}

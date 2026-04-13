@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210610B: iTelescope optical afterglow observations",
+  "eventId": "GRB 210610B",
+  "bibcode": "2021GCN.30231....1N",
+  "createdOn": 1623609403000,
+  "circularId": 30231,
+  "submitter": "Arto Oksanen at Nyrola Obs., Finland  <oksanen@nyrola.jklsirius.fi>",
+  "email": "oksanen@nyrola.jklsirius.fi",
+  "body": "Markku Nissinen (Taurus Hill Observatory, Varkaus, Finland) and Arto Oksanen \n(Hankasalmi Observatory, Hankasalmi, Finland) report:\n\nWe have detected GRB 210610B optical afterglow (Page et al., GCN30170) using \niTelescope T18 (0.32-m f/8.0 + CCD in AstroCamp at Nerpio, Spain), iTelescope T21 \n(0.43-m f/6.8 + f/4.5 focal reducer + CCD in New Mexico Skies at Mayhill, \nNew Mexico, USA) and iTelescope T11 (0.50-m f/6.8 + f/4.5 focal reducer + CCD \nin New Mexico Skies at Mayhill, New Mexico, USA). \n\nWe took total of 24 exposures with clear (CR), V and R filters. \n\nThe afterglow was clearly detected with each filter at the position\nRA 16:15:40.43 DEC +14:23:57.4.  \n\nThe following magnitudes were measured from comparison of a nearby star\n(V = 13.97, r'=13.70) from the APASS DR9 catalogue (Henden+, 2016):\n\n------------------------------------------------------------------------------\nJD            UTC            Mag    Err   Filter AirMass Telescope Exposure(s)\n------------------------------------------------------------------------------\n2459376.36806 June 10 20:50  16.79  0.05  CR     1.28    T18       7x60\n2459376.37868 June 10 21:05  17.15  0.10  V      1.24    T18       10x60\n2459376.64285 June 11 03:25  17.76  0.02  CR     1.29    T21       2x300\n2459376.65108 June 11 03:37  17.95  0.12  R      1.26    T11       5x300\n------------------------------------------------------------------------------\n\nWe used r' reference magnitude for the clear filter and the R filter measurements."
+}

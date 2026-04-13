@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070227: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070227",
+  "bibcode": "2007GCN..6160....1P",
+  "createdOn": 1172706755000,
+  "circularId": 6160,
+  "submitter": "Shashi Pandey at MSSL  <sbp2@mssl.ucl.ac.uk>",
+  "email": "sbp2@mssl.ucl.ac.uk",
+  "body": "S. B. Pandey (UCL-MSSL) and C. Pagani (PSU) report on behalf of\nthe Swift/UVOT Team:\n\nThe Swift/UVOT started observing the field of GRB 070227 (trigger 262347)\n56680 s after the BAT trigger (Pagani et al., GCN Circ. 6156). UVOT\nobservations started late because the BAT observation did not result\nin an automated response, but was found during the ground analysis.\n\nThe 3-sigma upper limits for detecting a source inside the XRT error \ncircle (Pagani, Grupe & Burrows, GCN Circ. 6157) in the co-added\nexposures are:\n\nFilter     T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n---------------------------------------------------------------\n     V       56680     57586    885    20.90\n     B       63392     64113    702    21.58\n     U       62480     63386    885    21.31\n   UVW1      61573     62473    886    21.17\n   UVM2      57592     58329    726    21.34\n   UVW2      55773     56673    886    21.04\n---------------------------------------------------------------\n\nCaution should be taken due to the presence of a nearby bright star. The \nXRT error circle lies lies within the wings of the PSF of the bright star \nin all the UVOT frames. This complicates the photometry, so these limits \ncould possibly be underestimated.\n\nThe values quoted above are not corrected for the expected Galactic\nextinction E_{B-V} = 0.34 mag towards the direction of the burst\n(Schlegel et al. 1998)."
+}

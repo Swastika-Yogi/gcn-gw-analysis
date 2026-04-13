@@ -1,0 +1,10 @@
+{
+  "subject": "GRB: Clarification on Gamma-Ray Burst Naming Convention",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41195....1B",
+  "createdOn": 1753795565057,
+  "submitter": "Eric Burns at LSU <erickayserburns@gmail.com>",
+  "circularId": 41195,
+  "format": "text/markdown",
+  "body": "E. Burns (LSU) and D. Svinkin (Ioffe) on behalf of the InterPlanetary Network; J. Racusin (NASA GSFC) on behalf of the GCN Team\n\nGamma-ray bursts are named following the GRB YYMMDDX format, where the two digit year, month, and day from the detection time at Earth is followed by an alphabetical assignment which iterates, beginning with A in the order of announcement. These are classically assigned when a given event is first reported through GCN Circulars and tracked in catalogs by the InterPlanetary Network (IPN).\n\nAll signals detected from a specific GRB event should utilize the above defined format. That is, even if an instrument is triggered multiple times or there are multiple instrument triggers, all triggers should be categorized into the same alphabetical assignment (the first announced) once it becomes clear that they belong to the same event. The recent event being commonly referred to as “GRB 250702 B,E,D” (or similar) should be properly referred to only as “GRB 250702B”. This is also true for GRB 250706B which has also been referred to as GRB 250706C. These events are also viewable as groups in the GCN Circulars Event View ([GRB 250702B](https://gcn.nasa.gov/circulars/events/ep250702a), [GRB 250706B](https://gcn.nasa.gov/circulars/events/grb-250706b)).\n\nThis convention clearly indicates singular events, rather than triggers. This is of great benefit to catalogs, and follows other conventions in transient astrophysics (e.g. supernovae). These rules have been de facto and followed by instrument teams, with the deviation caused by automated submission of GCN Circulars by some teams. An automated GRB Naming Server is in development by the IPN to prevent such issues in the future.\n"
+}

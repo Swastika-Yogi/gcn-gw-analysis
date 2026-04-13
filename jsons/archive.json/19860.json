@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160824A: Swift/UVOT Possible Afterglow Detection",
+  "eventId": "GRB 160824A",
+  "bibcode": "2016GCN.19860....1M",
+  "createdOn": 1472135128000,
+  "circularId": 19860,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and P. A. Evans (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160824A\n101 s after the BAT trigger (Evans et al., GCN Circ. 19855).\nUVOT marginally detects a source consistent with the enhanced XRT position\n(Goad et al. GCN Circ. 19857)\nin the initial UVOT exposure with the white filter.\n\nThe preliminary analysis produces the following marginal detection \nand 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373):\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              101          787          186         20.16 +/- 0.27\nv                  645          837           39        >17.9\nb                  571          763           39        >18.7\nu                  313          738          265        >19.7\nw1                 694          714           19        >18.5\nm2                 669          861           39        >19.2\nw2                 620          813           39        >18.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.69 in the direction of the burst\n(Schlegel et al. 1998)."
+}

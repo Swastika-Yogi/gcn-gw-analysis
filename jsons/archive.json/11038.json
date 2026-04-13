@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100802A: Swift/UVOT Possible Optical Afterglow",
+  "eventId": "GRB 100802A",
+  "bibcode": "2010GCN.11038....1B",
+  "createdOn": 1280764782000,
+  "circularId": 11038,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A. Breeveld (MSSL/UCL) and E. Troja (NASA/GSFC/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100802A \n89 s after the BAT trigger (Troja et al., GCN Circ. 11031). Using the \ndata from the most recent telemetry, there is a tentative detection of \nan optical afterglow at the position given by Siegel et al., GCN Circ. \n11032, in the early white and u exposures.\nPreliminary detections and later 3-sigma upper limits using the UVOT \nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for the first \nfinding chart (FC) exposures and subsequent summed exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            89          238          147         20.7 � 0.24\nu_FC               301          551          246         19.57 � 0.22\nwhite              581         5566          327         21.85 � 0.48 \n(2.4 sigma sig)\nv                  632         5977          432         >20.6\nb                  557         6754          388         >21.2\nu                  706         6593          412         >20.92\nw1                 682         6388          432         >20.9\nm2                 657         6183          432         >20.6\nw2                 608         5772          432         >21.0\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.12 in the direction of the burst\n(Schlegel et al. 1998)."
+}

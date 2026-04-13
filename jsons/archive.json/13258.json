@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120422A: RAPTOR Limits During Gamma-ray Emitting Interval",
+  "eventId": "GRB 120422A",
+  "bibcode": "2012GCN.13258....1W",
+  "createdOn": 1335220624000,
+  "circularId": 13258,
+  "submitter": "James Wren at LANL  <jwren@nis.lanl.gov>",
+  "email": "jwren@nis.lanl.gov",
+  "body": "J. Wren, W.T. Vestrand, P. Wozniak, and H. Davis,\nof Los Alamos National Laboratory report:\n\nThe RAPTOR network of robotic optical telescopes made observations of Swift\ntrigger 520658 (Troja et al., GCN 13243).  The burst location was within\nthe field of our wide-field monitor located in Maui, HI, which began a 10 s\nintegration of the location at 07:12:06.81 UT, 3.2 s after the Swift trigger\ntime and during the gamma-ray emitting interval.  The optical counterpart\n(Cucchiara, et al., GCN 13245, and Kuin et al., GCN 13248) was not detected\nabove our 3-sigma limiting magnitude of 10.3 based on a comparison of our\nunfiltered image to the Tycho-2 V-band catalog.  Our narrow-field instruments\nin Los Alamos, NM, began imaging at 07:12:55.49 UT, 51.8 s after the Swift\ntrigger and 5.7 s after receiving the GCN packet.  The initial 5 s exposure\nshows no counterpart to a 3-sigma limiting magnitude of 16.6 when compared\nto the USNO-B1 R-band.  The following table gives a sample of our\nobservations.  The start time is given as the seconds between the start of\nthe exposure and the initial Swift trigger time.\n\nstart(s)  exp(s)  mag limit\n--------------------------------\n-16.8     10.0    >10.3\n3.2       10.0    >10.3\n22.7      10.0    >10.3\n51.8       5.0    >16.6\n60.8       5.0    >16.9\n149.8     10.0    >17.4\n437.2     30.0    >17.9"
+}

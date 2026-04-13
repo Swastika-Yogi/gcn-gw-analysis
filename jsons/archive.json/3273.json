@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050416: Swift-BAT refined analysis",
+  "eventId": "GRB 050416",
+  "bibcode": "2005GCN..3273....1S",
+  "createdOn": 1113668732000,
+  "circularId": 3273,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/NRC), L. Barbier (GSFC), S. Barthelmy (GSFC), \nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC), \nD. Hullinger (UMD), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), G. Sato (ISAS), \nM. Suzuki (Saitama), M. Tashiro (Saitama U.), J. Tueller (GSFC), \non behalf of the Swift/BAT team:\n\nAt 11:04:44.5  UT Swift-BAT detected GRB 050416 (trigger=114753)\n(GCN Circ 3264, Sakamoto et al.).  The refined BAT ground position\nis (RA,Dec) = 188.490,  21.053, [deg; J2000] +- 3 arcmin, (95%\ncontainment).  This is 0.7 arc minutes from the position determined\nby the XRT (GCN Circ 3268, Kennea, et al.).\n\nThe BAT mask weighted light curve shows a single peak of about one \nsecond duration followed by a small bump.  Most of the emission is \nin the 15-50 keV band.  T90 (15-350 keV) is (2.4 +- 0.2) seconds \n(estimated error including systematics).\n\nThe photon index of the spectrum is 2.9 +- 0.2.  The fluences in \nthe 15-50 keV band and in the 15-350 keV band are \n(2.8 +- 0.2) x 10^-7 erg/cm2 and (3.8 +- 0.4) x 10^-7 erg/cm2 respectively.  \nThe peak photon fluxes in the 15-50 keV band and in the 15-350 band are \n(4.4 + 0.8) ph/cm2/s and (4.8 +- 0.6) ph/cm2/s respectively.  All the \nquoted errors are in 90% confidence level. \n\nThe BAT team cautions that while there appears to be a deficit of \ncounts below 20 keV, this is likely due to systematic errors in the \nresponse matrix being accentuated by the steep spectrum."
+}

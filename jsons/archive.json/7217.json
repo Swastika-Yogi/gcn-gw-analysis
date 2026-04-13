@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080121: Swift/UVOT upper limits",
+  "eventId": "GRB 080121",
+  "bibcode": "2008GCN..7217....1C",
+  "createdOn": 1201269989000,
+  "circularId": 7217,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A. Cucchiara (PSU), P. Schady (MSSL)\nreport on behalf of the Swift-UVOT team:\n\nThe Swift/UVOT observed the field of GRB080121 (trigger #301491)\nstarting 2.3 days after the BAT detection (J. R. Cummings et\nal. 2008, GCN Circ. 7209). We do not find any new source in any\nof the UVOT coadded observations inside the BAT error circle.\n\nThe 3-sigma upper limits (in the UVOT photometric system,\nBreeveld et al., GCN Circ. 6614) are listed.\n\nFilter     Tstart        Exp    Magnitude  \n                         (s)\nwhite       2.3 days     2015    >22.25\nv           2.3 days     2268    >20.73\nuvm2        3.4 days     1491    >21.13\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.02  mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

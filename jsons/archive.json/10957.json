@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100713A: Swift/UVOT observations",
+  "eventId": "GRB 100713A",
+  "bibcode": "2010GCN.10957....1D",
+  "createdOn": 1279111085000,
+  "circularId": 10957,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and V. D'Elia (ASDC) on behalf of the Swift/UVOT \nteam report:\n\nSwift/UVOT began settled observations of the INTEGRAL burst GRB100713A \n(Mereghetti et al., GCN 10951) 6247s after the trigger.\nAt the position of the X-ray counterpart (D'Elia et al., GCN 10952), we do \nnot detect any optical afterglow in the exposures in UVOT filters down to \nthe following 3 sigma upper limits.\n\n\nFilter    T_start (s)  T_stop (s)  Exp (s)  Mag upper limit\n\nv          6403           6603       197        >19.6\n\nwh         6247          12351       518        >21.8\n\nb         11065          11965       880        >21.4\n\nu         10152          11059       885        >20.7\n\nuvw1       6813           6963       148        >19.8\n\nuvm2       6608           6808       197        >19.6\n\n\nThe values quoted above are calculated using the UVOT photometric system\n(Poole et al 2008, MNRAS, 383, 627) and are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.06 in the direction of the \nburst (Schlegel et al. 1998)."
+}

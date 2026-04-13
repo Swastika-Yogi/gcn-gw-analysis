@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G275404: Identification of a GW CBC Candidate",
+  "eventId": "LIGO/Virgo G275404",
+  "bibcode": "2017GCN.20738....1L",
+  "createdOn": 1488051486000,
+  "circularId": 20738,
+  "submitter": "Surabhi Sachdev at LIGO/Caltech  <ssachdev@ligo.caltech.edu>",
+  "email": "ssachdev@ligo.caltech.edu",
+  "body": "The LIGO Scientific Collaboration and Virgo report:\n\nThe pycbc CBC analysis (Usman et al. 2016, CQG 33, 215004) identified\ncandidate G275404 during real-time processing of data from LIGO Hanford\nObservatory (H1) and LIGO Livingston Observatory (L1) at 2017-02-25\n18:30:21.374 UTC (GPS time:1172082639.374).\n\nG275404 is an event of interest because its false alarm rate, as\ndetermined by the online analysis, is 1.89e-07 Hz or about one in 2\nmonths, passing our stated alert threshold of ~1/month. The event's\nproperties can be found at this URL:\n\nhttps://gracedb.ligo.org/events/G275404\n\nBased on preliminary matched-filter estimates of the masses and spins,\nif astrophysical, there is a 100% chance that the less massive companion\nin the binary has a mass less than 3 Msun. Based on the tidal disruption\ncondition and disk mass formula of Foucart (PRD 86, 124007), using an\nimplementation based on Pannarale & Ohme (ApJL 791, 7), we estimate\nthat there is a 90% chance that the system ejected enough neutron-rich\nmaterial to power an electromagnetic transient.\n\nOne sky map with directional distance information (e.g., Singer et al.\n2016, ApJL 829, 15) is available at this time and can be retrieved from\nthe GraceDB event page: bayestar.fits.gz, an initial localization generated\nby the BAYESTAR pipeline. The probability is concentrated in two\nsections of an annulus. The 50% credible region spans about 460 deg2 and\nthe 90% region about 2100 deg2. The luminosity distance is estimated to\nbe 280 +/- 80 Mpc (mean +/- standard deviation). This is the preferred sky\nmap at this time.\n\nUpdates on our analysis of this event will be sent as they become\navailable."
+}

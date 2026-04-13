@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 241130A",
+  "eventId": "GRB 241130A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38424....1R",
+  "createdOn": 1733172045041,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 38424,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\nreport:\n\nThe long-duration GRB 241130A\n(Fermi-GBM detection: The Fermi GBM team, GCN 38405, \nSharma et al., GCN 38421;\nEIRSAT-1 GMOD Detection: McDermott et al., GCN 38423)\nwas detected by Fermi (GBM trigger 754701230), Konus-Wind,\nINTEGRAL (SPI-ACS), and EIRSAT-1 (GMOD) at about 83625 s UT (23:13:45).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  111.465 (07h 25m 52s) -31.442 (-31d 26' 30\")\n Corners:\n  120.603 (08h 02m 25s) -25.812 (-25d 48' 42\")\n  122.268 (08h 09m 04s) -26.450 (-26d 27' 01\")\n   99.058 (06h 36m 14s) -35.673 (-35d 40' 23\")\n   96.603 (06h 26m 25s) -34.608 (-34d 36' 30\")\n ---------------------------------------------\nThe error box area is 31 sq. deg, and its maximum\ndimension is 23.5 deg (the minimum one is 1.4 deg).\nThe Sun distance was 108 deg.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM localization (GCN 38405).\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241130_T83628/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

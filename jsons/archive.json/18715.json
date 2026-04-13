@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 151222A: Fermi GBM detection",
+  "eventId": "GRB 151222A",
+  "bibcode": "2015GCN.18715....1Y",
+  "createdOn": 1450804212000,
+  "circularId": 18715,
+  "submitter": "Hoi-Fung Yu at MPE  <sptfung@mpe.mpg.de>",
+  "email": "sptfung@mpe.mpg.de",
+  "body": "Hoi-Fung Yu (MPE) reports on behalf of the Fermi GBM Team:\n\n\"At 08:10:13.62 UT on 22 Dec 2015, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 151222A (trigger 472464617 / 151222340).\nThe on-ground calculated location, using the GBM trigger data, \nis RA = 355, Dec = 36.7 (J2000 degrees, equivalent to 23h 40m, 36d 42'), \nwith an uncertainty of 3 degrees (radius, 1-sigma containment, statistical \nonly; there is additionally a systematic error which we have characterized \nas a core-plus-tail model, with 90% of GRBs having a 3.7 deg error and \na small tail suffering a larger than 10 deg systematic error. \n[Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time \nis 117 degrees.\n\nThe GBM light curve consists of two short pulses with a duration (T90) of \nabout 0.8 s (50-300 keV). The time-averaged spectrum from T0-0.256 s \nto T0+0.768 s is best fit by a power law function with an exponential\nhigh-energy cutoff. The power law index is -0.68 +/- 0.09 and\nthe cutoff energy, parameterized as Epeak, is 1490 +/- 270 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(2.36 +/- 0.13)E-06 erg/cm^2. The 64-ms peak photon flux measured\nstarting from T0-0.256 s in the 10-1000 keV band\nis 12.9 +/- 1.9 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

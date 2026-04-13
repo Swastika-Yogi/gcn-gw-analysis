@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 618673: probable noise event",
+  "bibcode": "2014GCN.17069....1B",
+  "createdOn": 1416044413000,
+  "circularId": 17069,
+  "submitter": "Caryl Gronwall at PSU/Swift-UVOT  <caryl@swift.psu.edu>",
+  "email": "caryl@swift.psu.edu",
+  "body": "W. H. Baumgartner (GSFC/UMBC), M. De Pasquale (INAF-IASFPA),\nC. Gronwall (PSU), A. Maselli (INAF-IASFPA) and\nE. Sonbas (NASA/GSFC/Adiyaman Univ.) report on behalf of the Swift\nTeam:\n\nAt 09:10:35 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on trigger 618673.  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 233.024, +32.694 which is \n   RA(J2000) = 15h 32m 06s\n   Dec(J2000) = +32d 41' 38\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed nothing of note for this \nlow significance image trigger. \n\nThe XRT began observing the field at 09:13:05.1 UT, 149.9 seconds after\nthe BAT trigger. No source was detected in 859 s of promptly downlinked\ndata, which covered 97% of the BAT error circle. We are waiting for the\nfull dataset to detect and localise the XRT counterpart. \n\nUVOT took a finding chart exposure of 150 seconds with the White filter\nstarting 153 seconds after the BAT trigger. No credible afterglow candidate has\nbeen found in the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle. The typical 3-sigma upper limit has been about 19.6 mag. \nThe 8'x8' region for the list of sources generated on-board covers 100% of the\nBAT error circle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the expected extinction corresponding to E(B-V) of\n0.03. \n\nWe believe this trigger to not be from an astrophysical source because\nof the low significance of the BAT source in the image domain and the \nlack of an XRT counterpart."
+}

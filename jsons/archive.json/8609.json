@@ -1,0 +1,10 @@
+{
+  "subject": "GRB081203A: Swift-XRT refined analysis",
+  "eventId": "GRB 081203A",
+  "bibcode": "2008GCN..8609....1L",
+  "createdOn": 1228380973000,
+  "circularId": 8609,
+  "submitter": "Valentina La Parola at INAF-IASPA  <laparola@ifc.inaf.it>",
+  "email": "laparola@ifc.inaf.it",
+  "body": "V. La Parola, B. Sbarufatti, V. Mangano (INAF-IASF Pa), A. Parsons (GSFC)\nreport on behalf of the Swift XRT team:\n\nWe have analysed the first 3 orbits of Swift-XRT data obtained for\nGRB 081203A (trigger #336489, Parsons et al., GCN Circ.8595), that includes\n550 s of Windowed Timing (WT) and 15.5 ks of Photon Counting (PC) mode data,\nrespectively, between 87 s and 16 ks after the trigger.\nThe UVOT-enhanced XRT position was given by Evans et al. in GCN Circ 8598.\n\nThe light-curve can be modelled with a broken power-law, with a steep\ndecay  alpha_1=4.32 � 0.16 and a break time at T_b=T0+(150+/-3) s.\nAfter the break the decay flattens to alpha_2=1.175 � 0.015\n\nThe spectrum extracted from the WT data has an exposure of 558 s. It can be\nmodelled with an absorbed power-law, with Gamma =1.97 � 0.04 and an\nintrinsic\nNH = (5.5 � 0.8)x10^20 cm-2, in excess to the Galactic value of\n1.7x10^20 cm-2.\nThe observed (unabsorbed) 0.3 -10 keV averaged flux over this time\ninterval is 8.6x10^-10 (10x10^-10) erg cm-2 s-1.\n\nThe spectrum extracted from the PC data in the time interval 0.6-16 ks\n(with an\nexposure time of 4.7 ks) can be modelled with an absorbed power-law, with\nGamma = 2.1 � 0.08 and an intrinsic column density of NH = (6.0 �\n1.7)x10^20 cm-2.\nThe observed (unabsorbed) 0.3 -10 keV averaged flux over this time\ninterval is 2.8x10^-11 (3.6x10^-11) erg cm-2 s-1.\nUncertainties are given at 90% confidence.\n\nIf the light-curve continues to decay with the present rate, the count\nrate 24\n(36) hours after the burst is estimated to be 0.02 (0.013) count s-1, which\ncorresponds to an observed flux of 7x10^-13 (4.5x10^-13) erg cm-2 s-1.\n\nThe results of the xrt automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00336489.\n\nThis is an official product of the Swift-XRT team."
+}

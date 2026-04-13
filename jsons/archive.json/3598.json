@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050713A: Swift/UVOT observation",
+  "eventId": "GRB 050713A",
+  "bibcode": "2005GCN..3598....1B",
+  "createdOn": 1121278767000,
+  "circularId": 3598,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. Blustin (MSSL), A. Falcone (PSU), D. Hinshaw\n(GSFC-SPSYS), P. Meszaros (PSU) report on behalf of\nthe Swift UVOT team:\n\nUsing summed images from Swift/UVOT of the field of\nGRB 050713A, taken from 75 seconds after the BAT\ntrigger, no new source is detected within the XRT\nerror circle (Falcone et al., GCN 3581) in any of\nthe six filters down to the following 3-sigma\nmagnitude upper limits:\n\nFilter   Exposure (s)  T_mid (s)   3-sig limit\nV        129           252         17.98\nB        36            351         18.08\nU        39            309         17.81\nUVW1     39            325         16.85\nUVM2     39            311         17.13\nUVW2     29            326         17.08\n\nwhere T_mid is the mid-point of the summed observation.\nThe image background is significantly higher than\nexpected at this location due to the proximity of a \n6.56 V magnitude star (HD 204408).\n\nWe caution that the instrument is not yet fully\ncalibrated and that the magnitude limits presented here\nmay need to be refined."
+}

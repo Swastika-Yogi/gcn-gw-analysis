@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210702A: preliminary Swift/UVOT photometry",
+  "eventId": "GRB 210702A",
+  "bibcode": "2021GCN.30356....1K",
+  "createdOn": 1625268709000,
+  "circularId": 30356,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (UCL-MSSL) and A. Y. Lien (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 210702A\n104 s after the BAT trigger (Lien et al., GCN Circ. 30351).\nA source consistent with the XRT position\n(Lien et al. GCN Circ. 30351)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  11:14:18.70 = 168.57793 (deg.)\n    Dec (J2000) = -36:44:50.0  = -36.74723 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              104          254          147         15.70 +/- 0.02\nb                 3516         3716          197         15.46 +/- 0.03\nu                  316          361           44         11.37 +/- 0.05\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.121 in the direction of the burst\n(Schlegel et al. 1998)."
+}

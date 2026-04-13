@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100906A: Errata of MITSuME Okayama about observation time",
+  "eventId": "GRB 100906A",
+  "bibcode": "2010GCN.11241....1K",
+  "createdOn": 1283822567000,
+  "circularId": 11241,
+  "submitter": "Daisuke Kuroda at OAO/NAOJ  <dikuroda@oao.nao.ac.jp>",
+  "email": "dikuroda@oao.nao.ac.jp",
+  "body": "D. Kuroda, K. Yanagisawa, Y. Shimizu, H. Toda (OAO, NAOJ),\nS. Nagayama (NAOJ), M. Yoshida (Hiroshima), K. Ohta (Kyoto)\nand N. Kawai(Tokyo Tech)\nreport on behalf of the MITSuME collaboration:\n\n\nThe observation time in the list reported in GCN 11240 is incorrect.\nWe made a mistake in calculating the MID-UT.\nWe revise as follows:\n\n#T0+[day]  MID-UT    T-EXP[sec]   g'  g'_err   Rc  Rc_err   Ic  Ic_err\n----------------------------------------------------------------------\n0.00662    13:58:59     540.0   15.58  0.04  14.42  0.02  14.00  0.02\n0.01784    14:15:08     540.0   16.52  0.05  15.35  0.03  14.98  0.04\n----------------------------------------------------------------------\nT0+ : Elapsed time after the burst [day]\nT-EXP: Total Exposure time [sec]"
+}

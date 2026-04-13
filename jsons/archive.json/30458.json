@@ -1,0 +1,10 @@
+{
+  "subject": "Recent activity of SGR 1935+2154 as observed by CGBM",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2021GCN.30458....1N",
+  "createdOn": 1626170341000,
+  "circularId": 30458,
+  "submitter": "Valentin Pal'shin at AGU  <val@phys.aoyama.ac.jp>",
+  "email": "val@phys.aoyama.ac.jp",
+  "body": "S. Nakahira (RIKEN),\nA. Yoshida, T. Sakamoto, V. Pal'shin, S. Sugita (AGU),\nY. Kawakubo (LSU), K. Yamaoka (Nagoya U), Y. Asaoka (ICRR),\nS. Torii, Y. Akaike, K. Kobayashi (Waseda U),\nY. Shimizu, T. Tamura (Kanagawa U), N. Cannady (GSFC/UMBC),\nM. L. Cherry (LSU), S. Ricciarini (U of Florence),\nP. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nDuring the recent reactivation of SGR 1935+2154 reported by\nINTEGRAL (GCN 30395), GECAM (GCNs 30400, 30415, 30430, 30437, 30449),\nFermi-GBM (GCN 30407), and Konus-Wind (GCNs 30409, 30418, 30450)\nthe CALET Gamma-ray Burst Monitor (CGBM) has triggered on two bright\nshort soft bursts from this SGR (alerted trigger 1309652996:\nhttp://cgbm.calet.jp/cgbm_trigger/flight/1309652996/\nand trigger 1309983742, which was not alerted).\nAdditional two weaker short soft bursts observed in the waiting mode\n(125-ms time resolution, 8 energy channels) with high S/N were also likely\noriginated from SGR 1935+2154 (these bursts have not been reported by other\ninstruments so far).\n\nThe following table summarizes the bursts:\n\n        Time, UTC           Mode     Other reported detections\n--------------------------------------------------------------\n2021-07-07 00:33:31.593   Trig      GECAM,Fermi GBM,Konus-Wind\n2021-07-10 20:26:04.635   Trig*     Konus-Wind,Fermi GBM\n2021-07-11 14:42:55       BG                -\n2021-07-12 16:58:51       BG                -\n--------------------------------------------------------------\n*- Because of a problem in one of the ground alert processing script,\n    the GCN notice was not distributed automatically for this trigger.\n\nAt the listed times, SGR 1935+2154 was in the FOVs of the CGBM detectors.\n\nThe CALET data used in this analysis are provided by\nthe Waseda CALET Operation Center located at the Waseda University."
+}

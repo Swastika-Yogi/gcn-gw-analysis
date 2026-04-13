@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060602A: Swift/UVOT upper limits",
+  "eventId": "GRB 060602A",
+  "bibcode": "2006GCN..5245....1B",
+  "createdOn": 1149770479000,
+  "circularId": 5245,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL) and P. Schady (UCL-MSSL) report on behalf\nof the Swift/UVOT team:\n\nDue to a moon constraint, Swift/UVOT did not begin observing the\nfield of GRB060602A until 15:55:25 on 2006-06-04, 1.766 days after\nthe BAT trigger (Schady et al., GCN 5196). We observe no optical/UV\nafterglow candidate within the refined BAT error circle (Sakamoto\net al. 5206) or at the position of the afterglow candidate reported\nby the NOT team (Jensen et al., GCN 5203). 3-sigma magnitude upper\nlimits, in coadded images, at the position of the NOT afterglow\ncandidate are as follows:\n\nFilter   T_range(days)  Exp(s)  3sig_UL(mag)\nV        1.831-3.555    1775    21.3\nB        1.827-3.567    1572    22.3\nU        1.826-3.564    1775    22.1\nUVW1     1.766-3.561    1850    21.7\nUVM2     1.832-3.558    1922    22.0\nUVW2     1.828-3.617    2265    22.3\n\nWhere the time range of the images post-trigger is given in days.\nThe upper limits are not corrected for Galactic extinction."
+}

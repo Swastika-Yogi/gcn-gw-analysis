@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100413A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 100413A",
+  "bibcode": "2010GCN.10604....1S",
+  "createdOn": 1271487213000,
+  "circularId": 10604,
+  "submitter": "Satoshi Sugita at Aoyama Gakuin U.  <sugita@phys.aoyama.ac.jp>",
+  "email": "sugita@phys.aoyama.ac.jp",
+  "body": "S. Sugita (Nagoya U.), K. Yamaoka (Aoyama  Gakuin U.), M. Ohno,\nM. Kokubun, T. Takahashi (ISAS/JAXA), Y. E. Nakagawa, M. Suzuki,\nT. Tamagawa (RIKEN), N. Vasquez (Tokyo Tech.), Y. Urata, H.M. Lin,\nP. Tsai (NCU), Y. Nishioka, N. Ohmori, A. Daikyuji, E. Sonoda, K. Kono,\nK. Noda, M. Yamauchi (Univ. of Miyazaki), T. Sugasahara, M. Tashiro,\nY. Terada, W. Iwakiri (Saitama U.), Y. Hanabata, T. Uehara,\nT. Takahashi, Y. Fukazawa (Hiroshima U.), T. Enoto, K. Nakazawa,\nK. Makishima (Univ. of Tokyo), S. Hong (Nihon U.),\non behalf of the Suzaku WAM team, report\n\nThe very long GRB 100413A (Swift/BAT trigger #419404 ;\nHolland et al., GCN 10581)\n\nwas detected by the the Suzaku Wide-band  All-sky Monitor (WAM)\nwhich covers an energy range of 50 keV - 5 MeV at 2010-04-13 17:33:28 UT\n(=T0).\n\nThe observed light curve shows a multi-peaked structure\n lasting to T0+220s with a duration T90 of about 160 seconds.\nThe fluence in 100 - 1000 keV was 1.59 (-0.83, +0.21) x10^-5 erg/cm^2.\n The 1-s peak flux measured from T0+118s was 0.38 (-0.27, +0.14)\nphotons/cm^2/s in the same  energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-2s to T0+213s is well fitted by a power-law with exponential\ncutoff model:\n  dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\n  alpha       -0.59 (-1.64, +1.27), and\n  Epeak       364 (-55, +98) keV (chi^2/d.o.f. = 37.9/30).\n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe light curves with 1-sec time resolution for this burst will be appeared\nat:\n\n\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/untrig/grb_table.html"
+}

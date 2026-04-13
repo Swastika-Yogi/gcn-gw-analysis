@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130515A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130515A",
+  "bibcode": "2013GCN.14660....1O",
+  "createdOn": 1368627362000,
+  "circularId": 14660,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL), M. De Pasquale (MSSL-UCL) and D. Malesani (DARK/NBI)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130515A\n79 s after the BAT trigger (Malesani et al., GCN Circ. 14650).\nIn the intial UVOT exposures, we do not detect an optical afterglow consistent\nwith the refined XRT position (Beardmore et al. GCN Circ. 14654). We also do not\ndetect an optical source consistent with the positions of s1 and s2 reported by the VLT\n(Xu et al. GCN Circ. 14653) and Gemini (Cenko et al., GCN Circ. 14656),\nnor at the positions of the sources reported by GROND (Schmidl et al., GCN Circ. 14655).\nHowever, we do marginally detect VLT s3 (Xu et al. GCN Circ. 14653) in white\nat a magnitude of 21.59 +/- 0.39, which is also observed in the DSS.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures at the refined\nXRT position are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            79          229          147         >21.2\nu_FC               291          541          246         >20.2\nwhite               79         6414          580         >21.7\nv                  620         5388          236         >19.8\nb                  546         6209          432         >21.0\nu                  291         6003          659         >20.7\nw1                 669         5798          413         >20.7\nm2                 645         5592          236         >20.0\nw2                 596         6603          415         >20.7\n\nThe magnitudes in the table are not corrected for the\nGalactic extinction due to the reddening of E(B-V) = 0.07\nin the direction of the burst (Schlegel et al. 1998)."
+}

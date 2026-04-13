@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240118A: NuSTAR Offline Analysis of the GRB",
+  "eventId": "GRB 240118A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35570....1G",
+  "createdOn": 1705615122739,
+  "submitter": "Brian Grefenstette at Caltech/NuSTAR <bwgref@srl.caltech.edu>",
+  "circularId": 35570,
+  "body": "B. Grefenstette on behalf of the NuSTAR Search for INteresting Gamma-ray Signals (SINGS) working group:\n\nThe NuSTAR SINGS working group has performed additional offline analysis of the GRB 240118A detected by Fermi (Hamburg, GCN 35563), Swift BAT (DeLaunay, GCN 35568), and Konus-Wind (Frederiks, GCN 35567). Using the localization from the Fermi LAT (Bissaldi, GCN 35560) we estimate that the GRB was only ~12-degrees from the telescope boresight at 2024-01-18T01:48:09.\n\nThe CsI shields do not clearly detect the precursor event that triggered the GBM at 2024-01-18T01:48:09. However, there are multiple strong peaks ~40-sec later. We have updated the automated GRB report to include the recently downloaded X-ray data here:\n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/reports/2024/240118A/\n\nThis includes enhanced light curves showing 1-Hz CsI anticoincidence shield data as well as the CdZnTe X-ray data binned at 2-s intervals. The shield data clearly resolves the GRB into at least three main peaks with significant substructure. All three peaks are also seen in the X-ray detectors, with excess counts that extend up to at least 200 keV.\n\nHowever, the response files of the detectors is complicated due to the intervening material so detailed spectroscopic analysis of the individual bursts cannot be performed at this time."
+}

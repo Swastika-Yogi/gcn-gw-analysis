@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230506B: Swift/UVOT Detection",
+  "eventId": "GRB 230506B",
+  "bibcode": "2023GCN.33733....1K",
+  "createdOn": 1683409027381,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "circularId": 33733,
+  "body": "Paul Kuin (MSSL/UCL) and Simone Dichiara(PSU) report on behalf\nof the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 230506B\n114 s after the BAT trigger (Dichiara et al., GCN Circ. 33727).\nA candidate afterglow consistent with the XRT position is\ndetected in the initial UVOT exposures.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite              113          271          147          20.19 +/- 0.24\nwhite              614          807           38         >19.8\nu                  334          583          247         >19.9\nu                10511        11899          738          20.66 +/- 0.30\nb                  589          783           39         >19.1\nuvw1               714          734           20         >17.6\nuvm2               688          708           20         >17.2\nuvw2               639          658           20         >19.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.293 in the direction of the burst\n(Schlegel et al. 1998).\n\n[GCN OPS NOTE: Corrected title from 230606B to 230506B at author's request.]"
+}

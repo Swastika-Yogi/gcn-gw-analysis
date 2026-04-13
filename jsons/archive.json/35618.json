@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240123A : MITSuME Akeno optical afterglow candidate detection",
+  "eventId": "GRB 240123A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35618....1S",
+  "createdOn": 1706086665828,
+  "circularId": 35618,
+  "submitter": "Mahito Sasada at Tokyo Institute of Technology <sasada@hp.phys.titech.ac.jp>",
+  "body": "M. Sasada, I. Takahashi, N. Higuchi, M. Niwano, S. Sato, S. Hayatsu, H. Takei, H. Seki, Y. Yatsu and N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 240123A (D'Ai et al. GCN 35602) with the optical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope Akeno. \n\nThe observation with a series of 60 sec exposures started at 2024-01-23 15:09:01 UT (4.05 hours after the Swift/BAT trigger). We stacked the images in good conditions. An optical candidate of the afterglow can be found at the location of (RA, Dec) = (199.3495, 60.6181) near the Swift/XRT error position (Capalbi et al. GCN 35612). Here we report magnitudes by the aperture photometry at the position.\n\nT0+[hours] | MID-UT | T-EXP[sec] | magnitudes of aperture photometry\n----------------------------------------------------------------------------------------------------------------\n5.0 | 2024-01-23 16:05:41 | 5880 | g’=19.83+/-0.17, Rc=19.35+/-0.11, Ic=19.24+/-0.13\n----------------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nThe position of the optical candidate is consistent with Pankov et al., GCN 35605.\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g'-, Rc- and Ic-band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages 4-24; https://github.com/MNiwano/Eclaire).\n"
+}

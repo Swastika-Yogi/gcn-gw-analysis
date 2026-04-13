@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070611: Swift/UVOT Observations",
+  "eventId": "GRB 070611",
+  "bibcode": "2007GCN..6504....1L",
+  "createdOn": 1181594362000,
+  "circularId": 6504,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (NASA/GSFC), F.E. Marshall (NASA/GSFC) and M.C. Stroh (PSU)\nreport on behalf of the Swift/UVOT team.\n\nUVOT took a finding chart exposure of 98 seconds of the field of GRB \n070611 (Stroh et al., GCN 6494) with the White (160-650 nm) filter \nstarting 3295 seconds after the BAT trigger.    The UVOT finding chart \nwas delayed  due to an Earth limb constraint.\n\nWe detect the afterglow  candidate reported by Rykoff et al. (GCN 6497), \nand measure a position of\n RA(J2000) = 00 07 58.01 \n Dec(J2000) = -29 45 20.0\nwith an estimated 90% uncertainty of 0.5\".  \n\nBecause of a configuration problem, most subsequent UVOT images do not \ninclude the afterglow position, but there is a 3.5 sigma detection in a \nsubsequent image taken with the UVW1 (2600 A) filter.      Magnitudes \nand 3 sigma upper limits are reported below.\n\nFilter        T_start(sec)     Exposure(sec)         Mag\n\nWhite           3295                 98            19.12 � 0.11\nUVW1            4632                197            19.51 � 0.31\nUVW1           10046                886           >20.72  (3 sigma)\nUVM2            4427                197           >19.64  (3 sigma)\nUVW2            4019                197           >19.97  (3 sigma)\n\nThe lack of detections in the UVM2 (2260 A) and UVW2 (1930 A) filters \nare consistent with the redshift of z=2.04 reported by Thoene et al. \n(GCN 6499).\n\nNo correction has been made for the expected reddening of E(B-V) = 0.012\n\n[GCN OPS NOTE(11jun07): Per author's request, the Subject-line was corrected;\n\"070610\" was changed to \"070611\".]"
+}

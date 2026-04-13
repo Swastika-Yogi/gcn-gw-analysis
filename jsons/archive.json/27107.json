@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200216A: Swift/BAT detection and arcminute localization from GUANO",
+  "eventId": "GRB 200216A",
+  "bibcode": "2020GCN.27107....1D",
+  "createdOn": 1581887951000,
+  "circularId": 27107,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@swift.psu.edu>",
+  "email": "kennea@swift.psu.edu",
+  "body": "James DeLaunay (PSU), Aaron Tohuvavohu (U Toronto), and Jamie Kennea (PSU) report:\n\nSwift/BAT did not trigger on GRB 200216A.\n\nThe Fermi/GBM Flight-Position notice, distributed at T0+24 seconds, from \nthe Fermi/GBM detected GRB 200216A (GCN. 27096) triggered the Swift \nMission Operations Center operated Gamma-ray Urgent Archiver for Novel \nOpportunities (GUANO; Tohuvavohu et al. 2020, in prep).\n\nThe GUANO is a fully autonomous, extremely low latency, spacecraft \ncommanding pipeline designed for targeted recovery of BAT event mode data \naround the times of compelling astrophysical events to enable more \nsensitive GRB searches.\n\nUpon trigger by the Fermi notice, GUANO sent a command to the Swift Burst \nAlert Telescope (BAT) to save 200 seconds of BAT event-mode data from \n[-50,+150] seconds around the time of GRB 200216A.\n\nAll the requested event mode data was delivered to the ground.\n\nIn a ground analysis of the data, using the normal BAT imaging technique, \nwe detect GRB 200216A with a SNR of 7.5.\n\nWith a more sophisticated maximum likelihood analysis (DeLaunay et al., \n2020 in prep.) on the event-mode data we detect GRB 200216A more \nconfidently, with a square root of the test statistic (sqrt(TS)) of 15.4. \nThe sqrt(TS) behaves similarly to SNR.\n\nThe BAT ground-calculated position is\nRA, Dec = 311.4378, -11.6580 deg which is\n   RA(J2000)  = 311d 26' 16.08\"\n   Dec(J2000) = -11d 39' 28.8\"\nwith an uncertainty of 3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 40%.\n\nThis arcminute location is consistent with the localization region \ndistributed by the Fermi/GBM team (GCN. 27096).\n\nNo XRT or UVOT follow-up will take place due to the source's proximity to \nthe sun (1.2 hours). We encourage follow-up from instruments capable of \nobserving near the sun."
+}

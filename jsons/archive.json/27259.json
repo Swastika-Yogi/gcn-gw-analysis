@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200228A: Swift/BAT detection and arcminute localization from GUANO",
+  "eventId": "GRB 200228A",
+  "bibcode": "2020GCN.27259....1T",
+  "createdOn": 1582901601000,
+  "circularId": 27259,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "Aaron Tohuvavohu (U Toronto), James DeLaunay (PSU), and Jamie Kennea\n(PSU) report:\n\nSwift/BAT did not trigger on GRB 200228A, likely due to a slew.\n\nThe Fermi/GBM Flight-Position notice, distributed at T0+23 seconds,\nfrom the Fermi/GBM detected GRB 200228A (GCN. 27247) triggered the\nSwift Mission Operations Center operated Gamma-ray Urgent Archiver for\nNovel Opportunities (GUANO; Tohuvavohu et al. 2020, in prep).\n\nThe GUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nUpon trigger by the Fermi notice, GUANO sent a command to the Swift\nBurst Alert Telescope (BAT) to save 200 seconds of BAT event-mode data\nfrom [-50,+150] seconds around the time of GRB 200228A.\n\nAll the requested event mode data was delivered to the ground.\n\nIn a ground analysis of the data, using the normal BAT imaging\ntechnique, we detect GRB 200228A with a SNR of 40.\n\nThe BAT ground-calculated position is\nRA, Dec = 333.8928, -42.9443 deg which is\n   RA(J2000)  = 333d 53��� 34.08���\n   Dec(J2000) =  -42d 56' 39.48\"\nwith an uncertainty of 3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 34%.\n\nThis arcminute location is consistent with the localization region\ndistributed by the Fermi/GBM team (GCN. 27247).\n\nNo XRT or UVOT follow-up will take place due to the source���s proximity\nto the sun (0.5 hours).\nWe encourage follow-up from instruments capable of observing near the sun."
+}

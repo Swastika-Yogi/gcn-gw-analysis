@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150314A: Swift/UVOT Detection",
+  "eventId": "GRB 150314A",
+  "bibcode": "2015GCN.17580....1H",
+  "createdOn": 1426356269000,
+  "circularId": 17580,
+  "submitter": "Lea Hagen at PSU  <lea.zernow.hagen@gmail.com>",
+  "email": "lea.zernow.hagen@gmail.com",
+  "body": "L. M. Z. Hagen (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150314A\n95 s after the BAT trigger (Hagen et al., GCN Circ. 17573). We detect\na fading source consistent with the XRT position (Beardmore et al.\nGCN Circ. 17575) and optical detections (Zheng & Filippenko GCN Circ.\n17574, Trotter et al. GCN Circ. 17577) that is detected in all but the\nbluest UVOT filters.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early\nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               97          244          144         17.22 +/- 0.03\nwhite              587          781           38         19.13 +/- 0.18\nwhite             5472         5671          196        >21.02\nv                   75           85            9         15.48 +/- 0.13\nv                  637          657           19         17.75 +/- 0.33\nv                 4445         6082          390        >19.77\nb                  562          756           38         19.28 +/- 0.35\nb                 5266         5466          196        >20.32\nu                  307          556          245         18.86 +/- 0.14\nu                  712         6528          253        >20.14\nuvw1               687         6485          412        >20.31\nuvm2              4650         6280          391        >20.16\nuvw2               613         5877          412        >20.46\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

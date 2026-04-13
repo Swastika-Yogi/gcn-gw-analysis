@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250129A: Swift-XRT refined Analysis",
+  "eventId": "GRB 250129A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.39089....1O",
+  "createdOn": 1738188926038,
+  "circularId": 39089,
+  "submitter": "Phil Evans at U of Leicester <pae9@star.le.ac.uk>",
+  "body": "J.P. Osborne (U. Leicester), K.L. Page (U. Leicester), M. Ferro\n(INAF-OAB), R. Brivio (INAF-OAB), A. D'Ai (INAF-IASFPA), M. A. Williams\n(PSU), S. Dichiara (PSU), J.A. Kennea (PSU), A.P. Beardmore (U.\nLeicester) and P.A. Evans report on behalf of the Swift-XRT team:\n\nWe have analysed 10 ks of XRT data for GRB 250129A, from 147 s to 46.4\nks after the  BAT trigger. The data comprise 10 s in Windowed Timing\n(WT) mode (taken while Swift was slewing), with the remainder in Photon\nCounting (PC) mode. \n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=3.64 (+1.35, -0.10). At T+1185 s  the\ndecay flattens to an alpha of 0.15 (+/-0.07) before breaking again at\nT+23.0 ks to a final decay with index alpha=2.2 (+0.7, -0.6).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.92 (+0.16, -0.10). The\nbest-fitting absorption column is  consistent with the Galactic value\nof 2.4 x 10^20 cm^-2 (Willingale et al. 2013). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum  is 3.4 x 10^-11 (3.6 x 10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nGalactic foreground: 2.4 x 10^20 cm^-2\nIntrinsic column:    2 (+/-38) x 10^20 cm^-2 at z=2.151\nPhoton index:\t     1.92 (+0.16, -0.10)\n\nIf the light curve continues to decay with a power-law decay index of\n2.2, the count rate at T+24 hours will be 0.011 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 3.8 x\n10^-13 (4.0 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/01285812.\n\nThis circular is an official product of the Swift-XRT team.\n"
+}

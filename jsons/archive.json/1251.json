@@ -1,0 +1,10 @@
+{
+  "subject": "GRB020124 BVRI field photometry",
+  "eventId": "GRB 020124",
+  "bibcode": "2002GCN..1251....1H",
+  "createdOn": 1013965641000,
+  "circularId": 1251,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "A. Henden (USRA/USNO) reports on behalf of the USNO GRB team:\n\nWe have acquired BVRcIc all-sky photometry on two photometric\nnights with the NOFS 1.0m telescope for an 11x11 arcmin field\nthat is approximately centered on the error box for\nGRB020124 (=H1896; Ricker et al. GCN 1220; IPN triangulation\nreported by Hurley et al. GCN 1223).  The position of the \noptical transient reported by Price et al. (GCN 1221)\nis within this field.  Stars brighter than\nV=13.0 are saturated and should be used with care.\nWe have placed the photometric data on our anonymous ftp site:\nftp://ftp.nofs.navy.mil/pub/outgoing/aah/grb/grb020124.dat\nThe current photometry has a potential external zero-point\nerror of about two percent.  The astrometry in this file\nis based on linear plate solutions with respect to USNO-A2.0.\nThe internal errors are less than 100mas.\n\nIn particular, the comparison star 34\"E and 35\" S that was\nused to calibrate the Price et al. field can be found in the .dat file\nwith the following coordinates and magnitudes:\n  RA = 09:32:53.13  DEC = -11:31:46.0  J2000\n  B = 17.467  V = 16.896  Rc = 16.537  Ic = 16.182"
+}

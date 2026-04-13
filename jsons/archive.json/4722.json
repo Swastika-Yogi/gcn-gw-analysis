@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060206: Swift/UVOT Observations",
+  "eventId": "GRB 060206",
+  "bibcode": "2006GCN..4722....1B",
+  "createdOn": 1139524078000,
+  "circularId": 4722,
+  "submitter": "Padi Boyd at GSFC  <padi@milkyway.gsfc.nasa.gov>",
+  "email": "padi@milkyway.gsfc.nasa.gov",
+  "body": "P. Boyd (GSFC), D. Morris (PSU), F. Marshall (GSFC), N. Gehrels (GSFC)\non behalf of the Swift/UVOT team report:\n\nThe Swift/UVOT began observing the bright afterglow of GRB 060206 at\n04:47:52 UT on 2006-02-06, approximately 57s after the BAT trigger (Morris\net al., GCN 4682). The afterglow is well detected in the individual B and\nV exposures during the initial observation. The afterglow re-brightens in\nboth filters between 2000 to 5000-s after the BAT trigger. After this\nevent, the flux decays in both filters with a slope of ~1.15.\n\nFilter          T_range(s)      Exp(s)  Average mag\nV                57-36588       2618     18.8 \nB               1662-34946      2911     21.3 \n\nReported times are in seconds since BAT trigger.\n\nIn a follow-up observation, beginning about 0.8 d after the BAT trigger,\nthe source is not detected in B nor V down to the following 3-sigma\nmagnitude upper limits:\n\nFilter          T_range(s)      Exp(s)  mag upper limit\nV               69308-150688    5001     >21.7\nB               69656-150353    4679     >22.6\n\nThe afterglow is not detected in any other UVOT filter down to the\nfollowing 3-sigma magnitude upper limits:\n\nFilter          T_range(s)      Exp(s)   mag\nU               1637-23385      1161    >21.5\nUVW1            1757-5619       256     >20.6\nUVM2            1733-30466      514     >21.3 \nUVW2            1686-35861      2638    >22.7\n\nThese magnitudes are uncorrected for Galactic extinction;\nE(B-V) = 0.013."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB090904A: Correction to enhanced XRT position",
+  "eventId": "GRB 090904A",
+  "bibcode": "2009GCN..9886....1E",
+  "createdOn": 1252067520000,
+  "circularId": 9886,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans (U. Leicester) reports on behalf of the Swift-XRT team:\n\nThe automatic enhanced XRT position (GCN 9885) was incorrect and should \nbe disregarded. The position was obtained by averaging all the PC data \nfrom the first orbit, however the degree of pile up in this period \nchanges by much more than is normal (see the  light curve at: \nhttp://www.swift.ac.uk/xrt_curves/00361830/). As a result, the PSF of \nthe image did not match any of our calibrated PSFs. We apologise for any \nconfusion.\n\nThe best XRT position available is the enhanced SPER position, which was \ndistributed as an XRT Position Update GCN notice about at 01:27 UT. This \nposition is RA, Dec = 100.8858, 50.2038, which corresponds to\n\nRA(J2000.0) =  06h 43m 32.59s\nDec (J2000.0) = +50d 12' 13.6\"\n\nwith an uncertainty of 2.3 arcsec (radius, 90% confidence).\n\nThis circular is an official product of the Swift-XRT team."
+}

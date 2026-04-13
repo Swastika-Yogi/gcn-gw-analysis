@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070107: Swift detection of a burst",
+  "eventId": "GRB 070107",
+  "bibcode": "2007GCN..5999....1S",
+  "createdOn": 1168175410000,
+  "circularId": 5999,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "M. Stamatikos (NASA/ORAU), S.D. Barthelmy (GSFC), M. M. Chester (PSU),\nG. Cusumano (INAF-IASFPA), W. B. Landsman (NASA/GSFC),\nT. Mineo (INAF-IASFPA), D. M. Palmer (LANL) and\nP. Romano (Univ. Bicocca & INAF-OAB) report on behalf of the Swift Team:\n\nAt 12:05:18 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 070107 (trigger=255029). Swift slewed immediately to the\nburst. The BAT on-board calculated location is\nRA, Dec 159.408, -53.208 which is\n     RA(J2000)  = 10h 37m 38s\n     Dec(J2000) = -53d 12'\n27\" with an uncertainty of 3 arcmin (radius, 90% containment,\nincluding  systematic uncertainty). The BAT light curve showed a\nbroad peak lasting about 40 seconds with smaller structure. The peak\ncount rate was ~2500 counts/sec (15-350 keV), at ~6 sec after the\ntrigger.\n\nThe XRT began observing the field at 12:08:17.02 UT, 179 seconds after the\nBAT trigger. XRT did not make an immediate localization. The lightcurve does not\nshow any time variability, however, the spectrum appears consistent\nwith that of a GRB. We are waiting for the full data set from the\nnext Malindi download data pass for futher analysis.\n\nUVOT took a finding chart exposure of 100 seconds with the White\n(160-650 nm) filter starting 181 seconds after the BAT trigger, and a\nfinding chart exposure of 400 seconds with the V filter starting 287\nseconds after the BAT trigger. No afterglow candidate has been found\nin the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle, and the 8'x8' region for the list of sources\ngenerated on-board covers 100% of the BAT error circle. Because of\nthe density of catalogued stars, further analysis is required to\nreport an upper limit for any afterglow in the region. No correction\nhas been made for extinction."
+}

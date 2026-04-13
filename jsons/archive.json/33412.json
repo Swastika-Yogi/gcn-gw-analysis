@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230307A: AGILE/MCAL detection",
+  "eventId": "GRB 230307A",
+  "bibcode": "2023GCN.33412....1C",
+  "createdOn": 1678228847000,
+  "circularId": 33412,
+  "submitter": "Claudio Casentini at INAF-IAPS  <claudio.casentini@inaf.it>",
+  "email": "claudio.casentini@inaf.it",
+  "body": "C. Casentini (INAF/IAPS), M. Tavani (INAF/IAPS, and Uni.Roma Tor Vergata),\nC. Pittori, F. Lucarelli, F. Verrecchia (SSDC, and INAF/OAR)\nA. Argan, M. Cardillo, Y. Evangelista, L. Foffano, G. Piano (INAF/IAPS),\nA. Addis, L. Baroncelli, A. Bulgarelli, A. Di Piano, V. Fioretti,\nG. Panebianco, N. Parmiggiani (INAF/OAS-Bologna),\nF. Longo (Uni. Trieste, INFN Trieste), M. Romani (INAF/OA-Brera),\nM. Marisaldi (INAF/OAS-Bologna, Bergen University), M. Pilia,\nA. Trois (INAF/OA Cagliari), I. Donnarumma, E. Menegoni, A.Ursi (ASI),\nA. Giuliani (INAF/IASF-Mi) and P. Tempesta (TeleSpazio),\nreport on behalf of the AGILE Team:\n\nThe AGILE satellite detected the long GRB 230307A at\nT0 = 2023-03-07 15:44:06 (UTC), reported by Fermi/GBM (GCN #33405 and\nGCN #33407), GECAM (GCN #33406) and Stix (GCN #33410).\n\nThe burst is clearly visible in the AGILE scientific ratemeters of the\nMiniCALorimeter (MCAL; 0.4-100 MeV), and in all the panels of the\nAntiCoincidence detectors (AC Top, 50-200 keV; AC Lat, 80-200 keV).\nThe event lasted about 30 s and it released a total number of 527069 counts\nin the MCAL detector (above a background rate of 1154 Hz), and 920952 counts\nin the AC Top detector (above a background rate of 2959 Hz).\nThe AGILE ratemeters light curves can be found at:\nhttp://www.agilescienceapp.it/notices/GRB230307A_AGILE_RM_ND.png .\n\nThe event also triggered a high-time resolution MCAL data acquisition,\nfrom T0 to T0+22 s (UTC), and released 241403 counts in the detector,\nabove a background rate of 510 Hz. The MCAL light curve can be found at:\nhttp://www.agilescienceapp.it/notices/GRB230307A_082567_605288646.000000.png\n.\n\nAt the T0, the event was 54 deg off-axis.\nAdditional analysis of AGILE data is in progress.\nAutomatic MCAL GRB alert Notices can be found at:\nhttps://gcn.gsfc.nasa.gov/agile_mcal.html"
+}

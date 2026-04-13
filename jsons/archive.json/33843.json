@@ -1,0 +1,9 @@
+{
+  "subject": "IPN triangulation of GRB 230518A (short)",
+  "eventId": "GRB 230518A",
+  "bibcode": "2023GCN.33843....1S",
+  "createdOn": 1684677051601,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 33843,
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\non behalf of the IPN,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\n\nThe short-duration GRB 230518A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 33822;\nSwift-BAT/GUANO detection: Ronchini, GCN Circ. 33825)\nhas been detected by Fermi (GBM trigger 706142972), Swift (BAT),\nand INTEGRAL (SPI-ACS), so far, at about 82168 s UT (22:49:28).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a GBM-SPI-ACS annulus centered at\nRA(2000)=19.521 deg (01h 18m 05s) Dec(2000)=-66.594 deg (-66d 35' 40\")\nwhose radius is 88.662 +/- 2.786 deg (3 sigma).\n\nThe annulus combined with the Fermi-GBM final position (GCN 33822;\nglg_healpix_all_bn230518951_v00) gives 480 sq. deg (3 sigma) localization region.\n\nThe localization is inconsistent with the localization of the NSBH merger event candidate S230518h (LVK Collaborations, GCN Circ. 33813, 33816).\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230518_T82167/IPN/\n\n"
+}

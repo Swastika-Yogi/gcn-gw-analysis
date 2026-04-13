@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 210610A",
+  "eventId": "GRB 210610A",
+  "bibcode": "2021GCN.30197....1F",
+  "createdOn": 1623412596000,
+  "circularId": 30197,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, A.Lysenko, D. Svinkin,\nA. Ridnaya, A. Tsvetkova,  M. Ulanov, and T. Cline, report:\n\nThe long GRB 210610A (Swift-BAT detection: Page et al., GCN 30160; Barthelmy et al., GCN 30186),\nT0 (BAT) = 15:03:43/387, was detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in the 20-400 keV band\nreveals a ~8 sigma count rate increase over background in the interval\nfrom ~T0(BAT)-2 s to ~T0(BAT)+4 s.\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB210610A/\n\nModeling the KW 3-channel spectrum\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -0.17(-0.83,+1.15) and Ep = 148(-63,+87) keV.\n\nIn the 10 keV -10 MeV band, the total burst fluence is (1.3 �� 0.5)x10^-6 erg/cm^2,\nand the 2.944 s peak energy flux is (2.7 �� 0.8)x10^-7 erg/cm^2.\n\nAssuming the redshift z=3.54 (Zhu et al., GCN 30164)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the isotropic energy release E_iso to ~3.5x10^52 erg,\nthe isotropic luminosity L_iso to ~3.3x10^52 erg/s,\nand the rest-frame peak energy of the time-integrated spectrum Ep,z to ~670 keV.\nWith these values, GRB 210610A is within 90% prediction bands for\nfor the 'Amati' relation for the sample of >300 long KW GRBs\nwith known redshifts (Tsvetkova et al., 2021, ApJ, 908, 83),\nsee http://www.ioffe.ru/LEA/GRBs/GRB210610A/GRB210610A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061028, Swift-BAT refined analysis",
+  "eventId": "GRB 061028",
+  "bibcode": "2006GCN..5765....1S",
+  "createdOn": 1162041980000,
+  "circularId": 5765,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "G. Sato (GSFC/ISAS), L. Barbier (GSFC), S. D. Barthelmy (GSFC), \nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC), \nD. Hullinger (BYU-Idaho), H. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), \nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/ORAU),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-239 to T+963 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 061028 (trigger #235715)  \n(Sakamoto, et al., GCN Circ. 5762).  The BAT ground-calculated position\nis RA,Dec = 97.193, 46.290 deg {6h 28m 46.3s, 46d 17' 25.1\"} (J2000)\n+- 2.5 arcmin, (radius, sys+stat, 90% containment).  \nThe partial coding was 35%.\n\nThe mask-weighted lightcurve shows several weak pulses starting from T+55 sec, \nand the highest peak at T+81 sec.  The weak tail emission is ending around T+300 sec.  \nT90 (15-350 keV) is 106 +- 5 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T+47 to T+166 is best fit by \na simple power-law model.  The power law index of the time-averaged spectrum \nis 1.73 +- 0.30.  The fluence in the 15-150 keV band is \n9.7 +- 1.7 x 10^-07 erg/cm2.  The 1-sec peak photon flux measured from \nT+79.94 sec in the 15-150 keV band is 0.7 +- 0.2 ph/cm2/sec.  \nAll the quoted errors are at the 90% confidence level."
+}

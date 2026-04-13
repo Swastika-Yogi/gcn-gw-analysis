@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 100413A",
+  "eventId": "GRB 100413A",
+  "bibcode": "2010GCN.10590....1G",
+  "createdOn": 1271252358000,
+  "circularId": 10590,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, P.\nOleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf of the Konus-Wind\nteam report:\n\nThe long GRB 100413A (Swift-BAT trigger #419404: Holland et al., GCN \n10581; Stamatikos et al., GCN 10585) was detected by Konus-Wind in the \nwaiting mode.\n\nThe burst light curve shows a multipeaked structure with a total \nduration of ~220 s.\n\nAs observed by Konus-Wind, the burst had a fluence of (2.66 +/-\n0.23)x10^-5 erg/cm2 (in the 20 - 1200 keV energy range).\n\nModeling the K-W 3-channel time-integrated spectrum (from T0-3 s to \nT0+212 s) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.01 � 0.06, Ep = 446 +/- 123 keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB100413A/\n\nAssuming z ~ 3.9 (Campana, Evans, and Holland, GCN 10588) and a standard \ncosmology model with H_0 = 71 km/s/Mpc, Omega_M = 0.27, Omega_Lambda = \n0.73, the isotropic energy  release is E_iso ~8x10^53 erg, and Ep_rest \n~2200 keV."
+}

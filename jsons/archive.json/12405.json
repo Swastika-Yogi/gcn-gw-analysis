@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 504307: Swift detection of MAXI J1836-194",
+  "bibcode": "2011GCN.12405....1B",
+  "createdOn": 1317239355000,
+  "circularId": 12405,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nS. Campana (INAF-OAB), M. M. Chester (PSU), N. Gehrels (NASA/GSFC),\nD. Grupe (PSU), S. T. Holland (CRESST/USRA/GSFC),\nS. Immler (CRESST/GSFC/UMD), J. A. Kennea (PSU),\nH. A. Krimm (CRESST/GSFC/USRA), D. M. Palmer (LANL),\nT. Sakamoto (NASA/UMBC), M. H. Siegel (PSU), C. A. Swenson (PSU),\nT. N. Ukwatta (MSU) and B.-B. Zhang (PSU) report on behalf of the\nSwift Team:\n\nAt 19:17:20 UT, the Swift Burst Alert Telescope (BAT) triggered on\nMAXI J1836-194 (trigger=504307). \nThe BAT on-board calculated location is \nRA, Dec 278.950, -19.328 which is \n   RA(J2000) = 18h 35m 48s\n   Dec(J2000) = -19d 19' 40\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty). This position lies 70 arcseconds from the \nreported Swift/XRT position of MAXI J1836-194 (Kennea et al., \nATEL #3613). The BAT trigger was a 1024s image trigger. \nAs is usual for an image trigger, the BAT light curve shows nothing \nof note. \n\nDue to an observing constraint, Swift will not slew until \nT0+47.2 minutes. There will be no XRT or UVOT data until\nthis time."
+}

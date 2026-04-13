@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230915A: Fermi GBM observation",
+  "eventId": "GRB 230915A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34729....1H",
+  "createdOn": 1695048226237,
+  "circularId": 34729,
+  "submitter": "rachel.hamburg@ijclab.in2p3.fr",
+  "body": "R. Hamburg (CNRS/IJCLab) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 05:39:29.46 UT on 15 September 2023, the Fermi Gamma-Ray Burst Monitor (GBM)\ntriggered and located GRB 230915A (trigger 716449174 / 230915236),\nwhich was also detected by Swift/BAT-GUANO (Tohuvavohu et al. 2023, GCN 34714)\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 56 degrees.\n\nThe GBM light curve shows a multi-peaked lightcurve\nwith a duration (T90) of about 42 s (50-300 keV).\nThe time-averaged spectrum from T0-9.73 s to T0+18.94 s is\nbest fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -1.13 +/- 0.06 and\nthe cutoff energy, parameterized as Epeak, is 177 +/- 19 keV.\nA Band function fits the spectrum equally well with\nEpeak = 141 +/- 23 keV, alpha = -1.03 +/- 0.10 and beta = -2.18 +/- 0.20.\n\nThe event fluence (10-1000 keV) in this time interval is\n(5.60 +/- 0.29)E-06 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+4.54 s in the 10-1000 keV band\nis 5.3 +/- 0.2 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\"\n"
+}

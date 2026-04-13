@@ -1,0 +1,10 @@
+{
+  "subject": " EP260402a/GRB 260402A: SVOM/C-GFT upper limit",
+  "eventId": "GRB 260402A",
+  "submittedHow": "web",
+  "createdOn": 1775143847083,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 44189,
+  "format": "text/markdown",
+  "body": "C. Wu (NAOC), Z. Kang (CHO), L.P. Xin, X.H. Han, P.P. Zhang, X.M. Lu (NAOC), Z.W. Li, Y. Lv (CHO), R.S. Zhang, Y.J. Xiao, Y.L. Qiu, J. Wang, J.S. Deng, L. Huang, J.Y. Wei (NAOC) ,  W. Tan, R. Li (IHEP) report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of GRB 260402A (SVOM burst-id sb26040203) detected by SVOM/ECLAIRs (Tan et al., GCN 44181) with LATIOS on SVOM/C-GFT. Observations started at 2026-04-02T12:50:51 UTC, ~2.34 hr after the trigger. \n\nWe obtained  i-band follow-up imaging.  After preliminary analysis，no credible candidate was detected within the error box provided by  SVOM/MXT (Gotz et al., GCN 44182) and EP/MXT (Zhao et al., GCN 44186) in our stacked image. The 3-sigma upper limit is: \n\n| Mid_t - T0 (hr) | Exposure Time (s) | Band | Upper Limit (AB) |\n|----------------|-------------------|------|------------------|\n| 2.69            | 30×30              | i    | 19.0            |\n\nThe photometry was calibrated against Pan-STARRS1 stars  and no correction for Galactic dust extinction was applied.\n\nThis result is consistent with  Antier et al. (GCN 44183) and Freeberg et al.(GCN 44185).\n \n\nWe thank the observation assistants Ying-huai Hao and Chun-lei Guo at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

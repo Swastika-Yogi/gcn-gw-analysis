@@ -1,0 +1,10 @@
+{
+  "subject": "GRB110715A: spectral lag analysis",
+  "eventId": "GRB 110715A",
+  "bibcode": "2011GCN.12185....1X",
+  "createdOn": 1311168869000,
+  "circularId": 12185,
+  "submitter": "Dong Xu at Weizmann Inst  <dong.xu@weizmann.ac.il>",
+  "email": "dong.xu@weizmann.ac.il",
+  "body": "D. Xu (WIS) reports:\n\nGRB 110715A was detected by Swift/BAT (Sonbas et al., GCN 12158;\nUkwatta et al., GCN 12160),  Konus-Wind (Golenetskii et al., GCN\n12166), and Suzaku/WAM (Ohmori et al., GCN 12184). The prompt emission\nof this burst has a high photon count rate. And the lightcurve shows a\nmulti-peaked structure lasting ~5s (i.e., T0+5s, where T0 is the\ntrigger time), followed by a much weaker emission up to ~T0+20s.\nTherefore, the overall T90 duration is ~10s or even a bit longer. On\nthe other hand, such a lightcurve feature is reminiscent of previous\nshort bursts with extended tail emissions.\n\nWith the redshift z = 0.82 (Piranomonte et al., GCN 12164) and the\ncosmological parameters H_0 = 71 km/s/Mpc, Omega_M = 0.27,\nOmega_Lambda = 0.73, the isotropic energy release E_iso is (4.1 �\n0.4)x10^52 erg, the isotropic peak luminosity L_iso,p is (3.9 �\n0.2)x10^52 erg/s, and the rest-frame \\nu_F\\nu peak energy Ep_rest is\n220 � 20 keV (Golenetskii et al., GCN 12166). Thus, the values of Eiso\nand Ep_rest are well consistent with the Eiso-Ep_rest relation (i.e.,\nAmati relation) for long GRBs (or collapsar bursts).\n\nThe Swift/BAT data were reduced in a standard way and a CCF method was\nused to derive spectral lags upon the lightcurves with 0.064s binning\n(Xu et al., ApJ, 696, 971). We found lags of 0.04+/-0.01s (1sigma) for\n15-25 V.S. 25-50 keV and 0.04+/-0.01 (1sigma) for 50-75 V.S. 75-350\nkeV. Thus, this event also fits the Liso-spectral lag relation for\nlong GRBs.\n\nAt z=0.82, searching for an accompanying SN is doable but requires\nvery deep photometric follow-ups (ref. Tanvir et al., ApJ, 725, 625)."
+}

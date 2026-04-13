@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-BAT detection of the bright long burst GRB041219",
+  "eventId": "GRB 041219",
+  "bibcode": "2004GCN..2874....1B",
+  "createdOn": 1103437982000,
+  "circularId": 2874,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "S. Barthelmy (GSFC), D. Burrows (PSU), J. Cummings (GSFC), E. Fenimore (LANL), \nN. Gehrels (GSFC), M. Goad (U.Leicester), D. Hullinger (UMD), H. Krimm (USRA),\nC. Markwardt (UMD), F. Marshall (GSFC), K. McLean (LANL), J. Nousek (PSU),\nJ. Osborne (U.Leicester), D. Palmer (LANL), A. Parsons (GSFC), G. Sato (ISAS),\nM. Suzuki (Saitama), G. Tagliaferri (OAB), J. Tueller (GSFC) \non behalf of the Swift BAT team.\n\nAt 01:42:18 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated on-board GRB041219 (GCN Circ# 2866, D.Gotz et al.).  The spacecraft\ndid not autonomously slew to the burst since automated slewing\nis not yet enabled.\n\nThe BAT ground-calculated location is RA,Dec 6.154,+62.847 (J2000)\nwith an uncertainty of 12 arcmin (radius, including a large systematic\nuncertainty due to the lack of an on-orbit bore-sight alignment calibration).\nThis is ~11 degrees off the BAT bore sight and is in the fully encoded\nfield of view.  This position is consistant with the INTEGRAL position\n(GCN Circ# 2866), and is within 4.1 arcmin of the BAT on-board location\n(14 sec after the initial rate trigger).  We note that this position\nis in the Galactic plane with a Galactic Lon,Lat of 120,+0.1deg.\n\nThe burst lightcurve is multi-peaked with structure within the peaks.\nAfter an initial pair of small precursors, the peak intensity increased\nto 25 events/cm^2/sec (1-sec sampling; unsaturated; ~15 to 200 keV; 43 Crab)\n300 sec after the initial triggering peak.  The total duration was 520 sec.\nThe fluence is ~1e-4 erg/cm^2."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100625A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100625A",
+  "bibcode": "2010GCN.10892....1L",
+  "createdOn": 1277573926000,
+  "circularId": 10892,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W. Landsman (NASA/GSFC/Adnet) and S. Holland ((CRESST/USRA/GSFC) report \non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100625A \n56s after the BAT trigger (Holland et al., GCN Circ. 10884). No optical \nafterglow consistent with the enhanced  XRT position (Page et al., GCN \nCirc. 10888) or the Gemini-South candidate afterglow position (Levan et \nal. GCN Circ. 10887) is detected in the initial UVOT exposures. \nPreliminary 3-sigma upper limits using the UVOT photometric system \n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC) \nand subsequent exposures are:\n\n\nFilter   T_start(s)  T_stop(s)  Exp(s)   Mag\n-----------------------------------------------\nwhite     87          206        147 >21.2 (FC)\nu        269          519        246 >20.2 (FC)\n\nwhite     87        11552        785 >22.6\nv        598         5951        412 >20.3\nb        524        10640       1117 >21.9\nu        269         6522        614 >20.5\nw1      4725         6362        393 >20.6\nm2      4520         6157        393 >20.5\nw2      4111        12302       1125 >21.5\n\n\nThe values quoted above are not corrected for the Galactic extinction \ndue to the reddening of E(B-V) = 0.012 in the direction of the burst \n(Schlegel et al. 1998)."
+}

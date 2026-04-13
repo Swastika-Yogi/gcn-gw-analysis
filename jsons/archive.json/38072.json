@@ -1,0 +1,11 @@
+{
+  "subject": "EP241103a: GIT optical upper limit",
+  "eventId": "EP241103a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38072....1S",
+  "createdOn": 1730728504890,
+  "circularId": 38072,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "A. P. Saikia, T. Mohan, V. Swain, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the X-ray transient EP241103a (Zhao et al., GCN 38051, 38058) with the 0.7m GROWTH-India Telescope (GIT). The observations started at 2024-11-03 20:56:00 UT, about 19.5 hours after the Einstein Probe trigger. We obtained four images of 300 sec in the r' filter. We did not detect any new source in our stacked image around the coordinates reported by Swift-XRT (Jonker et al., GCN 38063). The obtained upper limit is:\n\n-----------------------------------------------------------------------------------------\n| MJD (mid)   | t-t0 (hours) | Filter | Exposure (s) | Limiting Magnitude (5-sigma, AB) |\n| ----------- | ------------ | ------ | ------------ | -------------------------------- |\n| 60617.88486 |    19.75     |   r'   |    4x300     |             21.8                 |\n-----------------------------------------------------------------------------------------\n\nThe magnitude is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction. Our upper limits are consistent with others (Lipunov et al., GCN 38052; Izzo et al., GCN 38053; Li et al., GCN 38054; Quirola-Vasquez et al., GCN 38059; Gompertz et al., GCN 38066). \n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230815A: SOAR/Goodman follow-up imaging",
+  "eventId": "GRB 230815A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34452....1K",
+  "createdOn": 1692209003547,
+  "circularId": 34452,
+  "submitter": "Charles Kilpatrick at Northwestern U <ckilpatrick@northwestern.edu>",
+  "body": "C. D. Kilpatrick (Northwestern), C. R. Bom (CBPF), A. Santos (CBPF/Fermilab), S. Panda (LNA), Felipe Navarete (NOIRLab/SOAR) on behalf of a larger collaboration, report:\n\nFollowing the detection of GRB230815A (Klingler et al., GCN 34434, Mailyan et al., GCN 34440), we triggered observations with the Goodman high-throughput imaging spectrograph on the SOAR 4.1m telescope at Cerro Pachón, Chile.  Targeting the site of the reported Swift/XRT counterpart (Beardmore et al., GCN 34437), we obtained 6x180s exposures in SDSS i-band and 7x180s in SDSS z-band at start times of 2023-08-15 23:17:36 and 2023-08-15 23:50:48 UTC, respectively.  We did not detect a counterpart in either stacked image, with the limiting magnitude in both frames significantly affected by poor atmospheric transparency.  Performing forced photometry at the site of the XRT counterpart (R.A.=12:18:53.34, Decl.=-58:03:10.4), we derive limits on an optical counterpart of:\n\nMJD Filter Maglimit\n60171.97055 i 20.5\n60171.99361 z 17.9\n\nBoth magnitude limits are on the AB magnitude system calibrated from SkyMapper DR2 standard stars (Onken et al. 2019) and are not corrected for the significant Galactic extinction along this sight line (A_i=1.25 mag, A_z=0.93 mag).\n\nBased on observations obtained at the Southern Astrophysical Research (SOAR) telescope, which is a joint project of the Ministério da Ciência, Tecnologia e Inovações do Brasil (MCTI/LNA), the US National Science Foundation’s NOIRLab, the University of North Carolina at Chapel Hill (UNC), and Michigan State University (MSU)."
+}

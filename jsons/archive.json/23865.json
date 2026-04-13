@@ -1,0 +1,10 @@
+{
+  "subject": "GRB190203A: UVOT analysis",
+  "eventId": "GRB 190203A",
+  "bibcode": "2019GCN.23865....1K",
+  "createdOn": 1549299694000,
+  "circularId": 23865,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (UCL/MSSL) and A. Y. Lien (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 190203A\n121 s after the BAT trigger (Lien et al., GCN Circ. 23845).\nA source consistent with the XRT position\n(Goad et al. GCN Circ. 23848)\nis detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  01:30:23.21 =  22.59672 (deg.)\n    Dec (J2000) = +55:43:20.6  =  55.72240 (deg.)\nwith an estimated uncertainty of 0.46 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              121          271          147         18.66 +/- 0.06\nv                  609         5462          225        >19.2\nb                  535         4846          236        >20.5\nu                  279         5967          551        >21.0\nw1                 658         5872          413        >20.2\nm2                 634         5666          413        >21.0\nw2                 585         5257          236        >20.2\n\n\nThe short v image during settling, i.e., prior to the settled\nimages reported here, shows a 16.3 +/- 0.3 mag source as well.\nUsually we have a detection in the other bands besides in the\nearly white filter. Either the GRB decayed so fast as to be\nbelow u > 19.8 mag between To+278 and 529s or this burst is\nof a high redshift. A rapid decay is consistent with Watson\net al. (GCN Circ. 23864).\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.64 in the direction of the burst\n(Schlegel et al. 1998)."
+}

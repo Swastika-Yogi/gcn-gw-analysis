@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080723B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080723B",
+  "bibcode": "2008GCN..8017....1B",
+  "createdOn": 1216990998000,
+  "circularId": 8017,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (Penn State)  reports on behalf of the Swift UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080723B (Gotz et al.,\nGCN Circ. 8002) starting at 2008-07-23 17:05:44, 13.4 ks after\nthe Integral detection.  We do not find any source in the UVOT\nobservations at the XRT position of the afterglow (Page, GCN Circ. 8008).\nThe 3-sigma upper limits for detecting a source at this location in the\nco-added images are:\n\nFilter   T_start(s)   T_stop(s)  Exp(s)  Mag(3-sigma upper limit)\nv        13790        13836      45      >18.1\nb        13551        35434      473     >20.3\nu        13500        35220      661     >20.1\nuvw1     13405        40586      1538    >20.4\nuvm2     13841        13966      124     >18.8\nuvw2     13603        35801      735     >20.1\n\nThe values quoted above are in the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627).  They have not been corrected\nfor the expected high but uncertain Galactic extinction along the\nline of sight (Galactic latitude < 5 degrees)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110422A: Swift-BAT refined analysis",
+  "eventId": "GRB 110422A",
+  "bibcode": "2011GCN.11959....1P",
+  "createdOn": 1303496052000,
+  "circularId": 11959,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nV. Mangano (INAF-IASFPA), C. B. Markwardt (GSFC), T. Sakamoto (GSFC/UMBC),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-61 to T+195 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 110422A (trigger #451901)\n(Mangano, et al., GCN Circ. 11957).  The BAT ground-calculated position is\nRA, Dec = 112.057, 75.100 deg, which is \n   RA(J2000)  =  07h 28m 13.7s \n   Dec(J2000) = +75d 05' 58.8\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 22%.\n \nThe mask-weighted light curve shows several overlapping peaks starting\nat ~T-15 sec, peaking at ~T+8 sec, and ending at ~T+60 sec.  At the 3-sigma\nlevel, there is another peak from T+70 to T+115 sec.  T90 (15-350 keV)\nis 25.9 +- 0.6 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-11.2 to T+40.3 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.86 +- 0.10, \nand Epeak of 149.4 +- 18.5 keV (chi squared 46.5 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 4.1 +- 0.1 x 10^-5 erg/cm2\nand the 1-sec peak flux measured from T+6.90 sec in the 15-150 keV band is\n30.7 +- 1.0 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.35 +- 0.00 (chi squared 118.3 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/451901/BA/"
+}

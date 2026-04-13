@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241002C : MITSuME Akeno optical upper limits",
+  "eventId": "GRB 241002C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37688....1J",
+  "createdOn": 1727942503142,
+  "submitter": "joshima@hp.phys.titech.ac.jp",
+  "circularId": 37688,
+  "format": "text/plain",
+  "body": "S.Joshima, M.Niwano,  I. Takahashi, M. Sasada, N. Higuchi, S. Hayatsu, H. Seki, Y. Kubo, H. Hagio, Y. Yatsu and N. Kawai (Science Tokyo) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 241002C (SVOM/ECLAIRs Team, GCN 37674) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2024-10-02 13:51:00 UT (4.5 hrs after the SVOM/ECLAIRs trigger). We stacked the images with good conditions. We did not detect any uncatalogued sources within the SVOM/ECLAIRs error region. We obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[hrs] | MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n5.6 | 2024-10-02 15:31:14.67 | 3240 | g'>18.9, Rc>19.1, Ic>18.7\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire).\n"
+}

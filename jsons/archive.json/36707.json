@@ -1,0 +1,11 @@
+{
+  "subject": "EP240617a: STEP/T80S optical limits",
+  "eventId": "EP240617a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36707....1S",
+  "createdOn": 1718840574440,
+  "circularId": 36707,
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "format": "text/markdown",
+  "body": "A. Santos (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), L. Santana-Silva (CBPF), P. Darc (CBPF), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration:\n\n\nWe conducted optical follow up of the fast X-ray transient EP240617a by the Einstein Probe (GCN [36691](https://gcn.nasa.gov/circulars/36691), [36692](https://gcn.nasa.gov/circulars/36691)) with the T80S 0.8-m robotic telescope using the 1.4 x 1.4 field-of-view T80S-Cam imager (see Santos et al., 2024, MNRAS, 529, 59 for details). The observations started on June 19, 05:10 UT (~41 hours after the trigger). We obtained 360s (3x120s) images in both i and z bands with the T80S camera centered at R.A.=19:00:07.29 and Decl.=-22:33:39.60 (J2000).  Subtracting Pan-STARRS 3pi template images from the T80S frames using photpipe (Rest et al., 2005), we do not detect any sources in our difference images and derive 3-sigma limiting magnitudes of z > 20.6 and i > 20.9 mag for any optical transient."
+}

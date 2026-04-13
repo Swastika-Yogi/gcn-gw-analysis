@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080122 : Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 080122",
+  "bibcode": "2008GCN..7218....1U",
+  "createdOn": 1201272887000,
+  "circularId": 7218,
+  "submitter": "Takeshi Uehara at Hiroshima U  <uehara@hirax7.hepl.hiroshima-u.ac.jp>",
+  "email": "uehara@hirax7.hepl.hiroshima-u.ac.jp",
+  "body": "T. Uehara, M. Ohno, T. Takahashi, Y. Fukazawa, C. Kira, Y. Hanabata (Hiroshima U.),\nT. Tamagawa (RIKEN), K. Yamaoka, Y. E. Nakagawa,\nS. Sugita (Aoyama Gakuin U.), M. Tashiro, Y. Terada, Y. Urata, A. Endo,\nK. Onda, M. Suzuki, N. Kodaka, K. Morigami (Saitama U.),\nT. Enoto, R. Miyawaki, K. Nakazawa, K. Makishima (Univ. of Tokyo),\nE. Sonoda, M. Yamauchi, H. Tanaka, R. Hara (Univ. of Miyazaki),\nM. Kokubun, M. Suzuki, T. Takahashi (ISAS/JAXA), S. Hong (Nihon U.),\non behalf of the Suzaku WAM team, report:\n\n\n\nThe IPN localized long GRB 080122 (Hurley et al., GCN 7211) \ntriggered the Suzaku Wide-band  All-sky Monitor (WAM) \nwhich covers an energy range of 50 keV - 5 MeV at 2008-01-22 18:32:45 UT (=T0).\n\nThe observed light curve shows a multi-peaked structure \nstarting at T0-2 s, ending at T+98 s,\nwith a duration (T90) of about 100 seconds.\nThe fluence in 100-1000 keV was 2.5 x 10^-5 erg/cm^2. \nThe 1-s peak flux measured from T0+5 s was 5.2 photons/cm^2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-4 s to T0+119 s is well fit by a power-law with exponential cutoff model:\n  dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak)\n  alpha       1.28 (+0.43, -0.54), and\n  Epeak       420  (+326, -192) keV (chi2/dof = 15.8/24).\n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe light curve data for this burst is available at:\nhttp://www.astro.isas.ac.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

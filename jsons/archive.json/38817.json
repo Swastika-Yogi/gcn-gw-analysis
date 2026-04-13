@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241229A: 1.3m DFOT upper limit",
+  "eventId": "GRB 241229A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38817....1G",
+  "createdOn": 1735969904790,
+  "circularId": 38817,
+  "submitter": "ANSHIKA GUPTA at ARIES <anshika05180@gmail.com>",
+  "format": "text/plain",
+  "body": "Anshika Gupta, Amit K. Ror, Pranshu, Kuntal Mishra, and Shashi B. Pandey (ARIES) report:\n\n\nWe observed the field of GRB 241229A detected by SVOM (Liang et al 2024, GCN 38697) with the 1.3m Devasthal Fast Optical Telescope (DFOT), located at the Devasthal Observatory of the Aryabhatta Research Institute of Observational Sciences (ARIES), India. The observations were started on 2024-12-31 at 21:30:48 UT, i.e., ~ 2.89 days after the SVOM trigger. We have taken multiple frames with an exposure time of 300 s in the R filter. We stacked the images after the alignment. We could not detect the optical emission in our stacked image within the error box of SVOM/ECLAIRs (Liang et al. 2024, GCN 38697) and Swift-XRT (Williams et al. 2024, GCN 38728). We obtain the following 3-sigma upper limit in the stacked image:\n\n\nDate Start_UT T_start-T0 (days) Filter  Exp time (s)  Magnitude\n========================================================= \n2024-12-31 21:30:48    ~2.89     R     300s*24     >21.4\n\n\nThe non-detection of the burst is consistent with the upper limits reported by Kumar et al. 2024, GCN 38705; Moskvitin et al. 2024, GCN 38731.\n\n\nThe magnitude is not corrected for the Galactic extinction in the direction of the burst. Photometric calibration is performed using the standard stars from the USNO-B1.0 catalogue. This circular may be cited.\n \n"
+}

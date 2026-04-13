@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G288732: Updated sky map from gravitational-wave data",
+  "eventId": "LIGO/Virgo G288732",
+  "bibcode": "2017GCN.21239....1L",
+  "createdOn": 1497055816000,
+  "circularId": 21239,
+  "submitter": "Eve Chase at Northwestern U./LIGO  <eve.chase@ligo.org>",
+  "email": "eve.chase@ligo.org",
+  "body": "The LIGO Scientific Collaboration and Virgo Collaboration report:\n\nWe have re-analyzed LIGO data around the time of the compact binary\ncoalescence (CBC) event candidate G288732 (GCN 21221) taking into\naccount our current understanding of calibration uncertainties.\n\nParameter estimation has been performed using LALInference (Veitch et\nal., PRD 91, 042003) and a new sky map, LALInference.fits.gz, is\navailable for retrieval from the GraceDB event page:\nhttps://gracedb.ligo.org/events/G288732\n\nThis is the preferred sky map at this time. This map spans one arc in\nthe Northern hemisphere in nearly the same position as the original\nBAYESTAR sky map but the region with the highest probability has\nshifted further north.\n\nThe 50% and 90% credible regions span about 340 and 1090 square\ndegrees, respectively, which are somewhat larger than the initial\nBAYESTAR sky map due to marginalizing over calibration uncertainties.\n\nWe will recalculate the sky map once the full recalibration is\ncomplete and will share it at that time, but that is likely at least a\nfew weeks away."
+}

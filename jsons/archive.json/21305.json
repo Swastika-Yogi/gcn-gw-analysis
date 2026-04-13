@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 760835: Swift misidentification of GRS1716-249",
+  "bibcode": "2017GCN.21305....1C",
+  "createdOn": 1499483752000,
+  "circularId": 21305,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "A. Cholden-Brown (PSU), J. A. Kennea (PSU), A. Y. Lien (GSFC/UMBC),\nK. L. Page (U Leicester) and D. M. Palmer (LANL) report on behalf of\nthe Swift Team:\n\nFor an image beginning at 03:34:04 UT, BAT misidentified the\nknown source GRS 1716-249 as a different source\nand incorrectly triggered an alert. \n\nThis is due to a known race condition in the onboard software. \n\nThe flux level of GRS 1716-249 in this detection is consistent\nwith recent observations of this source, which has been in outburst \nsince December 2016 and has declined to ~40% of its peak value."
+}

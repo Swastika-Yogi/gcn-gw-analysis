@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120226A: Fermi-LAT data analysis",
+  "eventId": "GRB 120226A",
+  "bibcode": "2012GCN.12994....1Z",
+  "createdOn": 1330456353000,
+  "circularId": 12994,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "Weikang Zheng and Carl Akerlof report on behalf of the ROTSE\ncollaboration:\n\nWe analyzed the high energy LAT data of GRB 120226A (Vasileiou and\nRacusin, GCN 12989) using the matched filter technique (Akerlof et al,\n2010, ApJ, 725, L15; 2011 ApJ, 726, 22; Zheng et al. 2012, ApJ 745,72,\nGCN 12822). We only selected the photons with energy above 100 MeV in\nour pipeline analysis. Our localization result gives the coordinate of\nRa = 300.05, Dec=48.81 (J2000) with uncertainty ~0.5 degree. This\nlocation is about 7 degrees away from GBM trigger (Ra = 304.29,Dec =\n42.1) and about 9 degrees away from the LAT location (Ra = 305.30, Dec =\n40.75) given in GCN 12989. Our localization is much closer to the center\nof IPN location (Ra = 302.930, Dec = 48.665, K. Hurley et al. GCN\n12993), about 2 degrees away.\n\nThe LAT data signal is weak, too low to claim a firm detection. Only\nfour photons were identified near the estimated coordinate within a 50s\ntime window following the GBM trigger but by extending the duration to\n250s, the number of photons increases to about 10. We encourage X-ray\nfollow-up observations of the new location.\n\nAll the pipeline results including the skymap can be found at the\nfollowing link:\nhttp://www.rotse.net/LAT/GBMTriggers/351982459/351982459_res.html"
+}

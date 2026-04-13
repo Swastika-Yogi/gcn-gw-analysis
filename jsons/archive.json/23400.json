@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181030A: Swift/UVOT Detection",
+  "eventId": "GRB 181030A",
+  "bibcode": "2018GCN.23400....1E",
+  "createdOn": 1540993213000,
+  "circularId": 23400,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and E. Sonbas (Adiyaman Univ.)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 181030A\n152 s after the BAT trigger (Sonbas et al., GCN Circ. 23389).\nA fading source is detected in the initial UVOT exposures at a position\nconsistent with the XRT position (Beardmore et al., GCN Circ. 23391) and\nalso with SAO RAS (Moskvitin et al., GCN Circ. 23390) and MASTER Net\n(Lipunov et al., GCN Circ. 23392).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)       Mag\n\nwhite_FC           152          270          116        19.34 +/- 0.30\nwhite             3978         5614          393        >20.7\nv                 4389         6009          378        >18.9\nb                 3774        17487          635        >20.1\nu                 3569        17236         1278        >20.3\nuvw1              4799        11747          852        >20.2\nuvm2              4594        22498         1201        >20.7\nuvw2              4184         5819          393        >20.1\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

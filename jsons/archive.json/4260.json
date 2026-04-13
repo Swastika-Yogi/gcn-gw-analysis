@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051111: Swift-BAT refined analysis",
+  "eventId": "GRB 051111",
+  "bibcode": "2005GCN..4260....1K",
+  "createdOn": 1131721734000,
+  "circularId": 4260,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), M. Ajello (MPE), L. Barbier (GSFC), \nS. Barthelmy (GSFC), J. Cummings (GSFC/NRC), E. Fenimore (LANL), \nR. Fink (GSFC), N. Gehrels (GSFC), D. Hullinger (UMD), \nC. Markwardt (GSFC/UMD),D. Palmer (LANL), A. Parsons (GSFC), \nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), J. Tueller (GSFC), \non behalf of the Swift-BAT team:\n\nUsing the data set from T-300 to T+300 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 051111 \n(trigger #163438)  (Sakamoto, et al., GCN 4248).  \nThe BAT ground-calculated position is \n(RA,Dec) = 348.134, +18.365 {23h 12m 32s, 18d 21' 54\"} [deg; J2000]\n+- 0.8 arcmin, (radius, sys+stat, 90% containment).  \nThe partial coding was 59%.  \n\nThe light curve has a FRED-like structure with the duration of \nthe rising and the decay part of 10 sec and 40 sec, respectively.  \nThe emission might be extended untill T+80 sec.  Although there is \na bump around T+5s in the 100-350 keV band, this bump is not visible \nbelow 100 keV.  T90 (15-350 keV) is (47 +- 1) sec \n(estimated error including systematics).  \n\nThe power law index of the time-averaged spectrum is 1.32 +- 0.06.  \nThe fluence in the 15-150 keV band is (3.9 +- 0.1) x 10^-6 erg/cm2.  \nThe 1-sec peak photon flux measured from T-0.56 sec in the 15-150 keV \nband is (2.5 +- 0.2) ph/cm2/sec.  All the quoted errors are at the 90% \nconfidence level."
+}

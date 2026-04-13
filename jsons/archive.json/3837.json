@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050820: refined XRT analysis",
+  "eventId": "GRB 050820",
+  "bibcode": "2005GCN..3837....1P",
+  "createdOn": 1124567484000,
+  "circularId": 3837,
+  "submitter": "Kim Page at U.of Leicester,Swift SDC  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page, A.P. Beardmore, M.R. Goad (U. Leicester), J.A. Kennea, D.N.\nBurrows (PSU), F. Marshall (GSFC) and A. Smale (NASA HQ) report on behalf\nof the Swift/XRT team:\n\nWe have analysed the first 6 orbits of XRT data for GRB050820, spanning 88\n- 3e5 seconds after the burst. There is a bright, fading afterglow in the\nfield of view, with refined coordinates of\n\nRA(J2000):  22:29:38.2\nDec(J2000): 19:33:31.1\n\nwith an uncertainty of 7 arcseconds radius (90% containment). This is 5.9\narcsec from the on-board XRT position given in GCN 3830 and 6.1 arcsec\nfrom the optical afterglow reported in GCN 3829.\n\nXRT observations began in Windowed Timing mode 88 seconds after the\ntrigger, followed by Photon Counting (PC) data from the start of the\nsecond orbit (4660 seconds after the burst). The PC data show a smooth\ndecline with a decay slope of alpha = 1.13 +/- 0.04.\n\nThe PC spectrum can be well fitted by a power-law with Gamma = 1.94 +/-\n0.07, and an excess absorbing column of ~6e21 cm^-2 in the rest-frame of\nthe GRB (taking the redshift of 2.612 from GCN 3833).\n\nAssuming a smooth, unbroken decay, the predicted count-rate at 24 hours\n(06.30 UT on 2005-08-21) is 0.085 count s^-1, corresponding to an\nunabsorbed 0.3-10 keV flux of 3.4e-12 erg cm^-2 s^-1."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240225B: Liverpool Telescope optical afterglow observations",
+  "eventId": "GRB 240225B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35820....1W",
+  "createdOn": 1709052588988,
+  "submitter": "Jacob Wise at Liverpool John Moores University <J.L.Wise@2022.ljmu.ac.uk>",
+  "circularId": 35820,
+  "body": "J. Wise, A. Bochenek, D. A. Perley (LJMU) report:\n\nWe report observations the optical afterglow GOTO24tz/AT2024dgu (Gompertz et al, GCN 35805; D'Ai et al, GCN 35810; Xu, D., GCN 35812; Malesani et al, GCN 35819) associated with GRB 240225B (Nakajima et al, GCN 35796; Joshi et al, GCN 35798; Kawakubo et al, GCN 35811) using the IO:O optical camera on the 2-meter Liverpool Telescope. Observations commenced at 2024-02-27 00:20:06.433 UTC, approximately 28.1 hours after the burst. 2x75s exposures were taken using the SDSS g, r, i, and z filters, with Pan-STARRS foreground stars used for calibration. Conditions were generally favourable throughout. \n\nThe transient was well detected in all 4 filters, with magnitudes listed in the following table. Times since burst for each filter were calculated using the strongest peak found with the AstroSat CsI anticoincidence (Veto) detector as reference (Joshi et al, GCN 35798).\n\nMJD\t        Time since burst (hours)\tFilter\tMag. (AB)\n60367.01396\t28.135\t                        g\t19.97 ± 0.12\n60367.01624\t28.189\t                        r\t19.51 ± 0.15\n60367.01848\t28.243\t                        i\t19.44 ± 0.10 \n60367.02073\t28.297\t                        z\t19.28 ± 0.14\n\nMagnitudes are not corrected for foreground extinction."
+}

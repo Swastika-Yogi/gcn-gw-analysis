@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251005C: SVOM/GRM observation of a likely short GRB",
+  "eventId": "GRB 251005C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42135....1S",
+  "createdOn": 1759806769753,
+  "circularId": 42135,
+  "submitter": "Xinghao Luo at SVOM/GRN <2952704891@qq.com>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Xing-Hao Luo, Chen-Wei Wang, Zheng-Hang Yu, Yue Huang, Shi-Jie Zheng, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Frédéric Daigne (IAP), Stéphane Schanne (CEA)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered in-flight by a burst GRB 251005C(SVOM trigger reference: sb25100502) at 2025-10-05T16:06:54.000 UTC(T0), which is also detected by Fermi/GBM (Fermi GBM Team, GCN#42118) and Swift/BAT (K. L. Page et al., GCN#42113)\n\nWith the event_by_event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of multi-pulses with a T90 of 1.6 +0.6/-0.3 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb251005C.png\n\nIn addition, the position of this burst, as determined by Swift/XRT (RA=75.673 , DEC=16.882, GCN#42116), is located at about 51 degrees form the SVOM optical axis, which is outside the ECLAIRs field of view.\n\nWith this localization, the time-averaged spectrum from T0-0.4 to T0+1.6 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -0.81 +0.16/-0.14 and the cutoff energy, parameterized as Epeak, is 900 +547/-285 keV. The event fluence (10-1000 keV) in this time interval is (2.17 +0.19/-0.18)E-06 erg/cm^2. \n\nThe localization of GRB 251005C in the 'Amati' relation diagram is shown at: \nhttps://www.bursthub.cn//admin/static/svgrb251005C_amati.png\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM point of contact for this burst is: Xing-Hao Luo (2952704891@qq.com)\n"
+}

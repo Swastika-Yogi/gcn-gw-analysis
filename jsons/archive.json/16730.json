@@ -1,0 +1,9 @@
+{
+  "subject": "Fermi GBM Trigger 140819576/ 430148973/ MASTER OT",
+  "bibcode": "2014GCN.16730....1C",
+  "createdOn": 1408577087000,
+  "circularId": 16730,
+  "submitter": "Valerie Connaughton at UAH/NSSTC  <valerie.connaughton@nasa.gov>",
+  "email": "valerie.connaughton@nasa.gov",
+  "body": "Valerie Connaughton (UAH) reports for the GBM team:\n\n\"At 13:49:30.04 UT on 19 August 2014, Fermi GBM triggered on an\nevent that was classified by the Flight Software as having an unreliable\nlocation and that was determined by the automated Ground software to\nbe inconsistent with an astrophysical source location.  The preliminary\nclassification of this event was an accidental trigger.\n\nThe complete data set has since been analyzed and we find no reason to\nrevise this classification.  It is possible based on the count rates in two\ndetectors (NaI 1 and 6) that there is a very weak, short GRB in the 64 ms\nbefore the trigger time, but there is no obvious signal in other detectors.\nBased on the geometry of the GBM detectors to the MASTER OT\nposition (Lipunov et al., GCN 16720), we would expect to see significant\nsignal in other NaI detectors.  We conclude that the GBM trigger is \nunrelated\nto the OT detected by MASTER and is most likely an accidental trigger.\nThere is a small possibility that the trigger is a very weak short GRB \nfrom an\nundetermined location, probably at very large angle to the spacecraft \nz-axis.\n\nRecommendations to observers: observations using GBM Flight Software\npositions from triggers with classifications other than GRB, \nparticularly those\nvery large reported errors, have low probabilities of success. Triggers\nclassified as GRBs by the Flight Software will have an automated Ground\nposition distributed in a socket connection or GCN notice within seconds.\nThese ground localizations are more accurate, and are always distributed\n  unless the ground software classifies the localization as unreliable.\""
+}

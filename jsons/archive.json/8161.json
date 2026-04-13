@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080828: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080828",
+  "bibcode": "2008GCN..8161....1W",
+  "createdOn": 1220029721000,
+  "circularId": 8161,
+  "submitter": "Paul Ward at MSSL  <paw@mssl.ucl.ac.uk>",
+  "email": "paw@mssl.ucl.ac.uk",
+  "body": "P. Ward (MSSL-UCL) and W. Baumgartner (GSFC/UMBC) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080828 starting 39.15ks after the \nSuperAGILE detection (Del Monte et al., GCN Circ. 8151).  We do not detect \nany afterglow at the Swift XRT position reported by Beardmore et al.\n(GCN Circ. 8157) in any of the following UVOT filters down to the given 3\nsigma upper limits.\n\nFilter T_start(s) T_stop Exp(s)  MagLimit\n\nWhite  46201      46561  355.8   > 21.40\nu      44376      51948  1798.8  > 20.65\nb      45289      52309  1250.3  > 21.33\nw1     40064      51035  1615.6  > 21.05\nm2     39156      40055  899.8   > 20.50\n\nThe photometry is on the UVOT photometric system described in Poole et al. \n(2008, MNRAS, 383,627). The above magnitudes are not corrected for the \nGalactic extinction corresponding to a reddening of E(B-V) ~ 0.81 mag \n(Schlegel et al., 1998)."
+}

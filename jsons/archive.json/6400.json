@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070509: Swift-XRT Refined Analysis",
+  "eventId": "GRB 070509",
+  "bibcode": "2007GCN..6400....1V",
+  "createdOn": 1178748542000,
+  "circularId": 6400,
+  "submitter": "Loredana Vetere at PSU  <vetere@astro.psu.edu>",
+  "email": "vetere@astro.psu.edu",
+  "body": "L. Vetere, J. L. Racusin, D. Grupe, C. Pagani (PSU) and M. Perri (ASDC) report\non behalf of the Swift Team:\n\nWe have analysed the first 6.2ks of Swift XRT data from GRB\n070509 (trigger number 278903, GCN 6394).\nThe first orbit  Photon Counting mode image (1.5ks) provides a\nrefined XRT position at\nRA,DEC(J200) = 237.9588, -78.6508 which is\n\nRA(J2000)  = 15h 51m 50.1s\nDec(J2000) = -78d 39' 03.1\"\n\nwith an uncertainty of 4.1 arcsec (radius, 90% containment).\nThis is  0.9 arcsec from the initial X-ray position (GCN 6394)\nand 1.0 arcmin from BAT refined position (Cummings et al. GCN 6397).\n\nThe XRT light curve can be modeled with a broken power law with the\nfollowing parameters:\nalpha1= -0.3 +/- 0.2\ntbreak=  341 +/- 120\nalpha2= -1.1 +/- 0.2\n\nThe X-ray spectrum of the first orbit PC data can be fitted with an\nabsorbed power law (photon index = 0.8+/-0.2) with an absorbed column\ndensity fixed to the Galactic value (0.91e21 cm^-2; Dickey & Lockman,\n1990). The absorbed (unabsorbed) 0.3-10.0keV flux for this spectrum\nwas 8.8E-12 (9.1E-12) ergs cm^-2 s^-1.\n\nAssuming the source continues to decay at the same rate, we predict\nan XRT count rate of 3.5E-4 counts/s at T+24 hours, which corresponds\nto an observed (unabsorbed) flux of 5.1E-14 (5.3E-14) ergs cm^-2 s^-1.\n\nThis circular is an official product of the Swift XRT team."
+}

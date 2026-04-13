@@ -1,0 +1,10 @@
+{
+  "subject": "Trigger 933285: Swift detection of the brightest burst so far from SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2019GCN.26171....1A",
+  "createdOn": 1572918718000,
+  "circularId": 26171,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "E. Ambrosi (INAF-IASFPA), V. D'Elia (SSDC), J. A. Kennea (PSU) and\nD. M. Palmer (LANL) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 01:36:25 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a burst from SGR 1935+2154 (trigger=933285).  \nSwift did not slew due to merit considerations. \nThe BAT on-board calculated location is \nRA, Dec 293.753, +21.896 which is \n   RA(J2000) = 19h 35m 01s\n   Dec(J2000) = +21d 53' 46\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single peak\nstructure with a duration of about 0.5 sec.  The peak count rate\nwas ~130,000 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nThe BAT software is designed to automatically set the trigger of each\nknown source to twice the intensity seen with the previous trigger. \nThus, each GCN notice for retriggering on the source indicates a burst\nat least twice as bright as the previous burst.  \n\nIn this case, the burst is about 7x as bright as reported in GCN 26169. \nThis is the brightest burst seen so far in the the current activation \nof this source."
+}

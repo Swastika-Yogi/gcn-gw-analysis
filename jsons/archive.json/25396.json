@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190814bv: WIRC NIR imaging follow-up of DECam transients",
+  "eventId": "LIGO/Virgo S190814bv",
+  "bibcode": "2019GCN.25396....1D",
+  "createdOn": 1566166918000,
+  "circularId": 25396,
+  "submitter": "Kishalay De at Caltech, GROWTH  <kde@astro.caltech.edu>",
+  "email": "kde@astro.caltech.edu",
+  "body": "K. De (Caltech), S. Tinyanont (Caltech), N. Kamraj (Caltech), S. Pike\n(Caltech), C. Hopkins (Pasadena High School), M. M. Kasliwal (Caltech)\nreport on behalf of the GROWTH collaboration\n\nWe observed the locations of four transients reported from DECam\nsearches of the localization region (GCN #25336, #25360, #25362,\n#25373, #25393) of LIGO / Virgo S190814bv (GCN #25324) with the\nWide-field Infrared Camera (WIRC; Wilson et al. 2003) on the Palomar\n200-inch Hale telescope. Observations were carried out between UT\n2019-08-18 11:15 and 12:15, and consisted of a series of dithered\nexposures on the target fields in J band. The data were reduced and\nstacked using a custom reduction pipeline for WIRC (De et al. in prep)\nand we report preliminary magnitude estimates for the targets.\n\nName                                      Mag (AB)           Notes\nDG19qabkc / AT 2019nqc           21.4                  (1)\nDG19wgmjc  / AT 2019npw         21.2                  (2)\ndesgw-190814c / AT 2019nqq     20.3                  (2)\nDG19ayfjc  / AT 2019nqz               --                    (3)\n\nNotes:\n(1) Transient is detected offset from host galaxy although host\ncontamination cannot be ruled out\n(2) Transient visible on top of host galaxy, but magnitude estimates\nare contaminated with host galaxy light before template subtraction\n(3) Transient close to bright host nucleus, so no reliable transient\nphotometry could be extracted before template subtraction"
+}

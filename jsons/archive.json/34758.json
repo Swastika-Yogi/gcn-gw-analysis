@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230922g: Updated Sky localization",
+  "eventId": "LIGO/Virgo/KAGRA S230922g",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34758....1L",
+  "createdOn": 1695373965217,
+  "submitter": "Patricia Schmidt at University of Birmingham <patricia.schmidt@ligo.org>",
+  "circularId": 34758,
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data around the time of the compact binary merger (CBC) candidate S230922g (GCN Circular 34757). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.multiorder.fits,0, distributed via GCN Notice, is available for retrieval from the\nGraceDB event page: https://gracedb.ligo.org/superevents/S230922g\n\nFor the Bilby.multiorder.fits,0 sky map, the 90% credible region is well fit by an ellipse with an area of 332 deg2 described by the\nfollowing DS9 region (right ascension, declination, semi-major axis, semi-minor axis, position angle of the semi-minor axis):\n   icrs; ellipse(22h34m, -22d57m, 12.85d, 8.25d, 102.09d). Marginalized over the whole sky, the a posteriori luminosity distance estimate is 1491 +/- 443 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/userguide/.\n\n\n [1] Ashton et al. ApJS 241, 27 (2019)"
+}

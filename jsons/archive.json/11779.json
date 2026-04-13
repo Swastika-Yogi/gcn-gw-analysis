@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110305A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 110305A",
+  "bibcode": "2011GCN.11779....1I",
+  "createdOn": 1299431562000,
+  "circularId": 11779,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (NASA/CRESST/GSFC) and D. Grupe (PSU) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110305A\n113 s after the BAT trigger (Grupe et al., GCN Circ. 11773). No optical\nafterglow consistent with the GROND position (Guelbenzu et al., GCN\nCirc. 11774) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           113          263          147 >20.5\nu_FC               271          521          246 >19.6\nwhite              113        18938         1608 >22.3\nv                  601        11519         1203 >19.7\nb                  527        24719         2136 >20.9\nu                  271        30501         3468 >21.5\nw1                 650        29759         2976 >20.9\nm2                 632        28858         2261 >20.8\nw2                 749         7376          426 >19.8\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.39 in the direction of the burst\n(Schlegel et al. 1998)."
+}

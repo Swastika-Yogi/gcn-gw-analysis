@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB070429A",
+  "eventId": "GRB 070429A",
+  "bibcode": "2007GCN..6364....1S",
+  "createdOn": 1177863584000,
+  "circularId": 6364,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL/PSU) and J. Cannizzo (GSFC/UMBC) report on behalf of \nthe Swift UVOT team:\n\nSwift/UVOT observed the field of GRB 070429A starting 211s after the \nBAT trigger. No new source is detected either within the refined XRT \nposition (GCN 6363) or at the position reported by Ugarte Postigo et \nal. (GCN 6361) in any of the UVOT filters, in either single or co-added \nexposures. The 3-sigma upper limits for the co-added exposures in each \nfilter are as follows:\n\nFilter        T_mid       Exp.     Mag 3-sig UL\n                      (s)           (s)\nWhite       850          253      19.43\nV               1104       903      19.75\nB               1700       107      19.30\nU               1598       117      18.96\nUVW1      3535        259     19.19\nUVM2       3951       333     19.61\nUVW2      1659        117     19.07\n\nwhere T_mid is the weighted mid time of the co-added images. The \nreported upper limits are uncorrected for the estimated Galactic \nreddening of E(B-V) = 0.17 mag."
+}

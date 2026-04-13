@@ -1,0 +1,10 @@
+{
+  "subject": "Swift-BAT detection of GRB 050410",
+  "eventId": "GRB 050410",
+  "bibcode": "2005GCN..3219....1F",
+  "createdOn": 1113148804000,
+  "circularId": 3219,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "E. Fenimore (LANL), L. Barbier, S. Barthelmy (GSFC), J. Cummings (GSFC/NRC),\nM. Galassi (LANL), N. Gehrels (GSFC), D. Hullinger (UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC), G. Sato (ISAS), M. Suzuki (Saitama),\nM. Tripicco (GSFC-SSAI), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nAt 12:14:25.36 UT Swift-BAT triggered on burst GRB 050410 (trigger=114298).\nThe BAT ground position is RA,Dec=89.745,+79.601 (J2000).  We note this\nis 38 arcsec from the XRT position (Parola, et al, Circ 3218).  For this GRB\nthere were two BAT triggers (114298 and 114299; 9 sec apart).  This is a result\nof a rare timing condition in the on-board software where the triggering code \ntimes-out while waiting for the imaging results of the first trigger,\nthen BAT goes back into the triggerable state, and then triggers again\n(on the same burst) which then produces the second trigger number and\nthe second series of BAT-related GCN Notices.\n\nThe lightcurve shows a broad peak with a total burst duration of ~65 sec\n(T90=43sec in 15-350 keV).  The rise of the burst was slow, causing a\ndelayed trigger, which continued to the back-to-back triggering situation.\nThe burst starts about 10 sec before the 114298 trigger time. \n\nA simple power law fit yields a photon index of -1.6 +/- 0.1, a burst fluence\nof 6.9e-6 erg/cm2 , and the 1-sec peak flux of 2.0 ph/cm2/sec (15-350 keV).\nThere is emission across the full BAT range including the 100-350 keV band.\nThe burst was 43 deg off the BAT bore sight with a partial coding of 20%."
+}

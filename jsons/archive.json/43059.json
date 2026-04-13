@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 251205A",
+  "eventId": "GRB 251205A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43059....1H",
+  "createdOn": 1765319932108,
+  "circularId": 43059,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "R. Hamburg and P. Veres report on behalf of the Fermi-GBM Team:\n\nThe Swift/BAT detected GRB 251205A on 2025-12-05 at 23:39:47 UTC (Lanava et al 2025, GCN 43005) and a redshift of z = 1.1 has been measured by GTC/OSIRIS (de Ugarte Postigo et al 2025, GCN 43008). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates. \n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, identified a transient starting about 2 seconds after the Swift/BAT trigger time, most significantly on the 8 s timescale with an SNR of 7.1 and a false alarm rate of 8.1e-05 Hz. The Targeted Search event was found with highest significance using a hard spectrum (i.e., Comptonized function with Epeak = 1500 keV, alpha = -0.5) for a GRB. The Targeted Search localization is found to be spatially consistent with the Swift BAT location. \n\n[1] Goldstein et al. 2019, arXiv:1903.12597"
+}

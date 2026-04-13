@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 240124B",
+  "eventId": "GRB 240124B",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35659....1L",
+  "createdOn": 1706889510508,
+  "submitter": "Alexandra Lysenko at Ioffe Institute <alexandra.lysenko@mail.ioffe.ru>",
+  "circularId": 35659,
+  "body": "A. Lysenko, D. Frederiks, A. Ridnaia, D. Svinkin, A. Tsvetkova, M. Ulanov,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 240124B\n(AstroSat CZTI detection: Joshi et al., GCN 35636;\nIPN triangulation: Ridnaia et al., GCN 35657)\ntriggered Konus-Wind at T0=76473.999 s UT (21:14:33.999).\n\nThe burst light curve shows a single-pulse structure\nwhich starts at ~T0-1.1 s and has a total duration of ~4.0 s.\nThe emission is seen up to 3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240124_T76473/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.57(-0.85,+2.93)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0+0.228s,\nof 4.33(-1.37,+3.93)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nA time-averaged spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.40(-0.35,+0.44)\nand Ep = 270(-94,+1040) keV (chi2 = 113/97 dof).\nFitting by a GRB (Band) model yields close alpha and Ep,\nand an upper limit on the high energy photon index: beta < -1.9\n(chi2 = 112/96 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary.\n"
+}

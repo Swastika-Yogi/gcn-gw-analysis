@@ -1,0 +1,10 @@
+{
+  "subject": "GRB051021B: Swift/UVOT Upper limits",
+  "eventId": "GRB 051021B",
+  "bibcode": "2005GCN..4167....1B",
+  "createdOn": 1130358832000,
+  "circularId": 4167,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU), A. Retter (PSU), F. Marshall (GSFC),\nA. Smale (NASA HQ), N. Gehrels (GSFC)\non behalf of the Swift/UVOT team report:\n\nSwift-UVOT observed the field of GRB 051021B\n(BAT Trigger=160672; Retter et al. GCN 4126)\nstarting at 2005-10-21 23:33:11, 78 seconds after the burst.\n\nNo source was detected within the XRT error circle\n(Racusin et al GCN 4128) during the first 200 second image\n(Tmid=178 seconds after the burst) down to a 3 sigma\nlimiting magnitude of V=19.  Using summed images,\nwe also did not detect a source in any of our 6 filters\ndown to the following 3-sigma magnitude upper limits:\n\nFilter  T_range(sec)   Exp(sec)  3sigUL\nV       78-19380       1779      19.9\nB       444-17793      1634      21.1\nU       390-13591      961       19.9\nW1      336-12417      1199      19.5\nM2      282-12005      1199      19.6\nW2      553-18702      1940      20.0\nWhite   498-926        100       19.5\n\nWhere T_range is time post-trigger.\n\nWe note that this position is near the galactic\nplane, so the extinction and background in this line of sight are high."
+}

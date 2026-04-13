@@ -1,0 +1,9 @@
+{
+  "subject": "IGR J00291+5934: Swift-BAT refined analysis",
+  "bibcode": "2015GCN.18056....1C",
+  "createdOn": 1437747491000,
+  "circularId": 18056,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), M. Stamatikos (OSU), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+603 sec from recent telemetry downlinks,\nwe report further analysis of the trigger #650140 on IGR J00291+5934\n(Cummings, et al., GCN Circ. 18051).  The BAT ground-calculated position is\nRA, Dec = 7.221, 59.546 deg, which is \n   RA(J2000)  =  00h 28m 53.0s \n   Dec(J2000) = +59d 32' 44.3\" \nwith an uncertainty of 3.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 70%.\n \nThe mask-weighted light curve shows constant low-level emission (0.03 cnts/cm2/sec\nin the 15-350 keV band)) starting at ~T-118, when the source location came\ninto the BAT FoV during a pre-planned slew, out to at least T+603 sec\nwhen we no long have data.\n \nThe time-averaged spectrum from T+0 to T+603 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.01 +- 0.32.  The fluence (over this window of data) in the 15-150 keV band\nis 1.4 +- 0.3 x 10^-6 erg/cm2.  All the quoted errors are at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/650140/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060211A: Partial refined analysis on the Swift-BAT burst",
+  "eventId": "GRB 060211A",
+  "bibcode": "2006GCN..4751....1S",
+  "createdOn": 1139764001000,
+  "circularId": 4751,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "G. Sato (ISAS), L. Barbier (GSFC), S. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (GSFC/UMD), C. Hurkett (U Leicester), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing a paritally downloaded data set from T-60 to T+123 sec\nfrom a recent telemetry downlink, we report further analysis\nof BAT GRB 060211A (trigger #181126) (Hurkett, et al., GCN 4736).\nThe BAT ground-calculated position is RA,Dec = 58.361,+21.485 deg\n{3h 53m 26.6s,+21d 29' 4.4\"} (J2000) +- 1.5 arcmin, (radius, sys+stat,\n90% containment).  The partial coding was 100%.\n \nUsing data from T-60 to +123, the lightcurve shows some very weak emission\nstarting at T_zero out to T+50, then the bulk of the emission is \nfrom T+50 to T+100 with weak emission extending out to T+123\nwhere our downloaded data set currently ends.  T90 (15-350 keV) is 43 +- 10 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T+47.8 to T+97.1 is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.40 +- 0.64, \nand an Epeak of 94 +- 49 keV (chi squared 42 for 56 d.o.f.).  \nFor this model the total fluence in the 15-150 keV band is\n8.2 +- 0.8 x 10^-07 erg/cm2 and the 1-sec peak flux measured\nfrom T+53.94 sec in the 15-150 keV band is 0.3 +- 0.1 ph/cm2/sec.  \nA fit to a simple power law gives a photon index of 1.30 +- 0.14\n(chi squared 49 for 57 d.o.f.).  All the quoted errors are at the 90%\nconfidence level."
+}

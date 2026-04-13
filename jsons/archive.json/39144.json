@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250202B",
+  "eventId": "GRB 250202B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39144....1S",
+  "createdOn": 1738691195913,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 39144,
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nG. Waratkar, J.Joshi, V. Bhalerao, D. Bhattacharya,\nand S. Vadawale, on behalf of the Astrosat-CZTI team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe bright long-duration GRB 250202B\n(Fermi-GBM detection: The Fermi GBM team, GCN 39120;\nBala et al., GCN 39133;\nAstroSat-CZTI detection: Srijan et al., GCN 39122;\nNuSTAR-ACS detection: Grefenstette, GCN 39135)\nwas detected by Fermi (GBM trigger 760161442), AstroSat (CZTI),\nSwift (BAT), Konus-Wind, and INTEGRAL (SPI-ACS)\nat about 14237 s UT (03:57:17).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  344.999 (22h 60m 00s) +19.593 (+19d 35' 35\")\n Corners:\n  343.557 (22h 54m 14s) +22.051 (+22d 03' 04\")\n  347.168 (23h 08m 40s) +17.149 (+17d 08' 56\")\n  346.317 (23h 05m 16s) +17.129 (+17d 07' 44\")\n  342.644 (22h 50m 34s) +22.024 (+22d 01' 27\")\n ---------------------------------------------\nThe error box area is 4.1 sq. deg, and its maximum\ndimension is 6.5 deg (the minimum one is 41.5 arcmin).\nThe Sun distance was 45 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM (GCN 39120) localization.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250202_T14235/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

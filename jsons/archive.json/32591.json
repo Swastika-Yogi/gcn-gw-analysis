@@ -1,0 +1,10 @@
+{
+  "subject": "Ultra-long GRB 220525B: Konus-Wind and Fermi-GBM detection",
+  "eventId": "GRB 220525B",
+  "bibcode": "2022GCN.32591....1S",
+  "createdOn": 1664226115000,
+  "circularId": 32591,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, M. Ulanov, A. Tsvetkova,\nA. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team\n\nand\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\nreport:\n\nThe ultra-long GRB 220525B was initially found in\nthe Konus-Wind (KW) waiting mode data.\n\nAs observed by Konus-Wind the source of the burst\nis in the southern ecliptic hemisphere\nat ecliptic latitude of -32 +/- 22 deg (3 sigma).\n\nA Bayesian block analysis of the KW waiting mode data in\nthe 20-1600 keV band reveals a 30 sigma count rate increase\nover background in the interval from 13447 s UT (03:44:07),\nhereafter T0, to 18763 s UT (05:12:43; T0 + 5316 s).\nThe burst lightcurve shows a single smooth pulse peaking at ~T0+600 s.\n\nThe Konus-Wind lightcurve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220525B/\n\nAs observed by Konus-Wind, the burst had a fluence of\n1.94(-0.11,+0.13)x10^-4 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0+521 s, of 3.55(-0.77,+0.78)x10^-7 erg/cm2/s\n(both in the 20 - 1500 keV energy band).\n\nThe KW 3-channel time-integrated spectrum\n(from T0 to T0 + 3147 s)\ncan be described by a cutoff power-law model\nwith alpha = -0.24(-0.14,+0.15) and Ep = 478(-33,+48) keV.\n\nAll the quoted KW errors are estimated at the 1 sigma confidence level.\n\nThe Fermi-GBM Earth Occultation Technique was run over positions\ncovering the Konus-Wind ecliptic band, identifying a setting step of\na bright, uncatalogued source. The region that becomes occulted by Earth\nfor Fermi during the step time is weighted by the Konus-Wind ecliptic\nband to generate the HEALPix map available at the Konus summary link."
+}

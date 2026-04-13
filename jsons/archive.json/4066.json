@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051006: XRT refined analysis",
+  "eventId": "GRB 051006",
+  "bibcode": "2005GCN..4066....1C",
+  "createdOn": 1128708272000,
+  "circularId": 4066,
+  "submitter": "Milvia Capalbi at ISAC/ASDC  <capalbi@asdc.asi.it>",
+  "email": "capalbi@asdc.asi.it",
+  "body": "M. Capalbi, M. Perri (ASDC), J. Kennea, D.N. Burrows, D. Morris (PSU), \nL. Angelini (GSFC-JHU), J. Greiner (MPE) report on behalf of the Swift \nXRT team:\n\nWe have analyzed the first six orbits of the Swift XRT data for GRB \n051006 ((trigger #158593, Norris et al., GCN 4061). The refined \ncoordinates of the X-ray afterglow are:\n\nRA(J2000) = 07 23 13.7\nDec(J2000) = +09 30 20.3\n\nwith an estimated uncertainty of 8 arcseconds radius (90% containment).\nThis position is 16 arcseconds from the BAT refined position (Palmer et\nal., GCN 4063), 3.7 arcseconds from the early XRT position (Morris et \nal., GCN 4062) and 3.7 arcseconds from the optical source reported by de \nUgarte et al. (GCN 4064).\n\nData in  Windowed Timing (WT) mode starts at 20:32:26 UT, 113 seconds\nafter the BAT trigger, then the XRT switched to Photon Counting mode.\n\nThe light curve shows a flaring behaviour in the first orbit,and has a \ndecay index of -1.7 +/- 0.05 obtained excluding the flare time interval.\n\nA preliminary spectral fit (simple absorbed power-law) to the WT data\nyields a photon index of 1.6 +/- 0.4 in the 0.7-10 keV band.\nThe derived NH is (7 +/- 3)E21 cm^-2, which is higher than the Galactic\nvalue  (8.6E+20 cm-2; Dickey & Lockman 1990)."
+}

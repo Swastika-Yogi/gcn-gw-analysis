@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070531: Swift detection of a burst",
+  "eventId": "GRB 070531",
+  "bibcode": "2007GCN..6475....1M",
+  "createdOn": 1180578645000,
+  "circularId": 6475,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "C. B. Markwardt (GSFC/UMD), L. M. Barbier (NASA/GSFC),\nS. D. Barthelmy (GSFC), M. M. Chester (PSU), N. Gehrels (NASA/GSFC),\nS. D. Hunsberger (PSU), F. E. Marshall (NASA/GSFC),\nK. L. Page (U Leicester), D. M. Palmer (LANL) and\nM. Stamatikos (NASA/ORAU) report on behalf of the Swift Team:\n\nAt 02:10:17 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 070531 (trigger=280958).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 6.678, +74.304 which is \n   RA(J2000)  =  00h 26m 43s\n   Dec(J2000) = +74d 18' 14\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single FRED-like peak\nwith a duration of about 20 sec.  The peak count rate\nwas ~1000 counts/sec (15-350 keV), at ~2 sec after the trigger. \n\nThe XRT began taking data at 02:12:25 UT, 128 seconds after the BAT\ntrigger.  The XRT on-board centroid algorithm did not find a source in the\nimage and no prompt position is available.  We are waiting for down-linked\ndata to detect and determine a position for the source. \n\nUVOT took a finding chart exposure of 100 seconds with the White (160-650 nm)\nfilter starting 131 seconds after the BAT trigger. No afterglow candidate has\nbeen found in the initial data products. The 2.7'x2.7' sub-image covers 25% of\nthe BAT error circle. The typical 3-sigma upper limit has been about 18.5 mag. \nThe 8'x8' region for the list of sources generated on-board covers 100% of the\nBAT error circle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the expected extinction corresponding to E(B-V) of\n0.38."
+}

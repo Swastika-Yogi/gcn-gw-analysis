@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080411: Swift/UVOT refined analysis",
+  "eventId": "GRB 080411",
+  "bibcode": "2008GCN..7592....1O",
+  "createdOn": 1208013769000,
+  "circularId": 7592,
+  "submitter": "Andy Beardmore at U Leicester  <apb@star.le.ac.uk>",
+  "email": "apb@star.le.ac.uk",
+  "body": "S. R. Oates and F. Marshall report on behalf of the Swift/UVOT team.\n\nThe Swift/UVOT observed the field of GRB 080411 starting at 4202s\nafter the BAT trigger (Marshall et al., GCN 7584).  We detect the\nafterglow in white, v, b, u and uvw2 filters at the position:\n\nRA(J2000.0)  =  02:31:55.19\nDEC(J2000.0) = -71:18:07.30\n\nwith an etimated uncertainty of 0.5 arcsec (radius, 90% confidence).\nThis position is consistent with the optical afterglow position\nreported by GROND (Kruehler et al., GCN 7586). The UVOT did not\nperform observations in uvw1 and uvm2 filters. The following\nmagnitudes were obtained:\n\nFilter    T_Mid(s)   Expo(s)            Magnitude\n-----------------------------------------------------\nWhite      4251        98              17.01 +/- 0.03\nWhite      22869       295             18.09 +/- 0.03\nv          16808       177             18.05 +/- 0.12\nb          4615        197             17.43 +/- 0.05\nb          21653       295             18.39 +/- 0.09\nu          4410        197             16.46 +/- 0.04\nuvw2       16260       886             18.41 +/- 0.07\n-----------------------------------------------------\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.04 mag (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT flight system\ndescribed in Poole et al.  (2008, MNRAS, 383, 627)."
+}

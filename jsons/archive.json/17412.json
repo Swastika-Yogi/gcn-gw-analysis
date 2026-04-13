@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150204A: LCOGT-Sutherland and Siding Springs observations",
+  "eventId": "GRB 150204A",
+  "bibcode": "2015GCN.17412....1D",
+  "createdOn": 1423165050000,
+  "circularId": 17412,
+  "submitter": "Simone Dichiara at Ferrara U/Italy  <dichiara@fe.infn.it>",
+  "email": "dichiara@fe.infn.it",
+  "body": "S. Dichiara, C. Guidorzi (U. Ferrara), D. Kopac,\nA. Gomboc (U. Ljubljana), C.G. Mundell (LJMU),\non behalf of a large collaboration report:\n\nTwo of the Las Cumbres Observatory 1-m telescopes in Sutherland\n(South Africa) began observing simultaneously Swift and Fermi\nGRB 150204A (Cummings et al. GCN 17404; Burns & Yu GCN 17408)\non February 04 at 19:47:41 UT, i.e. ~13.3 hours after the GRB,\nwith the r' and i' filters.\nWe re-observed with two 1-m telescopes in Siding Springs\n(Australia) starting on February 05 at 13:58:33 (~31.4 hours)\nwith the same filters.\n\nWithin the XRT error circle (Melandri et al. GCN 17409)\nwe found no new source down to the following limit:\n\nMid time from  Total Exp   Filter    Magnitude\ntrigger (hr)   (s)\n-------------------------------------------------\n13.37          120x10      r'         > 19.6\n13.56          120x10      i'         > 18.6\n-------------------------------------------------\n\nWe found two uncatalogued sources close to the XRT error circle\nat RA=10:40:55.98 Dec=-64:02:26.01 and RA=10:40:56.51 Dec=-64:02:13.8 (J2000)\nwith magnitudes r=19.68 +- 0.13 i=18.32 +- 0.13, r=19.47 +- 0.12\ni=18.23 +- 0.12, respectively. However, image subtraction revealed\nno significant variation between the two epochs.\nThe same conclusion holds for the entire BAT error circle\n(Stamatikos et al. GCN 17406).\nMagnitudes are calibrated against nearby USNO-B1 R2 and I\nvalues."
+}

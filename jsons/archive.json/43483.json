@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260120B: SVOM/C-GFT optical counterpart detection",
+  "eventId": "GRB 260120B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43483....1W",
+  "createdOn": 1768957709296,
+  "circularId": 43483,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "C. Wu (NAOC), Z. Kang (CHO), L.P. Xin, X.H. Han, P.P. Zhang, X.M. Lu (NAOC), Z.W. Li, Y. Lv (CHO), R.S. Zhang, Y.J. Xiao, Y.L. Qiu, J. Wang, J.S. Deng, L. Huang, J.Y. Wei (NAOC)  report on behalf of the SVOM/C-GFT team:\n\n\nWe observed the field of GRB 260120B detected by Fermi/GBM(Fermi GBM team, GCN 43477) and Swift/BAT (Ferro et al., GCN 43479) with LATIOS on SVOM/C-GFT. Observa-tions started at 2026-01-20T18:01:29 UTC, ~63 seconds after the trigger. \n\nAn uncatalogued  optical source, compared to Legacy Surveys DR10 Source Catalog, is detected in our images within the  localization error circle (Ferro et al., GCN 43479)  at:\n\nRA (J2000) =  18h58m38.35s = 284.65980 degrees\n\nDec (J2000) = +61d54m18s   =    61.90508 degrees\n\nwith an uncertainty of ~0.5 arcsec.\n\nThe magnitudes are:\n\n| Mid_t-T0(s) | exposure time (s) | band | mag (AB) | mag_err|\n|-------------|-------------------|------|----------|--------|\n|  68         |  1x10             |  i    | 15.74   | 0.04   |\n|  634         |  6x30             |  g   | 19.18  | 0.12  |\n|  854        |  6x30             |  r    | 19.03   | 0.12   |\n\nThe brightness decays very rapidly, with the source fading by ~3.4 mag in the i band over 1000 s starting at T0+68 s.\n\nThe photometry was calibrated against nearby stars in UCAC4 catalogue and no correction for Galactic dust extinction was applied.\n\n\n\nWe thank the observation assistants Hong-Xv Xue and Bo-Wen Li at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

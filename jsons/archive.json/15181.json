@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130903A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 130903A",
+  "bibcode": "2013GCN.15181....1H",
+  "createdOn": 1378414695000,
+  "circularId": 15181,
+  "submitter": "Stephen Holland at STScI  <sholland@stsci.edu>",
+  "email": "sholland@stsci.edu",
+  "body": "S. T. Holland (STScI) and Dirk Grupe (PSU)\nreport on behalf of the Swift/UVOT team:\n\n     The Swift/UVOT began observations of the field of GRB 130903A\nstarting 44.1 ks after the INTEGRAL/IBAS trigger (Mereghetti et\nal. 2013, GCNC 15169).  We do not detect any new source consistent\nwith the GROND afterglow position (Tanga et al. 2013, GCNC 15177) in\nany of the UVOT exposures.  Preliminary 3-sigma upper limits using the\nUVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358,\n373) for the summed exposures are presented below.\n\n---------------------------------------------------\nFilter       TSTART      TSTOP    Exposure      Mag\n---------------------------------------------------\n    v        44,128     51,114        2461    >21.2\n    u        45,378     51,795        1442    >21.3\n---------------------------------------------------\n\n     The quoted upper limits have not been corrected for the expected\nextinction due to the Galactic reddening along the line of sight to\nthis burst of E(B-V) = 0.12 mag (Schlafly et al. 2011, ApJS, 737,\n103)."
+}

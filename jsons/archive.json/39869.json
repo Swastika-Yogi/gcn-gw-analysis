@@ -1,0 +1,13 @@
+{
+  "subject": "Swift follow-up observations of FRB250316A and EP J120944.2+585060",
+  "editedOn": 1745331197767,
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39869....1T",
+  "createdOn": 1742923597832,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov>",
+  "circularId": 39869,
+  "submitter": "Eleonora <nora.gsfc@gmail.com>",
+  "format": "text/plain",
+  "body": "E. Troja ( U Rome), Y.-H. Yang ( U Rome), S. Dichiara (PSU), M. E. Kabir (U Rome) and H. Sun (NAO, CAS)  report:\n\n\nWe reobserved the field of FRB 20250316A (ATel #17081) with Swift starting on 2025-03-23 (~7 days after the FRB) for a total exposure of 10 ks. \n \nA blind search does not identify any X-ray source consistent with the CHIME localization (ATel #17086). However, a targeted search at the position of EP J120944.2+585060 (Sun et al., ATel #17100) finds a weak X-ray source at RA, Dec (J2000) = 182.4369,  58.8471 deg with a 90% error radius of 6 arcsec (stat+sys), as derived by xrtcentroid. The detection is significant at the >99.7% confidence level (Kraft, Nousek, and Burrows, 1991). A finder chart can be found at:\n\nhttps://nora.users.roma2.infn.it/FRB250316A.png\n\nBased on a preliminary analysis, we infer a count rate of (7 +/- 3)E-4 cts/s which corresponds to an observed flux of (2.4 +/- 1.0)E-14 erg/cm2/s (0.3-10 keV) assuming an absorbed power-law spectrum with a photon index of 2 and NH = 1.4E+20 cm^-2. Our observations are consistent with the reported flux for EP J120944.2+585060 (Sun et al., ATel #17100) and do not show substantial variability. \n\nWe performed an independent analysis of the first epoch of Swift observations, taken at 12 hrs after the burst (Yang et al., ATel #17101). Using the above XRT position, we derive a 90% upper limit of 7E-4 cts/s,  consistent with our reported value. \n \nWithin the XRT localization, no optical counterpart is visible in the Swift UVOT White images down to >22.3 AB mag\n \nWe thank the Swift team for scheduling these observations.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 171010B: Swift detection of a burst",
+  "eventId": "GRB 171010B",
+  "bibcode": "2017GCN.21995....1P",
+  "createdOn": 1507749491000,
+  "circularId": 21995,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL) and A. Y. Lien (GSFC/UMBC),\nreport on behalf of the Swift team:\n\nAt 20:59:24.168 UT on 2017-10-10, the Swift Burst Alert Telescope (BAT) triggered on\nGRB 171010B (trigger=778019). However, on-board analysis was truncated by\na pre-planned slew to a scheduled target.  Subsequent ground analysis\nusing data from T+1 to T+11 s finds the source at a location of\nRA, Dec = 34.123, -54.410 deg which is \n  RA(J2000)  =  02h 16m 29.6s \n  Dec(J2000) = -54d -24' -36.7\" \nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 71%.\n\nThe BAT light curve shows a single-peaked structure that starts and peaks at ~T0, \nand ends at ~ T+30 s. Because the burst was not identified on board, the event \ndata available (~T+1 to ~T+11) do not cover the entire burst duration.\nT90 estimated from the BAT raw light curve (15-350 keV) is about 30.4 s.\n\nThe time-averaged spectrum from T+1.0 to T+11.1 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.41 +- 0.18.  The fluence in the 15-150 keV band is 3.9 +- 0.5 x 10^-7 erg/cm2.\nAll the quoted errors are at the 90% confidence level.\n\nThis event was also detected by Fermi/GBM (trigger 529361971).\n\nA Swift Target of Opportunity observation has been requested.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/778019/BA/"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250507A: SVOM/VT optical upper limit",
+  "eventId": "GRB 250507A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40379....1X",
+  "createdOn": 1746615672613,
+  "circularId": 40379,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "L. P. Xin, Y. L. Qiu, H. L. Li, C. Wu, Z. H. Yao, Y. N. Ma, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. S. Deng, J. Y. Wei (NAOC), J. T. Palmerio (CEA), Z. Q. Wang (GXU), Y. F. Liang (PMO), W. K. Zheng (UCB) report on behalf of the SVOM/VT instrument team.\n\nAfter the trigger by SVOM/ECLAIRs at 2025-05-07T06:34:45 UT (SVOM burst-id sb25050703), SVOM performed an automatic slew on the burst. SVOM/VT began observing the field at 260 seconds after the SVOM trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nWith the downlinked X band data, no any uncataloged sources are detected in single or stacked imags within the errorbox of Eclairs or MXT (Wang et al., GCN 40374), compared to the Legacy survey. \n\nThe 3 sigma upper limits are derived below:\n\nMid_time  |   Exposure time  |  Band  |   Upper limit (AB)\n550 sec   |  10*50 sec       |  VT_B  |   22.8\n550 sec   |  10*50 sec       |  VT_R  |   22.7\n1225 sec  |  38*50 sec       |  VT_B  |   23.2\n1225 sec  |  38*50 sec       |  VT_R  |   23.1\n\nThis results are consistent with the report (J.-G. Ducoin et al. GCN 40376).\n\nGiven the bright X-ray counterpart (Wang et al., GCN 40374), and the deep optical upper limit at the early phase of the burst, near infrared observations are encouraged to investigate the nature of the burst.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n"
+}

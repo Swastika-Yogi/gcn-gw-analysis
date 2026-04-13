@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 160119A",
+  "eventId": "GRB 160119A",
+  "bibcode": "2016GCN.18911....1K",
+  "createdOn": 1453381065000,
+  "circularId": 18911,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 160119A (Swift-BAT trigger #671014:\nMarshall, et al., GCN Circ. 18893, Stamatikos, et al.,\nGCN Circ. 18899) was detected by Konus-Wind in the waiting mode.\n\nThe burst light curve shows a weak count rate increase\nstarting from ~T0(BAT)+9 s. The main phase of the event\nconsists of a single peak from ~T0(BAT)+120 s to ~T0(BAT)+175 s.\nAs calculated from the Bayesian block division,\nthe total duration of the burst is ~215 s.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB160119A/\n\nAs observed by Konus-Wind, the burst had a fluence of\n1.68(-0.18,+0.19)x10^-5 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(BAT)+144.3 s, of 6.39(-0.85,+0.89)x10^-7 erg/cm2/s\n(both in the 20 - 1200 keV energy range).\n\nModelling the K-W 3-channel time-integrated spectrum\n(measured from ~T0(BAT)+8.9 s to ~T0(BAT)+223.8 s)\nby the cutoff power law yields the following model parameters:\nthe photon index alpha = -1.73(-0.12,+0.15),\nand the peak energy Ep = 189(-53,+231) keV.\n\nModelling the 3-channel spectrum near the peak count rate\n(from ~T0(BAT)+138.4 s to ~T0(BAT)+150.2 s)\nby the cutoff power law yields the following model parameters:\nthe photon index alpha = -1.16(-0.13,+0.15),\nand the peak energy Ep = 187(-25,+34) keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

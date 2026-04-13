@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051105: Swift detection of a short burst",
+  "eventId": "GRB 051105",
+  "bibcode": "2005GCN..4188....1M",
+  "createdOn": 1131175062000,
+  "circularId": 4188,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "T. Mineo (IASF-Pa/INAF), L. Barbier (GSFC), S. Barthelmy (GSFC),\nD. Burrows (PSU), M. Chester (PSU), N. Gehrels (GSFC), J. Kennea (PSU),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nG. Tagliaferri (OAB/INAF)\non behalf of the Swift team:\n\nAt 06:26:41 UT, Swift-BAT triggered and located GRB 051105 (trigger=162580).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 265.289d,+34.921d {17h 41m 09s,+34d 55' 15\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe BAT light curve shows a single spike with a total duration\nof less than 128 msec.  The peak count rate was ~3000 counts/sec (15-350 keV),\nat 0.0 seconds after the trigger.\n\nXRT began observing at 06:27:49.09 UT, 67.6 sec after BAT Trigger time.\nThe on-board detection algorithm failed to find a centroid due to low source\ncounts.  The XRT light curve shows no X-ray emission in the field.  Further\nanalysis will require processing of the XRT full telemetry data following\nthe next ground station contact.\n\nThe UVOT began observing at 06:27:48 UT, 66.5 sec after the BAT trigger.  \nDue to a delay in receipt of the initial data files, no results are\ncurrently available.  The V-band extinction in the direction of the\nBAT GRB position is A_V = 0.11."
+}

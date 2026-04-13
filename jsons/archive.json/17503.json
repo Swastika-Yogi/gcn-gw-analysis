@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 150220A",
+  "eventId": "GRB 150220A",
+  "bibcode": "2015GCN.17503....1G",
+  "createdOn": 1424792047000,
+  "circularId": 17503,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "S. Golenetskii, R. Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 150220A (IPN triangulation: Hurley et al., GCN \nCirc. 17502) triggered Konus-Wind at T0=51704.661 s UT (14:21:44.661).\n\nThe burst light curve shows two emission episodes separated by ~100 s\nwith a total duration of ~160 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB150220_T51704/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.00(-0.29,+0.37)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+13.568 s,\nof 4.61(-1.05,+1.07)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+147.712 s)\nis best fit in the 20 keV - 3 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.86(-0.29,+0.34)\nand Ep = 211(-34,+55) keV (chi2 = 49/64 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.2\n(chi2 = 48/63 dof)\n\nThe spectrum near the maximum count rate\n(measured from T0+8.448 to T0+16.640 s)\nis best fit in the 20 keV - 3 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.98(-0.17,+0.19)\nand Ep = 225(-28,+38) keV (chi2 = 54/64 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 55/63 dof)\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

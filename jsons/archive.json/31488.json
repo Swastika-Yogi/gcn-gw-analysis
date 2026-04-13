@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220117A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 220117A",
+  "bibcode": "2022GCN.31488....1I",
+  "createdOn": 1642527021000,
+  "circularId": 31488,
+  "submitter": "Naohiro Ito at Tokyo Tech  <n.ito@hp.phys.titech.ac.jp>",
+  "email": "n.ito@hp.phys.titech.ac.jp",
+  "body": "N. Ito, R. Hosokawa, K. L. Murata, M. Niwano, Y. Imai, Y. Takamatsu,\nR. Yamaguchi, R. Noto, S. Sato, M. Takaku, Y. Yatsu, and N. Kawai\n(Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 220117A (A. Melandri et al. GCN Circular\n#31466, S.Y. Fu et al. GCN Circular #31467, V. Lipunov et al. GCN\nCircular #31470, A.P. Beardmore et al. GCN Circular #31472, J.A.\nKennea et al. GCN Circular #31477, J. Palmerio et al. GCN Circular\n#31480, R. Strausbaugh et al. GCN Circular #31481, A. A. Breeveld et\nal. GCN Circular #31482, D. M. Palmer et al. GCN Circular #31485, P.\nVeres et al. GCN Circular #31487) with the optical three color (g',\nRc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope Akeno.\nThe observation with a series of 60 sec exposures started at\n2022-01-18 10:26:37 UT (18.1 hours after Swift trigger). We stacked\nthe images with good conditions. We did not detect any sources within\nthe XRT error region (A.P. Beardmore et al. GCN Circular #31472). We\nobtained the 5-sigma limits of the stacked images as follows.\n\nT0+[hours] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n21.3 2022-01-18 13:34:36 7740 g'>19.0, Rc>19.5, Ic>19.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages\n4-24; https://github.com/MNiwano/Eclaire)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110402A: Konus-Wind spectral lags and detailed energetics",
+  "eventId": "GRB 110402A",
+  "bibcode": "2011GCN.11879....1F",
+  "createdOn": 1301936729000,
+  "circularId": 11879,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks and D. Svinkin on behalf of the Konus-Wind team,\nreport:\n\n1. The further analysis of the Konus-Wind detection (GCN 11869)\nof GRB 110402A (GCN 11857, 11866) confirms the zero spectral\nlag in the initial hard pulse reported with the Swift-BAT data\n(Barthelmy and Norris, GCN 11870).\nThe following lag values between the Konus-Wind light curves\nare obtained:\n-------------------------------------------------------------\nLC1(keV)     LC2(keV)   Search Interval(s) Scale   Lag(ms)\n-------------------------------------------------------------\nG2(70-300)   G1(18-70)   -0.512:+0.320     8 ms   +3.5 � 12.5\nG3(300-1160) G1(18-70)   -0.512:+0.280     8 ms   +3.2 � 12.3\nG3(300-1160) G2(70-300)  -0.340:+0.320     4 ms   -0.3 � 4.8\n-------------------------------------------------------------\nThe errors are given on 1 sigma level.\n\n2. The total burst fluence S=(1.6 � 0.5)x10-5 erg/cm2 reported\nin GCN 11869 is divided between the hard initial pulse and\nthe softer extended emission as follows:\nT0(-0.512 : +2.816) -> S1=(5.7 � 1.9)x10-6 erg/cm2 (initial pulse)\nT0(2.816 : +65.792) -> S2=(9.9 � 2.9)x10-6 erg/cm2 (extended emission)\n\nThe K-W spectrum of the latter part (measured from T0+8.448s\nto T0+65.792s) can be fitted in the 20-5000 keV range\nby the simple power law function with the index of (1.81 � 0.13),\nchi2 = 93.4/78\n\nThe errors are given on 90% confidence level.\n\nAll times are given relative to K-W T0=781.989s UT."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250127A: CrAO and Terskol optical upper limits",
+  "eventId": "GRB 250127A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39083....1P",
+  "createdOn": 1738156278463,
+  "circularId": 39083,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), V. Rumyantsev (CrAO), I. Sokolov (INASAN) report on behalf of the IKI-GRB-FuN:\n\nWe performed optical observations of the field of GRB 250127A (Wu et. al, GCN 39041; Turpin et. al, GCN 39043; Evans, GCN 39044; Xin et. al, GCN 39047; Yin et. al, GCN 39053; Kennea et. al, GCN 39056) in the R-filter using the 2.6-meter ZTSh telescope of the Crimean Astrophysical Observatory (CrAO), and in Clear light with the 0.8-meter K-800 telescope of the Terskol Observatory (INASAN). The observations began on 2025-01-27 23:27 UT, i.e. ~0.022 days since SVOM trigger. We do not detect any new sources spatially consistent with the X-Ray afterglow position reported by the Swift XRT team (Kennea et. al, GCN 39056) and the EP-FXT team (Yin et. al, GCN 39053). The preliminary upper limits are given below:\n\nDate       UT start  t-T0         Exp.    Filter    UL(3sigma) Telescope\n                     (mid, days)  (s)\n2025-01-27 23:27:51  0.02251      87*30   Clear     18.2       K-800\n2025-01-28 00:08:00  0.80364      14*120  R         23.7       ZTSh\n  \n\nThe photometry has calibrated using nearby stars from the USNO-B1.0 catalog (R2 magnitudes). No correction has been made for the Galactic extinction A_R = 0.119 (Schlegel & Finkbeiner, 1998).\n"
+}

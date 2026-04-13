@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080714: Swift/UVOT Detection of an Optical Afterglow",
+  "eventId": "GRB 080714",
+  "bibcode": "2008GCN..7982....1M",
+  "createdOn": 1216138000000,
+  "circularId": 7982,
+  "submitter": "Frank Marshall at GSFC  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F.E. Marshall (NASA/GSFC) and M. Perri (ASDC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 080714 starting 90 s after\nthe BAT trigger (Perri et al., GCN Circ. 7978).  The burst is in\na crowded field only 2.5 degrees from the Galactic Plane. \nWe find a fading source inside the enhanced XRT error circle \n(Goad et al., GCN Circ. 7980) in observations with the White and \nV filters. The preliminary position for the afterglow is:\n\n  RA(J2000)  =  12:32:25.44 = 188.1060\n  DEC(J2000) = -60:16:40.4  = -60.2779\n\nwith a 90% confidence error radius of about 0.8 arcsec.\n\nThe measured magnitudes in the UVOT photometric system (Poole et al.\n2008, MNRAS, 383, 627) and 3-sigma upper limits for detecting\na source in the first two finding chart (FC) exposures and \nsubsequent co-added exposures are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)       Mag \n\nwhite (FC)          90          189           98         20.2 +/- 0.2\nwhite             4290         4489          197        >20.7\nv (FC)             197          596          393         19.1 +/- 0.2\nv                 5896         6095          197        >19.7\nb                  677         4284          206        >20.2\nu                  652        12382         1137        >20.7\nuvw1               628         6505          236        >19.7\nuvm2               602         6300          236        >19.9\nuvw2               707        16498         1007        >20.8\n\nThe values quoted above are not corrected for the predicted large, but uncertain,\nGalactic extinction the direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180113B: Fermi GBM detection",
+  "eventId": "GRB 180113B",
+  "bibcode": "2018GCN.22329....1V",
+  "createdOn": 1515865600000,
+  "circularId": 22329,
+  "submitter": "Peter Veres at UAH  <veresp@gmail.com>",
+  "email": "veresp@gmail.com",
+  "body": "P. Veres and C. Meegan (both UAH)\nreport on behalf of the Fermi GBM Team:\n\n\"At 00:16:00.47 UT on 13 January 2018, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 180113B (trigger 537495365 / 180113011).\n\nThe on-ground calculated location, using the GBM trigger\ndata, is RA = 354.0, DEC = 13.5 (J2000 degrees,\nequivalent to 23 h 36 m, 13 d 28 '), with an uncertainty\nof 1.2 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90% of\nGRBs having a 3.7 deg error and a small tail suffering a larger than 10 deg\nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 88 degrees.\n\nThe GBM light curve consists of multiple pulses\nwith a duration (T90) of about 15.9 s (50-300 keV).\nThe time-averaged spectrum from T0-5.6 s to T0+17.0 s is\nbest fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -0.95 +/- 0.02 and\nthe cutoff energy, parameterized as Epeak, is 670 +/- 41 keV.\n\nA Band function fits the spectrum equally well with Epeak = 647 +/- 46 keV,\nalpha = -0.95 +/- 0.02, and beta = -2.70 +/- 0.37.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.539 +/- 0.017)E-5 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+3.2 s in the 10-1000 keV band\nis 36.9 +/- 0.5 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

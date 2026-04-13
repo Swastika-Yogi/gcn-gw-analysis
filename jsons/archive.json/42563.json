@@ -1,0 +1,11 @@
+{
+  "subject": "EP251102a: NIR observations with WINTER",
+  "eventId": "EP251102a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42563....1M",
+  "createdOn": 1762207344525,
+  "submitter": "Geoffrey Mo at Caltech / Carnegie Observatories <gmo@mit.edu>",
+  "circularId": 42563,
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (Caltech/Carnegie), Tomas Ahumada (Caltech), Viraj Karambelkar (Columbia/CCA), Benjamin Schneider (LAM), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of EP251102a (Liang et al., GCN 42548) in the near-infrared J band with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations began at 2025-11-03T10:34:56 UTC in the J band (13.2 hours after the EP trigger), consisting of 15 x 120 s exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar\n (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe do not detect a source at the optical counterpart location (Schneider et al., GCN 42544; Eyles-Ferris et al., GCN 42546) after image subtraction performed relative to J-band images from the UKIRT Hemisphere survey (Dye et al., 2017). We set a 3-sigma upper limit of J ~ 19.6 mag (AB) and a 5-sigma upper limit of J ~ 19.1 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research.\n"
+}

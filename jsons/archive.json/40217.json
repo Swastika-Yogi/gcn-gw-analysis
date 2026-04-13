@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM/sb25042207: XRT observations",
+  "eventId": "sb25042207",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40217....1D",
+  "createdOn": 1745415935012,
+  "circularId": 40217,
+  "submitter": "Antonino D'Ai' at IASF-PA <antonino.dai@inaf.it>",
+  "format": "text/plain",
+  "body": "Antonino D'Aì (INAF/IASFPA), J. A. Kennea (PSU), Elena Ambrosi (INAF/IASFPA), Valerio D'Elia (SSDC & INAF-OAR), Andrea Melandri (INAF-OAR) reports on behalf of the Swift-XRT team:\n\nWe have analysed 1.8 ks of XRT data for the SVOM/ECLAIRs-detected X-ray transient sb25042207 \n(Liang et al., GCN Circ. 40213), from T0+3.8 ks to T0+5.6 ks after the SVOM/ECLAIRs trigger. \nThe data are entirely in Photon Counting (PC) mode.\n\nWe detect two previously known X-ray sources and two uncatalogued X-ray sources within the ECLAIRs error circle. We note that the ECLAIRs error region overlaps with the Coma cluster region, a well-known galaxy cluster that exhibits significant diffuse X-ray emission.\n\nDetails of the uncatalogued sources:\n\nSource 2:\nRA (J2000): 194.93972 = 12:59:45.53\nDec (J2000): +27.8781 = +27:52:41.0\nError: 6.0 arcsec (radius, 90% confidence)\nCount rate: 8 (+5, -4) x 10^-3 ct/s\nFlux: [3.5 (+2.1, -1.9)] x 10^-13 erg/cm^2/s (observed, 0.3–10 keV)\n\nSource 4:\nRA (J2000): 195.13942 = 13:00:33.46\nDec (J2000): +27.7478 = +27:44:52.0\nError: 7.5 arcsec (radius, 90% confidence)\nCount rate: 0.011 (+0.005, -0.004) ct/s\nFlux: [4.8 (+2.1, -1.8)] x 10^-13 erg/cm^2/s (observed, 0.3–10 keV)\n\nBoth sources are below the RASS limit and show no definitive signs of fading.\n\nThe results of the XRT team's automatic analysis of the tiled XRT observations, \nincluding a position-specific upper limit calculator, are available at:\nhttps://www.swift.ac.uk/SVOM/SVOM_FIELD00013/\n\nThis circular is an official product of the Swift-XRT team."
+}

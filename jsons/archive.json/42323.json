@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251017A: BOOTES-5/JGT early optical afterglow detection",
+  "eventId": "GRB 251017A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42323....1P",
+  "createdOn": 1760693618191,
+  "submitter": "I. Perez-Garcia at Institute of Astrophysics of Andalusia <ipg@iaa.es>",
+  "circularId": 42323,
+  "format": "text/markdown",
+  "body": "I. Perez-Garcia, E. J. Fernandez-Garcia, G. Garcia-Segura, M. D. Caballero-Garcia, S.-Y. Wu, R. Sanchez-Ramirez, S. Guziy and A. J. Castro-Tirado (IAA-CSIC, Granada), M. Gritsevich (Univ. of Helsinki), C. Perez del Pulgar, A. Castellon (Univ. de Malaga), Y.-D. Hu (INAF-OAB, Brera), S. Jeong (ADD, Daejeon) and D. Hiriart and W. H. Lee (UNAM), on behalf of a larger collaboration, report:\n\nFollowing the detection of GRB 251017A by SWIFT/BAT trigger=1404904, the BOOTES-5/JG robotic telescope at Observatorio Astronomico Nacional in San Pedro Martir (Mexico) automatically responded to this event starting on 2025-10-17 08:41:17 UT (23 sec after detection). Series of 1 and 10 second images in clear filter were gathered and we detect an optical source consistent with the one reported by Gupta et al. (GCN 42322). Using GaiaDR3 Gmag as reference we report our photometry analysis:\n\n| UT  mid exposure    | mag   | error | filter | exposure time (sec) |\n| ------------------- | ----- | ----- | ------ | ------------------- |\n| 2025-10-17 08:41:17 | >16.5 | ---   | clear  | 1                   |\n| 2025-10-17 08:43:41 | 16.92 | 0.2   | clear  | 1                   |\n| 2025-10-17 08:47:57 | 17.51 | 0.08  | clear  | 10                  |\n| 2025-10-17 08:53:54 | 17.86 | 0.12  | clear  | 10                  |\n\nFurther analysis of the additional images is ongoing.\n\nWe thank the staff at Observatorio Astronomico Nacional in San Pedro Martir for their excellent support."
+}

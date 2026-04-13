@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250516B",
+  "eventId": "GRB 250516B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40506....1S",
+  "createdOn": 1747776290504,
+  "circularId": 40506,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nC. Wang, S. Xiong, S. Zheng and Y. Zhang,\non behalf of the Insight-HXMT and GECAM team,\n\nand \n\nM. Dafcikova, J. Ripa (Masaryk U.), A. Pal (Konkoly Observatory), \nN. Werner (Masaryk U.), M. Ohno, H. Takahashi (Hiroshima U.), \nL. Meszaros, B. Csak (Konkoly Observatory), F. Munz (Masaryk U.),\non behalf of the GRBAlpha team,\n\nreport:\n\nThe bright, long-duration GRB 250516B\n(GECAM-B detection: Wang et al., GCN 40469;\nNuSTAR-ACS detection: Grefenstette et al., GCN 40484;\nInsight-HXMT-HE detection: Wang et al., GCN 40489;\nGRBAlpha detection: Dafcikova et al., GCN 40496)\nwas detected by GECAM-B, GECAM-A, Konus-Wind, NuSTAR (ACS),\nInsight-HXMT (HE), Swift (BAT), and GRBAlpha\nat about 23492 s UT (06:31:32).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n -------------------------------\n  RA(2000), deg   Dec(2000), deg\n -------------------------------\n Center:\n  143.08          21.29\n Corners:\n  144.27          24.01\n  143.64          24.28\n  141.81          18.37\n  142.40          18.15\n -------------------------------\nThe error box area is 4.2 sq. deg, and its maximum\ndimension is 6.3 deg (the minimum one is 41 arcmin).\nThe Sun distance was 82 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250516_T23492/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular.\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241228A: GROWTH-India telescope optical upper limit",
+  "eventId": "GRB 241228A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38689....1M",
+  "createdOn": 1735403115254,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "circularId": 38689,
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Swain, A.P. Saikia, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of the GRB 241228A (D'Elia et al., GCN 38681) with the 0.7m GROWTH-India Telescope (GIT). Observation started at 2024-12-28T13:13:58 UT, about 9.27 hours after the trigger. We responded to the enhanced Swift-XRT coordinates (Evans et al., GCN 38683) and obtained multiple images of 360s in r' filter.\n\nThe obtained upper limit in our stacked image is:\n\n| MJD (mid)   | Filter | Exposure (s) | Limiting Magnitude (AB) |\n| ----------- | ------ | ------------ | ----------------------- |\n| 60672.56537 | r'     | 4x360        | 20.8\n\n\nThe upper limit is consistent with Kuin et al., GCN 38685.\n\nThe magnitude is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT, Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

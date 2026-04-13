@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251118C: Swift/BAT rates detection of a burst with a possible association with EP 251118A",
+  "eventId": "GRB 251118C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42770....1D",
+  "createdOn": 1763582817465,
+  "submitter": "Jimmy DeLaunay at Penn State <delauj2@gmail.com>",
+  "circularId": 42770,
+  "format": "text/plain",
+  "body": "James DeLaunay (PSU), Samuele Ronchini (GSSI), Aaron Tohuvavohu (Cosmic Frontier), Jamie A. Kennea (PSU), Tyler Parsotan (NASA GSFC), Maia Williams (Northwestern) report: \n\nSwift/BAT did not localize GRB 251118C onboard (T0: 2025-11-18T16:44:49 UTC, Konus-Wind GCN 42765, SVOM/GRM GCN 42766) \n\nDue to the lack of prompt trigger, the Gamma-ray Urgent Archiver for Novel Opportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1) was unable to save time-tagged event data around this burst.\n\nThe GRB is clearly detected in the BAT rates data with a S/N ~ 13. The emission is seen starting at ~T0 - 12 s and lasts ~28 s. \n\nThere are minimal counts seen at energies less than 50 keV, which is consistent with a GRB that is outside the coded field of view of BAT, especially with the soft spectrum observed by Konus-Wind and SVOM/GRM. There is also a 10 s time tagged event data file during the burst due to an onboard rate trigger that failed to recover an image position. We used the 10 s of event data to create an image (15 - 350 keV) and find no new sources in it. \n\nDue to the lack of sources in the image and the observed energy spectrum, this GRB is likely to be outside the 10% coded field of view of Swift/BAT. Also, we can confirm that the GRB is not Earth Occulted for Swift. This rules out a circular region of the sky centered at ra, dec = 21.69, 12.65 deg (J2000) with a radius of 69.5 deg. \nThis rules out only ~half of the sky, and does not rule out the position of EP 251118A (GCN 42749). \n\nThere are no NITRATES results due to the lack of GUANO data, but the rates light-curve and position of the Earth and BAT coded FoV at the time can be seen on the results summary page\nhttps://guano.swift.psu.edu/trigger_report?id=785177125"
+}

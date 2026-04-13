@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060926: Swift-UVOT Detections",
+  "eventId": "GRB 060926",
+  "bibcode": "2006GCN..5625....1R",
+  "createdOn": 1159323621000,
+  "circularId": 5625,
+  "submitter": "Pete Roming at PSU  <roming@astro.psu.edu>",
+  "email": "roming@astro.psu.edu",
+  "body": "P. Roming (PSU) and S. T. Holland (GSFC/USRA) report on behalf of the Swift-UVOT\nteam:\n\nThe Swift UVOT began observing GRB 060926, 57 seconds after the BAT trigger (GCN\n5612). We detect a source at the 4.8- and 4.3-sigma levels in the V- and UVW1-\n(251 nm) filters, respectively. The magnitude of the source is 19.0+/-0.2\n(V-filter) and 18.8+/-0.2 (UVW1-filter) as determined by the Swift analysis\ntool, uvotsource.\n\nNo optical afterglow is detected at the 3-sigma level in individual or coadded\nexposures in the UVOT UVW2-, UVM2-, U-, or B-filters. The 3-sigma limiting\nmagnitudes for the coadded images of the UVOT filters are listed below:\n\nFilter\t\tT_range(s)\tExp(s)\t\tUpper Limit (3-sigma)\nUVW2\t\t551-6405\t432\t\t20.1\nUVM2\t\t463-10840\t1366\t\t20.4\nU\t\t511-12283\t968\t\t20.8\nB\t\t535-6199\t422\t\t20.6\n\nwhere T_range is the start and end times of the coadded exposures. No correction\nhas been made for Galactic reddening along the line of sight (E(B-V) = 0.16).\n\nNo images were taken in the White-filter by the UVOT since bright stars were in\nthe field-of-view."
+}

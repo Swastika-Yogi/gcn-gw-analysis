@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111018A: Swift-XRT refined Analysis",
+  "eventId": "GRB 111018A",
+  "bibcode": "2011GCN.12455....1M",
+  "createdOn": 1319010797000,
+  "circularId": 12455,
+  "submitter": "Vanessa Mangano at INAF-IASFPA  <vanessa@ifc.inaf.it>",
+  "email": "vanessa@ifc.inaf.it",
+  "body": "V. Mangano (INAF IASFPA) and F. E. Marshall (NASA/GSFC) reports on\nbehalf of the Swift-XRT team:\n\nWe have analysed 11 ks of XRT data for GRB 111018A (Marshall  et al.\nGCN Circ. 12450), from 115 s to 36.2 ks after the  BAT trigger. The\ndata comprise 37 s in Windowed Timing (WT) mode (the first 6 s were\ntaken while Swift was slewing) with the remainder in Photon Counting\n(PC) mode. The enhanced XRT position for this burst was given by Goad\net al. (GCN. Circ 12453).\n\nThe light curve can be modelled with  a power-law decay with a decay\nindex of alpha=1.01 (+0.15, -0.13).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.8 (+0.8, -0.7). The\nbest-fitting absorption column is  1.2 (+0.8, -0.6) x 10^22 cm^-2, in\nexcess of the Galactic value of 2.5 x 10^21 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 6.7 x 10^-11 (1.2 x 10^-10) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.2 (+0.8, -0.6) x 10^22 cm^-2\nGalactic foreground: 2.5 x 10^21 cm^-2\nExcess significance: 3.4 sigma\nPhoton index:\t     1.8 (+0.8, -0.7)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00505801.\n\nThis circular is an official product of the Swift-XRT team."
+}

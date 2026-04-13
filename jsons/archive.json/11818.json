@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110319B BAT refined analysis",
+  "eventId": "GRB 110319B",
+  "bibcode": "2011GCN.11818....1P",
+  "createdOn": 1300808338000,
+  "circularId": 11818,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nC. B. Markwardt (GSFC), A. Melandri (INAF-OAB), T. Sakamoto (GSFC/UMBC),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-48 to T+52 sec, we report further analysis of\nGRB 110319B (Cummings, et al., GCN Circ. 11813).  The refined BAT position\nis RA, Dec =  326.088, -56.774 deg, which is\n    RA(J2000)  =  21h 44m 21.1s\n    Dec(J2000) =  -56d 46m 26s\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThis position is 33 arcsec from the XRT position of the candidate\nafterglow.  The partial coding was 100%.\n\nThe mask-weighted light curve shows a single FRED peak starting at ~T-3 sec,\npeaking at ~T0, and ending at ~T+20 sec.  T90 (15-350 keV) is 14.5 +- 2 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-3.5 to T+16.5 sec is best fit by a simple\npower law.  This fit gives a photon index 1.39 +- 0.05.  For this\nmodel the total fluence in the 15-150 keV band is 1.0 +- 0.1 x 10-6  erg/cm2\nand the 1-sec peak flux measured from T0 sec in the 15-150 keV band is\n1.25 +- 0.15 ph/cm2/sec."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB020305 BVRI field photometry",
+  "eventId": "GRB 020305",
+  "bibcode": "2002GCN..1302....1H",
+  "createdOn": 1016908864000,
+  "circularId": 1302,
+  "submitter": "Arne A. Henden at USNO/USRA  <aah@nofs.navy.mil>",
+  "email": "aah@nofs.navy.mil",
+  "body": "A. Henden (USRA/USNO) reports on behalf of the USNO GRB team:\n\nWe have acquired BVRcIc all-sky photometry for\nan 11x11 arcmin field in the error box for GRB020305\n(Ricker et al. GCN 1262; Hurley et al. GCN 1263)\nwith the USNOFS 1.0-m telescope on one marginally photometric\nnight.  The field is approximately centered on\nthe position of the candiate optical transient reported\nby Price et al. (GCN 1267).  Stars brighter than\nV=13.5 are saturated and should be used with care.\nWe have placed the photometric data on our anonymous ftp site:\nftp://ftp.nofs.navy.mil/pub/outgoing/aah/grb/grb020305.dat\nThe conditions were basically clear, but early evening clouds\nprevented field acquisition until it was near airmass 2.0.\nFor that reason, there is a slight possibility that the\nphotometry has larger than the expected 0.02mag external\nerror, but all tests (such as color consistency) seem reasonable.\nThe astrometry in this file is based on linear plate solutions\nwith respect to USNO-A2.0.  The internal errors are less than 100mas.\n\nNote that the source mentioned in GCN 1267 is near the northwestern\nedge of the error circle, and so the current field photometry does\nnot do a good job of calibrating small-field images centered on\nthe error circle.  We intend to take another shallower dataset\nin the near future centered at the HETE coordinates."
+}

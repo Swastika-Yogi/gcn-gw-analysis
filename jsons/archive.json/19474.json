@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160530B: Fermi GBM Detection",
+  "eventId": "GRB 160530B",
+  "bibcode": "2016GCN.19474....1M",
+  "createdOn": 1464655102000,
+  "circularId": 19474,
+  "submitter": "Bagrat Mailyan at UAH  <bm0054@uah.edu>",
+  "email": "bm0054@uah.edu",
+  "body": "B. Mailyan (UAH) and C. Meegan (UAH) report on behalf of the Fermi GBM Team:\n\n\"At 16:01:11.83 UT on 30 May 2016, the Fermi Gamma-Ray\nBurst Monitor triggered and located GRB 160530B\n(trigger 486316875/160530667). The on-ground calculated location,\nusing the GBM trigger data, is RA =  133.48, DEC = 43.48, with an\nuncertainty of 1.0 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic\nerror which we have characterized as a core-plus-tail model, with 90% of\nGRBs having a 3.7 deg error and a small tail suffering a larger than 10 deg\nsystematic error. [Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe trigger resulted in an Autonomous Repoint Request\n(ARR) by the GBM Flight Software owing to the high peak\nflux of the GRB. This ARR was accepted and the spacecraft\nslewed to the GBM in-flight location.\n\nThe angle from the Fermi LAT boresight at the GBM\ntrigger time is 78 degrees.\n\nThe GBM light curve consists of a single peak\nwith a duration (T90) of about 9 s (50-300 keV).\nThe time-averaged spectrum from T0+2.8 s to T0+12.0 s is\nbest fit by a BAND function, with Epeak = 188.40 +/- 2.23  keV,\nalpha = -0.56 +/- 0.01, and beta = -2.53 +/- 0.04.\n\nThe event fluence (10-1000 keV) in this time interval is\n (8.898 +/- 0.055)E-05 erg/cm^2. The 1-sec peak photon flux\nmeasured starting from T0+5.6 s in the 10-1000 keV band\nis 107.7 +/- 0.7 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

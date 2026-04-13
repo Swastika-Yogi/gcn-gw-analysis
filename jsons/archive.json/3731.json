@@ -1,0 +1,9 @@
+{
+  "subject": "GCN 050801: early Swift XRT analysis results",
+  "bibcode": "2005GCN..3731....1P",
+  "createdOn": 1122957504000,
+  "circularId": 3731,
+  "submitter": "Matteo Perri at ISAC/ASDC  <perri@asdc.asi.it>",
+  "email": "perri@asdc.asi.it",
+  "body": "M. Perri, M. Capalbi, P. Giommi (ASDC), J. Kennea, D.N. Burrows, P.\nMeszaros\n(PSU), K. Hinshaw (GSFC-SPSYS) report on behalf of the Swift XRT team:\n\n\nWe have analyzed the Swift XRT data from the first orbit observation\nof GRB 050801 (Band et al., GCN 3725). A fading, previously uncatalogued,\npoint source at the following coordinates is detected in the field:\n\nRA(J2000) = 13h 36m 36.0s\nDec(J2000) = -21d 55' 42\"\n\nThis position is 83 arcseconds from the BAT position given in GCN\n3725 (Band et al.) and 8.5 arcsec from the ROTSE-III position reported\nin GCN 3723 (Rykoff et al.). The source is close to a bad column of the\nCCD\nand we estimate an uncertainty of 10 arcseconds radius in the derived\nposition.\n\nData in Photon Counting (PC) mode starts at 18:29:31 UT, 89 seconds from\nthe BAT trigger. The 0.3-10 keV afterglow light curve shows a flat slope\nfrom T+89s to T+300s and then declines following a power law with decay\nindex\nalpha=-1.3+/-0.3 up to T+990s, when first orbits ends.\n\nA preliminary spectral fit in the 0.3-10 keV energy band to the first\norbit\ngives a spectral power law photon index of 1.8+/-0.3 with Nh=5.7E20 cm^-2.\n\nIn the time range 89-990 seconds from trigger the average unabsorbed\n0.5-10 keV flux is 2.6E-11 erg cm^-2 s^-1."
+}

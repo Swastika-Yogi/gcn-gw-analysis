@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131024A, Swift-BAT refined analysis",
+  "eventId": "GRB 131024A",
+  "bibcode": "2013GCN.15370....1B",
+  "createdOn": 1382647627000,
+  "circularId": 15370,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.krimm@nasa.gov>",
+  "email": "hans.krimm@nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nA. Y. Lien (NASA/GSFC/ORAU), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nJ. L. Racusin (NASA/GSFC), T. Sakamoto (AGU), M. Stamatikos (OSU),\nJ. Tueller (GSFC), T. N. Ukwatta (MSU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+303 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 131024A (trigger #575707)\n(Racusin, et al., GCN Circ. 15365).  The BAT ground-calculated position is\nRA, Dec = 290.544, -64.599 deg which is\n    RA(J2000)  =  19h 22m 10.5s\n    Dec(J2000) = -64d 35' 54.8\"\nwith an uncertainty of 2.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 78%. The burst started during a pre-planned slew. \nLow-level emission begins around T-150 sec. Then there is a first peak from T-70 \nto T-50 sec, a second peak from T-15 to T-4 sec and a third peak from T-2 to \nT+20 sec.  We note that there is a gap in the currently available data from \n~T-140 to T-120 sec. T90 (15-350 keV) is 112.00 +- 36 sec (estimated error \nincluding systematics).\n\nThe time-averaged spectrum from T-111.00 to T+17.00 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.85 +- 0.18.  The fluence in the 15-150 keV band is 1.2 +- 0.1 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T-55.50 sec in the 15-150 keV band\nis 0.3 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/575707/BA/"
+}

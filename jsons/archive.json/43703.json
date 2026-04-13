@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 260209B",
+  "eventId": "GRB 260209B",
+  "submittedHow": "email",
+  "bibcode": "2026GCN.43703....1F",
+  "createdOn": 1770836779577,
+  "circularId": 43703,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration, hard-spectrum GRB 260209B triggered\nKonus-Wind (KW) at T0=66273.996 s UT (18:24:33.996).\n\nThe burst consists of two bright, multi-peaked emission\npulses and has a total duration of ~26 s.\nThe emission is seen up to ~7 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260209_T66273/\n\nAs observed by Konus-Wind, the burst had\nthe fluence of (3.44 ± 0.35)x10^-5 erg/cm^2 and\nthe 64-ms peak energy flux, measured from T0 + 2.880 s,\nof (3.70 ± 0.28)x10^-5 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst (measured from T0 to T0+24.832 s)\nis best fitted in the 20 keV - 15 MeV range by a power law with exponential\ncutoff (CPL) model dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.34 (-0.04, + 0.05) and Ep = 1340(-257,+343) keV, chi^2 = 112/98 dof.\nFitting this spectrum by a Band GRB function yields the same values\nof alpha and Ep, and only an upper limit on the high energy photon\nindex beta of -2.7\n\nThe spectrum near the peak count rate (measured from T0 to T0+8.448 s)\nis best fitted in the 20 keV - 15 MeV range by a CPL model\nwith alpha = -1.25 (-0.3, + 0.04)and Ep = 1704(-233,+277) keV, chi^2 = 97/85 dof.\nFitting this spectrum by a Band function yields the same values\nof alpha and Ep, and only an upper limit on the high energy photon\nindex beta of -2.8\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary"
+}

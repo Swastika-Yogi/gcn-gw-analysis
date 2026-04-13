@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230216A: AKO Upper Limit",
+  "eventId": "GRB 230216A",
+  "bibcode": "2023GCN.33330....1O",
+  "createdOn": 1676567831000,
+  "circularId": 33330,
+  "submitter": "Mohammad Odeh at Al Khatim Observatory M44  <mshodeh@gmail.com>",
+  "email": "mshodeh@gmail.com",
+  "body": "Mohammad Odeh of Al-Khatim Observatory (AKO) operated by the International\nAstronomical Center, in Abu Dhabi, UAE. \n\n \n\nAs a follow up for the GRB 230216A detected by Swift (GCN 33328), we\nobserved the field of the GRB with our 0.35m f/7.7 robotic telescope. The\nobservation was done on 16 February 2023 from 16:39:17 to 16:51:39 (UT), 1.8\nhours after the GRB trigger. We obtained multiple 180-sec exposures in Ic\nfilter. We did not detect any afterglow within XRT localization. Though, the\nstar USNO-B1 0819-0175793 lies within the XRT error box, which might hide a\npossible afterglow. This is consistent with the report of (Gendre et al.,\nGCN 33329).\n\n \n\nThe following upper limit was calculated using Atlas catalogue as a\nreference:\n\n----------------------------------------------------------------------------\n-\n\nJD (mid), T_mid-T0(hrs), Exposure (sec), Filter, Lim_mag\n\n----------------------------------------------------------------------------\n-\n\n2459992.199329, 1.8, 3 x 180 (stacked), Ic, > 19.3\n\n----------------------------------------------------------------------------\n-\n\n \n\nThese magnitudes are not corrected for galactic extinction."
+}

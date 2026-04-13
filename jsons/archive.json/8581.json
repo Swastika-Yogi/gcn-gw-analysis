@@ -1,0 +1,10 @@
+{
+  "subject": "GRB081128: Swift/UVOT Upper Limits",
+  "eventId": "GRB 081128",
+  "bibcode": "2008GCN..8581....1B",
+  "createdOn": 1227993761000,
+  "circularId": 8581,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU) and R. Margutti (Univ. Biococca & OAB)\nreport on behalf of the Swift UVOT team:\n\nThe Swift/UVOT observed the field of GRB 081128 starting 206 s\nafter the BAT trigger (Margutti et al., GCN Circ. 8571).\nWe do not detect any source inside the UVOT-enhanced XRT\nerror circle (Evans, et al., GCN Circ. 8573)\ndown to the following 3-sigma upper limits in the\nfinding chart and co-added images:\n\nFilter     T_start   T_stop    Exp(s)  Mag\n------------------------------------------\n  white       207      356      150   >20.9\n\n  white       207      959      308   >21.3\n     v        363     5643      247   >19.4\n     b        462      826       58   >19.6\n     u        437      801       58   >19.3\n   uvw1       413      777       58   >19.0\n   uvm2       388      752       58   >18.6\n   uvw2       512     4429      236   >19.9\n\n   white    10015    34512      625   >21.4\n     v      27370    75499     3535   >21.0\n-----------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight corresponding to a\nreddening of E(B-V) = 0.05 mag (Schlegel, et al., 1998, ApJS, 500,\n525).  All photometry is on the UVOT photometry system described in\nPoole et al. (2008, MNRAS, 383, 627)."
+}

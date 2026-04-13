@@ -1,0 +1,10 @@
+{
+  "subject": "High-precision position of the compact radio counterpart to GRB221009A",
+  "eventId": "GRB 221009A",
+  "bibcode": "2022GCN.32907....1A",
+  "createdOn": 1667490305000,
+  "circularId": 32907,
+  "submitter": "Dr. Pikky Atri at ASTRON  <atri@astron.nl>",
+  "email": "atri@astron.nl",
+  "body": "P. Atri (ASTRON), T. An (SHAO), M. Giroletti (INAF-IRA), Y.-K. Zhang (SHAO), J. Bright (Oxford), W. Farah (SETI Institute), Rob Fender (Oxford, UCT), J.-J. Geng (PMO), G. Ghirlanda (INAF - OAB), S. Giarratana (University of Bologna, INAF-IRA), Alexander van der Horst (GWU), Y. Li (PMO), Y. Liu (SHAO), B. Marcote (JIVE), J. C. A. Miller-Jones (ICRAR-Curtin), Sara E. Motta (INAF-OAB, Oxford), M. P�rez-Torres (IAA-CSIC), L. Rhodes (Oxford), O.S. Salafia (INAF - OAB), A. Wang (SHAO), X.-F. Wu (PMO), Z. Xu (SHAO), J. Yang (OSO)\n\nThe Very Long Baseline Array (VLBA) observed GRB221009A on 14-15th October 2022 at 2cm (15.2 GHz) to measure the position of the radio counterpart of the GRB with high accuracy (Project code TG015). These were done ~5 days after the GRB was first reported by the Swift Burst Alert Telescope on 9th October 2022 (ATel #15650).\n\nA compact radio source was detected with a >10sigma significance (rms of 0.06 mJy/beam). Fitting a Gaussian elliptical model to the target shows that the peak emission is from the position:\n\nRA 19h13m03s.500792 (2)\nDec 19d46m24s.22891 (7)\n\nNote that the uncertainties here are purely from a fit to the image plane. Due to a 2 arcminutes offset between the pointing position of the VLBA and the position of the GRB, there was a ~25% drop in sensitivity at the location of the GRB. The systematic uncertainties could be of the order of ~0.1mas based on the beamsize of the VLBA and the uncertainties due to the target-calibrator throw are smaller than this. Follow-up observations of GRB221009A will be conducted with the VLBA.\n\nWe would like to thank the VLBA schedulers for conducting these service observations for a quick first-epoch look at the GRB."
+}

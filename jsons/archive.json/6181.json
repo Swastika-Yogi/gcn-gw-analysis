@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070125: X-ray light curve analysis",
+  "eventId": "GRB 070125",
+  "bibcode": "2007GCN..6181....1B",
+  "createdOn": 1173389674000,
+  "circularId": 6181,
+  "submitter": "David Burrows at PSU/Swift  <dnburrows@gmail.com>",
+  "email": "dnburrows@gmail.com",
+  "body": "D. N. Burrows and J. Racusin report on behalf of the Swift XRT team:\n\nGarnavich et al. (GCN Circ. 6165) have suggested that the X-ray light \ncurve of GRB 070125 has a late break to a steep slope,  in agreement \nwith the optical break reported by Mirabel, Halpern & Thorstensen \n(GCN 6096) and confirmed by their observations.\n\nWe have re-examined the XRT light curve, which extends from ~44 ks to \n~1.5 Ms post-burst, and reconfirm our original conclusions.  Full \ndetails, including a plot of the X-ray light curve showing several \npossible fits of single and broken power laws, are given in GCN \nReport 28.3 (http://gcn.gsfc.nasa.gov/reports/report_28_3.pdf).  We find:\n\n1) the X-ray light curve is best fit by a broken power law, but with \na break time at 1.35 +/- 0.35 days (90% confidence), not > 4 days as \nrequired by the optical data (Mirabel, Halpern & Thorstensen, GCN \n6096).  However, this fit, with reduced chi**2=1.6 for 15 degrees of \nfreedom, is rather poor (P=0.065), due primarily to large residuals \nbetween 100 and 200 ks.\n\n2) a better fit can be obtained under the assumption that there is a \nsmall X-ray flare at about 110 ks.  If these data points are \nexcluded, the remaining X-ray data can be fit by a single power law \nof slope 1.57 +/- 0.07 (90% confidence) with reduced chi**2 of 0.82 \nfor 14 degrees of freedom.  A broken power law fit to this data set \nis slightly worse and has very poor constraints on the fit parameters.\n\nWe conclude that we cannot distinguish between a single power law fit \nwith a small flare at 110 ks, and a broken power law fit with \nadditional flaring (to account for the poor residuals).  Therefore \nthe X-ray data do not show evidence for a jet break: they are \nconsistent with a jet break coincident with the optical break, but \nare equally consistent with no break at all."
+}

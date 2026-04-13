@@ -1,0 +1,11 @@
+{
+  "subject": "GRB241201B: Fermi GBM Final Localization",
+  "eventId": "GRB 241201B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38411....1F",
+  "createdOn": 1733091315063,
+  "circularId": 38411,
+  "submitter": "Bagrat Mailyan at Florida Tech <mbagrat@gmail.com>",
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely SHORT GRB\n\n\"At 13:32:00.63 UT on 01 December 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB241201B (trigger 754752725/241201564).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 333.26, Dec = 38.75 (J2000 degrees, equivalent to J2000 22h 13m, +38d 45'),\nwith a statistical uncertainty of 20.18 degrees.\n\nThe angle from the Fermi LAT boresight is 74 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn241201564/quicklook/glg_skymap_all_bn241201564.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn241201564/quicklook/glg_healpix_all_bn241201564.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn241201564/quicklook/glg_lc_medres34_bn241201564.gif\""
+}

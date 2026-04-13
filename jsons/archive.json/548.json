@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to Chandra Position of GRB000210 afterglow",
+  "eventId": "GRB 000210",
+  "bibcode": "2000GCN...548....1G",
+  "createdOn": 950401258000,
+  "circularId": 548,
+  "submitter": "Mike Garcia at CfA  <garcia@cfa.harvard.edu>",
+  "email": "garcia@cfa.harvard.edu",
+  "body": "Michael Garcia (Chandra X-ray Center), \nGordon Garmire (Penn State), Luigi Piro (IAS/CNR) report:\n\nThere is a possible error in the position of the x-ray afterglow\nof GRB000210 as reported in GCN544.  The error is approximately\n8 arcsec in the spacecraft Z direction, which in this case is \nRA.  The true position may be 8 arcsec to the East, or:\n\nRA=01:59:15.5, DEC = -40:39:33.2 (J2000)\n\nWe note that U0450_00688875, ra= 01 59 29.84 dec=-40 43 26.0, \nrmag=15.2 would be correctly located by Chandra if this error is included.\nNote that this new position agrees with the optical source mentioned\nin GCN 545 and 547."
+}

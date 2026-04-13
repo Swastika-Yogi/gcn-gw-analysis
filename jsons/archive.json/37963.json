@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241030A : MITSuME Akeno optical afterglow detection",
+  "eventId": "GRB 241030A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37963....1H",
+  "createdOn": 1730287899058,
+  "circularId": 37963,
+  "submitter": "Narikazu Higuchi at Tokyo Tech <higuchi@hp.phys.titech.ac.jp>",
+  "format": "text/plain",
+  "body": "N. Higuchi, Y. Kubo, H. Hagio, I. Takahashi, M. Niwano, M. Sasada, S. Hayatsu, H. Seki, S. Joshima, Y. Yatsu and N. Kawai (Science Tokyo) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 241030A (Fermi GBM team GCN 37955, Dichiara et al. GCN 37956) with the optical three color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope Akeno. \n\nThe observation with a series of 60 sec exposures started at 2024-10-30 08:28:01.71 UT (2.67 hrs after the Fermi trigger). We stacked the images in good conditions. Then we detected a point source in the Rc-band image at the Swift/UVOT position (Dichiara et al. GCN 37956). Here we report the Rc-band magnitude as follows.\n\nT0+[hours] | MID-UT | T-EXP[sec] | magnitude of aperture photometry\n----------------------------------------------------------------------------------------------------------------\n3.42 | 2024-10-30 09:13:32.41 | 1620 | Rc=17.59+/-0.05\n----------------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g'-, Rc- and Ic-band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire)."
+}

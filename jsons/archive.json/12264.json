@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110808A: Swift/UVOT Detection",
+  "eventId": "GRB 110808A",
+  "bibcode": "2011GCN.12264....1P",
+  "createdOn": 1312830243000,
+  "circularId": 12264,
+  "submitter": "Tyler Pritchard at PSU  <tapritchard@astro.psu.edu>",
+  "email": "tapritchard@astro.psu.edu",
+  "body": "T. A. Pritchard (PSU) and G. Stratta (ASDC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110808A\n120 s after the BAT trigger (Stratta et al., GCN Circ. 12256).\nA source consistent with the Enhanced Swift-XRT position\n(Goad et al., GCN Circ. 12257) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n     RA  (J2000) =  03:49:04.27 =  57.26780 (deg.)\n     Dec (J2000) = -44:11:40.1  = -44.19448 (deg.)\nwith an estimated uncertainty of 0.64 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT \nphotometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              120          270          147         19.88 � 0.14\nwhite              57           559           19         18.48 � 0.23\nwhite              3996         4196         200         20.17 � 0.16\nv                  609          629           19 >18.7\nb                  535          555           20         18.64 � 0.32\nu                  279          528          246         18.28 � 0.09\nu                  683          703           19         17.48 � 0.25\nu                  6062         6262         196 >20.62\nw1                 658          678           19 >17.8\nw2                 585          605           19 >18.3\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

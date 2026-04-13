@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190114B: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 190114B",
+  "bibcode": "2019GCN.23705....1I",
+  "createdOn": 1547531296000,
+  "circularId": 23705,
+  "submitter": "Ryosuke Itoh at Tokyo Institute of Tech.  <itoh@hp.phys.titech.ac.jp>",
+  "email": "itoh@hp.phys.titech.ac.jp",
+  "body": "R. Itoh, K. L. Murata, Y. Tachibana, S. Harita, K. Morita,\nK. Shiraishi, K. Iida, M. Niwano, R. Adachi, M. Oeda,  Y. Yatsu,\nand N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration\n\nWe searched for the optical counterpart of\nGRB 190114B (M. Siegel et al., GCN #23686)\nwith the optical three color (g', Rc, and Ic)\nCCD cameras attached to the MITSuME 50 cm telescope at Akeno\nObservatory,Yamanashi, Japan.\n\nThe observation started on 19:33:01 UT which corresponds to 109 sec\nafter the trigger.\nWe did not find any new point source within the enhanced XRT circle\n(Goad et al., GCN #23691;  Fernandez-Garcia et al., GCN #23694;\nPozanenko et al., GCN #23696; Xin et al., GCN #23703) in all three bands.\nWe obtained following 5 sigma limits for the magnitudes.\n\nT0+[sec]    MID-UT      T-EXP[sec]    g'       Rc        Ic\n-------------------------------------------------------------------------------------------------------\n109  19:37:35    480    >19.4     >18.7     >18.2\n-------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\nWe used UCAC-4 catalog for flux calibration."
+}

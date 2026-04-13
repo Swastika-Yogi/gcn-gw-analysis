@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 050525",
+  "eventId": "GRB 050525",
+  "bibcode": "2005GCN..3474....1G",
+  "createdOn": 1117020536000,
+  "circularId": 3474,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nA long bright GRB 050525 (Swift-BAT trigger=130088: GCN 3466,3467)\ntriggered Konus-Wind at 176.704 s UT (00:02:56.704).\nAs observed by Konus-Wind, it had a duration of ~11.5 s,\nfluence (7.84 +/- 0.06)10-5 erg/cm2, \npeak flux on 16-ms time scale (8.7 +/- 0.7)10-6 erg/cm2 s \n(both in the 20 keV - 1 MeV energy range).\n\nIn ~2800 s after trigger, Konus-Wind detected \neven more intense burst. Because it was detected\nduring data readout, only time history in the G2\nwindow (74-295 keV) with 3-s time resolution is available.\nIt had a duration of ~20 s and fluence 25100 counts in\n74-295 keV energy range (the fluence of the trigger burst\nwas 8500 counts in the same energy range). Assuming \nit had the same spectrum as the trigger burst,\nthe energy fluence can be estimated as ~2.3x10^-4 erg/cm2.\n\nWhether the second burst relates to the first one\nor it is different GRB accidentaly registered close to\nthe trigger burst can be clarified by data\nfrom other instruments\n(but the chance to register two very bright bursts so close\nto each other seems to be poor).\n\nThe time-integrated spectrum of the GRB 050525\nis well fitted by a power law with\nexponential roloff model:\ndN/dE ~ E^alpha exp(-E/E0)\nwith alpha = -1.10 +/- 0.05,\nand E0 = 93.6 +/- 5.3 keV.\nThe peak energy Ep = 84.1 +/- 1.7 keV."
+}

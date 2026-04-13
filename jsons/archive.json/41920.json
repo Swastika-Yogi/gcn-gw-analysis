@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 250920C: Swift/UVOT Detection",
+  "eventId": "GRB 250920C",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41920....1K",
+  "createdOn": 1758404909217,
+  "circularId": 41920,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "body": "N. P. M. Kuin (UCL-MSSL) and R. Gupta (GSFC) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250920C 124 s\nafter the BAT trigger (Gupta et al., GCN Circ. 41904).  A source consistent\nwith the XRT position is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n\n RA  (J2000)= 03h 25m 51.76s, 51.46568 deg\n Dec (J2000) = -29d 39m 20.2s,  -29.65562 deg\n\nconsistent with the detection by GOTO (Wortley et al. GCN Circ. 41907).\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding\nchart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           146          207         60.5          14.55 +/- 0.04\nv                  124          133         10.1          14.56 +/- 0.09\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.019 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

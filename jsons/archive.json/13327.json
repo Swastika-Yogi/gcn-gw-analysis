@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120521A: XRT light curve (Correction to GCN 13326)",
+  "eventId": "GRB 120521A",
+  "bibcode": "2012GCN.13327....1E",
+  "createdOn": 1337671353000,
+  "circularId": 13327,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans (U. Leicester) reports on behalf of the Swift-XRT team:\n\nThere was an error in GCN 13326: the light curve decay slope was\nreported as infinity.\n\nThe XRT light curve in fact shows a plateau (alpha=0.2 +/-0.4) until\nT0+270 seconds. After this it undergoes an extremely sharp decay\n(alpha~10) and is not detected in X-rays after T0+1ks."
+}

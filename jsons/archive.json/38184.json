@@ -1,0 +1,14 @@
+{
+  "editedOn": 1731449662387,
+  "subject": "Fermi-GBM Sub-Threshold Detection of GRB 241112B",
+  "version": 2,
+  "eventId": "GRB 241112B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38184....1R",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "circularId": 38184,
+  "createdOn": 1731448820298,
+  "submitter": "Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "format": "text/plain",
+  "body": "O.J. Roberts (USRA/NASA-MSFC) and E. Burns (LSU) reports on behalf of the Fermi-GBM Team:\n\nSVOM detected GRB 241112B on 2024-11-12 at 10:57:21 UTC (i.e., Schanne et al., GCN #38173). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates. \nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals, identified an unambiguous transient starting around the SVOM trigger time most significantly on the 16.384 s timescale, with a LogLR = 21.10. The Fermi-MET of the start time of this transient is 753101846.0 s. Using the standard search protocol, the Targeted Search localization was found to be RA=25.7 deg., Dec.= 32.8 deg., and an error of 31 deg. (90 % confidence level, includes the systematic error), at a SNR of 7.4. \n\nAdditionally, the GBM Targeted Search event was found with the highest significance using a \"normal\" spectrum (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\nThe Targeted Search data release product for this event can be found here: https://zenodo.org/records/14110881\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

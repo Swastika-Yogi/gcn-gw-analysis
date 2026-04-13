@@ -1,0 +1,9 @@
+{
+  "subject": "A mistake in testing a new function in Swift",
+  "bibcode": "2009GCN.10096....1B",
+  "createdOn": 1256751735000,
+  "circularId": 10096,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC)  on behalf of the Swift team:\n\nAt 17:28:08 UT (28 Oct 09) an XRT_Position Notice was distributed\n(TrigNum 20117).  This notice was a result of a test that the\nSwift team was conducting to test a new function within the spacecraft.\nI had the swift_blocked2world filter enabled in GCN, and as such\nthe notice should have been blocked.  The other notices were blocked,\nbut this one leaked through.  I apologise for the confusion."
+}

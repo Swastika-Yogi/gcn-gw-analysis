@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070209: Swift detection of a short hard burst",
+  "eventId": "GRB 070209",
+  "bibcode": "2007GCN..6086....1S",
+  "createdOn": 1170993203000,
+  "circularId": 6086,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "G. Sato (GSFC/ISAS), S. D. Barthelmy (GSFC), D. N. Burrows (PSU),\nM. M. Chester (PSU), C. Gronwall (PSU),\nS. T. Holland (CRESST/GSFC/USRA), S. Immler (GSFC/USRA),\nF. E. Marshall (NASA/GSFC), D. M. Palmer (LANL), M. Perri (ASDC),\nM. Stamatikos (NASA/ORAU), G. Stratta (ASDC) and\nD. E. Vanden Berk (PSU) report on behalf of the Swift Team:\n\nAt 03:33:41 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 070209 (trigger=259803).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is \nRA, Dec 46.237, -47.370 which is \n   RA(J2000)  =  03h 04m 57s\n   Dec(J2000) = -47d 22' 11\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single spike\nwith a duration of about 0.2 sec.  The peak count rate\nwas ~2500 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nThe XRT began taking data at 03:34:59 UT, 78 seconds after the BAT\ntrigger.  The XRT on-board centroid algorithm did not find a source in the\nimage and no prompt position is available.  We are waiting for down-linked\ndata to detect and determine a position for the source. \n\nUVOT took a finding chart exposure of 100 seconds with the White\n(160-650 nm) filter starting 83 seconds after the BAT trigger. No\nafterglow candidate has been found in the initial data products. The\n2.7'x2.7' sub-image covers 25% of the BAT error circle. The typical\n3-sigma upper limit has been about 18.5 mag. The 8'x8' region for the\nlist of sources generated on-board covers 100% of the BAT error\ncircle. The list of sources is typically complete to about 18 mag. No\ncorrection has been made for the expected extinction corresponding to\nE(B-V) of 0.01."
+}

@@ -1,0 +1,14 @@
+{
+  "editedOn": 1744131456819,
+  "subject": "Konus-Wind detection of GRB 250407A",
+  "eventId": "GRB 250407A",
+  "version": 2,
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40121....1F",
+  "createdOn": 1744128811484,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Dmitry Frederiks at Ioffe Institute <ddfrederiks@gmail.com>",
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 40121,
+  "format": "text/plain",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 250407A ( Fermi-GBM detection:\nThe Fermi GBM team, GCN 40104; Mukherjee & Meegan, GCN 40114;\nSVOM/GRM observation: Wang et al., GCN 40120)\ntriggered Konus-Wind (KW) at T0=56895.249 s UT (15:48:15.249).\nThe burst afterglow was detected and localized\nby SRG/ART-XC (Molkov et al. 2025, GCN 40110)\nand Swift-XRT (Dichiara et al. 2025, GCN 40113).\n\nThe burst light curve shows a bright pulse\nwhich starts at ~T0-6 s and has a total duration of ~20 s.\nA weaker emission can be traced at least to ~T0+50 s.\nThe emission in the main pulse is seen up to ~15 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250407_T56895/\n\nAs observed by Konus-Wind, the burst had\na fluence of (1.57 ± 0.04)x10^-4 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 5.292 s,\nof (1.41 ± 0.05)x10^-4 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+15.616 s)\nis best fit in the 20 keV - 15 MeV range by a GRB (Band) function\nwith the following model parameters:\nthe low-energy photon index alpha = -1.02 (-0.03,+0.03),\nthe high energy photon index beta = -2.27 (-0.07,+0.06),\nthe peak energy Ep = 648 (-44,+46) keV,\nchi2 = 162/97 dof.\n\nThe spectrum near the peak count rate (measured from T0+5.888 s to T0+7.424 s)\nis best fit in the 20 keV - 15 MeV range by a GRB (Band) function\nwith the following model parameters:\nthe low-energy photon index alpha = -0.76 (-0.06,+0.07),\nthe high energy photon index beta = -2.38 (-0.14,+0.11),\nthe peak energy Ep = 833 (-99,+106) keV,\nchi2 = 78/65 dof.\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 240807A / EP 240807a",
+  "eventId": "GRB 240807A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37120....1R",
+  "createdOn": 1723243264599,
+  "circularId": 37120,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team\n\nand\n\nJ. DeLaunay, A. Tohuvavohu, S. Barthelmy, J. Cummings, H. Krimm,\nand D. Palmer on behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 240807A\n(Fermi GBM detection: Fermi GBM team, GCN 37089;\nSVOM-GRM detection: Wang et al., GCN 37111)\nwas detected by Fermi (GBM), Konus-Wind, in the waiting mode,\nINTEGRAL (SPI-ACS), Swift (BAT), and SVOM (GRM)\nat about 20565 s UT (05:42:45).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a GBM-Konus annulus centered at\nRA(2000)=295.559 deg (19h 42m 14s)  Dec(2000)=-22.821 deg (-22d 49' 15\"),\nwhose radius is 32.402 +/- 32.402 deg (3 sigma).\n\nThis localization may be improved.\n\nThe fast X-ray transient EP 240807a (Fu et al., GCN 37088; Hu et al., GCN 37097)\nis inside the annulus and is consistent with the Konus-Wind ecliptic latitude response, supporting the association of the GRB and EP 240807a.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240807A/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

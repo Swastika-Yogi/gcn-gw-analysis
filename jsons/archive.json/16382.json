@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140610A: Swift-BAT refined analysis",
+  "eventId": "GRB 140610A",
+  "bibcode": "2014GCN.16382....1L",
+  "createdOn": 1402493168000,
+  "circularId": 16382,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "A. Y. Lien (NASA/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), P. A. Evans (U Leicester), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (AGU), M. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+552 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 140610A (trigger #601259)\n(Evans, et al., GCN Circ. 16375).  The BAT ground-calculated position is\nRA, Dec = 286.261, 3.899 deg, which is \n   RA(J2000)  =  19h 05m 02.7s \n   Dec(J2000) = +03d 53' 56.7\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 67%.\n \nThe mask-weighted light curve shows the emission starting at ~T-10 sec,\npeaking at ~T+1 sec, and continuing out to T+110 sec at which time\nthe location left the BAT FoV when the Swift slewed to a pre-planned\nobserving target.\n \nThe time-averaged spectrum from T-6.67 to T+105.7 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.57 +- 0.06.  The 1-sec peak photon flux measured from T+0.48 sec\nin the 15-150 keV band is 1.4 +- 0.2 ph/cm2/sec.  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/601259/BA/"
+}

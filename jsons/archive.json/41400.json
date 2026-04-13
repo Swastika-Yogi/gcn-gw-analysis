@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250816A: SVOM/GRM observation of a short burst",
+  "eventId": "GRB 250816A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41400....1S",
+  "createdOn": 1755416479240,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 41400,
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Zheng-Hang Yu, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Olivier GODET (IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered in-flight by a short burst GRB 250816A (SVOM trigger reference: sb25081601) at 2025-08-16T01:30:10.600 UTC (T0), which is also detected by Fermi/GBM (Fermi GBM Team, GCN #41397).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of a single pulse with a T90 of 0.9 +0.5/-0.4 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb250816A.png\n\nIn addition, the position of this burst, as determined by Fermi/GBM (RA= 156.7, DEC= 58.9, GCN #41397), is located at about 115 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view. ECLAIRs was not collecting data at the time of this burst.\n\nWith this localization, the time-averaged spectrum from T0-0.3 to T0+0.2 s is best fitted by a power law function. The power law index is -2.17 +/-0.15. The event fluence (10-1000 keV) in this time interval is (1.97 +/-0.24)E-06 erg/cm^2. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM point of contact for this burst is: Chen-Wei Wang (IHEP)(cwwang@ihep.ac.cn)\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 171209A",
+  "eventId": "GRB 171209A",
+  "bibcode": "2018GCN.22360....1K",
+  "createdOn": 1516196388000,
+  "circularId": 22360,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A.Kozlova, S. Golenetskii, R.Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A.Lysenko,\nand T. Cline on behalf of the Konus-Wind team, report:\n\nThe long GRB 171209A (Swift-BAT trigger #796100: LaPorte et al.,\nGCN 22213; Cummings et al., GCN 22229)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nThe burst light curve shows a multi-peaked structure\nwith a duration of ~ 147 s.\n\nAs observed by KW, the burst had a fluence of\n1.56(-0.17,+0.16)x10^-5 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(BAT)+22.4 s, of 3.06(-0.62,+0.61)x10^-7 erg/cm2/s\n(both in the 20 - 10000 keV energy range).\n\nModeling the KW 3-channel time-integrated spectrum\n(from ~T0(BAT)-1.2 s to ~T0(BAT)+146 s)\nby a power law with exponential cutoff model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.13 (-0.23,+0.40), and Ep = 279 (-86,+141) keV.\n\nThe KW light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB171209A/\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary."
+}

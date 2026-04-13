@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Detection of an SGR-like flare from AX J1846.4-0258",
+  "bibcode": "2020GCN.28187....1K",
+  "createdOn": 1596314571000,
+  "circularId": 28187,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "H. A. Krimm (NSF), A. Y. Lien (GSFC/UMBC), K. L. Page (U Leicester),\nD. M. Palmer (LANL) and A. Tohuvavohu (U Toronto) report on behalf of\nthe Neil Gehrels Swift Observatory Team:\n\nAt 20:11:47 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a flare from AX J1846.4-0258 (trigger=985320).  \nSwift did not slew immediately due to an observing constraint. \nThe BAT on-board calculated location is \nRA, Dec 281.630, -2.990 which is \n   RA(J2000) = 18h 46m 31s\n   Dec(J2000) = -02d 59' 24\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single-peaked\nstructure with a duration of 0.1 sec or less.  The peak count rate\nwas ~3300 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nDue to a Moon observing constraint, Swift cannot slew to the BAT\nposition until 23:30 UT on 2020 August 01. Follow-up observations\nwill be made at that time. \n\nBased on the short pulse length (16 ms trigger duration), the soft\nspectrum (no emission detected above above 100 keV) and the\nproximity of the source to the Galactic plane (latitude = 0.27 degrees)\nand to a known pulsar, suspect that this burst is from a \nSoft Gamma Repeater or similar source. \n\nThe BAT position is consistent with the pulsar PSR J1846-0258\n(=Swift J1846.5-0257 =  AX J1846.4-0258) in supernova remnant Kes 75. \n\nFermi-GBM also triggered on this event (Trigger #618005512)."
+}

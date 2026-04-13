@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240914B: AstroSat CZTI detection",
+  "eventId": "GRB 240914B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37506....1S",
+  "createdOn": 1726320955717,
+  "circularId": 37506,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "S. Srijan (IITB), G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a long-duration GRB 240914B which was also detected by Fermi/GBM (Trigger 747990592, Preis et al., GCN Circ. 37496). Inspection of INTEGRAL/SPI-ACS data also showed the detection of the burst.\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-09-14 07:09:51 UTC. The measured peak count rate associated with the burst is 548 (+47, -43) counts/s above the background in the combined data of all quadrants, with a total of 3654 (+291, -307) counts. The local mean background count rate was 319 (+4, -5) counts/s. Using cumulative rates, we measure a T90 of 11.0 (+2.7,  -1.4) s. In the preliminary analysis, we find 388 Compton events associated with this event.\n\nIt was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2024-09-14 07:09:51 UTC. The measured peak count rate is 795 (+76, -82) counts/s above the background in the combined Veto data of all quadrants, with a total of 4083 (+602, -597) counts. The local mean background count rate was 1342 (+8, -9) counts/s. We measure a T90 of 7.9 (+4.4, -1.6) s from the cumulative Veto light curve.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

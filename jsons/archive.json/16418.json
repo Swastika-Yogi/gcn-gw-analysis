@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140619A: Swift/UVOT Observations",
+  "eventId": "GRB 140619A",
+  "bibcode": "2014GCN.16418....1S",
+  "createdOn": 1403224029000,
+  "circularId": 16418,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "M. H. Siegel (PSU), F. E. Marshall (NASA/GSFC), J. Linevsky (PSU),\nand M. De Pasquale (INAF-IASFPA) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 140619A\n147 s after the BAT trigger (De Pasquale et al., GCN Circ. 16415).\nWe confirm a faint afterglow consistent with the XRT position is detected in the\ninitial UVOT exposures. We have corrected the positions in the 2.7' x 2.7� UVOT\nsub-image by comparing positions with the Digital Sky Survey. The UVOT afterglow\nis located at:\n  RA  (J2000) =  01:48:26.15 =  27.10896 (deg.)\n  Dec (J2000) = -39:15:32.6  = -39.25906 (deg.)\nwith an estimated uncertainty of 1.0 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first finding chart (FC) exposure and\nsubsequent exposures are:\n\nFilter      T_start(s)   T_stop(s)   Exp(s)     Mag\n\nwhite (fc)     147          245        96     20.39+-0.24\nwhite         5112         5312       196     >21.05\nb            11745        12179       422     >20.65\nu            10833        11740       885     >20.82\nuvw1          5933         6133       196     >19.77\nuvm2          5727         5927       196     >19.59\nuvw2          5317         5517       196     >19.87\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.01 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160716A: Swift/UVOT Detection",
+  "eventId": "GRB 160716A",
+  "bibcode": "2016GCN.19721....1H",
+  "createdOn": 1468801559000,
+  "circularId": 19721,
+  "submitter": "Lea Hagen at PSU  <lea.zernow.hagen@gmail.com>",
+  "email": "lea.zernow.hagen@gmail.com",
+  "body": "L. M. Z. Hagen (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160716A\n88 s after the BAT trigger (Hagen et al., GCN Circ. 19716). A source\nconsistent with the XRT position (Evans et al., GCN Circ. 19717) is\ndetected in the initial UVOT exposures in the white filter. The source\nhas marginal evidence for fading but is not seen in the Digitized Sky\nSurvey (DSS), so it is unclear at this time whether it is the optical\nafterglow. Preliminary detections and 3-sigma upper limits using the\nUVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358,\n373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite               88          773          183          19.93+-0.23\nwhite             6218         6418          196          20.47+-0.35\nwhite            24012        98905          490          20.62+-0.25\nv                  631          651           19         >17.58\nb                  556          750           38         >18.95\nu                  301          725          265         >19.63\nuvw1               681          701           19         >17.48\nuvm2               656          676           19         >17.10\nuvw2               607          627           19         >17.52\n\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the large, but uncertain, reddening of E(B-V) = 1.47 in the\ndirection of the burst (Schlegel et al. 1998)."
+}

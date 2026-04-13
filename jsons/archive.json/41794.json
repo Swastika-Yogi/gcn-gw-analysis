@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250910A / EP250910a : VLT/HAWK-I NIR counterpart discovery",
+  "eventId": "GRB 250910A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41794....1S",
+  "createdOn": 1757595077173,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "circularId": 41794,
+  "format": "text/plain",
+  "body": "B. Schneider (LAM), A. Martin-Carrillo (UCD), M. Garnichey (LUX-Paris Obs.), V. D'Elia (ASI-SSDC), A. J. Levan (Radboud U.), G. Corcoran (UCD), D. B. Malesani (DAWN/NBI and Radboud), A. Saccardi (CEA/Irfu), A. L. Thakur (INAF-IAPS), S. D. Vergani (LUX-Paris Obs.) report on behalf of the Stargate collaboration:\n\nWe observed again the field of GRB 250910A / EP250910a (Ma et al., GCN 41769; Götz et al. GCN 41770; Wu et al., GCN 41772; Li et al., GCN 41774; Liu et al., GCN 41776) using the ESO VLT UT4 (Yepun) equipped with the HAWK-I NIR camera. We obtained 15 min imaging in the J band, beginning on 2025-09-11 at 09:36:48 UT (1.26 days post-trigger).\n\nCarrying out image subtraction with HOTPANTS between our new and previous (Garnichey et al., GCN 41777) images, a clear transient source is detected at coordinates (0.5\" error):\n\nRA(J2000) = 02:39:12.56\nDec(J2000) = -39:41:40.9\n\nThese coordinates are consistent with the EP/FXT X-ray location (Liu et al., GCN 41776) and Swift/XRT X-ray detection (https://www.swift.ac.uk/SVOM/SVOM_FIELD00036/). We measure for the transient a magnitude J = 22.73 +/- 0.08  (AB, at 5.2 hr post trigger), calibrated against nearby 2MASS stars and not corrected for Galactic extinction. We caution that strictly this is a lower limit to the source brightness, as it is possible that residual transient light was present in our second observation.\n\nThe spatial association with the X-ray afterglow and its fading behavior indicate that this object is the NIR afterglow of GRB 250910A / EP250910a.\n\nWe note that at this location, an extended optical source can be seen in the Legacy Survey (magnitudes g = 24.56, r = 23.80, i = 23.38, z = 23.66), likely being the host galaxy of this source. \n\nWe acknowledge excellent support from the ESO observing staff in Paranal, in particular Juan Carlos Olivares and Robert De Rosa.\n"
+}

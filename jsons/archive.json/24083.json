@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 190404B",
+  "eventId": "GRB 190404B",
+  "bibcode": "2019GCN.24083....1T",
+  "createdOn": 1554827337000,
+  "circularId": 24083,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "A. Tsvetkova, S. Golenetskii, R.Aptekar, D. Frederiks,\nM. Ulanov, D. Svinkin, A. Lysenko, A. Kozlova and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long GRB 190404B which triggered MAXI/GSC at 12:24:20 UT\n(MAXI/GSC detection: Nakajima et al., GCN 24048;\nCALET Gamma-Ray Burst Monitor detection: Nakahira et al., GCN 24055)\nwas detected by Konus-Wind in the waiting mode.\n\nThe burst light curve shows a single multi-peaked emission episode\nstarted at ~T0(MAXI)-7.4 s with a total�� duration of ~85.4 s.\n\nAs observed by Konus-Wind, the burst had a fluence of\n5.57(-1.00,+1.34)x10^-6 erg/cm2 and a 2.944-s peak flux,\nmeasured from ~T0(MAXI)+51.5 s, of 1.09(-0.20,+0.26)x10^-7 erg/cm2/s\n(both in the 20 - 1200 keV energy range).\n\nFitting the K-W 3-channel time-integrated spectrum\n(from ~T0(MAXI)-7.4 s to ~T0(MAXI)+78.0 s) in the 20 keV - 1.2 MeV range\nby a power law with exponential cutoff model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep) yields\nalpha = -1.64(-0.36,+3.80),\nand Ep =80(-39,+33) keV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\nAll the presented results are preliminary.\n\nThe K-W light curve of this burst is available at\nhttp://www.ioffe.rssi.ru/LEA/GRBs/GRB190404B/"
+}

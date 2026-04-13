@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170912A: Swift-XRT refined Analysis",
+  "eventId": "GRB 170912A",
+  "bibcode": "2017GCN.21876....1K",
+  "createdOn": 1505251928000,
+  "circularId": 21876,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "J.A. Kennea (PSU), B. Sbarufatti (INAF-OAB/PSU), P.A. Evans (U.\nLeicester), S.L. Gibson (U. Leicester), J.P. Osborne (U. Leicester), P.\nD'Avanzo (INAF-OAB), V. D'Elia (ASDC), A. D'Ai (INAF-IASFPA), D.N.\nBurrows (PSU) and A. Tohuvavohu report on behalf of the Swift-XRT team:\n\nWe have analysed 6.5 ks of XRT data for GRB 170912A (Tohuvavohu et al.\nGCN Circ. 21861), from 104 s to 62.2 ks after the  BAT trigger. The\ndata comprise 17 s in Windowed Timing (WT) mode (the first 8 s were\ntaken while Swift was slewing) with the remainder in Photon Counting\n(PC) mode. The enhanced XRT position for this burst was given by Goad\net al. (GCN Circ. 21862).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=4.8 (+nan, -nan).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.85 (+0.54, -0.22). The\nbest-fitting absorption column is  consistent with the Galactic value\nof 3.1 x 10^21 cm^-2 (Willingale et al. 2013). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum  is 3.9 x 10^-11 (5.4 x 10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.1 (+/-2.3) x 10^21 cm^-2\nGalactic foreground: 3.1 x 10^21 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.85 (+0.54, -0.22)\n\nIf the light curve continues to decay with a power-law decay index of\n4.8, the count rate at T+24 hours will be 1.4 x 10^-13 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 5.4 x\n10^-24 (7.4 x 10^-24) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00772006.\n\nThis circular is an official product of the Swift-XRT team."
+}

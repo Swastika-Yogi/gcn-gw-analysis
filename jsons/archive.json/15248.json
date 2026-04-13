@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130925A: MAXI/GSC detection",
+  "eventId": "GRB 130925A",
+  "bibcode": "2013GCN.15248....1S",
+  "createdOn": 1380097909000,
+  "circularId": 15248,
+  "submitter": "Satoshi Nakahira at JAXA/MAXI  <nakahira.satoshi@jaxa.jp>",
+  "email": "nakahira.satoshi@jaxa.jp",
+  "body": "K. Suzuki, H. Sakakibara, H. Negoro (Nihon U.),\nS. Nakahira, H. Tomida, S. Ueno, M. Kimura, M. Ishikawa, Y. E. Nakagawa (JAXA),\nT. Mihara, M. Sugizaki, M. Morii, M. Serino, T. Yamamoto, J. Sugimoto,\nT. Takagi, M. Matsuoka (RIKEN),\nN. Kawai, R. Usui, K. Ishikawa, T. Yoshii (Tokyo Tech),\nA. Yoshida, T. Sakamoto, Y. Nakano (AGU),\nH. Tsunemi, M. Sasaki (Osaka U.),\nM. Nakajima, K. Fukushima, T. Onodera (Nihon U.),\nY. Ueda, M. Shidatsu, T. Kawamuro (Kyoto U.),\nY. Tsuboi, M. Higa (Chuo U.),\nM. Yamauchi, K. Yoshidome, Y. Ogawa, H. Yamada (Miyazaki U.),\nK. Yamaoka (Nagoya U.)\nreport on behalf of the MAXI team:\n\nThe MAXI/GSC Nova alert system triggered a bright uncatalogued X-ray transient source at\nUT 2013-09-25T05:13:41.\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(41.38 deg, -25.91 deg) = (02 45 32, -25 54 54)(J2000)\nwith a 90% C.L. statistical error of 0.2 deg and an additional systematic uncertainty\nof 0.1 deg (90% containment radius).\nThe position is consistent with that of GRB 130925A (Lien et al. GCN #15246),\nand apart from GRB 130925A by 0.30 deg.\nThis detection is, however, about 1 hour after the Swift detection.\nThe 2-20 keV flux was 290 (-51/+53) mCrab. An absorbed power-law fit to the burst spectrum\ngives a photon index 1.62 +/- 0.27.\n\nThere was no significant excess flux in the previous transit at 03:41 UT\nand in the next transit at 06:47 UT with an upper limit of 20 mCrab for each.\n\n[GCN OPS NOTE(25sep13): Per author's request, the Lien citation of 12526\nwas changed to 15246.]"
+}

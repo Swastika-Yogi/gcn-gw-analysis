@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250210A: AstroSat CZTI detection",
+  "eventId": "GRB 250210A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39267....1D",
+  "createdOn": 1739183966343,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "circularId": 39267,
+  "format": "text/plain",
+  "body": "A. Dasgupta (BITS Pilani, Hyderabad), G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a long-duration GRB 250210A which was also detected by Fermi/GBM (Fermi-GBM Team, GCN Circ. 39262). Inspection of INTEGRAL/SPI-ACS data also showed the detection of the burst.\n\nThe source was clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2025-02-10 05:31:58.0 UTC. The measured peak count rate is 293 (+69, -41) counts/s above the background in the combined Veto data of all quadrants, with a total of 4599 (+645, -696) counts. The local mean background count rate was 1317 (+7, -7) counts/s. We measure a T90 of 29 (+2, -2) s from the cumulative Veto light curve.\n\nThe source was also faintly detected in the CZT detectors in the 20-200 keV energy range.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

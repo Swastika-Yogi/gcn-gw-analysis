@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110213A: Swift-XRT refined Analysis",
+  "eventId": "GRB 110213A",
+  "bibcode": "2011GCN.11721....1S",
+  "createdOn": 1297679652000,
+  "circularId": 11721,
+  "submitter": "Giulia Stratta at ASDC  <stratta@asdc.asi.it>",
+  "email": "stratta@asdc.asi.it",
+  "body": "G. Stratta (ASDC) and V. D'Elia (ASDC) report on behalf of the\nSwift-XRT team:\n\nWe have analysed 22 ks of XRT data for GRB 110213A (D'Elia  et al. GCN\nCirc. 11705), from 81 s to 54.5 ks after the  BAT trigger. The data\ncomprise 121 s in Windowed Timing (WT) mode (the first 8 s were taken\nwhile Swift was slewing) with the remainder in Photon Counting (PC)\nmode. The enhanced XRT position for this burst was given by Osborne et\nal. (GCN. Circ 11712).\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=5.2 (+0.5, -0.4). At T+141 s  the decay\nflattens to an alpha of -0.22 (+0.10, -0.14). The light curve breaks\nagain at T+1489 s to a decay with alpha=1.10 (+0.07, -0.08),  before a\nfinal break at T+9954 s s after which the decay index is 2.14 (+0.10,\n-0.09).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.11 (+/-0.07). The\nbest-fitting absorption column is  2.81 (+0.24, -0.23) x 10^21 cm^-2,\nin excess of the Galactic value of 2.2 x 10^21 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 4.1 x 10^-11 (6.8 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     2.81 (+0.24, -0.23) x 10^21 cm^-2\nGalactic foreground: 2.2 x 10^21 cm^-2\nExcess significance: 20.5 sigma\nPhoton index:\t     2.11 (+/-0.07)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00445414.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of a bright burst from SGR 1E1841-045 ",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39022....1S",
+  "createdOn": 1737735536223,
+  "circularId": 39022,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "D. Svinkin, A. Ridnaia, D. Frederiks, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nY. Zhang, C. Wang, S. Xiong, J. Wei, and B. Cordier\non behalf of the SVOM-GRM team, report:\n\nA very bright, short-duration, soft burst was detected by\nKonus-Wind, Fermi (GBM trigger 759314844), and SVOM (GRM)\nat about 31640 s UT (08:47:20) on January 23.\n\nWe have triangulated it to the following annuli:\n---------------------------------------------------\nannulus         R.A.     Dec.     R     dR (3sigma)\n               (deg)    (deg)   (deg)     (deg)\n---------------------------------------------------\nKonus-GBM      285.928  -20.729  16.594  0.148\nKonus-GRM      285.926  -20.738  16.277  0.567\n---------------------------------------------------\n\nAmong known SGRs, only the position of SGR 1E1841-045 is inside the annuli. \nGiven the positional coincidence of this burst with\nSGR 1E1841-045, its time history, and softness of its spectrum\n(as observed by Konus-Wind), we conclude this burst is likely originated from SGR 1E1841-045.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/SGRs/250123_T31634/IPN/\n\nThe time history and spectrum will be given in forthcoming GCN circulars."
+}

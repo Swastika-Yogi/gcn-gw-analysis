@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150724B: Swift/UVOT Detection",
+  "eventId": "GRB 150724B",
+  "bibcode": "2015GCN.18075....1K",
+  "createdOn": 1438017904000,
+  "circularId": 18075,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N.P.M. Kuin(MSSL/UCL) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 150724B\n88.6ks after the LAT trigger (Bissaldi et al., GCN Circ. 18065),\nwhich was also observed at high energy by Fermi-GBM (Veres et al.,\nGCN Circ 18066) and Konus-Wind (Golenetskii et al. GCN Circ. 18074).\nFive UVOT exposures were obtained of which the first two show a\nweak detection at the XRT position (Osborne et al., GCN Circ. 18069).\n\nPreliminary magnitudes and 3-sigma upper limits using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373)\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite            88619      88799          178        19.64+-0.12\nwhite            88802      90608         1765        20.99+-0.14\nwhite            90614      90748           60        >19.53\nwhite            94379      94558          176        >20.82\nwhite            94562      96236         1648        >22.01\n\nThe brightness is consistent with the RATIR observation at 147ks\nin r and i (Butler et al, GCN 18072).\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.06 in the direction of the burst\n(Schlegel et al. 1998)."
+}

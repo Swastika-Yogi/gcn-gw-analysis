@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070616: Swift XRT refined circular",
+  "eventId": "GRB 070616",
+  "bibcode": "2007GCN..6550....1S",
+  "createdOn": 1182077531000,
+  "circularId": 6550,
+  "submitter": "Rhaana Starling at U of Leicester  <rlcs1@star.le.ac.uk>",
+  "email": "rlcs1@star.le.ac.uk",
+  "body": "R.L.C. Starling (U. Leicester) reports, on behalf of the Swift XRT team:\n\nWe have analysed the first eight orbits of Swift XRT data (18.6 ks of data \nout to T0+5.8E4s) for GRB 070616 (Starling et al., GCN Circ. 6542).\n\nUsing 1.1 ks of overlapping XRT PC mode data and UVOT V-band data, we\nobtain an astrometrically corrected X-ray position (using the USNO-B1 \ncatalogue) of \n\nRA(J2000) = 02 08 36.70\nDec(J2000)= +56 56 43.9\n\nwith an error of 2.3 arcseconds (radius, 90% containment).\nThis is 3.7 arcsec from the initially reported XRT position\nand 6.4 arcsec from the BAT position (GCN Circ. 6542), and 6.3 arcsec from \nthe possible optical transient reported in De Ugarte Postigo et al. (GCN\nCirc. 6548). The error circle overlaps with the USNO-B1.0 source noted in \nGCN Circ. 6542.\n\nThe lightcurve began with a constant flux up to T0+536s, and then decayed \nwith alpha=-4.6 until about T0+1000s. A steep decay follows this, though\nthere are not enough data to accurately measure its slope. \nAfter T0+1400s the decay continues with a shallower slope of alpha=-1.2.\nSeveral small flares appear on top of the continuum emission up to \nT0+1000s, some of which may be simultaneous with BAT peaks.\n\nThe PC mode spectrum including 14.6 ks of data from the second orbit \nonwards is well fit with a power law of photon index\nGamma=2.4+0.2,-0.1 (90%) absorbed only by the large Galactic column of \n3.4E21 cm^-2.\nThe 0.3-10 keV observed (unabsorbed) flux is 2.2E-12 (4.0E-12) erg/cm^2/s,\ncorresponding to a count rate of 4.9E-02 count/s.\n\nThe predicted fluxes at T0+24h and T0+48h are 2.3E-13 and 9.9E-14 \nerg/cm^2/s respectively, assuming the decay continues with alpha=-1.2.\n\nThis is an official product of the Swift XRT team."
+}

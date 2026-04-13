@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110818A: Swift-XRT refined Analysis",
+  "eventId": "GRB 110818A",
+  "bibcode": "2011GCN.12283....1R",
+  "createdOn": 1313737621000,
+  "circularId": 12283,
+  "submitter": "Antonia Rowlinson at U.of Leicester  <bar7@star.le.ac.uk>",
+  "email": "bar7@star.le.ac.uk",
+  "body": "A. Rowlinson (U. Leicester) and C. B. Markwardt (NASA/GSFC) report on\nbehalf of the Swift-XRT team:\n\nWe have analysed 7.8 ks of XRT data for GRB 110818A (Markwardt\tet al.\nGCN Circ. 12279), from 384 s to 18.3 ks after the  BAT trigger. The\ndata comprise 61 s in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The best available XRT position  (using the\npromptly downlinked event data, the XRT-UVOT alignment and matching\nUVOT field sources to the USNO-B1 catalogue) is RA, Dec = 317.3378,\n-63.9813 which is equivalent to:\n\nRA (J2000): 21 09 21.07\nDec(J2000): -63 58 52.7\n\nwith an uncertainty of 2.0 arcsec (radius, 90% confidence).\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=5.8 (+0.6, -0.7). At T+461 s  the decay\nflattens to an alpha of 1.57 (+0.14, -0.11) before breaking again at\nT+2167 s to a final decay with index alpha=0.95 (+0.10, -0.14).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.97 (+0.12, -0.11). The\nbest-fitting absorption column is  7.8 (+2.7, -2.4) x 10^20 cm^-2, in\nexcess of the Galactic value of 2.6 x 10^20 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 3.6 x 10^-11 (4.4 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     7.8 (+2.7, -2.4) x 10^20 cm^-2\nGalactic foreground: 2.6 x 10^20 cm^-2\nExcess significance: 5.3 sigma\nPhoton index:\t     1.97 (+0.12, -0.11)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00500914.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB260307B: GROWTH-India Telescope optical upper limit",
+  "eventId": "GRB 260307B",
+  "submittedHow": "web",
+  "createdOn": 1772906261751,
+  "circularId": 43943,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "V. Vijaykumar, A. Khade, V. Swain, S. Patil, A.P. Saikia, T. Mohan, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of GRB260307B detected by SVOM/ECLAIRs (SVOM, GCN 43940), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2026-03-07 15:51:15 (UTC), i.e., 2.1 hours after the trigger, and obtained 5x300 exposures in the r' filter. We did not detect any transient in our image. The photometric upper limit is as follows:\n\n| MJD (mid)    | Filter | tmid-t0 (hours) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | --------------- | ------------------- | ---------------- |\n| 61106.6694   | r'     | 2.26           | 5x300               | 20.4             |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur magnitude is consistent with other optical observations (Kang. et al., GCN 43941, Palmerio. et al., GCN 43942).\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

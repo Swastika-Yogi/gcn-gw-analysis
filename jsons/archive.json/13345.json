@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120512A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 120512A",
+  "bibcode": "2012GCN.13345....1S",
+  "createdOn": 1338255475000,
+  "circularId": 13345,
+  "submitter": "Makoto Tashiro at Saitama U/Swift  <tashiro@phy.saitama-u.ac.jp>",
+  "email": "tashiro@phy.saitama-u.ac.jp",
+  "body": "A. Sakamoto, M. Tashiro, Y. Terada, W. Iwakiri, T. Yasuda, K. Takahara,\nM. Asahina, S. Kobayashi, H. Ueno (Saitama U.),\nM. Akiyama, N. Ohmori,  M. Yamauchi (Univ. of Miyazaki),\nK. Yamaoka, Y. E. Nakagawa (Waseda U.),\nY. Hanabata,  T. Kawano, K. Takaki, Y.Tanaka, R. Nakamura, M. Ohno,\nY. Fukazawa (Hiroshima U.), S. Sugita (Nagoya U.), M. Kokubun,\nT. Takahashi (ISAS/JAXA), Y. Urata, P. Tsai (NCU), K. Nakazawa,\nK. Makishima (Univ. of Tokyo), on behalf of the Suzaku WAM team, report:\n\nThe long GRB 120512A (INTEGRAL/IBIS; Mereghetti et al., GCN 13300)\ntriggered the Suzaku Wide-band  All-sky Monitor (WAM) which covers an \nenergy range of 50 keV - 5 MeV at 02:41:43.783 UT (=T0).\nThe observed light curve shows  a multi-peaked structure starting at \nT0+4 s, ending at T0+24 s,  with a duration (T90) of about 20 seconds. \nThe fluence in 100 - 1000 keV was 9.33(-1.13 +0.27) x 10^-6 erg/cm^2. \nThe 1-s peak flux measured from T0+9.5s was 2.81(-0.56 +0.26) \nphotons/cm^2/s in the same  energy range.\n\nPreliminary result shows that the time-averaged spectrum from T0+4s to \nT0+24s is well fitted by a power-law with exponential cutoff model:\n   dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\n   alpha       1.05(-0.47 +0.39), and\n   Epeak       508.5(-72.2 +114.3) keV (chi^2/d.o.f. = 13.74/24).\nWe also shows the results with the same spectrum fitted by a GRB Band\nmodel fixing beta of 2.5,���the low-energy photon index alpha: \n-1.03(-0.47 +0.78),���and the peak energy Epeak: 470.5(-85.4 +136.2) keV \n(chi^2/d.o.f = 17.86/24).\n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\nThe light curves for this burst are available at:\n\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

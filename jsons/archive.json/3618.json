@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050714B: refined XRT analysis",
+  "eventId": "GRB 050714B",
+  "bibcode": "2005GCN..3618....1P",
+  "createdOn": 1121426794000,
+  "circularId": 3618,
+  "submitter": "Andrew Levan at U.of Leicester  <anl@star.le.ac.uk>",
+  "email": "anl@star.le.ac.uk",
+  "body": "K. Page, A. Beardmore, A. Levan, E. Rol, J.P. Osborne (U. Leicester),\nD. Morris, D. Burrows (PSU), A. Smale (NASA HQ), L. Cominsky (Sonoma\nState U.) and N. Gehrels (GSFC)  report for the Swift XRT team:\n\nWe have analysed the XRT data for GRB 050714B taken 157-18700\nseconds after the trigger. PSF fitting of the candidate afterglow in the\nphoton counting (PC) mode observations yields a refined position of\n\nRA: 11h 18m 48.0s (J2000)\nDec:-15d 32m 49.9s (J2000)\n\nwith an uncertainty of 6 arcseconds (90%). This position is offset\napproximately 5.5 arcseconds from the position reported in GCN 3613\nand does not contain object \"A\" found by Covino et al (GCN 3616).\n\nXRT observations began in Windowed Timing (WT) mode 157 seconds after the\ntrigger and show a steep decline with a power-law decay index between 5\nand 6, lasting for approximately 300 seconds. This is followed by a rise,\nwhich peaks 400 seconds after the trigger and was recorded in PC\nmode. No observations were performed between 546 and 5000 seconds. In\nthe interval 5000-18700 seconds a shallower decay of approximately 0.7\nwas seen. The behaviour is similar to that which has been seen in many\nSwift afterglows and indicates that this transient is, most likely, a\nGRB.\n\nThe spectrum of the early afterglow is exceptionally soft, having a photon\nindex of ~ 6, with evidence of spectral evolution between the WT and PC\nmode observations. The mean unabsorbed fluxes in WT mode (157-220 seconds)\nand PC mode (221-546 seconds) are 3.4e-9 and 1.7e-9 ergs/s/cm^2\nrespectively, in the 0.5-10 keV range. We note, however, that no\nflux was detected above 2 keV by the XRT."
+}

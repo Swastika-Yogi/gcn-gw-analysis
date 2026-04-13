@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 211106A",
+  "eventId": "GRB 211106A",
+  "bibcode": "2021GCN.31054....1R",
+  "createdOn": 1636389598000,
+  "circularId": 31054,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, S. Golenetskii, A. Lysenko,\nD. Svinkin, A. Tsvetkova,  M. Ulanov, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 211106A\n(Swift/BAT-GUANO localization: Tohuvavohu et al., GCN 31049)\ntriggered Konus-Wind at T0=16652.485 s UT (04:37:32.485).\n\nThe burst light curve shows a single pulse\nstarted at ~T0-0.3 s with a total duration of ~0.5 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB211106_T16652/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 6.09(-1.22,+1.41)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.070 s,\nof 3.37(-1.59,+1.68)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst\n(measured from T0 to T0+0.192 s)\nis best fit in the 20 keV - 2 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.02(-0.80,+1.13)\nand Ep = 196(-45,+78) keV (chi2 = 27/23 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.2\n(chi2 = 27/22 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

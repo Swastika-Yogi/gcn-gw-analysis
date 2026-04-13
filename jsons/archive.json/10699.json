@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100427A detected in ground analysis of Swift BAT data",
+  "eventId": "GRB 100427A",
+  "bibcode": "2010GCN.10699....1C",
+  "createdOn": 1272471905000,
+  "circularId": 10699,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), H. A. Krimm (GSFC/USRA),\nand R. L. C. Starling (U Leicester) on behalf of the Swift team:\n\nAt 08:31:55 UT Swift-BAT detected a rate increase. Onboard analysis\nwas terminated prematurely by a pre-planned slew, but in later\nground analysis a significant source was found at\nRA, Dec 89.171,  -3.461, which is\n\nRA  (J2000)    05h 56m 41.1s\nDec (J2000)   -03d 27' 40\"\n\nwith an estimated uncertainty of 2.5 arcmin radius (90%\ncontainment).\n\nThe burst had two main peaks, the first much weaker, from about\nT-3 to T+3 sec and from T+11 to T+23 sec.  We have full data for\nonly the first, weaker peak.  The peak non-maskweighted count\nrate (15-350 keV) was about 3000 counts/sec at 16 seconds after\nthe trigger.\n\nSince the source was not detected onboard, there are no automated\ndata products for this burst.\n\nA Swift TOO has started."
+}

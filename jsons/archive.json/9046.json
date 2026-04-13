@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090328: Updated position/optical afterglow candidate",
+  "eventId": "GRB 090328",
+  "bibcode": "2009GCN..9046....1K",
+  "createdOn": 1238305570000,
+  "circularId": 9046,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@astro.psu.edu>",
+  "email": "kennea@astro.psu.edu",
+  "body": "J. Kennea (PSU), P. Evans and M. Goad (U Leicester) report on behalf of \nthe Swift/XRT Team:\n\nFurther analysis of the candidate afterglow of GRB 090328 has been \nperformed utilizing downlinked Swift XRT and UVOT data. Using 1329 s of \nXRT Photon Counting mode data and 2 UVOT images, we find an \nastrometrically corrected X-ray position (using the XRT-UVOT alignment and \nmatching UVOT field sources to the USNO-B1 catalogue): RA, Dec = 90.66494, \n-41.88265 which is equivalent to:\n\nRA (J2000):  06 02 39.58\nDec (J2000): -41 52 57.5\n\nwith an uncertainty of 2.0 arcsec (radius, 90% confidence). Position \nenhancement is described by Goad et al. (2007, A&A, 476, 1401 \nhttp://www.swift.ac.uk/xrt_positions/Goad.pdf), the current algorithm is \nan extension of this method.\n\nSwift/UVOT detects a point source at a location consistant with the \nXRT error circle, detected in the U and White filters. A catalogue search \ndoes not reveal any known source at the location of this source. We \ntentatively suggest that this UVOT source may be the optical afterglow of \nGRB 090328, although this cannot be confirmed until either the optical or \nX-ray afterglow candidates are seen to fade."
+}

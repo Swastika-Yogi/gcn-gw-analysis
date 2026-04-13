@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110709B: Swift/UVOT Detection of Possible Optical Flaring",
+  "eventId": "GRB 110709B",
+  "bibcode": "2011GCN.12140....1H",
+  "createdOn": 1310308559000,
+  "circularId": 12140,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) and\nJ. R. Cummings (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110709B\n91 s after the initial BAT trigger (Cummings et al., GCNC 12122).  We\ndetect a source at the location of the GROND source reported by Updike\net al. (GCNC 12129).  The preliminary UVOT position is:\n\n     RA (J2000)  10:58:37.03  =  164.65429 (deg)\n    Dec (J2000) -23:27:20.9   =  -23.45581 (deg)\n\nwith an estimated uncertainty of 0.49 arcsec (radius, 90% confidence,\nstatistical + systematic).  Preliminary photometry indicates that this\nsource may have flared at approximately the time of the second BAT\ntrigger (Barthelmy et al., GCNC 12124).  Preliminary magnitudes and\n3-sigma upper limits, using the UVOT photometric system (Poole et\nal. 2008, MNRAS, 383, 627) for the white exposures are:\n\nFilter    T_start(s) T_stop(s)  Exp(s)   Mag   Err\nwhite (fc)     91       241     147   >21.1   3-sigma upper limit\nwhite         583       603      19    20.10  0.49 \nwhite         756       776      19    19.74  0.37\nwhite         858      1008     147    20.94  0.34\nwhite (fc)   6245      6444     197    21.19  0.38\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.05 mag in the direction of the\nburst (Schlegel et al. 1998).  Further analysis of the Swift/UVOT data\nis ongoing."
+}

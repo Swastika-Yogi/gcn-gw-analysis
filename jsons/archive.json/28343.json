@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200901B: Swift/UVOT Detection",
+  "eventId": "GRB 200901B",
+  "bibcode": "2020GCN.28343....1B",
+  "createdOn": 1598991460000,
+  "circularId": 28343,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and B. Sbarufatti (PSU) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 200901B 176 s after the BAT trigger \n(Sbarufatti et al., GCN Circ. 28337).\nA source consistent with the XRT position (Sbarufatti et al. GCN Circ. 28337)is detected in the \ninitial UVOT exposures in the u filter only, but many exposures are smeared, so the magnitudes may \nnot be reliable.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system (Breeveld et al. \n2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nv                  482          801           58        >18.1\nb                  431          750           58        >19.1\nu                  176          426          245         19.3 �� 0.3\nw1                 531          851           58        >18.1\nm2                 506          826           58        >17.9\nw2                 457          776           58        >18.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of \nE(B-V) = 0.09 in the direction of the burst (Schlegel et al. 1998)."
+}

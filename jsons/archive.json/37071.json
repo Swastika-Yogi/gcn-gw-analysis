@@ -1,0 +1,14 @@
+{
+  "editedOn": 1722957438480,
+  "subject": "Konus-Wind detection of GRB 240804B (a counterpart of EP240804a)",
+  "eventId": "GRB 240804B",
+  "version": 2,
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.37071....1F",
+  "createdOn": 1722952435374,
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Dmitry Frederiks at Ioffe Institute <ddfrederiks@gmail.com>",
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 37071,
+  "format": "text/plain",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nA long-duration GRB 240804B was detected by Konus-Wind (KW)\nin the waiting mode at T0=T0(KW)~21:36:48 UT.\nA Bayesian block analysis of the KW data in the 100-400 keV\nband reveals a >4 sigma count rate increase in the interval\nfrom ~T0-5 s to ~T0+33 s.\n\nCorrected for the propagation time, the burst started ~5 s\nbefore the start time of the fast X-ray transient EP240804a\n(T0(EP)=21:36:53 UT; Wang et al., GCN 37034).\nThe burst source is located in the southern ecliptic hemisphere,\nwhich is consistent with the EP240703a localization.\nThe positional and temporal coincidence of GRB 240804B with\nthe EP transient supports the conclusion that EP240804a\nis the GRB counterpart.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240804B/\n\nThe time-integrated spectrum of the burst, measured from T0-5 s to T0+33 s,\ncat be described by a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = (0.16 ± 1.25) and Ep = (310 ± 164) keV.\n\nThe total burst fluence is (2.56 ± 1.11)x10^-6 erg/cm^2,\nand the 2.944 s peak energy flux, measured from T0-1.96 s,\nis (2.1 ± 0.9)x10^-7 erg/cm^2.\n(both in the 20 keV - 10 MeV energy range).\n\nAssuming the redshift z=3.662 (Bochenek et al., GCN 37039)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to (7.2 ± 3.1)x10^52 erg,\nthe isotropic peak luminosity L_iso to (3.7 ± 1.6)x10^52 erg/s, and\nthe rest-frame peak spectral energy Ep,z to (1450 ± 770) keV.\nWith the obtained estimates, GRB 240804B lies at the upper edge, but is consistent,\nwithin errors, with 'Amati' and 'Yonetoku' relations, for the sample\nof >300 long KW GRBs with known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB240804B/GRB240804B_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n\n"
+}

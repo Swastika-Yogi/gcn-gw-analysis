@@ -1,0 +1,10 @@
+{
+  "subject": "GRB061222A Swift/UVOT: Upper Limits",
+  "eventId": "GRB 061222A",
+  "bibcode": "2006GCN..5973....1O",
+  "createdOn": 1166811083000,
+  "circularId": 5973,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S.R Oates(UCL-MSSL), D. Grupe(PSU), S.B.Pandey(UCL-MSSL)\nreport on the behalf of the Swift UVOT team:\n\nThe Swift/UVOT began observing the field of GRB 061222A\n92 seconds after the BAT trigger (Grupe et al., GCN Circ.5954).\nNo optical afterglow candidate is detected in the XRT error circle\nwithin the first V and White exposures or in later coadded images.\n\nThe 3 sigma upper limits for each UVOT filter are given\nbelow:\n\nFilter        Tstart    Tend     Exposure    3sigUL\n-------------------------------------------------\nV finding       215     615       393        19.6\nWhite finding   111     209       97         20.0\n\nV               745      24842    5310       20.4\nB               693      24112    2713       20.8\nU               669      1591     78         19.4\nw1              645      1711     83         19.2\nm2              621      1701     97         19.3\nw2              721      1653     58         19.3\nWhite           110      1629     322        20.6\n-------------------------------------------------\n\nThe values quoted above are not corrected for the expected Galactic\nextinction of E_{B-V} = 0.099 mag (Schlegel et al. 1998)."
+}

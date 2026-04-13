@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081012: ROTSE-III Optical Limits",
+  "eventId": "GRB 081012",
+  "bibcode": "2008GCN..8362....1Y",
+  "createdOn": 1223823265000,
+  "circularId": 8362,
+  "submitter": "Fang Yuan at ROTSE  <yuanfang@umich.edu>",
+  "email": "yuanfang@umich.edu",
+  "body": "F. Yuan (U Mich) report on behalf of the ROTSE collaboration:\n\nROTSE-IIIa, located at Siding Spring Observatory, Australia, responded  \nto GRB 081012 (Swift trigger 331475, GCN 8361, Stroh et al. ),  \nproducing images beginning 7.2s after the GCN notice time. An  \nautomated response took the first image at 13:11:03.2 UT, 39.3s after  \nthe burst. Early observations were affected by proximity to the full  \nmoon and the first usable image started at 13:27:03.0 UT, ~1000s after  \nthe burst. We took over 100 20s exposures. These unfiltered images are  \ncalibrated relative to USNO A2.0 (R). Imaging is on going.\n\nComparison to the DSS (second epoch) reveals no new sources within the  \n3-sigma Swift/BAT error circle, for both single images and coadding  \ninto sets of 10. Individual images have limiting magnitudes ranging  \nfrom 15.8-16.2; we set the following specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n13:27:03.0   13:27:23.0        20     15.8             999       N\n13:28:01.3   13:32:42.9       281     17.4          1057       Y"
+}

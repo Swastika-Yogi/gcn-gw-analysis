@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 149118 is probably not a GRB",
+  "bibcode": "2005GCN..3766....1C",
+  "createdOn": 1123269557000,
+  "circularId": 3766,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC-NRC), S. Barthelmy (GSFC), D. Burrows (PSU),\nM. Chester (PSU), N. Gehrels (GSFC), M Goad (U. Leicester),\nO. Godet (U. Leicester), J. Kennea (PSU), A. Morgan (PSU),\nC. Pagani (PSU), D. Palmer (LANL)\non behalf of the Swift team:\n\nThe Swift-BAT trigger (trigger=149118) at 18:04:00 UT on 05 Aug 2005\nis not likely to be due to a GRB.  Although we detect an unknown source\nin the BAT FOV at RA,Dec=331.154,+29.902 (J2000, 3 arcmin, radius, 90%,\nsys+stat), we can not confirm that it is a GRB.  And given that we have\njust come out of the gap in the data downlink passes and that there was\na prior backlog of data to download, we will not have access to the\nfull data set on this trigger for about 8 hours.\n\nAt 18:06:00 UT XRT attempted to centroid on the BAT position, 120 secs \nafter the BAT trigger.  While the initial TRDSS lightcurve shows\na marginal spike in the count rate, the instrument drops immediately into \nPhoton-Counting mode with a very low count rate for the next 100 sec.\nBecause of the low count rate, no position was acquired by the\non-board software.  We await ground analysis of the early XRT data\nfollowing the first Malindi pass."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of the short hard GRB 061006",
+  "eventId": "GRB 061006",
+  "bibcode": "2006GCN..5710....1G",
+  "createdOn": 1160238124000,
+  "circularId": 5710,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe short hard GRB 061006 (Hurley et al., GCN 5702; Krimm et al., \nGCN5704; Swift trigger #232585 - Schady et al., GCN 5699)\ntriggered Konus-Wind at T0=60326.896 s UT (16:45:26.896).\n\nAs observed by Konus-Wind the burst shows\ntwo main multipeaked pulses with a total duration of ~0.5 s.\nThe weak extended tail detected by BAT\n(Krimm et al., GCN 5704) is marginally seen\nin the Konus-Wind soft energy range G1 (23-80 keV).\n\nThe burst fluence is 3.57(-1.92, +0.31)x10^-6 erg/cm2,\nand the 16-ms peak flux measured from T0+0.028 s\n2.13(-1.20, +0.41)x10^-5  erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe spectrum of the most intense part integrated from T0 to T0+0.256 s\n(this interval comprises ~2/3 of the burst total counts)\nis well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nwith alpha = 0.62(-0.21, +0.18)\nand Ep = 664(-144,  +227) keV (chi2 = 36/30 dof).\n\nAll the quoted errors are at the 90% confidence level."
+}

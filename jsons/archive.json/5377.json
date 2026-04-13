@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060729: ROTSE-III Observations of the Slow Optical Decay",
+  "eventId": "GRB 060729",
+  "bibcode": "2006GCN..5377....1Q",
+  "createdOn": 1154404637000,
+  "circularId": 5377,
+  "submitter": "Robert Quimby at U of Texas/ROTSE  <quimby@astro.as.utexas.edu>",
+  "email": "quimby@astro.as.utexas.edu",
+  "body": "R. Quimby (U Texas) and E. S. Rykoff (U Mich), report on behalf of the\nROTSE collaboration:\n\nROTSE-IIIa, located at the Siding Spring Observatory, Australia, responded\nto Swift trigger 221755 (GRB 060729; Grupe et al., GCN 5365) with an\nautomatic sequence of 10 5-second, 10 20-second, and 34 60-second\nintegrations before twilight set in (Quimby et al., GCN 5366). Another 30\n60-second images were taken on July 30, and 60 further 60-second frames\nwere recorded on July 31.\n\nNo optical source was detected in our first image, but seconds later we\nclearly detect a 15.7 magnitude transient object at the location of the\nUVOT source (GCN 5365; Immler, GCN 5367). The object faded over the next\n100 seconds, and then brightened to about 16.5 magnitude around 400\nseconds after the BAT trigger. After this, the optical transient slowly\nbegan to fade, approximately following a t^-0.23 power-law at least until\nthe July 30 observations. On July 31, the optical transient was about 19.4\nmagnitude, significantly fainter than an extrapolation of the simple\npower-law would predict. The 2.9 magnitude drop from t~400-seconds marks\none of the slowest 2 day average decline rates ever recorded by ROTSE-III.\n\nWe set the following representative detections and limits:\n\n    tstart        tend    exp    mag   emag\n-----------------------------------------------\n     64.26        69.26     5  >16.60\n     92.86        97.86     5   15.67  0.10\n    187.06       219.96    15  >17.28\n    448.57       604.68   120   16.56  0.05\n   2269.84      2830.05   480   16.93  0.05\n  72997.24     75133.01  1800   18.00  0.18\n 171304.69    175581.44  3600   19.39  0.18\n\n(times are seconds after the BAT trigger; magnitudes are unfiltered and\ncalibrated against the USNO-B1.0 R2)"
+}

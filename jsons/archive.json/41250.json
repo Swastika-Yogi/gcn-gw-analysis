@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250806A: SVOM/VT refined analysis",
+  "eventId": "GRB 250806A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41250....1X",
+  "createdOn": 1754494019239,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "circularId": 41250,
+  "format": "text/plain",
+  "body": "L. P. Xin, H. L. Li, Y. L. Qiu, C. Wu, Y. N. Ma, Z. H. Yao, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai,J. S. Deng, J. Y. Wei (NAOC),J. Palmerio (CEA) report on behalf of the SVOM mission team.\n \nSVOM/VT performed an automatic slew on the burst triggered by SVOM/ECLAIRs (Xie et al., GCN 41243) in the VT_B  (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nNo uncatalogued candidates were detected in our single or stacked images within the errorbox of the Swift/XRT position (Campana et al., GCN 41249) in the X-band downlinked data, comparing to Legacy survey.  The 3 sigma upper limits are: \n\n[T-T0, mid-time] | exposure time (s) | band | upper limit (AB) \n----------- -----|-------------------|------|----------------- \n377              |  9*50             | VT_B | 23.3 \n3293             |  59*50            | VT_B | 23.6 \n377              |  9*50             | VT_R | 22.9 \n3293             |  59*50            | VT_R | 23.2  \n\n\nOur photometry are not corrected for the Galactic extinction. \n\nOur results are consistent with non-detection of optical candidate (Wu et al., GCN 41244, Fortin et al., GCN 41245, Freeberg et al., GCN 41247)\n\nNIR follow-ups are encouraged to investigate the nature of the burst.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Centre for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n \nThe Burst Advocate (BA) on shift for this alert is  Wenjin Xie (xiewj@bao.ac.cn)\n"
+}

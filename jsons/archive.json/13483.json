@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120714B: Swift-XRT refined Analysis",
+  "eventId": "GRB 120714B",
+  "bibcode": "2012GCN.13483....1L",
+  "createdOn": 1342430221000,
+  "circularId": 13483,
+  "submitter": "Owen Littlejohns at U of Leicester  <oml2@le.ac.uk>",
+  "email": "oml2@le.ac.uk",
+  "body": "O. M. Littlejohns, K. Page (U. Leicester) & C. J. Saxton (UCL-MSSL)\nreports on behalf of the Swift-XRT team:\n\nWe have analysed 2.4 ks of XRT data for GRB 120714B (Saxton  et al. GCN\nCirc. 13471), from 110 s to 75.0 ks after the  BAT trigger. The data\ncomprise 9 s in Windowed Timing (WT) mode (taken while Swift was\nslewing), with the remainder in Photon Counting (PC) mode.\n\nThe light curve can be modelled with  a power-law decay with a decay\nindex of alpha=1.87 (+0.13, -0.09).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.0 (+0.9, -0.6). The\nbest-fitting absorption column is  1 (+11, -0) x 10^20 cm^-2,\nconsistent with the Galactic value of 1.2 x 10^20 cm^-2 (Kalberla et\nal. 2005). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 3.4 x 10^-11 (3.6 x\n10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1 (+11, -0) x 10^20 cm^-2\nGalactic foreground: 1.2 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     2.0 (+0.9, -0.6)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00526642.\n\nThis circular is an official product of the Swift-XRT team."
+}

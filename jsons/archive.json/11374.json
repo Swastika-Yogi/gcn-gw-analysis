@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101024A: Swift-BAT refined analysis",
+  "eventId": "GRB 101024A",
+  "bibcode": "2010GCN.11374....1U",
+  "createdOn": 1287942908000,
+  "circularId": 11374,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "T. N. Ukwatta (GWU), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), M. De Pasquale (UCL-MSSL) N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Sakamoto (GSFC/UMBC), M. Stamatikos (OSU), J. Tueller (GSFC)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 101024A (trigger #437016)\n(De Pasquale, et al., GCN Circ. 11370).  The BAT ground-calculated position is\nRA, Dec = 66.465, -77.261 deg, which is \n   RA(J2000)  =  04h 25m 51.6s \n   Dec(J2000) = -77d 15' 39.7\" \nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 76%.\n \nThe mask-weighted light curve consists of 4 peats, the first starting at\n~T-2 sec, peaking at ~T_zero, then the 3 remaining peaks at T+3 sec,\n~T+10, and ~T+18 sec, and returning to background at ~T+30 sec.\nT90 (15-350 keV) is 18.7 +- 0.5 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-0.3 to T+20.1 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 1.15 +- 0.31, \nand Epeak of 60.0 +- 9.3 keV (chi squared 49.9 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 1.5 +- 0.1 x 10^-6 erg/cm2\nand the 1-sec peak flux measured from T+9.39 sec in the 15-150 keV band is\n5.5 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.84 +- 0.07 (chi squared 66.9 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/437016/BA/"
+}

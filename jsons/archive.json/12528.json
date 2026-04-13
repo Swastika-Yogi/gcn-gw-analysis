@@ -1,0 +1,10 @@
+{
+  "subject": "GRB111103B Swift/UVOT Upper Limits",
+  "eventId": "GRB 111103B",
+  "bibcode": "2011GCN.12528....1O",
+  "createdOn": 1320355585000,
+  "circularId": 12528,
+  "submitter": "Patricia Schady at MPE/Swift  <msslba@googlemail.com>",
+  "email": "msslba@googlemail.com",
+  "body": "S. R. Oates (MSSL-UCL) and D. Grupe (PSU) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 111103B\n68 s after the BAT trigger (Grupe et al., GCN Circ. 12519).\nNo optical afterglow consistent with the XRT position (Goad et al., GCN Circ. 12525)\nis detected in the initial UVOT exposures.  The lack of an optical detection at the XRT \nrefined position excludes the possibility that the trigger is associated with the high proper \nmotion star (v~15mag) mentioned in Grupe et al. (GCN Circ. 12519) confirming that \nthe BAT trigger 506903 is a GRB.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            68          218          147         >20.6\nwhite               68         5055          344         >21.1\nv                 5266         5466          197         >19.1\nb                 4650         6161          270         >20.0\nu                  281         6081          297         >20.2\nw1                5677         5876          197         >19.9\nm2                5471         5670          197         >19.8\nw2                5061         5261          197         >20.3\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.29 in the direction of the burst\n(Schlegel et al. 1998)."
+}

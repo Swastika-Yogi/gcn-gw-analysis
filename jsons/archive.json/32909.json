@@ -1,0 +1,10 @@
+{
+  "subject": "IceCube-221104A - IceCube observation of a high-energy neutrino candidate track-like event",
+  "eventId": "IceCube-221104A",
+  "bibcode": "2022GCN.32909....1I",
+  "createdOn": 1667565750000,
+  "circularId": 32909,
+  "submitter": "Dr. Massimiliano Lincetto at Ruhr-Universitaet Bochum  <lincetto@astro.rub.de>",
+  "email": "lincetto@astro.rub.de",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nOn 2022-11-04 at 06:10:08.18 UT IceCube detected a track-like event with \na moderate probability of being of astrophysical origin. The event was \nselected by the ICECUBE_Astrotrack_Bronze alert stream.  The average \nastrophysical neutrino purity for Bronze alerts is 30%. This alert has \nan estimated false alarm rate of 2.63 events per year due to atmospheric \nbackgrounds. The IceCube detector was in a normal operating state at the \ntime of detection.\n\nAfter the initial automated alert \n(https://gcn.gsfc.nasa.gov/notices_amon_g_b/137217_75180896.amon), more \nsophisticated reconstruction algorithms have been applied offline, with \nthe direction refined to:\n\nDate: 2022-11-04\nTime: 06:10:08.18 UT\nRA: 209.62 (+0.74/-0.92 deg 90% PSF containment) J2000\nDec: +15.09 (+0.79/-0.80 deg 90% PSF containment) J2000\n\nWe encourage follow-up by ground and space-based instruments to help \nidentify a possible astrophysical source for the candidate neutrino.\n\nThere are no Fermi 4FGL or 3FHL catalog sources in the 90% uncertainty \nregion. The nearest gamma-ray source in either catalog is 4FGL \nJ1403.7+1513 at RA: 210.94 deg, Dec: 15.23 deg (1.28 deg away from the \nbest-fit event position).\n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector \noperating at the geographic South Pole, Antarctica. The IceCube realtime \nalert point of contact can be reached at roc@icecube.wisc.edu"
+}

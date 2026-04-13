@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT trigger 158700 is a probable Cosmic Ray Shower Event",
+  "bibcode": "2005GCN..4065....1M",
+  "createdOn": 1128706788000,
+  "circularId": 4065,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "C. Markwardt (GSFC/UMD), S. Barthelmy (GSFC), S.T. Holland (GSFC/USRA),\nJ. Kennea (PSU), F. Marshall (GSFC), J. Norris (GSFC), C. Pagani (PSU),\nD. Palmer (LANL), M. Perri (ASDC), P. Roming (PSU)\non behalf of the Swift team:\n\nAt 17:00:42 UT, Swift-BAT triggered (trigger=158700) on what we tentatively \nbelieve to be a cosmic ray shower event.  We will not know more until\nwe get the full data set in about 2-3 hours.\n\nXRT began observing the field at 17:01:40.11 UT (approximately 57 sec\nafter the BAT trigger) with the XRT in auto state.  The on-board detection\nalgorithm failed to centroid on a source, so no prompt X-ray position\nis available.  The XRT prompt spectrum and lightcurve show no signficant\nX-ray emission in the field.  Further analysis will require processing\nof the XRT full telemetry data following the next ground station contact.\n\nIn the 200 s V-band UVOT image, no new source is detected with respect to\nthe DSS to a limiting magnitude of 18.5 (5 sigma)."
+}

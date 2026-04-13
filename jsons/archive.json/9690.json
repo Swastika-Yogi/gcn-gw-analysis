@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090718B: Fermi GBM detection",
+  "eventId": "GRB 090718B",
+  "bibcode": "2009GCN..9690....1V",
+  "createdOn": 1248101359000,
+  "circularId": 9690,
+  "submitter": "Alexander van der Horst at NASA/MSFC  <Alexander.J.VanDerHorst@nasa.gov>",
+  "email": "Alexander.J.VanDerHorst@nasa.gov",
+  "body": "A.J. van der Horst (NASA/MSFC/ORAU) reports on behalf of the Fermi GBM \nTeam:\n\n\"At 18:17:42.84 UT on 18 July 2009, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 090718B (trigger 269633864 / 090718762).\nThe on-ground calculated location, using the GBM trigger data, is\nRA = 274.1, DEC = -36.4 (J2000 degrees, equivalent to 18h16m, -36d23'),\nwith an uncertainty of 1.2 degrees (radius, 1-sigma containment,\nstatistical only; there is additionally a systematic error which\nis currently estimated to be 2 to 3 degrees).\nThe angle from the Fermi LAT boresight is 76 degrees.\n\nThe GBM light curve consists of several peaks with\na duration (T90) of about 28 s (8-1000 keV).\nThe time-averaged spectrum from T0 to T0+29.7 s is well fit by\na power law function with an exponential high energy cutoff.  The\npower law index is -1.21 +/- 0.02 and the cutoff energy, parameterized\nas Epeak, is 198 +/- 9 keV (chi squared 507 for 480 d.o.f.).\n\nThe event fluence (8-1000 keV) in this time interval is\n(2.52 +/- 0.05)E-5 erg/cm^2. The 1-sec peak photon flux\nmeasured starting from T0+21.5 s in the 8-1000 keV band\nis 32.0 +/- 0.5 ph/s/cm^2.\n\nA Band function fits the spectrum equally well (chi squared 504 for\n479 d.o.f.) with Epeak = 184 +/- 9 keV, alpha = -1.18 +/- 0.03 and\nbeta = -2.59 +/- 0.26.\n\nThe temporal and spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

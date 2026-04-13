@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090929B, Swift-BAT refined analysis",
+  "eventId": "GRB 090929B",
+  "bibcode": "2009GCN..9979....1K",
+  "createdOn": 1254344667000,
+  "circularId": 9979,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "H. A. Krimm (GSFC/USRA),\nS. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL),\nN. Gehrels (GSFC),\nC. B. Markwardt (GSFC/UMD),\nC. Pagani (PSU),\nD. M. Palmer (LANL),\nA. M. Parsons (GSFC),\nT. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+691 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 090929 (trigger\n#371050) (Pagani, et al., GCN Circ. 9963).  The BAT ground-calculated\nposition is RA, Dec = 117.712, -0.645 deg which is\n    RA(J2000)  =  07h 50m 50.9s\n    Dec(J2000) = -00d 38' 41.2\"\nwith an uncertainty of 1.4 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 63%.\n\nThe mask-weighted lightcurve shows many peaks interspersed with\nintervals with no detected flux, from T-10 to T+380 sec when the source\nleft the coded field of view due to a observing constraint. There may\nhave been small and/or low-energy peaks beyond this time.  The largest\npeak was at about T+30 to T+40 sec. T90 (15-350 keV) was 360 +- 20 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-9.8 to T+371.0 sec is best fit by a\nsimple power-law model.  The power law index of the time-averaged\nspectrum is 1.85 +- 0.08.  The fluence in the 15-150 keV band is\n5.9 +- 0.3 x 10^-06 erg/cm2.  The 1-sec peak photon flux measured from\nT+30.67 sec in the 15-150 keV band is 3.3 +- 0.2 ph/cm2/sec.  All the\nquoted errors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/371050/BA/"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090904B: Swift-BAT refined analysis",
+  "eventId": "GRB 090904B",
+  "bibcode": "2009GCN..9890....1S",
+  "createdOn": 1252070849000,
+  "circularId": 9890,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "T. Sakamoto (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), V. D'Elia (ASDC), E. E. Fenimore (LANL),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-119 to T+303 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 090904B (trigger #361831)\n(D'Elia, et al., GCN Circ. 9881).  The BAT ground-calculated position is\nRA, Dec = 264.194, -25.219 deg, which is \n   RA(J2000)  =  17h 36m 46.5s \n   Dec(J2000) = -25d 13' 09.0\" \nwith an uncertainty of 1.2 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 8%.\n \nThe mask-weighted light curve shows the burst starting at ~T-30 sec, with\nseveral overlapping peaks between T-5 to T+20 sec and another series\nfrom T+30 to T+50 sec. The burst is over by ~T+70 sec  T90 (15-350 keV)\nis 47.0 +- 1.7 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-2.5 to T+49.7 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.59 +- 0.07.  The fluence in the 15-150 keV band is 1.1 +- 0.0 x 10^-5 erg/cm2.\nThe 1-sec peak photon flux measured from T+12.42 sec in the 15-150 keV band\nis 5.3 +- 0.9 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/361831/BA/"
+}

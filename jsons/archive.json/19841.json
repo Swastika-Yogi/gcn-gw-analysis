@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160821B: Swift-XRT refined Analysis",
+  "eventId": "GRB 160821B",
+  "bibcode": "2016GCN.19841....1S",
+  "createdOn": 1471875535000,
+  "circularId": 19841,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "B. Sbarufatti (INAF-OAB/PSU), D.N. Burrows (PSU), J.P. Osborne (U.\nLeicester), K.L. Page (U. Leicester), B. Mingo (U. Leicester), A.\nMaselli  (INAF-IASFPA), A. Melandri (INAF-OAB), P. D'Avanzo (INAF-OAB),\nT.G.R. Roegiers (PSU) and M.H. Siegel report on behalf of the Swift-XRT\nteam:\n\nWe have analysed 9.5 ks of XRT data for GRB 160821B (Siegel et al. GCN\nCirc. 19833), from 56 s to 35.9 ks after the  BAT trigger. The data\ncomprise 198 s in Windowed Timing (WT) mode (the first 8 s were taken\nwhile Swift was slewing) with the remainder in Photon Counting (PC)\nmode. The enhanced XRT position for this burst was given by Evans et\nal. (GCN Circ. 19837).\n\nThe late-time light curve (from T0+4.9 ks) can be modelled with a\npower-law decay with a decay index of alpha=0.5 (+/-0.3).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.95 (+0.08, -0.07). The\nbest-fitting absorption column is  7.5 (+2.0, -1.7) x 10^20 cm^-2,\nconsistent with the Galactic value of 5.8 x 10^20 cm^-2 (Willingale et\nal. 2013). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 3.3 x 10^-11 (3.9 x\n10^-11) erg cm^-2 count^-1. \n\nA summary of the WT-mode spectrum is thus:\nTotal column:\t     7.5 (+2.0, -1.7) x 10^20 cm^-2\nGalactic foreground: 5.8 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.95 (+0.08, -0.07)\n\nIf the light curve continues to decay with a power-law decay index of\n0.5, the count rate at T+24 hours will be 3.8 x 10^-3 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 1.2 x\n10^-13 (1.4 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00709357.\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 419015 is probably not a GRB",
+  "bibcode": "2010GCN.10578....1I",
+  "createdOn": 1270886289000,
+  "circularId": 10578,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. Immler (CRESST/GSFC/UMD), C. Guidorzi (U Ferrara),\nH. A. Krimm (CRESST/GSFC/USRA), V. Mangano (INAF-IASFPA),\nC. B. Markwardt (CRESST/GSFC/UMD), D. M. Palmer (LANL),\nP. Romano (INAF-IASFPA), B. Sbarufatti (INAF-OAB/IASFPA) and\nM. A. Stark (PSU) report on behalf of the Swift Team:\n\nAt 07:27:40 UT, the Swift Burst Alert Telescope (BAT) triggered\non trigger 419015.  Swift slewed immediately to this location. \nThe BAT on-board calculated location is \nRA, Dec 293.310, -34.309 which is \n   RA(J2000) = 19h 33m 14s\n   Dec(J2000) = -34d 18' 30\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows that this trigger \noccurred on the run up to the SAA and includes nothing significant \nat the trigger time. \n\nThe XRT began observing the field at 07:28:39.9 UT, 59.3 seconds after\nthe BAT trigger. No convincing point source is visible in the field of view. \n\nDue to passage into the SAA after the trigger, no prompt UVOT data is\navailable. \n\nGiven that this trigger occurred during the run-up to the SAA,\nthe lack of a peak in the BAT rate light curve at the\ntime of a trigger, and the lack of an XRT source, we\ncurrently believe that this source is not an astrophysical\nGRB.  Confirmation of this will require the data from after\nthe spacecraft emerges from the SAA, and the data available\nfrom the Malindi downlink."
+}

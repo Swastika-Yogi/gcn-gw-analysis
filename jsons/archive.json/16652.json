@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140730A, Swift-BAT refined analysis",
+  "eventId": "GRB 140730A",
+  "bibcode": "2014GCN.16652....1B",
+  "createdOn": 1406920359000,
+  "circularId": 16652,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), A. Y. Lien (NASA/UMBC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+902 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 140730A (trigger #607742)\n(Markwardt, et al., GCN Circ. 16642).  The BAT ground-calculated position is\nRA, Dec = 56.350, -66.580 deg which is\n  RA(J2000)  =  03h 45m 24.0s\n  Dec(J2000) = -66d 34' 48.7\"\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows several overlapping pulses. The first major\npulse starts at ~T-14s, peaks at  ~T-13 s, and ends at ~T-4 s. The second major pulse\nstarts at ~T+0 s, peaks at ~T+1s, and ends at ~T+5 s. The whole burst structure ends\nat ~T+41 s. T90 (15-350 keV) is 41.3 +- 3.7 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-13.5 to T+29.6 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.50 +- 0.32.  The fluence in the 15-150 keV band is 2.8 +- 0.5 x 10^-7 erg/cm2.\nThe 1-sec peak photon flux measured from T+1.17 sec in the 15-150 keV band\nis 0.5 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/607742/BA/"
+}

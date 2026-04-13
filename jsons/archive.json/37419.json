@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240905E: NUTTelA-TAO / BSTI Optical Limits",
+  "eventId": "GRB 240905E",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37419....1M",
+  "createdOn": 1725687220823,
+  "submitter": "Zhanat Maksut at Nazarbayev University <zhanat.maksut@nu.edu.kz>",
+  "circularId": 37419,
+  "format": "text/plain",
+  "body": "Z. Maksut (NU), B. Grossan (UCB, NU), T. Komesh (NU), Z. Abdullayev (NU), M. Krugov (FAI) and E. Abdikamalov (NU) report on behalf of the Energetic Cosmos Laboratory:\n\nThe Nazarbayev University Transient Telescope at Assy-Turgen Astrophysical Observatory (NUTTelA-TAO) observed the field of GRB 240905E, 10 seconds after receipt of an automated GCN / BAT position alert, in Sloan g' and r' bands, with the Burst Simultaneous Three-Channel Imager (Grossan, Kumar & Smoot 2019, JHEA, 32, 14).\nWe started observations of GRB 240905E (Dichiara et al., GCN 37397) at UT 18:26:58 on 2024-09-05, 55 seconds after the BAT trigger. Observations were made in windy conditions.  We report the following upper limit results:\n\nstart time  t_m-t0(s)  end time    UL g'   UL r'   exposure_time (image x s)\n-----------------------------------------------------------------------\n18:26:58     57     18:27:03     17.01     17.08    10x0.5\n18:39:41     908    18:42:41     18.60     18:61     3x60\n20:36:14     7991   20:42:14     19.11     19.15     1x360\n\nThe start and end time is in UT. t_m is the middle time, t0 is the BAT trigger time, t_m-t0 is given in seconds. UL gives the 5 sigma upper limit sensitivity in magnitudes, for images co-added to the given exposure time. Calibration was done with 4 Pan-STARRS catalog stars on our images. No color corrections were applied to the values above.\n\n----------------------------------\nNU = Nazarbayev University, Astana, Kazakhstan\nUCB = University of California, Berkeley, USA\nFAI = Fesenkov Astrophysical Institute, Kazakhstan\n\nThis research has been funded by the Science Committee of the Ministry of Science and Higher Education of the Republic of Kazakhstan (Grant No. AP14870504). The NUTTelA-TAO Team acknowledges the support of the staff of the Assy-Turgen Astrophysical Observatory, Almaty, Kazakhstan, and the Fesenkov Astrophysical Institute, Almaty, Kazakhstan.\n"
+}

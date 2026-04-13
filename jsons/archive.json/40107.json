@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 250406B (short/hard)",
+  "eventId": "GRB 250406B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40107....1F",
+  "createdOn": 1744046044597,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 40107,
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe bright, short-duration GRB 250406B\n(IPN localization: Kozyrev et al., GCN 40106).\ntriggered Konus-Wind (KW) at T0=21401.479 s UT (05:56:41.479).\n\nThe burst light curve shows a multi-peaked pulse,\nwhich starts at ~T0-0.032 s and has a duration of ~0.240 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250406_T21401/\n\nAs observed by Konus-Wind, the burst had the total fluence\nof 2.54(-0.51,+0.62)x10^-6 erg/cm^2 and a 16-ms peak energy flux,\nmeasured from T0-0.016 s, of 3.06(-0.61,+0.69)x10^-5 erg/cm^2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst (measured from T0 to T0+0.256 s)\nis best fit in the 20 keV - 15 MeV range by a power law with exponential\ncutoff (CPL) model: dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.97(-0.10,+0.12) and Ep = 2118(-590,+818) keV (chi2 = 35/38 dof).\nFitting this spectrum by a Band function yields the same values of alpha and Ep,\nand an upper limit on the high energy photon index beta of -2.15 (chi2 = 35/37 dof).\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

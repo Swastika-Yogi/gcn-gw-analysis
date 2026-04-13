@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB060306",
+  "eventId": "GRB 060306",
+  "bibcode": "2006GCN..4852....1D",
+  "createdOn": 1141670866000,
+  "circularId": 4852,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL), L. Angelini (GSFC) on the behalf of the \nSwift/UVOT team:\n\n  The Swift/UVOT began observing the field of GRB 060306 at 00:50:32 UT on \nMarch 6, 2006, 79 sec after the trigger (Angelini et al. GCN 4848). No \nsource is detected at the refined XRT position (Page et al. GCN 4850) down \nto the following 3 sigma upper limits:\n\n  Filter    T-range (sec since trigger)    Exp (sec)     3sigma U.L. (mag)\n\n   V             79-34440                  2918            20.1\n\n   B             460-29558                 2708            20.7\n\n   U             405-28651                 2701            20.1\n\n   UW1           351-36040                 2173            20.6\n\n   UM2           297-12199                 2800            20.9\n\n   UW2           569-7040                  2040            21.0\n\n  White          513-562                     50            19.3\n\n\n  Quoted magnitudes have not been corrected for extinction, E(B-V)=0.036"
+}

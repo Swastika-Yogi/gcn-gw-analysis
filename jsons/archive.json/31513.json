@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of an intermediate flare from SGR 1935+2154 on January 20",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2022GCN.31513....1R",
+  "createdOn": 1642783341000,
+  "circularId": 31513,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, D. Frederiks, M. Ulanov, D. Svinkin,\nA. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe bright burst from SGR 1935+2154\n(IPN triangulation: Kozyrev et al., GCN Circ. 31512)\ntriggered Konus-Wind at T0=35475.962 s UT (09:51:15.962)\non 2021 January 20.\n\nThe light curve shows a single pulse with a sharp(<10 ms) rise\nand a total duration of ~1.2 s.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/SGRs/220120_T35475/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 7.54(-0.19,+0.19)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.012 s,\nof 1.08(-0.11,+0.11)x10^-5 erg/cm2/s\n(both in the 20 - 500 keV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+1.024 s)\nis best fit in the 20 - 200 keV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = 0.17(-0.26,+0.27)\nand Ep = 43(-1,+1) keV (chi2 = 44/25 dof).\n\nThe rather long duration of the event along with the\nlarge measured energy fluence put the burst in the class\nof \"intermediate\" SGR flares.\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

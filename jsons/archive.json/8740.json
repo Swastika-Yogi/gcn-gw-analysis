@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081226B: Swift XRT and UVOT upper limits",
+  "eventId": "GRB 081226B",
+  "bibcode": "2008GCN..8740....1E",
+  "createdOn": 1230372176000,
+  "circularId": 8740,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans (U. Leicester) and E.A. Hoversten (PSU) report on behalf of\nthe Swift team:\n\nSwift observed the field of GRB 081226B (Mereghetti et al. GCN Circ\n8734) for 8 ks, beginning 9.6 ks after the INTEGRAL trigger. The XRT\ndata (all in Photon Counting mode) contain no source in the INTEGRAL\nerror circle. A 3-sigma upper limit is 0.001 counts/sec which is 5.6e-14\nerg cm^-2 s^-1 for a typical GRB spectrum.\n\nGiven the absence of an XRT position, the UVOT images were compared to\narchival images from the Digitized Sky Survey.  No candidate afterglow\nwas found in the INTEGRAL error circle.  UVOT magnitude 3-sigma upper\nlimits are reported in the following table:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nWHITE     9744     22737    1414        > 22.24\nv         9621     27619    1940        > 20.48\nb         9720     21824    1414        > 21.06\nu         9694     16082     352        > 20.34\nuvw1     10019     15877     313        > 20.20\nuvm2     15472     28224     787        > 20.75\nuvw2     10812     23271     932        > 21.27\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.01 mag.\nAll photometry is on the UVOT photometric system described in Poole et\nal. (2008, MNRAS, 383, 627).\n\nThis circular is an official product of the Swift XRT and UVOT teams."
+}

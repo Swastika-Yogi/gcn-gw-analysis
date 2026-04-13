@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201214B: Swift BAT location of short burst",
+  "eventId": "GRB 201214B",
+  "bibcode": "2020GCN.29045....1S",
+  "createdOn": 1608000030000,
+  "circularId": 29045,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "K. K. Simpson (PSU), D. M. Palmer (LANL) and A. Tohuvavohu (U Toronto)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 16:07:46 UT on 2020-12-14, simultaneously with the Fermi GBM \ndetection of GRB 201214B (GCN 29039), BAT triggered (Trigger=1012872) \non a rate increase at the 0.064 s timescale and produced an image. \nThis image shows a 6 sigma peak, which was not significant enough \nto trigger an automated ground notification and repoint. \nThe on-board calculated location \nra, dec = 188.032, +9.045 was refined by ground analysis \nto 187.9710, +9.1031 which is\n RA(J2000) = 12h 31m 53s\n Dec(J2000) = 09d 06' 11���\nwith an uncertainty of 2 arcminutes (radius, 90% containment, including \nsystematic uncertainty).  The currently-available BAT light curve shows\na ~0.1 second long peak, with a possible smaller peak 0.3 seconds earlier. \nThe peak value on a 64 ms timescale is ~3000 counts/s (15-350 keV)\nat the trigger time. \n\nSwift has begun XRT and UVOT observations of this source starting at T0+~28ks\nusing the on-board BAT location (GCN 29043). \nAutomated analysis of the XRT data will be presented online at\nhttps://www.swift.ac.uk/ToO_GRBs/00021407\n\nThe BAT location is consistent with both the Fermi-GBM position and \nthe IPN annulus (Svinkin, priv. comm.).  The temporal and positional \ncoincidence with the Fermi GBM burst convinces us that the BAT\nlocation is correct. \n\nBurst Advocate for this burst is K. K. Simpson (kira.simpson1984 AT gmail.com). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)"
+}

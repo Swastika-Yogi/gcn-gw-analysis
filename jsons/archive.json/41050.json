@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250704B (short/hard, consistent with EP 250704a)",
+  "eventId": "GRB 250704B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41050....1K",
+  "createdOn": 1752074773441,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 41050,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nY. Zhang, C. Wang, S. Xiong, J. Wei, and B. Cordier\non behalf of the SVOM-GRM team,\n\nC. Wang, S. Xiong, S. Zheng and Y. Zhang,\non behalf of the Insight-HXMT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe bright, short-duration GRB 250704B\n(SVOM/GRM observation: Wang et al., GCN 40940;\nKonus-Wind detection: Frederiks et al., GCN 40972;\nInsight-HXMT detection: Wang et al., GCN 40978;\nCALET/CGBM detection: Shimizu et al., GCN 41025)\nwas detected by SVOM(GRB), Konus-Wind, Insight (HXMT),\nCALET (CGBM), and Mars-Odyssey (HEND) at about 29791 s UT (08:16:31).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  300.880 (20h 03m 31s) +12.053 (+12d 03' 11\")\n Corners:\n  300.926 (20h 03m 42s) +12.075 (+12d 04' 30\")\n  300.872 (20h 03m 29s) +12.109 (+12d 06' 33\")\n  300.834 (20h 03m 20s) +12.031 (+12d 01' 52\")\n  300.888 (20h 03m 33s) +11.997 (+11d 59' 49\")\n ---------------------------------------------\nThe error box area is 19 sq. arcmin, and its maximum\ndimension is 7 arcmin (the minimum one is 4 arcmin).\nThe Sun distance was 141 deg.\n\nThis localization may be improved.\n\nThe position of EP250704a (Li et al., GCNs 40941, 40956)\nis consistent with the IPN localization, supporting\nthe association of the GRB and EP 250704a.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250704_T29791/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density."
+}

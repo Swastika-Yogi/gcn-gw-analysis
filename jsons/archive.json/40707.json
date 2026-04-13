@@ -1,0 +1,14 @@
+{
+  "subject": "sb25061207: SVOM/VT optical counterpart",
+  "editedOn": 1749762037878,
+  "eventId": "sb25061207",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40707....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "circularId": 40707,
+  "createdOn": 1749742831563,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, Z. H. Yao, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, Y. N. Ma, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA), L. Zhang (IHEP), Y.-D. Hu (GXU), X.-L. Chen (YNU) report on behalf of the SVOM mission team\n\nSVOM performed an automatic slew on the burst (sb25061207) triggered by SVOM/ECLAIRs (Zhang et al., GCN 40697). SVOM/VT began observing the field at 2025-06-12T10:30:44  UTC,  202 seconds after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nA candidate is found using VT X-band data, compared to Legacy survey, within the error box of SVOM/Eclairs (Zhang et al., GCN 40697) at R.A., Dec 198.09415,  +0.07508  degrees:\n\nRA (J2000) = 13:12:22.597\nDec (J2000) =  +00:04:30.28\n\nwith an uncertainty of 0.5 arcsec.\n \nThe source is detected in both VT_R and VT_B bands. With the data available, the light curve shows that this source was fading at first time, and then rebrightening to the peak of VT_R ~ 18.0 mag at around 1000 seconds after the trigger time, and then decayed.  \n\n mid-time    |  exposure time   | band | mag (AB) \n------------ |----------------- |-------------------\n 1.79 hour   |  50 sec          | VT_B |  21.6+/-0.2        \n 1.79 hour   |  50 sec          | VT_R |  20.8+/-0.1    \n\nGiven the VT colour of the candidate, it might be a low redshift transient.\n\nMore followups are encouraged. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the   Chinese National Space Administration (CNSA, China), National Centre for   Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS,   China), which is dedicated to observing gamma-ray bursts and other transient   phenomena in the energetic universe. VT was jointly developed by Xi'an   Institute of Optics and Precision Mechanics (XIOPM), CAS and National   astronomical observatories (NAOC), CAS.\n \nThe Burst Advocate (BA) on shift for this alert is Y.-D. Hu : hyd@gxu.edu.cn.\n"
+}

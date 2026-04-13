@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200613A: MITSuME Akeno optical upper limits",
+  "eventId": "GRB 200613A",
+  "bibcode": "2020GCN.27962....1M",
+  "createdOn": 1592272114000,
+  "circularId": 27962,
+  "submitter": "Katsuhiro L. Murata at Nagoya U  <murata@u.phys.nagoya-u.ac.jp>",
+  "email": "murata@u.phys.nagoya-u.ac.jp",
+  "body": "K. L. Murata, N. Ito, R. Hosokawa, R. Adachi, M. Niwano, F. Ogawa, N.\nNakamura, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.\nKawai(TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 200613A (Fermi GBM team, GCN 27926; Bissaldi\net al., GCN 27930; Ohno et al., GCN 27931) with the optical three color\n(g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescope of\nAkeno Observatory, Yamanashi, Japan.\n\nThe observation started on 2020-06-15 11:33. We did not detect the optical\nafterglow (Kann et al., GCN 27935; Kennea et al., GCN 27936; Pozanenko et\nal., GCN 27937; Izzo et al., GCN 27939; Zhu et al., GCN 27943; Marshall et\nal., GCN 27944; Liu et al., GCN 27949; Belkin et al., GCN 27958) in the\nstacked image. We obtained the 5-sigma limits as follows.\n\nT0+[hour] MID-UT T-EXP[sec] 5-sigma limits\n------------------------------------------------------------------------------------------------\n54 2020-06-15T12:29:27 2040 g'>19.3, Rc>19.5, Ic>18.6\n------------------------------------------------------------------------------------------------\nT0+: Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The magnitudes are expressed\nin the AB system. The images were processed in real-time through the\nMITSuME GPU reduction pipeline (Niwano et al., submitted;\nhttps://github.com/MNiwano/Eclair)"
+}

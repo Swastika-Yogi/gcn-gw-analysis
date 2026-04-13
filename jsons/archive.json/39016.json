@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 250119B",
+  "eventId": "GRB 250119B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39016....1R",
+  "createdOn": 1737645737447,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 39016,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 250119B\n(Fermi-GBM detection: Fermi GBM team, GCN 38979;\nPreis et al., GCN 38980; Pathak et al., GCN 39003;\nINTEGRAL/SPI-ACS detection: Barria et al., GCN 38997;\nSwift-BAT/GUANO detection: Ronchini et al., 39007\nIPN triangulation: Kozyrev et al., GCN 39015)\ntriggered Konus-Wind at T0=30434.631 s UT (08:27:14.631).\n\nThe burst light curve shows two separated multipeaked emission episodes.\nThe first episode starts at ~T0-18.6 s and has a total duration of ~162 s,\nthe second starts at ~T0+233 s and lasts up to ~T0+274 s.\nThe emission is seen up to ~3 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250119_T30434/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.36(-0.16,+0.16)x10^-4 erg/cm2,\nand a 64-ms peak flux, measured from T0+31.440 s,\nof 9.43(-1.10,+1.11)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+273.664 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -1.02(-0.08,+0.09),\nthe high energy photon index beta = -2.37(-0.35,+0.19),\nthe peak energy Ep = 332(-36,+43) keV\n(chi2 = 95/96 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+29.184 to T0+36.096 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.64(-0.08,+0.09),\nthe high energy photon index beta = -2.43(-0.17,+0.12),\nthe peak energy Ep = 297(-20,+23) keV\n(chi2 = 85/79 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary.\n"
+}

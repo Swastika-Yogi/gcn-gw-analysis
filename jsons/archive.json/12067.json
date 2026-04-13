@@ -1,0 +1,10 @@
+{
+  "subject": "Swift detection of the X-ray afterglow of GRB 110604A",
+  "eventId": "GRB 110604A",
+  "bibcode": "2011GCN.12067....1S",
+  "createdOn": 1307725664000,
+  "circularId": 12067,
+  "submitter": "Boris Sbarufatti at INAF-OAB/IASFPA  <boris.sbarufatti@brera.inaf.it>",
+  "email": "boris.sbarufatti@brera.inaf.it",
+  "body": "B. Sbarufatti (INAF-OAB/IASFPA), J. Cummings (GSFC), M. De Pasquale \n(MSSL) report on behalf of the Swift Team.\n\nWe have analyzed 14.5 ks of Photon Counting data for GRB 110604A \n(Barthelmy et al., GCN 12063), observed from 138 ks to 425 ks after the \nKonus-Wind trigger.\n\nWe find a single, fading source inside the XRT field of view. Using 2497 \ns of XRT Photon Counting mode data and 2 UVOT images, we find an \nastrometrically corrected X-ray position (using the XRT-UVOT alignment \nand matching UVOT field sources to the USNO-B1 catalogue): RA, Dec = \n270.85885, +18.39961 which is equivalent to:\n\nRA (J2000):   18h 03m 26s.12\nDec(J2000):  +18d 23' 58\".6\n\nwith an uncertainty of 2.4 arcsec (radius, 90% confidence). This is 9.3 \narcmin away from the initial IPN position. The source was first detected \nat a level of (1.2+/-0.2)E-3 counts/s (equivalent to 5.1E-13 erg cm^-2 \ns^-1), 138 ks after the trigger, and has faded to a level of \n(1.4+/-0.6)E-3 counts/s at 421 ks (equivalent to 6.0E-14 erg cm^-2 \ns^-1). Another Swift observation is planned for June 14, 2011 in order \nto confirm fading.\n\nNo optical source is found within the XRT error circle. Preliminary \n3-sigma upper limits using the UVOT photometric system (Poole et al. \n2008, MNRAS, 383, 627) are:\n\n\nFilter  T_start (s)   T_end (s)  Exp (s)  mag\nwhite    207930       237252     1399     >22.9\nv        208162       237295     516      >19.6\nu        207698       240533     2864     >21.5\n\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.24 in the direction of the \nburst (Schlegel et al. 1998).\n\nThis circular is an official product of the Swift-XRT team."
+}

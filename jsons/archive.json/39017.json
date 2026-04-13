@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250118B",
+  "eventId": "GRB 250118B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39017....1K",
+  "createdOn": 1737645896277,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 39017,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 250118B\nwas detected by Konus-Wind, INTEGRAL (SPI-ACS), Swift (BAT),\nand Mars-Odyssey (HEND) at about 13107 s UT (03:38:27).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  108.006 (07h 12m 01s) -29.557 (-29d 33' 25\")\n Corners:\n  114.190 (07h 36m 46s) -29.989 (-29d 59' 21\")\n  112.319 (07h 29m 17s) -30.334 (-30d 20' 03\")\n  101.717 (06h 46m 52s) -28.434 (-28d 26' 02\")\n  103.724 (06h 54m 54s) -28.453 (-28d 27' 11\")\n ---------------------------------------------\nThe error box area is 4.5 sq. deg, and its maximum\ndimension is 11.0 deg (the minimum one is 28.7 arcmin).\nThe Sun distance was 128 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250118_T13107/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241026A: J-band observations with WINTER",
+  "eventId": "GRB 241026A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37915....1M",
+  "createdOn": 1730064269772,
+  "circularId": 37915,
+  "submitter": "Geoffrey Mo at MIT <gmo@mit.edu>",
+  "format": "text/markdown",
+  "body": "Geoffrey Mo (MIT), Tomas Ahumada (Caltech), Benjamin Schneider (MIT), Viraj Karambelkar (Caltech), Danielle Frostig (CfA), Robert Stein (Caltech), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 241026A (Fermi GBM Team, GCN 37894; Melandri et al., GCN 37896; Li et al., GCN 37909; D'Avanzo et al., GCN 37908) in the near-infrared J-band with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). \n\nObservations were triggered automatically and began at 2024-10-27T01:39:58 UTC (~3.0 hours after the GRB), consisting of 15 x 120 s exposures. The images were processed using the WINTER data reduction pipeline (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). \n\nWe do not detect a source at the optical and enhanced Swift/XRT counterpart location (Evans et al., GCN 37897; Lipunov et al., GCN 37898; Moskvitin et al., GCN 37899; Watson et al., GCN 37900; Zheng et al., GCN 37903; Osborne et al., GCN 37904; Shrestha et al., GCN 37913). We obtain the following 5-sigma upper limit: J ~ 18.2 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

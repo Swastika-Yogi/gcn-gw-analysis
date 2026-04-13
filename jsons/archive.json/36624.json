@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240531A (short)",
+  "eventId": "GRB 240531A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36624....1S",
+  "createdOn": 1717617073015,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 36624,
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns, on behalf of the IPN,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nG. Waratkar (IITB), J.Joshi (IUCAA), A. Vibhute (IUCAA),\nV. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA),\nA. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL)\non behalf of the Astrosat-CZTI team, report:\n\nThe short-duration GRB 240531A\n(Astrosat-CZTI detection: Wang et al., GCN 36586)\nwas detected by Astrosat (CZTI), Konus-Wind (KW), in the waiting mode,\nand Swift (BAT) at about 68052 s UT (18:54:12).\nThe burst occurred during Swift slewing interval\n(when normal BAT triggering is disabled).\n\nWe have triangulated it to a BAT-Konus annulus centered at\nRA(2000)=91.405 deg (06h 05m 37s) Dec(2000)=+25.128 deg (+25d 07' 40\"),\nwhose radius is 84.474 +/- 16.042 deg (3 sigma).\n\nThe annulus combined with Swift and Astrosat Earth occultation information, and the KW ecliptic latitude response, gives 3848 sq. deg (3 sigma) localization region.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240531_T68052/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of probability density.\n\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240415A: Mondy optical transient detection (photometry correction in GCN 36118 )",
+  "eventId": "GRB 240415A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.36121....1P",
+  "createdOn": 1713213731112,
+  "submitter": "Alexei Pozanenko at IKI, Moscow <apozanen@iki.rssi.ru>",
+  "circularId": 36121,
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP), A. Moskvitin (SAO RAS), S. Belkin (IKI) report on behalf of GRB-IKI-FuN:\n\nWe report correction to the GCN 36118 (Pankov et al.) and additional photometry in subsequent epochs.  \nPreliminary photometry of the optical transient is following:\n\nDate       UT_start  MJD           Filter Exp.  OT    err  UL(3sigma)\n                    (mid, days)           (s)\n2024-04-15 14:33:22  60415.627345  R     30*120 19.9 0.1 21.8\n2024-04-15 16:13:49  60415.697104  R     30*120 20.5 0.1 21.9\n2024-04-15 17:20:02  60415.732668  R     15*120 20.9 0.1 21.9\n\nThe magnitudes were calibrated using nearby USNO-B1.0 stars.\n\n"
+}

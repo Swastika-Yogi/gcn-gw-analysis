@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250821B (long/bright)",
+  "eventId": "GRB 250821B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41498....1K",
+  "createdOn": 1755877564848,
+  "circularId": 41498,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe bright, long-duration GRB 250821B\n(Ferm-GBM detection: The Fermi GBM team, GCN 41473;\nSmith and Meegan, GCN 41477;\nBALROG localization: Preis and Greiner, GCN 41475;\nSVOM-GRM detection: Tan et al., GCN 41486)\nwas detected by Fermi (GBM trigger 777485272), SVOM (GRM),\nKonus-Wind, and Mars-Odyssey (HEND), at about 58067 s UT (16:07:47).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n   29.373 (01h 57m 30s) -82.081 (-82d 04' 51\")\n Corners:\n   26.171 (01h 44m 41s) -82.255 (-82d 15' 19\")\n   32.420 (02h 09m 41s) -81.925 (-81d 55' 30\")\n   32.427 (02h 09m 42s) -81.883 (-81d 52' 58\")\n   26.212 (01h 44m 51s) -82.213 (-82d 12' 48\")\n ---------------------------------------------\nThe error box area is 127 sq. arcmin, and its maximum\ndimension is 56 arcmin (the minimum one is 2 arcmin).\nThe Sun distance was 106 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM (GCN 41473) and BALROG (GCN 41475) localizations. \n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250821_T58069/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

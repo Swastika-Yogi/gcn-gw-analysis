@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050814:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 050814",
+  "bibcode": "2005GCN..3803....1T",
+  "createdOn": 1124054276000,
+  "circularId": 3803,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Tueller (GSFC), C. Markwardt (GSFC/UMD), L. Barbier (GSFC),\nS. Barthelmy (GSFC), J. Cummings (GSFC/NRC), E. Fenimore (LANL),\nN. Gehrels (GSFC), D. Hinshaw (GSFC-SPSYS), D. Hullinger (GSFC/UMD),\nH. Krimm (GSFC/USRA), P. Meszaros (PSU), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/NRC)\non behalf of the Swift-BAT team:\n\nUsing the full data set from the recent telemetry downlink, we report\nfurther analysis of Swift-BAT GRB 050814 (trigger #150314)\n(Retter, et al., GCN 3799).  The ground-analysis position is\nRA,Dec 264.189,+46.354 (J2000) with an uncertainty of 3 arcmin\n(radius, 90%, stat+sys).  The light curve shows a gradual increase\nin emission starting at T-15 sec with a peak at ~T+5 sec\nand then a longer gradual decline out to ~T+120 sec.\nT90 is 65 +40/-20 sec.  Fitting a simple power law over\nthe interval from T-1 to T+67 sec, the photon index is\n1.80 +/- 0.17 with a fluence of 2.17 +/- 0.36 X 10^-6 erg/cm^2\nin the 15-350 keV band (90% c.l.).  The peak flux in a 1-sec wide window\nstarting at T+4.2 seconds is 1.0 +/- 0.3 ph/cm^2/sec (15-350 keV)."
+}

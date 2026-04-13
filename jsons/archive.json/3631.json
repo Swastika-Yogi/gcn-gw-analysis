@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT Observations of GRB 050716",
+  "eventId": "GRB 050716",
+  "bibcode": "2005GCN..3631....1M",
+  "createdOn": 1121545473000,
+  "circularId": 3631,
+  "submitter": "Katie McGowan at MSSL-UCL  <km2@mssl.ucl.ac.uk>",
+  "email": "km2@mssl.ucl.ac.uk",
+  "body": "K. McGowan (MSSL), E. Rol (U. Leicester), J. Nousek (PSU),\nF. Marshall, N. Gehrels (GSFC) report on behalf of the\nSwift UVOT team:\n\nUsing summed images from Swift/UVOT of the field of\nGRB 050716 (Rol et al., GCN 3623), taken from 99\nseconds after the BAT trigger, no new source is detected\nwithin the XRT error circle (Hurkett et al., GCN 3630) in\nany of the six filters down to the following 3-sigma\nmagnitude upper limits:\n\nFilter   Exposure (s)  T_mid (s)   3-sig limit\nV        178            487        19.1\nB        979           3121        21.1\nU        978           2660        20.7\nUVW1     178           2200        19.7\nUVM2      88            545        19.5\nUVW2     755           3468        20.8\n\nwhere T_mid is the mid-point of the summed observation.\n\nWe caution that the instrument is not yet fully\ncalibrated and that the magnitude limits presented here\nmay need to be refined."
+}

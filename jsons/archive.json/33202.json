@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 1150107: Swift detection of LS V +44 17",
+  "bibcode": "2023GCN.33202....1G",
+  "createdOn": 1674281252000,
+  "circularId": 33202,
+  "submitter": "Jamie Kennea at Penn State U  <jak51@psu.edu>",
+  "email": "jak51@psu.edu",
+  "body": "J.D. Gropp (PSU), J. A. Kennea (PSU),\nN. J. Klingler (GSFC/UMBC/CRESSTII), A. Y. Lien (U Tampa) and\nD. M. Palmer (LANL) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 05:44:17 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated the known source LS V +44 17 (trigger=1150107).  Swift slewed\nimmediately to the location. \nThe BAT on-board calculated location is \nRA, Dec 70.267, +44.525 which is \n   RA(J2000) = 04h 41m 04s\n   Dec(J2000) = +44d 31' 30\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical for an image trigger,\nthe flux from the source is difficult to distinguish from\nbackground in the immediately available lightcurve. \n\nThe XRT began observing the field at 05:46:13.8 UT, 116.5 seconds after\nthe BAT trigger. XRT found a bright X-ray source located at RA, Dec\n70.2493, 44.5309 which is equivalent to:\n   RA(J2000)  = 04h 40m 59.83s\n   Dec(J2000) = +44d 31' 51.2\"\nwith an uncertainty of 5.0 arcseconds (radius, 90% containment). This\nlocation is 50 arcseconds from the BAT onboard position, within the BAT\nerror circle. This position is 6.8 arcseconds from a known X-ray\nsource: LS V +44 17. \n\nLS V +44 17 has been recently reported to be on the rise, e.g. ATEL\n#15868. \n\nThe long term lightcurve can be seen on the BAT Transient\nAnalysis page for this source and shows that the outburst\nis still increasing after an initial peak and decline. \nhttps://swift.gsfc.nasa.gov/results/transients/weak/LSVp4417/\n(The bottom plot on that page shows the 2010 peak.  The current\noutburst is the plot above it, shown in blue.)"
+}

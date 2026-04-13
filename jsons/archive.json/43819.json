@@ -1,0 +1,11 @@
+{
+  "subject": "sb26021801: SVOM/C-GFT upper limit",
+  "eventId": "sb26021801",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43819....1W",
+  "createdOn": 1771921660812,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 43819,
+  "format": "text/markdown",
+  "body": "C. Wu (NAOC), Z. Kang (CHO), L.P. Xin, X.H. Han, P.P. Zhang, X.M. Lu (NAOC), Z.W. Li, Y. Lv (CHO), R.S. Zhang, Y.J. Xiao, Y.L. Qiu, J. Wang, J.S. Deng, L. Huang, J.Y. Wei (NAOC), Wenjin TAN (IHEP) report on behalf of the SVOM/C-GFT team:\n\nWe observed the field of sb26021801 detected by SVOM/ECLAIRs (Tan et al., GCN 43778) with LATIOS on SVOM/C-GFT. Observations started at 2026-02-18T16:23:38 UTC, ~11.14 hr after the trigger. \n\nWe obtained g, r, and i-band follow-up imaging. After preliminary analysis, no credible candidate was detected within the error box provided by SVOM/ECLAIRs (Tan et al., GCN 43778) in our images. The 5-sigma upper limits are: \n\n| Mid_t - T0 (hr)| Exposure Time (s) | Band | Upper Limit (AB) |\n|----------------|-------------------|------|------------------|\n| 11.67          | 20×90              | i    |  20.7           |\n| 11.95          | 20×90              | g    |  20.7           |\n| 12.23          | 20×90              | r    |  20.9           |\n\nThe photometry was calibrated against  nearby Pan-STARRS1 stars and no correction for Galactic dust extinction was applied.\n\nThis result is consistent with  Fortin et al.(GCN 43783), Konno et al.(GCN 43784), and Wu et al. (GCN 43792).\n\n\nWe thank the observation assistants Yin-Huai Hao and Chun-Lei Guo  at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching.\n"
+}

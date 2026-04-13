@@ -1,0 +1,10 @@
+{
+  "subject": "MAXI J1836-194 (originally GRB 110905A): Swift-BAT refined analysis",
+  "eventId": "GRB 110905A",
+  "bibcode": "2011GCN.12331....1B",
+  "createdOn": 1315244423000,
+  "circularId": 12331,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), T. Sakamoto (GSFC/UMBC)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T+592 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT trigger #502415 (Pagani, et al.,\nGCN Circ. 12327).  The BAT ground-calculated position is\nRA, Dec = 278.958, -19.269 deg, which is \n   RA(J2000)  =  18h 35m 49.9s \n   Dec(J2000) = -19d 16' 07.5\" \nwith an uncertainty of 3.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n \nBecause this was a long image trigger (26 minutes), the event-by-event data\njust before, during, and for 592 sec after the trigger time was overwritten\nin the ring buffer,  and as such, it is not possible to construct a lightcurve\nfor the early phase of this event.  Starting at T+590, the lightcurve\nshows a low-level persistant emission out to T+963 sec.\n \nThe time-averaged spectrum from T+590 to T+963 sec can be fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.53 +- 0.39.  The fluence in the 15-150 keV band is 7.8 +- 2.0 x 10^-7 erg/cm2.\nAll the quoted errors are at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/502415/BA/\n\nGiven the (a) the long and constant hard x-ray emission (in the later phase)\nof this event, (b) the proximity to the Galactic Bulge, (c) the proximity\nto the MAXI J1836-194; we believe this trigger to be due to the MAXI source\nand not due to a GRB (as has been pointed out by J.Greiner (pri.comm.) and\nD.Fox (GCN 12329))."
+}

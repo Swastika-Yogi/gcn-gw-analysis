@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170912B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 170912B",
+  "bibcode": "2017GCN.21881....1L",
+  "createdOn": 1505357060000,
+  "circularId": 21881,
+  "submitter": "Sam LaPorte at PSU  <sjl5346@psu.edu>",
+  "email": "sjl5346@psu.edu",
+  "body": "S. J. LaPorte (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 170912B\n60 s after the BAT trigger (LaPorte et al., GCN Circ. 21864).\nNo optical afterglow consistent with the XRT position\n(Osborne et al. GCN Circ. 21868)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter        T_start(s)  T_stop(s)  Exp(s)    Mag\n\nwhite_FC      57          207        147       >20.26  \nwhite         58          1024       332       >20.72\nv             600         1074       58        >18.08    \nb             525         718        38        >18.76 \nu             269         1144       299       >19.67\nuvw1          649         1124       58        >18.24  \nuvm2          624         1099       58        >18.12   \nuvw2          575         1050       58        >18.39  \n\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 5.05 in the direction of the burst\n(Schlegel et al. 1998).\n\n[GCN OPS NOTE(14sep17): Per author's request, the typo in the Subject-line\nwas changed from \"170712B\" to \"170912B\"."
+}

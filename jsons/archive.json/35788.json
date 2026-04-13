@@ -1,0 +1,9 @@
+{
+  "subject": "VLA X-band observation of EPW20240219aa",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35788....1H",
+  "createdOn": 1708797711410,
+  "submitter": "Anna Y Q Ho at Cornell University <ayh24@cornell.edu>",
+  "circularId": 35788,
+  "body": "Anna Y. Q. Ho (Cornell), Antonio Rodriguez, Mansi Kasliwal, Shri Kulkarni (Caltech), Daniel Perley (LJMU) report:\n\nStarting at UT 2024 Feb 24 00:26 the Very Large Array (VLA) observed the position of EPW20240219aa, a fast X-ray transient discovered by Einstein Probe (ATel #16463; Yuan et al. 2018, Proc. SPIE, 10699, 1069925) subsequently recognized to have a GRB counterpart (ATel #16473, GCN #35773, 35776, 35784, 35785). The X-band (10 GHz) image RMS was 4 uJy in 34.5 minutes of on-source time.\n\nSeveral point sources were detected in the 3 arcmin radius localization region of EPW20240219aa, listed in the table below. Two (Source #6 and Source #7) have matches in ZTF deep reference r-band imaging. However, Source #7 has a match in Epoch 1.2 of the VLA Sky Survey (Lacy et al. 2020, PASP, 132, 035001) so is unlikely to be associated with EPW20240219aa.\n\nSource # | RA | Dec | Peak Flux Density (mJy)\n1 | 05:20:11.071 | 25:33:35.26 | 0.169 \n2 | 05:20:11.950 | 25:32:05.73 | 0.082 \n3 | 05:20:04.908 | 25:31:49.33 | 0.157 \n4 | 05:20:05.888 | 25:31:20.67 | 0.038\n5 | 05:19:59.654 | 25:32:44.65 | 0.049\n6 | 05:20:04.705 | 25:33:27.30 | 0.030\n7 | 05:19:52.543 | 25:31:48.13 | 0.300 \n\nA link to the ZTF r-band image with a VLA contour overlay can be found here: https://www.dropbox.com/scl/fi/0wk5pqm4nteyiarha6fme/overlayztf.pdf?rlkey=7o4dkhl0ml7ct8d16je67id88&dl=0\n\nA second VLA observation is planned to search for variability and identify any radio counterpart. \n\nData were obtained under DDT program VLA 24A-439 (PI Ho). We thank the VLA staff for rapidly approving and scheduling these observations."
+}

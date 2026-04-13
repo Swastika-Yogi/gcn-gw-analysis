@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250427A/ EP250427a: Fermi-GBM Sub-Threshold Detection",
+  "eventId": "GRB 250427A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40262....1R",
+  "createdOn": 1745757284947,
+  "submitter": "mariaedvige.ravasio@ru.nl",
+  "circularId": 40262,
+  "format": "text/plain",
+  "body": "M. E. Ravasio (Radboud Univ.), E. Burns (LSU), Adam Goldstein (USRA) and P.G. Jonker (Radboud Univ.) report on behalf of the Fermi-GBM Team:\n\nFermi-GBM had full spatial and temporal coverage of the transient EP250427a detected by EP-WXT (Wang et al., GCN 40257). There was no Fermi-GBM onboard trigger around the EP starting time at T0=2025-04-27T03:38:45 UTC.\n\nThe GBM Targeted Search [1], the most sensitive, coherent search for GRB-like signals, was run in the time interval [-50;+500] s from the EP T0. A transient was found most significantly at T0+53 s on a 32 s timescale, with a false alarm rate of 5.9e-05 Hz (although there is evidence for signal at ~T0-10s). The localisation is consistent with the EP one, with a spatial association probability of 98.5%. Among the three spectral templates tested, the transient was best-fit with a \"soft\" spectrum (i.e., a Band function with Epeak = 70 keV, alpha = -1.9, beta = -3.7) for a GRB.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

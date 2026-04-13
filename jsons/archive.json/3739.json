@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050802: Swift/UVOT observations",
+  "eventId": "GRB 050802",
+  "bibcode": "2005GCN..3739....1M",
+  "createdOn": 1123004064000,
+  "circularId": 3739,
+  "submitter": "Katie McGowan at MSSL-UCL  <km2@mssl.ucl.ac.uk>",
+  "email": "km2@mssl.ucl.ac.uk",
+  "body": "K. McGowan (MSSL), D. Band (GSFC-UMBC), P. Brown,\nC. Gronwall (PSU), H. Huckle, B. Hancock (MSSL)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began observing the afterglow of\nGRB 050802 at 2005-08-02T10:15:14, 286 s after the\nBAT trigger (Band et al., GCN 3734).  We detect the\nafterglow in the V-band data at a position (J2000,\ncorrected to the DSS coordinates) of:\n\nRA   14:37:5.69 (+/- 1 arcsec)\nDec +27:47:12.2 (+/- 1 arcsec)\n\nThe data are extracted using a 6 arcsec radius aperture\ncentered on the source position.  If the significance of\nthe source detection was less than 2 sigma we determined a\n3-sigma limiting magnitude.\n\nFilter   Exposure (s)  T_mid (s)   Magnitude      Notes\n\nV        100           336         17.07+/-0.09   detection\nV        10            466         17.32+/-0.20   detection\nV        10            550         17.10          3-sig limit\nV        10            634         17.17          3-sig limit\nV        10            718.5       16.77+/-0.20   detection\nV        10            803         17.34          3-sig limit\nV        10            887.5       17.04+/-0.20   detection\nV        10            972         17.46          3-sig limit\nV        100           1463        18.35+/-0.09   detection\nV        100           2088        18.81+/-0.09   detection\n\nwhere T_mid is the midpoint of the exposure post-trigger in seconds.\n\nAnalysis of the data from the other filters is ongoing.\n\nThe magnitudes are based on preliminary zero points, measured in\norbit, and will require refinement with further calibration."
+}

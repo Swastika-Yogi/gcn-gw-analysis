@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060109: Swift/UVOT upper limits",
+  "eventId": "GRB 060109",
+  "bibcode": "2006GCN..4461....1B",
+  "createdOn": 1136872448000,
+  "circularId": 4461,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. J. Blustin (UCL-MSSL), M. De Pasquale (UCL-MSSL), S. R. Rosen\n(UCL-MSSL), L. Cominsky (Sonoma State U.), J. Norris (GSFC),\nN. Gehrels (GSFC) on behalf of the Swift/UVOT team\n\nThe Swift/UVOT began observing the field of GRB 060109 at 16:56:13 UT\non 2006-01-09 whilst settling on the target, 92 s after the BAT trigger\n(De Pasquale et al., GCN 4455). No new source is detected at the XRT\nposition (reported by De Pasquale et al.) in coadded images with any of\nthe filters down to the following 3-sigma magnitude upper limits. These\nvalues are not corrected for Galactic extinction; E(B-V) = 0.144.\n\nFilter   T_range(s)  Exp(s)  3sigUL(mag)\n\nV        92-22100    1449    20.0\nB        312-18155   1132    20.8\nU        637-17925   1038    20.5\nW1       613-17696   1001    19.9\nM2       589-22330   1233    20.3\nW2       542-21871   1262    19.9\nWhite    517-18385   1018    20.9"
+}

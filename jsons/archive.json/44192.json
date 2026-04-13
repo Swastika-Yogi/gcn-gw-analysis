@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 260402A: WINTER J-band upper limit",
+  "eventId": "GRB 260402A",
+  "submittedHow": "web",
+  "createdOn": 1775153301955,
+  "circularId": 44192,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "format": "text/plain",
+  "body": "Benjamin Schneider (LAM), Geoffrey Mo (Caltech/Carnegie), Robert Stein (UMD), Viraj Karambelkar (Columbia), Tomas Ahumada (NOIRLab), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 260402A detected by SVOM/ECLAIRs (Tan et al., GCN 44181) and EP/WXT (Zhao et al., GCN Circ. 44186) in the near-infrared with the Palomar 1-m telescope, equipped with the 1-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024). Observations started on 2026-04-02 at 10:58:52 UT (28.58 min after the trigger) and consisted of 30 exposures of 120 s in the J-band.\n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). The photometric calibration was performed using nearby stars from the 2MASS catalog. The magnitude is in the AB system and is not corrected for Galactic extinction.\n\nIn the stacked image, we do not detect any new source at the FXT position (Zhao et al., GCN Circ. 44186) or MXT position (Gotz et al., GCN Circ. 44182) and derive the following 5-sigma upper limit:\n\nJ > 18.9\n\nOur upper limit is consistent with previously reported optical upper limits from Antier et al. (GCN Circ. 44183), Carrasco et al. (GCN Circ. 44184), Freeberg et al. (GCN Circ. 44185), Wu et al. (GCN Circ. 44189), Li et al. (GCN Circ. 44190), and Vijaykumar et al. (GCN Circ. 44191).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

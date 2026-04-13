@@ -1,0 +1,9 @@
+{
+  "subject": "Swift detection of the Soft Gamma Repeater PSR J1647-4552",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.41172....1D",
+  "createdOn": 1753572113162,
+  "circularId": 41172,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "S. Dichiara (PSU), R. Gupta (NASA GSFC) and D. M. Palmer (LANL) report\non behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 2025-07-26 22:49:05 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated Soft Gamma Repeater (SGR) PSR J1647-4552 (trigger=1337165).\nFor this previously-known source, Swift is configured to\nNOT automatically slew to the location.\nThe BAT on-board calculated location is \nRA, Dec 251.779, -45.871 which is \n   RA(J2000) = 16h 47m 07s\n   Dec(J2000) = -45d 52' 14\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  This position is within 34 arcseconds of the\nSGR catalogued location.  The BAT light curve showed a single spike\nstructure (at the 64 ms resolution of the immediately-available lightcurve)\nwith a duration of about 128 ms sec.  The peak count rate\nwas ~2700 counts/sec (15-350 keV), at ~0 sec after the trigger.\n\nThere have been 12 previous detections of bursts from this source by BAT,\nmost recently in Feb 2020.  The detections have come singly or\nin clusters of 2-3 within minutes to hours.\n\n"
+}

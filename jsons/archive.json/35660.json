@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230812B: Update on Bad Time Intervals for Fermi GBM data",
+  "eventId": "GRB 230812B",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35660....1R",
+  "createdOn": 1706906699004,
+  "submitter": "Oliver J Roberts at USRA/NASA <oliver.roberts@nasa.gov>",
+  "circularId": 35660,
+  "body": "O.J. Roberts (USRA) and W. Cleveland (USRA) report on behalf of the Fermi GBM Team: \n\n\"The Fermi Gamma-ray Burst Monitor data for GRB 230812B had a bad time interval affecting all data types and all detectors, which was reported in GCN #34694. Subsequently, we reprocessed the TTE data in an effort to remove spurious artefacts, such as the artificially created pulse centered at roughly T0+1.233 seconds due to TTE drop out. We encourage those in the community interested in analyzing this event, to use the v4 TTE trigger data found on the GBM HEASARC page: https://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2023/bn230812790/current/ \n\nWe note, that while we have tried to reprocess the data for this trigger to the best of our ability, pulse pile-up and deadtime effects still remain in all detectors and data types from roughly T0+0.5 to T0+1.4 seconds. We again, recommend the exclusion of these time intervals for GBM analysis of this burst, as well as caution using bins adjacent to these selections.\"\n"
+}

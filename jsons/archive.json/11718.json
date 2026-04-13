@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110213A: Swift/UVOT refined analysis",
+  "eventId": "GRB 110213A",
+  "bibcode": "2011GCN.11718....1K",
+  "createdOn": 1297637860000,
+  "circularId": 11718,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N.P.M. Kuin (MSSL/UCL) and V. D'Elia (ASDC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110213A\n100 s after the BAT trigger (D'Elia et al., GCN Circ. 11705). This GRB\nwas reported by many observers. We see an initial peak around T+300s\nafter which the GRB declines in brightness until around T+1500s when\na small rebrightening occurs. A tentative redshift was reported by\nP.A. Milne (GCN Circ. No 11708) of z=1.46, which is consistent with\nthe much fainter magnitudes we find in the uvm2 and uvw2 filters.\n\nThe refined uvot position (90% confidence limit, 0.5\" accuracy) with\nreference to USNO-B1 is:\n\nRA  (J2000) =  02h 51m 51.39s\nDEC (J2000) =  49d 16' 23.54\"\n\nPreliminary magnitudes and 3-sigma upper limits in the UVOT\nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for\nthe first finding chart (FC) exposures and summed with subsequent\nexposures up to about 2500s are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)     Mag (VEGA)\n\nwhite_FC           100          250          147         16.36 +/- 0.05\nu_FC               312          562          246         15.54 +/- 0.04\n\nwhite              100         2579          517         16.57 +/- 0.01\nv                  642         2455          227         16.19 +/- 0.04\nb                  568         2206          178         16.77 +/- 0.03\nu                  312         2529          448         15.94 +/- 0.02\nuvw1               692         2505          198         17.28 +/- 0.08\nuvm2               667         2479          218         18.72 +/- 0.20\nuvw2               618         2606          238         19.10 +/- 0.18\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.32 in the direction of the burst\n(Schlegel et al. 1998)."
+}

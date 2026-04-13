@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080613A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080613A",
+  "bibcode": "2008GCN..7881....1H",
+  "createdOn": 1213411406000,
+  "circularId": 7881,
+  "submitter": "Erik Hoversten at Swift/Penn State  <hoversten@astro.psu.edu>",
+  "email": "hoversten@astro.psu.edu",
+  "body": "E. A. Hoversten (PSU) and S. T. Holland (CRESST/USRA/GSFC) on behalf\nof the Swift/UVOT team.\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began settled\nobservations of the INTEGRAL-detected GRB 080613A (Gotz, et al., GCN\nCirc. 7871) 6.7 hours after the trigger.  No afterglow is detected at the\nposition of the R-band detection by the Faulkes Telescope North\n(Guidorzi, et al., GCN Circ. 7872).  The 22.2 magnitude upper limit in\nthe white band suggests the R~19 object seen by Guidorzi, et al. 3.9\nminutes after the trigger has faded and is indeed the afterglow.\n\n\nFilter  T_start(s)  T_stop(s)  Exp(s)  Mag UL (3sig)\n\nwhite     24725      25189      456     >22.2\nv         25195      25638      436     >20.5\nb         24257      24720      456     >21.5\n\nThe values quoted above are in the UVOT photometric system (Poole et al.\n2008, MNRAS, 383, 627).  They are not corrected for the expected\nGalactic extinction corresponding to a reddening of E(B-V)=0.023 mag in\nthe direction of the burst (Schlegel et al. 1998)."
+}

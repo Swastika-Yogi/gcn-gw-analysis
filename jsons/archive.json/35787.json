@@ -1,0 +1,9 @@
+{
+  "subject": "Transient EPW20240219aa: Mondy optical observations",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35787....1P",
+  "createdOn": 1708781556431,
+  "submitter": "Alexei Pozanenko at IKI, Moscow <apozanen@iki.rssi.ru>",
+  "circularId": 35787,
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP), S. Belkin (IKI, HSE) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of a likely GRB event EPW20240219aa (Zhang et al., GCN 35773) which was also detected by Fermi GBM (Fletcher et al., GCN 35776; Mangan & Meegan, GCN 35778), Swift BAT (DeLaunay et al., GCN 35784), and and Insight-HXMT/HE  (Cai et al., GCN 35785) with AZT-33IK telescope of Sayan observatory (Mondy). The observations started on 2024-02-23 (UT) 12:31:49, i.e. t-T0 = 4.276478 days after trigger. We took 30x120 sec frames in R-filter. After human vetting we list the two potential galaxies candidates, which show brightness excess more than 3sigma in comparison with USNO-B1.0 catalog.\n\n\n     RA             Dec     Mag    Err     USNO_B10    R2    Class*   Sigma excess      \n     --             ---     ---    ---     --------    --    -----   -----\n05 19 56.874  +25 29 43.69  18.00  0.13  1154-0071628 19.15    G     4.07\n05 20 17.951  +25 33 08.34  18.63  0.12  1155-0072251 19.47    G     3.03\n\n\n*\nG -- Galaxy\n\nAccording to our classifier based on PS1 colours, source FWHM, and SIMBAD query.\n\nThe photometry performed against nearby USNO-B1.0 stars (R2 magnitude).\nThe limiting magnitude (3sigma) is R=21.5.\n\n"
+}

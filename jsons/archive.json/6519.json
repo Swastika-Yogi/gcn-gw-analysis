@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070612B: Swift/UVOT upper limits",
+  "eventId": "GRB 070612B",
+  "bibcode": "2007GCN..6519....1L",
+  "createdOn": 1181661350000,
+  "circularId": 6519,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (NASA/GSFC) and D. Grupe (PSU) report on behalf of the \nSwift/UVOT team.\n\nThe Swift/UVOT observed the field of GRB 070612B starting 3256 s after \nthe BAT trigger (Grupe et al., GCN Circ. 6511).   The UVOT observations \nwere delayed due to a Earth-limb constraint. \n\nWe do not find any source in any of the UVOT observations inside the \nrefined XRT error circle (Grupe et al., GCN Circ. 6514). The 3-sigma \nupper limits for detecting  a source in the first finding chart (FC) \nexposure and co-added frames are:\n\nFilter    T_start(s)   T_stop(s)     Exp(s)     Mag (3-sigma UL)\n\nWh  (FC)   3256         3356          98          >20.3\n\nWh         3256         9882        1201          >21.7\nV          3238        11624        1113          >20.0\nB          4180         5813         393          >20.4\nU          3975         5608         393          >20.1\nUVW1       3772         5404         393          >20.1\nUVM2       3567         5199         393          >20.0\nUVW2       4590        10888        1082          >20.9"
+}

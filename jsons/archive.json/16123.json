@@ -1,0 +1,10 @@
+{
+  "subject": "GRB140419A: UVOT detects fading afterglow in white but not in u filter",
+  "eventId": "GRB 140419A",
+  "bibcode": "2014GCN.16123....1K",
+  "createdOn": 1397894182000,
+  "circularId": 16123,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "NPM Kuin (MSSL-UCL), and F. E. Marshall (NASA/GSFC) report on behalf of\nthe Swift Team:\n\nUVOT started observing GRB 140419A starting 96 seconds after the BAT\ntrigger.\nThe initial finding chart exposures with the White and U filter show a\nfading source in the white filter which we identify with the afterglow:\n\nThe estimated magnitudes are as follows:\n\nfilter starttime endtime magnitude error\nwh      96         246    16.01    0.06\nu      308         558    >19.6\nwh     862        1012    17.96    0.09.\n\nThe source is not seen in the u filter, which suggests a redshift larger\nthen\n2.8.\n\nNo correction has been made for the expected extinction corresponding to\nE(B-V) of 0.03."
+}

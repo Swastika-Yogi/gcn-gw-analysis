@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251129A: e-MERLIN C-band observations",
+  "eventId": "GRB 251129A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43040....1A",
+  "createdOn": 1765241436250,
+  "circularId": 43040,
+  "submitter": "Tao An at SHAO, CAS <antao@shao.ac.cn>",
+  "format": "text/markdown",
+  "body": "Tao An (SHAO), Ailing Wang (IHEP), Emmanuel Bempong-Manful (UoM), Zigao Dai (USTC), and collaborators report on e-MERLIN observations of GRB 251129A.\n\nWe observed GRB 251129A (GCN 42877, 42879, 42880, 42882, 42884, 42887, 42888, 42891, 42897, 42900, 42902, 42959, 42972, 42985) with the e-MERLIN array in the C band between 2025 December 3, 17:40 UT and December 5, 04:19 UT (project RR20009). Four antennas, Pickmere (Pi), Darnhall (Da), Knockin (Kn), and Cambridge (Cm), participated in the observation.\n\nObserving setup:\n- Frequency coverage: 4.82–5.33 GHz (C band), total bandwidth 512 MHz\n- Antennas: Pi, Da, Kn, Cm\n- Polarizations: Right and left circular\n- Spectral setup: 4 × 128 MHz spectral windows, 128 × 1 MHz channels per window (post-averaging)\n- Observation span: 2025-12-03 17:40 UT to 2025-12-05 04:19 UT\n\nThe data were processed using the standard e-MERLIN pipeline followed by calibration and imaging in CASA.\n\nNo significant radio emission was detected at the position of GRB 251129A. We place a 3σ upper limit of 0.066 mJy beam⁻¹ on the flux density.\n\nWe encourage coordinated and continued radio follow-up to further constrain the flux density and probe potential variability at C band and complementary frequencies. We thank the e-MERLIN TAG and operations teams for their support.\n"
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250920C: PRIME near-infrared detection",
+  "editedOn": 1758917839894,
+  "eventId": "GRB 250920C",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41943....1G",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of O. Guiffreda at UMD <oriogui@umd.edu>",
+  "circularId": 41943,
+  "createdOn": 1758572918450,
+  "submitter": "O. Guiffreda at UMD <oriogui@umd.edu>",
+  "format": "text/markdown",
+  "body": "O. Guiffreda (UMD), J. Durbak (UMD), A. S. Kutyrev (NASA/GSFC), N. Passaleva (U Rome), M. El Kabir (U Rome), E. Troja (U Rome), S. B. Cenko (NASA/GSFC)\n\nThe following correction is primarily the result of an error in Vega to AB magnitude conversion in J and H filters.\n\nFollowing the Fermi GBM (GCN 41903) and Swift BAT (GCN 41904), we observed the transient field in Z, Y, J and H filters with PRIME ~7 hours after the initial Fermi and Swift detection.\n\nAt the position of the optical counterpart reported by GOTO (GCN 41907), we detect an uncatalogued source in all aforementioned bands. Using nearby 2MASS and PanSTARRS stars for preliminary calibration we derive the following magnitudes and limits, not corrected for Galactic extinction:\n\n|Filter | Mag(AB)       |\n|-------|---------------|\n|Z      | 19.8 +/- 0.10 |\n|Y      | 19.7 +/- 0.07 | \n|J      | 19.8 +/- 0.10 | \n|H      | 19.4 +/- 0.07 | \n\nPRIME is a 1.8m telescope with 1.56 square degree FOV (0.5 arcsec/pixel) located in Sutherland, South Africa at the South African Astronomical Observatory (SAAO) (Kutyrev et al. 2023, Yama et al. 2023, Durbak et al. 2024).\n\nWe thank the Osaka University observers at PRIME and the staff at SAAO for their support with these observations."
+}

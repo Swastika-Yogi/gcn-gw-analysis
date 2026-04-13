@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 160625B: Fermi GBM refined analysis",
+  "eventId": "GRB 160625B",
+  "bibcode": "2016GCN.19587....1B",
+  "createdOn": 1466928075000,
+  "circularId": 19587,
+  "submitter": "Eric Burns at U of Alabama  <eb0016@uah.edu>",
+  "email": "eb0016@uah.edu",
+  "body": "E. Burns (UAH) reports on behalf of the Fermi GBM Team:\n\n\"We report temporal and spectral analysis on GRB 160625B, covering\nall three Fermi trigger times (LAT trigger 488587408 / 160625947\nGBM triggers 488587220 / 160625945 and 488587880 / 160625952).\nAll times are relative to the first GBM trigger time.\n\nThe GBM light curve consists of multiple peaks\nwith a total duration (T90) of about 460 s (50-300 keV).\nThe 1.024-sec peak photon flux of the main peak measured starting\nfrom T0+188.707 s in the 10-1000 keV band is 167 +/- 1 ph/s/cm^2.\n\nThe soft peak that initially triggered GBM is about 1 second long.\nThe time-averaged spectrum from T0+0.002 s to T0+1.056 s is\nwell fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -0.2 +/- 0.1 and\nthe cutoff energy, parameterized as Epeak, is 68 +/- 1 keV.\nThe event fluence (10-1000 keV) in this time interval is\n(1.65 +/- 0.03)E-06 erg/cm^2.\n\nThe main peak that triggered the LAT is about 25 seconds long.\nThe time-averaged spectrum from T0+187.427 s to T0+212.003 s is\nwell fit by a Band function with Epeak = 657 +/- 5 keV,\nalpha = -0.74 +/- 0.00, and beta = 2.36 +/- 0.01.\nThe event fluence (10-1000 keV) in this time interval is\n(5.00 +/- 0.01)E-04 erg/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

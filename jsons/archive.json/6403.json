@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind and Konus-A observation of GRB 070508",
+  "eventId": "GRB 070508",
+  "bibcode": "2007GCN..6403....1G",
+  "createdOn": 1178808891000,
+  "circularId": 6403,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nP. Oleynik, M. Ulanov and T. Cline on behalf of the Konus-Wind and \nKonus-A teams report:\n\nThe long bright GRB 070508 (Swift-BAT trigger #278854:\nGrupe et al., GCN 6383; Barthelmy et al., GCN 6390), triggered \nKonus-Wind at T0=15502.779 s UT (04:18:22.779).\nThis burst also triggered Konus-A at T0=15503.790 s UT\n(04:18:23.790)\n\nThe burst started at T-T0 ~-13 s and had a duration of ~40 s.\nAs observed by Konus-Wind the burst\nhad a fluence of 3.97(-0.23, +0.07)x10^-5 erg/cm2,\nand a 64-ms peak flux measured from T0+8.832 s\n8.30(-1.11, +1.03)x10^-6 erg/cm2/s\n(both in the 20 keV - 1 MeV energy range).\nThe burst shows strong spectral evolution.\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+27.904 s) can be fitted (in the 25 keV - 1 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 0.81 +/- 0.07\nand Ep = 188 +/- 8 keV (chi2 = 65/52 dof).\n\nAssuming z = 0.82 (Jakobsson et al., GCN 6398)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.3, Omega_\\Lambda = 0.7,\nthe isotropic bolometric energy release is E_iso ~7.0x10^52 erg, and\nthe maximum bolometric luminosity is (L_iso)_max ~1.1x10^53 erg/s.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB070508_T15502/"
+}

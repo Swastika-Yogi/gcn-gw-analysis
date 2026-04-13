@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091230: GROND optical/NIR afterglow candidate",
+  "eventId": "GRB 091230",
+  "bibcode": "2009GCN.10299....1F",
+  "createdOn": 1262178036000,
+  "circularId": 10299,
+  "submitter": "Thomas Kruehler at MPE/MPI  <kruehler@mpe.mpg.de>",
+  "email": "kruehler@mpe.mpg.de",
+  "body": "R. Filgas, T. Kruehler and J. Greiner (all MPE Garching) report on \nbehalf of the GROND team:\n\nWe observed the field of GRB 091230 (INTEGRAL trigger #5967, D. Gotz et\nal., GCN #10298) simultaneously in g'r'i'z'JHK with GROND mounted at the \n2.2m ESO/MPI telescope at La Silla Observatory (Chile).\n\nObservations started on 30 Dec. 2009 at 06:30:27 UT, 2.9 min after the\nburst.\n\nImage subtraction reveals a variable point source inside the INTEGRAL\nerror circle (D. Gotz et al., GCN #10298) at\n\nRA (J2000.0) = 08:51:39.18\nDEC (J2000.0) = -53:53:52.7\n\nwith an uncertainty of 0.5\" in each coordinate. This is 56\" from the\nrefined INTEGRAL position.\n\nPreliminary photometry yields the following magnitudes in stacked images:\n\nFilter  T_mid[s] Exp[s]  AB Mag  MagErr\n---------------------------------------\ng'      390       4x 66  21.63   0.07\nr'      390       4x 66  20.76   0.04\ni'      390       4x 66  20.45   0.05\nz'      390       4x 66  20.22   0.05\nJ       403      24x 10  19.75   0.12\nH       403      24x 10  19.58   0.14\nK       403      24x 10  19.26   0.15\n\n\nThe quoted error is statistical only. There is an additional systematic\nerror in the absolute calibration using the GROND zeropoints and 2MASS\nfield stars which is expected to be in the 0.1 to 0.2 mag range.\n\nThe object fades by two magnitudes to r' = 22.8 � 0.1 until the end of\nour optical observations two hours after the trigger - thus we propose\nthis object as the optical/NIR afterglow of GRB 091230."
+}

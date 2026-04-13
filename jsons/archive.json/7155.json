@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 071227",
+  "eventId": "GRB 071227",
+  "bibcode": "2007GCN..7155....1G",
+  "createdOn": 1198859470000,
+  "circularId": 7155,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe short GRB 071227 (Swift-BAT trigger #299787:\nSakamoto et al., GCN 7147, Sato et al., GCN 7148) triggered\nKonus-Wind at T0=72828.722 s UT (20:13:48.722).\nThe Konus-Wind light curve shows a multipeaked structure\nwith a total duration of ~1.7 s.\nMost of the burst was recorded in the pre-history part of the trigger \nfor which multichannel spectra are not measured.\nThe multichannel spectrum of the remaining part contains too few counts\nto be analyzed.\n\nAnalysis of the Konus-Wind data in three energy bands\nyields a burst fluence of (1.6 +/- 0.2)x10^-6 erg/cm2,\nand a 64-ms peak flux measured from T0-0.144 s\n(3.5 +/- 1.1)x10^-6 erg/cm2/s\n(both in the 20 keV - 1.3 MeV energy range).\nThe 3-channel time-integrated spectrum can be described\nby a power law with exponential cutoff model\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha ~0.7 and Ep ~1 MeV.\n\nAll the quoted errors are estimated at the 1 sigma confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB071227_T72828/"
+}

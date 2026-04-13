@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050801: Swift-BAT detection of a burst",
+  "eventId": "GRB 050801",
+  "bibcode": "2005GCN..3725....1B",
+  "createdOn": 1122924350000,
+  "circularId": 3725,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "D.L. Band (GSFC), S. Barthelmy (GSFC), J. Cummings (GSFC/NRC),\nN. Gehrels (GSFC), C. Gronwall (PSU) S. Hunsberger (PSU),\nJ. Kennea (PSU), D. Palmer (LANL), M. Perri (ASDC)\non behalf of the Swift team:\n\nAt 18:28:02.07 UT, Swift-BAT triggered and located GRB050801 (trigger=148522).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 204.139d,-21.950d {+13h 36m 33s,-21d 57' 00\"} (J2000), with an\nuncertainty of 3 arcmin (radius, 90% containment, stat+sys).  The BAT\nlight curve shows a single FRED structure with a total duration of 3 sec.\nThe peak count rate was ~900 counts/sec (15-350 keV), which peaks\nat ~T+0.5 seconds.\n\nThe XRT began observing at 18:29:03 UT, 61 seconds after the BAT trigger.\nXRT did centroid on a position, but on-ground examination of the image\nrevealed that the object found by the centroiding algorithm is a CCD\nartifact (Kennea, GCN 3724).\n\nSwift-UVOT began observations of GRB 050801 after the slew, however,\nthe UVOT dark burst image did not come down via TDRSS so no information\nis available at this time.  Detailed analysis will be performed\nwhen data is available after the next Malindi pass.\n\nBecause of orbit trajectory with respect to the Malindi ground station,\nwe will not have access to the full data sets to produce the refined analyses\nfor several hours."
+}

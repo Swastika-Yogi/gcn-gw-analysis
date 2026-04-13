@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060602B: Swift-BAT Refined Analysis",
+  "eventId": "GRB 060602B",
+  "bibcode": "2006GCN..5208....1P",
+  "createdOn": 1149379201000,
+  "circularId": 5208,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "D. Palmer (LANL),  L. Barbier (GSFC),  S. Barthelmy (GSFC),\nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (BYU-Idaho), M. Koss (GSFC/UMD), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), A. Parsons (GSFC), T. Sakamoto (GSFC/ORAU),\nG. Sato (GSFC/JSPS/USRA), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\non behalf of the Swift-BAT team:\n\nUsing the data set from T-119.1 to T+182.9 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060602B\n(trigger #213190)  (Schady, et al., GCN 5200).  The BAT \nground-calculated position\nis (RA,Dec) = 267.368, -28.121 deg {17h 49m 28.2s, -28d 7' 15.5\"} (J2000)\n+- 1.4 arcmin, (radius, sys+stat, 90% containment).  The partial \ncoding was 100%.\n\nThe light curve shows a single boxcar shaped peak from ~T-1.0 to ~T+12.0 sec.\nThe peak is strongest in the 15-25 keV band and is not seen above 50 keV.\nT90 (15-350 keV) is 9.0 +- 2 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-1.1 to T+8.8 is best fit by\na simple power-law model.   The power law index of the time-averaged\nspectrum is 5.02 +- 0.52. The fluence in the 15-150 keV band is\n1.8 +- 0.2 x 10^-07 erg/cm2. The 1-sec peak photon flux measured from\nT+5.94 sec in the 15-150 keV band is 0.8 +- 0.1 ph/cm2/sec.  All the quoted\nerrors are at the 90% confidence level.\n\nWe note that this is one of the softest spectra yet seen in the BAT for a GRB.\nThe spectra plus the galactic coordinates of the source:  galactic lon, lat:\n1.15, -0.30 deg suggest that this source may be an X-ray burster rather than\na classical GRB.  Analysis of XRT and other ground and satellite based\nobservations will help to settle this question.  Therefore further observations\nare encouraged."
+}

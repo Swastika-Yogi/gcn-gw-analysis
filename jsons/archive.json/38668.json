@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241223A: Fermi GBM Detection",
+  "eventId": "GRB 241223A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38668....1S",
+  "createdOn": 1735106818445,
+  "circularId": 38668,
+  "submitter": "Rushikesh Sonawane  at IISER, TVM <rushikesh23@iisertvm.ac.in>",
+  "format": "text/plain",
+  "body": "R. Sonawane (IISER, TVM) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 12:08:46.63 UT on 23 December 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 241223A (trigger 756648531/241223506).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 159.85, Dec = -34.80 (J2000 degrees, equivalent to\nJ2000 10h 39m, -34d 47'), with a statistical uncertainty of 1.00 degrees.\n(radius, 1-sigma containment, statistical only; there is additionally a\nsystematic error which we have characterized as a mixture of two Gaussians,\none with a radius of 1.8 degrees (52% contribution) and one with a radius\nof 4.1 degrees (47% contribution) [A. Goldstein et al. 2020, ApJ, 895, 1]).\n\nThe angle from the Fermi LAT boresight is 67 degrees.\n\nThe GBM light curve consist of one weak emission episode (possibly a precursor) followed by a strong emission episode with a duration (T90)\nof about 30.5 s (50-300 keV). The time-averaged spectrum\nfrom T0+0.003 to T0+47.489 s is best fit by\na Band function with Epeak = 239 +/- 5 keV,\nalpha = -0.66 +/- 0.02, and beta = -2.42 +/- 0.06.\n\nThe event fluence (10-1000 keV) in this time interval is\n(6.28 +/- 0.05)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+26 s in the 10-1000 keV band is 34.4 +/- 0.4 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

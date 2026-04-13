@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050219b: Swift XRT Position",
+  "eventId": "GRB 050219B",
+  "bibcode": "2005GCN..3042....1B",
+  "createdOn": 1108859396000,
+  "circularId": 3042,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "D. N. Burrows, J. E. Hill, J. A. Kennea, J. L. Racusin (PSU), C. \nPagani,  A. Moretti (INAF-OAB), O. Godet, A. F. Abbey (U. Leicester), V. La \nParola (INAF-IASF/Palermo), F. Tamburelli (ASDC), K. Hurley (UC-Berkeley), \nB. Zhang (U. Nevada), D. Hinshaw, L. Angelini, N. White, N. Gehrels (GSFC), \nreport on behalf of the Swift XRT team:\n\nThe Swift BAT instrument detected GRB 050219b at 21:05:51 UT on 19 February \n2005.  The burst was too close to the Earth limb to allow immediate \nobservation by the XRT and UVOT.  The observatory executed an automated \nslew to the BAT position at 21:56:25 UT and the XRT began taking data at \nabout 21:58 UT.  The XRT was in Auto state and attempted to obtain a GRB \nposition, but the source was too faint to obtain a reliable on-board \ncentroid.  The ground-processed centroid of this image gives an approximate \nsource position of:\n\nRA(J2000) = 05:24:26.5\nDec(J2000) = -57:47:51.3\n\nWe estimate an uncertainty of 15 arcseconds in this position.\n\nXRT then began observations in Windowed Timing mode, which provides 1-D \nposition information.  There appears to be a fairly bright X-ray source at \na position bounded by the following error box:\n\nRA, Dec (J2000):\nCorner #1: 05:25:44.9, -57:55:55.3\nCorner #2: 05:25:44.2, -57:55:57.4\nCorner #3: 05:24:41.7, -57:33:54.5\nCorner #4: 05:24:41.0, -57:33:56.6\n\nPhoton-counting mode frames taken in the following orbit are expected to \nproduce a more accurate position, and will be reported when they become \navailable on the ground."
+}

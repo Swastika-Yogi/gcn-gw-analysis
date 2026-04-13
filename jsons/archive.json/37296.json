@@ -1,0 +1,14 @@
+{
+  "editedOn": 1724679613356,
+  "subject": "GRB 240825A: Swift/UVOT Detection",
+  "version": 2,
+  "eventId": "GRB 240825A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37296....1K",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Rahul Gupta at NASA GSFC <rahulbhu.c157@gmail.com>",
+  "circularId": 37296,
+  "createdOn": 1724676892341,
+  "submitter": "Paul Kuin at MSSL <npkuin@gmail.com>",
+  "format": "text/plain",
+  "body": "N. P. M. Kuin (UCL-MSSL) and R. Gupta (NASA GSFC)\nreport on behalf of the Swift/UVOT team:The Swift/UVOT began settled\nobservations of the field of\n\nGRB 240825A  93 s after the BAT trigger (Gupta et al.,\nGCN Circ. 37274).  A source consistent with the XRT\nposition (Evans et al. GCN Circ. 37290 is detected\nin the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  22:58:17.26 = 344.57192 (deg.)\n    Dec (J2000) = +01:01:36.9  =   1.02691 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite               93          243          147         15.58 +/- 0.02\nv                  807          827           20         17.02 +/- 0.20\nb                  561          580           20         17.54 +/- 0.15\nu                  305          555          246         16.93 +/- 0.05\nw1                 684         1281           58         18.55 +/- 0.30\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.063 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

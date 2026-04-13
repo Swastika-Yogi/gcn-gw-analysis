@@ -1,0 +1,11 @@
+{
+  "subject": "FRB 20251229A: Updated CHIME/FRB Baseband Localization of FRB 20251229A",
+  "eventId": "FRB 20251229A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43431....1N",
+  "createdOn": 1768600752928,
+  "circularId": 43431,
+  "submitter": "masonng@mit.edu",
+  "format": "text/markdown",
+  "body": "Mason Ng (McGill University, Trottier Space Institute) on behalf of the CHIME/FRB Collaboration:\n\nIn GCN 43334 (ATel 17574), we reported the discovery of the potentially hyperactive repeating fast radio burst source, FRB 20251229A. In that ATel, we published best-fit localization coordinates from an initial analysis of the raw voltage (baseband) data using an older version of the localization pipeline (Michilli et al. 2021). Here, we update the best-fit baseband localization for FRB 20251229A using a newer version of the pipeline, with the latest calibration methods. The new localization, which is approximately 35\" away from the previously reported localization (GCN 43334, ATel 17574), is the following with errors quoted at 1-sigma uncertainty:\n\nRA (J2000): 20h 41m 23.9s +/- 1.8s, Dec. (J2000): 16d 01' 31\" +/- 36\"\n\nRA (J2000): 310.3494 +/- 0.0077 deg., Dec. (J2000): 16.0252 +/- 0.0099 deg. \n"
+}

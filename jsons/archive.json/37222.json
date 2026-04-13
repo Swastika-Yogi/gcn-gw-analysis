@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 1249878: Swift detection of another burst from SGR 1E 1841-045 / Kes 73",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.37222....1D",
+  "createdOn": 1724273983179,
+  "circularId": 37222,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "\nS. Dichiara (PSU) and D. M. Palmer (LANL) report on behalf of the Neil\nGehrels Swift Observatory Team:\n\nAt 20:29:24 on 2024-08-21 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated the soft gamma repeater SGR 1E 1841-045 / Kes 73 (trigger=1249878). \nSwift did not slew immediately to this source. \nThe BAT on-board calculated location is \nRA, Dec 280.344, -4.950 which is \n   RA(J2000) = 18h 41m 22s\n   Dec(J2000) = -04d 57' 00\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a single spike\nstructure with a duration of about 0.2 sec.  The peak count rate\nwas ~100k counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nBecause Swift did not slew, there is no immediate UVOT or XRT data. \nHowever a Target Of Opportunity observation is currently scheduled\nfor 3:50 on 2024-08-22 UT. \n\nThis follows a previously-reported burst from this source 25 hours earlier\n(GCN #37211) and two additional bursts detected since then, indicating that\nthis source has entered a bursting phase.  This is the first BAT-detected\nactivity from this source since 2016.  The current BAT catalog of burst\ntimes for this source is:\n\n2010-05-06T14:37:44\n2011-02-08T19:17:27\n2011-02-18T07:11:40\n2011-02-18T08:57:46\n2011-03-06T08:19:49\n2011-06-23T14:41:42\n2011-07-02T08:38:38\n2012-07-15T04:31:08\n2012-12-23T22:44:35\n2013-09-03T04:28:31\n2015-07-15T18:12:38\n2016-10-07T18:52:00\n2016-10-07T18:55:37\n2024-08-20T19:01:18\n2024-08-21T07:33:27\n2024-08-21T12:16:10\n2024-08-21T20:29:24 (this event)\n\n"
+}

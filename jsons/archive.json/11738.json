@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB110210a.",
+  "eventId": "GRB 110210A",
+  "bibcode": "2011GCN.11738....1D",
+  "createdOn": 1297862739000,
+  "circularId": 11738,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and V. D'Elia (ASDC) on behalf of the\nSwift/UVOT team report:\n\nThe Swift/UVOT began settled observations of the field of GRB\n110210A 144 s after the BAT trigger (D'Elia et al., GCN Circ.\n11687). No optical afterglow consistent with the enhanced XRT position \n(Goad et al., GCN Circ. 11689) is detected in the initial UVOT finding \ncharts nor in the summed exposures in all filters. (Poole  et al. 2008, \nMNRAS, 383, 627) for the finding chart (FC) exposures and subsequent \nexposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           144          294          147         >20.1\nu_FC               302          552          246         >19.4\nwhite              144         7686          746         >21.0\nv                  633        13497         1238         >19.7\nb                  558         7481          526         >20.1\nu                  302         7276          756         >19.9\nw1                 682         7072          294         >19.5\nm2                 660        18180          839         >20.6\nw2                 608        12588         1291         >21.0\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.06 in the direction of the burst\n(Schlegel et al. 1998).\n\n[GCN OPS NOTE(16feb11): Per author's request, the author list was added.]"
+}

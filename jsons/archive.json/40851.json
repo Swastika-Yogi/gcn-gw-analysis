@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250625A: Leavitt Observatory afterglow detection",
+  "eventId": "GRB 250625A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40851....1M",
+  "createdOn": 1751052011875,
+  "submitter": "leavittob@gmail.com",
+  "circularId": 40851,
+  "format": "text/plain",
+  "body": "L. Moretti, E. Pavoni (Leavitt Observatory, Italy)\n\nMembers of:\nGRB/UAI - Gamma Ray Burst Section of Unione Astrofili Italiani\nATA - Associazione Tuscolana di Astronomia\n\nIn a large collaboration with:\nM.G. Dainotti (National Astronomical Observatory of Japan), Y. Niino (Tokyo University, Institute of Astronomy), K. Kalinowski (Aarhus University, Department of Physics and Astronomy), report:\n\nWe imaged the field of GRB 250625A, which was detected by Swift-BA (Ferro et al., GCN 40825) and Fermi-GBM (GCN 40824) with our RC telescope (D=250 mm, F/D=8) of Leavitt Observatory. \nThe observations began approximately 4.6 hours after the trigger, with good weather conditions, stacking a series of 12 exposures of 120 seconds each. All images are unfiltered and were processed by a single data processing pipeline based on astropy package (Astropy Collaboration et al., 2022ApJ...935..167A).\n\nIn the stacked frame, we detected a very faint object at the following position:\n\nR.A. (J2000) =  17:26:01.92\nDec. (J2000) = +22:16:04.31\n\nwith the following photometry: \n\nDate UT at mid-exposure\t\tFilter\t\tMag.      Err.\n2025-06-25 20:58:29 UTC\t\tCR\t\t21.4     +/-0.2\n\nCR magnitude is unfiltered with R zero point.\n\nMagnitudes were estimated with the Pan-STARRS cat. and are derived using Lupton (2005) equations. Not corrected for galactic dust extinction.\n\nThis measure is consistent with the optical afterglow reported by Moskvitin et al. (GCN 40828), Xin et al. (GCN 40830), Zhu et al. (GCN 40834), Fortin et al. (GCN 40837), Adami et al. (GCN 40838), Brosio et al. (GCN 40839), Wang et al. (GCN 40841), Ruocco et al. (GCN 40843), de Ugarte Postigo et al. (GCN 40846).\n\nThe message may be cited.\n\n\nReference:\nhttps://leavittobservatory.altervista.org"
+}

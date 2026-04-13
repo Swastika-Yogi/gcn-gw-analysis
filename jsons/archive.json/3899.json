@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050827: XRT possible afterglow detection",
+  "eventId": "GRB 050827",
+  "bibcode": "2005GCN..3899....1C",
+  "createdOn": 1125252269000,
+  "circularId": 3899,
+  "submitter": "Milvia Capalbi at ISAC/ASDC  <capalbi@asdc.asi.it>",
+  "email": "capalbi@asdc.asi.it",
+  "body": "M. Capalbi (ASDC), V. Mangano (INAF-IASF), G. Tagliaferri (INAF-OAB),\nJ. Kennea (PSU), N. Gehrels (GSFC), D. Hinshaw (GSFC-SPSYS),\nF. Marshall (GSFC) report on behalf of the Swift XRT team:\n\nWe have analyzed the Swift XRT data from the first\nobservation (2 orbits) of GRB 050827 (Capalbi, et al., GCN 3893).\n\nThe spacecraft slewed to this burst after 17.8 hrs due to the Moon\nconstraint.\n\nAn uncatalogued, X-ray source was detected at the following position:\n\nRA(J2000) = 04h 17m 09.4s\nDec(J2000) = +18 11 57.9\n\nwith an uncertainty of 8 arcseconds radius (90% containment).\nNo other source is detected within the BAT error circle.\n\nThis position is 69 arcsec from the refined BAT position given\nin GCN 3894 (Sakamoto et al.).\n\nThis source has a count rate of (2.0+/-0.3)E-02  cts s^-1\nthat approximately corresponds to a flux of 1.0E-12 erg cm^-2 s^-1\n(there are not enough counts for a spectral fit).\n\nThe light curve however does not seem to decay, thus we need\nmore data to confirm this source as the afterglow of GRB 050827."
+}

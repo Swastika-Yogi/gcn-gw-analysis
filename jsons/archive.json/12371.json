@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110918A: Swift/UVOT Detection of the Optical Counterpart",
+  "eventId": "GRB 110918A",
+  "bibcode": "2011GCN.12371....1S",
+  "createdOn": 1316577414000,
+  "circularId": 12371,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@swift.psu.edu>",
+  "email": "siegel@swift.psu.edu",
+  "body": "M. H. Siegel (PSU), F. E. Marshall (NASA/GSFC), M. De Pasquale (UNLV),\nand H. A. Krimm (GSFC/USRA) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110918A\n153272 s after the IPN Trigger.  A source consistent with the XRT\nposition (Mangano et al., GCN 12364) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  02:10:09.33 =  32.53887 (deg.)\n   Dec (J2000) = -27:06:19.6  = -27.10545 (deg.)\nwith an estimated uncertainty of 0.55 arc sec. (radius, 90% confidence).\n\nOver approximately 18 ks of observation, we do not detect any statistically\nsignificant fading.  Additional Swift/UVOT observations are planned.\n\nPreliminary detections using the UVOT photometric\nsystem (Poole et al. 2008, MNRAS, 383, 627) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)     Mag\n\nwhite           153272       154107          791     20.36+-0.13\nwhite           158468       159889         1373     20.16+-0.08\nwhite           163169       165670         2419     20.12+-0.05\nwhite           168950       171166         2178     20.21+-0.06\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

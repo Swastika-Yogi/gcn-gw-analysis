@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 071006",
+  "eventId": "GRB 071006",
+  "bibcode": "2007GCN..6867....1G",
+  "createdOn": 1192023528000,
+  "circularId": 6867,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 071006 (Cummings, GCN 6858) triggered\nKonus-Wind at T0=24133.617 s UT (06:42:13.617).\n\nThe burst started at T-T0 ~35 s and had a duration of ~60 s.\nAs observed by Konus-Wind the burst\nhad a fluence of 2.08(-1.25, +0.11)x10^-5 erg/cm2,\nand a 256-ms peak flux measured from T0+1.264 s\nof 2.66(-1.51, +0.45)x10^-6 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe spectrum integrated over the main peak (from T0 to T0+8.448 s)\nis well fitted (in the 20 keV - 2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 0.84(-0.26, +0.22)\nand Ep = 334(-61, +95) keV (chi2 = 62.2/60 dof).\nThe fluence of this part is 8.52(-4.63, +0.47)x10^-6 erg/cm2.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB071006_T24133/"
+}

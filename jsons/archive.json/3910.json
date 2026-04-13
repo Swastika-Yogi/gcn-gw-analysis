@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050904: Swift-BAT detection of a probable burst",
+  "eventId": "GRB 050904",
+  "bibcode": "2005GCN..3910....1C",
+  "createdOn": 1125803241000,
+  "circularId": 3910,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC/NRC), L. Angelini (GSFC), S. Barthelmy (GSFC), A. Cucchiara (PSU),\nN. Gehrels (GSFC), C. Gronwall (PSU), S.T. Holland (GSFC), V. Mangano (INAF-IASF),\nF. Marshall (GSFC), C. Pagani (PSU), D. Palmer (LANL)\non behalf of the Swift team:\n\nAt 01:51:44 UT, Swift-BAT triggered and located GRB050904 (trigger=153514).\nThe spacecraft slewed immediately.  The BAT on-board calculated location\nis RA,Dec 13.670d,+14.138d {00h 54m 41s,+14d 08' 17\"} (J2000), with an\nuncertainty of 3 arcmin (radius, 90% containment, stat+sys).  This was a 64-sec\nimage trigger.  The BAT light curve shows hints of emission, but it is\nnot possible to separate source variations from background variations\nat this early stage in the analysis.  Given that this is at high galactic\nlatitude, we believe this is a burst rather than a hard x-ray transient.\nThere is nothing in SIMBAD nor in the BAT Active Source list near this location.\n\nXRT slewed promptly to the target and observation started at 01:54:25 UT\n(T+161 sec) with XRT in auto state.  XRT revealed an uncatalogued fading\npoint source at RA (J2000): 00h 54m 50.4s  Dec (J2000): +14d 05' 08.5\"\nwith an uncertainty of 6 arsec (radius), 3.9 arcmin from the BAT position.\n\nThe UVOT began observing at 01:54:28 UT, 164 s after the BAT trigger.\nThe UVOT image is 3 arcmin away from the XRT position, so it does not\nintersect the XRT or BAT error circle.  We cannot tell whether there\nis an optical counterpart at this time.\n\nWe are currently in the portion of the orbits where the spacecraft does not \npass over the Malindi downlink station.  Therefore, it will be 4 hours\nbefore we have access to the full data set for the refined analyses."
+}

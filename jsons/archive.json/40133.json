@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250407A: Mondy and AbAO Optical Observations",
+  "eventId": "GRB 250407A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40133....1P",
+  "createdOn": 1744276646850,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "circularId": 40133,
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP), R. Ya. Inasaridze (AbAO) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of GRB 250407A detected by Fermi (the Fermi GBM team, GCN 40104; Preis & Greiner, GCN 40105; Mukherjee & Meegan, GCN 40114), SRG (Molkov et. al, GCN 40110), Swift (Evans, GCN 40111; Dichiara et. al, GCN 40113), EP (Zheng et. al, GCN 40119), Konus-Wind (Frederiks et. al, GCN 40121) with the 1.5-meter AZT-33IK telescope of the Sayan Solar Observatory (Mondy), and the 0.7-meter AS-32 telescope of the Abastumani Astrophysical Observatory (AbAO). The R-band observations began on 2025-04-08 at 18:01:15 UT, i.e. ~1.12 days since trigger at AbAO. The optical counterpart (Zheng & Fillipenko, GCN 40116; Ducoin et. al, GCN 40117; Pérez-Fournon et. al, GCN 40125) is marginally detected in the stacked image taken with AZT-33IK. The preliminary photometry is as follows:\n\nDate       UTstart  Exptime     t-T0     Filter OT   Err  UL      Telescope\n                      (s)   (mid, days)                  (3sigma)\n2025-04-08 18:01:15 89*60    1.12319       R    n/d  n/d 17.5     AS-32\n2025-04-09 14:42:55 34*120   1.97818       R    21.0 0.3 21.2     AZT-33IK\n\nRef. stars\nUSNO-B1.0\nRA Dec R2mag\n110.81407 36.79950 15.86\n110.78017 36.81867 14.55\n\nThe photometry is based on nearby USNO-B1.0 stars (R2 magnitudes) and has not been corrected for the Galactic extinction."
+}

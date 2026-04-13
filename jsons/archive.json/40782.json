@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250612A / Swift J1643.6−3854: Swift-BAT refined analysis",
+  "eventId": "GRB 250612A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40782....1K",
+  "createdOn": 1750286590470,
+  "submitter": "Rahul Gupta at NASA GSFC <rahul.gupta@nasa.gov>",
+  "circularId": 40782,
+  "format": "text/plain",
+  "body": "H. A. Krimm (NSF), S. D. Barthelmy (GSFC),\nR. Gupta (GSFC), S. Laha (GSFC/UMBC),\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\nM. J. Moss (GSFC), D. M. Palmer (LANL),\nT. Parsotan (GSFC), D. Sadaula (GSFC/UMBC),\nT. Sakamoto (AGU), M. H. Siegel (PSU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 250612A (trigger #1323295) (Siegel, et al., GCN Circ. 40694).  \nThe BAT ground-calculated position is\nRA, Dec = 250.873, -38.948 deg which is \n   RA(J2000)  =  16h 43m 29.6s \n   Dec(J2000) = -38d 56' 53.9\" \nwith an uncertainty of 4.3 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 64%.\n \nThe BAT mask-weighted light curve showed a complex structure with a duration of about 300 sec. \nT90 (15-350 keV) is 274.17 +- 66.54 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-0.58 to T+291.52 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.55 +- 0.43.  The fluence in the 15-150 keV band is 1.0 +- 0.2 x 10^-06 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.62 sec in the 15-150 keV band\nis 0.9 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n\nGiven the BAT detection at a Galactic latitude of 4.6 deg and the absence of a detected X-ray afterglow in XRT observations ~ 17 hours post-trigger, a Galactic origin of this source remains plausible. If confirmed as a new Galactic transient, it would be designated Swift J1643.6−3854.\n\nThe results of the batgrbproduct analysis are available at\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1323295\n"
+}

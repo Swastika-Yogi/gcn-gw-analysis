@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060312: Swift detection of a burst",
+  "eventId": "GRB 060312",
+  "bibcode": "2006GCN..4859....1G",
+  "createdOn": 1142129265000,
+  "circularId": 4859,
+  "submitter": "David Palmer at LANL  <dmpalmer@mac.com>",
+  "email": "dmpalmer@mac.com",
+  "body": "D. Grupe (PSU), S. Barthelmy (GSFC), D. Burrows (PSU),\nN. Gehrels (GSFC), S. Hunsberger (PSU), C. Pagani (PSU),\nD. Palmer (LANL)\non behalf of the Swift team:\n\nAt 01:36:12 UT, the Swift Burst Alert Telescope (BAT) triggered\nand located GRB 060312 (trigger=201391).  Swift slewed immediately\nto the burst. The BAT on-board calculated location is\nRA,Dec 45.768, +12.820 {03h 03m 04s, +12d 49' 12\"} (J2000)\nwith an uncertainty of 3 arcmin (radius, 90% containment, including\nsystematic uncertainty).  The BAT light curve showed a multi-peaked\nstructure with a duration of about 30 sec.  The peak count rate\nwas 1300 counts/sec (15-350 keV), at ~6 sec after the trigger.\n\nThe XRT began observing the burst position at 01:37:03 UT (51 s after\nthe BAT trigger).  The XRT found a bright, uncataloged, fading source\nlocated at\nRA(J2000) = 3h 03m 06.1s\nDec(J2000) = +12d 50' 04\"\nwith an uncertainty of 5.0 arcseconds (90% confidence radius).\nThis is 58 arcseconds from the BAT position.  The initial flux\nwas 1.8E-9 ergs/cm2/s.\n\nThe UVOT is currently in a state where it is unable to take data."
+}

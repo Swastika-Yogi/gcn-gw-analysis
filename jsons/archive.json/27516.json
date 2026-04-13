@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200405B: ATCA follow-up and ASKAP limits on pre-burst radio emission",
+  "eventId": "GRB 200405B",
+  "bibcode": "2020GCN.27516....1D",
+  "createdOn": 1586483761000,
+  "circularId": 27516,
+  "submitter": "Dougal Dobie at VAST  <ddobie94@gmail.com>",
+  "email": "ddobie94@gmail.com",
+  "body": "Dougal Dobie (USYD/CSIRO), Tara Murphy (USYD), James Leung (USYD/CSIRO),\nAdam Stewart (USYD), Joshua Pritchard (USYD), David Kaplan (UWM)\n\nGRB 200405B (GCN 27497) occurred in a field that has been observed 5 times\nas part of the ASKAP Variables And Slow Transients (VAST; Murphy et al.\n2013)\npilot survey between 2019-08-27 and 2020-01-25. We have searched for radio\nemission from the BAT ground-calculated position and the 4 uncatalogued\nX-ray sources detected by Swift (GCN 27500) and find no radio counterparts\nto a detection limit of ~1.5 mJy at 888 MHz.\n\nWe also performed follow-up observations of all 5 positions with the ATCA\nbetween 2020-04-09 05:00-10:30 UTC with 2x2 GHz bands centered on\n5.5 and 9 GHz. No radio emission was detected coincident with any of the\nsources, we list 3-sigma upper limits below\n\nSource      5.5 GHz (uJy)    9 GHz (uJy)\nBAT pos     81               54\nSource 1    90               120\nSource 2    84               96\nSource 3    87               90\nSource 4    90               114\n\nWe do detect a radio source at coordinates of 04:10:26.8, -51:31:55\n(offset 7.2 arcsec from Source 4), coincident with WISEA\nJ041026.82-513155.2,\nwith a flux density of ~4 mJy at 5.5 GHz and ~7 mJy at 9 GHz. This source is\nalso detected in the VAST pilot survey with a flux density of ~10 mJy. We do\nnot consider this a candidate afterglow for the GRB.\n\nFurther observations with ATCA and as part of the VAST program are planned.\n\nThank you to CSIRO staff for supporting these observations during these\nespecially difficult times."
+}

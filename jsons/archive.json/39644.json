@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250309B / AT2025dws: Swift-UVOT detection",
+  "eventId": "GRB 250309B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39644....1S",
+  "createdOn": 1741572720073,
+  "circularId": 39644,
+  "submitter": "Robert David Stein at JSI <rdstein@umd.edu>",
+  "format": "text/plain",
+  "body": "Robert Stein (JSI), Tomas Ahumada (Caltech) report,\n\nOn behalf of the Zwicky Transient Facility (ZTF) and Global Relay of Observatories Watching Transients Happen (GROWTH) collaborations:\n\nWe requested observations of AT2025dws (Stein et al., GCN 39639), the candidate counterpart to GRB 250309B (Preis & Greiner, GCN 39629; McDermott et al., GCN 39635), with the Neil Gehrels Swift Observatory.\n\nObservations were conducted beginning 2025-03-09 20:26:46 UT, ~13 hours after the GRB time (2025-03-09 07:38:30.66 UT). These observations had an exposure time of 30 minutes, in the U-band filter. \n\nWe reduced the Swift UVOT data (Roming et al. 2005) using HEASoft. A source is clearly visible at the position of AT2025dws, with an apparent magnitude of m = 21.5 +/- 0.2 [AB Mag]. These observations had a limiting magnitude of m = 22.4 [AB Mag]. While we have not performed host subtraction, the source is marginally detected in archival SDSS imaging with a u-band magnitude of m=24.02. This suggests our detection is dominated by transient light.\n\nAT2025dws has been already been confirmed to be fast-fading by recent optical observations with LCO (Perez-Fournon et al., GCN 39643). While there are no earlier U-band detection of this transient, our UVOT detection is fainter than the optical detections reported in GCNs 39639 and 39643. This confirms the red nature of the transient, and is consistent with the expected red/fast-fading behaviour of a GRB aferglow."
+}

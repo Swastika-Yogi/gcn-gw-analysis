@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 190122A",
+  "eventId": "GRB 190122A",
+  "bibcode": "2019GCN.23783....1S",
+  "createdOn": 1548340468000,
+  "circularId": 23783,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A. Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 190122A\n(Fermi-LAT detection: Longo et al., GCN Circ. 23767;\nFermi-GBM detection: Bissaldi et al., GCN Circ. 23768)\ntriggered Konus-Wind at T0=26347.426 s UT (07:19:07.426).\n\nThe burst light curve shows a FRED-like pulse\nwhich starts at ~T0-0.4 s and has a total duration of ~67 s.\nThe emission is seen up to ~6 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.52(-0.74,+0.85)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0-0.046 s,\nof 3.77(-1.47,+3.90)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+73.984 s)\nis best fit in the 20 keV - 15 MeV range\nby a simple power-law function with the\nphoton index = -1.58(-0.08,+0.08), chi2 = 80/99 dof.\nFitting by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.48(-0.12,+0.16)\nand only an upper limit on Ep: Ep > 560 keV\n(chi2 = 76/98 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff model:\nwith  alpha = -1.43(-0.16,+0.17)\nand Ep = 718(-337,+7104) keV (chi2 = 99/98 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB190122_T26347/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

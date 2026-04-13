@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180514A: CrAO/ZTSH optical observations and afterglow candidate",
+  "eventId": "GRB 180514A",
+  "bibcode": "2018GCN.22735....1V",
+  "createdOn": 1526492515000,
+  "circularId": 22735,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "A. Volnova (IKI), V. Rumyantsev (CrAO),   A. Pozanenko (IKI),   E. \nMazaeva (IKI)  report on behalf of larger GRB follow-up collaboration:\n\nWe observed the field of the GRB 180514A (LaPorte et al., GCN 22723)\nwith ZTSH 2.6m telescope of CrAO observatory starting on May 14 (UT) \n18:16:14. We took several images in filter R with exposures of 120 s. We \n  detect one object within enhanced XRT  (Goad et al., GCN 22725). The \ncoordinates of the object are (J2000) 13 09 29.01 +36 58 19.5 with \nuncertainty of 0.3 arcsec in each coordinate.\nPreliminary photometry of the object in a combined image is following\n\nUT start              t-T0    Filter  Exp.     OT      err    UL(3sigma)\n                      (mid, days)       (s)\n\n\n2018-05-14 19:07:44   0.23321 R       36*120   22.90   0.07   23.9\n\n\nThe photometry is based on nearby SDSS stars:\n\nSDSS-DR9_id             R(Lupton)\nJ130934.98+365851.3\t18.625\t0.020\nJ130931.60+365838.3\t18.933\t0.023\nJ130931.36+365901.6\t19.497\t0.048\n\nBased only on our observation we can not say about variability the \nobject. However taking into account deep upper limit of NOT observation \nat 9.95 hrs (A. de Ugarte Postigo et al., GCN 22731) we can suggest that \nthe object is the afterglow of GRB 180514A.\n\nThe finding chat can be found in\nhttp://grb.rssi.ru/GRB180514A/GRB180514A_ZTSh_fc.png"
+}

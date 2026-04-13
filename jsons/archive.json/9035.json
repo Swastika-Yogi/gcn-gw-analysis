@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090323: Fermi GBM Spectral Analysis",
+  "eventId": "GRB 090323",
+  "bibcode": "2009GCN..9035....1V",
+  "createdOn": 1237950687000,
+  "circularId": 9035,
+  "submitter": "Alexander van der Horst at NASA/MSFC  <Alexander.J.VanDerHorst@nasa.gov>",
+  "email": "Alexander.J.VanDerHorst@nasa.gov",
+  "body": "A.J. van der Horst (NASA/MSFC/ORAU) reports on behalf of the\nFermi GBM team:\n\n\"We have performed spectral analysis of the GBM data for GRB 090323\n(GCN 9021). The analysis was restricted to the first ~70 seconds of\nGRB emission, because after that time the Fermi Observatory executed\na maneuver following this bright GRB, which caused rapid, significant\nchanges in the source angles of the various detectors and in the\nbackground behaviour.\n\nThe spectrum from T0-2.0 s to T0+71.7 s is best fit by a power-law\nfunction with a high-energy exponential cutoff. The power-law index\nis -0.89 +/- 0.03, and the cutoff energy, parameterized as Epeak, is\n697 +/- 51 keV (chi squared 379.4 for 359 d.o.f.). At a redshift of\n3.57 (GCN 9028), the Epeak in the GRB rest frame, Epeak_rest, is\n3.19 +/- 0.23 MeV.\n\nThe event fluence (8-1000 keV) in this time interval is\n(1.00 +/- 0.01)E-4 erg/cm^2. The 1-sec peak photon flux\nmeasured starting from T0+65.5 s in the 8-1000 keV band\nis 12.3 +/- 0.4 ph/s/cm^2.\n\nThis time interval consists of two main emission peaks, from T0-2.0 s\nto T0+33.8 s and from T0+33.8 s to T0+71.7 s. Both of these shorter\nintervals are also best fit by a power-law function with a high-energy\nexponential cutoff. For the first interval the power-law index is\n-1.00 +/- 0.03, Epeak is 1173 +/- 175 keV, Epeak_rest is 5.36 +/- 0.80\nMeV, and the fluence (8-1000 keV) is (3.68 +/- 0.06)E-5. For the second\ninterval the power-law index is -0.83 +/- 0.03, Epeak is 574 +/- 34 keV,\nEpeak_rest is 2.62 +/- 0.16 MeV, and the fluence (8-1000 keV) is\n(6.35 +/- 0.09)E-5.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

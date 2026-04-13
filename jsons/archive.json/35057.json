@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231115A : MITSuME Akeno and Okayama optical upper limits",
+  "eventId": "GRB 231115A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35057....1H",
+  "createdOn": 1700123957090,
+  "circularId": 35057,
+  "submitter": "hayatsu@hp.phys.titech.ac.jp",
+  "body": "S. Hayatsu, N. Higuchi, I. Takahashi, M. Sasada (Tokyo Tech), K. L. Murata (Kyoto U),  \nM. Niwano, S. Sato, H. Seki, H. Takei, Y. Yatsu and N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nWe observed a field of GRB 231115A ( Fermi GBM Team GCN Circular #35035) with optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50 cm telescopes Akeno and Okayama. \n\nThe observation started at 2023-11-15 17:17:29 UT (6068 seconds after the Fermi/GBM trigger). We stacked the images with good conditions. We did not detect any obvious point sources at the position reported by Kumar et al. GCN Circular #35041. We obtained the 5-sigma limits of the stacked images as follows.\n\nT0+[sec] | MID-UT | T-EXP[sec] | 5-sigma limits\n------------------------------------------------------------------------------------------------\n# MITSuME Akeno\n6482 | 2023-11-15 17:24:23 | 600.0 | g'>19.6, Rc>19.5, Ic>19.0\n7527 | 2023-11-15 17:41:48 | 1200.0 | g'>20.0, Rc>19.8, Ic>19.3\n9612 | 2023-11-15 18:16:33 | 2400.0 | g'>20.4, Rc>20.2, Ic>19.7\n# MITSuME Okayama\n12526 | 2023-11-15 19:05:07 | 7380.0 | g'>19.1, Rc>19.9, Ic>19.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ, Vol.73, Issue 1, Pages 4-24; https://github.com/MNiwano/Eclaire)."
+}

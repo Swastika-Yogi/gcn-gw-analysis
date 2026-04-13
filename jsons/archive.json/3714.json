@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050730: Swift XRT afterglow observations",
+  "eventId": "GRB 050730",
+  "bibcode": "2005GCN..3714....1G",
+  "createdOn": 1122787884000,
+  "circularId": 3714,
+  "submitter": "David Burrows at PSU/Swift  <dxb15@psu.edu>",
+  "email": "dxb15@psu.edu",
+  "body": "D. Grupe, J. A. Kennea, and D. N. Burrows (PSU) report on behalf of the \nSwift-XRT\nteam:\n\nWe have analyzed the Swift XRT data from the first three orbits of \nobservations of GRB 050730 (Holland et al., GCN 3704). The satellite slewed \nto this burst immediately and the XRT began collecting data at T+130 s, but \nwas unable to determine an on-board position for the afterglow.  In \nground-processed data we find a bright, fading, uncataloged X-ray source \nthat we identify as the afterglow of this burst.  The XRT ground-calculated \ncoordinates are:\n\nRA(J2000) =  14h 08m 17.7s\nDec(J2000) = -03 46 09.7.\n\nThis position is 42 arcseconds from the BAT position given in GCN 3704, and \n13.4 arcseconds from the UVOT position given in GCN 3704.  However, we note \nthat there is accumulating evidence of a time-dependent systematic shift in \nXRT positions derived from ground-processed data compared with the optical \ncounterparts. This effect is being investigated but is not yet \nunderstood.  Extrapolation of earlier positional errors suggests that the \ncorrect position could have a systematic error of at least 7 arcseconds in \naddition to the standard error circle of about 6 arcseconds radius.\n\nA preliminary spectral fit (simple absorbed power-law) to the WT data \nyields a photon index of 1.6+/-0.2. The derived NH is (4.4+/-0.6)E20 cm^-2, \nwhich is roughly consistent with the Galactic value (3.1E20 cm^-2; Dickey & \nLockman 1990).\n\nThe light curve is complex, with at least 3 X-ray flares in the first orbit \nof data (T+130 to T+ 1000 s), making it difficult to estimate a decay \nslope.  A rough approximation of the average decay slope over the first 3 \norbits of data is about -0.8.\n\nFurther observations are in progress."
+}

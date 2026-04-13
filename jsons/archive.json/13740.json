@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120908A: Swift Observations",
+  "eventId": "GRB 120908A",
+  "bibcode": "2012GCN.13740....1I",
+  "createdOn": 1347288907000,
+  "circularId": 13740,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (CRESST/GSFC/UMD), C. Pagani (U. Leicester), and\nA. A. Breeveld (MSSL-UCL) report on behalf of the Swift team:\n\nSwift began a Target of Opportunity observation of the MAXI/GSC\ndiscovered burst GRB 120908A (Morii et al. GCN 13731) at 2012-09-09\n13:41:43 UT.\n\nWe have analyzed 3.7 ks of XRT data, starting ~54 ks after the MAXI\ntrigger. The data are entirely in Photon Counting mode, centered on\nthe MAXI position and partially covering the MAXI error region.\nNo new source is detected in the XRT data. The 3-sigma upper limit\nis 0.004 counts/sec which is 2.4e-13 erg cm^-2 s^-1 for a typical GRB\nspectrum.\n\nThe Swift/UVOT began settled observations of the field 54.4 ks after\nthe MAXI trigger (Morii et al., GCN Circ. 13731). No optical afterglow\nconsistent with the MAXI position given in that circular is detected\nin the initial UVOT exposures. Preliminary 3-sigma upper limits using\nthe UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc.\n1358, 373) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite            54383        66117         2345         >21.7\n\nThe magnitude in the table is not corrected for the Galactic\nextinction due to the reddening of E(B-V) = 0.23 in the direction of\nthe burst (Schlegel et al. 1998)."
+}

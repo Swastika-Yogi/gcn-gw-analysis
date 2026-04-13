@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090904A: Swift-BAT refined analysis",
+  "eventId": "GRB 090904A",
+  "bibcode": "2009GCN..9888....1P",
+  "createdOn": 1252070199000,
+  "circularId": 9888,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nJ. R. Cummings (GSFC/UMBC), E. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD), M. Perri (ASDC),\nT. Sakamoto (GSFC/UMBC), G. Sato (ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-60 to T+243 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 090904A (trigger #361830)\n(Perri, et al., GCN Circ. 9879).  The BAT ground-calculated position is\nRA, Dec = 100.855, 50.235 deg, which is \n   RA(J2000)  =  06h 43m 25.2s \n   Dec(J2000) = +50d 14' 06.9\" \nwith an uncertainty of 3.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 75%.\n \nThe mask-weighted light curve shows low level emission starting at ~T-40 sec,\nwith a small peak at ~T+5 sec. Then there was a larger peak at ~T+50 sec,\nand then the largest peak (FRED-like) starting at ~T+123 sec, peaking at\n~T+128 sec.  Riding on that tail is a peak ~T+173.  The event is over\nin the BAT energy band at ~T+240 sec.  T90 (15-350 keV) is 122 +- 10 sec\n(estimated error including systematics).\n \nThe time-averaged spectrum from T+29.3 to T+186.3 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.01 +- 0.10.  The fluence in the 15-150 keV band is 3.0 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+127.07 sec in the 15-150 keV band\nis 1.9 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/361830/BA/"
+}

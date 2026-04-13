@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 220325A",
+  "eventId": "GRB 220325A",
+  "bibcode": "2022GCN.31791....1W",
+  "createdOn": 1648266097000,
+  "circularId": 31791,
+  "submitter": "Joshua Wood at MSFC/Fermi-GBM  <joshua.r.wood@nasa.gov>",
+  "email": "joshua.r.wood@nasa.gov",
+  "body": "J. Wood (NASA/MSFC) reports on behalf of the Fermi-GBM Team:\n\nThere was no Fermi-GBM onboard trigger around the time of GRB 220325A,\nwhich was detected by Swift-BAT at 17:16:23 UT on 25 March, 2022 (Ferro\net al. GCN 31787).\n\nAn automated, blind search for short gamma-ray bursts below the onboard\ntriggering threshold in Fermi-GBM identified GRB 220325A with medium\nreliability [1], with a localization consistent with the Swift-BAT\nlocation at the ~2 sigma level, and a discovery timescale of 2.751 s.\nThe start time of the GBM sub-threshold detection coincides with the time\nof the peak photon flux observed by Swift-BAT.\n\nThe GBM targeted search [2], the most sensitive, coherent search for\nGRB-like signals also identified a transient most significantly on the 2.048 s\ntimescale, with a location consistent with the Swift-BAT event at\nthe ~2 sigma level and a signal-to-noise ratio of 12.3,\nusing the standard search protocol.\nThe GBM targeted search event was found with the highest\nsignificance with a \"soft\" spectrum (Band function with\nEpeak = 70 keV, alpha = -1.9, beta = -3.7) for a GRB.\n\nThis analysis is preliminary.\n\n[1] https://gcn.gsfc.nasa.gov/notices_gbm_sub/669921389.fermi\n[2] Goldstein et al. 2019 arXiv:1903.12597"
+}

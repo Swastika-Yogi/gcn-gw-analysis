@@ -1,0 +1,10 @@
+{
+  "subject": "SGR 0501+4516: Swift XRT measure of the spin period",
+  "eventId": "SGR 0501+4516",
+  "bibcode": "2008GCN..8146....1M",
+  "createdOn": 1219859610000,
+  "circularId": 8146,
+  "submitter": "Vanessa Mangano at INAF-IASFPA  <vanessa@ifc.inaf.it>",
+  "email": "vanessa@ifc.inaf.it",
+  "body": "V. Mangano (INAF-IASF PA), J. Kennea (PSU), M. Perri (ASDC),\nG. Cusumano (INAF-IASF PA), D. N. Burrows (PSU),\nN. Gehrels (GSFC), D. Palmer (LANL), S. Barthelmy (GSFC)\nreport on behalf of the Swift Team:\n\nSwift XRT observed SGR 0501+4516 from 2008-08-22 12:43:36 s UT to\n2008-08-24 01:35:43 s UT in Photon Counting (PC) mode and from\n2008-08-26 05:14:58 s UT to 2008-08-27 02:31:59 s UT in Windowed Timing\n(WT) mode for a total of about 38 ks exposure in PC and 30 ks in WT.\nWe performed the barycentric correction of photon arrival times and\na search for coherent pulsations over the full data set in the\n0.2-10 keV band with epoch folding search techniques.\nWe had a highly significant detection at the period\n\nP = 5.7620697 +/- 0.0000015 s\n\nThe quoted error is at the 90% confidence level and have been\ncalculated following the method described in\nCusumano, Massaro & Mineo, 2003, A&A, 402, 647.\nThe reference epoch is at 2008-08-22 12:42:08.278 s (Terrestrial time)\ncorresponding to the beginning of the PC observation.\nThis value is at < 2 sigma from the RXTE measure of 5.769 � 0.004 s\n(Gogus et al. 2008, ATEL #1677).\n\nThe folded light curve shows a perfectly sinusoidal profile with a  \npulsed fraction of 17% (calculated as the half the difference between\nthe maximum and minimum count rates).\n\nFurther analysis to look for possible period evolution is ongoing."
+}

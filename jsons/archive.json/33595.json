@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230409B: Swift/UVOT Detection",
+  "eventId": "GRB 230409B",
+  "bibcode": "2023GCN.33595....1K",
+  "createdOn": 1681050387000,
+  "circularId": 33595,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "GRB 230409B: Swift/UVOT Detection\n\nN. Paul Kuin (UCL/MSSL) and A. P. Beardmore (U. Leicester) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 230409B  386 s after the BAT trigger (Beardmore et al.,\nGCN Circ. 33592).  A weak fading source consistent with the\nXRT position (Beardmore et al. GCN Circ. 33592) is detected\nin the initial UVOT exposures at position RA=329.5158,\nDec=52.8321 deg.\n\nPreliminary detections and 3-sigma upper limits using the\nUVOT photometric system (Breeveld et al. 2011, AIP Conf.\nProc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              386          536          147         19.35 +/- 0.20\nv                  542         1931          156        >18.1\nb                  642         2029          156        >19.4\nu                  616         2004          156        >19.0\nw1                 592         1980          156        >18.8\nm2                 567         1955          156        >19.2\nw2                 692         1906          136        >20.0\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 1.226 in the direction of the burst\n(Schlegel et al. 1998)."
+}

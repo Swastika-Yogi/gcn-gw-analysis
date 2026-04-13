@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090102: TAROT Calern observatory optical light curve",
+  "eventId": "GRB 090102",
+  "bibcode": "2009GCN..8764....1K",
+  "createdOn": 1230873286000,
+  "circularId": 8764,
+  "submitter": "Alain Klotz at CESR-CNRS  <Alain.Klotz@free.fr>",
+  "email": "Alain.Klotz@free.fr",
+  "body": "Klotz, A. (CESR-OMP), Gendre, B. (OAMP),\nBoer M. (OHP), Atteia J.L. (LATT-OMP) report:\n\nWe analyzed images of GRB 090102 detected by SWIFT\n(trigger 338895) with the TAROT at the Calern\nobservatory, France.\n\nIn our previous GCN Circ. (9761) we made a mistake\nin the celestial coordinates of the optical afterglow.\nTAROT position is compatible with UVOT (Mangano et\nal. GCNC 8762).\n\nThe first image is trailed with a duration of 60.0s\n(see the description in Klotz et al., 2006, A&A 451, L39)\nand we detect the growth of the optical light curve\nthat culminates at t0+60s (+/- 3s) with a brightness R=13.4\n(i.e. ~40s after the end of the gamma activity).\nWe calibrated magnitudes in R band using\nNOMAD1 1231-0209716 (R=13.31).\n\nAfter t0+60s, the decay of the afteglow is classic with\na decay of alpha=1.6 +/- 0.2. Hereafter, TAROT Calern\ndata (tstart and tend are expressed in seconds after\nthe BAT trigger t0):\n\ntstart tend  R      dR\n  40.8  46.8  14.3   0.2\n  46.8  52.8  13.6   0.1\n  52.8  58.8  13.4   0.1\n  58.8  64.8  13.4   0.1\n  64.8  70.8  13.5   0.1\n  70.8  76.8  13.7   0.1\n  76.8  82.8  13.7   0.1\n  82.8  88.8  14.0   0.1\n  88.8  94.8  14.1   0.1\n  94.8 100.8  14.3   0.1\n107.6 137.6  14.4   0.2\n144.6 174.6  14.9   0.2\n181.6 211.6  15.5   0.3\n\nFurther observations are in progress"
+}

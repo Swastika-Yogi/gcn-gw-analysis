@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090926B: Swift-BAT refined analysis",
+  "eventId": "GRB 090926B",
+  "bibcode": "2009GCN..9939....1B",
+  "createdOn": 1254023476000,
+  "circularId": 9939,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "W. H. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC),\nJ. R. Cummings (GSFC/UMBC), D. Grupe (PSU), E. E. Fenimore (LANL),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), C. B. Markwardt (GSFC/UMD),\nD. M. Palmer (LANL), A. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-61 to T+243 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 090926 (trigger #370791)\n(Grupe, et al., GCN Circ. 9935).  The BAT ground-calculated position is\nRA, Dec = 46.310, -38.997 deg which is\n    RA(J2000)  =  03h 05m 14.3s\n    Dec(J2000) = -38d 59' 50.9\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 26%.\n\nThe mask-weighted light curve shows a sharp rise at T-20 sec, then a\ncomplex peak reaching a maximum at T-1 sec, followed by an approximately\nexponential decay. T90 (15-350 keV) is 109.7 +- 11.3 sec (estimated \nerror including systematics).\n\nThe time-averaged spectrum from T-21.6 to T+133.2 sec is best fit by a\npower law with an exponential cutoff.  This fit gives a photon index\n0.52 +- 0.24, and Epeak of 78.3 +- 7.0 keV (chi squared 57.75 for 56\nd.o.f.).  For this model the total fluence in the 15-150 keV band is\n7.3 +- 0.2 x 10^-06 erg/cm2 and the 1-sec peak flux measured from\nT-1.31 sec in the 15-150 keV band is 3.2 +- 0.3 ph/cm2/sec.  A fit to a\nsimple power law gives a photon index of 1.54 +- 0.00 (chi squared\n125.34 for 57 d.o.f.).  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/370791/BA/"
+}

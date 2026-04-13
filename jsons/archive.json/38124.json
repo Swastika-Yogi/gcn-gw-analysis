@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241105A: EP-FXT follow-up observations",
+  "eventId": "GRB 241105A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38124....1Z",
+  "createdOn": 1731048017824,
+  "circularId": 38124,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "H. Zhou (PMO, CAS), R.-Z. Li (YNAO, CAS), X. L. Chen, K. Chatterjee (YNU), S. Q. Jiang, T. Zhao, D. Y. Li, W. Chen, C. C. Jin, H. W. Pan (NAO,CAS), E. Troja (U Rome), X. F. Wu (PMO, CAS), P. Jonker (Radboud Univ.) report on behalf of the Einstein Probe team:\n\nThe Follow-up X-ray telescope (FXT) on board the Einstein Probe mission performed two follow-up observations of GRB 241105A (Fermi GBM team, GCN 38085; DeLaunay et al., GCN 38091; Frederiks et al., GCN 38103), and detected a fading uncataloged X-ray source. The EP-FXT loaction of the X-ray source is consistent with the location of the optical counterpart of GRB 241105A (Julakanti et al., GCN 38088; Izzo et al., GCN 38097; SVOM/VT team, GCN 38099; Hu et al., GCN 38106).\n\nThe results are reported:\n+--------------------------------------------------------------------------------------------------------+\n   T_start (UTC)    |     T_end (UTC)     | Exposure (s) | T_mid - T_0 (h) | Flux (0.5-10keV, erg/s/cm^2)\n+--------------------------------------------------------------------------------------------------------+\n2024-11-06T13:40:26 | 2024-11-06T14:28:44 |     2894     |       22.0      |     (1.51+/-0.31)E-13\n2024-11-07T04:05:45 | 2024-11-07T08:05:40 |     7966     |       38.0      |     (3.79+/-0.50)E-14\n+--------------------------------------------------------------------------------------------------------+\n\nThe derived temporal decay index is 2.5 +/- 0.4, which is consistent with the value reported by the Swift-XRT team (Kennea et al., GCN 38098).\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics)."
+}

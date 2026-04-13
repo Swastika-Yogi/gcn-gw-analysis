@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT Trigger 442539 is not a GRB",
+  "bibcode": "2011GCN.11573....1B",
+  "createdOn": 1295206628000,
+  "circularId": 11573,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), C. B. Markwardt (GSFC) and J. Kennea (PSU)\n(for the Swift BAT and XRT teams):\n\nUsing the BAT event-by-event data set from T-60 to T+243 sec\nfrom recent telemetry downlinks, we report further analysis\nof BAT trigger #442539 (Markwardt, et al., GCN Circ. 11572).\nThe ground-calculated image has a significance of only 4.6 sigma\nand there is nothing striking in the mask-weighted lightcurve.\n\nWe have examined 2.2ks of XRT Photon Counting data,\nstarting 148 seconds after the BAT trigger.\nNo source is found inside the BAT error circle, or\nanywhere in the XRT field of view.  We estimate a\n3-sigma upper limit of 6.9e-3 counts/s for any\nnew source in the field of view.\n\nGiven the BAT low image significance and lightcurve and\nthe XRT non-detection, we conclude that this trigger is not a GRB,\nnor is it anything astrophysical."
+}

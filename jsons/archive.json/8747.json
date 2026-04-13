@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081228: Swift/UVOT  Upper Limits",
+  "eventId": "GRB 081228",
+  "bibcode": "2008GCN..8747....1L",
+  "createdOn": 1230480024000,
+  "circularId": 8747,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W. Landsman (GSFC) and K. L. Page (U. Leicester) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 081228 82s \nafter the BAT trigger (Page et al., GCN 8742).\nThe exposure time was limited by observing constraints until about 1 \nhour after the trigger.   We do not detect any source at the refined \nSwift XRT position (Page & Evans GCN 8746).   UVOT magnitude 3-sigma \nupper limits in a 5\" aperture are reported in the following table:\n\nFilter   T_start     Exp(s)  Mag (3-sigma upper limit)\n------------------------------------------------------\nwhite       82         37      > 20.0\nwhite     4679        137      > 20.7\nv         3653        197      > 19.3\nb         4473        197      > 20.3\nu         4268        197      > 20.0\nuvw1      4063        197      > 20.0\nuvm2      3858        197      > 20.0\nuvw2      9102        886      > 20.9\n\nThe quoted upper limits have not been corrected for the expected \nGalactic extinction along the line of sight of E_(B-V) = 0.16 mag.   All \nphotometry is on the UVOT photometric system described in Poole et al. \n(2008, MNRAS, 383, 627)."
+}

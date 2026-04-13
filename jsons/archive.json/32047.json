@@ -1,0 +1,14 @@
+{
+  "subject": "IceCube-220513A: No significant detection in HAWC",
+  "editedOn": 1744224270626,
+  "eventId": "IceCube-220513A",
+  "version": 2,
+  "bibcode": "2022GCN.32047....1H",
+  "createdOn": 1652580158000,
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Tyler Barna at University of Minnesota <tylerpbarna@gmail.com>",
+  "submitter": "Woo-Hyeon Heo at HAWC  <gjdngus9809@gmail.com>",
+  "circularId": 32047,
+  "email": "gjdngus9809@gmail.com",
+  "format": "text/plain",
+  "body": "[SUBJECT]: IceCube-220513A: No significant detection in HAWC\n\n[FROM]: Woo-Hyeon Heo at the University of Seoul\n\n[BODY]:\nWoo-Hyeon Heo, Hugo Ayala (UOS, PSU) reports on behalf of the HAWC\ncollaboration (http://www.hawc-observatory.org/collaboration):\n\nOn 2022/05/13 23:23:13 UTC, the IceCube collaboration reported a\ntrack-like very-high-energy event  that has a high probability of\nbeing an astrophysical neutrino, IceCube-220513A. Location is at\nRA: 224.03 (+1.36/-1.27 deg 90% PSF containment) J2000\nDec: -1.34 (+0.74/-0.81 deg 90% PSF containment) J2000\n(GCN circular 32037).\n\nWe performed two types of analyses for the follow-up. The first is for\na steady source in archival data and the second is a search for a\ntransient source. We assume a power-law spectrum with an index of -2.3\nfor both analyses.\n\nSearch for a steady source in archival data:\nThe archival data spans from November 2014 to June 2019. We searched\ninside the reported IceCube error region.\nThe most significant location, with p-value 1.66e-2 (0.54 post-trials),\nis at RA 225.22 deg, Dec -1.04 deg (��0.83 deg 68% containment) J2000.\nWe set a time-integrated 95% CL  upper limit on gamma rays at the\nmaximum position of:\n\nE^2 dN/dE = 1.97e-13 (E/TeV)^-0.3 TeV.cm^-2.s^-1\n\nSearch for a transient source.\n\nSince the IceCube event fall inside the HAWC field of view,\nwe report on the result for the current transit of the IceCube\nposition.\n\nData acquisition started on 2022/05/12 08:35:57 UTC and ended\n2022/05/14 08:49:21 UTC.\nThe most significant location, with p-value 2.22e-02 (3.73e-01 post-trials),\nis at RA 225.22 deg, Dec -0.97 deg (��0.89 deg 68% containment) J2000.\nWe set a time-integrated 95% CL upper limit at the position of\nmaximum significance of:\n\nE^2 dN/dE = 1.38e-11 (E/TeV)^-0.3 TeV.cm^-2.s^-1\n\nHAWC is a very-high-energy gamma-ray observatory operating in Central\nMexico at latitude 19 deg. north. Operating day and night with over\n95% duty cycle, HAWC has an instantaneous field of view of 2 sr and\nsurveys 2/3 of the sky every day. It is sensitive to gamma rays from\n300 GeV to 100 TeV."
+}

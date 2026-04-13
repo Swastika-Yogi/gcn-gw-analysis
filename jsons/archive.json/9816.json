@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090812: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 090812",
+  "bibcode": "2009GCN..9816....1N",
+  "createdOn": 1250501814000,
+  "circularId": 9816,
+  "submitter": "Kazuhiro Noda at Miyazaki U  <kaz1206@astro.miyazaki-u.ac.jp>",
+  "email": "kaz1206@astro.miyazaki-u.ac.jp",
+  "body": "K. Noda, E. Sonoda, N. Ohmori, K. Kono, H. Hayashi,\nA. Daikyuji, Y. Nishioka, M. Yamauchi (Univ. of Miyazaki),\nY. Hanabata, T. Uehara, T. Takahashi, Y. Fukazawa (Hiroshima U.),\nM. Ohno, M. Suzuki, M. Kokubun, T. Takahashi (ISAS/JAXA),\nW. Iwakiri, M. Tashiro, Y. Terada, A. Endo, K. Onda,\nT. Sugasahara (Saitama U.), Y. Urata (NCU),\nT. Enoto, K. Nakazawa, K. Makishima (Univ. of Tokyo),\nK. Yamaoka, S. Sugita (Aoyama Gakuin U.), Y. E. Nakagawa,\nT. Tamagawa (RIKEN), S. Hong (Nihon U.), N. Vasquez (Tokyo Tech.),\non behalf of the Suzaku WAM team, report:\n\nThe long GRB 090812 (Swift/BAT trigger #359711; \nStamatikos et al., GCN 9768; Baumgartner et al., GCN 9775) \ntriggered the Suzaku Wide-band  All-sky Monitor (WAM) which covers an \nenergy range of 50 keV - 5 MeV at 2009-08-12 06:02:33.68 UT (=T0). \n\nThe observed light curve shows a double-peaked structure, starting at \nT0-30 s and ending at T0+40 s, with a total duration (T90) of about 36 s. \nThe fluence in 100 - 1000 keV was 1.50(-0.46, +0.40) x10-6 erg/cm2.\nThe 1-s peak flux measured from T0+2 s was 2.77(-0.35, +0.23) photons/cm2/s \nin the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-30 s to T0+40s is well fitted by a power-law with exponential cutoff model:\n  dN/dE ~  E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\n  alpha:     1.31(-1.09, +0.81), and\n  Epeak:     340(-138, +254) keV (chi2/d.o.f. = 36.6/37).\n\nAll the quoted errors are at statistical 90% confidence level,\nin which the systematic uncertainties are not included.\n\nThe light curves for this burst will be available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

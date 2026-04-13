@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of bright hard GRB 060213",
+  "eventId": "GRB 060213",
+  "bibcode": "2006GCN..4763....1G",
+  "createdOn": 1140031503000,
+  "circularId": 4763,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long hard GRB 060213, which was localized by IPN (Pal'shin et al., \nGCN 4762), triggered Konus-Wind at T0=47469.517 s UT (13:11:09.517).\n\nAs observed by Konus-Wind it had a duration of ~60 s,\nfluence 1.599(-0.082, +0.066)x10^-4 erg/cm2,\nand the 16-ms peak flux measured from T0+0.320 s\n6.95(-1.84, +1.82)x10^-5  erg/cm2/s\n(both in the 20 keV - 4 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+56.832 s) is well fitted (in the 20 keV - 4 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 0.834(-0.045, +0.043)\nand Ep = 1061 (-43, 83) keV (chi2 = 79.5/71 dof).\n\nThe spectrum integrated over the 1.024-s maximum\n(accumulated from T0+0.256 s)\nis well fitted in the same energy range\nby  a power law with exponential cutoff model\nwith alpha = 0.458(-0.074, 0.070)\nand Ep = 1230 (-94, 104) keV (chi2 = 61.5/61 dof)\n\nAll the quoted errors are at the 90% confidence level.\n\nThis is one of the most intense GRBs detected by Konus-Wind so far.\n\nThe Konus-Wind light curve of this GRB will be available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB060213_T47469/"
+}

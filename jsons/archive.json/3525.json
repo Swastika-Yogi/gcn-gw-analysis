@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050607: Swift Detection of a long GRB",
+  "eventId": "GRB 050607",
+  "bibcode": "2005GCN..3525....1R",
+  "createdOn": 1118146053000,
+  "circularId": 3525,
+  "submitter": "Alon Retter at PSU  <retter@astro.psu.edu>",
+  "email": "retter@astro.psu.edu",
+  "body": "A. Retter, J. Racusin, J. Kennea, D. Burrows (PSU), D. Palmer (LANL),\nK. McGowan (MSSL), J. Cummings (NRC/GSFC), S. Barthelmy, N. Gehrels\n(GSFC)\n\non behalf of the Swift Team report:\n\nAt 09:11:23 UT the Swift-BAT triggered on GRB 050607 (trigger 132247).\nThe BAT refined ground position is RA, Dec 300.167, +9.137 (J2000)\n{20h00m40s, +09d 08' 13\"}.  The burst had 3 peaks over 30 seconds, with a\nT90 of 26.5 seconds from T+0 to T+26.5 seconds. Its spectrum is well fit\nby a simple power law with an index of 1.93 +/- 0.14.  The total fluence\nwas (8.9 +/- 1.2) x 10^-7 erg/cm2 over 15-350 keV. The peak flux was\n1.15+/-0.16 photons/cm2/s from T+1 to T+2 seconds. The burst was 27\ndegrees off the BAT boresight in the 87% coded field of view. Swift slewed\nto the position of the burst immediately, starting 17 seconds after the\nburst trigger.\n\n\nThe XRT was pointed promptly at the burst at 09:13:02 UT (100 s after the\nBAT burst trigger).  The XRT did not centroid on-board, but ground\nanalysis revealed a bright X-ray source near the center of the field of\nview, with position RA(J2000) = 20h 00m 42.5s Dec(J2000) = +09d 08' 30''\nWe estimate an uncertainty of approximately 8 arcseconds radius (90%\ncontainment).  This position is 40 arcseconds from the BAT position.\n\n\nImmediate data from UVOT will not be available due to the instrument\nbeing in an engineering mode."
+}

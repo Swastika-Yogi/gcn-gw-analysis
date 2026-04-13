@@ -1,0 +1,10 @@
+{
+  "subject": "BAT detection and localization of GRB 160612A",
+  "eventId": "GRB 160612A",
+  "bibcode": "2016GCN.19537....1L",
+  "createdOn": 1465946577000,
+  "circularId": 19537,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "A. Y. Lien (GSFC/UMBC) and D. M. Palmer (LANL) \nreport on behalf of the Swift Team:\n\nAt 20:12:48 UT on 2016-06-12, a number of gamma ray instruments, including\nSwift-BAT, detected the short-hard GRB 160612A (Burns et al., GCN Circ. 19531).\nBAT was slewing to a pre-planned target at that time, so it did not immediately\ntrigger.  However, ground analysis of the slew data reveals the GRB location\nof RA, dec = 348.364, -25.375 which is\n RA(J2000) = 23h 13m 27s\n dec(J2000) = -25d 22' 30\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  This position is consistent with the IPN error box \n(Kozlova, GCN Circ 19535).  The lightcurve shows a short, complex peak\nwith a duration of T90 = 0.25 seconds and a peak count rate of \n~18,000 counts/s (15-350 keV)..\n\nThe time-averaged spectrum over the T90 interval is best fit by a\nsimple power-law model, with a photon index of 0.74+/-0.17\nand a fluence in the 15-150 keV band of 1.16 +/- 0.12 x 10^-7\nerg/cm^2.  All quoted errors are at the 90% confidence level\n\nSwift ToO observations are underway (GCN 19536)."
+}

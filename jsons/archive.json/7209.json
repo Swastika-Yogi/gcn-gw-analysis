@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080121: Swift-BAT detection of a very weak, short burst",
+  "eventId": "GRB 080121",
+  "bibcode": "2008GCN..7209....1C",
+  "createdOn": 1201120749000,
+  "circularId": 7209,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. R. Cummings and D. M. Palmer for the Swift-BAT team\n\nAt 21:29:55 on Jan 21, 2008, BAT detected a weak short GRB \n(trigger #301491) at a ground-calculated location \nRA, Dec 137.235, +41.841, error radius 3 arcmin (90% confidence),\nwhich is:\nRA(J2000)  = 09h 08m 56s\nDec(J2000) = +41d 50' 29\"\n \nThe significance of the source in the detection image was just \nbelow the alert threshold, so Swift did not slew immediately to \nthe burst. In addition, the source location was in Moon constraint, \nso no late observation was made.\n\nAs seen in BAT, the burst was a single peak with T90 0.7 +- 0.2\nseconds. Because of the weakness of the burst, a power-law fit to \nthe spectrum from T-0.4 to T+0.4 sec is not well constrained. The \npower-law index is 2.6 +- 0.8. The fluence was \n(3 +- 2) x 10^-8 erg/cm2/sec. Quoted uncertainties are 90%\nconfidence including estimated systematic error."
+}

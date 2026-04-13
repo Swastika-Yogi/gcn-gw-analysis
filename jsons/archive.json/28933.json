@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201120B: Fermi GBM Final Localization",
+  "eventId": "GRB 201120B",
+  "bibcode": "2020GCN.28933....1F",
+  "createdOn": 1605910868000,
+  "circularId": 28933,
+  "submitter": "Joshua Wood at MSFC/Fermi-GBM  <joshua.r.wood@nasa.gov>",
+  "email": "joshua.r.wood@nasa.gov",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\nAt 10:35:49.07 UT on 20 Nov 2020, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 201120A (trigger 627561354 / 201120442).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 78.2, Dec = -57.7 (J2000 degrees, equivalent to J2000 5h 13m, -57d 42'), with a statistical uncertainty of 15.2 degrees.\n\nThe angle from the Fermi LAT boresight is 26.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn201120442/quicklook/glg_skymap_all_bn201120442.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn201120442/quicklook/glg_healpix_all_bn201120442.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2020/bn201120442/quicklook/glg_lc_medres34_bn201120442.gif"
+}

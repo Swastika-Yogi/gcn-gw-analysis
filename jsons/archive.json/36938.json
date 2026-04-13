@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240727A: Swift detection of a burst",
+  "eventId": "GRB 240727A",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.36938....1P",
+  "createdOn": 1722053164887,
+  "circularId": 36938,
+  "submitter": "David Palmer at LANL <palmer@lanl.gov>",
+  "body": "\nT. M. Parsotan (GSFC), K. L. Page (U Leicester), D. M. Palmer (LANL)\nand B. Sbarufatti (INAF-OAB) report on behalf of the Neil Gehrels\nSwift Observatory Team:\n\nPrior to 03:48 UTC, BAT triggered and located GRB 240727A\n(Trigger 1245074) and slewed to the GRB location. \nDue to a telemetry gap, no further BAT information\nwill be available until the next data downlink to the ground. \n\nThe XRT began observing the field at 03:48:12 UT. Using promptly downlinked data \nwe find a bright, uncatalogued X-ray source located at RA, Dec 236.43742, 8.62001 \nwhich is equivalent to:\n   RA(J2000)  = 15h 45m 44.98s\n   Dec(J2000) = +08d 37' 12.0\"\nwith an uncertainty of 3.5 arcseconds (radius, 90% containment). This\nposition may be improved as more data are received; the latest position\nis available at https://www.swift.ac.uk/sper. \n\nA power-law fit to a spectrum formed from promptly downlinked event\ndata gives a column density in excess of the Galactic value (3.64 x\n10^20 cm^-2, Willingale et al. 2013), with an excess column of 3.7\n(+3.19/-2.66) x 10^21 cm^-2 (90% confidence). \n\nThe initial flux in the 2.5 s image was 2.08e-09 erg cm^-2 s^-1 (0.2-10\nkeV). \n\nUVOT took a finding chart exposure of nominal 150.000 seconds with the White\nfilter starting at 03:48:20. Automatic processing FAILED due to its reliance\non BAT data for initial parameters. \n\nBurst Advocate for this burst is T. M. Parsotan (tyler.parsotan AT nasa.gov). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)\n\n"
+}

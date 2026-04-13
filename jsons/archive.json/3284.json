@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050416b: Swift-BAT refined analysis",
+  "eventId": "GRB 050416B",
+  "bibcode": "2005GCN..3284....1S",
+  "createdOn": 1113708368000,
+  "circularId": 3284,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "G. Sato (ISAS), L. Barbier, S. Barthelmy (GSFC), J. Cummings (GSFC/NRC), \nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hullinger (UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL), \nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), M. Suzuki (Saitama), \nJ. Tueller (GSFC) \non behalf of the Swift-BAT team: \n\nAt 22:35:54.1 UT Swift-BAT detected GRB 050416b (trigger=114797)\n(GCN Circ 3279, Hullinger et al.).  The refined BAT ground position\nis (RA,Dec) = 133.854,  11.182, [deg; J2000] +- 3 arcmin, (95%\ncontainment).  The partial coding fraction was 16%. \n \nThe moon is moving towards the position of the GRB, and Swift will not \nbe able to observe for several days because of the spacecraft moon \nangle constraint. \n\nThe BAT mask weighted light curve shows a FRED-like structure.   \nT90 (15-350 keV) is (5.4 +- 0.9) seconds (estimated error including \nsystematics).\n\nThe time-averaged spectrum is well fitted in a simple power-law \nmodel.  The photon index is 1.5 +- 0.2.  The fluence in the 15-350 \nkeV band is (2.1 +- 0.3) x 10^-6 erg/cm2.   The peak photon flux in \nthe 15-350 band is (7.9 +- 0.7) ph/cm2/s.  The quoted errors are at \nthe 90% confidence level."
+}

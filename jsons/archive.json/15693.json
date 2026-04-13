@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140103A: Swift XRT afterglow confirmation",
+  "eventId": "GRB 140103A",
+  "bibcode": "2014GCN.15693....1M",
+  "createdOn": 1389035858000,
+  "circularId": 15693,
+  "submitter": "Vanessa Mangano at PSU  <vxm22@psu.edu>",
+  "email": "vxm22@psu.edu",
+  "body": "V. Mangano (PSU) reports on behalf of the Swift-XRT team:\n\nWe have analysed 6.9 ks of XRT data for GRB 140103A (Mangano  et al.\nGCN Circ. 15656),  from 153 s to 59.7 ks after the  BAT trigger. The\ndata comprise 2.6 ks in Windowed Timing (WT) mode (the first 7 s were\ntaken while Swift was slewing) with the remainder in Photon Counting\n(PC) mode.\nWe confirm that the X-ray source reported in Mangano et al. GCN Circ. \n15666 is the afterglow of GRB 140103A. Its light curve can now be \nmodelled with an initial power-law decay with an index of \nalpha=0.18 (+0.17, -0.19), followed by a break at T+3221 s to\nan alpha of 1.18 (+0.51, -0.28).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 2.6 (+0.5, -0.4). The\nbest-fitting absorption column is  2.5 (+1.9, -1.3) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.3 x 10^20 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 2.7 x 10^-11 (6.1 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the WT-mode spectrum is thus:\nTotal column:\t     2.5 (+1.9, -1.3) x 10^21 cm^-2\nGalactic foreground: 1.3 x 10^20 cm^-2\nExcess significance: 3.0 sigma\nPhoton index:\t     2.6 (+0.5, -0.4)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00582773.\n\nThis circular is an official product of the Swift-XRT team."
+}

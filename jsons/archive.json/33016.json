@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221202A: Swift/UVOT Detection",
+  "eventId": "GRB 221202A",
+  "bibcode": "2022GCN.33016....1K",
+  "createdOn": 1670101668000,
+  "circularId": 33016,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "Paul Kuin (MSSL-UCL) and R. Caputo (GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 221202A\n102 s after the BAT trigger (Caputo et al., GCN Circ. 33005).\nA source consistent with the XRT position (Beardmore et al. GCN Circ. 33008)\nis detected in the initial UVOT exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT\nphotometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite              102          733          186         20.66 +/- 0.20\nv                  590         4820          216        >19.9\nb                  516          709           39        >19.8\nu                  260          857          285        >19.7\nw1                 640          832           39        >20.8\nm2                 615          808           39        >18.1\nw2                 566         4635          235        >20.0\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.027 in the direction of the burst\n(Schlegel et al. 1998)."
+}

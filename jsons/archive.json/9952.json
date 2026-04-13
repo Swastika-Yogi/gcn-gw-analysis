@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090927: Swift XRT refined analysis",
+  "eventId": "GRB 090927",
+  "bibcode": "2009GCN..9952....1G",
+  "createdOn": 1254064381000,
+  "circularId": 9952,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <grupe@astro.psu.edu>",
+  "email": "grupe@astro.psu.edu",
+  "body": "D. Grupe and  L. Vetere (PSU) report on behalf of the Swift-XRT team:\n\nDue to an observing constraint, the Swift XRT started observing the\nfield of GRB 090927 Grupe et al., GCN Circ. 9945) delayed at 10:43:03\nUT, 2147s after the BAT trigger.\n\nXRT found a faint, fading, uncatalogued X-ray source at\nRA (J2000): 22h 55m 53.50s\nDec (J2000): -70d 58' 49.2\"\n\nwith an uncertainty of 2.0 arcsec (radius, 90% confidence) as given\nin Evens et al. (GCN Circular 9950).  This location is 24.8\" from\nthe BAT on-board calculated location (Grupe et al., GCN Circular\n9945), inside the BAT error circle, and 0.5\" from the UVOT position\ngiven in Gronwall & Grupe (GCN Circular 9946).\n\nBased on the Photon Counting mode (pc) mode data of the first orbit\nwith an exposure time of 1421s we extracted a spectrum which can be\nfitted with a single absorbed power law model with Gamma =\n1.64+/-0.49 and an absorption column density consistent with the\nGalactic value of 2.92 x 10^20 cm^-2 (Kalberla et al. 2005).\n\nThe light curve can be modelled with a single power-law decay with\nan index of alpha=1.76+2.05/-0.96. If the afterglow continues to\ndecay with this slope the predicted count rate 24 hours after\nthe trigger is 2.5e-4 counts s^-1 or 1.3e-14 ergs s^-1 cm^-2.\n\nThis circular is an official product of the Swift-XRT team."
+}

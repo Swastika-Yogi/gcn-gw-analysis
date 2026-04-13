@@ -1,0 +1,11 @@
+{
+  "subject": "EP241217a : Leavitt Observatory optical upper limit",
+  "eventId": "EP241217a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38638....1P",
+  "createdOn": 1734636360664,
+  "circularId": 38638,
+  "submitter": "leavittob@gmail.com",
+  "format": "text/plain",
+  "body": "E. Pavoni and L. Moretti (Leavitt Observatory, Italy),\n\nMembers of:\nGRB/UAI - Gamma Ray Burst section of Unione Astrofili Italiani\nATA - Associazione Tuscolana di Astronomia\n\nIn a large collaboration with:\nM.G. Dainotti (National Astronomical Observatory of Japan),\nY. Niino (Tokyo University, Institute of Astronomy),\nK. Kalinowski (Aarhus University, Department of Physics and Astronomy),\nreport:\n\nWe observed the field of EP241217a (Zhou et al., GCN 38586) with the RC telescope (D=250 mm, F/D=8) of Leavitt Observatory, Italy. \n\nOur observations started about 11.25 hours after the EP-WXT trigger, at the following position:\nRA (J2000): 03h 07m 46s\nDec(J2000): +30d 55' 47\"\n\nWeather conditions were good.\n\nWe utilized the astropy package (Astropy Collaboration et al., 2022ApJ...935..167A) to align and stack 39 individual frames of 120 sec each, with a median time of 2024-12-17T17:36:16 (UTC). All images are unfiltered.\n\nIn the stacked frame, we did not detect any optical counterpart at the position of the optical afterglow, with the following upper limit:\n\nTime (UTC)                 Limit (clear filter)\n2024-12-17T17:36:16        >20.8\n\n\nMagnitudes were estimated with the BP-band of Gaia DR3 catalogue (*) and are not corrected for galactic dust extinction.\n\nThe upper limit is consistent with other already reported (Lipunov et al., GCN 38603; Junjie-Jin et al. GCN 38607; Mohan et al. GCN 38612; Brivio et al. GCN 38618).\n\nThe message may be cited.\n\n\nReference:\nhttps://leavittobservatory.altervista.org\n\n(*) https://gea.esac.esa.int/archive/documentation/GEDR3/Data_processing/chap_cu5pho/cu5pho_sec_photSystem/cu5pho_ssec_photRelations.html"
+}

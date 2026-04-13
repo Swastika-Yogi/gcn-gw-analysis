@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231214A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 231214A",
+  "submittedHow": "email",
+  "bibcode": "2023GCN.35374....1B",
+  "createdOn": 1702732994823,
+  "submitter": "Alice Breeveld at MSSL-UCL <a.breeveld@ucl.ac.uk>",
+  "circularId": 35374,
+  "body": "A. A. Breeveld (UCL-MSSL) and Brivio (INAF-OAB) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 231214A (Fermi GBM Team, GCN Circ. 35334; Kocevski et al., GCN Circ. 35342; Navaneeth et al., GCN Circ. 35348), 442 s after the BAT trigger (Brivio et al., GCN Circ. 35335).\nNo optical afterglow consistent with the XRT position (Evans et al., GCN Circ. 35341) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite              442         4733          382         >20.7\nv                  4944          4998           54         >18.1\nb                  4329         4528          197         >19.6\nu                  4123         4322          197         >19.3\nw2                4739         4939          197         >19.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.060 in the direction of the burst (Schlegel et al. 1998)."
+}

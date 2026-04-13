@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 260410B: Fermi GBM Observation",
+  "eventId": "GRB 260410B",
+  "submittedHow": "web",
+  "createdOn": 1775970167651,
+  "circularId": 44273,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "R. Hamburg (USRA) and U. Pathak (IIT Bombay) report on behalf of the Fermi Gamma-ray Burst Monitor Team:\n\n\"At 12:22:26.93 UT on 10 April 2026, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 260410B (trigger 797516551/260410516), which was also detected by SVOM/GRM (Wang et al. 2026, GCN 44257).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 4.22, Dec = 37.74 (J2000 degrees, equivalent to J2000 0h 16m, +37d 44'), with a statistical uncertainty of 5.61 degrees (radius, 1-sigma containment, statistical only; there is additionally a systematic error which we have characterized as a mixture of two Gaussians, one with a radius of 1.8 degrees (52% contribution) and one with a radius of 4.1 degrees (47% contribution) [A. Goldstein et al. 2020, ApJ, 895, 1]).\n\nThe angle from the Fermi LAT boresight is 90 degrees.\n\nThe GBM light curve single bright emission episode with a duration (T90) of about 0.19 s (50-300 keV). The time-averaged spectrum from T0-0.04 to T0+0.16 s is best fit by a power law function with an exponential high-energy cutoff. The power law index is -0.01 +/- 0.09 and the cutoff energy, parameterized as Epeak, is 1220 +/- 30 keV.\n\nThe event fluence (10-1000 keV) in this time interval is (1.09 +/- 0.03)E-06 erg/cm^2. The 64-ms peak photon flux measured starting from T0+0.0 s in the 10-1000 keV band is 11.3 +/- 0.9 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary; final results will be published in the GBM GRB Catalog: https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

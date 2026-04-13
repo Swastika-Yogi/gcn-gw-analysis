@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140412A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 140412A",
+  "bibcode": "2014GCN.16108....1H",
+  "createdOn": 1397479611000,
+  "circularId": 16108,
+  "submitter": "Stephen Holland at STScI  <sholland@stsci.edu>",
+  "email": "sholland@stsci.edu",
+  "body": "S. T. Holland (STScI) and V. D'Elia (ASDC) report on behalf of the\nSwift/UVOT team:\n\n    Swift/UVOT began settled observations of the field of GRB 140412A\n237 s after the BAT trigger (D'Elia et al. 2014, GCNC 16097).  We do\nnot detect any new source consistent with the UVOT-enhanced XRT\nafterglow position (Goad et al. 2014, GCNC 16100) in any of the UVOT\nexposures.  Preliminary 3-sigma upper limits, using the UVOT\nphotometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373),\nfor the finding chart and summed exposures are presented below.\n\n---------------------------------------------------\nFilter        TSTART     TSTOP   Exposure       Mag\n---------------------------------------------------\nv                393      1055         69     >19.0\nb                491      6805        255     >21.0\nu                466      6599        309     >20.6\nuvw1             442      4815        255     >20.0\nuvm2             418      4610        255     >19.6\nuvw2             541      1040         58     >18.7\nwhite            237      6811        336     >21.8\n---------------------------------------------------\n\n    The quoted upper limits have not been corrected for the expected\nextinction due to the Galactic reddening along the line of sight to\nthis burst of E(B-V) = 0.19 mag (Schlafly et al. 2011, ApJS, 737,\n103)."
+}

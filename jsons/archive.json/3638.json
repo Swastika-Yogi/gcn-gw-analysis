@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Observations of GRB 050717",
+  "eventId": "GRB 050717",
+  "bibcode": "2005GCN..3638....1B",
+  "createdOn": 1121622875000,
+  "circularId": 3638,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. Blustin (MSSL), C. Hurkett (U. Leicester), A. Smale (NASA HQ),\nL. Cominsky (Sonoma State U.) report on behalf of the Swift\nUVOT team:\n\nUsing summed images from Swift/UVOT of the field of\nGRB 050717 (Hurkett et al., GCN 3633), taken from 78\nseconds after the BAT trigger, no new source is detected\nwithin the refined XRT error circle (Hurkett et al.,\nGCN 3636) in any of the six filters down to the following\n3-sigma magnitude upper limits:\n\nFilter   Exposure (s)  T_mid (s)   3-sig limit\nV        168           424         19.00\nB        75            524         19.59\nU        78            511         19.34\nUVW1     78            498         18.62\nUVM2     78            483         18.79\nUVW2     68            498         18.73\n\nwhere T_mid is the mid-point of the summed observation.\n\nWe caution that the instrument is not yet fully\ncalibrated and that the magnitude limits presented here\nmay need to be refined."
+}

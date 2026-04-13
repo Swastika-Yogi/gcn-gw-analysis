@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 171120A",
+  "eventId": "GRB 171120A",
+  "bibcode": "2017GCN.22142....1F",
+  "createdOn": 1511268510000,
+  "circularId": 22142,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 171120A (Swift/BAT detection: Tohuvavohu et al., GCN 22133; \nStamatikos et al., GCN 22139; Fermi-LAT detection: Longo et al.,\nGCN 22136; Fermi-GBM detection: Stanbro et al., GCN 22138)\ntriggered Konus-Wind at T0=48000.683 s UT (13:20:00.683).\n\nThe KW light curve shows two separate emission episodes.\nA total duration of the burst is ~44 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n1.7(-0.3,+0.5)x10^-5 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+1.644, of (1.29 �� 0.13)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+49.408 s)\nis best fit in the 20 keV - 15 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -1.59(-0.19,+0.23),\nand the peak energy Ep = 200(-56,+183) keV,\nchi2 = 84/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta of -2.0.\n\nThe spectrum near the peak count rate (measured from T0+0.128\nto T0+0.256 s) is best fit in the 20 keV - 15 MeV range by\nthe CPL function with the following model parameters:\nthe photon index alpha = -0.33(-0.30,+0.35),\nand the peak energy Ep = 305(-41,+53) keV,\nchi2 = 39/36 dof.\nFitting this spectrum with the GRB (Band) function yields\nsimilar alpha and Ep, and an upper limit on beta of -2.7.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB171120_T48000/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060427: Swift detection of a burst",
+  "eventId": "GRB 060427",
+  "bibcode": "2006GCN..5006....1M",
+  "createdOn": 1146139597000,
+  "circularId": 5006,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "V. Mangano (INAF-IASFPA), S. D. Barthelmy (GSFC),\nS. Campana (INAF-OAB), J. R. Cummings (NASA/ORAU),\nJ. A. Kennea (PSU), H. A. Krimm (GSFC/USRA),\nF. E. Marshall (NASA/GSFC), K. L. Page (U Leicester),\nD. M. Palmer (LANL), P. Romano (INAF-OAB) and D. E. Vanden Berk (PSU)\nreport on behalf of the Swift Team:\n\nAt 11:43:10 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060427 (trigger=207281).  Swift slewed immediately to the burst. \nThe BAT on-board calculated location is RA,Dec 124.303, +62.617\n{08h 17m 13s, +62d 37' 02\"} (J2000) with an uncertainty of 3 arcmin\n(radius, 90% containment, including systematic uncertainty).  This was an\nimage trigger so the TDRSS lightcurve does not show any significant activity. \n\nThe XRT began observing the field at 11:45:20 UT, 130 seconds after\nthe BAT trigger. XRT found a fading, uncatalogued X-ray source\nlocated at RA(J2000) = 08h 17m 04.5s, Dec(J2000) = +62d 40' 17.4\",\nwith an estimated uncertainty of 5.4 arcseconds (90% confidence\nradius). This location is 204 arcseconds from the BAT on-board\nposition, outside the BAT error circle. The initial flux in the 2.5s\nimage was 9.6e-10 erg/cm2/s (0.2-10 keV). \n\nUVOT took a finding chart exposure of 400 seconds with the V filter\nstarting 133 seconds after the BAT trigger. No afterglow candidate\nhas been found in the initial data products. The 2.7'x2.7' sub-image\ncovers 100% of the XRT error circle. The typical 3-sigma upper limit\nhas been about 18.5 mag. The 8'x8' region for the list of sources\ngenerated on-board covers 100% of the XRT error circle. The list of\nsources has an upper limit of 19.2 mag. No correction has\nbeen made for the expected extinction of about 0.2 magnitudes."
+}

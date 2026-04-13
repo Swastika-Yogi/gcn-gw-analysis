@@ -1,0 +1,9 @@
+{
+  "subject": "IGR J00291+5934, Swift-BAT refined analysis",
+  "bibcode": "2015GCN.18067....1S",
+  "createdOn": 1437851016000,
+  "circularId": 18067,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "T. Sakamoto (AGU), S. D. Barthelmy (GSFC),  J. R. Cummings (CPI),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-225 to T+977 sec from the recent telemetry downlink,\nwe report further analysis of trigger #650221 on IGR J00291+5934\n(Barthelmy, et al., GCN Circ. 18061).  The BAT ground-calculated position is\nRA, Dec = 7.269, 59.583 deg which is\n    RA(J2000)  =   00h 29m 04.6s\n    Dec(J2000) =   59d 34' 59\"\nwith an uncertainty of 1.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 32%.\n\nThe mask-weighted lightcurve shows a single peak about 17 seconds long on top\nof a much weaker variable emission over the entire observation.\n\nThe 20-second peak was much softer than the ongoing emission.  The time-averaged\nspectrum from T-225 to T+977 sec is best fit by a simple power-law model.  The\npower law index of the time-averaged spectrum is 3.0 +- 0.6.  The fluence in the\n15-150 keV band was (1.4 +- 0.6) x 10^-06 erg/cm^2.  The time-averaged spectrum\nfrom T-1.6 to T+16.6 sec is also best fit by a simple power-law model.  The power\nlaw index of the time-averaged spectrum is 5.5 +- 1.1.  The fluence during that\ninterval was (2.4 +- 0.5) x 10^-07 erg/cm^2.  The 1-sec peak photon flux measured\nfrom T+20.93 sec in the 15-150 keV band was 0.7 +- 0.3 ph/cm2/sec.  All the quoted\nerrors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/650221/BA/"
+}

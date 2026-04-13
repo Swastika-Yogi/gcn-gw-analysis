@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100621A: Swift XRT refined analysis",
+  "eventId": "GRB 100621A",
+  "bibcode": "2010GCN.10877....1S",
+  "createdOn": 1277129413000,
+  "circularId": 10877,
+  "submitter": "Giulia Stratta at ASDC  <giulia.stratta@gmail.com>",
+  "email": "giulia.stratta@gmail.com",
+  "body": "G. Stratta (ASDC), V. D'Elia (ASDC) and T. N. Ukwatta (GSFC/GWU) report on\nbehalf of the Swift-XRT team:\n\nWe have analysed 3.6 ks of XRT data for GRB 100621A (Ukwatta et al. GCN\nCirc. 10870), from 79 s to 7.0 ks after the BAT trigger. The data comprise\n322 s in Windowed Timing (WT) mode with the remainder in Photon Counting\n(PC) mode. The enhanced XRT position for this burst was given by Evans et\nal. (GCN. Circ 10872).\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=3.41 (+0.11, -0.18). At T+153 s the decay\nsteepens to an alpha of 4.34 (+0.20, -0.12) before breaking again at T+389 s\nto a final decay with index alpha=0.55 (+0.13, -0.07).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.73 (+0.07, -0.06). The\nbest-fitting absorption column is 6.11 (+0.27, -0.26) x 10^21 cm^-2, in\nexcess of the Galactic value of 2.9 x 10^20 cm^-2 (Kalberla et al. 2005).\nThe PC mode spectrum has a photon index of 2.15 (+0.17, -0.16) and a\nbest-fitting absorption column of 6.6 (+1.0, -0.9) x 10^21 cm^-2. The counts\nto observed (unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum is 5.0 x 10^-11 (1.0 x 10^-10) erg cm^-2 count^-1.\n\nIf the light curve continues to decay with a power-law decay index of 0.55,\nthe count rate at T+24 hours will be 0.23 count s^-1, corresponding to an\nobserved (unabsorbed) 0.3-10 keV flux of 1.1 x 10^-11 (2.4 x 10^-11) erg\ncm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00425151.\n\nThis circular is an official product of the Swift-XRT team."
+}

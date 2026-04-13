@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250419A: Mondy and AbAO Optical Observations",
+  "eventId": "GRB 250419A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40182....1P",
+  "createdOn": 1745144814466,
+  "circularId": 40182,
+  "submitter": "Nicolai Pankov at HSE, IKI RAS <colinsergesen@gmail.com>",
+  "format": "text/plain",
+  "body": "N. Pankov (HSE, IKI), A. Pozanenko (IKI), E. Klunko (ISTP), R. Ya. Inasaridze (AbAO) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of a soft long GRB 250419A detected by far by SVOM (Wang et al., GCN 40168), and Swift (Page et al., GCN 40111; Page et al., GCN 40176) at the redshhift of z = 0.845 (Thakur et al., GCN 40174) with the 1.5-meter AZT-33IK telescope of the Sayan Solar Observatory (Mondy), and the 0.7-meter AS-32 telescope of the Abastumani Astrophysical Observatory (AbAO). The R-band observations began on 2025-04-19 at 15:21:16 UT, i.e. ~0.55 days since trigger at Mondy. The optical counterpart (López et al., GCN 40169; Xin et al., GCN 40170; Zheng et al., GCN 40171; Kumar et al., GCN 40172; Thakur et al., GCN 40174; Lipunov et al., GCN 40179; Odeh et al., GCN 40180; Perley & Bochenek, GCN 40181) is detected in the stacked image from both telescopes. The preliminary photometry is as follows:\n\nDate       UTstart  Exptime     t-T0     Filter OT    Err     UL    Telescope\n                      (s)   (mid, days)                    (3sigma)\n2025-04-19 15:21:16 21*120  0.55052      R      19.68 0.05 22.2     AZT-33IK\n2025-04-19 17:15:36 76*60   0.64172      R      19.72 0.25 20.2     AS-32\n\nRef. stars\nUSNO-B1.0\nRA Dec R2\n202.4329 7.0165 15.18\n202.3871 7.0378 16.79\n\nThe photometry is based on nearby USNO-B1.0 stars (R2 magnitudes) and has not been corrected for the Galactic extinction"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to GCN 26079 regarding GRB 191027A",
+  "eventId": "GRB 191027A",
+  "bibcode": "2019GCN.26096....1B",
+  "createdOn": 1572403275000,
+  "circularId": 26096,
+  "submitter": "Jochen Greiner at MPI  <jcg@mpe.mpg.de>",
+  "email": "jcg@mpe.mpg.de",
+  "body": "B. Biltzinger, J. Greiner (both MPE Garching) report:\n\nThe BALROG localization of GRB 191027A (Fermi Trigger 593882352 / GRB 191027638)  \n(https://grb.mpe.mpg.de/grb/GRB191027638/?data_version=0)\npublished in Biltzinger et al. 2019 (GCN Circ. 26079) was sent by mistake, as\nit suffered an obvious problem in the automatic background fit (e.g. n1, n5).\nCorrected files have now been uploaded on \nhttps://grb.mpe.mpg.de/grb/GRB191027638/?data_version=zzz_bkg_corrected\n\nThe history of the original fits will remain on the page.\n  \nWe apologize for any confusion this may have caused."
+}

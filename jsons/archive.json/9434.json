@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090529:  Swift-BAT refined analysis",
+  "eventId": "GRB 090529",
+  "bibcode": "2009GCN..9434....1M",
+  "createdOn": 1243627834000,
+  "circularId": 9434,
+  "submitter": "Hans Krimm at NASA-GSFC  <hans.krimm@nasa.gov>",
+  "email": "hans.krimm@nasa.gov",
+  "body": "C. B. Markwardt (GSFC/UMD), S. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC), H. A. Krimm (GSFC/USRA),\nD. M. Palmer (LANL), A. M. Parsons (GSFC), T. Sakamoto (GSFC/UMBC),\nG. Sato (ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC),\nT. N. Ukwatta (GWU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-60 to T+243 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 090529 (trigger #353540)\n(Sakamoto, et al., GCN Circ. 9430).  The BAT ground-calculated position is\nRA, Dec = 212.446, 24.450 deg which is\n    RA(J2000)  =  14h 09m 47.1s\n    Dec(J2000) = +24d 26' 58.5\"\nwith an uncertainty of 2.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 83%.\n\nThe mask-weighted light curve shows that the burst was in progress when it\ncame into the BAT field of view at ~T-50 sec, following a pre-planned slew.\nThe detectable part of the light curve shows an exponentially falling rate,\nwhich some possible superimposed peaks at ~T-45, ~T-25 and ~T-15 sec.  The\ncount rate is down to background by T+50 seconds.  Given that we did not\nobserve the start of the burst, we can only provide a lower limit to T90:\nT90 (15-350 keV) is > 100 sec.\n\nThe time-averaged spectrum from T-49.0 to T+39.3 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.00 +- 0.3.  The fluence in the 15-150 keV band is 6.8 +- 1.7 x 10-7 erg/cm2.\nThe 1-sec peak photon flux measured from T-50.0 sec in the 15-150 keV band\nis 0.4 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/353540/BA/"
+}

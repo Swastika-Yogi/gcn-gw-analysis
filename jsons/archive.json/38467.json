@@ -1,0 +1,10 @@
+{
+  "subject": "AT2024adec: X-ray Upper Limits from EP-FXT Observation",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38467....1W",
+  "createdOn": 1733657789415,
+  "circularId": 38467,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "C. Y. Wang (THU), Y.-H. I. Yin (NJU), D. H. Zhao, H. W. Pan, D. Xu (NAO,CAS) report on behalf of the Einstein Probe team: \n\nFollowing the detection of the optical transient AT2024adec (ZTF24abvevzs, TNS AstroNote 2024-357, M. Fulton et. al), we performed an X-ray ToO observation with the Follow-up X-ray Telescope (FXT) on board the Einstein Probe (EP) mission. No X-ray emission from this source has been found in the observation.  \n\nThe observation started at 2024-12-07T01:59:31 (UTC), with an exposure time of 16.8 ks. By analysing the FXT data, we found no significant X-ray emisssion associated with AT2024adec. The upper limits of the count rate are calculated using the method provided by Ruiz et al. 2022 [1]. Assuming an absorbed power-law model with a column density of the Galactic value 2.53 x 10^20 cm^-2 and a photon index of 2, the flux upper limits in the 0.5-10 keV and 0.5-2 keV bands are obtained as ~ 9.7 x 10^-15 erg/s/cm^2 and ~ 6.5 x 10^-15 erg/s/cm^2, respectively, at the 90% confidence level, largely consistent with the sensitivity estimation given by Zhang et al. (2022 [2]).\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics). EP is a mission of the Chinese Academy of Sciences in collaboration with ESA, MPE and CNES.\n \nReferences:\n[1] Ruiz, A., et al. \"The RapidXMM upper limit server: X-ray aperture photometry of the XMM-Newton archival observations.\" Monthly Notices of the Royal Astronomical Society 511.3 (2022): 4265-4284.\n[2] Zhang, Juan, et al. \"Estimate of the background and sensitivity of the follow-up X-ray telescope onboard Einstein Probe.\" Astroparticle Physics 137 (2022): 102668."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251105C: Fermi GBM Final Localization Correction",
+  "eventId": "GRB 251105C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42595....1F",
+  "createdOn": 1762379393651,
+  "submitter": "Angus Jameson <abj0023@uah.edu>",
+  "circularId": 42595,
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\n\"At 18:45:56.05 UT on 05 November 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 251105C (trigger 784061161/251105782).\nThis trigger was initially classified as Below horizon by the flight software,\nbut is in fact a GRB.\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 212.18, Dec = 37.29 (J2000 degrees, equivalent to J2000 14h 8m, +37d 17'),\nwith a statistical uncertainty of 11.28 degrees.\n\nThe angle from the Fermi LAT boresight is 68 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn251105782/quicklook/glg_skymap_all_bn251105782.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn251105782/quicklook/glg_healpix_all_bn251105782.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn251105782/quicklook/glg_lc_medres34_bn251105782.gif\""
+}

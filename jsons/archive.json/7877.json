@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080613B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080613B",
+  "bibcode": "2008GCN..7877....1L",
+  "createdOn": 1213395221000,
+  "circularId": 7877,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W.Landsman (GSFC/Adnet) and C. Markwardt (CRESST/GSFC/UMD) , on behalf \nof the Swift/UVOT team.\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) began settled \nobservations of GRB 080613B (trigger 313954) 79 seconds after the BAT \ntrigger (Markwardt et al.,GCN Circ. 7873).  No afterglow is detected at \nthe enhanced XRT position (Mao et al., GCN Circ.7875) in the initial \nwhite finding chart or subsequent summed images. The limiting \nmagnitudes  (3-sigma in 5\" radius apertures) in each of the UVOT filters \nare as follows:\n\nFilter  T_start(s)  T_stop(s)  Exp(s)  Mag UL (3sig)\n\nwhite       79       180        98     >20.4\nwhite       79      7227       627     >21.4\nv          185      7566      1167     >20.1\nb          665      7023       451     >20.5\nu          640     13348       312     >20.1\nuvw1       616     13323      1179     >20.8\nuvm2       591     12415      1102     >21.2\nuvw2       695     18103       936     >21.0\n\nThe values quoted above are in the UVOT photometric system (Poole et al. \n2008, MNRAS, 383, 627).  They are not corrected for the expected \nGalactic extinction corresponding to a reddening of E(B-V)=0.04 mag in \nthe direction of the burst (Schlegel et al. 1998)."
+}

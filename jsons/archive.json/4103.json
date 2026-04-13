@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051016B: Swift detection of a soft burst",
+  "eventId": "GRB 051016B",
+  "bibcode": "2005GCN..4103....1P",
+  "createdOn": 1129490293000,
+  "circularId": 4103,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <Scott@lheamail.gsfc.nasa.gov>",
+  "email": "Scott@lheamail.gsfc.nasa.gov",
+  "body": "A. Parsons (GSFC), S. Barthelmy (GSFC), A. Beardmore (U. Leicester),\nP. Boyd (GSFC), D. Burrows (PSU), J. Cummings (GSFC/NRC), N. Gehrels (GSFC),\nO. Godet (U. Leicester), C. Gronwall (PSU), J. Kennea (PSU),\nH. Krimm (GSFC/USRA), F. Marshall (GSFC), D. Palmer (LANL), T. Sakamoto (GSFC)\non behalf of the Swift team:\n\nAt 18:28:09 UT, Swift-BAT triggered and located GRB 051016B (trigger=159994).\nThe BAT on-board calculated location is RA,Dec 132.067d,+13.658d\n{08h 48m 16s,+13d 39' 27\"} (J2000), with an uncertainty of 3 arcmin\n(radius, 90% containment, stat+sys).  The BAT light curve shows a double peak\nstructure with a total duration of at least 15 sec -- the slew started at\nT+15 sec, so determination of the full duration will have to wait until\nafter the full data set is downlinked.  The peak count rate was ~2200\ncounts/sec (15-150 keV), at ~1 and 3 seconds after the trigger.  Initial\ninspection of the 4-channel lightcurves shows this burst to be soft.\n\nThe spacecraft slewed promptly and the XRT began observing the GRB\nat 18:29:24 UT, 75 sec after the BAT trigger.  An uncatalogued source\nwas found by the on-board centroiding algorithm at\nRA(J2000)=08h 48m 27.6s\nDec(J2000)=+13d 39' 25.5\"\nwith an uncertainty of 8 arcsec radius (90% containment).\nThis position lies 168 arcsec from the center of the BAT error circle.\nThe initial flux is approximately 4.6e-10 ergs/cm2/s.\nThe count rate decreases during the first 100 seconds.\n\nUVOT began observing the field at 18:29:26 UT, 77 sec after the BAT trigger.\nThe small image contains the entire XRT error circle.  This image contains\nno new sources down to a limiting magnitude of 18.7 (3-sigma).\nNo new source was seen in the list of sources from the entire UVOT\nfield of view.  E(B-V) in the direction of the XRT position is 0.037."
+}

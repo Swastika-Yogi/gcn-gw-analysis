@@ -1,0 +1,11 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S250223dk: Insight-HXMT/HE sub-threshold detection of a burst (HEB 250223501)",
+  "eventId": "LIGO/Virgo/KAGRA S250223dk",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39508....1C",
+  "createdOn": 1740625618610,
+  "submitter": "yqzhang_cl@163.com",
+  "circularId": 39508,
+  "format": "text/plain",
+  "body": "Ce Cai (HEBNU), Shao-Lin Xiong, Xiao-Bo Li, Shu-Xu Yi, Shuang-Nan Zhang (IHEP) report on behalf of the Insight-HXMT team:\n\nAt the event time (T0 = 2025-02-23T12:01:15.360 UTC) of the LIGO/Virgo/KAGRA S250223dk event, which was reported to be possibly associated with a sub-threshold burst candidate by Swift/BAT (GCN 39443, 39499), Insight-HXMT was observing 99.97% of the localization probability region based on the combined skymap and there is no Insight-HXMT/HE triggers from the on-ground automated blind search around this event. \n\nThus, we implemented a targeted search [1] for sub-threshold burst signals within the window of T0+/-30 s using the central region of the joint LVK-Swift/BAT localization probability map (i.e. RA = 85.341 deg, Dec = -47.554 deg) and three types of GRB spectra. Our targeted search detected a burst candidate (named as HEB 250223501) with about 4 sigma on the 1-second timescale, starting at T0 - 9.50 s. We note that the time of this Insight-HXMT/HE burst candidate is well consistent with the start time of the Swift/BAT candidate (T0 - 10.240 s, GCN 39443), but the duration is much shorter, which could be explained as the detection energy band of Insight-HXMT/HE is higher than that of Swift/BAT in terms of GRB observation.\n\nWe note that these results are very preliminary. Refined analysis will be reported later.\n\nInsight-HXMT is the first Chinese space X-ray telescope, which was funded jointly by the China National Space Administration (CNSA) and the Chinese Academy of Sciences (CAS). More information about it could be found at: http://hxmten.ihep.ac.cn/.\n\n[1] Cai, C., Xiong, S. L., Li, C. K., et al. 2021, MNRAS, 508, 3910S\n"
+}

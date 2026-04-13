@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230414B: Swift/UVOT Detection",
+  "eventId": "GRB 230414B",
+  "bibcode": "2023GCN.33642....12",
+  "createdOn": 1681837538048,
+  "submitter": "Sam LaPorte at PSU <sjl5346@psu.edu>",
+  "circularId": 33642,
+  "body": " GRB 230414B: Swift/UVOT Detection\n\nS. J. LaPorte (PSU) and A. D'Ai (INAF-IASFPA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 230414B\n133 s after the BAT trigger (D'Ai et al., GCN Circ. 33612).\nA fading source consistent with the optical position\n(Pankov et al. GCN Circ. 33615)\nis detected in the initial UVOT exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric\nsystem\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures\nare:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nb                        543           735             38        >19.23\nm2                   1070         1089             19        >17.31\nu                        287           710           265        >20.09\nv                        617         1065             58        >18.53\nw1                     666           859             38        >18.48\nw2                     766           785             19        >17.72\nwhite_FC          129         1015            481          20.92+-0.22\nwhite               5056         5203            145        >20.64\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.017 in the direction of the burst\n(Schlegel et al. 1998).\n"
+}

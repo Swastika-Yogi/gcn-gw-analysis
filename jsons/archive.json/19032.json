@@ -1,0 +1,10 @@
+{
+  "subject": "GRB160220A: Swift/UVOT observations",
+  "eventId": "GRB 160220A",
+  "bibcode": "2016GCN.19032....1D",
+  "createdOn": 1455989682000,
+  "circularId": 19032,
+  "submitter": "Massimiliano de Pasquale at IASF-Palermo  <m.depasquale@ucl.ac.uk>",
+  "email": "m.depasquale@ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) and A. Lien (GSFC/UMBC) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 160220A\n4.11 ks after the BAT trigger (Lien et al., GCN Circ. 19023).\nNo optical afterglow consistent with the XRT position (Evans et al.\nGCN Circ. 19025) is detected in the UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the\nsummed UVOT exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite             4110         5493          344         >20.6\nv                 4268        34517          903         >19.4\nb                 5088         5288          197         >19.7\nu                 4882        17290          424         >19.5\n\nw1                4678        17052         1175         >20.3\nm2                4472        11445         1271         >20.3\nw2                5499        32840         1177         >20.5\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.13 in the direction of the burst\n(Schlegel et al. 1998)."
+}

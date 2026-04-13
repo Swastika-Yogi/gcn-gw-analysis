@@ -1,0 +1,11 @@
+{
+  "subject": "Improved IPN triangulation of GRB 250107C",
+  "eventId": "GRB 250107C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39013....1K",
+  "createdOn": 1737559334313,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 39013,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo and the HEND/Mars-Odyssey teams,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nY. Zhang, C. Wang, S. Xiong, J. Wei, and B. Cordier\non behalf of the SVOM-GRM team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 250107C\n(SVOM-GRM and GECAM-B detections: Xue et al., GCN 38870;\ninitial IPN triangulation: Svinkin et al., GCN 38879;\nKonus-Wind detection: Frederiks et al., GCN 38895;\nCALET-GBM detection: Yoshida et al., GCN 38896)\nwas detected by Konus-Wind, SVOM (GRM), GECAM-B, CALET (GBM),\nand BepiColombo (MGNS) at about 67936 s UT (18:52:16).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n -------------------------------\n  RA(2000), deg   Dec(2000), deg\n -------------------------------\n Corners:\n  348.940          +19.143\n  344.400          +27.679\n  344.615          +27.357\n  348.961          +19.155\n -------------------------------\nThe error box area is 825 sq. arcmin, and its maximum\ndimension is 10.5 deg (the minimum one is 1.4 arcmin).\nThe Sun distance was 70 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250107_T67934/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density."
+}

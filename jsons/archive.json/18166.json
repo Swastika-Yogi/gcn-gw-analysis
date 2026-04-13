@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150818A: Swift-XRT update, correction to GCN 18162",
+  "eventId": "GRB 150818A",
+  "bibcode": "2015GCN.18166....1E",
+  "createdOn": 1439968662000,
+  "circularId": 18166,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans (U, Leicester) reports on behalf of the Swift-XRT team:\n\nDue to a computer error, the light curve decay index was missing in GCN \n18162.\n\nAt the present time, we have analysed 7.6 ks of XRT data for GRB 150818A \n(D'Elia et al. GCN Circ. 18152), from 74 s to 44.1 ks after the BAT trigger.\n\nThe XRT light curve can be modelled as a broken power-law, with an \ninitial decay index of 2.36 (+0.08, -0.06), a break at T0 + 3600 \n(+/-500) s, and a subsequent shallow decay of 0.66 (+0.16, -0.15).\n\nIf the decay continues at alpha=0.66, the predicted count-rate at T0+24 \nhrs is 8.9e-3 ct/sec, which corresponds to an observed (unabsorbed) \n0.3-10 keV flux of 2.97e-13 (3.56e-13) erg/cm^2/s.\n\nThis circular is an official product of the Swift-XRT team."
+}

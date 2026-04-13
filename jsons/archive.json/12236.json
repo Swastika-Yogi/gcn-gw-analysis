@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB110801A",
+  "eventId": "GRB 110801A",
+  "bibcode": "2011GCN.12236....1D",
+  "createdOn": 1312289543000,
+  "circularId": 12236,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL-UCL) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110801A\n109 s after the BAT trigger (De Pasquale et al., GCN Circ. 12228).\nA source consistent with the XRT position (Evans et al., GCN Circ. 12232)\nis detected in the initial and summed UVOT exposures, except in um2 \nfilter and a detection in uw2, at 2 sigma confidence level. Since\nthe redshift of this event is 1.86 (Cabrera Lavers, GCN Circ. 12234),\nwe think the weak detection in uw2 is due to flux in the reddest part\nof this filter.\n\nThe refined UVOT position is:\n     RA  (J2000) =  05:57:44.87 =  89.43695 (deg.)\n     Dec (J2000) = +80:57:21.1  =  80.95592 (deg.)\nwith an estimated uncertainty of 0.51 arc sec. (radius, 90% confidence).\n\nThe afterglow shows a quick rise from the first exposure up to ~300s.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric \nsystem (Poole et al. 2008, MNRAS, 383, 627) for the early exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite (fc)         109        259          147         18.06 � 0.07\nwhite              109       6337          727         17.23 � 0.05\nv                  598       6747          451         17.07 � 0.06\nb                  523       6132          432         17.47 � 0.05\nu (fc)             267        517          246         15.89 � 0.05\nu                  267       5927          488         15.68 � 0.04\nw1                 647       5722          255         17.92 � 0.11\nm2                 622       6904          404         >20.2\nw2                 573       6543          452         20.48 � 0.41\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.08 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180111A",
+  "eventId": "GRB 180111A",
+  "bibcode": "2018GCN.22336....1S",
+  "createdOn": 1516012641000,
+  "circularId": 22336,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A.Kozlova, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe bright long-duration GRB 180111A\n(Swift-BAT detection: Lien et al., GCN Circ. 22318;\nAGILE-MCAL detection: Verrecchia et al., GCN Circ. 22321)\ntriggered Konus-Wind at T0=60130.616 s UT (16:42:10.616).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.2 s and has a total duration of ~61 s.\nThe emission is seen up to ~6 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180111_T60130/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.44(-0.57,+0.64)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+0.018 s,\nof 1.06(-0.21,+0.22)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+39.424 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.94(-0.06,+0.06)\nand Ep = 894(-95,+113) keV (chi2 = 106/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.7\n(chi2 = 106/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+0.000 to T0+7.424 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\nwith  alpha = -0.51(-0.08,+0.09)\nand Ep = 895(-82,+94) keV (chi2 = 89/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.8\n(chi2 = 89/97 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

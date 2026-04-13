@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260109C: LCO optical upper limits",
+  "editedOn": 1767998461551,
+  "version": 2,
+  "eventId": "GRB 260109C",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43362....1T",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 43362,
+  "createdOn": 1767994072122,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "D. Turpin (CEA/Irfu) C. Wu, X.-H. Han, L.-P. Xin (NAOC), A. Saccardi, J. T. Palmerio (CEA/Irfu) report on behalf of the SVOM mission team:\n\nWe observed the field of the possible GRB 260109C detected by Swift/BAT (Parsotan et al., GCN 43359) with the LCO 1m telescope at the Siding Spring Observatory (SSO) equipped with the Sinistro instrument.\n\nOur observation started at 2026-01-09 13:16:04 about 29 minutes after the Swift/BAT trigger time. We obtained 2 epochs of 3x200s exposures in the PanSTARRS z filters. No any uncatalogued source was identified in our stacked frames in agreement with the non detection of the Kilonova-Catcher group in the Rc band (Freeberg et al., GCN 43360).\n\nWhen stacking the our two series of observations, we measure the following upper limits (5 sigma) calibrated against the SkyMapper DR4 catalog, and not corrected for Galactic extinction:\n\nz = 19.6 (AB) T_mid - T0 = 40 min\n\nThis project is funded by the SVOM collaboration. The transient detection and photometric calibration were performed with the STDPipe pipeline (Karpov et al., 2022).\n"
+}

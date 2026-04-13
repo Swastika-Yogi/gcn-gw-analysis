@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 201020A: MITSuME Akeno optical observation",
+  "eventId": "GRB 201020A",
+  "bibcode": "2020GCN.28697....1A",
+  "createdOn": 1603189522000,
+  "circularId": 28697,
+  "submitter": "Adachi Ryo at Tokyo Institute of Tech  <adachi@hp.phys.titech.ac.jp>",
+  "email": "adachi@hp.phys.titech.ac.jp",
+  "body": "R. Adachi, R. Hosokawa, K. L. Murata, M. Niwano, F. Ogawa, N.\nNakamura, N. Ito, S. Ogata, H. Takamatsu, H. Hara, Y. Yatsu, and N.\nKawai (TokyoTech) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 201020A (E. Ambrosi et al.,GCN Circular\n#28696) with the optical three color (g', Rc, and Ic) CCD cameras\nattached to the MITSuME 50 cm telescope of Akeno Observatory,\nYamanashi, Japan.\nThe observation started at 2020-10-20 08:31:00 UT. The first 28 images\nwere heavily affected by twilight at Akeno Observatory. We detected\nthe point source at the position consistent with the afterglow\ndetected previously (E. Ambrosi et al. GCN #28696).\nWe measured the magnitudes as follows.\n\nT0+[min] MID-UT T-EXP[sec] measured magnitudes\n------------------------------------------------------------------------------------------------\n196 09:15:39 1260 g'=19.4+/-0.2, Rc=18.4+/-0.1, Ic=18.4+/-0.2\n------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the burst\nT-EXP: Total Exposure time\n\nWe used GSC2.3 and PS1 catalog for flux calibration.\nThe magnitudes are expressed in the AB system.\nThe images were processed in real-time through the MITSuME GPU\nreduction pipeline (Niwano et al., accepted for publication in PASJ,\nhttps://arxiv.org/abs/2008.11486; https://github.com/MNiwano/Eclaire)."
+}

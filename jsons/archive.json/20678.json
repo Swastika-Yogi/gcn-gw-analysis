@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170214A",
+  "eventId": "GRB 170214A",
+  "bibcode": "2017GCN.20678....1F",
+  "createdOn": 1487169858000,
+  "circularId": 20678,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 170214A (Fermi-GBM detection: Mailyan & Meegan, GCN 20675;\nFermi-LAT detection: Racusin et al., GCN 20676)\ntriggered Konus-Wind at T0=56076.276 s UT (15:34:36.276)\n\nThe light curve shows count rate increase around ~T0-50 s\nfollowed by a bright, multi-peaked structure\nwhich starts at ~T0-14 s and has a total duration of ~150 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(2.41 �� 0.17)x10^-4 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+52.480, of (8.77 �� 0.13)x10^-6 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+147.968 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.70 (-0.06,+0.07),\nthe high energy photon index beta = -2.61 (-0.27,+0.16),\nthe peak energy Ep = 330 (-19,+21) keV,\nchi2 = 96/97 dof.\n\nThe spectrum near the peak count rate (measured from T0+47.360\nto T0+56.248 s) is best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.75 (-0.12,+0.15),\nthe high energy photon index beta = -2.56 (-1.15,+0.33),\nthe peak energy Ep = 412 (-68,+73) keV,\nchi2 = 110/97 dof.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170214_T56076/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary.\n\n[GCN OPS NOTE(15feb17): Per author's request, the value for the\npeak energy flux was changed from \"10^-5\" to \"10^-6\".]"
+}

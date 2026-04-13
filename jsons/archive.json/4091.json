@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT Trigger 159578 is a possible burst",
+  "bibcode": "2005GCN..4091....1C",
+  "createdOn": 1129224110000,
+  "circularId": 4091,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC-NRC), A. Beardmore (U. Leicester), N. Gehrels (GSFC),\nO. Godet (U. Leicester), C. Gronwall (PSU), J. Kennea (PSU),\nH. Krimm (GSFC-USRA), F. Marshall (GSFC), K. Page  (U. Leicester),\nD. Palmer (LANL), on behalf of the Swift team:\n\nAt 16:50:26.71 UT, Swift-BAT triggered and located a possible\npoint source (trigger=159578).  The BAT on-board calculated\nlocation is RA,Dec 247.515d, -4.399d {+16h 30m 04s, -04d 23' 54\"}\n(J2000), with an uncertainty of 3 arcmin (radius, 90% containment,\nstat+sys). This is a very marginal detection and only further\nanalysis of the full data set in a few hours will allow us to determine if\nthis is a genuine burst or just a chance fluctuation.\n\nSwift slewed immediately to the burst and XRT began observing at\n16:51:35 UT, 68 seconds after the BAT trigger. XRT was unable to\ncentroid on any source. We await ground analysis of the early XRT data\nfollowing the first Malindi pass.   The trigger was in the SAA, which\nproduces a high count rate in the XRT, thus making identification of\na point source difficult.\n\nThere are no UVOT TDRSS data at this time because the trigger\noccurred in the SAA.\n\nTwo reasons why this identification is marginal are\n(1) the BAT image significance is very low (6.36 sigma), (2) the\ntrigger happened on the rising edge of Swift's entry into the SAA,\nSince the light curve is dominated by the rising background it is impossible\nat this point to tell anything about the trigger profile at this time."
+}

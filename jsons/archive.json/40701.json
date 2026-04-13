@@ -1,0 +1,14 @@
+{
+  "editedOn": 1749736994523,
+  "subject": "GRB 250612B: BALROG localization (Fermi Trigger 771424081 / GRB 250612519)",
+  "version": 2,
+  "eventId": "GRB 250612B",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.40701....1P",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Jochen Greiner at MPE <jcg@mpe.mpg.de>",
+  "circularId": 40701,
+  "createdOn": 1749734228341,
+  "submitter": "Jochen Greiner at MPE <jcgrog@mpe.mpg.de>",
+  "format": "text/plain",
+  "body": "T. Preis (University of Innsbruck) & J. Greiner (MPE Garching) report:\n\nThe public trigdat data of the Fermi Gamma-ray Burst Monitor (GBM) trigger\n771424081 at 12:27:56 on 12 June 2025 were automatically fitted for spectrum\nand sky location with BALROG (Burgess et al. 2018, MNRAS 476, 1427;\nBerlato et al. 2019, ApJ 873, 60).\n\nThe best-fit position is:\nRA(2000.0) = 226.1 deg\nDecl.(2000.0) = -28.9 deg\nThe 1 sigma statistical error radius is 2.4 deg.\nWe estimate an additional systematic error of 1 deg.\n\nThis is consistent in  time and position with the Einstein Probe detection of the X-ray transient EP 250612a (GCN 40700).\n\nFurther details are available at:\nhttps://grb.mpe.mpg.de/grb/GRB250612519/\n\nThe Healpix map can be downloaded from:\nhttps://grb.mpe.mpg.de/grb/GRB250612519/healpix\n\nThe location parameters are available as JSON at:\nhttps://grb.mpe.mpg.de/grb/GRB250612519/json\n\n                        \n"
+}

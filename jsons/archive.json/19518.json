@@ -1,0 +1,9 @@
+{
+  "subject": "SWIFT J174540.2-290037, Swift-BAT refined analysis (trigger 689956)",
+  "bibcode": "2016GCN.19518....1M",
+  "createdOn": 1465530932000,
+  "circularId": 19518,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), A. Y. Lien (GSFC/UMBC),\nD. M. Palmer (LANL), T. Sakamoto (AGU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of SWIFT J174540.2-290037 (trigger# 689956;\nBarthelmy, et al., GCN Circ. 19514).  The BAT ground-calculated position is\nRA, Dec = 266.408, -29.063 deg which is\n  RA(J2000)  =  17h 45m 37.9s\n  Dec(J2000) = -29d 03' 45.9\"\nwith an uncertainty of 2.5 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 99%.\n\nThe mask-weighted light curve shows some weak emissions that starts\nbefore the source came into the BAT field of view, and extends beyond the end\nof the event data range. The Bayesian-block analysis failed to find the duration\ndue to the lack of obvious light curve structure.\n\nThe time-averaged spectrum from T+0.0 to T+944.0 sec is better-fitted by a\nsimple power-law model, in comparison to the cutoff power-law model. However,\nwith the null hypothesis probability of only ~ 0.05 for both of these models, neither\nof them seem to well describe the spectrum. Using the simple power-law model,\nthe power law index of the time-averaged spectrum is 1.82 +- 0.16.  The fluence\nin the 15-150 keV band is 3.3 +- 0.3 x 10^-6 erg/cm2. All the quoted errors are\nat the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/689956/BA/"
+}

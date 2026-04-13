@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT Observations of GRB070704",
+  "eventId": "GRB 070704",
+  "bibcode": "2007GCN..6597....1S",
+  "createdOn": 1183630606000,
+  "circularId": 6597,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and T. Sakamoto (NASA/ORAU) report on the behalf of the \nSwift UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070704 starting 142 s after the \nBAT trigger (Sakamoto et al. 2007, GCN Circ. 6594).  We do not find any \nsource, in any of the UVOT observations, inside the XRT error circle \n(Sakamoto et al. 2007, GCN Circ. 6594).\n\nThe 3-sigma upper limits for detecting a source inside the refined XRT \nerror circle in the initial data products are:\n\nFilter    T_mid(s) Exp(s) Mag (3-sigma upper limit)\n-------------------------------------------------------\nV         654      597    19.16\nB         749      10     17.56\nU         729      20     17.64\nUVW1      5603     439    18.91\nUVM2      4431     239    19.36\nUVW2      5697     220    19.27\nWhite     574      209    19.65\n-----------------------------------------------------------------\n\nwhere T_mid is the weighted mid time of the coadded exposure. The values \nquoted above are not corrected for the expected Galactic extinction \ncorresponding to a reddening of E_{B-V} = 1.81 mag in the direction of the \nburst (Schlegel et al. 1998)."
+}

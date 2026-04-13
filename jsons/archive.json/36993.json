@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240730C: AstroSat CZTI detection of a long burst",
+  "eventId": "GRB 240730C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36993....1D",
+  "createdOn": 1722463627458,
+  "circularId": 36993,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "A. Dasgupta (BITS Pilani, Hyderabad), S. Srijan (IITB),  G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a long-duration GRB 240730C which was also detected by Konus/WIND (TrigID 2052170822). Inspection of INTEGRAL/SPI-ACS data also showed the detection of the burst.\n\nThe source was detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2024-07-30 19:40:34.5 UTC. The measured peak count rate associated with the burst is 99 (+38, -9) counts/s above the background in the combined data of all quadrants, with a total of 990 (+222, -239) counts. The local mean background count rate was 289 (+3, -4) counts/s. Using cumulative rates, we measure a T90 of 16 (+5, -2) s.\n\nIt was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2024-07-30 19:40:38.4 UTC. The measured peak count rate is 541 (+72, -51) counts/s above the background in the combined Veto data of all quadrants, with a total of 4838 (+562, -640) counts. The local mean background count rate was 1235 (+10, -10) counts/s. We measure a T90 of 19 (+1, -1) s from the cumulative Veto light curve.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb \n"
+}

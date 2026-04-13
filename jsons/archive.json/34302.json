@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo/KAGRA S230729z: Updated Sky localization",
+  "eventId": "LIGO/Virgo/KAGRA S230729z",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34302....1L",
+  "createdOn": 1690833064395,
+  "circularId": 34302,
+  "submitter": "Christopher P L Berry at LVK Collaboration <christopher.berry@ligo.org>",
+  "body": "The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory (H1) and LIGO Livingston Observatory (L1) data around the time of the compact binary merger (CBC) candidate S230729z (GCN Circular 34293). Parameter estimation has been performed using Bilby [1] and a new sky map, Bilby.multiorder.fits,0, distributed via GCN Notice, is available for retrieval from the\nGraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S230729z\n\nFor the Bilby.multiorder.fits,0 sky map, the 90% credible region is 1945 deg2. Marginalized over the whole sky, the a posteriori luminosity distance estimate is 1495 +/- 444 Mpc (a posteriori mean +/- standard deviation).\n\nFor further information about analysis methodology and the contents of this alert, refer to the LIGO/Virgo/KAGRA Public Alerts User Guide https://emfollow.docs.ligo.org/userguide/.\n\n\n [1] Ashton et al. ApJS 241, 27 (2019)"
+}

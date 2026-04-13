@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200411A: Swift-BAT refined analysis",
+  "eventId": "GRB 200411A",
+  "bibcode": "2020GCN.27545....1K",
+  "createdOn": 1586661865000,
+  "circularId": 27545,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "H. A. Krimm (NSF), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), S. Laha (GSFC/UMBC),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nJ. P. Norris (BSU), D. M. Palmer (LANL),\nT. Sakamoto (AGU), M. Stamatikos (OSU),\nA. Tohuvavohu (U Toronto), T. N. Ukwatta (LANL)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+880 sec from the recent telemetry\ndownlink,\nwe report further analysis of BAT GRB 200411A (trigger #965784)\n(Tohuvavohu et al., GCN Circ. 27536).  The BAT ground-calculated position is\nRA, Dec = 47.686, -52.320 deg which is\n   RA(J2000)  =  03h 10m 44.7s\n   Dec(J2000) = -52d 19' 12.6\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 100%.\n\nThe mask-weighted light curve shows a couple overlapping pulses\nthat starts at ~T-0.02 s and ends at ~T+0.25 s. The highest peak\noccurs at ~ T+0.05 s. T90 (15-350 keV) is 0.22 +- 0.04 sec\n(estimated error including systematics).\n\nThe time-averaged spectrum from T-0.02 to T+0.25 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n0.95 +- 0.19.  The fluence in the 15-150 keV band is 8.6 +- 1.1 x 10^-8\nerg/cm2.\nThe 1-sec peak photon flux measured from T-0.38 sec in the 15-150 keV band\nis 1.1 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nUsing the 4-ms binned light curve, the spectral lag of the short pulse\nis 1 (+7, -4) ms for the 100-350 keV to 25-50 keV bands, and 8 (+6, -6) ms\nfor the 50-100 keV to 15-25 keV bands. These values are more consistent\nwith those of short GRBs.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/965784/BA/"
+}

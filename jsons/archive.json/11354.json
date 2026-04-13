@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101017A: Swift/UVOT Observations",
+  "eventId": "GRB 101017A",
+  "bibcode": "2010GCN.11354....1S",
+  "createdOn": 1287411649000,
+  "circularId": 11354,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 101017A 88s after the BAT trigger (Siegel et al.,\nGCN Circ. 11345).  The source reported by Siegel et al.\nis confirmed in the u and white filters but has not been detected\nsince the first orbit.\n\nThe 3-sigma upper limits for the finding chart (fc) and\nsummed exposures are reported below:\n\nFILTER     T_start(s)  T_stop    Exposure     Mag/3uL\n========================================================\nwhite (fc)     88        238      147       19.85+-0.22\nwhite          88       1724      409       20.09+-0.17\nwhite        5660       7296      393         >21.03\nv             630       1773      136         >18.81\nv            6071      11723     1158         >19.93\nb             556       1699      116         >19.66\nb            5456       7091      393         >20.30\nu             301        550      245       19.15+-0.23\nu             301       1675      343       19.22+-0.20\nu            5250       6886      393         >19.94\nuvw1          679       1648      116         >19.22\nuvw1         5046      13365     1112         >20.60\nuvm2          654       1797      116         >19.08\nuvm2         6276      12628     1082         >20.63\nuvw2          605       1749      136         >19.52\nuvw2         5866       7502      393         >20.22\n=======================================================\n\nThe above magnitudes are not corrected for the Galactic extinction\ncorresponding to a reddening of E_{B-V} = 0.17 (Schlegel et al.,\n1998, ApJS, 500, 525). The photometry is on the UVOT photometric\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

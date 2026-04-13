@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo G275404: P200/DBSP Classification of iPTF Candidates",
+  "eventId": "LIGO/Virgo G275404",
+  "bibcode": "2017GCN.20816....1B",
+  "createdOn": 1488698461000,
+  "circularId": 20816,
+  "submitter": "Mansi M. Kasliwal at Caltech  <mansi@astro.caltech.edu>",
+  "email": "mansi@astro.caltech.edu",
+  "body": "N. Blagorodnova, K. De, R. Lunnan, M. Balokovic, N. Kamraj, M. Heida, D.\nStern and M. M. Kasliwal (Caltech)\n\nreport on behalf of the iPTF (intermediate Palomar Transient Factory) and\nGROWTH (Global Relay of Observatories Watching Transients Happen)\ncollaborations\n\nOn UT 2017-03-04, we spectroscopically classified the following iPTF\noptical transient candidates (LVC GCN#20801, LVC GCN#20790) using the\nDouble Beam Spectrograph (Oke & Gunn 1982) on the Palomar 200-inch Hale\nTelescope. All spectra were reduced using the pyraf-dbsp pipeline (Bellm &\nSesar 2016). Classification were done with SNID (Blondin & Tonry, 2007) and\nSuperfit (Howell et al. 2005).\n\nName, Redshift, Classification, Notes\niPTF17bug, z=0.0167, Spectrum dominated by galaxy light (Consistent with\nLVC GCN 20814)\niPTF17bxk, z=0.077, SN IIn, Best match is 2005cl at +15d\niPTF17bpa, z=0.046, Spectrum dominated by host galaxy light, just outside\n90% contour line (Consistent with LVC GCN 20814)\niPTF17bpb, z=0.049, Spectrum dominated by host galaxy light\niPTF17bpc, z=0.039, Spectrum dominated by host galaxy light\niPTF17bsd, z=0.116, Spectrum dominated by host galaxy light\niPTF17bro, z=0.055, Spectrum dominated by host galaxy light\niPTF17bvo, z=0.0915, AGN?, double-peaked Balmer line"
+}

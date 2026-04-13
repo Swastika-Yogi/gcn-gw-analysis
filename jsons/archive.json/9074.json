@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB090401B",
+  "eventId": "GRB 090401B",
+  "bibcode": "2009GCN..9074....1S",
+  "createdOn": 1238608253000,
+  "circularId": 9074,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady (MSSL-UCL) and S.R.Oates (MSSL-UCL) reports on behalf of the \nSwift/UVOT team:\n\nSwift UVOT began settled exposures of GRB090401B (Schady et al, GCN 9066) \n82 s after the burst trigger, and detected a bright optical transient at \nthe position reported in by Schady et al. (GCN 9067), consistent with the \nenhanced XRT error circle (Osborne et al, GCN 9070).\n\nThe source is detected in the white, v, b and u filter, but not in any of \nUV filters, placing an upper limit on the redshift of z < 3. We note that \nthe afterglow lies close to a known source, which may be contaminating our \nphometry. The light curve decays steeply at early times at a rate of \nalpha_1~1.5, and then breaks at ~T+440s to a slope of alpha_2~0.7.\n\nUsing 2.5arcsec aperture, the magnitudes and 3 sigma upper\nlimits to our observations our reported below:\n\nFilt    T_start (s)  T_stop (s)  Exp (s)  Mag/3-sig UL\nwhite      82           232       147     16.83+/-0.02\nwhite      874          1024      147     19.14+/-0.08\nv          623          1248      78      18.31+/-0.20\nv          4753         4953      197     19.10+/-0.25\nb          549          1346      58      19.48+/-0.26\nb          5573         5773      197     20.39+/-0.28\nu          293          543       246     17.99+/-0.07\nu          698          1312      58      18.67+/-0.22\nuvw1       672          1297      78        > 19.42\nuvm2       647          1272      78        > 18.99\nuvw2       599          1387      78        > 19.39\n\nThe above magnitudes have not been corrected for the Galactic extinction \ncorresponding to E(B-V) = 0.67 (Schlegel et al 1998). The photometry is on \nthe UVOT flight system described in Poole et al (2008, MNRAS, 383,627)"
+}

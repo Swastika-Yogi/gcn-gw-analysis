@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190719C: Fermi GBM detection",
+  "eventId": "GRB 190719C",
+  "bibcode": "2019GCN.25130....1P",
+  "createdOn": 1563654586000,
+  "circularId": 25130,
+  "submitter": "Suraj Poolakkil at UAH  <sp0076@uah.edu>",
+  "email": "sp0076@uah.edu",
+  "body": "S. Poolakkil (UAH) and C. Meegan (UAH)\nreport on behalf of the Fermi GBM Team:\n\nAt 14:58:34.56 UT on 19 July 2019, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 190719C (trigger 585241119/ 190719624),\nwhich was also detected by the Swift/BAT (Ambrosi et al. 2019, GCN 25106).\nThe GBM on-ground location is consistent with the Swift position.\n\nThe angle from the Fermi LAT boresight\nat the GBM trigger time is 86 degrees.\n\nThe GBM lightcurve shows an initial bright short spike followed\nby longer duration emission containing multiple peaks.\nwith a duration (T90) of about 175 s (50-300 keV).\nThe time-averaged spectrum from T0-2.0 s to T0+3.0 s is\nbest fit by a power law function with an exponential\nhigh-energy cutoff.  The power law index is -0.87 +/- 0.18 and\nthe cutoff energy, parameterized as Epeak, is 81 +/- 9 keV.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.155 +/- 0.082)E-06 erg/cm^2. The 1-sec peak photon flux\nmeasured starting from T+0.19 s in the 10-1000 keV band\nis 8.3 +/- 0.3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support\nPage:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

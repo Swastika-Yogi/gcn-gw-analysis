@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180703A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 180703A",
+  "bibcode": "2018GCN.22898....1E",
+  "createdOn": 1530723853000,
+  "circularId": 22898,
+  "submitter": "Sam Emery at MSSL-UCL  <samuel.emery.15@ucl.ac.uk>",
+  "email": "samuel.emery.15@ucl.ac.uk",
+  "body": "S.W.K. Emery (UCL-MSSL) and E. Sonbas (Adiyaman Univ.)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 180703A\n17269 s after the Fermi/LAT trigger (Racusin et al. GCN Circ. 22883).\nNo optical afterglow consistent with the XRT position of the\nuncatalogued X-ray source, source 1 (Gibson et al. GCN Circ. 22891)\nor the position from LCO Sutherland (Guidorzi et al. GCN Circ. 22892)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nexposures at the position of source 1 are:\n\nFilter      T_start(s)   T_stop(s)      Exp(s)         Mag\n\nb             17353         28862           47         >19.2\nu             17323         28834          116         >19.5\nuvw1          17269         28807          234         >19.8\nuvw2          17384         28917           97         >19.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.02 in the direction of the burst\n(Schlegel et al. 1998)."
+}

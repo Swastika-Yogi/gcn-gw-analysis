@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 111209A: Swift-XRT refined Analysis",
+  "eventId": "GRB 111209A",
+  "bibcode": "2011GCN.12643....1G",
+  "createdOn": 1323459258000,
+  "circularId": 12643,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <dxg35@psu.edu>",
+  "email": "dxg35@psu.edu",
+  "body": "D. Grupe (PSU) and E. A. Hoversten (PSU) reports on behalf of the\nSwift-XRT team:\n\nWe have analyzed 11 ks of XRT data for GRB 111209A (Hoversten  et al.\nGCN Circ. 12632), from 425 s to 25.2 ks after the  BAT trigger. The\ndata comprise 9.4 ks in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The enhanced XRT position for this burst was\ngiven by Evans et al. (GCN. Circ 12639).\n\nThe light curve can be modeled with a series of power-law decays. The\nlight curve initially rises, with an index alpha=-0.21 (+/-0.04). At\nT+864 s it breaks to an alpha of 7.3 (+0.7, -2.6). The light curve\nbreaks again at T+899 s to a decay with alpha=0.679 (+0.012, -0.087), \nand  again at T+5807 s s to alpha=1.179 (+/-0.016),  before a final\nbreak at T+19.4 ks s after which the decay index is 6.3 (+1.2, -0.4).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.333 (+/-0.012). The\nbest-fitting absorption column is  1.38 (+/-0.04) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.5 x 10^20 cm^-2 (Kalberla et al.\n2005). The PC mode spectrum has a photon index of 1.83 (+0.17, -0.16)\nand a best-fitting absorption column of 1.3 (+0.5, -0.4) x 10^21 cm^-2.\nThe counts to observed (unabsorbed) 0.3-10 keV flux conversion factor\ndeduced from this spectrum  is 4.1 x 10^-11 (5.2 x 10^-11) erg cm^-2\ncount^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     1.3 (+0.5, -0.4) x 10^21 cm^-2\nGalactic foreground: 1.5 x 10^20 cm^-2\nExcess significance: 4.4 sigma\nPhoton index:\t     1.83 (+0.17, -0.16)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00509336.\n\nThis circular is an official product of the Swift-XRT team."
+}

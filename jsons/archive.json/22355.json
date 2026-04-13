@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180113B",
+  "eventId": "GRB 180113B",
+  "bibcode": "2018GCN.22355....1F",
+  "createdOn": 1516115926000,
+  "circularId": 22355,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, P. Oleynik, M. Ulanov,\nD. Svinkin, A. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 180113B (Fermi-GBM detection: Veres & Meegan, GCN 22329;\nInsight-HXMT/HE observation: Li et al., GCN 22342;\nIPN Triangulation: Svinkin et al., GCN 22354)\ntriggered Konus-Wind at T0=958.621 s UT (00:15:58.621).\n\nThe KW light curve shows a multiple pulses in the interval\nfrom ~T0 to ~T0+20 s. The emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(4.05 �� 0.29)x10^-5 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+3.200 s, of (2.2 �� 0.1)x10^-5 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+20.224 s)\nis best fit in the 20 keV - 15 MeV range by a cutoff power-law\n(CPL) function with the following model parameters:\nthe photon index alpha = -0.97(-0.07,+0.08),\nand the peak energy Ep = 559(-58,+71) keV,\nchi2 = 81/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta of ~-2.0.\n\nThe spectrum near the peak count rate (measured from T0 to T0+3.840 s)\nis best fit in the 20 keV - 15 MeV range by\nthe CPL function with the following model parameters:\nthe photon index alpha = -0.80(-0.06,+0.06),\nand the peak energy Ep = 611(-47,+53) keV,\nchi2 = 93/98 dof.\nFitting this spectrum with the GRB (Band) function yields\nthe same alpha and Ep, and an upper limit on beta of ~-2.0.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180113_T00958/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

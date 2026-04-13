@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 211201A: Swift/BAT-GUANO detection likely outside the coded FOV",
+  "eventId": "GRB 211201A",
+  "bibcode": "2021GCN.31158....1D",
+  "createdOn": 1638479176000,
+  "circularId": 31158,
+  "submitter": "Aaron Tohuvavohu at U Toronto  <aaron.tohu@gmail.com>",
+  "email": "aaron.tohu@gmail.com",
+  "body": "James DeLaunay (UAlabama), Aaron Tohuvavohu (U Toronto), Gayathri\nRaman (PSU), Jamie A. Kennea (PSU), report:\n\nSwift/BAT did not trigger on GRB 211201A (T0: 2021-12-01T20:42:52 UTC,\nFermi/GBM GCN 31155).\n\nThe Fermi/GBM notice, distributed in near real-time, triggered the\nSwift Mission Operations Center operated Gamma-ray Urgent Archiver for\nNovel Opportunities (GUANO; Tohuvavohu et al. 2020, ApJ, 900, 1).\n\nUpon trigger by this notice, GUANO sent a command to the Swift Burst\nAlert Telescope (BAT) to save 200 seconds of BAT event-mode data from\n[-50,+150] seconds around the time of the burst. All the requested\nevent mode data was delivered to the ground.\n\nThe BAT likelihood search, NITRATES (DeLaunay + Tohuvavohu,\narXiv:2111.01769), detects the burst with a sqrt(TS) of 13.1 in a\n16.384 s analysis time bin.\nEstimated T90 in the detector is 30.5 +/- 0.5 s (15-350 keV).\n\nNITRATES results, independently, are ambiguous with respect to whether\nthis burst originates from in or outside the BAT FOV, with a\nborderline DeltaLLHOut of 9.57.\nAn out of FOV origin is more consistent with the Fermi/GBM\nlocalization, and the Fermi/GBM spectral fit (private comm.) is\nconsistent with the best fit OFOV model from NITRATES.\nTherefore we think it likely that this burst originates from outside\nthe coded FOV.\n\nSee Section 9.1 and Figure 20 in the NITRATES paper for brief\ndescriptions and interpretation of sqrt(TS), DeltaLLHPeak, and\nDeltaLLHOut.\n\nGUANO is a fully autonomous, extremely low latency, spacecraft\ncommanding pipeline designed for targeted recovery of BAT event mode\ndata around the times of compelling astrophysical events to enable\nmore sensitive GRB searches.\n\nA live reporting of Swift/BAT event data recovered by GUANO can be\nfound at: https://www.swift.psu.edu/guano/"
+}

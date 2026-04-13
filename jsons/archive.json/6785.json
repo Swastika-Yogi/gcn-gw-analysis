@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070913: Corrected BAT position",
+  "eventId": "GRB 070913",
+  "bibcode": "2007GCN..6785....1M",
+  "createdOn": 1189650821000,
+  "circularId": 6785,
+  "submitter": "Craig Markwardt at NASA/GSFC/UMD  <craigm@milkyway.gsfc.nasa.gov>",
+  "email": "craigm@milkyway.gsfc.nasa.gov",
+  "body": "C. B. Markwardt (CRESST & NASA/GSFC), S. D. Barthelmy (NASA/GSFC),\non behalf of the Swift BAT Team, report:\n\nAs noted in GCN #6781, currently Swift is calibrating\nits new gyroscope configuration for the roll axis.\n\nIn GCN Circ #6782, we quoted an error circle radius of 3 arcminutes\nfor the BAT position for GRB 070913.  This radius was incorrect.  The\ncorrect value was distributed in the Notice (radius ~9.97 arcmin).\nWe apologize for this error and any inconvenience this may have caused.\n\nIn ground analysis, we have now applied the roll axis correction, and\nthe new best position is, RA, Dec 228.734, -24.290, which is:\n   RA(J2000)  =  15h 14m 56s\n   Dec(J2000) = -24d 17' 23\"\nwith an uncertainty of 3 arcmin radius, 90% containment, including\nsystematic uncertainty).  This is a shift of 6.2 arcmin from the\nposition quoted in GCN Circ #6782."
+}

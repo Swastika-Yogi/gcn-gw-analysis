@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190326B: Fermi GBM detection",
+  "eventId": "GRB 190326B",
+  "bibcode": "2019GCN.24013....1V",
+  "createdOn": 1553608498000,
+  "circularId": 24013,
+  "submitter": "Andreas von Kienlin at MPE  <azk@mpe.mpg.de>",
+  "email": "azk@mpe.mpg.de",
+  "body": "A. von Kienlin (MPE) reports on behalf of the Fermi GBM Team:\n\n\"At 07:31:39.00 UT on 26 March 2019, the Fermi Gamma-Ray Burst Monitor\ntriggered and located GRB 190326B (trigger 575278303 / 190326314).\n\nThe on-ground calculated location, using the GBM trigger data, \nis RA = 264.2, DEC = 68.3 (J2000 degrees, equivalent\nto 17h 37m, 68d 18'), with an uncertainty of 1.3 degrees \n(radius, 1-sigma containment, statistical only; there is additionally a \nsystematic error which we have characterized as a core-plus-tail model, \nwith 90% of GRBs having a 3.7 deg error and a small tail suffering a \nlarger than 10 deg systematic error. [Connaughton et al. 2015, ApJS, 216, 32] ).\n\nThe angle from the Fermi LAT boresight at the GBM trigger time is 21 degrees.\n\nThe GBM light curve consists of multiple pulses with a duration (T90)\nof about 56 s (50-300 keV). The time-averaged spectrum from \nT0-2.048 s to T0+59.393 s is best fit by a Band function with Epeak = 163 +/- 14 keV,\nalpha = -0.33 +/- 0.10, and beta = -1.93 +/- 0.07\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.78 +/- 0.05)E-05 erg/cm^2. The 1.024-sec peak photon flux measured\nstarting from T0+56.5128 s in the 10-1000 keV band\nis 7.8 +/- 0.3 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

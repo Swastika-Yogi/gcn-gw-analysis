@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 060814",
+  "eventId": "GRB 060814",
+  "bibcode": "2006GCN..5460....1G",
+  "createdOn": 1155682376000,
+  "circularId": 5460,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 060814 (Swift-BAT trigger #224552; Moretti et al., GCN 5447)\ntriggered Konus-Wind at T0=82954.447 s UT (23:02:34.447).\n\nAs observed by Konus-Wind the burst shows\ntwo main pulses and a weak extended emission seen up to T-T0 ~200s.\nThe most intense pulse starts at T-T0 ~ -21 s\nand has a duration of ~40 s,\nthe second pulse starts at T-T0 ~38 s and has a duration of ~35 s.\nT90 (18-1160 keV) is 134 +- 4 sec.\n\nThe burst fluence is 2.69(-0.79, +0.12)x10^-5 erg/cm2,\nand the 256-ms peak flux measured from T0+0.576 s\n2.13(-0.55, +0.29)x10^-6  erg/cm2/s\n(both in the 20 keV - 1 MeV energy range).\n\nThe spectrum of the burst integrated from T0 to T0+73.984 s\nis well fitted (in the 20 keV - 1 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha) * exp(-(2-alpha)*E/Ep)\nwith alpha = 1.43(-0.16, +0.15)\nand Ep = 257(-58, +122) keV (chi2 = 65/57 dof).\n\nAll the quoted errors are at the 90% confidence level."
+}

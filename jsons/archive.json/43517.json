@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 260120B",
+  "eventId": "GRB 260120B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43517....1R",
+  "createdOn": 1769432795766,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 43517,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 260120B\n(Fermi GBM detection: Fermi GBM team, GCN 43477;\nGodwin & Meegan, GCN 43489;\nSwift-BAT detection: Ferro et al., GCN 43479;\nPalmer et al., GCN 43493;\nAstroSat CZTI detection: Goyal et al., GCN 43504)\ntriggered Konus-Wind at T0=64826.649 s UT (18:00:26.649).\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-3.2 s and has a total duration of ~5.9 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260120_T64826/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 3.41(-0.52,+0.58)x10^-6 erg/cm2,\nand a 64-ms peak flux, measured from T0-0.064 s,\nof 1.97(-0.58,+0.60)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince a major part of the burst emission was \ndetected before the trigger, the spectral analysis\nwas performed using the KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-3.173 s to T0+2.720 s)\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -0.56(-0.23,+0.30) and Ep = 246(-53,+67) keV.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

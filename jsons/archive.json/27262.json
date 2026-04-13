@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S200224ca: Updated Sky Localization and EM Bright Classification",
+  "eventId": "LIGO/Virgo S200224ca",
+  "bibcode": "2020GCN.27262....1L",
+  "createdOn": 1582914280000,
+  "circularId": 27262,
+  "submitter": "Vinaya Valsan at U. of Wisconsin Milwaukee  <vvalsan@uwm.edu>",
+  "email": "vvalsan@uwm.edu",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO Hanford Observatory\n(H1), LIGO Livingston Observatory (L1), and Virgo Observatory (V1)\ndata around the time of the compact binary merger (CBC) candidate\nS200224ca (GCN Circular 27184). Parameter estimation has been\nperformed using LALInference [1] and a new sky map,\nLALInference.fits.gz,1, distributed via GCN Notice, is available for\nretrieval from the GraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S200224ca\n\nThe preferred sky map at this time is LALInference.fits.gz,1. For the\nLALInference.fits.gz,1 sky map, the 90% credible region is 72 deg2.\nMarginalized over the whole sky, the a posteriori luminosity distance\nestimate is 1575 +/- 322 Mpc (a posteriori mean +/- standard\ndeviation).\n\nBased on posterior support from parameter estimation [1], under the\nassumption that the candidate S200224ca is astrophysical in origin,\nthe probability that the lighter compact object has a mass < 3 solar\nmasses (HasNS) is <1%. Using the masses and spins inferred from the\nsignal, the probability of matter outside the final compact object\n(HasRemnant) is <1%.\n\nFor further information about analysis methodology and the contents\nof this alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

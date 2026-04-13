@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091026: Swift/UVOT Upper Limits",
+  "eventId": "GRB 091026",
+  "bibcode": "2009GCN.10087....1C",
+  "createdOn": 1256596681000,
+  "circularId": 10087,
+  "submitter": "Peter Curran at MSSL  <pac@mssl.ucl.ac.uk>",
+  "email": "pac@mssl.ucl.ac.uk",
+  "body": "P.A. Curran (MSSL-UCL) and C.B. Markwardt (CRESST/GSFC/UMD)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 091026 87 s \nafter the BAT trigger (Markwardt et al., GCN 10081). No optical afterglow \nconsistent with the enhanced XRT position (Evans et al., GCN 10084) is \ndetected in the initial UVOT exposures. Preliminary 3-sigma upper limits \nusing the UVOT photometric system (Poole et al. 2008, MNRAS, 383, 627) for \nthe first finding chart (FC) exposures and subsequent exposures are:\n\n\nFilter          T_start(s)   T_stop(s)    Exp(s)    Mag\n-----------------------------------------------------------\nwhite (FC)      87           237          147       >21.00\nu (FC)          300          550          246       >20.36\n\nwhite           87           12292        950       >22.09\nv               629          5959         236       >19.63\nb               555          6778         235       >20.62\nu               300          6573         462       >20.72\nw1              678          6369         236       >20.09\nm2              826          6164         216       >19.85\nw2              605          16097        561       >20.70\n\nThe values quoted above are not corrected for the Galactic extinction due \nto the reddening of E(B-V) = 0.13 in the direction of the burst (Schlegel \net al. 1998)."
+}

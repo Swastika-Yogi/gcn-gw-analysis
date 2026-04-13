@@ -1,0 +1,10 @@
+{
+  "subject": "GRB071122: Swift/UVOT Observations",
+  "eventId": "GRB 071122",
+  "bibcode": "2007GCN..7131....1B",
+  "createdOn": 1195842442000,
+  "circularId": 7131,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown, M. M. Chester (PSU), R. L. C. Starling\n(U. Leicester), and M. Stamatikos (NASA/ORAU)\nreport on behalf of the Swift/UVOT team:\n\nSwift/UVOT observed the field of GRB 071122 (trigger\n#297114) starting 145 s after the BAT trigger\n(Stamatikos et al., GCN Circ. 7121).  A faint source\nis detected in the first white exposure at a position\nof 18h 26m 25.38s, Dec = +47d 4m 30.8s, consistent\nwith the optical afterglow found by Cenko (GCN Circ.\n7125) and the revised XRT position (Evans et al.,\nGCN Circ. 7126).  The afterglow is detected at a\nlevel of 4 sigma and has a magnitude of\nwhite=20.8 +- 0.3 (one sigma error), with an exposure\nmidpoint time of 196 s after the trigger.  It is\nnot detected in subsequent exposures in white\nor the other 6 filters.  The detection and 3-sigma\nupper limits in the coadded frames are summarized\nin the following table:\n\nFilter       T_start(s)   T_stop(s)     Exp(s)    Mag/3-sigma UL\n\nwhite        145          245           100       20.8 +- 0.3\nwhite        748          1483          119       >21.3\nv            252          1517          823       >21.2\nb            733          1469          30        >19.6\nu            708          1444          40        >19.4\nuvw1         684          703           20        >19.2\nuvm2         658          1395          59        >18.7\nuvw2         763          1508          40        >18.8\n\nThe values quoted above are not corrected for the\nexpected Galactic extinction corresponding to a\nreddening of E(B-V) = 0.048 mag towards the direction\nof the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060929: Swift detection of a burst",
+  "eventId": "GRB 060929",
+  "bibcode": "2006GCN..5654....1M",
+  "createdOn": 1159562170000,
+  "circularId": 5654,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "C. B. Markwardt (GSFC/UMD), S. D. Barthelmy (GSFC),\nA. P. Beardmore (U Leicester), D. N. Burrows (PSU),\nJ. R. Cummings (NASA/UMBC), N. Gehrels (NASA/GSFC),\nS. D. Hunsberger (PSU), J. A. Kennea (PSU), K. L. Page (U Leicester),\nD. M. Palmer (LANL), P. Romano (INAF-OAB), T. Sakamoto (NASA/ORAU),\nG. Sato (GSFC/ISAS), P. Schady (MSSL-UCL) and\nM. Stamatikos (NASA/ORAU) report on behalf of the Swift Team:\n\nAt 19:55:01UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060929 (trigger=231702).  Swift slewed immediately to the burst. \nThe on-board location (obtained from a Lightcurve SERS message) is RA,Dec (J2000)\n263.164,+29.815 {17h32m39s, 29d48m54s}.  Because of a telemetry gap covering the \nfirst ~50 sec of the TDRSS messages, we can say nothing about the lightcurve until \nthe full data set is downlinked. \n\nThe XRT began taking data at 19:56:33 UT, 92 seconds after the BAT trigger.  \nThe XRT on-board centroid algorithm did not find a source in the image, \nhowever analysis of prompt downlinked data reveals a faint, uncatalogued \npoint source at the following location:\n  RA(J2000) =  17h 32m 29.0s\n Dec(J2000) = +29d 50m 08.5s\nwith an estimated uncertainty of 7.3 arcseconds radius (90% containment). \nThis source lies 154 arcseconds from the BAT position. \n\nAt this time due to the telemetry gap, only a raw UVOT finding chart image (no sky \ncoordinates) obtained with the white light filter is available. We have attempted \nto perform pattern matching with the DSS and no obvious afterglow candidate is \nseen."
+}

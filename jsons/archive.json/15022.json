@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130722A: Swift/UVOT Detection",
+  "eventId": "GRB 130722A",
+  "bibcode": "2013GCN.15022....1M",
+  "createdOn": 1374547131000,
+  "circularId": 15022,
+  "submitter": "Frank Marshall at GSFC  <femarsha@khamseen.gsfc.nasa.gov>",
+  "email": "femarsha@khamseen.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and E. Troja (NASA/GSFC/UMCP)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 130722A\n120 s after the BAT trigger (Troja et al., GCN Circ. 15013).\nA decaying source consistent with the optical position\n(Melandri et al. GCN Circ. 15015)\nis detected in the initial UVOT exposures.\nAs noted by Melandri et al., there is a catalogued source\nnear the position of the optical afterglow.\nThe magnitudes and uncertainties reported below have been\nadjusted to accommodate the possibility that the nearby\nsource accounts for all or none of the UVOT count rate\nobserved at late times.\n\nThe preliminary UVOT position is:\n  RA(J2000)  =  17:22:36.47 = 260.65196\n  DEC(J2000) = -02:58:21.6  =  -2.97268\nwith an estimated uncertainty of 0.7 arcsec (radius, 90% confidence).\nThe uncertainty has been adjusted slightly due to the\npossible contamination of the nearby source by up to 10%.\n\nThe preliminary detection and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           120          270          147          19.6 (+0.12/-0.20)\nv                 4209         5844          393         >19.7\nb                 3594        17728         2039         >20.9\nu                  332        16943         2059         >21.0\nw1                4619        16030         1218         >21.2\nw2                4004         5640          393         >21.3\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.63 in the direction of the burst\n(Schlegel et al. 1998)."
+}

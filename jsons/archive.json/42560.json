@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 251103B: GROWTH-India Telescope optical upper limits",
+  "eventId": "GRB 251103B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42560....1M",
+  "createdOn": 1762204807255,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "circularId": 42560,
+  "format": "text/markdown",
+  "body": "T. Mohan, V. Vijaykumar, V. Swain, S. Patil, A.P. Saikia, V. Bhalerao (IITB), G.C. Anupama, S. Barway (IIA) and K. Angail (IAO) report on behalf of the GIT team:\n\nWe observed the field of GRB 251103B, detected by Fermi (Fermi GBM team, GCN 42555) and Swift (Lanava et al., GCN 42556), using the 0.7m GROWTH-India Telescope (GIT). We started the observation at 2025-11-03 20:09:26 UT, i.e., 3.38 hours after the GRB trigger and obtained multiple exposures in the r' and g' filters. No optical counterpart was detected within the Swift-XRT localization region (Evans et al., GCN 42558). The photometric upper limits are as follows:\n\n| MJD (mid)    | Filter | tmid-t0 (hours) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | ------------ | ---------------------- | ---------------- |\n| 60982.84498  |   g'   |     3.5      |         360            |      19.4        |\n| 60982.85227  |   r'   |     3.68     |        4x360           |      20.5        |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

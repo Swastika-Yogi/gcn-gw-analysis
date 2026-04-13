@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250911A: GECAM-B detection",
+  "eventId": "GRB 250911A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41813....1Z",
+  "createdOn": 1757682039720,
+  "circularId": 41813,
+  "submitter": "zhangjinpeng@ihep.ac.cn",
+  "format": "text/plain",
+  "body": "Jin-Peng Zhang, Yang-Zhao Ren, Chen-Wei Wang, Shao-Lin Xiong and Yue Huang (IHEP) report on behalf of GECAM team:\n\nGECAM-B was triggered on-ground by GRB 250911A at 2025-09-11T01:29:28.250 UTC (denoted as T0), which was also observed by Swift (Palmer et al., GCN 41781). According to the GECAM-B light curves in about 40-6000 keV, this burst mainly consists of a weak precursor and a bright pulse with multiple spikes, with a duration (T90) of 35.4 +1.1/-1.7 s.\n\nThe GECAM-B light curve can be found here:\nhttps://www.bursthub.cn//admin/static/gecambgrb250911A.png\n\nGECAM-B localized this burst to the following position (J2000):\nRa: 262.0 deg\nDec: -20.2 deg\nErr: 4.1 deg (1-sigma, statistical only)\n\nThis localization is consistent with Swift observation (Palmer et al., GCN 41781; Beardmore et al., GCN 41784).\n\nThe time-averaged spectrum from T0 - 5 s to T0 + 40 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.52 +0.10/-0.12 and the cutoff energy, parameterized as Epeak, is 330 +180/-80 keV. The event fluence (10-1000 keV) in this time interval is (3.52 +0.25/-0.32)E-05 erg/cm^2.\n\nThe 'Amati' relation diagram of GRB 250911A is shown at:\nhttps://www.bursthub.cn//admin/static/gecambgrb250911A_amati.png\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor (GECAM) mission originally consists of two micro-satellites (GECAM-A and GECAM-B) launched in Dec. 2020. As the third member of GECAM constellation, GECAM-C was launched onboard SATech-01 experimental satellite in July 2022. GECAM mission is funded by the Chinese Academy of Sciences (CAS).\n"
+}

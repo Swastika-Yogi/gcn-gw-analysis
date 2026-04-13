@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250217C: AstroSat CZTI detection of a short burst",
+  "eventId": "GRB 250217C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39359....1T",
+  "createdOn": 1739856345415,
+  "circularId": 39359,
+  "submitter": "Gaurav Waratkar at IIT Bombay <gauravwaratkar@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "M. Tembhurnikar (IUCAA), G. Waratkar (IITB), J. Joshi (IUCAA), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a short-duration GRB 250217C which was also detected by Fermi (Fermi-GBM Team, GCN Circ. 39357).\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2025-02-17 23:54:41.85 UTC. The measured peak count rate associated with the burst is 1090 (+213, -122) counts/s above the background in the combined data of three quadrants (out of four), with a total of 296 (+53, -56) counts. The local mean background count rate was 273 (+15, -18) counts/s. Using cumulative rates, we measure a T90 of 0.35 (+0.39, -0.09) s.\n\nThe source was also detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2025-02-17 23:54:41.14 UTC. The measured peak count rate associated with the burst is 358 (+63, -67) counts/s above the background in the combined data of all quadrants, with a total of 309 (+169, -171) counts. Due to the intrinsic 1 s binning of veto data, we cannot reliably estimate a T90 from it.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI GRB detections are reported regularly on the payload site at:\nhttp://astrosat.iucaa.in/czti/?q=grb\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190718y: Analysis update",
+  "eventId": "LIGO/Virgo S190718y",
+  "bibcode": "2019GCN.25107....1L",
+  "createdOn": 1563553912000,
+  "circularId": 25107,
+  "submitter": "Varun Bhalerao at Indian Inst of Tech  <varunb@iitb.ac.in>",
+  "email": "varunb@iitb.ac.in",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe performed a preliminary follow-up investigation of the compact\nbinary merger candidate S190718y reported in GCN 25087. We removed\nglitches reported therein, using the PyCBC [1] gating method and\nreanalyzed the data with PyCBC / Bayestar [2], and also using the same\ntemplate as the gstlal event. The analysis yields no evidence for\nretracting this event. There are no updates to the p_astro or\nsignificance of this event at this time.\n\nThe event's properties can be found at this URL:\nhttps://gracedb.ligo.org/superevents/S190718y\n\nFor further information about analysis methodology and the contents of\nthis alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n[1] Nitz et al. PRD 98, 024050 (2018)\n[2] Singer & Price PRD 93, 024013 (2016)"
+}

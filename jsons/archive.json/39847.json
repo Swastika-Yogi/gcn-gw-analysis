@@ -1,0 +1,11 @@
+{
+  "subject": "GRB250322A: STEP/T80S optical limits",
+  "eventId": "GRB 250322A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39847....1S",
+  "createdOn": 1742705802808,
+  "circularId": 39847,
+  "submitter": "André Santos at Centro Brasileiro de Pesquisas Físicas (CBPF) <andsouzasanttos@gmail.com>",
+  "format": "text/markdown",
+  "body": "A. Santos (CBPF), C. R. Bom (CBPF), C. D. Kilpatrick (Northwestern), L. Santana-Silva (CBPF), P. Darc (CBPF), Gabriel Teixeira (CBPF), C. Mendes de Oliveira (IAG-USP) report on behalf of the STEP collaboration:\n\nWe conducted optical follow up with the T80S 0.8-m robotic telescope (Santos et al., 2024, MNRAS, 529, 59) of the short gamma-ray burst GRB250322A discovered by the Swift-BAT and XRT instruments (GCN [39835](https://gcn.nasa.gov/circulars/39835), [39841](https://gcn.nasa.gov/circulars/39841)).  The T80S observations started on Mar 23 00:08:38 UT (~8 hours after the trigger). We obtained images totaling 1800s (6x300s) in g-band with the T80S camera centered at the position of the latest XRT position (GCN [39841](https://gcn.nasa.gov/circulars/39841)) at R.A.=07:07:02.52 and Decl.=+07:11:35.3 (J2000).  \n\nAfter subtracting a Pan-STARRS template image from the T80S frames using photpipe (Rest et al., 2005), we do not detect any transient source in our difference image within the XRT error circle and derive a 3-sigma limiting magnitude of g > 22.48 mag.\n"
+}

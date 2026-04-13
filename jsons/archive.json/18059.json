@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150724A: Swift-XRT refined Analysis",
+  "eventId": "GRB 150724A",
+  "bibcode": "2015GCN.18059....1R",
+  "createdOn": 1437760923000,
+  "circularId": 18059,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "T.G.R. Roegiers (PSU), B.P. Gompertz (U. Leicester), J.P. Osborne (U.\nLeicester), K.L. Page (U. Leicester), P. D'Avanzo (INAF-OAB), V. D'Elia\n(ASDC), A. D'ai (INAF-IASFPA), L.M. McCauley (PSU), J.A. Kennea (PSU)\nand J.L. Racusin report on behalf of the Swift-XRT team:\n\nWe have analysed 11 ks of XRT data for GRB 150724A (Racusin et al. GCN\nCirc. 18050), from 91 s to 24.4 ks after the  BAT trigger. The data\ncomprise 349 s in Windowed Timing (WT) mode (the first 9 s were taken\nwhile Swift was slewing) with the remainder in Photon Counting (PC)\nmode. The enhanced XRT position for this burst was given by Goad et al.\n(GCN Circ. 18052). The late-time light curve (from T0+4.7 ks) is\nconsistent with a constant source of mean count rate 2.2e+00 ct/sec. A\npower-law fit gives an index of -0.02 (+0.19, -0.20).\n\nA spectrum formed from the WT mode data can be fitted with an absorbed\npower-law with a photon spectral index\tof 1.70 (+/-0.04). The\nbest-fitting absorption column is  3.70 (+0.21, -0.20) x 10^21 cm^-2,\nin excess of the Galactic value of 2.9 x 10^21 cm^-2 (Willingale et al.\n2013). The PC mode spectrum has a photon index of 2.13 (+0.18, -0.17)\nand a best-fitting absorption column of 3.6 (+0.8, -0.7) x 10^21 cm^-2.\nThe counts to observed (unabsorbed) 0.3-10 keV flux conversion factor\ndeduced from this spectrum  is 3.6 x 10^-11 (5.8 x 10^-11) erg cm^-2\ncount^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.6 (+0.8, -0.7) x 10^21 cm^-2\nGalactic foreground: 2.9 x 10^21 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     2.13 (+0.18, -0.17)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00650141.\n\nThis circular is an official product of the Swift-XRT team."
+}

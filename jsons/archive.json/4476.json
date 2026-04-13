@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060109: Swift-BAT refined analysis",
+  "eventId": "GRB 060109",
+  "bibcode": "2006GCN..4476....1P",
+  "createdOn": 1136938870000,
+  "circularId": 4476,
+  "submitter": "Takanori Sakamoto at NASA/GSFC  <takanori@milkyway.gsfc.nasa.gov>",
+  "email": "takanori@milkyway.gsfc.nasa.gov",
+  "body": "D. Palmer (LANL), M. Ajello (MPE), L. Barbier (GSFC), S. Barthelmy (GSFC), \nJ. Cummings (GSFC/ORAU), E. Fenimore (LANL), R. Fink (GSFC), \nN. Gehrels (GSFC), D. Hullinger (UMD), H. Krimm (GSFC/USRA), \nC. Markwardt (GSFC/UMD),A. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), \nG. Sato (ISAS), J. Tueller (GSFC), \non behalf of the Swift-BAT team:\n\nUsing the data set from T-299.2 to T+302.9 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 060109 \n(trigger #176620)  (De Pasquale, et al., GCN 4455).  \nThe BAT ground-calculated position \nis (RA,Dec) = 282.739, 32.009 {18h 50m 57.3s, 32d 0' 32.6\"} (deg; J2000) \n+- 3.0 arcmin, (radius, sys+stat, 90% containment).  \nThe partial coding was 92%. \n\nThe mask-tagged lightcurve shows a double peak structure.  The first peak has \na duration of ~20 sec. starting from T-2 sec.  And the second peak has \na duration of ~40 sec. starting from T+75 sec. \nT90 (15-350 keV) is (116 +- 3) sec (estimated error including systematics).\n\nOver the full burst interval (T-0.4 to T+126.8 sec), the power law index of \nthe time-averaged spectrum is 1.96 +- 0.25.  The fluence in the 15-150 keV \nband is (6.4 +- 1.0) x 10^-07 erg/cm2.  The 1-sec peak photon flux measured \nfrom T+90.19 sec in the 15-150 keV band is (0.5 +- 0.1) ph/cm2/sec.  \nAll the quoted errors are at the 90% confidence level."
+}

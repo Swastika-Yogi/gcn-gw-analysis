@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081012: Swift/UVOT analysis of initial observations",
+  "eventId": "GRB 081012",
+  "bibcode": "2008GCN..8365....1K",
+  "createdOn": 1223843586000,
+  "circularId": 8365,
+  "submitter": "Paul Kuin at MSSL  <npkuin@googlemail.com>",
+  "email": "npkuin@googlemail.com",
+  "body": "N. P. M. Kuin (MSSL/UCL) and M.C. Stroh (PSU) report on behalf of\nthe Swift UVOT team.\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began observations of\nGRB081012 (Swift BAT trigger number 331475, Stroh et al., GCN Circ.\n8361), on October 12, 2008, at 14:02:28 ,52 minutes after the\ntrigger.\n\nWe do not detect any new source at the XRT position reported in GCN\nCirc. 8364 (Kennea et al.).\n\nThe magnitude upper limits for detecting GRB081012 at the XTR position\nare given below for the first observations in the UVOT filters:\n\nFilter Tstart(s) Tstop(s)  Exp(s)  Magnitude\n\nuvw2   3125      3325     196.6    >20.09  (3-sigma UL)\nv      3329      3458     125.8    >19.12  (3-sigma UL)\nuvm2   4876      5076     196.6    >19.72  (3-sigma UL)\nuvw1   5082      5282     196.6    >19.94  (3-sigma UL)\nu      5287      5487     196.6    >20.00  (3-sigma UL)\nb      5492      5692     196.6    >20.33  (3-sigma UL)\nwh     5697      5713      15.7    >19.42  (3-sigma UL)\n\nThe values quoted above are on the UVOT Photometric System\n(Poole et al, 2008, MNRAS 383,627). They are not corrected for the\nexpected galactic reddening of E(B-V) = 0.023 in the direction of\nthe burst (Schlegel et al. 1998)."
+}

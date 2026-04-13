@@ -1,0 +1,9 @@
+{
+  "subject": "Swift-BAT refined analysis of trigger 334129",
+  "bibcode": "2008GCN..8512....1B",
+  "createdOn": 1226324389000,
+  "circularId": 8512,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), J. R. Cummings (GSFC/UMBC), N. Gehrels (GSFC),\nS. Immler (CRESST/GSFC/UMD)\n(on behalf of the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from recent telemetry downlinks,\nwe report further analysis of BAT possible burst GRB 081109B (trigger #334129)\n(Immler, et al., GCN Circ. 8502).  Given the extremely weak recorded flux,\nthe lack of an XRT detection (private communication), and the specrtal softness,\nthis trigger is very likely not due to a GRB.  However, we can not completely\nrule out a GRB orgin.  If it were due to a GRB, then the following would apply:\n\nThe BAT ground-calculated position is RA, Dec = 350.132, -55.912 deg,\nwhich is \n   RA(J2000)  =  23h 20m 31.8s \n   Dec(J2000) = -55d 54' 42.8\" \nwith an uncertainty of 3.4 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 96%.\n \nThe mask-weighted light curve shows a weak peak starting at ~T+15 sec\nand ending at ~T+115 sec.\n \nThe time-averaged spectrum from T+0.0 to T+128.0 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.21 +- 0.56.  The fluence in the 15-150 keV band is 2.3 +- 0.9 x 10^-7 erg/cm2.\nAll the quoted errors are at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/334129/BA/"
+}

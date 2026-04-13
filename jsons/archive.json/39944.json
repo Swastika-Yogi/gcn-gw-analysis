@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250330A: Fermi GBM Final Localization",
+  "eventId": "GRB 250330A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39944....1F",
+  "createdOn": 1743339581213,
+  "submitter": "Utkarsh Pathak at IIT Bombay <utkarshpathak.07@gmail.com>",
+  "circularId": 39944,
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\n\"At 06:07:38.42 UT on 30 March 2025, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 250330A (trigger 765007663/250330255).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 254.96, Dec = -66.02 (J2000 degrees, equivalent to J2000 16h 51m, -86d 52'),\nwith a statistical uncertainty of 6.9 degrees. This localization is consistent \nwith Swift-BAT location (Cenko et al. 2025, GCN 39938) and Swift-XRT (Page et al. 2025, 39940).\n\nThe angle from the Fermi LAT boresight is 46 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250330255/quicklook/glg_skymap_all_bn250330255.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250330255/quicklook/glg_healpix_all_bn250330255.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250330255/quicklook/glg_lc_medres34_bn250330255.gif\""
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 061102: Swift detection of a burst",
+  "eventId": "GRB 061102",
+  "bibcode": "2006GCN..5776....1H",
+  "createdOn": 1162430442000,
+  "circularId": 5776,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "S. T. Holland (GSFC/USRA), S. D. Barthelmy (GSFC),\nM. M. Chester (PSU), N. Gehrels (NASA/GSFC), C. Gronwall (PSU),\nJ. A. Kennea (PSU), F. E. Marshall (NASA/GSFC),\nK. M. McLean (LANL/UTD), K. L. Page (U Leicester),\nD. M. Palmer (LANL), A. M. Parsons (GSFC), M. Stamatikos (NASA/ORAU)\nand R. L. C. Starling (U Leicester) report on behalf of the Swift\nTeam:\n\nAt 01:00:31 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 061102 (trigger=236430). Swift slewed immediately to the\nburst. The BAT on-board calculated location is RA,Dec 148.405,\n-17.066 {09h 53m 37s, -17d 03' 58\"} (J2000) with an uncertainty of 3\narcmin (radius, 90% containment, including systematic uncertainty). \nThe BAT light curve shows a weak pulse ~15 sec long. The peak count\nrate was ~500 counts/sec (15-350 keV) at ~5 sec after the trigger. \n\nThe XRT began observing the field at 01:02:11 UT, 100 seconds after the\nBAT trigger. XRT found an uncatalogued fading X-ray source\nlocated at RA(J2000) = 09h 53m 37.7s, Dec(J2000) = -17d 01' 28.1\", with an\nestimated uncertainty of 6.1 arcseconds (90% confidence radius). \nThis location is 150 arcseconds from the BAT on-board position, within\nthe BAT error circle. The initial flux in the 2.5s image was\n6.0e-10 erg/cm2/s (0.2-10 keV). \n\nUVOT took a finding chart exposure of 100 seconds with the White\n(160-650 nm) filter starting 110 seconds after the BAT trigger. No\nafterglow candidate has been found in the initial data products. The\n2.7'x2.7' sub-image covers 100% of the XRT error circle. The 3-sigma\nupper limit is approximately 18.5 mag. No correction has been made\nfor the expected extinction corresponding to E(B-V) of 0.04."
+}

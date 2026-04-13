@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220521A: classification and detection by SPI-ACS/INTEGRAL",
+  "eventId": "GRB 220521A",
+  "bibcode": "2022GCN.32105....1M",
+  "createdOn": 1653404152000,
+  "circularId": 32105,
+  "submitter": "Alexei Pozanenko at IKI, Moscow  <apozanen@iki.rssi.ru>",
+  "email": "apozanen@iki.rssi.ru",
+  "body": "P. Minaev (IKI), A. Pozanenko (IKI), G. Mozgunov (MIPT, IKI) report on \nbehalf of GRB IKI FuN:\n\nWe analyzed GRB 220521A till now detected by Swift and GBM/Fermi (Fermi \nGBM Team, GCN 32075; Dichiara et al., GCN 32076;  Poolakkil and Meegan, \nGCN 32089) using publicly available data of GBM/Fermi and \nSPI-ACS/INTEGRAL. Using GBM/Fermi data we estimated the duration of T_90 \n= 12.0 +/- 0.5 s in 7 - 100 keV energy band and performed spectral \nanalysis in the time interval of (-1, 12) s. The best fit is obtained \nfor CPL model with following parameters: E_p = 62 (-15, +68) keV, alpha \n= -1.5 +/- 0.4. The fluence of F = (9.8 +/- 1.2)E-7 erg/cm**2 is \nobtained in 10 - 1000 keV energy band. The parameters are close to those \nreported in (Poolakkil and Meegan, GCN 32089).\nUsing redshift of z = 5.6 (Fynbo et al., GCN 32079; Cucchiara et al., \nGCN 32099) we obtain E_iso = (6.2 �� 0.8)E52 erg in 1-10000 keV energy \nrange. Using T_90,i - EH diagram [1,2] we classify the burst as type II \n(long burst) for any possible redshift greater than z = 0.07. T_90,i - \nEH diagram can be found in\nhttp://grb.rssi.ru/GRB220521A/GRB220521A_EHD.png\n\nThe burst was also detected by SPI-ACS/INTEGRAL with total statistical \nsignificance of 5.8 sigma. The angle to the SPI-ACS axis is 47 degrees. \nComparing fluences of long-duration GRBs registered by both SPI-ACS and \nGBM/Fermi (Chelovekov et al., in preparation) we estimated the GRB \n220521A fluence to be 1.1E-6 erg/cm**2 in the 10-1000 keV energy band \n(the 95% confidence region 3.4E-7 ��� 4.1E-6 erg/cm**2, incl. \nsystematics). Light curves based on GBM/Fermi and SPI-ACS/INTEGRAL data \ncan be found in\nhttp://grb.rssi.ru/GRB220521A/GRB220521A_light_curves.png\n\n[1] - Minaev et al., MNRAS, 492, 1919, 2020\n[2] - Minaev et al., Astronomy Letters, 46, 9, 573, 2020"
+}

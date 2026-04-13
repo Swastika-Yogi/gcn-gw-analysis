@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131014A: XRT position information",
+  "eventId": "GRB 131014A",
+  "bibcode": "2013GCN.15351....1E",
+  "createdOn": 1382103003000,
+  "circularId": 15351,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "P.A. Evans and J.P. Osborne (U. Leicester) report on behalf of the\nSwift-XRT team\n\nThe Swift-XRT localisation of GRB 131014A has unusually significant\nuncertainty, which is not included in the positions previously \ncirculated (GCNs 15335, 15339), or on the website. The afterglow was \ndetected towards the edge of two of the initial tiled pointings, and \nnear the centre of a dedicated follow-up pointing. Positions derived \nfrom these individual pointings vary by up to 4\" when the Swift star \ntracker attitude is used. If we instead create enhanced positions (using \nthe UVOT to derive the astrometry) we find astrometric corrections of \n~5-8\", although we find significant variation between these corrections. \nThis suggests that there is some degeneracy in the aspect solution.\n\nGiven this variation we suggest that the XRT position should be assumed\nto have an uncertainty of 6\", rather than the values previously\nannounced or posted online. Thus the best available XRT position is\nRA, Dec=100.3033, -19.0971, which is equivalent to:\nRA:   06h 41m 12.80s\nDec: -19�� 05��� 49.6������\nwith an uncertainty of approx 6\". This is the enhanced position derived\nfrom the follow-up observation, which was centred on the afterglow.\n\nSome low-level scatter in the aspect solutions is seen in all enhanced \npositions, and is calibrated into our enhanced position errors. GRB \n131014A shows an exceptionally large scatter in the aspect solutions \nwhich is not currently understood. Futhermore, as this is a late-time \ntiled follow up, where the source is faint and individual exposures are \nshort, the normal mechanisms which remove outlying aspect solutions \ncannot be applied."
+}

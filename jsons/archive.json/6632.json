@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070714B: Swift/UVOT Upper Limits",
+  "eventId": "GRB 070714B",
+  "bibcode": "2007GCN..6632....1L",
+  "createdOn": 1184615950000,
+  "circularId": 6632,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (NASA/GSFC) and J. Racusin (PSU) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070714B starting 70 s after the \nBAT trigger (Racusin et al. GCN Circ.6620).   We do not find any source, \nin any of the UVOT observations, inside the refined XRT error circle \n(Racusin et al., GCN Circ. 6627), or at the location of the Liverpool \nsource (Melandri et al., GCN Circ. 6621).\n\nThe 3-sigma upper limits for detecting a source inside the refined XRT \nerror circle are:\n\nFilter    T_start     T_end    Exp(s)    Mag (3-sigma upper limit)\n\nWhite      70         170        98.2      > 20.4\nv         177         577       393.4      > 19.6\nb         657        1637        58.1      > 19.2\nu         632        1766        89.2      > 19.2\nuvw1      607        1750        97.3      > 19.1\nuvw2      687        1676        77.8      > 19.2\n\nThe values quoted above are not corrected for the expected Galactic \nextinction\ncorresponding to a reddening of E_{B-V} = 0.14 mag in the direction of the\nburst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260104A: COLIBRÍ optical upper limits",
+  "eventId": "GRB 260104A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43325....1G",
+  "createdOn": 1767587533731,
+  "circularId": 43325,
+  "submitter": "globus@astro.unam.mx",
+  "format": "text/plain",
+  "body": "Noémie Globus (UNAM), Jean-Luc Atteia (IRAP), Stéphane Basa (UAR Pytheas), William H. Lee (UNAM), Alan M. Watson (UNAM), Dalya Akl (NYUAD), Camila Angulo (UNAM), Sarah Antier (IJCLAB), Rosa L. Becerra (UNAM), Nathaniel R. Butler (ASU), Damien Dornic (CPPM), Jean-Grégoire Ducoin (CPPM), Francis Fortin (IRAP), Leonardo García García (UNAM), Ramandeep Gill (UNAM), Nikos Mandarakas (LAM), Kin Ocelotl López (UNAM), Diego López-Cámara (UNAM), Francesco Magnani (CPPM), Enrique Moreno Méndez (UNAM), Margarita Pereyra (UNAM), Ny Avo Rakotondrainibe (LAM), Fredd Sánchez Álvarez (UNAM), Benjamin Schneider (LAM) and Antonio de Ugarte Postigo (LAM), report:\n\nWe imaged the field of GRB 260104A (Caputo et al., GCN Circ. 43315; Evans et al., GCN Circ. 43319; Kennea et al., GCN Circ. 43320), using the DDRAGO two-channel wide-field imager on the COLIBRÍ telescope. We observed from 2026-01-05 at 01:46 to 02:44 UTC (from 20.16 to 21.12 hr after the trigger) and obtained 41 minutes of simultaneous exposure in the r and z filters.\n\nThe data were reduced and coadded with the COLIBRÍ ASU pipeline and analyzed with STDWeb/STDPipe (Karpov 2025). The photometry was calibrated using nearby stars from the PanSTARRS DR1 catalog, is in the AB system, and was not corrected for Galactic extinction.\n\nIn the stacked image, we do not detect any new source at the XRT uncertainty region (Caputo et al., GCN Circ. 43315) down to the following 5-sigma limit:\nr > 21.90,\nz > 20.96.\n\nWe thank the staff of the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir and the COLIBRÍ and DDRAGO engineering teams.\n\nCOLIBRÍ is an astronomical observatory developed and operated jointly by France (AMU, CNES and CNRS) and Mexico (UNAM and SECIHTI). It is located at the Observatorio Astronómico Nacional on the Sierra de San Pedro Mártir, Baja California, Mexico."
+}

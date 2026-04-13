@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250109A /EP250109a: Fermi GBM Final Localization",
+  "eventId": "GRB 250109A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.38873....1F",
+  "createdOn": 1736438575289,
+  "circularId": 38873,
+  "submitter": "Utkarsh Pathak at IIT Bombay <utkarshpathak.07@gmail.com>",
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\nAt 06:17:08.60 UT on 9 January 2025, the Fermi Gamma-ray Burst Monitor (GBM) triggered and located GRB 250109A (trigger 758096233/250109262).\n\nThe on-ground calculated location, using the Fermi GBM trigger data, is RA = 84.43, Dec = 2.26 (J2000 degrees, equivalent to J2000 05h 37m, 02d 15'), with a statistical uncertainty of 13.52 degrees. This event is associated with EP250109a (Li et al. 2025, GCN 38864).\n\nThe angle from the Fermi LAT boresight is 69.0 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250109262/quicklook/glg_skymap_all_bn250109262.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250109262/quicklook/glg_healpix_all_bn250109262.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2025/bn250109262/quicklook/glg_lc_medres34_bn250109262.gif"
+}

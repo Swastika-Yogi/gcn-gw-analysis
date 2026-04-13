@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S191110af: Upper limits from IceCube MeV neutrino searches",
+  "eventId": "LIGO/Virgo S191110af",
+  "bibcode": "2019GCN.26235....1I",
+  "createdOn": 1573515579000,
+  "circularId": 26235,
+  "submitter": "Erik Blaufuss at U. Maryland/IceCube  <blaufuss@umd.edu>",
+  "email": "blaufuss@umd.edu",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) has investigated the possibility that gravitational wave candidate S191110af is a burst \nevent consistent with a core-collapse supernova in the Milky Way.  \n\nIceCube can detect the O(10 MeV) neutrinos from a core-collapse supernova by searching for correlated increases in the hit rates of \nphotosensors in the detector during the 10-second duration of the associated neutrino burst [1,2]. IceCube is primarily sensitive to \ninverse beta decay events produced by electron antineutrinos from the accretion phase of the supernova, and can observe a core-collapse \nevent at any location in the Milky Way independent of the mass of the stellar progenitor [2].  \n\nTwo triggers in the IceCube MeV neutrino detection system bracket the time of the gravitational wave alert: one at 2019-11-10 16:21:11 and \none at 2019-11-11 00:20:47. Both triggers are consistent with background fluctuations which occur at a false alarm rate of about 5/day.\n\nUsing the non-detection of a correlated increase in the hit rates in IceCube, we estimate the total energy emitted into neutrinos from the gravitational \nwave candidate to be\n\nE < 6.5e50 erg * (d / 10 kpc)**2 * (15 MeV / E_avg)**2,\n\nat 90% confidence, with d giving the distance to the burst and E_avg the average energy of emitted neutrinos.\n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector operating at the geographic South Pole in Antarctica. \nThe IceCube realtime alert point of contact can be reached at roc@icecube.wisc.edu.\n\n[1] R. Abbasi et al., Astronomy and Astrophysics 535, A109 (2011).\n[2] R. Cross, A. Fritz, S. Griswold, PoS(ICRC2019) 889, arXiv:1908.07249 (2019)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Instructions for reporting follow-up observations related to LIGO/Virgo G184098",
+  "eventId": "LIGO/Virgo G184098",
+  "bibcode": "2015GCN.18334....1S",
+  "createdOn": 1442712407000,
+  "circularId": 18334,
+  "submitter": "Leo Singer at NASA/GSFC  <leo.p.singer@nasa.gov>",
+  "email": "leo.p.singer@nasa.gov",
+  "body": "Dear colleagues,\n\nThis is a reminder to share the coordinates of the observations associated with G184098 within 12 hours of the observing time. To communicate\ncoordinates of EM observations, you can use circulars, the Electromagnetic Bulletin Board and GraceDB.\n\n\n- Submitting a GCN Circular.\n\nSeveral of you have asked how to send prose reports of observations and results on G184098. Because the private LIGO/Virgo GCN Circulars list is not\nyet ready, for the time being please send reports to this list, lv-em-observers@gw-astronomy.org<mailto:lv-em-observers@gw-astronomy.org>. The subject\nline should start with ��<80><9c>LIGO/Virgo G184098: ��<80><9c> and the body of the message should be in the format and style of an ordinary GCN Circular.\n\nWhen the private GCN Circulars list is ready, we will re-ingest your messages so that they are archived and assigned circular numbers for citation\npurposes.\n\n\n- Submitting footprints of observations to GraceDB.\n\nYou can upload footprints of your observations into GraceDB manually in the ��<80><9c>EM Observations��<80><9d> section of the GraceDB event page\n(https://gracedb.ligo.org/events/G184098), or in a scripted fashion using any of the following code samples:\n\nhttp://nbviewer.ipython.org/github/lpsinger/ligo-virgo-emfollowup-tutorial/blob/master/ligo-virgo-emfollowup-tutorial.ipynb#7.-Submitting-observation-coordinates-to-GraceDB\nhttps://gw-astronomy.org/wiki/LV_EM/CurlUploadFootprints\nhttps://gw-astronomy.org/wiki/LV_EM/PythonUploadFootprints\n\n\n- Using GraceDB and the Electromagnetic Bulletin Board.\n\nhttps://www.youtube.com/watch?v=oIJE4dTISs4\n\n\nCheers,\nMarica, Leo, Peter\n\n[GCN OPS NOTE(19sep15): This Circular was originally published on 20:37 17-Sep-2015 UT.]"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060825: XRT Team Refined Analysis",
+  "eventId": "GRB 060825",
+  "bibcode": "2006GCN..5479....1B",
+  "createdOn": 1156521789000,
+  "circularId": 5479,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "A.P. Beardmore, K.L. Page (U. Leicester) & G. Sato (GSFC/ISAS) report on \nbehalf of the Swift-XRT team:\n\nWe have analysed the first 4 orbits of Swift-XRT data obtained for GRB 060825\n(trigger 226382). From 3660 seconds of data, we find a refined position of:\n\nRA(J2000)  =   01 12 29.00\nDec(J2000) =  +55 47 46.5\n\nwith an uncertainty of 4.1 arcsec (90% containment). This is 0.8 arcsec\nfrom the XRT position reported in GCN Circ. 5471 (Sato et al.), and 18.6\narcsec from the refined BAT position in GCN Circ. 5478 (Fenimore et al.).\n\nThe X-ray afterglow is faint, initially only 0.8 count/s, 74s after\nthe BAT trigger, decaying with a slope of alpha = 0.87 +/- 0.09 out to 20ks.\nThere is, however, a small flare centred at 220s, where the count rate rises\nto 1.2 count/s.\n\nThe X-ray spectrum from the first four orbits can be well fitted by an\nabsorbed power-law, with a photon index of Gamma = 1.64 +/- 0.29 absorbed\nby the Galactic column density of 3.0e21 cm^-2. The early time unabsorbed\nflux (between 74 - 189s after the trigger) was 3.57e-11 erg cm^-2 s^-1\nover the 0.3-10 keV band.\n\nProviding the source decays at the same rate then the count rate is\npredicted to be ~0.002 count/s 24 hr after the trigger, which\ncorresponds to an observed 0.3-10keV flux of 1.20e-13 erg cm^-2 s^-1,\nor an unabsorbed flux of 1.58e-13 erg cm^-2 s^-1.\n\nThis circular is an offical product of the Swift-XRT team."
+}

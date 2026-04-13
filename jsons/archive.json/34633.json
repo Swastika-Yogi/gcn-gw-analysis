@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Attitude Control Affecting Some UVOT Images",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34633....1C",
+  "createdOn": 1694030083528,
+  "circularId": 34633,
+  "submitter": "Brad Cenko at NASA/GSFC <brad.cenko@nasa.gov>",
+  "body": "Over the last several weeks, the Swift team has been tracking increased noise in one of the three on-board inertial reference units (i.e., gyroscopes). We believe this behavior has at times resulted in degraded attitude control for the spacecraft, affecting the image quality of some UVOT data (because of their coarser angular resolution, XRT and BAT data appear largely unaffected). We encourage all users to closely investigate UVOT data taken over this period (starting ~ August 7).\n\nWe are actively investigating potential mitigations to improve spacecraft attitude control, and will provide updates to the community as available.\n\nIf you have further questions, please feel free to reach out to the Swift PI, Brad Cenko, at brad.cenko@nasa.gov"
+}

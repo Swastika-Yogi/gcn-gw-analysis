@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250925A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 250925A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42007....1K",
+  "createdOn": 1758904439551,
+  "circularId": 42007,
+  "submitter": "noelklin@umbc.edu",
+  "format": "text/plain",
+  "body": "N. J. Klingler (NASA-GSFC/UMBC/CRESST II) reports on behalf of the\nSwift-UVOT team:\n\nSwift-UVOT has performed follow-up observations of the Swift-BAT-detected burst GRB 250925A (Dichiara et al. GCN 41985), collecting 6.0 ks of observations between T0+3.74 ks and T0+16.74 ks.  No source was detected in the UVOT data at the position of the optical source detected by the Nordic Optical Telescope (NOT) reported by Corcoran et al. (GCN 41990; RA, Dec = 22 44 51.31, +46 33 21.3), which is also consistent with the enhanced position of the X-ray source detected by Swift-XRT reported by Page et al. (GCN 41988; RA, Dec = 22 44 51.30, +46 33 20.6).\n\n3-sigma upper limits (AB) using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) are:\n\nFilter \t\tT_start(s) \tT_stop(s) \tExp(s) \t\tMag\nwhite\t\t4150.3 \t\t4350.1 \t\t199.80    \t>21.55\nwhite \t\t9527.3 \t\t10434.5 \t907.20    \t>22.41\nB \t\t3945.3 \t\t5554.0 \t\t1608.70    \t>21.16\nU \t\t3739.8 \t\t3939.6\t\t199.80    \t>20.48\nU \t\t5175.9 \t\t5375.7 \t\t199.80    \t>20.52\nV \t\t4560.9 \t\t4760.7 \t\t199.80    \t>19.94\nV \t\t15320.0 \t16227.1 \t907.10    \t>20.81\nW1 \t\t4971.0 \t\t5170.7 \t\t199.70    \t>20.10\nW2 \t\t4356.1 \t\t4555.9 \t\t199.80    \t>20.10\nW2 \t\t10440.9     \t11158.4 \t717.50    \t>21.02\nM2 \t\t4765.8 \t\t4965.6 \t\t199.80    \t>19.99\nM2 \t\t16232.4 \t16737.3 \t504.90    \t>20.67\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of E(B-V) = 0.254 in the direction of the burst (Schlegel et al. 1998)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220320A",
+  "eventId": "GRB 220320A",
+  "bibcode": "2022GCN.31783....1K",
+  "createdOn": 1648038440000,
+  "circularId": 31783,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo and HEND/Mars Odyssey teams,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe bright, long-duration GRB 220320A\n(AstroSat-CZTI detection: Gopalakrishnan et al., GCN Circ. 31779)\nwas detected by Fermi (GBM trigger 669443999), Konus-Wind,\nINTEGRAL (SPI-ACS), Mars-Odyssey (HEND), BepiColombo (MGNS),\nCALET (CGBM), and AstroSat (CZTI) at about 16794 s UT (04:39:54).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n    94.150 (06h 16m 36s) -55.909 (-55d 54' 31\")\n  Corners:\n    94.226 (06h 16m 54s) -55.949 (-55d 56' 58\")\n    94.048 (06h 16m 12s) -55.915 (-55d 54' 54\")\n    94.074 (06h 16m 18s) -55.868 (-55d 52' 04\")\n    94.252 (06h 17m 00s) -55.902 (-55d 54' 08\")\n  ---------------------------------------------\nThe error box area is 19 sq. arcmin, and its maximum\ndimension is 7 arcmin (the minimum one is 3 arcmin).\nThe Sun distance was 92 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi GBM final position.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220320_T16796/IPN\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

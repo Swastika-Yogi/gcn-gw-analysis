@@ -1,0 +1,10 @@
+{
+  "subject": "GRB080503: Swift/UVOT Upper Limits",
+  "eventId": "GRB 080503",
+  "bibcode": "2008GCN..7675....1B",
+  "createdOn": 1209864237000,
+  "circularId": 7675,
+  "submitter": "Peter Brown at PSU  <pbrown@astro.psu.edu>",
+  "email": "pbrown@astro.psu.edu",
+  "body": "P. J. Brown (PSU) and J. Mao(INAF-OAB),\non behalf of the Swift/UVOT team.\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT)\nbegan settled observations of GRB 080503 (trigger 310785)\n84 seconds after the BAT trigger (Mao et al.,GCN Circ. 7639).\nNo afterglow is detected at the enhanced XRT position\n(Goad et al., GCN Circ. 7665) in the initial white finding chart\nor subsequent summed images. The limiting magnitudes\n(3-sigma in 5\" radius apertures) in each of the UVOT filters\nare as follows:\n\nFilter  T_start(s)  T_stop(s)  Exp(s)  Mag UL (3sig)\n\nwhite       85       184        98     >20.0\nwhite       85     12500      1314     >22.3\nv          191      6749      1219     >20.5\nb          671     11588      1203     >21.4\nu          646      7365       471     >20.3\nuvw1       622      7160       471     >20.4\nuvm2       597      6954       471     >20.3\nuvw2       701     13219      1133     >21.0\n\nThe values quoted above are in the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627).  They are not corrected\nfor the expected Galactic extinction corresponding to a\nreddening of E(B-V)=0.06 mag in the direction of the burst\n(Schlegel et al. 1998)."
+}

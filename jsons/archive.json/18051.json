@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 650140: Swift detection of IGR J00291+5934",
+  "bibcode": "2015GCN.18051....1C",
+  "createdOn": 1437718272000,
+  "circularId": 18051,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "J. R. Cummings (NASA/UMBC), K. L. Page (U Leicester),\nD. M. Palmer (LANL), J. L. Racusin (NASA/GSFC) and M. H. Siegel (PSU)\nreport on behalf of the Swift Team:\n\nAt 05:23:37 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a source consistent with the location of the known source \nIGR J00291+5934 (=V1037 Cas) (trigger=650140).  Swift could not\nslew immediately to the burst due to an Earth limb constraint.  The \nBAT on-board calculated location is \nRA, Dec 7.200, +59.565 which is \n   RA(J2000) = 00h 28m 48s\n   Dec(J2000) = +59d 33' 54\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  No light curve is immediately available\nfor this image trigger. \n\nAlthough this is a marginal significance (6.11 sigma) image\ntrigger, it is likely to be a true detection, based on the\nclose match (2 arcminutes) to the source location and\nthe fact that this source is often seen by BAT. \n\nTo avoid confusion, we note that this is not GRB 150724A, \nwhich occurred shortly after this detection."
+}

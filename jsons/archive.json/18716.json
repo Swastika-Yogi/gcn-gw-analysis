@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 668097: Swift detection of V 404 Cyg",
+  "bibcode": "2015GCN.18716....1B",
+  "createdOn": 1450848949000,
+  "circularId": 18716,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "S. D. Barthelmy (GSFC), K. L. Page (U Leicester) and\nD. M. Palmer (LANL) report on behalf of the Swift Team:\n\nAt 05:19:52 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated V 404 Cyg (trigger=668097).  Swift did not slew due to a low merit value. \nThe BAT on-board calculated location is \nRA, Dec 306.024, +33.874, which is \n   RA(J2000)  =  20h 24m 06s\n   Dec(J2000) = +33d 52' 27\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  As is typical with image triggers, the real-time \nlight curve does not show anything. \n\nThis is a known source, and as such the assigned merit value was low enough\nto not allow an immediate slew.  Swift will slew to this source at 06:37 UT."
+}

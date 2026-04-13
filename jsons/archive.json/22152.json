@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 171123A: Swift-XRT refined Analysis",
+  "eventId": "GRB 171123A",
+  "bibcode": "2017GCN.22152....1M",
+  "createdOn": 1511474660000,
+  "circularId": 22152,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. Melandri (INAF-OAB), P. D'Avanzo (INAF-OAB), J.A. Kennea (PSU), B.\nSbarufatti (INAF-OAB/PSU), D.N. Burrows (PSU), S.L. Gibson (U.\nLeicester), J.P. Osborne (U. Leicester), V. D'Elia (ASDC) and P.A.\nEvans report on behalf of the Swift-XRT team:\n\nWe have analysed 6.5 ks of XRT data for GRB 171123A (Evans et al. GCN\nCirc. 22148), from 98 s to 19.7 ks after the  BAT trigger. The data are\nentirely in Photon Counting (PC) mode. The enhanced XRT position for\nthis burst was given by Goad et al. (GCN Circ. 22150).\n\nThe light curve can be modelled with a series of power-law decays. The\ninitial decay index is alpha=3.4 (+0.7, -0.6). At T+306 s  the decay\nflattens to an alpha of -0.33 (+0.25, -0.45) before breaking again at\nT+1892 s to a final decay with index alpha=0.68 (+0.13, -0.14).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.21 (+0.22, -0.21). The\nbest-fitting absorption column is  8.8 (+5.1, -4.4) x 10^20 cm^-2, in\nexcess of the Galactic value of 1.9 x 10^20 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 2.9 x 10^-11 (3.8 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     8.8 (+5.1, -4.4) x 10^20 cm^-2\nGalactic foreground: 1.9 x 10^20 cm^-2\nExcess significance: 2.6 sigma\nPhoton index:\t     2.21 (+0.22, -0.21)\n\nIf the light curve continues to decay with a power-law decay index of\n0.68, the count rate at T+24 hours will be 0.010 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 3.0 x\n10^-13 (3.8 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00791922.\n\nThis circular is an official product of the Swift-XRT team."
+}

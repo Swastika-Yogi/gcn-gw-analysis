@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050801: GCN XRT position is incorrect",
+  "eventId": "GRB 050801",
+  "bibcode": "2005GCN..3724....1K",
+  "createdOn": 1122922203000,
+  "circularId": 3724,
+  "submitter": "Jamie A. Kennea at PSU/Swift-XRT  <kennea@astro.psu.edu>",
+  "email": "kennea@astro.psu.edu",
+  "body": "J.A. Kennea and D.N. Burrows (PSU)\n\nThe XRT position sent through GCN for GRB050801 is not correct due to the \nXRT centroiding on a artifact in the CCD, and not the afterglow. The \ncurrent best position for this from Swift is the BAT position.\n\n[GCN OPS NOTE(01aug05): Per author's request, \"050701\" was changed to \"050801\"\nin both places.]"
+}

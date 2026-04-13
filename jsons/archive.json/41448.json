@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250816A (short)",
+  "eventId": "GRB 250816A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41448....1S",
+  "createdOn": 1755701521293,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 41448,
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team,\nreport:\n\nThe short-duration GRB 250816A\n(Fermi-GBM detection: The Fermi GBM team, GCN 41397;\nSVOM-GRM detection: Wang et al., GCN 41400)\nwas detected by Fermi (GBM trigger 777000615), SVOM (GRM),\nand Konus-Wind at about 5410 s UT (01:30:10).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose area is 7.8 sq. deg, and its maximum\ndimension is 32.2 deg (the minimum one is 18.7 arcmin).\nThe Sun distance was ~46 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250816_T05407/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

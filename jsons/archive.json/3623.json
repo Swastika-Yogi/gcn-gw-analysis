@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/BAT detection of GRB 050716",
+  "eventId": "GRB 050716",
+  "bibcode": "2005GCN..3623....1R",
+  "createdOn": 1121520863000,
+  "circularId": 3623,
+  "submitter": "Evert Rol at U.Leicester  <er45@star.le.ac.uk>",
+  "email": "er45@star.le.ac.uk",
+  "body": "E. Rol, C. Hurkett, K. Page (U. Leicester), S. Barthelmy, L. Barbier,\nA. Parsons (GSFC), J. Cummings (NRC, GSFC), D. Palmer (LANL),\nD. Burrows, J. Kennea (PSU), K. McGowan (MSSL), N. Gehrels (GSFC),\nreport for the Swift team:\n\n\nAt 12:36:04 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 050716 (trigger=146227).  The BAT on-board calculated\nlocation is RA,Dec 338.598d {+22h 34m 23s}, +38.696d {+38d 41' 46\"}\n(J2000), with an uncertainty of 4 arcmin (radius, including estimated\nsystematic uncertainty; 90% containment).  The BAT light curve showed\na multi-peak structure with a duration of at least 40 seconds.  The\n15-350 keV peak count rate was ~1300 counts/sec, measured by BAT at\n~10 seconds after the trigger.\n\nThe spacecraft slewed immediately and the XRT began observing the\nburst at 12:37:40 UT (96 seconds after the BAT trigger). The XRT found\na bright, uncatalogued X-ray source. The on board calculated position\nis:\n\nRA:     22h 34m 20.4s (J2000),\nDec:   -38d 40' 56.7\" (J2000).\n\nThis position is 60.6 arcseconds from the BAT position.  The estimated\nuncertainty is 6 arcseconds radius (90% containment).\n\n\nThe Swift Ultra Violet/Optical Telescope (UVOT) observations began at\n12:37:43 UT, 99 seconds after the BAT trigger. The first data taken\nafter the spacecraft settled was a 100 sec exposure using the V filter\nwith the midpoint of the observation at 149 sec after the BAT\ntrigger. Based on comparisons to the DSS, we detect no new source at\nthe XRT position."
+}

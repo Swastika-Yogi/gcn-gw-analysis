@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090113: Swift UVOT upper limits",
+  "eventId": "GRB 090113",
+  "bibcode": "2009GCN..8813....1O",
+  "createdOn": 1231940354000,
+  "circularId": 8813,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and H.A. Krimm (CRESST/GSFC/USRA) report on  \nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 090113 79s after the BAT trigger (Krimm et al., GCN 8804).\nWe do not detect any source at the enhanced Swift XRT position\n(Evans et al. GCN 8809). Due to trigger 339853 the automatic\ntarget sequence was cut short and only the white and u finding charts  \nwere taken.\nIn the u finding chart and in the second orbit of data the XRT position\nlies outside of the UVOT images. Therefore, we can only report the 3- \nsigma upper\nlimit for the white finding chart exposure.\n\nThe 3-sigma upper limits for the finding chart exposure is:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite      79       229      147     > 20.73\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.08 mag.\nAll photometry is on the UVOT photometric system described in Poole et\nal. (2008, MNRAS, 383, 627)."
+}

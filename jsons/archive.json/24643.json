@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190521r: Coverage and upper limits from Fermi-LAT observations",
+  "eventId": "LIGO/Virgo S190521r",
+  "bibcode": "2019GCN.24643....1B",
+  "createdOn": 1558462632000,
+  "circularId": 24643,
+  "submitter": "Elisabetta Bissaldi at INFN,Bari  <elisabetta.bissaldi@ba.infn.it>",
+  "email": "elisabetta.bissaldi@ba.infn.it",
+  "body": "E. Bissaldi (Politecnico & INFN Bari), M. Axelsson (KTH & Stockholm Univ.),\nand D. Tak (Univ. of Maryland),\nreport on behalf of the Fermi-LAT Collaboration:\n\n\nWe have searched data collected by the Fermi Large Area Telescope (LAT)\non May 21, 2019, for possible high-energy (E > 100 MeV)\ngamma-ray emission in spatial/temporal coincidence with\nthe LIGO/Virgo trigger S190521r (GCN 24632).\n\nWe define \"instantaneous coverage\" as the integral over the region\nof the LIGO probability map that is within the LAT field of view\nat a given a time, and \"cumulative coverage\" as the integral of the\ninstantaneous coverage over time.\nFermi-LAT had instantaneous coverage of ~50% of the LIGO probability\nat the time of the trigger (T0 = 2019-05-21 07:43:59.463 UTC),\nand reached 100% cumulative coverage after ~4.3 ks.\n\nWe performed a search for a transient counterpart within\nthe observed region of the 90% contour of the LIGO map\nin a fixed time window from T0 to T0+10 ks.\nNo significant sources were found.\n\nWe also performed a search which adapted the time interval\nof the analysis to the exposure of each region of the sky,\nand no additional excesses were found.\n\nEnergy flux upper bounds for the fixed time interval between\n100 MeV and 1 GeV for this search vary between\n3.0e-10 and 6.4e-09 [erg/cm^2/s].\n\n\nThe Fermi-LAT point of contact for this event is Donggeun Tak\n(takdg123@umd.edu).\n\n\nThe Fermi-LAT is a pair conversion telescope designed to cover\nthe energy band from 20 MeV to greater than 300 GeV.\nIt is the product of an international collaboration between\nNASA and DOE in the U.S. and many scientific institutions\nacross France, Italy, Japan and Sweden."
+}

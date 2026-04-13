@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 250221A",
+  "eventId": "GRB 250221A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.39423....1F",
+  "createdOn": 1740226422365,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "circularId": 39423,
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaya, D. Svinkin, A. Tsvetkova,\nM. Ulanov, and T. Cline, on behalf of the Konus-Wind team, report\n\nGRB 250221A (Swift detection: Caputo et al., GCN 39396)\nwas detected by Konus-Wind (KW) in the waiting mode.\n\nA Bayesian block analysis of the KW waiting mode data in the 20-400 keV band\nreveals a ~12 sigma count-rate increase in the interval\nfrom T0-1.5 s to T0+4.4 s where T0 = T0(BAT) = 03:34:37 UT.\n\nThe KW light curve of this burst is available\nat http://www.ioffe.ru/LEA/GRBs/GRB250221A/\n\nModeling the time-integrated spectrum of the burst\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.05 (-0.12, + 0.12) and Ep = 242(-22,+26) keV.\nIn the 10 keV -10 MeV band, standard for the KW analysis,\nthe burst fluence is (1.67 ± 0.09)x10^-6 erg/cm^2\nand the 2.944 s peak energy flux is (2.97 ± 0.17)x10^-7 erg/cm^2/s.\n\nAssuming the redshift z=0.768 (Palmerio et al., GCN 39418)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to (2.8 ± 0.2)x10^51 erg,\nthe isotropic peak luminosity L_iso to (8.6 ± 0.5)x10^50 erg/s, and\nthe rest-frame peak spectral energy Ep,z to (428 ± 44) keV.\nWith the obtained estimates, GRB 250221A is a hard-spectrum outlier\n(lies outside 90% prediction bands) of both 'Amati' and 'Yonetoku' relations for the sample\nof >300 long KW GRBs with known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB250221A/GRB250221A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 080411",
+  "eventId": "GRB 080411",
+  "bibcode": "2008GCN..7589....1G",
+  "createdOn": 1207989582000,
+  "circularId": 7589,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks,\nand T. Cline on behalf of the Konus-Wind team report:\n\nThe long GRB 080411 (Swift-BAT trigger #309010: Marshall et al., GCN\n7584) triggered Konus-Wind at T0=76532.496 s UT (21:15:32.496).\n\nThe burst light curve shows several pulses with a total duration of ~70s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of 6.29(-0.29, +0.31)x10^-5 erg/cm2,\nand a 64-ms peak flux measured from T0+17.936 s\nof (1.28 +/- 0.16)x10^-5 erg/cm2/s\n(both in the 20 keV - 2 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+74.24 s) can be fitted (in the 20 keV-2 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.51(-0.05, +0.04),\nand Ep = 259(-27, +35) keV (chi2 = 64.5/59 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nAssuming z = 1.03 (Thoene et al., GCN 7587) and a standard\ncosmology model with H_0 = 70 km/s/Mpc, Omega_M = 0.27, Omega_\\Lambda =\n0.73, the isotropic energy release is E_iso ~1.81x10^53 erg,\nthe maximum luminosity is (L_iso)_max ~7.48x10^52 erg/s, and\nEp_rest ~524 keV.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB080411_T76532/"
+}

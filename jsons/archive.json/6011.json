@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 255685: Swift detection of a possible burst",
+  "bibcode": "2007GCN..6011....1P",
+  "createdOn": 1168550180000,
+  "circularId": 6011,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC),\nA. P. Beardmore (U Leicester), D. N. Burrows (PSU),\nJ. R. Cummings (NASA/UMBC), P. A. Evans (U Leicester),\nC. Guidorzi (Univ Bicocca&INAF-OAB), S. Immler (GSFC/USRA),\nJ. A. Kennea (PSU), K. L. Page (U Leicester),\nS. B. Pandey (UCL-MSSL), P. Roming (PSU), M. Stamatikos (NASA/ORAU),\nR. L. C. Starling (U Leicester) and E. Troja (INAF-IASFPA) report on\nbehalf of the Swift Team:\n\nAt 20:49:45 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a marginal peak which, if a real GRB, would be GRB 070111\n(trigger=255685).  The BAT on-board calculated location is \nRA, Dec 99.939, -56.099 which is \n   RA(J2000) = 06h 39m 45s\n   Dec(J2000) = -56d 05' 57\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The rate trigger indicates a total of 175 \ncounts in 32 ms, which is well in excess of background (8 sigma),\nbut is consistent with the observational characteristics of a \ncosmic ray shower. \n\nFor this reason, it is most likely that this is not a GRB.  However\na final determination will not be possible until we have downlinked\nthe full data set. \n\nBecause of an Earth limb constraint, the spacecraft did not slew\npromptly to the BAT position, and so there are no immediate XRT or\nUVOT data products to analyze. Swift NFIs will begin observing this\ntarget at approximately 22:07 UT."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240615A: possible transient detection from Wendelstein observations",
+  "eventId": "GRB 240615A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36706....1B",
+  "createdOn": 1718835072900,
+  "circularId": 36706,
+  "submitter": "Malte Busmann at Ludwig-Maximilians-Universität München <m.busmann@physik.lmu.de>",
+  "format": "text/plain",
+  "body": "Malte Busmann (LMU), Daniel Gruen (LMU), Brendan O’Connor (Carnegie Mellon U.), Antonella Palmese (Carnegie Mellon U.), Christoph Ries (LMU), Arno Riffeser (LMU/MPE) report:\n\nWith the 3KK optical-NIR imager at the 2m Fraunhofer telescope at Wendelstein Observatory, Germany, we have followed up the GRB 240615A reported by GCN 36671, 36672. Our observations began at ~3.2 days after the GRB. \n\nWe detect one source at 10sigma significance that is consistent with the location (90% error of ~9\") of the Swift-XRT uncatalogued X-ray source reported in GCN 36683. We report the following photometric measurements and 3-sigma upper limits for this source (hereafter referred to as Source 1):\n\nName      RA(J2000)   dec(J2000)    UTC                  mag_r   mag_i         mag_J\nSource 1  21:44:23.63 +38:34:08.89  2024-06-18T22:44:19  >24.0   24.0 +/- 0.5  20.36 +/- 0.09\n\nWe also obtained a tentative detection of Source 1 in images taken about 22 h before this detection (~2.3 days after the GRB). There is evidence at the 3sigma level that Source 1 was brightening between the two epochs. We note that Source 1 is extremely red in color with i-J>3 mag. \n\nA second source (Source 2) is marginally detected at RA, dec (J2000) = 21:44:23.8, +38:34:03.4 in both r and i-bands. We note the marginal detection of an underlying source in PS1 imaging at both of these locations (Source 1 and Source 2).\n\nFurther observations are scheduled and additional follow-up is encouraged. \n\nMagnitudes are in the AB system and not corrected for the significant Milky Way extinction along this line of sight."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 170127C: POLAR Observation",
+  "eventId": "GRB 170127C",
+  "bibcode": "2017GCN.20563....1M",
+  "createdOn": 1485675155000,
+  "circularId": 20563,
+  "submitter": "Radek Marcinkowski at PSI/POLAR  <radoslaw.marcinkowski@psi.ch>",
+  "email": "radoslaw.marcinkowski@psi.ch",
+  "body": "R. Marcinkowski (PSI), H.L. Xiao (PSI), W. Hajdas (PSI), Yi Zhao (IHEP), \nM. Kole (DPNC) and S.L. Xiong (IHEP) report on behalf of the POLAR \ncollaboration:\n\nAt 2017-01-27 01:35:48.7 UT(T0), during a routine on-ground search of data,\nPOLAR detected GRB 170127C, which was also observed by Fermi GBM\n(trigger # 507173752) and reported by Fermi GBM (Bissaldi et al. GCN 20543),\nFermi-LAT (E. Moretti et al. GCN 20544), Agile (A. Ursi et al. GCN 20545)\nand AstroSat (V. Sharma et al. GCN 20561).\n\nThe POLAR light curve consists of 1 short (~0.15 s), strong peak followed by\nlonger and weaker multi peak structure with duration (T90) of 22.0 +/- 0.2 s\nmeasured from T0. The light curve is compatible with the one from\nFermi-GBM. The 0.2 s peak flux at T0 + 0.2 s  is equal to\n13000 +/- 140 counts/sec. POLAR recorded 3600 +/- 140 events from the burst.\nAbove measurements are in the energy range of about 20 - 500 keV.\n\nLC_URL: http://polar.psi.ch/triggers/GRB_170127C_raw.png\n     or http://polar.psi.ch/pub/lc.php?event=GRB+170127C\n\nUsing the best location from Fermi LAT (E. Moretti et al. GCN 20544),\nwhich is:\nRA : 339.3 [deg]\nDec: -63.9 [deg]\nErr:   0.4 [deg]\n\nthe incident angle in the POLAR coordinate at T0 is:\nTheta: 41.8 [deg]\nPhi: 157.6 [deg]\n\nThe analysis results presented above are preliminary. Calibration of the\ninstrument is ongoing. POLAR is a dedicated Gamma-Ray Burst polarimeter which\nwas launched on-board the Chinese space laboratory Tiangong-2 (TG-2) on\nSep 15, 2016. The energy detection range of POLAR is ~ 50-500 keV.\nMore information about POLAR can be found at http://polar.psi.ch/pub ,\n http://polar.ihep.ac.cn/en/ and http://isdc.unige.ch/polar/ .\n\nThis message is quotable in publications."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 210727A (short)",
+  "eventId": "GRB 210727A",
+  "bibcode": "2021GCN.30541....1R",
+  "createdOn": 1627495764000,
+  "circularId": 30541,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A. Ridnaia, S. Golenetskii, D. Frederiks, D. Svinkin,\nA. Lysenko, and T. Cline on behalf of the Konus-Wind team,\n\nK. Hurley, on behalf of the IPN,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nA. von Kienlin, X. Zhang, A. Rau, V. Savchenko, E. Bozzo,\nand C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team, and\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe short-duration GRB 210727A\n(BALROG localization: Biltzinger et al., GCN 30531;\nAGILE-MCAL detection: Ursi et al., GCN 30533)\nwas detected by Fermi (GBM trigger 649072251), Konus-Wind,\nINTEGRAL (SPI-ACS), Swift (BAT), AGILE (MCAL),\nand CALET (CGBM) at about 35447 s UT (09:50:47).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  189.231 (12h 36m 55s) -59.926 (-59d 55' 35\")\n Corners:\n  194.539 (12h 58m 09s) -56.353 (-56d 21' 12\")\n  193.795 (12h 55m 11s) -56.308 (-56d 18' 30\")\n  182.624 (12h 10m 30s) -63.300 (-63d 17' 59\")\n  183.549 (12h 14m 12s) -63.394 (-63d 23' 37\")\n ---------------------------------------------\nThe error box area is 3.28 sq. deg, and its maximum\ndimension is 9.14 deg (the minimum one is 22 arcmin).\nThe Sun distance was 93 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of, the\nFermi final position and the BALROG localization.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB210727_T35447/IPN\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming GCN\nCircular."
+}

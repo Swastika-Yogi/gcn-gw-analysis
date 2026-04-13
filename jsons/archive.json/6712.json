@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB070805",
+  "eventId": "GRB 070805",
+  "bibcode": "2007GCN..6712....1S",
+  "createdOn": 1186401988000,
+  "circularId": 6712,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "P. Schady and A.M. Parsons (GSFC) report on behalf of the Swift UVOT team\n\nThe Swift/UVOT observed the field of GRB070805 (trigger=287088) starting \n33 minutes after the BAT trigger (Parsons et al. 2007, GCN Circ.6708). We \ndo not find any new source in the UVOT observations within the BAT error \ncircle or in the whole of the UVOT field of view, which we note is a very \ncrowded field.\n\nThe 5-sigma upper limits in the co-added frames are listed below:\n\nFilter   Tmid   Exposure   Magnitude\n          (s)    (s)        (5-sigma UL)\nwhite    3267   333         > 20.2\nv        2825   274         > 18.5\nb        3441   274         > 19.5\nu        3287   274         > 19.2\nuvw1     3133   274         > 19.0\nuvm2     2979   274         > 18.8\nuvw2     3384   452         > 19.4\n\nwhere Tmid is the weighted mean team of the coadded exposure. The values \nquoted above are not corrected for the expected Galactic extinction \ncorresponding to a reddening of E(B-V) = 0.202 mag in the direction of the \nburst (Schlegel et al. 1998)."
+}

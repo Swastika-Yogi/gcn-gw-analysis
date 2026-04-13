@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110903A: Swift-XRT observations",
+  "eventId": "GRB 110903A",
+  "bibcode": "2011GCN.12324....1P",
+  "createdOn": 1315078459000,
+  "circularId": 12324,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester)  reports on behalf of the Swift-XRT team:\n\nWe have analysed 3.9 ks of XRT data for the INTEGRAL-detected burst:\nGRB 110903A (Mereghetti et al., GCN Circ. 12322), from 33.8 ks to 45.3\nks after the INTEGRAL trigger. This GRB was also detected by Konus-Wind\n(Golenetskii et al., GCN Circ. 12323). The data are entirely in Photon\nCounting (PC) mode.  An X-ray source is detected within the INTEGRAL\nerror circle. Using 2176 s of PC mode data and 2 UVOT images, we find\nan enhanced XRT position (using the XRT-UVOT alignment and matching\nUVOT field sources to the USNO-B1 catalogue): RA, Dec = 197.06570,\n+58.98150 which is equivalent to:\n\nRA (J2000): 13h 08m 15.77s\nDec(J2000): +58d 58' 53.5\"\n\nwith an uncertainty of 1.8 arcsec (radius, 90% confidence). This\nposition is 15.5 arcsec from the INTEGRAL position.  The light curve is\nconsistent with a constant source of mean count rate 6.1e-02 ct/sec. A\npower-law fit gives an index of 0.9 (+/-1.9).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.8 (+0.4, -0.5). The\nbest-fitting absorption column is  3.7 (+2.2, -1.5) x 10^21 cm^-2, in\nexcess of the Galactic value of 1.3 x 10^20 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 4.8 x 10^-11 (7.2 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.7 (+2.2, -1.5) x 10^21 cm^-2\nGalactic foreground: 1.3 x 10^20 cm^-2\nExcess significance: 4.0 sigma\nPhoton index:\t     1.8 (+0.4, -0.5)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00020184.\n\nThis circular is an official product of the Swift-XRT team."
+}

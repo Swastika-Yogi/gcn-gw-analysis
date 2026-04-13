@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050915: Swift detection of a GRB",
+  "eventId": "GRB 050915",
+  "bibcode": "2005GCN..3977....1G",
+  "createdOn": 1126786059000,
+  "circularId": 3977,
+  "submitter": "David Palmer at LANL  <dmpalmer@mac.com>",
+  "email": "dmpalmer@mac.com",
+  "body": "D. Grupe (PSU), A. Beardmore (U. Leicester), D. Burrows (PSU),\nJ. Cummings (GSFC/NRC), K. Page (U. Leicester), D. Palmer (LANL),\nP. Roming (PSU), E. Rol (U. Leicester) N. Gehrels (GSFC)\non behalf of the Swift Team\n\n\nAt 11:22:42 UT, Swift-BAT triggered and located GRB050915\n(trigger=155242).  The BAT on-board calculated location is\nRA,Dec 81.714d, -28.030d {05h 26m 51s, -28d 01' 48\"} (J2000),\nwith an uncertainty of 3 arcmin (radius, 90% containment, stat+sys).\nThe BAT light curve showed a multi-peak structure with at least\n4 well-separated peaks and a total duration of 25 sec.  The peak\ncount rate was ~1500 counts/sec (15-350 keV), at ~14 seconds after\nthe trigger.\n\nThe spacecraft slewed immediately and the XRT began\nobserving the BAT position at 11:24:09 UT (T+87 s).  The\ncount rate was too low for an on-board centroid, but the\nspectrum and lightcurve strongly suggest that XRT observed a\nrapidly-fading X-ray source in the field.  The XRT position\nwill be available following the next ground station data\ndump.\n\nUVOT finds no obvious new sources in the BAT error circle in\na 100 sec image starting at T+85 s.  Further analysis will\nfollow."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100316A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 100316A",
+  "bibcode": "2010GCN.10499....1O",
+  "createdOn": 1268749844000,
+  "circularId": 10499,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (MSSL-UCL) and W. H. Baumgartner (GSFC/UMBC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of\nGRB 100316A 3201s after the BAT trigger (Baumgartner et al., GCN Circ.  \n10484).\nWe do not detect any source at the enhanced Swift XRT position\n(Evans et al. GCN Circ. 10490) and at the location of the candidate  \nsource detected\nby the CAHA telescope (Gorosabel et al. GCN Circ. 10487).\n\nThe 3-sigma upper limits for the finding chart exposures (FC)\nand summed images are:\n\nFilter   T_start   T_stop   Exp(s)  Mag (3-sigma upper limit)\n-------------------------------------------------------------\nwhite (FC) 3201     3350     147     > 21.08\nwhite      3770     5408     393     > 21.32\nv          4182     16726    1210    > 20.48\nb          3565     5203     393     > 20.79\nu          3359     11527    1110    > 20.66\nuvw1       4593     10786    1082    > 21.11\nuvm2       4387     17306    1648    > 21.11\nuvw2       3977     15812    1279    > 21.28\n-------------------------------------------------------------\n\nThe quoted upper limits have not been corrected for the expected\nGalactic extinction along the line of sight of E_(B-V) = 0.03 mag.\nAll photometry is on the UVOT photometric system described in Poole et\nal. (2008, MNRAS, 383, 627)."
+}

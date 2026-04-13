@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 251002A: SVOM/VT optical observation",
+  "editedOn": 1759441348014,
+  "version": 2,
+  "eventId": "GRB 251002A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42061....1P",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 42061,
+  "createdOn": 1759438724752,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "J. T. Palmerio, A. Saccardi, D. Götz (CEA/Irfu), H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu (NAOC) report on behalf of the SVOM/VT team:\n\nAfter the trigger by SVOM/ECLAIRs at 2025-10-02T20:14:54 UTC (T0), SVOM performed an automatic slew on the burst location (Saccardi et al., GCN 42060). SVOM/VT began observing the field at 2025-10-02T20:19:44, 289.75 seconds after T0, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, at least one credible candidate is identified, the details of which are presented below.\n\nVT_ID 36:\n  This candidate was flagged as un uncatalogued source.\n  The position of this candidate is R.A., Dec. 13.9082, -5.5671 degrees, corresponding to:\n  R.A. (J2000) = 0h55m38.0s\n  Dec. (J2000) = -5d34m01.5s\n  with an uncertainty of 1 arcsec.\n  \n  This location is within the R90 uncertainty region of the SVOM/MXT onboard localization.\n  The source was detected in both VT_R and VT_B. The candidate's magnitudes are:\n  \n  | date-obs (UTC)       | mid-time    | exposure  | band  | mag(AB)       |\n  | -------------------- | ----------- | --------- | ----- | ------------- |\n  | 2025-10-02T20:19:44  | 6.50 min    | 4*50 sec  | VT_B  | 16.81 ± 0.01  |\n  | 2025-10-02T20:19:44  | 6.50 min    | 4*50 sec  | VT_R  | 16.24 ± 0.01  |\n  Magnitudes were not corrected for dust extinction.\n  \n  Given the VT color of the counterpart, it might be a low redshift gamma-ray burst.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n\nThe SVOM/VT point of contact for this burst is Jesse Palmerio: jesse.palmerio@cea.fr.\n"
+}

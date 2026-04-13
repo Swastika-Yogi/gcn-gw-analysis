@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250716A: Lesedi Detection of Fading Optical Transient GOTO25eyp",
+  "eventId": "GRB 250716A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41106....1K",
+  "createdOn": 1752750082192,
+  "submitter": "Amit Kumar at Royal Holloway - UoL/ U of Warwick, UK <amitkundu515@gmail.com>",
+  "circularId": 41106,
+  "format": "text/plain",
+  "body": "Amit Kumar (RHUL), Nikita Rawat (SAAO), David Buckley (SAAO), Justyn R. Maund (RHUL), Danny Steeghs (Warwick) and Raya Dastidar (UNAB) report:\n\nWe observed the optical transient GOTO25eyp (AT 2025rhc; Rayson et al., GCN 41103), a candidate counterpart to GRB 250716A (Fermi GBM Team, GCNs 41099, 41102), using the 1-m Lesedi telescope at the South African Astronomical Observatory (SAAO), Sutherland, South Africa. Observations were conducted on 2025 July 17 between 03:08:39 and 04:09:30 UT (~25.66 to ~26.67 hours post-trigger) in g’, r’, i’, and z’ bands (3×360s in g and z, 3×300s in r and i bands).\n\nGOTO25eyp was clearly detected in all individual exposures across the four filters. Preliminary aperture photometry yields the following magnitudes in g’ and r’ bands:\n\nDATE-OBS                 T-T0 (hrs)      Filter     Exp (s)          Magnitude (AB)\n-------------------------------------------------------------------------------------\n2025-07-17T03:08:39      25.66           g’         360s                18.95 ± 0.09\n2025-07-17T03:26:56      25.96           r’         300s                18.67 ± 0.07\n\nThese observations indicate a decline of ~0.6 mag over ~8.4 hours since the initial detection reported by GOTO. This fading behaviour suggests a transient origin for GOTO25eyp and is broadly consistent with the temporal evolution expected from a GRB afterglow. We note that we are considering the GOTO L-band (400–700 nm), which approximates the mean wavelength coverage of the g and r filters.\n\nPhotometric calibration was performed using reference stars from the SDSS catalogue. Follow-up observations are ongoing, and further analysis is in progress.\n\nData were obtained using the 1-m Lesedi robotic telescope at the SAAO, equipped with the Mookodi low-resolution spectrograph and imager operating in fully robotic imaging mode. We thank the SAAO Instrumentation and Operations (IO) team for their continued support."
+}

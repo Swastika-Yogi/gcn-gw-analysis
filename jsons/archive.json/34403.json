@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 230812B",
+  "eventId": "GRB 230812B",
+  "submittedHow": "email-legacy",
+  "bibcode": "2023GCN.34403....1F",
+  "createdOn": 1691930369751,
+  "circularId": 34403,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long very bright GRB 230812B (Fermi GBM detection:\nLessage et al., GCN 34387; Roberts et al., GCN 34391;\nFermi LAT detection: Scotton et al., GCN 34392;\nGECAM-C observation: Xiong et al., GCN 34401;\nAGILE/MCAL detection: Casentini et al., GCN 34402)\ntriggered Konus-Wind (KW) at T0=68292.611 s UT (18:58:12.611).\n\nThe burst light curve shows a single smooth emission pulse,\nwhich starts at ~T0-0.1 s, peaks at ~T0+0.7 s,\nand has a total duration of ~20 s.\nThe emission is seen up to ~5 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230812_T68292/\n\nAs observed by Konus-Wind, the burst had\na fluence of (3.27 ± 0.07)x10^-4 erg/cm^2 and\na 64-ms peak energy flux, measured from T0 + 0.704 s,\nof (2.63 ± 0.11)x10^-4 erg/cm^2/s (both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+19.712 s)\nis best fit in the 20 keV - 15 MeV range\nby a GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.85 (-0.03,+0.03),\nthe high energy photon index beta = -2.38 (-0.05,+0.04),\nthe peak energy Ep = 288 (-12,+12) keV,\nchi2 = 169/97 dof.\n\nThe spectrum near the peak count rate (measured from T0+0.512 to T0+0.768 s)\nis best fit in the 20 keV - 15 MeV range\nby a GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.17 (-0.08,+0.09),\nthe high energy photon index beta = -2.65 (-0.14,+0.11),\nthe peak energy Ep = 444 (-30,+31) keV,\nchi2 = 68/56 dof.\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary.\n\n"
+}

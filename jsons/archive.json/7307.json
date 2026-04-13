@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT refined analysis of GRB080212",
+  "eventId": "GRB 080212",
+  "bibcode": "2008GCN..7307....1D",
+  "createdOn": 1202910909000,
+  "circularId": 7307,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale and H. Ziaeepour (MSSL/UCL)\nreport on behalf of the Swift team:\n\nThe Swift/UVOT observed the field of GRB 080212 (trigger 303105)\nstarting 110 seconds  after the BAT trigger (Ziaeepour et al\nGCN Circ. 7296), which occurred at 17:34:33 UT.\nA source is detected in the enhanced XRT error circle reported\nby Evans et al (GCN circ. 7300), blended with the K-type star\nmentioned in GCN 7304 by Berger et al.\nThe detection is only in the early V band exposures. There was\nno other 3-sigma detection of the afterglow in any exposure\nin any of the UVOT filters.\n\n  We do caution that photometry for this burst has been\ncarried out in very difficult conditions. Furthermore, no\ncorrection has been made for the non-negligible Galactic\nextinction towards the burtst, which amounts to E(B-V) = 0.16\n\nThe detections and 3-sigma upper limits in the UVOT photometric\nsystem (Poole et al MNRAS 383, 627 (2008)) are summarized in\nthe following table:\n\n\n   Filter  Tstart(s)  Tstop(s)  Exp(s)     Mag / Upper limit\n\n   V          110       510      393        17.8 +/- 0.1\n\n   V         4734      6166      393        19.3 +/- 0.3\n\n   V        21968     22876      893            >20.3\n\n\n   B         4323      4522      393            >20.7\n\n   B        11320     40999     1774            >21.2\n\n\n   U         4119      5548      393            >20.3\n\n   U        10408     40703     3400            >21.5\n\n\n   UW1       3919      5344      393            >20.0\n\n   UW1       9502     50920     4309            >21.2\n\n\n   UM2       3741      6300      323            >19.3\n\n   UM2      15290     45066     3413            >20.6\n\n\n   UW2      4529       5961      393            >19.4\n\n   UW2     21062      21961      893            >20.7"
+}

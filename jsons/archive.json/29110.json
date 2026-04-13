@@ -1,0 +1,10 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 201221A",
+  "eventId": "GRB 201221A",
+  "bibcode": "2020GCN.29110....1V",
+  "createdOn": 1608589707000,
+  "circularId": 29110,
+  "submitter": "Peter Veres at UAH  <veresp@gmail.com>",
+  "email": "veresp@gmail.com",
+  "body": "P. Veres (UAH) reports on behalf of the Fermi-GBM Team:\n\n\"At 07:09:01 UT on 21 December, 2020 Swift detected GRB 201221A  (Page\net al. GCN 29096). There was no Fermi-GBM onboard trigger around the\nevent.\n\nAn automated, blind search for short gamma-ray bursts below the\nonboard triggering threshold in Fermi-GBM identified a long\ncounterpart with high significance.  This was not included in the\npublic list (https://gcn.gsfc.nasa.gov/gcn/fermi_gbm_subthresh_archive.html),\nbecause the search reports only short candidates.\n\nThe GBM targeted search [1], the most sensitive, coherent search for\nGRB-like signals identified a transient most significantly on the\n8.192 s timescale, with a log likelihood ratio of 52 and a location\nconsistent with the event.\n\nThe GBM light curve consists of a single peak. The time-averaged\nspectrum from T0-10 s to T0+47 s is best fit by a power law function\nwith an exponential high-energy cutoff (T0 is the Swift trigger time).\nThe power law index is -1.17 +/- 0.21 and the cutoff energy,\nparameterized as Epeak, is 129 +/- 28 keV.\n\nThe event fluence (10-1000 keV) in this time interval is (3.30 +/-\n0.27)E-04 erg/cm^2. Using the redshift z=5.7 reported by Malesani et\nal (GCN 29100),  we derive an isotropic equivalent energy in the\n1-10,000 keV range of (2.02 +/- 0.16)E+55 erg.\n\nThis analysis is preliminary.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597\n\"\n\n[GCN OPS NOTE(22Dec2020): The 5th paragraph contains some errors\nin the number results.  Please see Circ 29111 for the correct values.]"
+}

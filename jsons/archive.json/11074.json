@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 100807A: Swift XRT refined analysis",
+  "eventId": "GRB 100807A",
+  "bibcode": "2010GCN.11074....1G",
+  "createdOn": 1281227362000,
+  "circularId": 11074,
+  "submitter": "Dirk Grupe at PSU/Swift-XRT  <grupe@astro.psu.edu>",
+  "email": "grupe@astro.psu.edu",
+  "body": "D. Grupe (PSU) reports on behalf of the Swift-XRT team:\n\nWe have analyzed 9.7 ks of XRT data for GRB 100807A (Grupe  et al.\nGCN Circ. 11067), from 125 s to 24882 s after the  BAT trigger. The\ndata comprise 36 s in Windowed Timing (WT) mode with the remainder\nin Photon Counting (PC) mode. The light curve can be modeled\nwith  a broken power-law model. After an initial flare the light\ncurve decays with a slope of 6.4+0.6-1.9. The light curve breaks at\n173+/-10s followed by a flatter decay slope of 0.82+/-0.08.\n\nA spectrum formed from the WT mode data can be fitted with an\nabsorbed power-law with a photon spectral index of 2.12 (+/-0.22).\nThe best-fitting absorption column is consistent with the Galactic\nvalue of 3.3 x 10^21 cm^-2 (Kalberla et al. 2005). A fit to the pc\nmode data is also consistent with the Galactic absorption column\ndensity, but the spectrum is slightly flatter with  a photon index\nof 1.79+/-0.37. The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from the WT spectrum  is 4.38 x 10^-11\n(7.54 x 10^-11) erg cm^-2 count^-1.\n\nIf the light curve continues to decay with a power-law decay index\nof 0.8, the count rate at T+48 hours will be in the order of\n1.3 x 10^-3 count s^-1, corresponding to an observed (unabsorbed)\n0.3-10 keV flux of 5.7 x 10^-14 (9.8 x 10^-14) erg cm^-2 s^-1.\nNote that we are currently in the plateau phase which is followed by\na steeper decay slope.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00431128.\n\nThis circular is an official product of the Swift-XRT team."
+}

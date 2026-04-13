@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 141017A: Swift/UVOT Detection",
+  "eventId": "GRB 141017A",
+  "bibcode": "2014GCN.16924....1O",
+  "createdOn": 1413630366000,
+  "circularId": 16924,
+  "submitter": "Samantha Oates at MSSL  <sro@mssl.ucl.ac.uk>",
+  "email": "sro@mssl.ucl.ac.uk",
+  "body": "S. R. Oates (IAA-CSIC/UCL-MSSL) and F. E. Marshall (NASA/GSFC)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 141017A\n92 s after the BAT trigger (Marshall et al., GCN Circ. 16919).\nA source consistent with the XRT position (Goad et al. GCN Circ. 16921) \nis detected in the initial UVOT white filter exposures.\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite (FC)          92          242          150         20.54 +/- 0.25\nwhite              859         1009          159        >20.91\nv                  633        13060          691        >20.0\nb                  559        17991         1306        >21.4\nu                  304         7171          717        >20.7\nw1                 683         6966          471        >20.3\nm2                5133         6761          388        >20.1\nw2                6152        12850         1082        >21.1\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998)."
+}

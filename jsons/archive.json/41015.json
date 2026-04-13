@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250706B: Swift/UVOT Detection",
+  "eventId": "GRB 250706B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41015....1S",
+  "createdOn": 1751913319629,
+  "submitter": "Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "circularId": 41015,
+  "format": "text/plain",
+  "body": "M. H. Siegel (PSU) reports on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 250706B 12.5 ks after the SVOM/ECLAIRs trigger (Palmerio et al., GCN Circ. 40989). A source consistent with the XRT position (Ferro et al., GCN Circ. 40996) and the optical transient (Zhu et al., GCN Circ. 40991; Palmerio et al., GCN Circ. 40992; Romanov, GCN Circ. 40995) is detected in the UVOT exposures.\n\nThe preliminary UVOT position is:\n    RA  (J2000) =  02:44:53.43 =  41.23097 (deg.)\n    Dec (J2000) = -50:03:40.2  = -50.06116 (deg.)\nwith an estimated uncertainty of 0.42 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nu                12471        18805         2023      16.49+/-0.03\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.026 in the direction of the burst\n(Schlegel et al. 1998)."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "EXO 0748-676: Swift-BAT refined analysis",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.36657....1M",
+  "createdOn": 1718057866268,
+  "circularId": 36657,
+  "submitter": "Tyler Parsotan  at NASA GSFC <tyler.parsotan@nasa.gov>",
+  "body": "M. J. Moss (GSFC), S. D. Barthelmy (GSFC),\nR. Gupta (GSFC), H. A. Krimm (NSF),\nS. Laha (GSFC/UMBC), A. Y. Lien (U Tampa),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL),\nT. Parsotan (GSFC), D. Sadaula (GSFC/UMBC),\nT. Sakamoto (AGU)(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of EXO 0748-676 (trigger #1236151)\n(D’Elia, et al., GCN Circ. 36653).  The BAT ground-calculated position is\nRA, Dec = 117.083, -67.777 deg which is\n   RA(J2000)  =  07h 48m 20.0s\n   Dec(J2000) = -67d 46' 35.5\"\nwith an uncertainty of 2.7 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 92%.\n\nThe mask-weighted lightcurve shows a fast rise exponential decay profile in the\n15-25 keV energy range.\nT90 (15-350 keV) is 8.06 +- 2.52 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-1.45 to T+7.90 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n5.07 +- 0.86.  The fluence in the 15-150 keV band is 7.4 +- 1.7 x 10^-08 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.90 sec in the 15-150 keV band\nis 0.3 +- 0.1 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1236151\n\n\n"
+}

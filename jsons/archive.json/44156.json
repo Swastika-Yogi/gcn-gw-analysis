@@ -1,0 +1,10 @@
+{
+  "subject": "EP260324a / AT2026hir: g- and r-band optical follow-up with the PKU 60cm Telescope",
+  "eventId": "EP260324a",
+  "submittedHow": "web",
+  "createdOn": 1774878274609,
+  "submitter": "Y.C. Kang at Peking University <yckang@stu.pku.edu.cn>",
+  "circularId": 44156,
+  "format": "text/markdown",
+  "body": "Yacheng Kang, Zexuan Wu, Qiang Wang, Ruize Shi, Xinmiao Zhao, Zhuokai Liu, Chenxi Bao, Yiming Dong, Ziming Wang, Fangzhou Ren, Lijing Shao, Zhuo Li, Subo Dong, Xian Chen (PKU) report on behalf of the PKU HiTF (High-energy Transients Follow-up) group:\n\nWe observed the field of EP260324a (Wu et al., ATel 17728; T0 = 2026-03-24T07:04:20) using the PKU 60cm telescope at Xinglong Observatory, NAOC. Observations began on 2026 Mar 27, corresponding to ~ 3.4 days after the EP-WXT detection, and spanned two epochs. \n\nIn the stacked g- and r-band images, we detect the optical counterpart in the difference image at a position consistent with that of ZTF26aapviim / AT2026hir (Anumarlapudi et al., GCN 44120; Mohan et al., GCN 44128). Preliminary photometry is calibrated against nearby Pan-STARRS field stars and reported in the AB magnitude system, without correction for Galactic extinction. \n\nThe observation log is summarized below:\n\n|    Date    |  Start_UT   | T_mid − T0 (days) | Filter | Exposure (s) | Magnitude (AB) |\n| :--------: | :---------: | :---------------: | :----: | :----------: | :------------: |\n| 2026-03-27 | 16:33:34.32 |       3.41        |   g    |   4 * 600    | 17.88 +/- 0.02 |\n| 2026-03-27 | 17:16:14.28 |       3.44        |   r    |   4 * 600    | 18.22 +/- 0.03 |\n\nFurther analysis and follow-up observations are ongoing.\n\nThe PKU 60cm Telescope is operated by the Department of Astronomy, Peking University. The PKU HiTF group is dedicated to rapid follow-up observations of high-energy transients."
+}

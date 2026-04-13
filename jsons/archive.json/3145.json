@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050326 BAT refined analysis",
+  "eventId": "GRB 050326",
+  "bibcode": "2005GCN..3145....1C",
+  "createdOn": 1111851806000,
+  "circularId": 3145,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "J. Cummings (GSFC/NRC), S. Barthelmy, L. Barbier (GSFC),\nE. Fenimore (LANL), N. Gehrels (GSFC), D. Hullinger (UMD),\nH. Krimm (GSFC/USRA), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/NRC), G. Sato (ISAS),\nM. Suzuki (Saitama), M. Tashiro (Saitama U.), J. Tueller (GSFC),\nN. White (GSFC)\non behalf of the Swift/BAT team:\n\nAt 09:53:55 UT Swift-BAT detected GRB 050326 (Markwardt et al. \nGCN Circ 3143). The refined BAT ground position is (RA,Dec) = \n6.892, -71.376 [deg; J2000] +- 3 arcmin, (95% containment).\n\nThe burst had 6 distinct peaks, with several smaller peaks. There\nwas an initial weak peak (at T-9) followed by a 10 times\nlarger peak, which caused the trigger (defined as 0 seconds). \nMajor peaks were at +5, +9, +19, and +23 seconds, all of similar \nspectral shape.\n\nThe fluence derived from the event data was 1.9 X 10^-5 erg/cm^2\nin the 15-350 keV band.  The 1-s peak flux was 17 ph/cm^2/s\n(also 15-350 keV).  The photon index of the 1-s peak spectrum\n(T+0 s) was 0.98 +/- 0.05 (90% confidence).  The time-averaged\nspectrum yields a photon index of 1.28 +/- 0.03 (90% confidence). \nThe overall measure of burst duration was T90 = 29.5 +/- 2 s\n(including systematics) T50 was 19 seconds.\n\nClarification on recent BAT triggers and notices:\nThis was BAT trigger number 112453, for which no real-time notices\nwere sent. It was NOT trigger 112467, a provisional trigger,\nfor which real-time notices WERE sent.\n\n[GCN OPS NOTE (28mar05):  Per author's request, the trigger number\nwas changed from ''111453' to '112453'.]"
+}

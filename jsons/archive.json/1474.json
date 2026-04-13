@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 020813 multiband optical observations",
+  "eventId": "GRB 020813",
+  "bibcode": "2002GCN..1474....1R",
+  "createdOn": 1029229349000,
+  "circularId": 1474,
+  "submitter": "James Rhoads at STScI  <rhoads@stsci.edu>",
+  "email": "rhoads@stsci.edu",
+  "body": "James Rhoads (STScI), Matthew Holman (CfA), JJ Kavelaars (McMaster),\nAndrew Fruchter (STScI), and Andrew Levan (STScI) report:\n\nWe observed the error circle of GRB 020813 (HETE Trigger #2262) with\nthe CTIO 4m Blanco telescope and Mosaic II imager starting at 020813\n04:34 UT (110 minutes after the burst) and continuing for an hour.  We\nobtained a total of ten 300 second images, four in B band and three\neach in R and I bands.  The weather was good with subarcsecond seeing.\n\nPreliminary analysis of the first image (a B band frame) confirms the\ntransient reported by Price et al (GCNC 1470).  Astrometric calibration\nusing 759 USNO-A2 stars brighter than R=16 places this image on a world\ncoordinate system.  We find coordinates of\n 19:46:41.865 -19:36:04.76  (J2000.0) for the optical transient, with\nan estimated error of 0.3\" on each axis based on the 0.28\" RMS residuals\nof the USNO star positions.\n\nCrude photometric calibration using the blue USNO-A2 magnitudes\nof three nearby stars gives B=18.6 at 04:36 UT.\nThis B band detection immediately implies an upper limit z < 3.8\nto the GRB redshift.\n(The positions and adopted magnitudes of the reference stars were\n 19:46:43.477 -19:36:05.66  B=17.10\n 19:46:42.729 -19:36:06.65  B=17.20\n 19:46:42.187 -19:35:37.00  B=15.90 .)\nThe third B band image, taken 14 minutes later, shows a decline of 0.07\nmagnitudes, corresponding to a rough decay slope of -0.55, consistent\nwith that reported by Li et al (GCNC 1473).  Analysis of the full data\nset\nis underway and will give both refined decay slopes and spectral slopes."
+}

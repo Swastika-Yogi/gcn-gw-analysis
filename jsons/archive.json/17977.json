@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 150627A: Swift/UVOT Detection",
+  "eventId": "GRB 150627A",
+  "bibcode": "2015GCN.17977....1K",
+  "createdOn": 1435483592000,
+  "circularId": 17977,
+  "submitter": "Daniele Malesani at Dark Cosmology Centre, Niels Bohr Inst  <malesani@dark-cosmology.dk>",
+  "email": "malesani@dark-cosmology.dk",
+  "body": "Paul Kuin (MSSL-UCL), Marissa McCauley (PSU) and Daniele Malesani \n(DARK/NBI) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of the Fermi GRB \n150627A 33622 s after the LAT trigger (Arimoto et al., GCN Circ. 17971; \nYu et al., GCN Circ. 17975).\n\nAn optical object consistent with the XRT position (Gompertz et al., GCN \nCirc. 17976) is detected at RA, Dec = 117.47108, -51.489417 deg (J2000), \nwhich is equivalent to:\n\nRA (J2000):  07:49:53.06\nDec(J2000): -51:29:21.9\n\nwith an uncertainty of 1\".\n\nPreliminary detections using the UVOT photometric system (Breeveld et \nal. 2011, AIP Conf. Proc. 1358, 373) for the initial exposures are:\n\nFilter           T_start(s)   T_stop(s)       Exp(s)      Mag\n\nwhite         33963          34289         335     19.11+/-0.10\nwhite         39860          40112         248     19.55+/-0.17\nwhite         45659          45863         204     19.28+/-0.14\nv         34304          34601         298     19.02+/-0.32\nv         40117          40346         225     18.98+/-0.36\nu         33622          38243         577     18.90+/-0.10\nu         43668          45654         966     19.00+/-0.11\n\nThe magnitudes in the table are not corrected for the Galactic \nextinction due to the reddening of E(B-V) = 0.32 in the direction of the \nburst (Schlegel et al. 1998).\n\nWhile no optical variability can be securely inferred from the UVOT \nphotometry, the source is not visible in the DSS survey, and brighter \nthan its limit, which suggests it to be the optical afterglow of GRB \n150627A."
+}

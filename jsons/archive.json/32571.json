@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220921A: Swift-XRT Observations",
+  "eventId": "GRB 220921A",
+  "bibcode": "2022GCN.32571....1K",
+  "createdOn": 1663815344000,
+  "circularId": 32571,
+  "submitter": "Noel Klingler at NASA-GSFC / UMBC  <njk5441@psu.edu>",
+  "email": "njk5441@psu.edu",
+  "body": "Swift-XRT has performed follow-up observations of the Fermi-LAT-detected\nburst GRB 220921A, collecting 4.1 ks of Photon Counting (PC) mode data\nbetween T0+27.4 and T0+40.7 ks.\n\nAn uncatalogued X-ray source has been detected consistent with being within\n17.3 arcmin from the center of the Fermi-LAT position (which is within its\n90% error radius of 25.19 arcmin; Pillera et al., GCN 32568), and being\nconsistent with the optical transient detected by MASTER (Lipunov et al.,\nGCN 32570).  The source's peak flux (8.6 (+/- 1.9) * 10^-12 erg cm^-2 s^-1)\nis 7.6-�� above the RASS limit, and it is fading with 2.9-�� significance.\n\nSource 1:\n  RA (J2000.0):  66.47255  =  04:25:53.41\n  Dec (J2000.0): -40.4057  =  -40:24:20.4\n  Error: 3.8 arcsec (radius, 90% conf.)\n  Count-rate: (0.20 [+/- 0.04]) ct s^-1\n  Distance: 17.3 arcsec from Fermi-LAT position\n  Exposure: 1328 s (vignetting corrected)\n\nTwo other uncatalogued sources were also detected within the GRB position.\n\nThe results of the XRT-team automatic analysis of the XRT observations,\nincluding a position-specific upper limit calculator, are available at\nhttps://www.swift.ac.uk/xrt_products/TILED_GRB00107/.\n\nFurther observations are pending.\n\nThis circular is an official product of the Swift-XRT team."
+}

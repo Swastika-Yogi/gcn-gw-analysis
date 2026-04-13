@@ -1,0 +1,9 @@
+{
+  "subject": "Transient EPW20240219aa: J-band upper limits from WINTER",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35807....1K",
+  "createdOn": 1708981509338,
+  "submitter": "Viraj Karambelkar at Indian Inst of Tech,Bombay <karambelkarvraj21197@gmail.com>",
+  "circularId": 35807,
+  "body": "Viraj Karambelkar (Caltech), Danielle Frostig (MIT), Robert Stein\n(Caltech), Nathan Lourie (MIT), Geoffrey Mo (MIT), Tomas Ahumada (Caltech),\nRobert Simcoe (MIT), Mansi Kasliwal (Caltech)\n\nWe observed the location of the X-ray flare EPW20240219aa (Zhang et al.,\nATel #16463; Zhang et al., GCN #35773) in the near-infrared J-band with the\nPalomar 1-m telescope, equipped with the 1 square degree WINTER camera\n(Lourie et al. 2020).\n\nOur observations started at UTC 2024-02-25T03:24:23, and covered the 3\narcmin localization region of the X-ray flare.  The images were processed\nthrough the WINTER data reduction pipeline implemented using mirar (\nhttps://github.com/winter-telescope/mirar), with image subtraction\nperformed relative to reference images built from the UKIRT Galactic Plane\nSurvey (Lucas et al. 2008).\n\n\nNo new sources are detected to a depth of J = 18.5 mag (AB). Of the 7 radio\nsources detected by the VLA in this region (Ho et al. GCN #35788), source 6\nis detected in both the WINTER and archival UKIRT images, but does not show\nsignificant variability between the two epochs (consistent with that\nreported in Ferro et al. GCN #35803).\n"
+}

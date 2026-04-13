@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 220306B: Swift-XRT refined Analysis",
+  "eventId": "GRB 220306B",
+  "bibcode": "2022GCN.31703....1D",
+  "createdOn": 1646629212000,
+  "circularId": 31703,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. D'Ai (INAF-IASFPA), A. Tohuvavohu (U. Toronto), B. Sbarufatti (PSU),\nD.N. Burrows (PSU), K.L. Page (U. Leicester), A.P. Beardmore (U.\nLeicester), P.A. Evans (U. Leicester), A. Melandri (INAF-OAB), T.\nSbarrato (INAF-OAB) and R. Caputo report on behalf of the Swift-XRT\nteam:\n\nWe have analysed 6.6 ks of XRT data for GRB 220306B (Caputo et al. GCN\nCirc. 31697), from 111 s to 24.3 ks after the  BAT trigger. The data\nare entirely in Photon Counting (PC) mode. The enhanced XRT position\nfor this burst was given by Evans et al. (GCN Circ. 31700).\n\nThe light curve can be modelled with a power-law decay with a decay\nindex of alpha=0.88 (+0.17, -0.12).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.80 (+0.32, -0.29). The\nbest-fitting absorption column is  7.1 (+2.9, -2.3) x 10^21 cm^-2, in\nexcess of the Galactic value of 4.1 x 10^21 cm^-2 (Willingale et al.\n2013). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum  is 4.9 x 10^-11 (7.6 x 10^-11) erg\ncm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     7.1 (+2.9, -2.3) x 10^21 cm^-2\nGalactic foreground: 4.1 x 10^21 cm^-2\nExcess significance: 2.2 sigma\nPhoton index:\t     1.80 (+0.32, -0.29)\n\nIf the light curve continues to decay with a power-law decay index of\n0.88, the count rate at T+24 hours will be 2.3 x 10^-3 count s^-1,\ncorresponding to an observed (unabsorbed) 0.3-10 keV flux of 1.1 x\n10^-13 (1.7 x 10^-13) erg cm^-2 s^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/01095288.\n\nThis circular is an official product of the Swift-XRT team."
+}

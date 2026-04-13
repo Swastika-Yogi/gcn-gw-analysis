@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 250317B: SVOM/VT detection of an optical candidate from VHF data",
+  "editedOn": 1765142021008,
+  "version": 2,
+  "eventId": "GRB 250317B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39755....1P",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 39755,
+  "createdOn": 1742194114581,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "J. T. Palmerio (CEA) reports on behalf of the SVOM/VT team:\n\nAfter the trigger by SVOM/ECLAIRs at 2025-03-17T02:12:08 UTC (Tb), SVOM performed an automatic slew on the burst. SVOM/VT began observing the field at 2025-03-17T02:18:21, 362 seconds after the SVOM trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued source is detected within the error box of SVOM/ECLAIRs (Zhao et al. GCN 39753) using the VT VHF pipeline at ra=211.643617, dec=40.079524 (J2000), corresponding to:\n\nRA (J2000) = 14h06m34.5s \nDec (J2000) = +40:04:46.3s\nwith an uncertainty of 0.5 arcsec.\n\nconsistent with the optical afterglow reported by Watson et al. (GCN 39754)\n\nThe source is detected in both VT_R and VT_B and was fading between the third and fourth VT observing sequences (starting at 5574 and 8474 seconds after the trigger respectively), the magnitudes are given below:\n\ndate-obs | exposure time (s) | mag(AB) | mag err | band\n2025-03-17T03:45:13 | 6x50 | 17.48 | 0.02 | VT_R\n2025-03-17T04:33:33 | 5x50 | 17.82 | 0.01 | VT_R\n2025-03-17T03:45:13 | 6x50 | 18.89 | 0.01 | VT_B\n2025-03-17T04:33:33 | 5x50 | 18.97 | 0.02 | VT_B\n\nThe source was undetected in the first two sequences (starting at 362 and 512 seconds after the trigger, respectively) and is outside the reported SVOM/MXT position.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240112A (long)",
+  "eventId": "GRB 240112A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35554....1K",
+  "createdOn": 1705502809755,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 35554,
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 240112A\n(GECAM-B detection: Wang and Xiong, GCN 35520)\nhas been detected by Konus-Wind, INTEGRAL (SPI-ACS),\nGECAM-B, and Mars-Odyssey (HEND), so far, \nat about 20482 s UT (05:41:22).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  289.407 (19h 17m 38s) +21.459 (+21d 27' 31\")\n Corners:\n  291.869 (19h 27m 29s) +20.713 (+20d 42' 47\")\n  287.138 (19h 08m 33s) +22.071 (+22d 04' 17\")\n  286.938 (19h 07m 45s) +22.067 (+22d 04' 02\")\n  291.666 (19h 26m 40s) +20.731 (+20d 43' 50\")\n ---------------------------------------------\nThe error box area is 809 sq. arcmin, and its maximum\ndimension is 4.8 deg (the minimum one is 3 arcmin).\nThe Sun distance was 42 deg.\n\nThe IPN localization is consistent with, but reduces\nthe area of, the GECAM-B localization (GCN 35520).\nThe position of SGR 1935+2154 is outside the box.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240112_T20481/IPN\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

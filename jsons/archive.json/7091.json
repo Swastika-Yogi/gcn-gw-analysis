@@ -1,0 +1,10 @@
+{
+  "subject": "GRB071112C: Errata of MITSuME Ic band photometry",
+  "eventId": "GRB 071112C",
+  "bibcode": "2007GCN..7091....1Y",
+  "createdOn": 1195088731000,
+  "circularId": 7091,
+  "submitter": "Michitoshi Yoshida at Okayama Astrophysical Obs  <yoshida@oao.nao.ac.jp>",
+  "email": "yoshida@oao.nao.ac.jp",
+  "body": "M. Yoshida, K. Yanagisawa, Y. Shimizu, S. Nagayama, H. Toda (OAO, NAOJ)\nand N. Kawai (Tokyo Tech) report on behalf of the MITSuME collaboration:\n\nThe Ic band photometry results reported in GCN 7082 are not correct.\nThe correct values are 1.5 magnitude brighter than those in GCN 7082.\nWe made a mistake in calculating the zero point magnitudes of our Ic\nband frames. We also checked the results of other two bands (g' and Rc)\nphotometry carefully and found they are correct.\n\nPlease discard the results of GCN 7082. The reviced data are following.\n\nObservation date: 2007-11-12 UT\n\nstart-UT  end-UT    mid-UT     exp-T  g'         Rc         Ic\n---------------------------------------------------------------------\n18:35:34  18:36:34  18:36:04   1min  17.1+-0.1  17.0+-0.1  16.4+-0.1\n18:35:34  18:39:00  18:37:17   3min  17.2+-0.1  17.2+-0.1  16.5+-0.1\n18:39:12  18:45:09  18:42:10   5min  17.9+-0.1  18.0+-0.1  17.1+-0.1\n18:45:19  18:56:20  18:50:49   7min  18.8+-0.2  18.5+-0.2  18.1+-0.2\n18:56:30  19:08:46  18:32:38  10min  19.3+-0.4  19.0+-0.2  >18.3\n19:08:56  19:57:01  19:32:58  40min  >19.5      19.6+-0.2  >18.5\n---------------------------------------------------------------------"
+}

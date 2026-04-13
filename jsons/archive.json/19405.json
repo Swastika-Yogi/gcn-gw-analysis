@@ -1,0 +1,10 @@
+{
+  "subject": "Correction to GCN 19404; GRB 160509A: MAXI/GSC detection",
+  "eventId": "GRB 160509A",
+  "bibcode": "2016GCN.19405....1O",
+  "createdOn": 1462789207000,
+  "circularId": 19405,
+  "submitter": "Taketoshi Yoshii at Tokyo Tech  <yoshii.t.ac@m.titech.ac.jp>",
+  "email": "yoshii.t.ac@m.titech.ac.jp",
+  "body": "Y.Ono (Tokyo Tech), S. Ueno, H. Tomida, S. Nakahira, M. Ishikawa, Y. E. Nakagawa, Y. Sugawara (JAXA), \nT. Mihara, M. Sugizaki, M. Serino, W. Iwakiri, M. Shidatsu, J. Sugimoto, T. Takagi, M. Matsuoka (RIKEN), \nN. Kawai, N.Isobe, S.Sugita, T. Yoshii, Y. Tachibana, T. Fujiwara (Tokyo Tech), \nA. Yoshida, T. Sakamoto, Y. Kawakubo, Y. Kitaoka (AGU), \nH. Tsunemi, R.Imatani (Osaka U.), \nH. Negoro, M. Nakajima, K. Tanaka, T. Masumitsu, T. Kawase (Nihon U.), \nY. Ueda, T. Kawamuro, T. Hori, A. Tanimoto (Kyoto U.), \nY. Tsuboi, Y. Nakamura, R. Sasaki (Chuo U.), \nM. Yamauchi, K. Furuya (Miyazaki U.), \nK. Yamaoka (Nagoya U.)\nreport on behalf of the MAXI team:\n\nThe MAXI/GSC nova alert system triggered a bright uncatalogued X-ray transient source at UT 2016-05-09T09:04:16.\n\nAssuming that the source flux was constant over the transit,\nwe obtain the source position at\n(R.A., Dec) = (312.131 deg, 75.810 deg) = (20 48 31, +75 48 36) (J2000)\nwith a 90% C.L. statistical error of 0.06 deg and an additional systematic uncertainty of 0.1 deg (90% containment radius).\nThe X-ray flux averaged over the scan was 1307 +- 69 mCrab\n(4-10keV, 1 sigma error).\nWithout assumptions on the source constancy,we obtain a rectangular error\nbox for the transient source with the following corners:\n(310.897 deg, 75.728 deg) = (20 43 35, +75 43 40) (J2000)\n(311.105 deg, 75.626 deg) = (20 44 25, +75 37 34) (J2000)\n(313.379 deg, 75.887 deg) = (20 53 30, +75 53 14) (J2000)\n(313.181 deg, 75.991 deg) = (20 52 43, +75 59 27) (J2000)\n\nThere was no significant excess flux in the previous transit at UT 2016-0509T07:32\nwith an upper limit of 20 mCrab."
+}

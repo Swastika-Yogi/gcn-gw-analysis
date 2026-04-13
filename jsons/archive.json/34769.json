@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 230919A",
+  "eventId": "GRB 230919A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34769....1T",
+  "createdOn": 1695735365347,
+  "submitter": "Y. Temiraev at Ioffe Institute <yuri.temiraev@mail.ioffe.ru>",
+  "circularId": 34769,
+  "body": "Y. Temiraev, D. Svinkin, D. Frederiks, M. Ulanov,\nA. Tsvetkova, A. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 230919A\n(Fermi-GBM detection: The Fermi GBM team, GCN Circ. 34737;\nScotton et al., GCN Circ. 34750;\nAstroSat CZTI detection: Navaneeth et al., GCN Circ. 34742;\nSwift/BAT-GUANO detection: DeLaunay et al., GCN Circ. 34747;\nIPN triangulation: Kozyrev et al., GCN Circ. 34752)\ntriggered Konus-Wind at T0=61103.312 s UT (16:58:23.312).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.4 s and has a total duration of ~2.4 s.\nThe emission is seen up to ~4 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230919_T61103/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.37(-2.57,+3.19)x10^-6 erg/cm2,\nand a 16-ms peak flux, measured from T0+0.430 s,\nof 1.44(-0.72,+0.81)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe spectrum of the burst (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.88(-0.25,+0.37)\nand Ep = 1452(-629,+1078) keV (chi2 = 69/83 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.1\n(chi2 = 69/82 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 230309A",
+  "eventId": "GRB 230309A",
+  "bibcode": "2023GCN.33484....1K",
+  "createdOn": 1679063550000,
+  "circularId": 33484,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nA. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe bright, long-duration GRB 230309A\n(AstroSat CZTI detection: Waratkar et al., GCN Circ. 33464)\nwas detected by Konus-Wind, Swift (BAT), AstroSat (CZTI),\nand BepiColombo (MGNS), at about 45138 s UT (12:32:18).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n   88.882 (05h 55m 32s) -62.196 (-62d 11' 45\")\n Corners:\n   88.454 (05h 53m 49s) -63.663 (-63d 39' 48\")\n   88.326 (05h 53m 18s) -63.585 (-63d 35' 05\")\n   89.273 (05h 57m 06s) -60.728 (-60d 43' 40\")\n   89.391 (05h 57m 34s) -60.806 (-60d 48' 20\")\n ---------------------------------------------\nThe error box area is 712 sq. arcmin, and its maximum\ndimension is 2.9 deg (the minimum one is 4 arcmin).\nThe Sun distance was about 90 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB230309_T45138/IPN/\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

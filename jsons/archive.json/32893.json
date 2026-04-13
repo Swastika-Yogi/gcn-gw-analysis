@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221028A, Swift-BAT refined analysis",
+  "eventId": "GRB 221028A",
+  "bibcode": "2022GCN.32893....1P",
+  "createdOn": 1667145893000,
+  "circularId": 32893,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC),\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC),\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\nT. Parsotan (GSFC/UMBC), T. Sakamoto (AGU),\nM. Stamatikos (OSU) (i.e. the Swift-BAT team):\n\nUsing the data set from T-240 to T+962 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 221028A (trigger #1131910)\n(Lien et al., GCN Circ. 32874).  The BAT ground-calculated position is\nRA, Dec = 314.198, 41.082 deg which is\n   RA(J2000)  =  20h 56m 47.5s\n   Dec(J2000) = +41d 04' 56.0\"\nwith an uncertainty of 1.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 53%.\n\nThe mask-weighted light curve shows a short pulse that starts and peaks\nat ~T0 and ends at ~T+2, followed by several overlapping pulses that lasts\ntill ~T+84 s. The structure resembles those of short GRBs with extended\nemission.\nT90 (15-350 keV) is 57.1 +- 15.0 sec (estimated error including\nsystematics).\n\nDue to current detector issues, data below ~50 keV are inaccurate. Thus,\nonly data above 50 keV are used for spectral analysis. The time-averaged\nspectrum from T-0.1 to T+84.0 sec is best fit by a simple power-law model.\nThe power law index of the time-averaged spectrum is 1.367 +- 0.325.\nThe fluence in the 15-150 keV band is 1.51 +- 0.14 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+0.56 sec in the 15-150 keV band\nis 0.8 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/1131910/BA/"
+}

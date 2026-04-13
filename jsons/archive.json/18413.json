@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 151006A",
+  "eventId": "GRB 151006A",
+  "bibcode": "2015GCN.18413....1G",
+  "createdOn": 1444302292000,
+  "circularId": 18413,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, A. Kozlova and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, hard-spectrum GRB 151006A\n(Swift-BAT trigger #657750: Kocevski et al., GCN 18398;\nCummings  et al., GCN 18409;\nFermi GBM detection: Roberts & Meegan, GCN 18404)\ntriggered Konus-Wind at T0=35697.746 s UT (09:54:57.746).\n\nThe burst light curve shows a single FRED-like pulse\nwith a total duration of ~114 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 5.30(-0.87,+0.92)x10^-5 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+2.928 s,\nof 5.60(-2.26,+2.23)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+73.984 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -1.26(-0.23,+0.42),\nthe high energy photon index beta = -1.73(-0.13,+0.09),\nthe peak energy Ep = 223(-132,+514) keV,\nchi2 = 85/97 dof.\n\nThe spectrum near the peak count rate\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.40(-0.06,+0.07),\nand Ep = 2600(-1200,+2900) keV (chi2 = 71/98 dof).\nFitting by the GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -1.7 (chi2 = 71/97 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB151006_T35697/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

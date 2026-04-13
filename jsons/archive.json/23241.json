@@ -1,0 +1,10 @@
+{
+  "subject": "GRB180914B: Swift UVOT detection of an optical afterglow",
+  "eventId": "GRB 180914B",
+  "bibcode": "2018GCN.23241....1P",
+  "createdOn": 1537113906000,
+  "circularId": 23241,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. Paul M. Kuin reports on behalf of the Swift-UVOT team:\n\nSwift-UVOT has performed follow-up observations of the\nFermi/LAT-detected burst GRB 180914B (Bissaldi et al. GCN Circ. 23232)\nin a series of observations tiled on the sky.\nWithin the error of the location of the XRT source (D'Ai, GCN Circ. 23236)\nwe detect a source that appears to be fading.\nThe UVOT source location is RA = 332.2609, Dec = 24.5823 deg which is\n\nRA = 22:09:25.53 (J2000)\nDec = +25:03:43.8 (J2000)\n\nwhich is consistent with Zheng and Filipenko (GCN Circ. 23237).\nThe preliminary magnitude using the UVOT photometric calibration\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) is\n\nfilter Tstart  Tend   exposure magnitude\n u     8.35e4  8.37e4   76.5   18.90 +- 0.23\n u     8.70e4  8.74e4  373.0   18.87 +- 0.11\n u     9.27e4  9.29e4  1.93.8  19.05 +- 0.17A\n\nTimes in seconds since Tzero=2018-09-14 18:22:40 UT.\n\nNo correction has been made for Galactic interstellar reddening of\nE(B-V) = 0.07 (Schlafy&Finkbeiner, 2011 ApJ 737, 103)."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120724A: Swift-XRT refined Analysis",
+  "eventId": "GRB 120724A",
+  "bibcode": "2012GCN.13514....1D",
+  "createdOn": 1343155807000,
+  "circularId": 13514,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P. D'Avanzo (INAF-OAB), V. D'Elia (ASDC), A. Maselli  (INAF-IASFPA),\nJ.A. Kennea (PSU), M.C. Stroh (PSU), D.N. Burrows (PSU), A.P. Beardmore\n(U. Leicester), P.A. Evans (U. Leicester), and O.M. Littlejohns (U.\nLeicester) report on behalf of the Swift-XRT team:\n\nWe have analysed 6.4 ks of XRT data for GRB 120724A (D'Avanzo  et al.\nGCN Circ. 13510), from 115 s to 13.0 ks after the  BAT trigger. The\ndata comprise 40 s in Windowed Timing (WT) mode with the remainder in\nPhoton Counting (PC) mode. The best available XRT position  (using the\npromptly downlinked event data, the XRT-UVOT alignment and matching\nUVOT field sources to the USNO-B1 catalogue) is RA, Dec = 245.1800,\n3.5081 which is equivalent to:\n\nRA (J2000): 16 20 43.19\nDec(J2000): +03 30 29.0\n\nwith an uncertainty of 2.2 arcsec (radius, 90% confidence).\n\nThe light curve can be modelled with an initial power-law decay with an\nindex of alpha=2.78 (+/-0.22), followed by a break at T+851 s to an\nalpha of 0.48 (+0.18, -0.79).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.88 (+0.20, -0.09). The\nbest-fitting absorption column is  consistent with the Galactic value\nof 4.3 x 10^20 cm^-2 (Kalberla et al. 2005). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum  is 3.7 x 10^-11 (4.1 x 10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nGalactic foreground: 4.3 x 10^20 cm^-2\nIntrinsic column:    0 (+9.3, -0) x 10^20 cm^-2 at z=1.48\nPhoton index:\t     1.88 (+0.20, -0.09)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00528443.\n\nThis circular is an official product of the Swift-XRT team."
+}

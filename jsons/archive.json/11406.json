@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101114A: Swift-XRT candidate afterglow detection and analysis",
+  "eventId": "GRB 101114A",
+  "bibcode": "2010GCN.11406....1E",
+  "createdOn": 1289813457000,
+  "circularId": 11406,
+  "submitter": "Phil Evans at U of Leicester  <pae9@star.le.ac.uk>",
+  "email": "pae9@star.le.ac.uk",
+  "body": "P.A. Evans (U. Leicester) reports on behalf of the Swift-XRT team:\n\nWe have analysed 7.9 ks of XRT data for GRB 101114A (Sakamoto et al. et\nal. GCN Circ. 11405), from 73.3 ks to 91.1 ks after the BAT trigger.\nThe data are entirely in Photon Counting (PC) mode. An uncatalogued\nX-ray source is detected inside the BAT error circle; the source shows\nweak (~1-sigma) evidence of fading in this observation. Using 1631 s of\nPC mode data and 1 UVOT image, we find an enhanced XRT position (using\nthe XRT-UVOT alignment and matching UVOT field sources to the USNO-B1\ncatalogue): RA, Dec = 303.21110, +14.03270 which is equivalent to:\n\nRA (J2000): 20h 12m 50.67s\nDec(J2000): +14d 01' 57.6\"\n\nwith an uncertainty of 2.8 arcsec (radius, 90% confidence). This is 64\narcsec from the BAT position of Sakamoto et al. (GCN Circ. 11405)\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.1 (+1.1, -0.6). The\nbest-fitting absorption column is 1.6 (+2.5, -0.3) x 10^21 cm^-2,\nconsistent with the Galactic value of 1.2 x 10^21 cm^-2 (Kalberla et al.\n2005). The counts to observed (unabsorbed) 0.3-10 keV flux conversion\nfactor deduced from this spectrum is 3.7 x 10^-11 (5.5 x 10^-11) erg\ncm^-2 count^-1.\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00020150.\n\nThis circular is an official product of the Swift-XRT team."
+}

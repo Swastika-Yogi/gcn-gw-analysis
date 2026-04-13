@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070810A: Swift-BAT refined analysis",
+  "eventId": "GRB 070810A",
+  "bibcode": "2007GCN..6748....1M",
+  "createdOn": 1186773187000,
+  "circularId": 6748,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <jayc@milkyway.gsfc.nasa.gov>",
+  "email": "jayc@milkyway.gsfc.nasa.gov",
+  "body": "C. Markwardt (GSFC/UMD), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC), \nH. Krimm (GSFC/USRA), D. Palmer (LANL), A. Parsons (GSFC),\nT. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU),\nJ. Tueller (GSFC), T. Ukwatta (GWU)\n \nUsing the data set from T-240 to T+804 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 070810A (trigger #287364) (Cummings, \net al., GCN Circ. 6733).  The BAT ground-calculated position is\nRA, Dec = 189.947, 10.747 deg which is \n   RA(J2000) = 12h 39m 47.2s \n   Dec(J2000) = 10d 44' 48\" \nwith an uncertainty of 1.3 arcmin, (radius, sys+stat, 90% containment). This\nis 1.0 arcmin from the optical and refined XRT positions (Chester et al. \nGCN circ. 6735 and Evans et al. GCN circ. 6736). The partial coding was 53%.\n \nThe mask-weighted light curve shows a single peak with softening spectral\nevolution. T90 (15-350 keV) is 11.0 +- 1 sec (estimated error including \nsystematics).\n \nThe time-averaged spectrum from T-3.1 to T+14.3 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n2.04 +- 0.14. The fluence in the 15-150 keV band is \n6.9 +- 0.6 x 10^-07 erg/cm2. The 1-sec peak photon flux measured from \nT-0.11 sec in the 15-150 keV band is 1.9 +- 0.2 ph/cm2/sec.  All the quoted \nerrors are at the 90% confidence level."
+}

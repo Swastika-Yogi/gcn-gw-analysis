@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 200829A: AGILE/MCAL detection",
+  "eventId": "GRB 200829A",
+  "bibcode": "2020GCN.28314....1U",
+  "createdOn": 1598729020000,
+  "circularId": 28314,
+  "submitter": "Alessandro Ursi at INAF/IAPS  <alessandro.ursi@gmail.com>",
+  "email": "alessandro.ursi@gmail.com",
+  "body": "A. Ursi (INAF/IAPS), C. Pittori (SSDC, and INAF/OAR), M. Tavani (INAF/IAPS,\nand Univ. Roma Tor Vergata), A. Argan, M. Cardillo, C. Casentini, Y.\nEvangelista, G. Piano (INAF/IAPS), F. Lucarelli, F. Verrecchia (SSDC, and\nINAF/OAR), A. Bulgarelli, V. Fioretti, F. Fuschino, N. Parmiggiani\n(INAF/OAS-Bologna), M. Marisaldi (INAF/OAS-Bologna, and Bergen University),\nM. Pilia, A. Trois (INAF/OA-Cagliari), I. Donnarumma (ASI), F. Longo (Univ.\nTrieste and INFN Trieste), A. Giuliani (INAF/IASF-Mi), report on behalf of\nthe AGILE Team:\n\nThe AGILE Mini-CALorimeter (MCAL) detected GRB 200829A at T0 = 2020-08-29\n13:58:30.90 +/- 0.01 s (UTC), reported by Swift-BAT (Siegel et al., GCN\n#28307) and Swift-UVOT (Kuin et al., GCN #28311).\n\nThe event lasted about 5.6 s and it released a total number of ~15550\ncounts in the detector (in the 0.4-100 MeV energy range), above an average\nbackground rate of 570 Hz.\n\nThe time-integrated spectrum of the burst can be fitted in the energy range\n0.4-20 MeV with a single power-law with ph.ind. = 2.26 -0.03/+0.03,\nresulting in a reduced chi-squared of 1.67 (62 d.o.f.) and a fluence of\n6.2e-05 ergs/cm^2 (90% confidence level), in the same energy range.\n\nThe MCAL light curve can be found at\nhttp://www.agilescienceapp.it/notices/GRB_069336_525794310.907011.png .\n\nThe event is also clearly visible in the scientific ratemeters (RMs) of the\nSuperAGILE (18-60 keV), MCAL (0.4-100 MeV), and Anti-Coincidence (50-200\nkeV) detectors. Their light curves can be found at\nhttp://www.agilescienceapp.it/notices/GRB200829A_AGILE_RMs.png .\n\nThe AGILE/MCAL detector is a CsI detector with a 4 pi FoV, sensitive in the\nenergy range 0.4-100 MeV. Additional analysis of AGILE data is in progress.\nAutomatic MCAL GRB alert Notices can be found at:\nhttps://gcn.gsfc.nasa.gov/agile_mcal.html."
+}

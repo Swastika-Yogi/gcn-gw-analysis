@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 230827B / GRB 230827256: Fermi GBM Observation",
+  "eventId": "GRB 230827B",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.34584....1H",
+  "createdOn": 1693230768716,
+  "circularId": 34584,
+  "submitter": "rachel.hamburg@ijclab.in2p3.fr",
+  "body": "R. Hamburg (CNRS/IJCLab) and C. Meegan (UAH) report on behalf of\nthe Fermi Gamma-ray Burst Monitor Team:\n\n\"At 06:08:30.73 UT on 27 August 2023, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 230827B (trigger 714809315/230827256).\nThe optical afterglow of GRB 230827B was also detected by ZTF (GCN 34574),\nGIT (GCN 34576), and AKO (GCN 34579). The location of the afterglow is \nconsistent with the GBM on-ground calculated location, which is \nRA = 299.32, Dec = +56.47 (J2000 degrees, equivalent to \nJ2000 19h 57m 17s, +56d 28' 12\"), with a statistical \nuncertainty of 2.17 degrees.\n\nThe angle from the Fermi LAT boresight is 140 degrees.\n\nThe GBM light curve shows a multi-peaked lightcurve with a duration (T90)\nof about 11 s (50-300 keV). The time-averaged spectrum\nfrom T0+0.002 to T0+10.240 s is best fit by\na power law function with an exponential high-energy cutoff.\nThe power law index is -1.37 +/- 0.05 and the cutoff energy,\nparameterized as Epeak, is 352 +/- 52 keV.\nA Band function fits the spectrum equally well\nwith Epeak= 256 +/- 51 keV, alpha = -1.28 +/- 0.08 and beta = -2.2 +/- 0.2.\n\nThe event fluence (10-1000 keV) in this time interval is\n(1.08 +/- 0.04)E-05 erg/cm^2. The 1-sec peak photon flux measured\nstarting from T0+4.7 s in the 10-1000 keV band is 16.4 +/- 0.9 ph/s/cm^2.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog:\nhttps://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermigbrst.html\n\nFor Fermi GBM data and info, please visit the official Fermi GBM Support Page:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/\""
+}

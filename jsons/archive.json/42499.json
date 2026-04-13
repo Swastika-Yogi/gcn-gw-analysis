@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 251028A: BALROG localization (Fermi Trigger 783314796 / GRB 251028143)",
+  "eventId": "GRB 251028A",
+  "submittedHow": "email",
+  "bibcode": "2025GCN.42499....1P",
+  "createdOn": 1761625712439,
+  "submitter": "Jochen Greiner at MPE <jcgrog@mpe.mpg.de>",
+  "circularId": 42499,
+  "body": "T. Preis (University of Innsbruck) & J. Greiner (MPE Garching) report:\n\nThe public trigdat data of the Fermi Gamma-ray Burst Monitor (GBM) trigger\n783314796 at 03:26:31 on 28 Oct. 2025 were automatically fitted for spectrum\nand sky location with BALROG (Burgess et al. 2018, MNRAS 476, 1427;\nBerlato et al. 2019, ApJ 873, 60).\n\nThe best-fit position is:\nRA(2000.0) = 145.7 deg\nDecl.(2000.0) = 16.8 deg\nThe 1 sigma statistical error radius is 2.1 deg.\nWe estimate an additional systematic error of 2 deg.\n\nFurther details are available at:\nhttps://grb.mpe.mpg.de/grb/GRB251028143/\n\nThe Healpix map can be downloaded from:\nhttps://grb.mpe.mpg.de/grb/GRB251028143/healpix\n\nThe location parameters are available as JSON at:\nhttps://grb.mpe.mpg.de/grb/GRB251028143/json\n\n                        \n"
+}

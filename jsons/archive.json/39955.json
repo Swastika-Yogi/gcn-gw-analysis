@@ -1,0 +1,11 @@
+{
+  "subject": "SVOM/sb25033102: SVOM detection of an X-ray transient",
+  "eventId": "sb25033102",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39955....1M",
+  "createdOn": 1743392423150,
+  "circularId": 39955,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Yinuo MA, Chao WU, Donghua ZHAO, Wenjin XIE (NAOC), Hatsune GOTO (CEA, Kanazawa Univ) on behalf of the SVOM mission team.\n\nAt 2025-03-31T02:04:18 UTC (Tb) SVOM/ECLAIRs triggered on the X-ray transient labelled sb25033102 (SVOM burst-id sb25033102). The following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThis transient was only detected by the Count-Rate Trigger (CRT), which produced a sequence of 1 alerts. CRT provided the alert with the best signal-to-noise-ratio (SNR) of 15.10 in the [8-120] keV energy band over a time window of 20.48 seconds starting at Tb.\n\nThe localization of the best alert is R.A., Dec 289.235, -18.527 degrees:\nRA (J2000) = 19h16m56.51s\nDec (J2000) = -18d31m37.10s\nwith a 90% C.L. radius of 5.48 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nWe notice that this transient also triggered SVOM/ECLAIRs at the 1.57 hours before, at 2025-03-31T00:29:51.04 (SVOM/sb25033101). Due to an external ToO was performing by SVOM, no immediate slew was performed on this transient.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\n\nThe Burst Advocate (BA) on shift for this burst is Yinuo MA: mayn@bao.ac.cn\nPlease contact the BA by email if you require additional information regarding the SVOM follow-up of this burst.\n"
+}

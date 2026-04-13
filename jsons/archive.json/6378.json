@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070506: Swift/UVOT Observations",
+  "eventId": "GRB 070506",
+  "bibcode": "2007GCN..6378....1L",
+  "createdOn": 1178506736000,
+  "circularId": 6378,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (SSAI/GSFC) and C. Pagani (PSU) report on behalf of the \nSwift/UVOT team:\n\nThe Swift/UVOT began taking data in the field of GRB070506 459s after \nthe BAT trigger (Pagani et al., GCN 6375). A fading afterglow is weakly \ndetected in the White, B and V UVOT  filters, but not in the U or UV \nfilters.      We use the combined white image to obtain an improved \nposition of\n\nRA(J2000) = 23h 08m 52.39s  Dec(J2000) = +10d 43' 20.8\"\n\nwith a 1-sigma uncertainty radius of about 0.5\".    This is 0.5\" from \nthe UVOT position reported by Pagani et al. (GCN 6375) and 2.9\" from the \nrefined XRT position reported by Pagani et al. (GCN 6377).\n\nPhotometry results are given for the 7 UVOT filters below.\n\n           Tstart   Tstop    Exp          Mag\n\nWhite        459      558      98         19.7+/-0.18\n             868      967      98         19.9+/-0.22\n            7371     7570     196         20.4+/-0.28\n\nV            974     1373     393         19.1+/-0.2\n            7781     7980     197        >19.3 (3 sigma)\n \nB            638     2245     136         19.8+/-0.34\n            7167     7366     197        >20.4 (3 sigma)\n\nU            638     5853     261        >20.1 (3 sigma)\nUVW1         614     5741     352        >20.4 (3-sigma)\nUWM2        7984     8142     155        >19.6 (3-sigma)\nUVW2         840     7775     294        >20.4 (3-sigma)\n\nNo correction has been made for the expected Galactic reddening of \nE(B-V)=0.04"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240619C: NuSTAR automated detection of the GRB",
+  "eventId": "GRB 240619C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36718....1G",
+  "createdOn": 1718933089879,
+  "submitter": "Brian Grefenstette at Caltech/NuSTAR <bwgref@srl.caltech.edu>",
+  "circularId": 36718,
+  "format": "text/plain",
+  "body": "B. Grefenstette (Caltech) reports on behalf of the NuSTAR Search for INteresting Gamma-ray Signals (SINGS) working group:\n\nThe NuSTAR SINGS working group reports the detection of prompt emission from the Long GRB 240619C in both the NuSTAR CsI anti-coincidence shields. This GRB was identified through a blind search using the CsI shield rates. Details of the search algorithm will be described in a future paper.\n\nThe NuSTAR SINGS algorithm triggered at 2024-06-19 23:44:46 (with a resolution ~5-seconds). This is consistent with the Astrosat CTZI detection (Waratkar et al, GCN circ. 36711). Using the GRB X-ray localization from Fermi (Bala, et al., GCN Circ. 36716), we estimate that the GRB was above the Earth’s horizon as seen by NuSTAR and roughly 20-deg from the telescope boresight.\n\nThe NuSTAR CsI shield data are recorded at 1 Hz. The GRB appears to be composed of multiple short, unresolved peaks superposed on broader emission. We estimate the duration at ~20-25-s, but the low overall SNR of the GRB emission makes an accurate estimate of T90 unfeasible. The shield rates are typically around 1,500 - 2,000 cps throughout the burst (typical background rates are 1,000 cps).\n\nWe confirmed that there was no significant solar activity during this period that may also produce transients in the CsI shields.\n\nLightcurves and analysis for this GRB can be found here:\n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/reports/2024/240619C/\n\nInformation on NuSTAR SINGS can be found here: \n\nhttps://nustarsoc.caltech.edu/NuSTAR_Public/grbs/\n\nNuSTAR is a NASA Small Explorer mission led by Caltech and managed by JPL for NASA’s Science Mission Directorate in Washington. \n"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 141207A",
+  "eventId": "GRB 141207A",
+  "bibcode": "2014GCN.17155....1G",
+  "createdOn": 1418138919000,
+  "circularId": 17155,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R. Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, hard-spectrum GRB 141207A (Fermi-LAT detection: \nArimoto et al., GCN 17146; Fermi-GBM detection: Burns, GCN Circ. 17150) \ntriggered Konus-Wind at T0=69081.298 s UT (19:11:21.298).\n\nThe burst light curve shows two pulses started at ~T0-2.3 s with a total \nduration of ~25 s.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB141207_T69081/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 4.87(-0.34,+0.38)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+6.224 s,\nof 9.62(-2.26,+2.27)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+24.832 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.50 (-0.13,+0.14)\nand Ep = 723(-72,+87) keV (chi2 = 105/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 104/97 dof)\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

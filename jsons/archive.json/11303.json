@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100925A/MAXI J1659-152: Galactic origin from SED analysis",
+  "eventId": "GRB 100925A",
+  "bibcode": "2010GCN.11303....1X",
+  "createdOn": 1285461863000,
+  "circularId": 11303,
+  "submitter": "Dong Xu at Weizmann Inst  <dong@astro.ku.dk>",
+  "email": "dong@astro.ku.dk",
+  "body": "Dong Xu (Weizmann Institute) reported on a larger collaboration:\n\nGRB100925A happened in the error circle of MAXI J1659-152 (Negoro et\nal., ATel 2873; Magano et al., GCN 11296). Spectroscopy or a broadband\nSED is critical to pin down its origin. The Swift UVOT and XRT data\nwere analyzed, covering 2000-1x10^4 s since the BAT trigger.\nGenerally, UVOT light curves are rather flat as the X-ray does.\n\nThe flux densities in the six UVOT filters without Galactic extinction\ncorrection are rather low compared with the X-ray flux density. The\nUVW2 flux density is almost comparable to that of the X-ray.  Assuming\nthe source being extragalactic and correction of E(B-V)~0.61 (Magano\net al., GCN 11296) applied, then UVOT flux densities are too high\ncompared with the downward extrapolation of the X-ray, if interpreted\nwith synchrotron radiation mechanism. Additionally, the UVOT spectral\nindex has \\beta~2 (F_\\nu \\propto \\nu^\\beta) in this case, which is\nunusual for GRB afterglows. To make UVOT-XRT SED explained by one\nsingle mechanism, a moderate extinction is required. We found\nE(B-V)~0.35 would naturally give rise to a good SED modeling: the\nsynchrotron radiation lies in the slow cooling phase with the minimum\nfrequency ~3x10^15 Hz, above which X-ray has \\beta_X~-(p-1)/2~0.7\n(i.e., p~2.4) and below which UVOT has \\beta_opt~1/3. Therefore, we\nsuggest this source is of Galactic origin.\n\nIf the above synchrotron mechanism governs the broadband SED from\nradio to X-ray, then MAXI J1659-152 is likely not detectable at radio,\nespecially when the synchrotron-self absorption frequency is above the\nradio band. Therefore, radio follow-up is encouraged.\n\n[GCN OPS NOTE(28sep10): Per auther's request, \"100525A\" was changed\nto \"100925A\" in both the Subject line and text.]"
+}

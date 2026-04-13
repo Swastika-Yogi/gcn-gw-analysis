@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 221024A: Swift/UVOT UV upper limits",
+  "eventId": "GRB 221024A",
+  "bibcode": "2022GCN.32848....1K",
+  "createdOn": 1666709684000,
+  "circularId": 32848,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin and R. Brivio report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB221024A\n127 seconds after the BAT trigger (Brivio et al., GCN Circ. 32827).\nThe UVOT could not observe in the u,b,v or white filters due to the\nnearby bright star nu uMa (V=3.49, U=6.44).  A source detection has\nbeen reported by Strobl et al. (GCN Circ. 32838) and by Swain et al.\n(GCN Circ. 32841) with r' = 18.36 at 9.12 hours after the Trigger.\n\nUVOT obtained images in uvw1, uvm2 and uvw2. Visual inspection shows\nno credible source in the initial images with upper limits of 19.7 mag.\n\nIn the uvm2 filter which has no red leak we obtained deeper limits:\n\nfilter   tstart(s)   tstop(s) exposure 3-sigma UL\nuvm2     23992       36065      609      >21.3\nuvm2     51885       52503     3306      >20.3\n\nThe limits in the UV are about 3 mag. below the reported detections\nin r', which may suggest a redshift larger than 1.5.\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.05 in the direction of the burst\n(Schlegel et al. 1998)."
+}

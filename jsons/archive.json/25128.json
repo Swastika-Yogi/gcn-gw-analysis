@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190719C: Swift/UVOT Upper Limits",
+  "eventId": "GRB 190719C",
+  "bibcode": "2019GCN.25128....1K",
+  "createdOn": 1563640347000,
+  "circularId": 25128,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (UCL-MSSL) and E. Ambrosi (INAF-IASFPA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 190719C\n71 s after the BAT trigger (Ambrosi et al., GCN Circ. 25106).\nNo optical afterglow consistent with the XRT position is detected in the\ninitial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            71          221          147         >20.6\nu_FC               283          533          246         >20.6\nwhite               71          756          186         >20.8\nv                  613          807           39         >18.7\nb                  538          732           39         >19.9\nu                  283          706          265         >20.5\nw1                 662          856           39         >19.2\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.04 in the direction of the burst\n(Schlegel et al. 1998).\n\nThe upper limits are consistent with the faint candidate\nafterglow reported by Malesani et al. (GCN Circ. 25110)."
+}

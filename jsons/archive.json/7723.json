@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080514B: Swift-XRT analysis",
+  "eventId": "GRB 080514B",
+  "bibcode": "2008GCN..7723....1P",
+  "createdOn": 1210839544000,
+  "circularId": 7723,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page, A.P. Beardmore (U. Leicester), S. Mereghetti (INAF - IASF \nMilano), M. Feroci and M. Tavani (INAF/IASF Roma) report on behalf of the \nSwift-XRT and AGILE teams:\n\nFollowing a ToO request, Swift-XRT started observing the field of GRB \n080514B at 20:12 on 14th May, about 37 ks after the trigger. Within the \nSuperAGILE/IPN error box, there are two sources detected, one of which is \nmuch brighter and appears to be fading. We therefore believe this to be \nthe X-ray afterglow of the GRB.\n\nUsing 925 s of overlapping XRT Photon Counting mode and UVOT data, we find \nan astrometrically corrected X-ray position (using the XRT-UVOT alignment \nand matching UVOT field sources to the USNO-B1 catalogue): RA, Dec = \n322.84426, 0.70843 which is equivalent to:\n\nRA (J2000):   21 31 22.62\nDec (J2000): +00 42 30.3\n\nwith an uncertainty of 1.6 arcsec (radius, 90% confidence). This position \nis 1.7 arcsec from the i-filter object mentioned by de Ugarte Postigo et \nal., in GCN Circ. 7719.\n\nA spectrum of the three orbits of Photon Counting (PC) mode data (6 ks of \ndata, spanning 37-49 ks after the trigger) can be modelled with an \nabsorbed power-law of Gamma = 2.06 +0.35/-0.31 and NH = (1.2 \n+0.8/-0.6)x10^21 cm^-2, which is slightly in excess of the Galactic value \nof 3.75x10^20 cm^-2. The observed (unabsorbed) 0.3-10 keV flux is \n2.34x10^-12 (3.14x10^-12) erg cm^-2 s^-1. This corresponds to an observed \ncounts to flux conversion of 1 count = 3.96x10^-11 erg cm^-2.\n\nThe light-curve can be fitted with a single power-law, with a slope of \nalpha = 1.5 +/- 1.0. If the light-curve continues to follow this decay, \nthe count rate at 48 hours is predicted to be 6.6x10^-3 count s^-1 (an \nobserved flux of 2.6x10^-13 erg cm^-2 s^-1).\n\nThis circular is an official product of the Swift-XRT team."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090621: Swift-XRT Team refined analysis",
+  "eventId": "GRB 090621",
+  "bibcode": "2009GCN..9543....1P",
+  "createdOn": 1245586685000,
+  "circularId": 9543,
+  "submitter": "Kim Page at U.of Leicester  <kpa@star.le.ac.uk>",
+  "email": "kpa@star.le.ac.uk",
+  "body": "K.L. Page (U. Leicester) & P.A. Curran (UCL-MSSL) report on behalf of the \nSwift-XRT team:\n\nWe have analysed the first four orbits of XRT data obtained for GRB \n090621 (Curran et al., GCN Circ. 9540), comprising 192 s of Windowed \nTiming (WT) mode and 6.4 ks of Photon Counting (PC) mode. The refined XRT \nposition is RA, Dec = 11.01982, 61.94115, which is equivalent to\n\nRA (J2000) =  00 44 04.76 \nDec(J2000) = +61 56 28.1\n\nwith an uncertainty of 3.6 arcsec (radius, 90% containment).\n\nThe X-ray light-curve shows a large increase in emission peaking at 264 s \nafter the initial trigger, corresponding to the time of the second BAT \ntrigger (Curran et al., GCN Circ. 9540). The underlying decay, however, \ncan be parameterised as a single power-law with alpha = 0.81 +/- 0.04.\n\nAs is common, there is clear spectral evolution during the flare. A \nspectrum extracted from the PC mode data after the flare subsides (500 s \nafter the trigger) can be modelled with a power-law of Gamma = 2.07 \n+0.37/-0.35 and a total absorbing column of (1.5 +/- 0.4)x10^22 cm^-2; the \nGalactic column in this direction is 5.6x10^21 cm^-2 (Kalberla et al. \n2005). Using this spectrum, the counts to observed (unabsorbed) flux \nconversion factor is 6.3x10^-11 (1.5x10^-10) erg cm^-2 count^-1.\n\nIf the light-curve continues to decay with alpha ~ 0.81, the predicted \ncount rate at 24 hours is 0.015 count s^-1, corresponding to an observed \n(unabsorbed) flux of 9.5x10^-13 (2.2x10^-12) erg cm^-2 s^-1.\n\nThis circular is an official product of the Swift-XRT team."
+}

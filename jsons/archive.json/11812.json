@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110319A: Swift/UVOT Detection",
+  "eventId": "GRB 110319A",
+  "bibcode": "2011GCN.11812....1S",
+  "createdOn": 1300547956000,
+  "circularId": 11812,
+  "submitter": "Mike Siegel at PSU/Swift MOC  <siegel@astro.psu.edu>",
+  "email": "siegel@astro.psu.edu",
+  "body": "M. H. Siegel (PSU), S. T. Holland (CRESST/USRA/GSFC) and A. Melandri  \n(INAF-OAB)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110319A\n65s after the BAT trigger (Melandri et al, GCN Circ 11807). We identify\nan optical afterglow near the enchanced XRT position given by Melandri\net al. (GCN Circ. 11810).  The transient is only detected in the optical\nfilters and shows fading between the first and second orbits.\n\nThe preliminary UVOT position is:\n\n     RA (J2000)  23:46:00.69  =  356.50287 (deg)\n    Dec (J2000) -66:00:40.4   =  -66.01122 (deg)\n\nwith an estimated uncertainty of 0.44 arcsec (radius, 90% confidence,\nstatistical + systematic).  Preliminary 3-sigma upper limits and  \nmagnitudes\nusing the UVOT photometric system (Poole et al. 2008, MNRAS, 383, 627)  \nfor the\nexposures are:\n\nFilter    T_start(s) T_stop(s)  Exp(s)   Mag\nwhite (fc)      65      215    147     18.36+-0.07\nwhite         3924     5560    393     20.32+-0.22\nv             4336     5971    393    >19.56\nb             3719     5355    393     19.51+-0.21\nb            11317    11950    615    >20.63\nu              277      395    115     18.13+-0.13\nu             4950    11310   1081     19.76+-0.18\nuvw1          4745     4945    196    >19.72\nuvw1          9497    10397    885    >20.58\nuvm2          4540     4740    196    >19.64\nuvm2          5976     6172    193    >19.69\nuvw2          4131     4330    196    >19.91\nuvw2          5566     5766    196    >19.91\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998)."
+}

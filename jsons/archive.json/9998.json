@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 091003A: Suzaku WAM observation of the prompt emission",
+  "eventId": "GRB 091003A",
+  "bibcode": "2009GCN..9998....1K",
+  "createdOn": 1254883390000,
+  "circularId": 9998,
+  "submitter": "Kenta Kono at Miyazaki U  <kenta0514@astro.miyazaki-u.ac.jp>",
+  "email": "kenta0514@astro.miyazaki-u.ac.jp",
+  "body": "K. Kono, E. Sonoda, N. Ohmori, K. Noda, H. Hayashi,\nA. Daikyuji, Y. Nishioka, M. Yamauchi (Univ. of Miyazaki),\nY. Hanabata, T. Uehara, T. Takahashi, Y. Fukazawa (Hiroshima U.),\nM. Ohno, M. Suzuki, M. Kokubun, T. Takahashi (ISAS/JAXA),\nW. Iwakiri, M. Tashiro, Y. Terada, A. Endo, K. Onda,\nT. Sugasahara (Saitama U.), Y. Urata (NCU),\nT. Enoto, K. Nakazawa, K. Makishima (Univ. of Tokyo),\nK. Yamaoka, S. Sugita (Aoyama Gakuin U.), Y. E. Nakagawa,\nT. Tamagawa (RIKEN), S. Hong (Nihon U.), N. Vasquez (Tokyo Tech.),\non behalf of the Suzaku WAM team, report:\n\nThe long GRB 091003A\n(Fermi-GBM trigger 276237347 / 091003191 ; A. Rau et al., GCN 9983 ; J.\nMcEnery et al., GCN 9985)\ntriggered the Suzaku Wide-band All-sky Monitor (WAM) which covers an\nenergy range of 50 keV - 5 MeV at 04:35:45.586 UT (=T0).\n\nThe observed light curve shows a multi-peaked structure\nstarting at T0-2 s and ending at T0+23 s, with a total duration (T90) of\nabout 21 s.\n\nThe fluence in 100 - 1000 keV was 1.98(-0.14, +0.08)x10-5 erg/cm2.\nThe 1-s peak flux measured from T0+18 s was 7.53(-1.28, +0.39)\nphotons/cm2/s in the same energy range.\n\nPreliminary result shows that the time-averaged spectrum from\nT0-2 s to T0+23 s is well fitted by a power-law with exponential cutoff\nmodel:\ndN/dE ~ E^{-alpha} * exp(-(2-alpha)*E/Epeak) with\nalpha 1.19(-0.36, +0.29), and\nEpeak 576(-72, +106) keV (chi2/d.o.f. = 21.5/24).\n\nDue to the brightness of this burst, a 3% systematic error\nwas added for low energy channels.\nAll the quoted errors are at 90% confidence level,\n\nThe light curves for this burst are available at:\nhttp://www.astro.isas.jaxa.jp/suzaku/HXD-WAM/WAM-GRB/grb/trig/grb_table.html"
+}

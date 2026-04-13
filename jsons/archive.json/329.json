@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 990510: optical observations",
+  "eventId": "GRB 990510",
+  "bibcode": "1999GCN...329....1M",
+  "createdOn": 926897217000,
+  "circularId": 329,
+  "submitter": "Gabriele Ghisellini at Obs.Astro. di Brera  <gabriele@merate.mi.astro.it>",
+  "email": "gabriele@merate.mi.astro.it",
+  "body": "G. Marconi and G.L. Israel (Observ. of Rome, Italy), D. Lazzati, S. Covino \nand G. Ghisellini (Observ. of Brera, Milan, Italy) report:\n\nA 30 min exposure taken at ESO-NTT-SUSI2 1999, May 16.10984, with a \nseeing of 1.8\" shows the OT of GRB990510 at the magnitude R=23.0+-0.1\n(assuming R=16.5 for the USNO star at RA = 13:38:00.82, DEC=-80:29:11.7).\nThe faintest detected objects in the field have R=24.5.\nNo candidate host galaxy can be seen. \n\nWe have collected all available photometric data in V, R and I.\nThe light curve in the three bands can be fitted by the following 4 \nparameters formula (similar to that given by Bloom et al. in GCN 323):\n      F_nu(t) = k t^(-al1) / [1+ (t/t_*)^(al2-al1)]\nwhere k is a normalization constant, such that the magnitude is given by\nm(t)=-2.5*log(F_nu). This formula fits very well the light curve \nin the 3 bands varying only k.\n We find:  al1 = 0.85, al2 = 2.6, t_* = 1.8e5 sec = 2.08 days.\n\nThe collection of data together with the above fit and the NTT image are\nposted at: \n      http://www.merate.mi.astro.it/~gabriele/990510/ \n\nThis message is citeable."
+}

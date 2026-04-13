@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 050406 BAT refined analysis",
+  "eventId": "GRB 050406",
+  "bibcode": "2005GCN..3183....1K",
+  "createdOn": 1112817424000,
+  "circularId": 3183,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Barbier, S. Barthelmy (GSFC),\nJ. Cummings (GSFC/NRC), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Hullinger (UMD), D.Q. Lamb (U. Chicago), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/NRC),\nG. Sato (ISAS), M. Suzuki (Saitama), M. Tashiro (Saitama U.),\nJ. Tueller (GSFC),  on behalf of the Swift/BAT team:\n\nAt 15:58:48.40 UT Swift-BAT detected GRB 050406 (trigger=113872)\n(GCN Circ 3180, Parsons et al.). The refined BAT ground position is\n(RA,Dec) = 34.471 -50.181, [deg; J2000] +- 3 arcmin, (95%\ncontainment).  This is 28 arc seconds from the position determined\non-board and originally reported.\n\nExamination of the mask weighted light curve confirms that only the initial\npeak is associated with the burst.  The other possible emission reported\nin GCN Circ 3180 is attributed to background fluctuations.\nThe shape of the peak is fast-rise, exponential decay in the 15-25 keV\nband.  In the 25-50 keV band, the peak starts ~2 secs earlier and the\nshape is more symmetric. We derive T90 (15-25 keV) =  3 seconds\n+/- 1 s, and T90 (15-350 keV) = 5 seconds +/- 1 s. Errors on T90\ninclude systematics.\n\nAnalysis of the event data shows that this is a very soft burst with\nno significant flux above 50 keV.   Plotting GRB 050406 on a color-color\ndiagram indicates that this burst may have the characteristics of an\nX-ray Flash.  The fluence derived from the event data is\n9.0 X 10^-8 erg/cm^2 in the 15-350 keV band, and\n4.8 X 10^-8 erg/cm^2 in the 15-50 keV band.  The 1-s peak flux\n(T+0.6 s) is 3.2 ph/cm^2/s  (15-25 keV).  The photon index of the\n1-s peak spectrum (T+0 s) is 2.32 +/- 0.53 (90% confidence).\nThe time-averaged spectrum yields a photon index of 2.38 +/- 0.34\n(90% confidence). Both the 1-s and time-averaged spectra are well\nfit by a simple power-law."
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 535026: ROTSE-III Optical Limits",
+  "bibcode": "2012GCN.13832....1Z",
+  "createdOn": 1349118146000,
+  "circularId": 13832,
+  "submitter": "Weikang Zheng at U.of Michigan  <zwk@umich.edu>",
+  "email": "zwk@umich.edu",
+  "body": "W. Zheng (U Mich), T. Guver (Sabanci U), report on behalf of the ROTSE\ncollaboration:\n\n\nROTSE-IIId, located at the Turkish National Observatory at Bakirlitepe,\nTurkey, responded to Swift trigger 535026 (D'Elia et al., GCN 13831),\nproducing images beginning 8.0 s after the GCN notice time. An automated\nresponse took the first image at 18:24:26.0 UT, 83.7 s after the burst,\nunder fair conditions. These observations were affected by proximity to\nthe full moon. We took 10 5-sec, and 20 20-sec exposures. These\nunfiltered images are calibrated relative to USNO A2.0 (R). Imaging is\non going.\n\nComparison to the DSS (second epoch) reveals no new sources within the\n3-sigma Swift/BAT error circle or the XRT error circle. Individual\nimages have limiting magnitudes ranging from 14.4-15.4; we set the\nfollowing specific limits.\n\nstart UT       end UT      t_exp(s)   mlim   t_start-tGRB(s)  Coadd?\n--------------------------------------------------------------------\n18:24:26.0   18:24:31.0         5     14.4           83.7       N\n18:24:39.5   18:24:44.5         5     14.4           97.2       N\n18:24:53.0   18:24:58.0         5     14.7          110.8       N\n18:24:26.0   18:26:32.4        50     15.6           83.7       Y\n18:26:41.1   18:27:01.1        20     15.2          218.8       N\n18:27:09.6   18:27:29.6        20     15.3          247.2       N\n18:27:38.1   18:27:58.1        20     15.3          275.8       N\n\n[GCN OPS NOTE(24dec12): Per author's request, the \"12831\" was changed\nto \"13831\".]"
+}

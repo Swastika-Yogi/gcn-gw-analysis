@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 081221",
+  "eventId": "GRB 081221",
+  "bibcode": "2008GCN..8694....1G",
+  "createdOn": 1229943955000,
+  "circularId": 8694,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R. Aptekar, E. Mazets, V. Pal'shin,\nD. Frederiks, P. Oleynik, D. Svinkin, M. Ulanov,\nand T. Cline, on behalf of the Konus-Wind team report:\n\nThe long GRB 081221 (Hoversten et al., GCN 8687)\ntriggered Konus-Wind at T0=58874.915 s UT (16:21:14.915).\n\nThe burst light curve shows two multipeaked pulses with a total\nduration of ~40 s.\n\nAs observed by Konus-Wind the burst\nhad a fluence of (2.28 +/- 0.07)x10^-5 erg/cm2,\nand a 256-ms peak flux measured from T0+19.824 s\nof (1.75 +/- 0.16)x10^-6 erg/cm2/s\n(both in the 20 keV - 1 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+39.424 s) can be fitted (in the 20 keV-1 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -0.91(-0.14, +0.15),\nand Ep = (83 +/- 4) keV (chi2 = 67.4/51 dof).\nFitting by GRB (Band) model yields the same alpha and Ep,\nand only an upper limit on the high energy\nphoton index: beta < -3.48 (chi2 = 67.4/50 dof).\n\nThus, it is a bright and soft GRB.\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.ru/LEA/GRBs/GRB081221_T58874/"
+}

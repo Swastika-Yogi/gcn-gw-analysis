@@ -1,0 +1,10 @@
+{
+  "subject": "GRB061126 : NMSU 1.0m observations",
+  "eventId": "GRB 061126",
+  "bibcode": "2006GCN..5894....1H",
+  "createdOn": 1165170777000,
+  "circularId": 5894,
+  "submitter": "Jon Holtzman at New Mexico State U  <holtz@nmsu.edu>",
+  "email": "holtz@nmsu.edu",
+  "body": "J. Holtzman, T. Harrison, B. Mcnamara of New Mexico State University report:\n\nThe robotic NMSU 1m telescope at Apache Point Observatory responded \nto Swift trigger 240766 (Sbarufatti et al. GCN 5854) shortly after the\nburst announcement. Our first 10s I band image was started 47s\nafter the trigger (31s after the notification). This was followed\nby images in R, V, B, and U; an optical source at the location of\nthe optical counterpart was clearly detected in all of the images\nwith the following brightness:\n\nfilter |  exptime |  midtime after burst  | magnitude +/- error\n\n   I       10s          52s                  12.24 +/- 0.004\n   R       10s          97s                  13.86 +/- 0.007\n   V       20s         149s                  14.94 +/- 0.009\n   B       40s         213s                  15.95 +/- 0.011\n   U       60s         303s                  15.85 +/- 0.037\n\nOur magnitudes were calibrated relative to a nearby star for which\ntransformed UBVRI magnitudes were obtained from the SDSS magnitudes\n(Cool et al, GCN 5863) using transformations given on the SDSS web site,\nhttp://www.sdss.org/dr5/algorithms/sdssUBVRITransform.html, which were\ntaken from a paper by Jester et al. (2005). Error bars are statistical\nonly and do not include uncertainties in the SDSS photometry, the adopted\nSDSS to UBVRI transformations, nor internal transformations; systematic\nerrors are probably on the order of several percent.\n\nTen cycles of UBVRI observations were continued for about an hour after\nthe burst. Analysis of temporal and spectral evolution is underway. Late\nepoch imaging is also continuing."
+}

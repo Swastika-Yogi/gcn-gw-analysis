@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250713A: SVOM/C-GFT upper limit",
+  "eventId": "GRB 250713A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41089....1W",
+  "createdOn": 1752479458569,
+  "circularId": 41089,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "Chao WU (NAOC), Zhe Kang (CHO), Liping Xin(NAOC), Xuhui Han(NAOC), Pinpin Zhang (NAOC), Xiaomeng Lu (NAOC), Zhenwei Li (CHO), You Lv (CHO), Ruosong Zhang (NAOC), Yujie Xiao(NAOC), Yulei, Qiu(NAOC), Jing Wang (NAOC), Jinsong Deng(NAOC), Lei Huang(NAOC), Jianyan Wei (NAOC), P. Maggi (ObAS)  report on behalf of the SVOM/C-GFT team:\n\n\nWe observed the field of GRB250713A (sb25071320) detected by SVOM/ECLAIRs (GCN 41078) with LATIOS on SVOM/C-GFT. Observations started at 2025-07-13T17:07:44 UTC, ~78 seconds after the trigger. \n\nA series of g, r, and i band images were obtained under brighter Moon. No credible candidate was detected within the error box provided by SVOM/MXT(GCN 41078), EP/FXT (GCN 41085), and Swift/XRT(GCN 41086) in our images after preliminary processing, the three sigma upper limits are:\n\n| Date-Obs (mid-time) | Mid_t - T0 (s) | Exposure Time (s) | Band | Upper Limit (AB) |\n|---------------------|----------------|-------------------|------|------------------|\n| 2025-07-13T17:09:13 |  167           | 6×10              | i    | 18.12            |\n| 2025-07-13T17:20:51 |  864           | 6×30              | g    | 18.84            |\n| 2025-07-13T17:24:26 |  1080          | 6×30              | r    | 18.38            |\n\n\nThis result is consistent with GCN 41079. The photometry was calibrated with UCAC4 catalogue.\n\n\nWe thank the observation assistants Chunlei Guo and Guangsheng Zhang at Jilin observatory for their excellent support.\n\nThe Chinese Ground Follow-up Telescope (C-GFT) for the SVOM mission is located at Jilin Station, Changchun Observatory, National Astronomical Observatories, CAS. It features two instruments: (1) CATCH at the Cassegrain focus with a 21 arcsec x 21 arcsec FOV for simultaneous g/r/i-band imaging, and (2) LATIOS, a 4k x 4k CMOS camera at the prime focus with a 1.28 deg x 1.28 deg FOV that images in g, r, and i bands via filter switching."
+}

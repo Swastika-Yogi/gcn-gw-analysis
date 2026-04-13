@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240825A: Magnitude Correction in SVOM/C-GFT Optical Observations",
+  "eventId": "GRB 240825A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37373....1S",
+  "createdOn": 1725283792153,
+  "submitter": "Chao Wu at NAOC <wuchao.lamost@gmail.com>",
+  "circularId": 37373,
+  "format": "text/plain",
+  "body": "SVOM/C-GFT team: Chao Wu (NAOC), Zhe Kang (CHO)，Liping Xin(NAOC),Xuhui Han(NAOC),Pinpin Zhang (NAOC)，Xiaomeng Lu (NAOC), Zhenwei Li (CHO)，You Lv (CHO)，Ruosong Zhang (NAOC)，Yujie Xiao(NAOC)\n\nSVOM JSWG: Jian-Yan Wei (NAOC,  China), Bertrand Cordier (CEA, F), Shuang-Nan Zhang (IHEP, CN), Stephane  Basa (LAM, F), Jean-Luc Attéia (IRAP, F), Arnaud Claret (CEA, F),  Zi-Gao Dai (USTC, CN), Frederic Daigne (IAP, F), Jin-Song Deng (NAOC,  CN), Andrea Goldwurm (APC, F), Diego  Götz (CEA, F), Xu-Hui Han (NAOC, CN), Cyril Lachaud (APC, F), En-Wei Liang (GXU, CN), Yu-Lei Qiu (NAOC,  CN), Susanna Vergani (Obs.Paris, F), Jing Wang (NAOC, CN), Chao Wu(NAOC, CN), Li-Ping Xin (NAOC,CN), Bing Zhang (UNLV, CN)\n\n\n\nAfter taking refined analysis on the Optical Observations (Wu et al. GCN 37292), we fixed a bug in the flux calibration pipeline. We update the afterglow magnitude of GRB 240825A as following, \n-----------------------------------------------------------\n Filter    (t-T0) sec          mag  +/- mag_error \n  g       65  -> 2555     13.73 +/- 0.02 -> 18.58 +/- 0.28 \n  r       206 -> 2088     15.11 +/- 0.02 -> 17.93 +/- 0.15 \n  i       294 -> 2162     15.14 +/- 0.02 -> 17.68 +/- 0.15\n\nThe magnitudes were calibrated using nearby PS1 stars.  \n\nWe apologize for any confusion caused.\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP241021a: Optical upper limits with Kinder observations",
+  "eventId": "EP241021a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37843....1Y",
+  "createdOn": 1729678078594,
+  "circularId": 37843,
+  "submitter": "Janet Chen at National Central University <janetstars@gmail.com>",
+  "format": "text/plain",
+  "body": "S. Yang (HNAS), A. Aryan, T.-W. Chen, Y. J. Yang, W.-J. Hou, M.-H. Lee (all NCU), A. K. H. Kong (NTHU), J. Gillanders (Oxford), S. J. Smartt (Oxford/QUB), A. Sankar. K, C.-C. Ngeow, Y.-C. Pan, H.-C. Lin, C.-H. Lai, H.-Y. Hsiao, C.-S. Lin, J.-K. Guo (all NCUIA), Z. N. Wang, L. L. Fan, G. H. Sun (all HNAS), H.-W. Lin (UMich), H. F. Stevance, S. Srivastav, L. Rhodes (all Oxford), M. Nicholl, M. Fulton, T. Moore, K. W. Smith, C. Angus, A. Aamer (all QUB), A. Schultz and M. Huber (both IfA, Hawaii) report: \n\nWe observed the field of the fast X-ray transient EP241021a (Hu et al., GCN 37834) using the 40cm SLT at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen & Yang et al., 2024arXiv240609270C). The first SLT epoch of observations started at 12:16 UTC on the 22nd of October 2024 (MJD = 60605.512), 1.30d after the EP WXT trigger. \n\nWe utilized the astroalign (Beroiz et al., 2020, A&C, 32, 100384) and astropy (Astropy Collaboration et al., 2022, ApJ, 935, 167) packages to align and stack the individual frames. \nWe used the Kinder pipeline (Yang et al. A&A 646, A22) to subtract the stacked images from the SDSS template. \n\nWe do not detect the optical counterpart candidate in the position reported by Fu et al. (GCN 37840; 37842). Our observations were affected by bad weather. The details of the observations and measured 3-sigma upper limit  (in the AB system) are as follows:\n\nTelescope | Filter | MJD (start) | t-t0 | Exposure (s) | Magnitude | avg. Seeing | med. Airmass\nSLT | r | 60605.512 | 1.30d | 300 * 24 | >19.6 | 2\".79 | 1.28\n\nOur optical upper limits are consistent with Gompertz et al. (GCN 37835) and Lipunov et al. (GCN 37839). The presented magnitudes are calibrated using the field stars from the Pan-STARRS1 catalog and are not corrected for the expected Galactic foreground extinction corresponding to a reddening of E(B-V) = 0.048 mag in the direction of the transient (Schlafly & Finkbeiner 2011).\n"
+}

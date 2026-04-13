@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240125A (short)",
+  "eventId": "GRB 240125A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.35652....1K",
+  "createdOn": 1706561421167,
+  "circularId": 35652,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks,  A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nG. Waratkar (IITB), J.Joshi (IUCAA), A. Vibhute (IUCAA),\nV. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA),\nA. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL)\non behalf of the Astrosat-CZTI team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 240125A\n(Glowbug detection: Cheung et al., GCN 35630;\nAstroSat-CZTI detection: Joshi et al., GCN 35637;\nCALET-CGBM detection: Marrocchesi et al., GCN 35639;\nGRBAlpha detection: Dafcikova et al., GCN 35645)\nwas detected by Glowbug, Astrosat (CZTI)  Konus-Wind,\nGRBAlpha, CALET (CGBM)  and Mars-Odyssey (HEND)\nat about 34499 s UT (09:34:59).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n -------------------------------\n  RA(2000), deg   Dec(2000), deg\n -------------------------------\n Center:\n  131.528          +66.846\n Corners:\n  147.975          +59.476\n  147.882          +59.456\n   92.799          +68.770\n   93.211          +68.871\n --------------------------------\nThe error box area is 1.85 sq. deg and its maximum\ndimension is 24.6 deg (the minimum one is 3.3 arcmin).\nThe Sun distance was 132 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240125_T34503/IPN\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular.\n\n"
+}

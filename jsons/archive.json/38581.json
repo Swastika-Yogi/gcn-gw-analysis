@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 241213A (EP 241213a)",
+  "eventId": "GRB 241213A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38581....1R",
+  "createdOn": 1734361239022,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 38581,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 241213A\n(Swift-BAT detection: Gupta et al., GCN 38547;\nINTEGRAL-SPI-ACS detection: Barria et al., GCN 38556),\nassociated with the fast X-ray transient EP241213a\n(Zhou et al., GCN 38554; Barria et al., GCN 38556),\ntriggered Konus-Wind at T0=8344.058 s UT (02:19:04.058).\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-3.1 s and has a total duration of ~7.6 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB241213_T08344/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 1.04(-0.07,+0.07)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+1.056 s,\nof 4.78(-1.05,+1.06)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.88(-0.17,+0.18)\nand Ep = 236(-24,+30) keV (chi2 = 74/77 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.6\n(chi2 = 73/76 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary.\n"
+}

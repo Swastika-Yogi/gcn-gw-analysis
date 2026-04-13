@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250612C (short/hard)",
+  "eventId": "GRB 250612C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40757....1S",
+  "createdOn": 1750176135747,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 40757,
+  "format": "text/plain",
+  "body": "D. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi-GBM team,\n\nand\n\nY. Zhang, C. Wang, S. Xiong, J. Wei, and B. Cordier\non behalf of the SVOM-GRM team, report:\n\nThe bright, short-duration GRB 250612C\n(Fermi-GBM detection: The Fermi GBM team, GCN 40704;\nNeights and Meegan, GCN 40713;\nBALROG localization: Preis and Greiner, GCN 40706;\nSVOM-GRM detection: Wang et al., GCN 40708;\nGRID detection: Yang et al., GCN 40732;\nKonus-Wind detection: Frederiks et al., GCN 40746)\nwas detected by Fermi (GBM trigger 771432801), SVOM (GRM), Konus-Wind,\nand GRID at about 53596 s UT (14:53:16).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n -------------------------------\n  RA(2000), deg   Dec(2000), deg\n -------------------------------\n Center:\n    115.493       18.574\n Corners:\n    116.886       22.070\n    116.633       22.036\n    113.718       15.372\n    113.864       15.182\n --------------------------------\nThe error box area is 5.5 sq. deg, and its maximum\ndimension is 7 deg (the minimum one is 14.7 arcmin).\nThe Sun distance was 33 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM (GCN 40704) and BALROG (GCN 40706) localizations.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250612_T53591/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density. "
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of short hard GRB 070124",
+  "eventId": "GRB 070124",
+  "bibcode": "2007GCN..6023....1G",
+  "createdOn": 1169737233000,
+  "circularId": 6023,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, E. Mazets, V. Pal'shin, D. Frederiks, and\nT. Cline on behalf of the Konus-Wind team report:\n\nThe short hard GRB 070124 localized by the IPN (Hurley et al.,\nGCN 6022), triggered Konus-Wind at T0=31311.621 s UT (08:41:51.621).\n\nAs observed by Konus-Wind it had a duration of ~0.9 s,\na fluence of 5.20(-4.09, +0.71)x10^-6 erg/cm2,\nand the 16-ms peak flux measured from T0+0.720 s\n1.12(-0.94, +0.37)x10^-5  erg/cm2/s\n(both in the 20 keV - 3 MeV energy range).\nThere is a hint of a weak tail seen up to several tens of seconds\nafter the trigger.\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+8.448 s) is well fitted (in the 20 keV - 3 MeV range)\nby a power law with exponential cutoff model:\ndN/dE ~ E^(-alpha)*exp(-E*(2-alpha)/Ep)\nwith alpha = 0.93(-0.32, +0.24)\nand Ep = 994 (-429, +1237) keV (chi2 = 59/68 dof).\n\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available\nat http://www.ioffe.rssi.ru/LEA/GRBs/GRB070124_T31311/"
+}

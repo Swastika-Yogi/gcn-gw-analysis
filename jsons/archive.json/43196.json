@@ -1,0 +1,11 @@
+{
+  "subject": "EP251221a: NOT optical upper limit",
+  "eventId": "EP251221a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.43196....1H",
+  "createdOn": 1766452796236,
+  "circularId": 43196,
+  "submitter": "L. B. He at NAOC <helb@bao.ac.cn>",
+  "format": "text/markdown",
+  "body": "L. B. He, J. An, X. Liu, D. Xu (NAOC), D. B. Malesani (DAWN/NBI and Radboud), J. A. Chacon (PUC), F. E. Bauer (SSI and UTA), P. G. Jonker (Radboud), A. Kadela (NOT and NBI), report on behalf of a larger collaboration:\n\nWe observed the field of EP251221a (Dai et al., GCN 43178) using the Nordic Optical Telescope (NOT) equipped with the ALFOSC camera. Observations were obtained in the r and z band, starting on 2025-12-22 at 03:00:12 UTC (5.35 hr after the WXT trigger). \n\nNo new optical source is detected within the EP/WXT error circle. And we obtained the following upper limits:\n\n| Band | t_mid - T0 (hr) | Exposure time | 5-sigma upper limit |\n|--|--|--|--|\n| r | 5.47 | 1x300s+1x180s | 23.5 |\n| r | 6.25 | 3x300s | 23.8 |\n| z | 7.21 | 5x200s | 22.3 |\n\ncalibrated with nearby Pan-STARRS stars and not corrected for Galactic extinction."
+}

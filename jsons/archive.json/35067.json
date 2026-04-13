@@ -1,0 +1,10 @@
+{
+  "subject": "GRB231115A: Liverpool Telescope imaging",
+  "eventId": "GRB 231115A",
+  "submittedHow": "web",
+  "bibcode": "2023GCN.35067....1P",
+  "createdOn": 1700172836049,
+  "circularId": 35067,
+  "submitter": "Daniel Perley at Liverpool JMU <d.a.perley@ljmu.ac.uk>",
+  "body": "D. A. Perley (LJMU), K.-R. Hinds (LJMU), J. Wise (LJMU), V. Karambelkar (Caltech), T. F. Ahumada (Caltech), and M. M. Kasliwal, (Caltech) report:\n\nWe obtained optical imaging of M82, the potential host of GRB 231115A (Fermi GBM Team, GCN 35035; Mereghetti et al., GCN 35037), using the IO:O imager on the 2m Liverpool Telescope.  Two exposures of 195s each were taken in the g, r, i, and z filters between 03:45 and 04:14 on 2023-11-16 (UT), approximately 0.5 days after the GRB.  Conditions were generally good throughout.\n\nWe performed image subtraction of the g-band and z-band images using Pan-STARRS 1 survey images as a reference.   The PS1 r-band and i-band images show artifacts at the location of the potential optical source AT2023xfj reported by Kumar et al. (GCN 35041) and were unsuitable (see also Kumar et al., GCN 35055), so references were taken from the Sloan Digital Sky Survey for these filters instead.\n\nWe do not detect a source at the location of AT2023xfj, to approximate limits (3-sigma) of g>21.9, r>21.6, i>21.7, z>21.0 mag (AB).   There are no other candidate transients detected in the difference image consistent with the disk of M82, with the possible exception of a red source at RA=09:55:53.079, +69:40:23.28 (J2000).   However, this source is also visible as a point source in the reference images, suggesting it may be a foreground variable.   The effective limiting magnitude of the subtraction is significantly shallower in the innermost regions of M82 due to the variable background."
+}

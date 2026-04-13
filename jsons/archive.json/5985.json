@@ -1,0 +1,10 @@
+{
+  "subject": "erratum : SDSS Pre-burst Observations of GRB061126",
+  "eventId": "GRB 061126",
+  "bibcode": "2006GCN..5985....1C",
+  "createdOn": 1167451302000,
+  "circularId": 5985,
+  "submitter": "Richard J. Cool at U.of AZ/Steward Obs  <rcool@as.arizona.edu>",
+  "email": "rcool@as.arizona.edu",
+  "body": "It has come to our attention that the SDSS photometry released for  \nthe burst GRB061126 was not calibrated with the correct photometric  \nzero-points measured for the runs associated with these images.  We  \nhave found the problem in the scripts use to generate our GRB  \nfollowup messages and it has been corrected so this will not affect  \nany other future bursts. We have also verified that this problem does  \nnot affect any other data previously released for other bursts.     \nThe photometry previously released for GRB061126 should not be used  \nfor photometric calibration of new data.  This includes both the  \nphotometric zero-points in the catalogs we released for this burst as  \nwell as the photometric zero-points of the associated images.\n\nWe would like to emphasize that this error occurred due to a mistake  \nin our GRB pre-burst scripts and is not due to a problem with the  \nSDSS reductions themselves.\n\nAt the URL:\n\nhttp://mizar.as.arizona.edu/grb/public/GRB061126/\n\nWe have replaced our previously released data with the official SDSS  \nreduction of these data (which does not suffer from the same zero- \npoint error).  This data is suitable for photometric calibration.    \nAt this time, we have only included an updated version of the bright  \nstar photometry and astrometry in the file  \nGRB061126_sdss.calstar_v2.dat.  The format for this file is identical  \nto that of previous releases.  We have also included images for this  \nfield from SDSS.  *These images have not been corrected for the  \nincorrect photometric zero-points, so no photometric measurements  \nshould me made directly from the images*.\n\nWe regret this mistake and apologize for any confusion or  \ninconvenience it may have caused."
+}

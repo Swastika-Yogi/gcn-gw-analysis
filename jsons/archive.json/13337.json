@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120521C: Early Tautenburg limits",
+  "eventId": "GRB 120521C",
+  "bibcode": "2012GCN.13337....1K",
+  "createdOn": 1337725044000,
+  "circularId": 13337,
+  "submitter": "Alexander Kann at TLS Tautenburg  <kann@tls-tautenburg.de>",
+  "email": "kann@tls-tautenburg.de",
+  "body": "D. A. Kann, B. Stecklum and U. Laux (TLS Tautenburg) report:\n\nWe observed to position of Swift GRB 120521C (Trigger 522656, Baumgartner\net al., GCN 13318) with the TLS 1.34m Schmidt telescope. Conditions were\nmediocre, with good seeing but bad transparency. Observations were\ntriggered manually and began 28 minutes after the trigger (17 minutes\nafter the alert). We obtained 5 x 60 s images in Rc, 4 x 180 s images also\nin Rc, and 1 x 600 s each in Z and Ic. The Ic image is affected in depth\nby passing clouds.\n\nAt the position of the enhanced X-ray afterglow (Beardmore et al., GCN\n13324), we do not detect any source, in agreement with earlier results\n(Klotz et al., GCN 13319; Bersier et al., GCN 13320; De Cia et al., GCN\n13321; Levan et al., GCN 13322; Jelinek et al., GCN 13323; Morgan et al.,\nGCN 13325; Gorbovskoy et al., GCN 13329; Oates et al., GCN 13331). The\npossible host galaxy (Perley et al., GCN 13332) is not detected.\n\nWe us the SDSS star at RA, Dec. (J2000) = 14:17:02.836, +42:6:07.62\n(214.26181759, 42.10211787, catalog ID 1237661874023500000) as a\ncomparison star. Using the transformations of Lupton (2005), we find Rc =\n18.33, Ic = 17.93 and Z = 17.78 for this star.\n\nWe find the following 2 sigma limiting magnitudes:\n\nTime (days)\tExposure (s)\tFilter\tUL\n0.019827\t1 x 60\t\tRc\t21.0\n0.022275\t5 x 60\t\tRc\t21.8\n0.027171\t1 x 180\t\tRc\t21.5\n0.030760\t4 x 180\t\tRc\t22.5\n0.040247\t1 x 600\t\tZ\t20.2\n0.048757\t1 x 600\t\tIc\t19.3\n\nWe note that while the non-detections we as well as other telescopes have\nfound point to this being a dark GRB, the X-ray absorption seen by Swift\nis small. The Keck detection of a possible host galaxy in g' band likely\nrules out a high-z interpretation, though.\n\nNo further observations are planned.\n\nThis message may be cited."
+}

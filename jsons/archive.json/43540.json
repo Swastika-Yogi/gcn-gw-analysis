@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260127A : MITSuME Akeno optical afterglow candidate detection",
+  "eventId": "GRB 260127A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43540....1H",
+  "createdOn": 1769598976192,
+  "circularId": 43540,
+  "submitter": "hagio.h.ffca@m.isct.ac.jp",
+  "format": "text/plain",
+  "body": "H. Hagio, I. Takahashi, M. Sasada, H. Seki, Y. Kubo, A. Ochi, R. Kato, S. Joshima, Y. Yatsu and N. Kawai (Science Tokyo) report on behalf of the MITSuME collaboration:\n\nWe observed the field of GRB 260127A detected by Fermi (Fermi GBM team et al., GCN 43528) and Swift ( Klingler et al., GCN 43529) with the optical three-color (g', Rc, and Ic) CCD cameras attached to the MITSuME 50-cm telescope Akeno. \n\nThe observation started at 2026-01-27 17:52:58 UT (2.4 min after the trigger). We stacked the images taken under good conditions. We detected a point source in the Rc-band image at a position of the reported candidate (Saccardi et al., GCN 43530; Wu et al., GCN 43537). Here we report the preliminary magnitude of the source and the 5-sigma upper-limits as follows. \n\nT0+[sec] | MID-UT | T-EXP[sec] | magnitudes\n---------------------------------------------------------------------------------------------------------------\n1245 | 2026-01-27 18:11:19 | 1620 |  g'>19.2,Rc=19.4+/-0.2, Ic>18.7\n---------------------------------------------------------------------------------------------------------------\nT0+ : Elapsed time after the trigger\nT-EXP: Total exposure time\n\nWe used the PS1 catalog for flux calibration. The catalog magnitudes in PS1 g, r and i bands were converted to our g', Rc and Ic band magnitudes following Tonry et al. (2012), Table 6. The magnitudes are expressed in the AB system. The images were processed in real-time through the MITSuME GPU reduction pipeline (Niwano et al. 2021, PASJ; https://github.com/MNiwano/Eclaire).\n"
+}

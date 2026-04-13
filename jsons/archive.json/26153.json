@@ -1,0 +1,10 @@
+{
+  "subject": "Trigger 933083: Swift detection of SGR 1935+2154",
+  "eventId": "SGR 1935+2154",
+  "bibcode": "2019GCN.26153....1A",
+  "createdOn": 1572850277000,
+  "circularId": 26153,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@milkyway.gsfc.nasa.gov>",
+  "email": "scott@milkyway.gsfc.nasa.gov",
+  "body": "E. Ambrosi (INAF-IASFPA), S. D. Barthelmy (GSFC),\nA. D'Ai (INAF-IASFPA), V. D'Elia (SSDC), A. Y. Lien (GSFC/UMBC) and\nK. L. Page (U Leicester) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 06:34:00 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated SGR 1935+2154 (trigger=933083).  Swift did not slew to the source. \nThe BAT on-board calculated location is \nRA, Dec 293.743, +21.896, which is \n   RA(J2000)  =  19h 34m 58s\n   Dec(J2000) = +21d 53' 44\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows a single peak\nstructure with a duration of about 0.2 sec.  The peak count rate\nwas ~4500 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nSwift did not slew to this source because the merit value of the \nsource being observed by Swift was higher than the merit value \nfor this known source."
+}

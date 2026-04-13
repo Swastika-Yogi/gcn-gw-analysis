@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110106A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 110106A",
+  "bibcode": "2011GCN.11531....1H",
+  "createdOn": 1294361586000,
+  "circularId": 11531,
+  "submitter": "Stephen Holland at USRA/NASA/GSFC/SSC  <Stephen.T.Holland@nasa.gov>",
+  "email": "Stephen.T.Holland@nasa.gov",
+  "body": "S. T. Holland (CRESST/USRA/GSFC) and\nV. Mangano (INAF-IASFP)\nreport on behalf of the Swift/UVOT team:\n\n      The Swift/UVOT observed the field of GRB 110106A starting 92 s\nafter the BAT trigger (Mangano, et al., 2011, GCN Circ. 11520).\nSettled observations started at 110 s.  We do no detect an optical\nafterglow in any of the UVOT filters.  Preliminary 3-sigma upper\nlimits for detecting a source in the finding charts and in the\nco-added images, are\n\nFilter      T_start   T_stop    Exp(s)      Mag\n-----------------------------------------------\nwhite (fc)      110      162        52    >20.2\n               3530     3680       150    >20.3\n\n    v          3687   16,046      1278    >20.3\n    b          4508   10,281      1082    >21.1\n    u          4302     5939       393    >20.4\n uvw1          4097     5734       393    >20.2\n uvm2          3892     5529       393    >20.1\n uvw2          4918   11,717       706    >20.9\nwhite           110   11,194      1280    >22.0\n-----------------------------------------------\n\n     The quoted magnitudes and upper limits have not been corrected\nfor the expected Galactic extinction along the line of sight\ncorresponding to a reddening of E_{B-V} = 0.24 mag (Schlegel, et al.,\n1998, ApJS, 500, 525).  All photometry is on the UVOT photometry\nsystem described in Poole et al. (2008, MNRAS, 383, 627)."
+}

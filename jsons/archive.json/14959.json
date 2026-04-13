@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 130701A, Swift-BAT refined analysis",
+  "eventId": "GRB 130701A",
+  "bibcode": "2013GCN.14959....1S",
+  "createdOn": 1372698266000,
+  "circularId": 14959,
+  "submitter": "Tilan Ukwatta at MSU  <tilan.ukwatta@gmail.com>",
+  "email": "tilan.ukwatta@gmail.com",
+  "body": "T. Sakamoto (AGU), S. D. Barthelmy (GSFC),\nW. H. Baumgartner (GSFC/UMBC), J. R. Cummings (GSFC/UMBC),\nE. E. Fenimore (LANL), N. Gehrels (GSFC),\nH. A. Krimm (GSFC/USRA), N. P. M. Kuin (UCL-MSSL),\nA. Y. Lien (NASA/GSFC/ORAU), C. B. Markwardt (GSFC),\nD. M. Palmer (LANL), G. Sato (ISAS),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n(i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+349 sec from the recent\ntelemetry downlink, we report further analysis of BAT\nGRB 130701A (trigger #559482) (Kuin, et al., GCN Circ. 14953).\nThe BAT ground-calculated position is RA, Dec = 357.224, 36.100 deg\nwhich is\n   RA(J2000)  =  23h 48m 53.7s\n   Dec(J2000) = +36d 05' 58.4\"\nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90%\ncontainment). The partial coding was 28%.\n\nBAT mask-weighted light curve shows overlapping two-peak structure\nstarting from T-1 sec with first peak around T+1 sec and\nsecond peak around T+3 sec. The episode ends around T+5 sec.\nT90 (15-350 keV) is 4.38 +- 0.25 sec (estimated error\nincluding systematics).\n\nThe time-averaged spectrum from T-1.14 to T+5.35 sec is best\nfit by a power law with an exponential cutoff.  This fit gives a\nphoton index 0.90 +- 0.21, and Epeak of 89.2 +- 12.4 keV\n(chi squared 40.06 for 56 d.o.f.).  For this model the total fluence\nin the 15-150 keV band is 4.4 +- 0.1 x 10^-06 erg/cm2 and the 1-sec\npeak flux measured from T+0.06 sec in the 15-150 keV band is\n17.1 +- 0.7 ph/cm2/sec.  A fit to a simple power law gives a\nphoton index of 1.58 +- 0.05 (chi squared 76.39 for 57 d.o.f.).\nAll the quoted errors are at the 90% confidence level.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/559482/BA/"
+}

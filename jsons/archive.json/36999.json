@@ -1,0 +1,10 @@
+{
+  "subject": "EP240801a: GMG observation",
+  "eventId": "EP240801a",
+  "submittedHow": "email",
+  "bibcode": "2024GCN.36999....1L",
+  "createdOn": 1722532004013,
+  "submitter": "Rui-Zhi Li at Yunnan Observatories, CAS <liruizhi@ynao.ac.cn>",
+  "circularId": 36999,
+  "body": "R.-Z. Li, B.-T. Wang, J. Mao, X.-L. Zhang and J.-M. Bai (YNAO, CAS) report:\n\nWe observed the field of EP240801a (Zhou et al., GCN 36997, T0 at 2024-08-01T09:06:03) using the GMG-2.4m telescope at the Lijiang Observatory. The observation began at 2024-08-01T16:19:22, about 7.22 hours after the trigger.\n\nThe optical counterpart of EP240801a, not visible in the Pan-STARRS1 r-band image, was marginally detected at the coordinates (J2000):\nRA  =  23h00m39.02s\nDEC = +32d35m37.2s\n, with a positional uncertainty of 0.5\" or better. The position is consistent with TRT observation (GCN 36998).\n\nThe preliminary analysis results are shown as follows:\n+---------------+------------+----------+--------------+--------------+\n|  Tmid-T0 [h]  |  Exp. [s]  |  Filter  |     Mag      |  5-sigma UL  |\n+===============+============+==========+==============+==============+\n|     7.39      |    1200    |    R     | 21.21 ± 0.12 |     21.9     |\n+---------------+------------+----------+--------------+--------------+ \nThe given magnitudes are derived based on calibration against Pan-STARRS1 field stars, and are not corrected for the expected Galactic foreground extinction, corresponding to a reddening of E(B-V) = 0.092 mag in the direction of the optical counterpart (Schlafly &amp; Finkbeiner 2011).\n\nWe note that this optical counterpart has become fainter compared to the TRT observation (R = 20.32 ± 0.16 mag, GCN 36998).\n"
+}

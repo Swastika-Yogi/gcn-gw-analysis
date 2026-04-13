@@ -1,0 +1,14 @@
+{
+  "editedOn": 1724618217740,
+  "subject": "GRB 240825A: GMG Optical Observation",
+  "eventId": "GRB 240825A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37280....1L",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Rui-Zhi Li at Yunnan Observatories, CAS <liruizhi@ynao.ac.cn>",
+  "circularId": 37280,
+  "createdOn": 1724609599390,
+  "submitter": "Rui-Zhi Li at Yunnan Observatories, CAS <liruizhi@ynao.ac.cn>",
+  "format": "text/plain",
+  "body": "R.-Z. Li, B.-T. Wang, F.-F. Song, J. Mao, Y.-X. Xin, and J.-M. Bai (YNAO, CAS) report:\n\nWe observed the field of GRB 240825A (Gupta et al., GCN 37274, T0 at 2024-08-25T15:52:59) using the GMG-2.4m telescope at the Lijiang Observatory. The observation began at 2024-08-25T17:42:38, about 1.83 hours after the trigger.\n\nThe optical counterpart of GRB 240825A, not visible in the Pan-STARRS1 r-band image, was clearly detected at the coordinates (J2000):\nRA  =  22h58m17.26s\nDEC = +01d01'36.7\"\n, with a positional uncertainty of 0.5\" or better. The position is consistent with Swift/UVOT (GCN 37274), Nanshan/HMT (GCN 37275), Skynet (GCN 37276) and AKO (GCN 37277).\n\nThe preliminary analysis results are shown as follows:\n+----------------+------------+----------+--------------+----------------+\n|  Tmid-T0 [hr]  |  Exp. [s]  |  Filter  |     Mag      |  5-sigma U.L.  |\n+================+============+==========+==============+================+\n|      1.91      |    600     |    R     | 18.97 ± 0.04 |       21       |\n+----------------+------------+----------+--------------+----------------+ \nThe given magnitudes are derived based on calibration against Pan-STARRS1 field stars, and are not corrected for the expected Galactic foreground extinction, corresponding to a reddening of E(B-V) = 0.053 mag in the direction of the optical counterpart (Schlafly & Finkbeiner 2011).\n\nThe optical spectroscopic observation is ongoing, but there are thin clouds in the sky.\n\nWe acknowledge the staff at the Lijiang Observatory for their efforts in conducting the observation. In particular, we extend our gratitude to the on-duty observers for promptly resolving the instrumental cooling problems with the GMG-2.4m telescope that arose during the night."
+}

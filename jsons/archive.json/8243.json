@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080916A, Swift-BAT refined analysis",
+  "eventId": "GRB 080916A",
+  "bibcode": "2008GCN..8243....1B",
+  "createdOn": 1221584783000,
+  "circularId": 8243,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "W. Baumgartner (GSFC/UMBC), S. D. Barthelmy (GSFC), J. Cummings (GSFC/UMBC),\nE. Fenimore (LANL), N. Gehrels (GSFC), H. Krimm (GSFC/USRA),\nC. Markwardt (GSFC/UMD), K. McLean (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/UMBC), G. Sato (ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC), T. Ukwatta (GWU),\nH. Ziaeepour (UCL-MSSL)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-240 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 080916A (trigger #324895)\n(Ziaeepour, et al., GCN Circ. 8237).  The BAT ground-calculated position is\nRA, Dec = 336.289, -57.026 deg, which is \n   RA(J2000)  =  22h 25m 09.3s \n   Dec(J2000) = -57d 01' 33.7\" \nwith an uncertainty of 1.0 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 82%.\n \nThe mask-weighted light curve shows two overlapping FRED peaks\nstarting at ~T-3 sec and ending at ~T+100 sec.\nT90 (15-350 keV) is 60 +- 7 sec (estimated error including systematics).\n \nThe time-averaged spectrum from T-2.4 to T+88.6 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 1.17 +- 0.21, \nand Epeak of 94.6 +- 23.0 keV (chi squared 48.0 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 4.0 +- 0.1 x 10^-6 erg/cm2\nand the 1-sec peak flux measured from T+1.25 sec in the 15-150 keV band is\n2.7 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.63 +- 0.05 (chi squared 64.5 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level. \n \nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/324895/BA/"
+}

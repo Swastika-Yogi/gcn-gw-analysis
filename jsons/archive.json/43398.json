@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260114A: GMG Optical Observation",
+  "eventId": "GRB 260114A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43398....1L",
+  "createdOn": 1768397986322,
+  "circularId": 43398,
+  "submitter": "Rui-Zhi Li at Yunnan Observatories, CAS <liruizhi@ynao.ac.cn>",
+  "format": "text/plain",
+  "body": "R.-Z. Li, J. Mao, B.-T. Wang, F.-F. Song, Y. Wang, J.-G. Wang and B. Wang (YNAO, CAS) report:\n\nWe observed the field of GRB 260114A (Eyles-Ferris et al., GCN 43396; Fermi GBM team, GCN 43395; T0 at 2026-01-14T11:40:26) using the GMG-2.4m telescope at the Lijiang Observatory. The observation began at 2026-01-14T12:18:52, about 0.64 hours after the trigger.\n\n\nWe detected an optical source within the Swift/XRT error circle (Eyles-Ferris et al., GCN 43396). \nThe preliminary analysis results for this source are presented below.\n+---------------+------------+----------+--------------+----------------+\n|  Tmid-T0 [h]  |  Exp. [s]  |  Filter  |     Mag      |  5-sigma U.L.  |\n+===============+============+==========+==============+================+\n|     0.81      |    1200    |    r     | 21.19 ± 0.06 |      22.6      |\n+---------------+------------+----------+--------------+----------------+ \n\nWe note that an extended galaxy (R.A., Dec. = 04:58:23.41, −08:00:49.6; r = 21.47 mag in the Pan-STARRS DR2 image) is located within the Swift/XRT error circle. Three objects within the Swift/XRT error circle have photometric redshifts of z ~ 0.5 in the DESI Legacy Surveys.\n\nGiven the poor seeing conditions at the Lijiang Observatory, no additional candidate sources in our image were found within the Swift/XRT error circle.\n\nThe given magnitudes are derived based on calibration against Pan-STARRS1 field stars, and are not corrected for the expected Galactic foreground extinction, corresponding to a reddening of E(B-V) = 0.0685 mag in the direction of the optical source (Schlafly & Finkbeiner 2011)."
+}

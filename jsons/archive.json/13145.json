@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 120326A: Fermi GBM Observation",
+  "eventId": "GRB 120326A",
+  "bibcode": "2012GCN.13145....1C",
+  "createdOn": 1332884854000,
+  "circularId": 13145,
+  "submitter": "Andrew Collazzi at NASA/MSFC/ORAU  <andrew.collazzi@nasa.gov>",
+  "email": "andrew.collazzi@nasa.gov",
+  "body": "Andrew C. Collazzi (NASA/ORAU)\nreports on behalf of the Fermi GBM Team:\n\n\"At 01:20:31.51 UT on March 26, 2012, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 120326A (trigger 354417633 / 120326056) which was\ntriggered and detected by Swift (Siegel et al., GCN 13105).\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis consistent with the locations seen by Swift.\n\nThe GBM light curve shows a single FRED-like event with a \nduration (T90) of about 12 s (50-300 keV). \nThe time-averaged spectrum from T0-3.584 to T0+13.824 s\nis fit equally well by a Band and Comptonized Power Law function.\n\nFor the Band function, the parameters are: \nEpeak = 46.45 +/- 3.67 keV, alpha = -0.98 +/- 0.14, and beta = -2.53 +/- 0.15.\nThis results in a 1-s peak flux of 3.10 +/- 0.05 ph/s-cm^2 and a\nyields a fluence (10-1000 keV) in this time interval \nof (3.539 +/- 0.174)E-06 erg/cm^2.  The C-Stat for this fit is\n653.15 over 489 degrees of freedom.\n\nFor the Comptonized function, the parameters are: \nEpeak = 55.46 +/- 2.61 keV, and alpha = -1.21 +/- 0.08.\nThis results in a 1-s peak flux of 3.08 +/- 0.05 ph/s-cm^2.\nWhich yields a fluence (10-1000 kev) in this time interval of\n(3.027 +/- 0.091)E-06 erg/s-cm^2.  The C-Stat for this fit is\n654.83 over 490 degrees of freedom.\n\nThe spectral analysis results presented above are preliminary;\nfinal results will be published in the GBM GRB Catalog.\""
+}

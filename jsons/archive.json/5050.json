@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060501: Swift UVOT followup observations",
+  "eventId": "GRB 060501",
+  "bibcode": "2006GCN..5050....1B",
+  "createdOn": 1146559681000,
+  "circularId": 5050,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aad@mssl.ucl.ac.uk>",
+  "email": "aad@mssl.ucl.ac.uk",
+  "body": "A. Breeveld (UCL-MSSL), V. La Parola (INAF-IASFPA), D. Vanden Berk \n(PSU), F. Marshall (GSFC), on behalf of the SWIFT UVOT team:\n\nThe Swift/UVOT began taking data on the field of GRB060501 3296s after \nthe BAT trigger (which includes the 10s V settling exposure). Swift did \nnot slew immediately after the trigger because of an earth constraint \n(La Parola et al., GCN 5040). At the edge of the refined XRT error \ncircle (La Parola et al., GCN 5042) there are two optical sources which \nare already present in the USNO B1.0 catalogue, but in the summed images \nthere are no new sources within the error circle to the following 5 \nsigma upper limits:\n\nFilter  T_range(s)  Exp(s)  5sig_UL(mag)\nV       3296-16535  927.6   19.3\nB       3626-3825   196.6   19.5\nU       3422-10542  723.7   19.9\nUVW1    9097-9996   885.5   20.0\nUVM2    4445-4571   124.1   19.3\nUVW2    4036-15788  1082.2  20.5\nWhite (160-650nm)  3313-4030   394.6    20.0\n\nThese upper limits are uncorrected for the estimated Galactic reddening \nof E(B-V) = 0.282 mags."
+}

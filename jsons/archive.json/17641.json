@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 150323B",
+  "eventId": "GRB 150323B",
+  "bibcode": "2015GCN.17641....1G",
+  "createdOn": 1427301555000,
+  "circularId": 17641,
+  "submitter": "Anastasia Tsvetkova at Ioffe Institute  <tsvetkova@mail.ioffe.ru>",
+  "email": "tsvetkova@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, V. Pal'shin, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 150323B\n(Swift-BAT trigger #635929: Cummings, GCN 17619;\nFermi-GBM observation: von Kienlin, GCN 17623)\ntriggered Konus-Wind at T0=34121.196 s UT (09:28:41.196).\n\nThe burst light curve shows several bright peaks during first ~60 s \nafter the trigger.\nIn the instrument's soft energy channel, the flaring can be traced up to \n~T0+150 s.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 2.0(-0.1,+0.2)x10^-5 erg/cm2,\nand a 64-ms peak energy flux, measured from T0+22.656 s,\nof 1.4(-0.6,+0.6)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(measured from T0 to T0+65.792 s)\nis best fit in the 20 keV - 15 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.53(-0.10,+0.11),\nand Ep = 109(-12,+15) keV (chi2 = 109/98 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -2.90 (chi2 = 109/97 dof).\n\nThe spectrum near the peak count rate\n(measured from T0+16.640 to T0+24.832 s)\nis best fit in the 20 keV - 1 MeV range\nby the power law with exponential cutoff model\nwith  alpha = -1.15(-0.25,+0.29),\nand Ep = 215(-51,+108) keV (chi2 = 35/59 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index:\nbeta < -1.97 (chi2 = 35/58 dof).\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB150323_T34121/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

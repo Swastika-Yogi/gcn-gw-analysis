@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 230512A: Kitab possible afterglow candidate",
+  "eventId": "GRB 230512A",
+  "bibcode": "2023GCN.33796....1B",
+  "createdOn": 1684068086046,
+  "submitter": "Alexei Pozanenko at IKI, Moscow <apozanen@iki.rssi.ru>",
+  "circularId": 33796,
+  "body": "S. Belkin (IKI), A. Schmalz (KIAM), A. Pozanenko (IKI), N. Pankov (HSE), Sh. Ehgamberdiev (UBAI) report on behalf of IKI-GRB-FuN:\n\nWe observed the field of Fermi LAT localization (Maheso et al., GCN  33780) of short bright GRB 230512A (Fermi GBM team, GCN 33778; detected also by AstroSat GCN 33779, and GRBAlpha GCN 33795) with Kitab RC-36  telescope.  Observation  in Clear filter started on May, 12  (UT) 19:17:32 and continued on May, 13  (UT) 20:49:59. We cover XRT sources ## 2,4,5,7,8,9,10,11 (Osborne et al., GCN 33789). \nWithin the XRT #5 error circle, we detected a possible optical source on May 12 and did not detect the source on May 13. The source is also absent in PS1 catalog. The coordinate of the source are \n(J2000) 19:40:49.49 +38:28:07.4  \nwith uncertainness of 0.5 arcsec in both coordinates. The nearest PS object is 2.5 arcses East with r'=22.14.\n\nPreliminary photometry of the source in combined images is following\n\n Date,      UT start, t-T0,   Exp.,  Filter, OT,    Err,  UL(3 sigma)\n                    (mid, days)\n\n2023-05-12  19:17:32 0.57624  120*60  Clear  19.43  0.25   19.7\n2023-05-13  20:49:59 1.64044  120*60  Clear  n/d    n/d    20.0\n\nThe photometry is based on nearby USNO-B1.0 stars, R2 magnitude and not corrected for Galaxy extinction.\n\nUSNO-B1.0 stars\nRA Dec R2\n19:40:50.8094400 +38:29:37.881600 14.55\n19:40:53.3748000 +38:29:06.702000 15.30\n19:40:46.4635200 +38:06:31.770000 14.15\n19:41:16.4054400 +38:09:39.092400 15.80\n\nTaking photometry in the first epoch and an upper limit on the second epoch the index of power law decay is less than -0.5.\n\n"
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP250911a: Upper limit from Fermi-GBM Observations",
+  "eventId": "EP250911a",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41815....1R",
+  "createdOn": 1757687031368,
+  "submitter": "mariaedvige.ravasio@ru.nl",
+  "circularId": 41815,
+  "format": "text/plain",
+  "body": "M. E. Ravasio and P.G. Jonker (Radboud Univ.) on behalf of the Einstein Probe Team\nand\nE. Burns (LSU) on behalf of the Fermi-GBM Team, report:\n\nFermi-GBM had full spatial coverage of the transients EP250911a (Liang et al., GCN 41788 and GCN 41809) detected by EP-WXT, and found to be at z=3.84 (Malesani et al., GCN 41811). There was no Fermi-GBM onboard trigger around the refined EP trigger time T0=2025-09-11T08:57:55 (UTC).\n\nThe GBM targeted search [1], the most sensitive, coherent search for GRB-like signals, was run in the time interval [T0-50; T0+500] s, seeking signals between 64 ms and 32.768 s in duration. No signal consistent with the EP transients, both temporally and spatially, is identified, as confirmed also by visual inspection of the data.\n\nAssuming a “normal” spectral template (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3), whose alpha value is consistent with the power law index reported by EP (Liang et al., GCN 41809), and a timescale of 8.192 s, we derive a flux upper limit of 5.3e-08 erg/cm2/s in the energy band 10-1000 keV.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597\n"
+}

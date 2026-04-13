@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070223: Swift/UVOT refined analysis",
+  "eventId": "GRB 070223",
+  "bibcode": "2007GCN..6134....1L",
+  "createdOn": 1172246151000,
+  "circularId": 6134,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman(NASA/GSFC), L. Angelini(GSFC/JHU) and J. Greiner(MPE) report \non behalf of the Swift UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070223 starting 102s after the \nBAT trigger (Vertere et al. 2007, GCN Circ. 6125) with the settling \nexposure.\n\nWe do not find any source, in any of the UVOT observations, inside of \nthe refined XRT error circle (Vertere et al. 2007, GCN Circ. 6130).\n\nWe have the following 3-sigma upper limits for a source inside the XRT \nerror circle in the first exposure with the White filter, and in the \ncoadded frames with all filters:\n\nFilter  T_Start    T_End   Exp (s)   3sigma U.L. mag\n\nWhite   120         219      98         20.2\n\nV       102         295      79         18.9\nB      5893        6084     189         20.6\nU      5688       16398     351         20.5\nUVW1   3863       16234    1069         21.2\nUVM2   3658        3858     197         20.1\nWhite   120       11872    1002         21.4\n\nNo correction has been made for the small extinction corresponding to \nE(B-V) = 0.015\n(Schlegel et al. 1998)."
+}

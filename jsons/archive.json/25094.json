@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190630ag: Updated sky localization",
+  "eventId": "LIGO/Virgo S190630ag",
+  "bibcode": "2019GCN.25094....1L",
+  "createdOn": 1563480247000,
+  "circularId": 25094,
+  "submitter": "Brandon Piotrzkowski at U of Wisconsin-Milwaukee  <piotrzk3@uwm.edu>",
+  "email": "piotrzk3@uwm.edu",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\nWe have conducted further analysis of the LIGO and Virgo data around\nthe time of the compact binary coalescence (CBC) candidate S190630ag\n(GCN 24922). Parameter estimation has been performed using\nLALInference [1] and a new sky map, LALInference.offline.fits.gz,\ndistributed via GCN Notice, is available for retrieval from the\nGraceDB event page:\n\nhttps://gracedb.ligo.org/superevents/S190630ag\n\nLALInference.offline.fits.gz is the preferred sky map at this time.\nThe 90% credible region is 1483 deg2. Marginalized over the whole sky,\nthe a posteriori luminosity distance estimate is 926 � 259 Mpc\n(a posteriori mean � standard deviation).\n\nFor further information about analysis methodology and the contents\nof this alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https/emfollow.docs.ligo.org/userguide/>.\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

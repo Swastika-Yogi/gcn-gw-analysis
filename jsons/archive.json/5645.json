@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060926: Swift-UVOT UVW1 Detection Retraction",
+  "eventId": "GRB 060926",
+  "bibcode": "2006GCN..5645....1R",
+  "createdOn": 1159455477000,
+  "circularId": 5645,
+  "submitter": "Pete Roming at PSU  <roming@astro.psu.edu>",
+  "email": "roming@astro.psu.edu",
+  "body": "P. Roming (PSU) and S. T. Holland (GSFC/USRA) report on behalf of the \nSwift-UVOT team:\n\nDue to an error in the flux calculation, the reported UVW1 (251 nm) filter \ndetection in GCN 5625 is not real. No optical afterglow is detected at the \n3-sigma level in individual or coadded exposures in this filter. The \n3-sigma limiting magnitude for the coadded images is listed below:\n\nFilter      T_range(s)      Exp(s)     Upper Limit (3-sigma)\nUVW1    487-11748      1337       20.4\n\nwhere T_range is the start and end times of the coadded exposures. No \ncorrection has been made for Galactic reddening along the line of sight \n(E(B-V) = 0.16). We also point out that the 4.8-sigma level V-filter \ndetection report in GCN 5625 is real. We apologize for any inconvenience \nthis error has created."
+}

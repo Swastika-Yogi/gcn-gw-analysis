@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250527C: Swift/UVOT Upper Limits",
+  "eventId": "GRB 250527C",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40574....1K",
+  "createdOn": 1748554170053,
+  "submitter": "noelklin@umbc.edu",
+  "circularId": 40574,
+  "format": "text/plain",
+  "body": "N. Klingler (UMBC / NASA-GSFC / CRESST II) reports on behalf of the Swift/UVOT team:\n\nSwift/UVOT has performed observations of GRB 250527C centered on the BAT position, RA, Dec = 21h 18m 31.92s, +52d 44' 13.2\" (= 319.633, 52.737 deg; 90% uncertainty of 5 arcmin) (DeLaunay et al.; GCN 40563).  UVOT collected 4536 s of data between 96 ks and 113 ks post-trigger, using the White filter.\n\nNo uncatalogued/transient sources are detected, with an approximate 3 sigma upper limit > 22.56 (AB) in the 90% BAT localization region.\n\nFor the X-ray sources detected by XRT (https://www.swift.ac.uk/ToO_GRBs/00021843/): sources 3, 4, and 6 fall outside the UVOT field of view.  XRT source 2 is not detected.  XRT source 1 is a star: TYC 3953-1190-2.  XRT 5 has an optical counterpart (AB mag 17.99 +/- 0.07), but it is seen in archival DSS images and thus does not appear to be a transient.\n\nNo correction has been made for the expected Galactic extinction due to the reddening of E(B-V) = 3.43 in the direction of the burst (Schlegel et al. 1998)."
+}

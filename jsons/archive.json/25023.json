@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 190706B: Swift/UVOT Detection",
+  "eventId": "GRB 190706B",
+  "bibcode": "2019GCN.25023....1K",
+  "createdOn": 1562527774000,
+  "circularId": 25023,
+  "submitter": "Paul Kuin at MSSL  <npkuin@gmail.com>",
+  "email": "npkuin@gmail.com",
+  "body": "N. P. M. Kuin (UCL-MSSL) and A. Tohuvavohu (PSU)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 190706B\n100 s after the BAT trigger (Tohuvavohu et al., GCN Circ. 24993).\nNo optical afterglow consistent with the XRT position\n(Beardmore et al. GCN Circ. 24995) is detected in the initial UVOT\nexposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite_FC           100          250          147         20.35 +/- 0.27\nu_FC               312          562          246        >19.86\nwhite              100         5778          519         >20.9\nv                  642        17542          561         >19.9\nb                  568         5644          292         >20.6\nu                  312        13071          647         >19.9\nw1                 691        11551         1204         >20.0\nm2                 666         7285          490         >19.6\nw2                 618        17284         1199         >20.5\n\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.15 in the direction of the burst\n(Schlegel et al. 1998)."
+}

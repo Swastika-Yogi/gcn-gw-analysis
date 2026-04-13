@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 101204A: Swift-XRT refined Analysis",
+  "eventId": "GRB 101204A",
+  "bibcode": "2010GCN.11446....1S",
+  "createdOn": 1291912698000,
+  "circularId": 11446,
+  "submitter": "Boris Sbarufatti at INAF-OAB/IASFPA  <boris.sbarufatti@brera.inaf.it>",
+  "email": "boris.sbarufatti@brera.inaf.it",
+  "body": "B. Sbarufatti (INAF/OAB-IASF Pa) reports on behalf of the Swift-XRT\nteam:\n\nWe have analysed 24 ks of XRT data for GRB 101204A (Cummings  et al.\nGCN Circ. 11440), from 126.2 ks to 383.1 ks after the  BAT trigger. The\ndata are entirely in Photon Counting (PC) mode. Using 9912 s of PC mode\ndata and 4 UVOT images, we find an enhanced XRT position (using the\nXRT-UVOT alignment and matching UVOT field sources to the USNO-B1\ncatalogue): RA, Dec = 167.53700, -20.41980 which is equivalent to:\n\nRA (J2000): 11h 10m 8.88s\nDec(J2000): -20d 25' 11.5\"\n\nwith an uncertainty of 1.6 arcsec (radius, 90% confidence).\n\nThe light curve can be modelled with  a power-law decay with a decay\nindex of alpha=1.33 (+0.24, -0.23).\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 2.14 (+0.34, -0.18). The\nbest-fitting absorption column is  consistent with the Galactic value\nof 3.3 x 10^20 cm^-2 (Kalberla et al. 2005). The counts to observed\n(unabsorbed) 0.3-10 keV flux conversion factor deduced from this\nspectrum  is 3.4 x 10^-11 (3.9 x 10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     3.3 (+4.4, -0.0) x 10^20 cm^-2\nGalactic foreground: 3.3 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     2.14 (+0.34, -0.18)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00020153.\n\nThis circular is an official product of the Swift-XRT team."
+}

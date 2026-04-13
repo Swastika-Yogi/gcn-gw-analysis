@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 241030B: BTA observations",
+  "eventId": "GRB 241030B",
+  "submittedHow": "email-legacy",
+  "bibcode": "2024GCN.37995....1M",
+  "createdOn": 1730333957257,
+  "circularId": 37995,
+  "submitter": "Moskvitin Alexander at SAO RAS <mosk@sao.ru>",
+  "body": "A. S. Moskvitin, A. S. Vinokurov (SAO RAS), A. S. Pozanenko (IKI),\nN. Pankov (IKI, HSE) report on behalf of the GRB follow-up team.\n\nWe observed the field of GRB 241030B (Fermi GBM team, GCN 37980;\nKlingler et al., GCN 37981; Evans, GCN 37983; Zhao et al., GCN 37984;\nEvans et al., GCN 37992), with the 6-m telescope of SAO RAS equipped\nwith the focal reducer Scorpio-I. We obtained quasi-simultaneous\n16 x 30 sec images both in B and Rc bands on October 30.\n\nThe OT (Fu et al., GCN 37985; Odeh et al., GCN 37986; Brivio et al.,\nGCN 37991; Moskvitin t al., GCN 37987) is clearly detected in the Rc\nstacked frame, but not presented in the B stacked frame:\n\nUT_start--UT_end    t_mid - T0, h  filter  OT_mag          limit (3sigma)\n20:17:39--20:43:25  1.9367         R       22.10 +/- 0.08  24.0\n20:18:28--20:44:15  1.9504         B       n/d             24.0\n\nThis preliminary photometry is based on nearby PS1 stars (magnitudes\nconverted with Lupton 2005 equations) and not corrected\nfor the Galaxy extinction.\n\nWe also obtained 2 x 1200 sec spectrum with VPHG550G grism\n(3500--7500 AA, FWHM resolution ~ 10A) on October 30,\n19:34:07--20:14:23 UT (T-mid - T0 = 1.3319 hours).\n\nIn the spectrum we do not find a continuum lower than 5200A.\nDue to non-detection in B filter and absence of continuum\nwe conclude that redshift of the GRB z >~ 3.3.\n\n"
+}

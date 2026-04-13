@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 131110A BAT refined analysis",
+  "eventId": "GRB 131110A",
+  "bibcode": "2013GCN.15487....1C",
+  "createdOn": 1384482249000,
+  "circularId": 15487,
+  "submitter": "Jay R. Cummings at NASA/GSFC/Swift  <james.r.cummings@nasa.gov>",
+  "email": "james.r.cummings@nasa.gov",
+  "body": "J. R. Cummings (GSFC/UMBC), S. D. Barthelmy (GSFC), W. H. Baumgartner (GSFC/UMBC),\nN. Gehrels (GSFC), H. A. Krimm (GSFC/USRA), A. Y. Lien (NASA/UMBC),\nC. B. Markwardt (GSFC), D. M. Palmer (LANL), T. Sakamoto (AGU),\nM. Stamatikos (OSU), J. Tueller (GSFC), T. N. Ukwatta (MSU)\n\nWe report further analysis of the ground-detected Swift-BAT slew GRB 131110A\n(Cummings and Palmer, GCN circ # 15483).  The best BAT position is\nRA, Dec 69.268, -17.259 which is\n\nRA (J2000)    04h 37m 4.4s\nDec (J2000)  -17d 15' 34\"\n\nwith an estimated 90% containment radius of 0.8 arcmin.\n\nThe BAT mask-weighted lightcurve shows a single broad peak with a slow rise to a\nplateau at T+25 seconds, lasting about 70 seconds, and a slow decay.  T90 is about\n100 +- 10 seconds.\n\nThe average spectrum from T0 to T+90 (after which the source had a low mask coding\nfactor in BAT) is best fit by a simple power law function with a photon index of\n1.61 +- 0.09.  The fluence from 15-150 keV during this interval was\n(3.53 +- 0.10) x 10^-6 ergs/cm^2/sec.  Errors are 90% confidence.\n\nA Swift TOO has been approved with the observation number 20327, to be performed\n11/15/2013."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220903A (long)",
+  "eventId": "GRB 220903A",
+  "bibcode": "2022GCN.32534....1S",
+  "createdOn": 1662651914000,
+  "circularId": 32534,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, D. Frederiks, A. Ridnaia, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team, report:\n\nThe long-duration GRB 220903A\nhas been detected by Fermi (GBM trigger 683900183),\nINTEGRAL (SPI-ACS), Konus-Wind, and Swift (BAT), so far,\nat about 44178 s UT (12:16:18).\nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n  ---------------------------------------------\n   RA(2000), deg                 Dec(2000), deg\n  ---------------------------------------------\n  Center:\n   178.795 (11h 55m 11s) -29.705 (-29d 42' 17\")\n  Corners:\n   176.905 (11h 47m 37s) -30.818 (-30d 49' 04\")\n   177.561 (11h 50m 15s) -31.150 (-31d 09' 02\")\n   180.605 (12h 02m 25s) -28.545 (-28d 32' 44\")\n   179.962 (11h 59m 51s) -28.232 (-28d 13' 54\")\n  ---------------------------------------------\nThe error box area is 2.32 sq. deg, and its maximum\ndimension is 3.94 deg (the minimum one is 37.6 arcmin).\nThe Sun distance was 39 deg.\n\nThis box may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM final localization (glg_healpix_all_bn220903511_v01).\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220903_T44175/IPN/\n\nThe time history and spectrum will be given in forthcoming GCN Circulars."
+}

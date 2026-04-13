@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240624A: Fermi GBM Final Real-time Localization",
+  "eventId": "GRB 240624A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36745....1F",
+  "createdOn": 1719236432523,
+  "submitter": "Cuán de Barra at UCD <cuan.debarra@ucdconnect.ie>",
+  "circularId": 36745,
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\nAt 06:01:11.37 UT on 24 June 2024, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 240624A (trigger 740901676/240624251).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 114.37, Dec = -11.05 (J2000 degrees, equivalent to J2000 7h 37m, -11d 3'),\nwith a statistical uncertainty of 12.59 degrees.\n\nThe angle from the Fermi LAT boresight is 91 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240624251/quicklook/glg_skymap_all_bn240624251.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240624251/quicklook/glg_healpix_all_bn240624251.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2024/bn240624251/quicklook/glg_lc_medres34_bn240624251.gif\"\n"
+}

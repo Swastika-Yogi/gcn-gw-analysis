@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 210827A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 210827A",
+  "bibcode": "2021GCN.30743....1B",
+  "createdOn": 1630253771000,
+  "circularId": 30743,
+  "submitter": "Alice Breeveld at MSSL-UCL  <a.breeveld@ucl.ac.uk>",
+  "email": "a.breeveld@ucl.ac.uk",
+  "body": "A. A. Breeveld (UCL-MSSL) and P. D'Avanzo (INAF-OAB) report on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the Swift/BAT-GUANO-detected burst GRB 210827A \n(DeLaunay et al., GCN Circ. 30732) 44720s after the Fermi-GBM trigger (Fermi GBM team, GCN Circ. \n30724). No new optical source consistent with the candidate XRT positions (Gropp et al., GCN Circ. \n30734) is detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system (Breeveld et al. 2011, AIP Conf. \nProc. 1358, 373) for the initial exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite            44720        50434         1650         >21.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction due to the reddening of \nE(B-V) = 0.0111 in the direction of the burst (Schlegel et al. 1998)."
+}

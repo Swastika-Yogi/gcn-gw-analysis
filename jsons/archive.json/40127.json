@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 250407A",
+  "eventId": "GRB 250407A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40127....1K",
+  "createdOn": 1744182885140,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <svinkin@mail.ioffe.ru>",
+  "circularId": 40127,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi GBM team, report:\n\nThe very bright, long-duration GRB 250407A\n(Fermi-GBM detection: The Fermi GBM team, GCN 40104;\nMukherjee and Meegan, GCN 40114;\nBALROG localization: Preis et al., GCN 40105;\nSVOM-GRM detection: Wang et al., GCN 40120;\nKonus-Wind detection: Ferderiks et al., GCN 40121)\nwas detected by Fermi (GBM trigger 765733706), Konus-Wind,\nand BepiColombo (MGNS) at about 56901 s UT (15:48:21).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  110.410 (07h 21m 38s) +35.618 (+35d 37' 06\")\n Corners:\n  111.023 (07h 24m 05s) +37.563 (+37d 33' 48\")\n  111.028 (07h 24m 07s) +37.670 (+37d 40' 12\")\n  109.794 (07h 19m 10s) +33.403 (+33d 24' 09\")\n  109.787 (07h 19m 09s) +33.265 (+33d 15' 53\")\n ---------------------------------------------\nThe error box area is 364 sq. arcmin, and its maximum\ndimension is 4.52 deg (the minimum one is 1.4 arcmin).\nThe Sun distance was 89 deg.\n\nThis localization may be improved.\n\nThe IPN localization is consistent with, but reduces the area of,\nthe Fermi-GBM final (GCN 40104) and BALROG (GCN 40105) localizations.\n\nThe X-ray transient detected by SRG-ART-XC (GCN 40110) and\nSwift-XRT (GCN 40113) is inside the box, which further strengthen\nthe interpretation of the transient as the burst afterglow.\n\nA triangulation map is posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB250407_T56895/IPN"
+}

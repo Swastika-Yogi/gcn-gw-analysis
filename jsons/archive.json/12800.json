@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 120102A",
+  "eventId": "GRB 120102A",
+  "bibcode": "2012GCN.12800....1G",
+  "createdOn": 1325598791000,
+  "circularId": 12800,
+  "submitter": "Valentin Pal'shin at Ioffe Inst  <val@mail.ioffe.ru>",
+  "email": "val@mail.ioffe.ru",
+  "body": "S. Golenetskii, R.Aptekar, D. Frederiks, E. Mazets, V. Pal'shin,\nP. Oleynik, M. Ulanov, D. Svinkin, and T. Cline on behalf\nof the Konus-Wind team, report:\n\nThe long GRB 120102A (Swift-BAT trigger=510922: Marshall et al., GCN \n12794; Markwardt et al., GCN 12799) triggered Konus-Wind at T0=8181.530 \ns UT (02:16:21.530).\n\nThe burst light curve shows a single pulse with a duration of ~15 s. \nThere is a weak precursor marginally seen at ~T0-30 s.\n\nAs observed by Konus-Wind the burst had a fluence of \n1.75(-0.26,+0.30)x10^-5 erg/cm2,\nand a 256-ms peak flux measured from T0+3.536 s\nof 5.56(-1.02, +1.12)x10^-6 erg/cm2/s\n(both in the 20 keV - 4 MeV energy range).\n\nThe time-integrated spectrum of the burst\n(from T0 to T0+16.640 s) is well fitted (in the 20 keV - 4 MeV\nrange) by a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep), with\nalpha = -1.47(-0.07, +0.09),  and\nEp = 805(-180, +288) keV (chi2 = 68.4/73 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand only an upper limit on the high energy\nphoton index: beta < -2.04.\n\nAll the quoted results are preliminary.\nAll the quoted errors are at the 90% confidence level.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB120102_T08181/"
+}

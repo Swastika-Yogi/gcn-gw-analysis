@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 231214A: Swift-BAT refined analysis",
+  "eventId": "GRB 231214A",
+  "submittedHow": "email-legacy",
+  "bibcode": "2023GCN.35385....1S",
+  "createdOn": 1702788915200,
+  "submitter": "Takanori Sakamoto at AGU <tsakamoto@phys.aoyama.ac.jp>",
+  "circularId": 35385,
+  "body": "M. Stamatikos (OSU), S. D. Barthelmy (GSFC), R. Brivio (INAF-OAB),\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC), A. Y. Lien (U Tampa),\nC. B. Markwardt (GSFC), M. Moss (GSFC), D. M. Palmer (LANL),\nT. Parsotan (GSFC/UMBC), T. Sakamoto (AGU)\n(i.e. the Swift-BAT team):\n Using the data set from T-35 to T+962 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 231214A (trigger #1202386)\n(Brivio, et al., GCN Circ. 35335).  The BAT ground-calculated position is\nRA, Dec = 305.666, -72.432 deg which is\n   RA(J2000)  =  20h 22m 39.7s\n   Dec(J2000) = -72d 25' 54.3\"\nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 39%.\n The mask-weighted light curve shows two bright overlapping peaks.  The first\npeak starts from T-5 s, peaks at T+1 s and ends at T+10 s.  The second peak\nstarts from T+10 s, peaks at T+12 s and ends at T+25 s.\nT90 (15-350 keV) is 27.8 +- 7.3 sec (estimated error including systematics).\n The time-averaged spectrum from T-5.37 to T+49.42 sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.87 +- 0.23,\nand Epeak of 167 +- 94 keV (chi squared 60.53 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 9.6 +- 0.3 x 10^-6 erg/cm2\nand the 1-sec peak flux measured from T+12.57 sec in the 15-150 keV band is\n11.3 +- 0.6 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.25 +- 0.05 (chi squared 69.34 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n The results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/1202386/BA/\n\n"
+}

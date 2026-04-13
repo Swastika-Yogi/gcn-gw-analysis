@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 181203A: Swift/UVOT Upper Limits",
+  "eventId": "GRB 181203A",
+  "bibcode": "2018GCN.23505....1M",
+  "createdOn": 1543942556000,
+  "circularId": 23505,
+  "submitter": "Frank Marshall at Swift/UVOT  <marshall@milkyway.gsfc.nasa.gov>",
+  "email": "marshall@milkyway.gsfc.nasa.gov",
+  "body": "F. E. Marshall (NASA/GSFC) and E. Troja (NASA/GSFC/UMCP)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 181203A\n79 s after the BAT trigger (Troja et al., GCN Circ. 23493).\nNo optical afterglow consistent with the XRT position\n(Goad et al. GCN Circ. 23494)\nis detected in the initial UVOT exposures.\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the first\nfinding chart (FC) exposures and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            79          229          147         >20.7\nu_FC               293          543          246         >19.4\nwhite               79         1370          373         >21.8\nv                  624         1421           97         >18.6\nb                  549         1346           78         >20.0\nu                  293         1495          324         >19.7\nw1                 673         1470           97         >19.0\nm2                 648         1445           97         >18.5\nw2                 599         1396           97         >19.7\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.24 in the direction of the burst\n(Schlegel et al. 1998)."
+}

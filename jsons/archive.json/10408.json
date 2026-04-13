@@ -1,0 +1,10 @@
+{
+  "subject": "Swift/UVOT observations of GRB120212A",
+  "eventId": "GRB 120212A",
+  "bibcode": "2010GCN.10408....1D",
+  "createdOn": 1266075129000,
+  "circularId": 10408,
+  "submitter": "Massimiliano de Pasquale at MSSL-UCL  <mdp@mssl.ucl.ac.uk>",
+  "email": "mdp@mssl.ucl.ac.uk",
+  "body": "M. De Pasquale (MSSL/UCL) and D. Grupe (PSU) report on behalf of the\nSwift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 100212A\n68 s after the BAT trigger (Grupe et al., GCN Circ. 10401) with\nthe finding chart in the white filter.\nNo optical afterglow is detected within the enhanced XRT error circle\nposition (Osborne et al., GCN Circ 10403) in the initial UVOT exposure\nand in all other summed exposures at 3 sigma level. The optical source\ndetected by NOT (Malesani et al, GCN circ 10402) is not detected either\nat 3 sigma level.\n\nPreliminary 3-sigma upper limits using the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627) for the first finding chart (FC)\nexposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC            68          218          147         >20.6\nu_FC               281          530          246         >19.8\nwhite               68         1181          353         >21.2\nv                  610         1231           78         >18.7\nb                  536         1156           58         >19.5\nu                  281         1304          304         >19.8\nw1                 660         1280           78         >19.2\nm2                 635         1255           78         >19.3\nw2                 586         1206           78         >19.6\n\nThe values quoted above are not corrected for the strong Galactic \nextinction due to the reddening of E(B-V) = 0.18 in the direction of the \nburst (Schlegel et al. 1998)."
+}

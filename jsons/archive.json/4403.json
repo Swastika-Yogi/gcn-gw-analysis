@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 051227: Joint Swift-HETE Spectral Analysis",
+  "eventId": "GRB 051227",
+  "bibcode": "2005GCN..4403....1S",
+  "createdOn": 1135741813000,
+  "circularId": 4403,
+  "submitter": "Don Lamb at U.Chicago  <lamb@oddjob.uchicago.edu>",
+  "email": "lamb@oddjob.uchicago.edu",
+  "body": "GRB 051227: Joint Swift-HETE Spectral Analysis\n\nT. Sakamoto, J-L. Atteia, G. Ricker, N. Kawai, D. Lamb, and S. Woosley,\non behalf of the HETE Science Team;\n \nM. Arimoto, T. Donaghy, E. Fenimore, M. Galassi, C. Graziani,\nN. Ishikawa, A. Kobayashi, J. Kotoku, M. Maetou, M. Matsuoka,\nY. Nakagawa, R. Sato, T. Shimokawabe, Y. Shirasaki, S. Sugita,\nM. Suzuki, T. Tamagawa, K. Tanaka, and A. Yoshida, on behalf of the\nHETE WXM Team;\n \nN. Butler, G. Crew, J. Doty, G. Prigozhin, R. Vanderspek,\nJ. Villasenor, J. G. Jernigan, A. Levine, G. Azzibrouck, J. Braga,\nR. Manchanda, G. Pizzichini, and S. Gunasekera, on behalf of the HETE\nOperations and HETE Optical-SXC Teams;\n \nM. Boer, J-F Olive, J-P Dezalay, and K. Hurley, on behalf of the HETE\nFREGATE Team;\n\nL. Barbier, S. Barthelmy, J. Cummings, N. Gehrels, and J. Norris, on\nbehalf of the Swift BAT team;\n\nreport:\n\nThe HETE FREGATE instrument detected the initial peak of GRB 051227\n(Swift Trigger 174738; Barbier, et al., GCN 4397) as an untriggered\nevent.\n\nCarrying out a fit to the FREGATE spectral data alone, the spectrum \nof the initial peak is adequately fit by a power-law (PL) model, with\nphoton index alpha = 1.3 +0.4/-0.6 (90% confidence level).  This\nconfirms the result reported by Hullinger et. al (GCN 4400).\n\nCarrying out a joint fit to the BAT plus FREGATE spectral data, the\nbest-fit cutoff PL model yields an improvement in ch^i2 over the\nbest-fit PL model of 5.2 for one additional parameter, corresponding \nto a significance of 2.3E-02.  Thus the joint spectral fit provides\nevidence of curvature in the spectrum.\n\nAdopting the best-fit cutoff PL model yields a best-fit value of \nEpk = 100 +219/-41.3 keV (90% confidence level) and a fluence ratio \nS(2 keV-30 keV)/S(30 keV-400 keV) = 0.19.  The event is therefore a \nhard GRB."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 080625: Swift/UVOT Detection of an Optical Afterglow",
+  "eventId": "GRB 080625",
+  "bibcode": "2008GCN..7905....1I",
+  "createdOn": 1214446148000,
+  "circularId": 7905,
+  "submitter": "Stefan Immler at NASA/GSFC  <stefan.m.immler@nasa.gov>",
+  "email": "stefan.m.immler@nasa.gov",
+  "body": "S. Immler (NASA/CRESST/GSFC) reports on behalf of the Swift/UVOT team:\n\nThe Swift Ultra-Violet/Optical Telescope (UVOT) started observing\nGRB 080625 (Pacciani et al., GCN Circ. 7903) ~5.0 hours after the\nAGILE trigger.\n\nA candidate afterglow is found in UVOT White, v, and b filter\nimages which cover the entire AGILE error circle. The preliminary\nSwift/UVOT position of the optical afterglow candidate is:\n\n  RA(J2000)  = 19:53:37.06 = 298.4044\n  DEC(J2000) = +56:16:40.5 = 56.2779\n\nwith a 1-sigma error radius of about 0.5 arcsec.\nThe following table gives the measured magnitudes:\n\nFilter   T_start [s]   T_stop [s]   Exp [s]   Magnitude\n\nWhite   18769   19567   799    20.3 +/- 0.1\nWhite   24551   25179   1427   20.6 +/- 0.1\nV       19575   20350   776    19.6 +/- 0.1\nB       17964   18762   799    20.1 +/- 0.1\nB       23746   24544   799    20.7 +/- 0.2\nU       17880   23741   240    >20.4 (3-sigma UL)\n\nThe values quoted above are in the UVOT photometric system\n(Poole et al. 2008, MNRAS, 383, 627). No correction has been\nmade for the expected extinction corresponding to E(B-V) of\n0.44 mag in the direction of the burst (Schlegel et al. 1998)."
+}

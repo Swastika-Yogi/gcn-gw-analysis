@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060116: Swift/UVOT upper limits",
+  "eventId": "GRB 060116",
+  "bibcode": "2006GCN..4527....1P",
+  "createdOn": 1137432261000,
+  "circularId": 4527,
+  "submitter": "Tracey Poole at MSSL  <tsp@mssl.ucl.ac.uk>",
+  "email": "tsp@mssl.ucl.ac.uk",
+  "body": "T. S. Poole (UCL-MSSL),  S. Campana (INAF-OAB), J. Nousek (PSU), N. \nWhite (GSFC), N. Gehrels (GSFC) on behalf of the Swift/UVOT team.\n\nThe Swift/UVOT began observing the field of GRB060116 (BAT \nTrigger=177533, S. Campana, et. al, GCN 4519) at 08:39:46, 154s after \nthe BAT trigger. No new source is detected at the XRT position (S. \nCampana, GCN 4522) in coadded images with any of the filters. The \nfollowing 3-sigma magnitude upper limits are not corrected for Galactic \nextinction; E(B-V) = 0.264.\n\nFilter   T_range(s)  T_exp(s)  3sigma(mag)\n\nV        154-610     219.6     19.2\nB        361-706     219.6     20.2\nW1       639-802     39.6      18.5\nM2       614-778     38.6      18.5\nW2       567-731     39.6      18.5\n\nWhere T_range is time post-trigger, and T_exp is the exposure time of\nthe observation. A 6 arcsec radius was used for all filters.\n\nThis message may be cited."
+}

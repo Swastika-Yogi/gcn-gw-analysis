@@ -1,0 +1,10 @@
+{
+  "subject": "GRB070406: Swift UVOT observations",
+  "eventId": "GRB 070406",
+  "bibcode": "2007GCN..6258....1L",
+  "createdOn": 1175992389000,
+  "circularId": 6258,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <landsman@milkyway.gsfc.nasa.gov>",
+  "email": "landsman@milkyway.gsfc.nasa.gov",
+  "body": "W. Landsman (NASA/GSFC), M. Chester (PSU) and S. McBreen (MPE) report on \nbehalf of the Swift UVOT team:\n\nSwift/UVOT observed the field of GRB 070406 starting 20.6 hours after \nthe trigger.   Swift did not autonomously slew because the burst was \nbelow the trigger threshold.\n\nComparison with pre-burst DSS and SDSS images show no new source within \nthe BAT error circle with the following 3 sigma upper limits in the \nco-added frames in all filters:\n\nFilter   T_start  T_Stop   Exp(s)  Mag 3-sig UL\n          (s)      (s)\nV        84712   132829    1407     21.6\nB        74251   139272    3360     23.0\nU       102871   138592    2539     22.4\nUVW1     98648   137680    3666     24.3\nUVM2     90394   133486    2845     23.5\nUVW2     80549   131916    2626     23.9\nWhite    75162   115280    1318     22.6\n\nThe blue galaxy found in pre-burst SDSS images (Kann, GCN 6256)  within \nthe tentative XRT error circle (Troja et al., GCN 6255) is found from \nthe UVOT observations to be unusually  bright in the UV filters.\n\n      Mag      Err\nV      20.05    0.15\nB      20.06    0.05\nU      19.11    0.04\nUVW1   18.83    0.04\nUVM2   18.52    0.05\nUVW2   18.67    0.04\n\nHowever, there is no compelling evidence of variability of this source \nwithin the individual UVOT frames."
+}

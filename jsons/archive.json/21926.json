@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170921B",
+  "eventId": "GRB 170921B",
+  "bibcode": "2017GCN.21926....1K",
+  "createdOn": 1506356431000,
+  "circularId": 21926,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A. Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 170921B\n(Fermi GBM detection: Bissaldi, GCN Circ. 21902;\nIPN Triangulation: Hurley et al., GCN Circ. 21918)\ntriggered Konus-Wind at T0=14528.886 s UT (04:02:08.886).\n\nThe burst light curve shows a single pulse which\nstarts at ~T0-0.2 s and has a total duration of ~25 s.\nThis pulse passes into a weaker decaying tail,\nwhich can be traced out to ~T0+164 s.\nThe emission is seen up to ~4 MeV.\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 5.44(-0.22,+0.22)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+0.704 s,\nof 6.75(-1.20,+1.21)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+22.528 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -1.42(-0.05,+0.05)\nand Ep = 138(-6,+7) keV (chi2 = 76/72 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.3\n(chi2 = 76/71 dof)\n\nThe spectrum near the maximum count rate\n(measured from T0+0.256 to T0+2.048 s)\nis best fit in the 20 keV - 4 MeV range\nby a power law with exponential cutoff model\nwith  alpha = -0.33(-0.13,+0.14)\nand Ep = 318(-22,+25) keV (chi2 = 52/67 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.7\n(chi2 = 52/66 dof)\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170921_T14528/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

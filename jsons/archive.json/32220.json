@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 220617A (short)",
+  "eventId": "GRB 220617A",
+  "bibcode": "2022GCN.32220....1K",
+  "createdOn": 1655575354000,
+  "circularId": 32220,
+  "submitter": "Anna Ridnaia at Ioffe Institute  <ridnaia@mail.ioffe.ru>",
+  "email": "ridnaia@mail.ioffe.ru",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars-Odyssey team,\n\nA. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, and C. Wilson-Hodge\non behalf of the Fermi GBM team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 220617A\n(Fermi-GBM detection: Fermi GBM Team, GCN Circ 32209;\nFermi-LAT detection: Di Lalla et al., GCN Circ 32212)\nhas been detected by Fermi (GBM trigger 677183477),\nINTEGRAL (SPI-ACS), Konus-Wind, and Mars-Odyssey (HEND),\nso far, at about 66669 s UT (18:31:09).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  156.882 (10h 27m 32s) +15.600 (+15d 36' 01\")\n Corners:\n  157.351 (10h 29m 24s) +16.445 (+16d 26' 41\")\n  157.423 (10h 29m 41s) +16.807 (+16d 48' 25\")\n  156.369 (10h 25m 29s) +14.606 (+14d 36' 21\")\n  156.247 (10h 24m 59s) +14.082 (+14d 04' 54\")\n ---------------------------------------------\nThe error box area is 867 sq. arcmin, and its maximum\ndimension is 2.9 deg (the minimum one is 5.8 arcmin).\nThe Sun distance was 66 deg.\n\nThis box may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB220617_T66669/IPN\n\nThe Fermi-LAT localization was covered by Swift ToO (GCN Circ 32215)\nbut none of the X-ray sources detected are inside the box.\n\nThe Konus-Wind time history and spectrum will be given in a forthcoming\nGCN Circular."
+}

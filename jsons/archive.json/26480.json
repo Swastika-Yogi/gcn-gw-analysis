@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 191218A: Swift detection of a burst",
+  "eventId": "GRB 191218A",
+  "bibcode": "2019GCN.26480....1T",
+  "createdOn": 1576637489000,
+  "circularId": 26480,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "E. Troja (NASA/GSFC/UMCP), N. J. Klingler (PSU),\nA. Y. Lien (GSFC/UMBC), M. J. Moss (GWU), K. L. Page (U Leicester),\nD. M. Palmer (LANL), M. H. Siegel (PSU) and A. Tohuvavohu (U Toronto)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 02:42:43 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 191218A (trigger=944916).  Swift did not slew to this burst due\nto a Sun constraint. \nThe BAT on-board calculated location is \nRA, Dec 301.078, -40.274 which is \n   RA(J2000) = 20h 04m 19s\n   Dec(J2000) = -40d 16' 25\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a double-peaked\nstructure with a duration of about 60 sec.  The peak count rate\nwas ~4000 counts/sec (15-350 keV), at ~0 sec after the trigger. \n\nDue to a Sun observing constraint, Swift cannot slew to the BAT\nposition until 12:12 UT on 2020 February 27. There will thus be no XRT\nor UVOT data for this trigger before this time. \n\nBurst Advocate for this burst is E. Troja (eleonora.troja AT nasa.gov). \nPlease contact the BA by email if you require additional information\nregarding Swift followup of this burst. In extremely urgent cases, after\ntrying the Burst Advocate, you can contact the Swift PI by phone (see\nSwift TOO web site for information: http://www.swift.psu.edu/)"
+}

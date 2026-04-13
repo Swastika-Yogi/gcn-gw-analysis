@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 200125B",
+  "eventId": "GRB 200125B",
+  "bibcode": "2020GCN.26951....1S",
+  "createdOn": 1580487109000,
+  "circularId": 26951,
+  "submitter": "Dmitry Svinkin at Ioffe Institute  <svinkin@mail.ioffe.ru>",
+  "email": "svinkin@mail.ioffe.ru",
+  "body": "D. Svinkin, S. Golenetskii, R. Aptekar, D. Frederiks,\nM. Ulanov, A. Tsvetkova, A. Lysenko, A. Ridnaia, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe long-duration, very bright GRB 200125B\n(Fermi-GBM observations: The Fermi GBM team, GCN Circ. 26879;\nVeres et al., GCN Circ. 26893;\nBALROG localization: Biltzinger et al., GCN Circ. 26880;\nInsight-HXMT/HE detection: Cai et al., GCN Circ. 26888;\nIPN triangulation: Svinkin et al., GCN Circ. 26918)\ntriggered Konus-Wind at T0=74611.206 s UT (20:43:31.206).\n\nThe burst light curve shows a multipeaked structure\nwhich starts at ~T0-0.5 s and has a total duration of ~10 s.\nThe emission is seen up to ~10 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB200125_T74611/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 6.01(-0.36,+0.37)x10^-5 erg/cm2,\nand a 64-ms peak flux, measured from T0+1.312 s,\nof 3.92(-0.44,+0.46)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+12.288 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.91(-0.06,+0.07),\nthe high energy photon index beta = -2.48(-0.15,+0.12),\nthe peak energy Ep = 211(-15,+16) keV\n(chi2 = 98/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+1.280 to T0+1.536 s)\nis best fit in the 20 keV - 4 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.43(-0.14,+0.16),\nthe high energy photon index beta = -2.64(-0.34,+0.21),\nthe peak energy Ep = 295(-36,+39) keV\n(chi2 = 63/51 dof).\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

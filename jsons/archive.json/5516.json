@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060904A:  Refined analysis of the Swift-BAT burst",
+  "eventId": "GRB 060904A",
+  "bibcode": "2006GCN..5516....1K",
+  "createdOn": 1157373202000,
+  "circularId": 5516,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMD), E. Fenimore (LANL), N. Gehrels (GSFC),\nD. Grupe (PSU), D. Hullinger (BYU-Idaho), C. Markwardt (GSFC/UMD),\nD. Palmer (LANL), A. Parsons (GSFC), T. Sakamoto (GSFC/ORAU),\nG. Sato (GSFC/ISAS), M. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n \nUsing the data set from T-110 to T+843 sec from recent telemetry downlinks,\nwe report further analysis of BAT GRB 060904 (trigger #227996)\n(Grupe, et al., GCN Circ. 5502).  The BAT ground-calculated position\nis (RA,Dec) = 237.730, 44.984 deg {15h 50m 55.3s, 44d 59' 3.7\"} (J2000)\n+- 1.5 arcmin, (radius, sys+stat, 90% containment).  The partial coding was 94%.\n \nThe mask-weighted lightcurve shows the emission starting at a very low level\nat ~T-70 sec, then increasing slightly at ~T-7 sec for the trigger with several\nsmall peaks until the main peak.  The main emission peak starts at T+45,\npeaking at T+56, and ending at ~T+125 sec.  T90 (15-350 keV) is 80 +- 2 sec\n(estimated error including systematics).  Note that the spacecraft slewed\nto the field of view containing the burst approximately 110 seconds\nbefore the trigger, so there is no BAT data before this time.\n \nThe time-averaged spectrum from T-23.9 to T+108.7 is best fit by \na simple power-law model.  The power law index of the time-averaged spectrum\nis 1.52 +- 0.04.  The fluence in the 15-150 keV band is 7.9 +- 0.2 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+55.34 sec in the 15-150 keV\nband is 4.9 +- 0.2 ph/cm2/sec.  All the quoted errors are at the 90%\nconfidence level."
+}

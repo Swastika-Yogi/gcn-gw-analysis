@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190720a: Updated localization from LIGO and Virgo data",
+  "eventId": "LIGO/Virgo S190720a",
+  "bibcode": "2019GCN.25138....1L",
+  "createdOn": 1563820813000,
+  "circularId": 25138,
+  "submitter": "John Veitch at U of Glasgow  <john.veitch@ligo.org>",
+  "email": "john.veitch@ligo.org",
+  "body": "The LIGO Scientific Collaboration and the Virgo Collaboration report:\n\n\nWe have re-analyzed LIGO and Virgo data around the time of the compact\nbinary coalescence (CBC) candidate S190720a (GCN 25115). Parameter\nestimation has been performed using LALInference [1] and a new sky\nmap, LALInference.offline.fits.gz, is available for retrieval from the\nGraceDB event page:\n\n\nhttps://gracedb.ligo.org/superevents/S190720a/\n\n\nThis is currently the preferred skymap. For the LALInference.offline.fits.gz \nsky map, the 90% credible region is 443 deg2.\nMarginalized over the whole sky, the a posteriori luminosity\ndistance estimate is 869 +/- 283 Mpc (a posteriori mean +/- standard\ndeviation). This is the preferred sky map at this time. The LALInference \nskymap is generated using data from three detectors, while the sky map\nshared in GCN 25115, was generated from data obtained from two detectors.\nThis partly contributed to the better localization.\n\n\nFor further information about analysis methodology and the contents\nof this alert, refer to the LIGO/Virgo Public Alerts User Guide\n<https://emfollow.docs.ligo.org/userguide/>.\n\n\n\n[1] Veitch et al. PRD 91, 042003 (2015)"
+}

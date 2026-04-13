@@ -1,0 +1,9 @@
+{
+  "subject": "ASM GRB candidate 020406 refined error box",
+  "bibcode": "2002GCN..1341....1S",
+  "createdOn": 1018308297000,
+  "circularId": 1341,
+  "submitter": "Don Smith at U michigan  <dasmith@rotse2.physics.lsa.umich.edu>",
+  "email": "dasmith@rotse2.physics.lsa.umich.edu",
+  "body": "D. A. Smith (U of Michigan) and R. Remillard (MIT) report on behalf of the\nRXTE/ASM teams at MIT and NASA/GSFC:\n\nFurther RXTE/ASM detections of the event reported in GCN Circ. No. 1332 have\nbeen discovered in the ASM production data, missing from the realtime data\nstream available on the day of the event.  Rather than scanning *off* the\nsource, as we reported, the ASM scan actually moved to put the source *closer*\nto the center of the FOV, greatly increasing the detector area exposed to this\nsource.  The time series data show that the source remained bright, with some\nevidence for fading, for at least 100 seconds after the end of the observation\nreported in GCN Circ. 1332.  The light curve is strongest in the 5-12 keV band,\nwith an average count rate during the second dwell of 21.3+-0.7 c/s, as\ncompared to only 3.0+-0.6 c/s in the 1.5-3 keV band (ASM rates for the Crab are\n25.4 and 26.8 in the soft and hard bands, respectively).\n\nUsing the strongest detection of this source in each camera, we were able to\ngreatly refine our error box to a parallelogram roughly 3 arcminutes on a side.\nThis box is centered on the coordinates \n                R.A.: 19h 01m 45.95s, Decl: 1d 26' 15.7\", \nand its corners are located at the following coordinates (all coordinates in\nepoch J2000.0):\n\nR.A.      Decl.\n285.4381 1.4150\n285.3389 1.4563\n285.4472 1.4595\n285.5416 1.4201\n\nThis refined localization appears to rule out the counterpart candidate\nproposed by Durig & McDermott in GCN #1138.\n\nA background-subtracted 5-12 keV light curve and the four ASM localizations of\nthis event can be seen at http://xte.mit.edu/grb/grb020406/"
+}

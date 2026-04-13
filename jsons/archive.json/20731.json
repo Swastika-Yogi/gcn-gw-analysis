@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 170222A",
+  "eventId": "GRB 170222A",
+  "bibcode": "2017GCN.20731....1K",
+  "createdOn": 1487940745000,
+  "circularId": 20731,
+  "submitter": "Anna Kozlova at Ioffe Institute  <ann_kozlova@mail.ioffe.ru>",
+  "email": "ann_kozlova@mail.ioffe.ru",
+  "body": "A.Kozlova, S. Golenetskii, R. Aptekar, D. Frederiks, P. Oleynik,\nM. Ulanov, D. Svinkin, A. Tsvetkova, A. Lysenko, and T. Cline\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 170222A\n(IPN triangulation: Hurley et al., GCN 20722;\nFermi GBM observation: Hamburg et al., GCN 20728)\ntriggered Konus-Wind at T0=18056.528 s UT (05:00:56.528).\n\nThe burst light curve shows a multi-peaked structure\nwhich starts at ~T0-0.1 s and has a total duration of ~1.9 s.\nThe emission is seen up to ~10 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n9.10(-2.43,+3.61)x10^-6 erg/cm2, and a 64-ms peak flux,\nmeasured from T0+1.104 s, of 1.23(-0.46,+0.76)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst (measured from T0 to T0+8.448 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = -0.72(-0.26,+0.36)\nand Ep = 1210(-418,+830) keV (chi2 = 73/88 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -2.28\n(chi2 = 73/87 dof)\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB170222_T18056/\n\nAll the quoted errors are at the 90% confidence level.\nAll the quoted values are preliminary."
+}

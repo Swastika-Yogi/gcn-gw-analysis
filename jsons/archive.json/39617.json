@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250306A: Swift-BAT refined analysis",
+  "eventId": "GRB 250306A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39617....1P",
+  "createdOn": 1741372710217,
+  "circularId": 39617,
+  "submitter": "Rahul Gupta at NASA GSFC <rahul.gupta@nasa.gov>",
+  "format": "text/plain",
+  "body": "T. Parsotan (GSFC), S. D. Barthelmy (GSFC),\n\nP. A. Evans (U Leicester), R. Gupta (GSFC),\n\nH. A. Krimm (NSF), S. Laha (GSFC/UMBC),\n\nA. Y. Lien (U Tampa), C. B. Markwardt (GSFC),\n\nM. J. Moss (GSFC), D. M. Palmer (LANL),\n\nD. Sadaula (GSFC/UMBC), T. Sakamoto (AGU)\n\n(i.e. the Swift-BAT team):\n\n\nUsing the data set from T-240 to T+961 sec from the recent telemetry downlink,\n\nwe report further analysis of BAT GRB 250306A (trigger #1293340)\n\n(Evans et al., GCN Circ. 39606).  The BAT ground-calculated position is\n\nRA, Dec = 354.724, -47.998 deg which is\n\n   RA(J2000)  =  23h 38m 53.7s\n\n   Dec(J2000) = -47d 59' 52.8\"\n\nwith an uncertainty of 1.1 arcmin, (radius, sys+stat, 90% containment).\n\nThe partial coding was 13%.\n\n\nThe mask-weighted BAT light curve shows a distinct peak at around BAT trigger time,\n \nfollowed by a rapid decay and a quieter post-peak phase. \n\nT90 (15-350 keV) is 11.44 +- 2.44 sec (estimated error including systematics).\n\n\nThe time-averaged spectrum from T-1.52 to T+19.04 sec is best fit by a power law\n\nwith an exponential cutoff.  This fit gives a photon index 0.87 +- 0.24,\n\nand Epeak of 132.8 +- 45.6 keV (chi squared 62.11 for 56 d.o.f.).  For this\n\nmodel the total fluence in the 15-150 keV band is 8.9 +- 0.3 x 10^-06 erg/cm2\n\nand the 1-sec peak flux measured from T+0.18 sec in the 15-150 keV band is\n\n35.9 +- 1.6 ph/cm2/sec.  A fit to a simple power law gives a photon index\n\nof 1.37 +- 0.05 (chi squared 75.58 for 57 d.o.f.).  All the quoted errors\n\nare at the 90% confidence level.\n\n\nThe results of the batgrbproduct analysis are available at\n\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1293340"
+}

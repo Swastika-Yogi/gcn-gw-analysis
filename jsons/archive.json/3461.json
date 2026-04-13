@@ -1,0 +1,9 @@
+{
+  "subject": "Swift/UVOT observation of XRF 050522",
+  "bibcode": "2005GCN..3461....1B",
+  "createdOn": 1116876345000,
+  "circularId": 3461,
+  "submitter": "Alexander Blustin at MSSL-UCL  <ajb@mssl.ucl.ac.uk>",
+  "email": "ajb@mssl.ucl.ac.uk",
+  "body": "A. Blustin (MSSL), F. Marshall (NASA/GSFC), K. McGowan,\nS. Rosen, A. Breeveld (MSSL), N. Gehrels (NASA/GSFC) on\nbehalf of the Swift UVOT team\n\nINTEGRAL detected XRF 050522 at 06:00:21 UT on 22nd May\n2005 (GCN circ 3446). The Swift observatory executed a\nToO observation of the INTEGRAL position, and the UVOT\nbegan taking data 32879 s after the burst.\n\nNo new source is detected in the UVOT field of view\nwithin the INTEGRAL error circle in the B, U and UVW2\nfilters down to the following 5-sigma upper limits:\n\nFilter  Limit  Exp (s)  T_start  T_stop\n\nB       19.7     170     33786    34686\nU       19.9     425     32879    33779\nUVW2    20.2     241     34695    34936\n\nWhere T_start and T_stop are in seconds after the burst."
+}

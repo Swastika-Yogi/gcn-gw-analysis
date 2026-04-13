@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110921A: Swift/UVOT Observations",
+  "eventId": "GRB 110921A",
+  "bibcode": "2011GCN.12389....1B",
+  "createdOn": 1316787806000,
+  "circularId": 12389,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL-UCL) and W. H. Baumgartner (GSFC/UMBC) report on \nbehalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110921A \n126 s after the BAT trigger (Baumgartner et al., GCN Circ. 12373).\n\nA source consistent with the optical position (Xin et al., GCN Circ. \n12377 and Xu et al., GCN Circ. 12385) is detected at 3.5 sigma in the \nsummed white data, but is not seen in any of the other filters, nor in \nany of the white exposures individually.\nPreliminary magnitudes and 3-sigma upper limits using the UVOT \nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for the first \nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           126          276          147         >21.3\nu_FC               284          534          246         >20.6\nwhite              126         1704          411          21.4 �� 0.3\nv                  614         5307          308         >20.3\nb                  540         1679          117         >20.7\nu                  284         1654          343         >20.9\nw1                 664         1629          117         >21.1\nm2                 639         1604          117         >19.7\nw2                 590         1725          132         >20.6\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.14 in the direction of the burst\n(Schlegel et al. 1998)."
+}

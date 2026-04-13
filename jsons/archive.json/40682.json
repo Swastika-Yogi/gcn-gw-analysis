@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250610B: Fermi/GBM sub-threshold detection of a possibly hard burst",
+  "eventId": "GRB 250610B",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40682....1W",
+  "createdOn": 1749612779370,
+  "submitter": "Hao Zhou at Purple Mountain Observatory, CAS <haozhou@pmo.ac.cn>",
+  "circularId": 40682,
+  "format": "text/markdown",
+  "body": "Yun Wang, Hao Zhou, Zhi-Ping Jin, Yi-Zhong Fan (PMO,CAS):\n\nWe report a possible sub-threshold detection of GRB 250610B by the Fermi Gamma-ray Burst Monitor (GBM). The burst was initially detected by SVOM/ECLAIRs (Saccardi et al., GCN 40671) at T0 = 2025-06-10 16:32:58 UTC. The reported position is  R.A., Dec. 200.1831, 31.1028 degrees. Based on the poshist file, the GBM NaI detector with the smallest incident angle to the burst direction was nb.\n\nWe used the GBM Time-Tagged Event (TTE) data to extract the spectrum over the interval from T0–10 s to T0+80 s. The background was estimated from two intervals: T0–200 s to T0–100 s and T0+300 s to T0+400 s. We fitted the spectrum with a cutoff power-law model (dN/dE ~ (E^-alpha)*exp(-E/Ec)), obtaining alpha ~ -0.6 and a peak energy Ep=(2-alpha)*Ec ~ 55 keV. The energy flux in the 1–10000 keV band is estimated to be ~ 5.72e-9 erg/cm^2/s. The spectrum can be fitted with a blackbody model, yielding a temperature of kT ~13 keV and providing a better goodness of fit than a cutoff power-law model.\n\nThis is a test using RapidGBM (https://github.com/0neyun/RapidGBM), and the results presented here should be considered preliminary."
+}

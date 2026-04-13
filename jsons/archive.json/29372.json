@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 140330A: Swift-XRT refined Analysis",
+  "eventId": "GRB 140330A",
+  "bibcode": "2021GCN.29372....1D",
+  "createdOn": 1611931941000,
+  "circularId": 29372,
+  "submitter": "Phil Evans at U of Leicester  <pae9@leicester.ac.uk>",
+  "email": "pae9@leicester.ac.uk",
+  "body": "A. D'Ai (INAF-IASFPA), A. Tohuvavohu (U. Toronto), B. Sbarufatti (PSU),\nD.N. Burrows (PSU), P.A. Evans (U. Leicester), J.P. Osborne (U.\nLeicester), K.L. Page (U. Leicester), A. Melandri (INAF-OAB), T.\nSbarrato (INAF-OAB) and  report on behalf of the Swift-XRT team: report\non behalf of the Swift-XRT team:\n\nWe have analysed 3.2 ks of XRT data for the Fermi/LAT-detected burst\nGRB 140330A, from 102.0 ks to 120.0 ks after the  Fermi/LAT trigger.\nThe data are entirely in Photon Counting (PC) mode. The refined XRT\nposition is RA, Dec = 325.4425, -64.1882 which is equivalent to:\n\nRA (J2000): 21 41 46.19\nDec(J2000): -64 11 17.4\n\nwith an uncertainty of 4.0 arcsec (radius, 90% confidence). This\nposition is 7.7 arcmin from the Fermi/LAT position.  The source has a\nmean count rate of 2.4e-02 ct/sec; we cannot determine at the present\ntime whether it is fading.\n\nA spectrum formed from the PC mode data can be fitted with an absorbed\npower-law with a photon spectral index of 1.8 (+0.7, -0.5). The\nbest-fitting absorption column is  9 (+17, -5) x 10^20 cm^-2,\nconsistent with the Galactic value of 3.5 x 10^20 cm^-2 (Willingale et\nal. 2013). The counts to observed (unabsorbed) 0.3-10 keV flux\nconversion factor deduced from this spectrum  is 3.4 x 10^-11 (4.1 x\n10^-11) erg cm^-2 count^-1. \n\nA summary of the PC-mode spectrum is thus:\nTotal column:\t     9 (+17, -5) x 10^20 cm^-2\nGalactic foreground: 3.5 x 10^20 cm^-2\nExcess significance: <1.6 sigma\nPhoton index:\t     1.8 (+0.7, -0.5)\n\nThe results of the XRT-team automatic analysis are available at\nhttp://www.swift.ac.uk/xrt_products/00020372.\n\nThis circular is an official product of the Swift-XRT team."
+}

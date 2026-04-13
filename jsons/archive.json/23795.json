@@ -1,0 +1,9 @@
+{
+  "subject": "Trigger 885807: Swift detection of MAXI J1348-630",
+  "bibcode": "2019GCN.23795....1D",
+  "createdOn": 1548500739000,
+  "circularId": 23795,
+  "submitter": "Kim Page at U.of Leicester  <klp5@leicester.ac.uk>",
+  "email": "klp5@leicester.ac.uk",
+  "body": "V. D'Elia (SSDC), A. Y. Lien (GSFC/UMBC) and K. L. Page (U Leicester)\nreport on behalf of the Neil Gehrels Swift Observatory Team:\n\nAt 10:37:53 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated MAXI J1348-630 (trigger=885807).  Swift slewed immediately \nto the source. The BAT on-board calculated location is \nRA, Dec 207.003, -63.265 which is \n   RA(J2000) = 13h 48m 01s\n   Dec(J2000) = -63d 15' 54\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve showed a complex\nstructure.  The peak count rate was ~2500 counts/sec (15-350 keV), \nat ~4 sec after the trigger. \n\nThe XRT began observing the field at 10:48:44.0 UT, 650.4 seconds after\nthe BAT trigger. The XRT centroided on a cosmic ray, so the automatic \nposition notice is incorrect. There are no other data available at \nthis time. \n\nThere are no UVOT data available at this time. \n\nThis source was discovered by MAXI at 03:16 UT this morning (ATel 12425)"
+}

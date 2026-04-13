@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 241104A/EP241104a: Optical upper limits with Kinder observations",
+  "eventId": "GRB 241104A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38084....1W",
+  "createdOn": 1730820832882,
+  "circularId": 38084,
+  "submitter": "Janet Chen at National Central University <janetstars@gmail.com>",
+  "format": "text/plain",
+  "body": "Z. N. Wang (HNAS), A. Aryan, T.-W. Chen, W.-J. Hou (all NCU), J. Gillanders (Oxford), A. K. H. Kong (NTHU), S. J. Smartt (Oxford/QUB), Y. J. Yang, A. Sankar. K, Y.-C. Pan, C.-C. Ngeow, M.-H. Lee, H.-C. Lin, C.-H. Lai, H.-Y. Hsiao, C.-S. Lin, J.-K. Guo (all NCU), S. Yang, L. L. Fan, G. H. Sun (all HNAS), H.-W. Lin (UMich), H. F. Stevance, S. Srivastav, L. Rhodes (all Oxford), M. Nicholl, M. Fulton, T. Moore, K. W. Smith, C. Angus, A. Aamer (all QUB), A. Schultz and M. Huber (both IfA, Hawaii) report: \n\nWe observed the field of the GRB/fast X-ray transient GRB 241104A/EP241104a (Fermi GBM Team, GCN 38075; Schanne et al., GCN 38078;  Zhou et al., GCN 38081, SVOM/GRM Team, GCN 38082, Watson et al., GCN 38083) using the 1m LOT at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen & Yang et al., 2024arXiv240609270C). The first LOT epoch of observations started at 13:15 UTC on the 5th of November 2024 (MJD = 60619.552), 18.75hr after the EP WXT trigger. \n\nWe utilized the astroalign (Beroiz et al. 2020, A&C, 32, 100384) and astropy (Astropy Collaboration et al., 2022, ApJ, 935, 167) packages to align and stack the individual frames. We do not find any evidence of a new and uncataloged source in the stacked images within the 2.7 arcminute error circle of EP-WXT localization. \n\nMoreover, we utilized the Python-based package AutoPhOT (Brennan & Fraser, 2022, A&A, 667, A62) to perform the PSF photometry on our stacked frames. The details of the observations and measured 3-sigma upper limit (in the AB system) are as follows:\n\nTelescope | Filter | MJD (start) | t-t0 (hr) | Exposure (s) | Magnitude | avg. Seeing | med. Airmass\nLOT | r | 60619.552 | 18.75 | 300 * 6 | >22.8 | 1\".29 | 1.07\n\nThe presented magnitudes are calibrated using field stars from the Pan-STARRS1 catalog, and are not corrected for the expected Galactic foreground extinction corresponding to a reddening of E(B-V) = 0.07 AB mag in the direction of the burst (Schlafly & Finkbeiner 2011)."
+}

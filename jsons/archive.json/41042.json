@@ -1,0 +1,11 @@
+{
+  "subject": "IceCube-250706A: No Candidates from WINTER",
+  "eventId": "IceCube-250706A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.41042....1S",
+  "createdOn": 1752006914687,
+  "circularId": 41042,
+  "submitter": "Robert David Stein at JSI <rdstein@umd.edu>",
+  "format": "text/plain",
+  "body": "Robert Stein (UMD), Danielle Frostig (CfA), Viraj Karambelkar (Caltech), Mansi Kasliwal (Caltech), Nathan Lourie (MIT), Geoffrey Mo (MIT), and Robert Simcoe (MIT) report:\n\nOn behalf of Wide-Field Infra-Red Transient Explorer (WINTER) collaboration: \n\nWe observed the localization region of the neutrino event IceCube-250706A (Zegarelli et. al, GCN 40994) with the 1.2 sq. degree near-IR WINTER camera on the Palomar 1-m telescope (Lourie et al. 2021, Frostig et al. 2024). We conducted observations in J-band beginning at 2025-07-07 02:42 UTC, approximately 13.5 hours after event time. Our observations covered a total of 0.7 sq. deg. of sky for which reference images were available, corresponding to 77.3% of the total probability. Our observations reached a median depth of 18.8 AB mag. \n\nThe images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565). We use data from the UKIRT Hemisphere survey (Dye et al. 2018) as references for image subtraction. We search for WINTER sources with multiple detections, and for WINTER sources with cross-matches in the alert stream of the Zwicky Transient Facility (Bellm et al. 2019). \n\nAfter removing likely stellar sources and likely subtraction artefacts, we find no candidate counterparts.\n\nThis is consistent with similar non-detections reported in the optical by Globus et al. (GCN 41003),  Becerra et al. (GCN 41004) and Stein et al. (GCN 41040). \n\nObservations of this field will continue as part of the WINTER neutrino follow-up program.\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

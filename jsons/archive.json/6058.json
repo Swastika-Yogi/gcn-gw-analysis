@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070129, Swift-BAT refined analysis of a particularly long",
+  "eventId": "GRB 070129",
+  "bibcode": "2007GCN..6058....1K",
+  "createdOn": 1170174669000,
+  "circularId": 6058,
+  "submitter": "Hans Krimm at NASA-GSFC  <krimm@milkyway.gsfc.nasa.gov>",
+  "email": "krimm@milkyway.gsfc.nasa.gov",
+  "body": "H. Krimm (GSFC/USRA), L. Barbier (GSFC), S. D. Barthelmy (GSFC),\nJ. Cummings (GSFC/UMBC), E. Fenimore (LANL), N. Gehrels (GSFC),\nO. Godet (U Leicester), C. Markwardt (GSFC/UMD), D. Palmer (LANL),\nA. Parsons (GSFC), T. Sakamoto (GSFC/ORAU), G. Sato (GSFC/ISAS),\nM. Stamatikos (GSFC/ORAU), J. Tueller (GSFC)\non behalf of the Swift-BAT team:\n\nUsing the data set from T-239.0 to T+963.1 sec from the recent telemetry\ndownlink, we report further analysis of BAT GRB 070129\n(trigger #258408)  (Godet, et al., GCN Circ. 6053).  The BAT\nground-calculated position is RA, Dec = 37.001, 11.730 deg which is\n    RA(J2000) = 2h 28m 0.3s\n    Dec(J2000) = +11d 43' 46.7\"\nwith an uncertainty of 2.6 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 41%.\n\nThe mask-tagged light curve showed that the trigger was on a precursor to\nthe main burst which started at approximately T+200 sec, coincident with\nthe detections reported in the XRT (Godet et al, GCN 6056).    Emission\nstarted at ~T-180 sec, then continued through a series of peaks out\nto ~T+160 sec, where there was a dip in the light curve preceding the main\npeak of the prompt emission which lasted until T+380 sec.\nThis was followed by some possible low level emission out to ~T+600 sec.\nT90 (15-350 keV) is 460 +- 20 sec (estimated error including systematics).\n\nThe time-averaged spectrum from T-125.0 to T+373.9 is best fit by\na simple power-law model. The power law index of the time-averaged\nspectrum is 2.05 +- 0.16. The fluence in the 15-150 keV band is\n3.1 +- 0.3 x 10^-6 erg/cm2.  The 1-sec peak photon flux measured from\nT+361.46 sec in the 15-150 keV band is 0.6 +- 0.1 ph/cm2/sec.\nAll the quoted errors are at the 90% confidence level."
+}

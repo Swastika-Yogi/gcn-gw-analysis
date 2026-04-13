@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 240414A: Swift-BAT refined analysis",
+  "eventId": "GRB 240414A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36140....1M",
+  "createdOn": 1713297383911,
+  "submitter": "Mike Moss at NASA GSFC <mikejmoss3@gmail.com>",
+  "circularId": 36140,
+  "body": "C. B. Markwardt (GSFC), S. D. Barthelmy (GSFC),\nR. Caputo (GSFC), H. A. Krimm (NSF),\nS. Laha (GSFC/UMBC), A. Y. Lien (U Tampa),\nM. J. Moss (GSFC), D. M. Palmer (LANL),\nT. Parsotan (GSFC), T. Sakamoto (AGU)\n(i.e. the Swift-BAT team):\n \nUsing the data set from T-61 to T+199 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 240414A (trigger #1221714)\n(Caputo, et al., GCN Circ. 36083).  The BAT ground-calculated position is\nRA, Dec = 184.781, 56.734 deg which is\n   RA(J2000)  =  12h 19m 07.5s\n   Dec(J2000) = +56d 44' 03.0\"\nwith an uncertainty of 1.8 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 91%.\n \nThe mask-weighted light curve shows multiple pulses starting at T0-35 s through\nT0+40 s, with another pulse at T0+110 s. There may be additional emission prior \nto the currently available data starting from ~T0-61 s.\nT90 (15-350 keV) is 88.28 +- 50.41 sec (estimated error including systematics).\n \nThe time-averaged spectrum from TTBD to TTBD sec is best fit by a power law\nwith an exponential cutoff.  This fit gives a photon index 0.99 +- 0.36,\nand Epeak of 97.0 +- 62.5 keV (chi squared 46.83 for 56 d.o.f.).  For this\nmodel the total fluence in the 15-150 keV band is 3.5 +- 0.2 x 10^-06 erg/cm2\nand the 1-sec peak flux measured from T+2.04 sec in the 15-150 keV band is\n1.5 +- 0.2 ph/cm2/sec.  A fit to a simple power law gives a photon index\nof 1.49 +- 0.08 (chi squared 53.19 for 57 d.o.f.).  All the quoted errors\nare at the 90% confidence level.\n \nThe results of the batgrbproduct analysis are available at\nhttps://swift.gsfc.nasa.gov/results/batgrbcat/BAT_refined_circular/1221714"
+}

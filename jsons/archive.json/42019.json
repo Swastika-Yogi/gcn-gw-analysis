@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250926A: triangulation location with Insight-HXMT/HE and Fermi/GBM",
+  "eventId": "GRB 250926A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.42019....1Z",
+  "createdOn": 1759060388350,
+  "circularId": 42019,
+  "submitter": "zhangjinpeng@ihep.ac.cn",
+  "format": "text/plain",
+  "body": "Jin-Peng Zhang, Cheng-Kui Li, Chen-Wei Wang and Shao-Lin Xiong report on behalf of the Insight-HXMT team:\n\nGRB 250926A was detected by Fermi/GBM (the Fermi GBM team, GCN 41993), Insight-HXMT (Chen-Wei Wang et al., GCN 42013) and AstroSat CZTI (A. Goyal et al., GCN 42008). A possible association with Orion Nebula was suggested according to the Fermi/GBM localization result of this burst (Rosa L. Becerra et al., GCN 42000).\n\nTo evaluate this association, we triangulate GRB 250926A with Insight-HXMT/HE and Fermi/GBM event-by-event data using the Li-CCF method [1]. The resulted localization annulus with 3-sigma error (statistical only) is as follows:\n\n| Annulus Center RA (J2000, deg) | Annulus Center Dec (J2000, deg) | Annulus Radius (deg) |\n| ------------------------------ | ------------------------------- | -------------------- |\n| 356.91                         | 27.35                           | 113 +11/-10          |\n\nAccording to this result, the Orion Nebula falls well out of the 3-sigma region of the triangulation annulus of GRB 250926A, thus they are very likely unrelated. Further improvement in the localization of this GRB is possible with more data from other instruments.\n\n[1] Xiao, S. et al. ApJ 920, 43 (2021). https://doi.org/10.3847/1538-4357/ac1420\n"
+}

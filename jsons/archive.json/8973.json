@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 090309: Swift/UVOT Upper Limits",
+  "eventId": "GRB 090309",
+  "bibcode": "2009GCN..8973....1L",
+  "createdOn": 1236722638000,
+  "circularId": 8973,
+  "submitter": "Wayne Landsman at GSFC/SSAI  <wayne.b.landsman@nasa.gov>",
+  "email": "wayne.b.landsman@nasa.gov",
+  "body": "W.B. Landsman (NASA/GSFC) and P. Evans (U. Leicester) report on behalf \nof the Swift/UVOT team:\n\nThe Swift/UVOT observed the field of GRB 090309 starting 82 s after the \nBAT trigger (Evans et al., GCN Circ. 8964). No optical afterglow is \ndetected in the initial UVOT exposures at the refined position of the \nX-ray afterglow (Goad et al., GCN Circ. 8969).     An r~19  field star ( \nGSC S9QR039837) is detected 3\" from the XRT position.      Three-sigma \nupper limits using the UVOT photometric system (Poole et al. 2008, \nMNRAS, 383, 627) in a 2\" radius aperture for the first finding chart \n(FC) exposure and subsequent exposures are:\n\nFilter          T_start(s)   T_stop(s)      Exp(s)       Mag\n\nwhite (FC)          82          231          147         >21.0\nwhite               82         6136          564         >21.8\nv                  624        17530         1317         >20.7\nb                  549        23995         1088         >21.4\nu                  294        23315         2241         >21.5\nuvw1               673        22401         1998         >21.6\nuvm2               648        18210         1875         >21.6\nuvw2               599        16617         1318         >21.6\n\nThe values quoted above are not corrected for the Galactic extinction \ndue to the reddening of E(B-V) = 0.23 in the direction of the burst  \n(Schlegel et al. 1998)."
+}

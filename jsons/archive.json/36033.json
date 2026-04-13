@@ -1,0 +1,9 @@
+{
+  "subject": "Swift satellite resumes pointed science observations",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.36033....1.",
+  "createdOn": 1712278712124,
+  "circularId": 36033,
+  "submitter": "Brad Cenko at NASA/GSFC <brad.cenko@nasa.gov>",
+  "body": "Following the successful installation and testing of a flight software update to enable operation with two gyroscopes (GCN 35953), Swift has now resumed pointed science observations. Preliminary analysis indicates that spacecraft attitude control is as good, if not better, than prior to the onset of increased noise in gyroscope #1 in August 2023 (GCN 34633).\n\nXRT data collection resumed on 3 April 2024, while UVOT was re-enabled on 4 April 2024. \n\nWe anticipate that the rate of spurious BAT triggers resulting from the misidentification of known sources due to star tracker loss of lock should be dramatically reduced. Longer term, we plan to cease the public release of these spurious triggers. But in the interim we recommend careful filtering based on the comment fields of these notices on the user end.\n\nSimilarly, we anticipate that the trailed point spread functions seen in some UVOT images during the last 6 months should be largely mitigated. The team is developing software updates to correct affected event mode data taken during this period, and will update the community when this is ready for release.\n\nThe Swift team will continue to carefully monitor data from all instruments in the coming weeks, and we urge users to do the same as we gain experience with the new spacecraft performance.\n\nIf you have further questions, please feel free to reach out to the Swift PI, Brad Cenko, at brad.cenko@nasa.gov"
+}

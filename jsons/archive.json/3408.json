@@ -1,0 +1,10 @@
+{
+  "subject": "GRB050416:  Afterglow detection at 188 nm with Swift UVOT",
+  "eventId": "GRB 050416",
+  "bibcode": "2005GCN..3408....1F",
+  "createdOn": 1115758019000,
+  "circularId": 3408,
+  "submitter": "Derek Fox at CIT  <derekfox@astro.caltech.edu>",
+  "email": "derekfox@astro.caltech.edu",
+  "body": "Derek B. Fox (Caltech) reports on behalf of a larger collaboration:\n\n\"We have created a summed image from the first 10.14 ksec of exposure\non GRB050416 (BAT trigger #114753; Sakamoto et al., GCN 3264) through\nthe \"UVW2\" filter of the Swift UVOT.  Earlier reports have discussed\nthe detection of the optical afterglow of this event (Cenko & Fox, GCN\n3265) in the U, B, and V filters (Schady et al., GCN 3280).  The UVW2\nsequence consists of nine ~10-second exposures taken from 4 to 15\nminutes after the burst; two ~100-second exposures taken 18 and 29\nminutes after the burst, and 11 ~900-second exposures taken from 92\nminutes to 2 days after the burst.  The final summed frame was\nastrometrically registered to the USNO B-1.0 catalog.\n\nAt the position of the optical afterglow we detect a source at\n>3-sigma confidence with a mean count rate of 6.0 +/- 0.7 cts/ksec\naccording to the default uvotdetect analysis.  Examination of\nindividual frames suggests that the source is not distinguishable\nabove background in the individual short (10-s and 100-s) exposures,\nbeing most prominent in the early ~900 second exposures of the\nsequence.\n\nThe UVW2 filter bandpass is centered at 188 nm with a width of 76 nm.\nSince it is unlikely that significant afterglow emission would be\ndetected blueward of the host galaxy Lyman limit at 91 nm -- with\nsignificant suppression redward to the Lyman-alpha resonance at 122 nm\n-- we suggest that this detection implies a redshift constraint for\nGRB050416 of z <~ 1.0.\""
+}

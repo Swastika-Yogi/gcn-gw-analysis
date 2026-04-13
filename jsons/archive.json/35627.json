@@ -1,0 +1,10 @@
+{
+  "subject": "IPN triangulation of GRB 240123C (short)",
+  "eventId": "GRB 240123C",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.35627....1K",
+  "createdOn": 1706182517096,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 35627,
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, D. Svinkin, A. Lysenko,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Bozzo and C. Ferrigno, on behalf of the INTEGRAL SPI-ACS GRB team,\n\nS. Barthelmy, J. Cummings, H. Krimm, D. Palmer, and A. Tohuvavohu\non behalf of the Swift-BAT team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 240123C\nwas detected by Konus-Wind, INTEGRAL (SPI-ACS),\nSwift (BAT), and Mars-Odyssey (HEND)\nat about 83553 s UT (23:12:33). \nThe burst was outside the coded field of view of the BAT.\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  244.077 (16h 16m 19s) -58.857 (-58d 51' 25\")\n Corners:\n  240.883 (16h 03m 32s) -55.715 (-55d 42' 55\")\n  241.066 (16h 04m 16s) -56.037 (-56d 02' 14\")\n  248.066 (16h 32m 16s) -61.657 (-61d 39' 24\")\n  247.747 (16h 30m 59s) -61.386 (-61d 23' 11\")\n ---------------------------------------------\nThe error box area is 1219 sq. arcmin, and its maximum\ndimension is 7.0 deg (the minimum one is 3 arcmin).\nThe Sun distance was 58 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB240123_T83553/IPN\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "Swift UVOT observations of GRB081024B",
+  "eventId": "GRB 081024B",
+  "bibcode": "2008GCN..8413....1S",
+  "createdOn": 1225043073000,
+  "circularId": 8413,
+  "submitter": "Patricia Schady at MSSL/Swift  <msslba@yahoo.co.uk>",
+  "email": "msslba@yahoo.co.uk",
+  "body": "P. Schady (MSSL/UCL) and C. Guidorzi (INAF-OAB) report on behalf of the Swift UVOT team.\n\nThe Swift UltraViolet/Optical Telescope (UVOT) began observations of Fermi-LAT GRB 081024B (Omodei et al., GCN Circ. 8407) 70.3 ks after the trigger.\n\nSource 1 and Source 2 in GCN Circ. 8410 (Guidorzi et al.) are outside the UVOT field of view, and no new source is detected at the position of Source 3 (GCN Circ 8410; Guidorzi et al.) down to the following 3 sigma upper limits:\n\nFilter   Tstart(dys)  Exp(s)  3-sigma UL\nv         1.215        885     > 20.33\nb         0.824        864     > 21.26\nu         0.814        2641    > 21.42\nuvw1      0.894        1531    > 21.07\nuvm2      0.883        2548    > 21.36\nuvw2      1.163        1201    > 21.07\n \nThe values quoted above are on the UVOT Photometric System (Poole et al, 2008, MNRAS 383,627). They are not corrected for the expected Galactic extinction corresponding to a reddening of E(B-V)=0.07 mag in the direction of the burst (Schlegel et al. 1998)."
+}

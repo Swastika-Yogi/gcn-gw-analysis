@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 070810: Swift/UVOT Optical Counterpart",
+  "eventId": "GRB 070810",
+  "bibcode": "2007GCN..6735....1C",
+  "createdOn": 1186723536000,
+  "circularId": 6735,
+  "submitter": "Margaret Chester at PSU  <chester@astro.psu.edu>",
+  "email": "chester@astro.psu.edu",
+  "body": "M.M. Chester (PSU), F.E. Marshall (NASA/GSFC), and J.R. Cummings\n(NASA/UMBC) report on behalf of the Swift UVOT team:\n\nThe Swift/UVOT observed the field of GRB 070810 (Cummings et al., GCN\nCirc. 6733) beginning 02:13:24 UT, 92 seconds after the BAT trigger.\n\nWe find an uncatalogued source inside the Swift/XRT error circle in the\ninitial 2.7' x 2.7' subimage in the White filter at:\n\n    RA(J2000)  = 12:39:51.22 = 189.9634\n    DEC(J2000) = +10:45:04.3  = 10.7512\n\nwith a 1-sigma error radius of about 0.6 arc sec. This position is 1.9\narcsec from the center of the XRT error circle, and 5.0 arcsec from the\nposition reported by ROTSE (Swan et al. GCN Circ. 6734).  The\ncounterpart is not blended in the Swift/UVOT images.  The estimated\nmagnitudes (1-sigma error is about 1 mag) are:\n\nFilter   Tstart    Exp     Magnitude\n            (s)     (s)\nWhite      92      100       17.4\nv         198      306       17.1\n\nThe values quoted above are not corrected for the expected Galactic\nextinction corresponding to a reddening of E_{B-V} = 0.02 mag in the\ndirection of the burst (Schlegel et al. 1998)."
+}

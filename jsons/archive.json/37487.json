@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240912A: Swift/UVOT Detection",
+  "eventId": "GRB 240912A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37487....1S",
+  "createdOn": 1726234234062,
+  "circularId": 37487,
+  "submitter": "Mike Siegel at PSU/Swift MOC <mhs18@psu.edu>",
+  "format": "text/plain",
+  "body": "M. H. Siegel (PSU) and P. A. Evans (U. Leicester)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 240912A\n115 s after the BAT trigger (Evans et al., GCN Circ. 37466).\nA fading source consistent with the XRT position (Goad et al.,\nGCN Circ. 37470) is detected in the initial UVOT exposures.\n\nThe preliminary UVOT position is:\n   RA  (J2000) =  08:18:32.40 = 124.63499 (deg.)\n   Dec (J2000) = +33:59:56.3  =  33.99897 (deg.)\nwith an estimated uncertainty of 0.43 arc sec. (radius, 90% confidence).\n\nPreliminary detections and 3-sigma upper limits using the UVOT photometric system\n(Breeveld et al. 2011, AIP Conf. Proc. 1358, 373) for the early exposures are: \n\nFilter         T_start(s)   T_stop(s)      Exp(s)           Mag\n\nwhite (fc)         117          265          144      17.44+/-0.05\nwhite              608         1031          186      17.87+/-0.06\nwhite             1185         1379           38      18.06+/-0.16\nv                  657         1430           97      17.78+/-0.28\nb                  583         5154          205      19.08+/-0.25\nu (fc)             328          577          245      16.68+/-0.05\nu                  731         5018          274      18.14+/-0.13\nuvw1               707         1479           77      17.76+/-0.25\nuvm2              1086         1106           19            >17.18\nuvw2               633         1406           97      18.47+/-0.30\n\nThe magnitudes in the table are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.054 in the direction of the burst\n(Schlegel et al. 1998)."
+}

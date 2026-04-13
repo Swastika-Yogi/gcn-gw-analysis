@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 240511A: LCO upper limits",
+  "eventId": "GRB 240511A",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.38095....1G",
+  "createdOn": 1730881543445,
+  "circularId": 38095,
+  "submitter": "ankur ghosh at ARIES <ghosh.ankur1994@gmail.com>",
+  "format": "text/plain",
+  "body": "Ankur Ghosh, Soebur Razzaque (CAPP, University of Johannesburg), Alexander Moskvitin, Yulia Sotnikova (SAO RAS) report on behalf of a larger collaboration.\n\nWe observed the field of GRB 240511A (The Fermi GBM team, GCN 36428; Laha et al., GCN 36430; Evans, GCN 36431; Salvaggio et al., GCN 36443; Evans et al., GCN 36446; Krimm et al., GCN 36459) using the 1-meter Sinistro telescope at the Las Cumbres Observatory Global Telescope (LCOGT) node located at SAAO, South Africa. The telescope is equipped with a CCD (FOV: 13 x 13 arcmin, scale: 0.39 arcsec/pixel) and V, R filters. Observations began on May 12, starting 8.8269 hours after the GRB trigger.\n\nWe did not detect the optical transient (OT) reported by Malesani and Milvang-Jensen (GCN 36442) and de Ugarte Postigo et al. (GCN 36498) in our images. Our non-detection upper limits are consistent with those reported by other teams (Lipunov et al., GCNs 36435, 36436; Niwano et al., GCN 36445; Mo et al., GCN 36452).\n\nUT Start–End\tFilter\tExposure (s)\tUpper Limit\n02:55:57–03:15:57\t  R\t1200\tR_lim = 21.8\n09:39:59–10:04:59\t  V\t1500\tV_lim = 22.4\nThe field was calibrated against nearby SDSS stars, with magnitudes converted using Lupton (2005) equations, and has not been corrected for Galactic extinction."
+}

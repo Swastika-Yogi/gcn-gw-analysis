@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260206A: probable hard X-ray burst from 4U 0513-40",
+  "eventId": "GRB 260206A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.43763....1N",
+  "createdOn": 1771241572484,
+  "circularId": 43763,
+  "submitter": "Hitoshi Negoro at Nihon University/MAXI team <negoro.hitoshi@nihon-u.ac.jp>",
+  "format": "text/plain",
+  "body": "H. Negoro, M. Nakajima (Nihon U.), J.A. Kennea (PSU), T. Mihara (RIKEN)\n\nThis is a cross-posting of ATel 17682.\n\nIn Swift-XRT followup observations of GRB 260206A detected with the MAXI-GSC (GCN Circ. 43624), \nthe XRT marginally detected a faint, uncatalogued X-ray source near the center of the\nMAXI error region (Lenava et al. GCN Circ. 43630). The XRT also detected a bright known X-ray source, \nLSXPS J051406.5-400237, of which a count rate was 7.3 +/- 0.3 cts/s, approximately 70% higher than \nthe mean count rate (Source 1: Evans et al. GCN Circ. 43625). \n\nWe analyzed the GSC energy spectrum of the burst, and found that a power-law model gave\na better fit to the spectrum than a blackbody model. This is because many hard X-ray photons \nwere detected above 10 keV. We fixed the equivalent hydrogen column density to 3.84e20 \n(obtained with the nH Calculator at NASA/HEASARC for the direction of 4U 0513-40), and obtained\na photon index of 1.7 (+0.7, -0.6 at 90% confidence interval) and a blackbody temperature \nof 1.5 (+0.6, - 0.4) keV in each fit. \n\nThe burst exhibited a double-peaked-like structure with an e-folding decay time of\n5.8 +/- 1.0 sec at 2-20 keV without any collimator response correction. The peak X-ray flux is \naround 1.22e-8 erg/cm2/s at 2-10 keV, which corresponds to 2.2e38 erg/s\nif the source is in the globular cluster NGC 1851 hosting 4U 0513-40 (aka X0512-401) (12.2 kpc away).\nMAXI detected more than ten X-ray bursts with a variety of time profiles originating from \nthe direction of NGC 1851. These strongly suggest that this hard energetic burst also came from \n4U 0513-40 (or ABK A, see Homer et al. 2001, ApJ, L155), within the error circle of LSXPS \nJ051406.5-400237, though 4U 0513-40 is just outside the MAXI error box if we take account of \nthe systematic uncertainty of the localization, 0.1 deg (GCN Circ. 43624)."
+}

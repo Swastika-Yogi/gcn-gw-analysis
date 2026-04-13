@@ -1,0 +1,11 @@
+{
+  "subject": "EP240918a: Optical upper limits with Kinder observations",
+  "eventId": "EP240918a",
+  "submittedHow": "web",
+  "bibcode": "2024GCN.37545....1K",
+  "createdOn": 1726675195167,
+  "circularId": 37545,
+  "submitter": "Janet Chen at National Central University <janetstars@gmail.com>",
+  "format": "text/plain",
+  "body": "A. K. H. Kong (NTHU), A. Aryan, T.-W. Chen, C.-H. Lai, H.-Y. Hsiao, C.-S. Lin (all NCU), S. Yang (HNAS), S. J. Smartt (Oxford/QUB), A. Sankar. K, Y. J. Yang, W.-J. Hou, C.-C. Ngeow, M.-H. Lee, Y.-C. Pan, H.-C. Lin, J.-K. Guo (all NCU), H.-W. Lin (UMich), H. F. Stevance, S. Srivastav, J. Gillanders, L. Rhodes (all Oxford), M. Nicholl, M. Fulton, T. Moore, K. W. Smith, C. Angus, A. Aamer (all QUB), A. Schultz and M. Huber (both IfA, Hawaii) report:\n\nWe observed the field of the fast X-ray transient EP240918a (Zhang et al., GCN 37541) using the 40cm SLT at Lulin Observatory in Taiwan as part of the Kinder collaboration (Chen & Yang et al., 2024arXiv240609270C). The first SLT epoch of observations started at 13:43 UTC on the 18th of September 2024 (MJD = 60571.571), 2.30 hrs after the EP trigger. \n\nWe utilized the astroalign (Beroiz et al., 2020, A&C, 32, 100384) and astropy (Astropy Collaboration et al., 2022, ApJ, 935, 167) packages to align and stack the individual frames. In the stacked frames, we do not detect any evidence of a new uncataloged source within the FXT error circle of 20\" reported by Zhang et al. (GCN 37541).\n\nMoreover, we utilized the Python-based package AutoPhOT (Brennan & Fraser, 2022, A&A, 667, A62) to perform the photometry on our stacked frame. The details of the observations and measured 3-sigma upper limit  (in the AB system) are as follows:\n\nTelescope | Filter | MJD (start) | t-t0 | Exposure | Magnitude | avg. Seeing | med. Airmass\nSLT | r | 60571.571 | 2.30 hrs | 300 sec * 16 | >20.5 | 1\".83 | 1.37\n\nThe presented magnitudes are calibrated using the field stars from the Pan-STARRS1 catalog and are not corrected for the expected Galactic foreground extinction corresponding to a reddening of E_(B-V) = 0.08 mag in the direction of the transient (Schlafly & Finkbeiner 2011).\n\nOur result is consistent with Wang et al. (GCN 37544).\n\nWe thank the Einstein Probe team for useful communication.\n"
+}

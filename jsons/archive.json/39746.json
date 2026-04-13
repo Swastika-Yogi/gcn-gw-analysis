@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 250314A: SVOM/GRM analysis",
+  "eventId": "GRB 250314A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.39746....1S",
+  "createdOn": 1742150203392,
+  "circularId": 39746,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Nicolas Dagoneau (CEA), Maria-Grazia Bernardini (INAF-OAB), Jean-Luc Atteia (IRAP), Frédéric Piron (LUPM)\n\nReport on behalf of the SVOM team:\n\nWith the event-by-event data downloaded through the X-band ground station, we conducted the standard analysis pipeline of the high redshift burst, GRB 250314A (Wang et al., GCN #39719). The GRM light curve shows that this burst consists of a single main episode with a T90 of 7.0 +3.6/-3.7 s in the 15-5000 keV band, which is consistent with the result from VHF data.\n\nThe GRM on-ground localization of this burst is consistent with ECLAIRs (Wang et al., GCN #39719). With the localization of ECLAIRs (RA=201.272, DEC=-5.293), the time-averaged spectrum from T0-1 to T0+9 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.75 +0.19/-0.46 and the cutoff energy, parameterized as Epeak, is 43 +26/-19 keV. The event fluence (10-1000 keV) in this time interval is (3.1 +0.5/-0.8)E-07 erg/cm^2.\n\nWith the measured redshift z=7.3 (D. B. Malesani et al., GCN 39732), we calculate the isotropic energy Eiso is about 4.6E52 erg. Thus GRB 250314A is well consistent with Type II GRBs in the 'Amati' relation diagram, as shown at: \nhttps://www.bursthub.cn//admin/static/grb250314A_amati.png\n\nWe note that the calibration of SVOM/GRM is undergoing thus these results are preliminary. Refined analysis will be reported later.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Chen-Wei Wang (IHEP) (cwwang@ihep.ac.cn)\n"
+}

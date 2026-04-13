@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 110422A: Swift/UVOT Detection of optical afterglow",
+  "eventId": "GRB 110422A",
+  "bibcode": "2011GCN.11969....1B",
+  "createdOn": 1303563729000,
+  "circularId": 11969,
+  "submitter": "Alice Breeveld at MSSL-UCL  <aab@mssl.ucl.ac.uk>",
+  "email": "aab@mssl.ucl.ac.uk",
+  "body": "A. A. Breeveld (MSSL-UCL) and V. Mangano (INAF-IASFPA)\nreport on behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began settled observations of the field of GRB 110422A\n822 s after the BAT trigger (Mangano et al., GCN Circ. 11957).\nAn optical afterglow consistent with the optical position found by \nKlunko et al. (GCN 11958) and others is found in the UVOT, and is \nclearly fading. It is detected in initial exposures in both white and \nb, and also in v and u when the initial exposures are summed up.\nPreliminary magnitudes and 3-sigma upper limits using the UVOT \nphotometric system (Poole et al. 2008, MNRAS, 383, 627) for the first \nfinding chart (FC) exposure and subsequent exposures are:\n\nFilter         T_start(s)   T_stop(s)      Exp(s)         Mag\n\nwhite_FC           822          972          147         18.80 �� 0.12\nwhite (summed)    1054         1766          97.2        19.5 �� 0.23\nwhite             7837         8037          197          >20.4\nv (summed)        1104         2336          156         18.72 �� 0.35\nb                 1029         1049          19.4        18.02 �� 0.3\nb (summed)        1202         2435          156         18.97 �� 0.22\nu (summed)        1004         2410          175         18.8 �� 0.26\nw1 (summed)        980         2385          175         >19.4\nm2 (summed)       1128         2360          156         >19.4\nw2 (summed)       1079         2310          156         >19.6\n\nThe values quoted above are not corrected for the Galactic extinction\ndue to the reddening of E(B-V) = 0.03 in the direction of the burst\n(Schlegel et al. 1998).\n\n[GCN OPS NOTE(23apr11): Per author's request, the spelling on the Klunko\nreference was corrected.]"
+}

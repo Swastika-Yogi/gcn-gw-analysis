@@ -1,0 +1,10 @@
+{
+  "subject": "GRB060717: Swift/UVOT upper limits",
+  "eventId": "GRB 060717",
+  "bibcode": "2006GCN..5332....1C",
+  "createdOn": 1153159215000,
+  "circularId": 5332,
+  "submitter": "Antonino Cucchiara at PSU  <cucchiara@astro.psu.edu>",
+  "email": "cucchiara@astro.psu.edu",
+  "body": "A. Cucchiara (PSU), P. Brown on behalf of the Swift/UVOT\nteam:\n\nThe Swift UVOT began taking data on the field of GRB 060717\n222 s after the BAT trigger (Sakamoto et al. 2006,\nGCN Circular 5326).  No new source, relative to the DSS, is seen\ninside the refined XRT error circle (Capalbi et al. GCN 5331)\nThe 3-sigma upper limits for the first finding chart\nand the coadded images are listed below.\n\nFinding chart:\n\n         Midpoint   Exposure\nFilter  Time (s)     (s)          Mag\nWhite     272        100       19.57  3-sigma upper limit (160-650 nm)\n\nCoadded images:\n\nFilter     T_start(s)    T_stop(s)    EXPOSURE (s)    Mag   \nWhite    222             10309               1241              20.85  UL\nV          203             11899               1079              19.62  UL\nB          4436           16062               1298              20.66  UL\nU          4231             5862                400              19.83  UL\nUVW1     4027         5659                393              19.33  UL\nUVM2     3822         5453                400              19.25  UL\nUVW2     4845       11215               1099              20.51  UL  \n\nT_start and T_stop are estimated from the time of the burst.\nThese upper limits have not been corrected for the estimated Galactic\nreddening of E_{B-V} = 0.064 mag (Schlegel et al. 1998)."
+}

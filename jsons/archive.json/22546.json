@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind observation of GRB 180325A",
+  "eventId": "GRB 180325A",
+  "bibcode": "2018GCN.22546....1F",
+  "createdOn": 1522057267000,
+  "circularId": 22546,
+  "submitter": "Dmitry Frederiks at Ioffe Institute  <fred@mail.ioffe.ru>",
+  "email": "fred@mail.ioffe.ru",
+  "body": "D. Frederiks, S. Golenetskii, R.Aptekar, M. Ulanov, D. Svinkin,\nA. Tsvetkova, A.Lysenko, A. Kozlova, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long GRB 180325A (Swift-BAT trigger 817564:\nTroja et al., GCN 22532; Lien et al., GCN 22545)\ntriggered Konus-Wind at T0=6866.876 s UT (01:54:26.876)\n\nThe burst light curve shows a single pulse,\nwhich started at ~T0-1 s and peaked at ~T0+1.7 s.\nThe total duration of the burst is ~10 s.\nThe emission is seen up to ~7 MeV.\n\nAs observed by Konus-Wind, the burst had a fluence of\n(1.9 �� 0.3)x10^-5 erg/cm2 and a 64-ms peak energy flux,\nmeasured from T0+1.728, of (8.2 �� 1.3)x10^-6 erg/cm2\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum (measured from T0 to T0+7.424 s)\nis best fit in the 20 keV - 15 MeV range\nby the GRB (Band) function with the following model parameters:\nthe low-energy photon index alpha = -0.50 (-0.19,+0.21),\nthe high energy photon index beta = -2.65 (-1.06,+0.31),\nthe peak energy Ep = 306 (-39,+50) keV,\nchi2 = 99/92 dof.\n\nAssuming the redshift z=2.25 (Heintz et al., GCN 22535)\nand a standard cosmology model with H_0 = 70 km/s/Mpc,\nOmega_M = 0.3, and Omega_Lambda = 0.7,\nwe estimate the following rest-frame parameters:\nthe isotropic energy release E_iso is ~2.3x10^53 erg,\nthe peak luminosity L_iso is ~3.2x10^53 erg/s,\nand the rest-frame peak energy of the time-integrated spectrum,\nEp,z, is ~995 keV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB180325_T06866/\n\nAll the quoted errors are estimated at the 90% confidence level.\nAll the presented results are preliminary."
+}

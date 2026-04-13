@@ -1,0 +1,9 @@
+{
+  "subject": "Swift Trigger 1144538 is not a GRB",
+  "bibcode": "2022GCN.33053....1D",
+  "createdOn": 1671076902000,
+  "circularId": 33053,
+  "submitter": "David Palmer at LANL  <palmer@lanl.gov>",
+  "email": "palmer@lanl.gov",
+  "body": "S. Dichiara (PSU), N. J. Klingler (GSFC/UMBC/CRESSTII),\nD. M. Palmer (LANL), M. H. Siegel (PSU), A. Tohuvavohu (U Toronto) and\nM. A. Williams (PSU) report on behalf of the Neil Gehrels Swift\nObservatory Team:\n\nAt 03:35:24 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated a marginal image peak (trigger=1144538).  Swift slewed immediately\nto the peak location.  The BAT on-board calculated location is \nRA, Dec 54.789, -27.433 which is \n   RA(J2000) = 03h 39m 09s\n   Dec(J2000) = -27d 25' 57\"\nwith an uncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  The BAT light curve shows the count rate starting\nto rise as Swift approaches the South Atlantic Anomaly (SAA) but\ndoes not show a typical GRB peak. \n\nThe XRT position notice sent was due to XRT centroiding on a likely cosmic\nray strike. There is no clear detection of an X-ray afterglow. \n\nDue to the rate trigger occurring during the approach to the SAA, the lack of\na strong peak in the BAT light curve, the marginal significance (6.55 sigma)\nof the BAT image peak, and the lack of an XRT afterglow source, we\nbelieve that this event is a statistical fluctuation and not an astrophysical\nevent.  A final determination of the nature of this trigger will require\nthe full ground-linked dataset."
+}

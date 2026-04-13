@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 060728: Swift detection of a burst",
+  "eventId": "GRB 060728",
+  "bibcode": "2006GCN..5360....1P",
+  "createdOn": 1154128044000,
+  "circularId": 5360,
+  "submitter": "Scott Barthelmy at NASA/GSFC  <scott@lheamail.gsfc.nasa.gov>",
+  "email": "scott@lheamail.gsfc.nasa.gov",
+  "body": "C. Pagani (PSU), L. M. Barbier (NASA/GSFC), S. D. Barthelmy (GSFC),\nM. M. Chester (PSU), J. R. Cummings (NASA/UMD),\nC. B. Markwardt (GSFC/UMD), K. M. McLean (LANL/UTD),\nA. N. Morgan (PSU), D. M. Palmer (LANL) and M. Stamatikos (NASA/ORAU)\nreport on behalf of the Swift Team:\n\nAt 22:24:30 UT, the Swift Burst Alert Telescope (BAT) triggered and\nlocated GRB 060728 (trigger=221627).  Swift slewed immediately\nto the burst.  The BAT on-board calculated location is RA,Dec\n16.694, -41.386 {01h 06m 46s, -41d 23' 10\"} (J2000) with an\nuncertainty of 3 arcmin (radius, 90% containment, including \nsystematic uncertainty).  This is an 64-sec image trigger\nso there is very little information in the TDRSS lightcuve. \n\nThe XRT began taking data at 22:26:35 UT, 124 seconds after the BAT\ntrigger.  The XRT on-board centroid algorithm did not find a source in the\nimage and no prompt position is available.  We are waiting for down-linked\ndata to detect and determine a position for the source. \n\nThe UVOT began observing at 22:26:31.7 UT, 121.1 seconds after the BAT trigger. \nImages have been taken in V only, not in white, due to a bright source\nin the field-of-view.  Ground processing indicates an uncataloged, non-fading\nsource, V=16.93, 58 arcsecs from the BAT position. \n\nWe are currently in the Malindi gap in data downlinks, so it will\nbe about 6 hours until we get the full data set."
+}

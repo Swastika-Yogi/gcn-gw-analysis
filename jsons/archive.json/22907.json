@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 180705A: Swift-BAT refined analysis",
+  "eventId": "GRB 180705A",
+  "bibcode": "2018GCN.22907....1P",
+  "createdOn": 1530847973000,
+  "circularId": 22907,
+  "submitter": "Amy Lien at GSFC  <amy.y.lien@nasa.gov>",
+  "email": "amy.y.lien@nasa.gov",
+  "body": "D. M. Palmer (LANL), S. D. Barthelmy (GSFC),\nJ. R. Cummings (CPI), H. A. Krimm (NSF/USRA),\nA. Y. Lien (GSFC/UMBC), C. B. Markwardt (GSFC),\nT. Sakamoto (AGU), M. Stamatikos (OSU),\nT. N. Ukwatta (LANL) (i.e. the Swift-BAT team):\n\nUsing the data set from T-239 to T+963 sec from the recent telemetry downlink,\nwe report further analysis of BAT GRB 180705A (trigger #846299)\n(Stamatikos et al., GCN Circ. 22902).  The BAT ground-calculated position is\nRA, Dec = 212.605, -11.640 deg which is\n  RA(J2000)  =  14h 10m 25.1s\n  Dec(J2000) = -11d 38' 23.7\"\nwith an uncertainty of 2.1 arcmin, (radius, sys+stat, 90% containment).\nThe partial coding was 36%.\n\nThe mask-weighted light curve shows some weak emission that starts at ~T0 and\nends at ~T+130 s. However, the burst went out of the BAT FOV from T+158 s to\nT+204 s due to a preplanned slew, and thus there might be additional\nemission when the burst was out of the FOV. The burst came back in the BAT FOV\nshortly during the slew period (from T0+205 s to T0+262 s), though no emission\nare found during this time. T90 (15-350 keV) is 123.2 +- 16.6 sec (estimated\nerror including systematics).\n\nThe time-averaged spectrum from T+0.26 to T+133.70 sec is best fit by a simple\npower-law model.  The power law index of the time-averaged spectrum is\n1.63 +- 0.22.  The fluence in the 15-150 keV band is 2.0 +- 0.3 x 10^-6 erg/cm2.\nThe 1-sec peak photon flux measured from T+3.60 sec in the 15-150 keV band\nis 0.7 +- 0.3 ph/cm2/sec.  All the quoted errors are at the 90% confidence\nlevel.\n\nThe results of the batgrbproduct analysis are available at\nhttp://gcn.gsfc.nasa.gov/notices_s/846299/BA/"
+}

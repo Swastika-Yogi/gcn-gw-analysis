@@ -1,0 +1,14 @@
+{
+  "editedOn": 1750542639266,
+  "subject": "GRB 250506A - SVOM/ECLAIRs Refined analysis",
+  "version": 2,
+  "eventId": "GRB 250506A",
+  "submittedHow": "web",
+  "bibcode": "2025GCN.40798....1G",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov>",
+  "circularId": 40798,
+  "createdOn": 1750457075059,
+  "submitter": "sebastien.guillot@irap.omp.eu",
+  "format": "text/plain",
+  "body": "Authors: S. Guillot (IRAP), F. Cangemi, A. Coleiro (APC), M.-G. Bernardini (INAF-OAB, LUPM), O. Godet (IRAP), Chenwei WANG (IHEP), Lin LAN (NAOC)\n\nUsing the event-by-event data downloaded through the X-band ground station, we report further analysis of ECLAIRs observations of GRB 250506A (SVOM burst-id sb25050601). \n\nThe burst that triggered ECLAIRs onboard (GCN 40358) consists of a single pulse with a duration of T90 = 6.4 +1.0/-0.6 s in the 4-120 keV energy band.  We note that ECLAIRs only saw the first peak of this GRB since the source passed behind the Earth during the burst. Therefore, this T90 value is only for the first peak, and is shorter than those measured by Fermi/GBM (GCN 40362) and GECAM (GCN 40396).\n\nThe time-averaged spectrum of the burst from T0 + 4.12 sec to T0 + 12.12 sec (T0 = 2025-05-06T02:23:16.88) in the energy range 5-115 keV is best fit by a broken power-law model with a break energy of 14.2 +3.8/-1.9 keV, a photon index of -0.3 +/- 0.2 before the break, and of -0.97 +0.06/-0.08 after the break.  The photon index after the break is broadly consistent with the PL index (50-300 keV) reported from the Fermi/GBM analysis (GCN 40362). With this model, the total 4-120 keV fluence, assuming the T90 measured, is 1.75 +0.28/-0.5 x 10^-6 erg/cm^2.  \n\nAll the quoted errors are at the 90% confidence level. \n\nOther models (power law, cutoff power law, blackbody + power law, gamma-ray burst continuum) do not satisfactorily fit the data. The comparison of the power-law and broken power-law fits yields a spectral break significance of 5.1 sigma (Gaussian two-sided). \nWe note that the calibration of SVOM/ECLAIRs is undergoing thus these results are preliminary.\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic Universe. ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC.\n\nThe SVOM/ECLAIRs point of contact for this burst is: Sébastien Guillot (IRAP) (sebastien.guillot at irap.omp.eu)"
+}

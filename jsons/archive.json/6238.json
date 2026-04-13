@@ -1,0 +1,10 @@
+{
+  "subject": "UVOT observations of GRB070330",
+  "eventId": "GRB 070330",
+  "bibcode": "2007GCN..6238....1K",
+  "createdOn": 1175375895000,
+  "circularId": 6238,
+  "submitter": "Patricia Schady at MSSL/Swift  <ps@mssl.ucl.ac.uk>",
+  "email": "ps@mssl.ucl.ac.uk",
+  "body": "N.P.M. Kuin (MSSL-UCL), D. Grupe (PSU), P. Brown (PSU) report\non behalf of the Swift/UVOT team:\n\nThe Swift/UVOT began taking data in the field of GRB070330 54s after the BAT \ntrigger (Grupe et al., GCN 6232). The afterglow is only detected in the first \nUVOT V exposure, with a magnitude of V=18.69+/-0.24, after which the afterglow \nhad decayed below the UVOT detection threshold, suggesting a decay rate of \nalpha_V > 0.8. The refined UVOT afterglow position is\nRA (J2000)  = 17:58:09.98 (269.5426)\nDec (J2000) = -63:47:34.80 (-63.7930)\nWe note that the refined position is 0.5\" away from the preliminary UVOT \nposition reported in GCN 6232. The photometry results are given below for the 5 \nUVOT filters in which observations were made. Due to the presence of a bright \nstar no observations could be obtained in the UVW2 and white filters.\n\nFilter  Mid_T(s)   Exp(s)  Mag\nV       266        393     18.69+/-0.24\nV       33978      1632    > 21.45 (3-sigma upper limit)\nM2      25521      2814    > 18.35 (3-sigma upper limit)    `\nW1      20282      1998    > 18.36 (3-sigma upper limit)\nU       25521      2814    > 21.60 (3-sigma upper limit)\nB       30318      3305    > 18.15 (3-sigma upper limit)\n\nMid_T is the weighted mid time of the exposure since the BAT trigger. These \nmagnitudes are not corrected for the expected reddening of E(B-V)=0.063.\n\nFor the time being it is not possible to provide a redshift given the low \nsignal-to-noise ratio of the data. Further analysis is ongoing. A high (~4) \nredshift is possible and we encourage further ground follow-up.\n\n[GCN OPS NOte(25aug07): Per UVOT Team request, the Mid_T value\nfor the first V exposure ws changed from 462 to 266. Acknowledgements\nto F. Marshall.]"
+}

@@ -1,0 +1,10 @@
+{
+  "subject": "LIGO/Virgo S190517h: Fermi GBM Observations",
+  "eventId": "LIGO/Virgo S190517h",
+  "bibcode": "2019GCN.24579....1G",
+  "createdOn": 1558100475000,
+  "circularId": 24579,
+  "submitter": "Adam Goldstein at Fermi-GBM, USRA  <adam.michael.goldstein@gmail.com>",
+  "email": "adam.michael.goldstein@gmail.com",
+  "body": "A. Goldstein (USRA) reports on behalf of the Fermi-GBM Team and the\nGBM-LIGO/Virgo group:\n\nFor S190517h, and using the initial BAYESTAR skymap, Fermi-GBM was\nobserving 28.2% of the localization probability at event time.\nThere was no Fermi-GBM onboard trigger around the event time of the\nLIGO/Virgo detection of GW trigger S190517h (GCN 24570). An automated,\nblind search for short gamma-ray bursts below the onboard triggering\nthreshold in Fermi-GBM also identified no counterpart candidates. The GBM\ntargeted search, the most sensitive, coherent search for GRB-like signals,\nwas run from +/-30 s around merger time, and also identified no counterpart\ncandidates.\n\nPart of the LVC localization region is behind the Earth for Fermi,\nlocated at RA = 270.7 and Dec = -6.7 with a radius of 67.5 degrees.\nWe therefore set upper limits on impulsive gamma-ray emission.  Using the\nrepresentative soft, normal, and hard GRB-like spectral templates described\nin arXiv:1612.02395, we set the following 3 sigma flux upper limits over\n10-1000 keV, weighted by the remaining visible GW localization probability\n(in units of erg/s/cm^2):\n\nTimescale  soft     norm     hard\n--------------------------------------\n0.128 s:   1.9e-07  3.1e-07  5.8e-07\n1.024 s:   5.4e-08  8.1e-08  1.9e-07\n8.192 s:   9.3e-09  1.5e-08  6.4e-08\n\nAssuming the median luminosity distance of ~2950 Mpc from the GW detection,\nwe estimate intrinsic luminosity upper limits of (0.2-3.1)E50 erg/s for the\nsoft template, (0.2-4.4)E50 erg/s for the normal template, and (1.5-14.)E50\nerg/s for the hard template over the 1 keV-10 MeV energy range."
+}

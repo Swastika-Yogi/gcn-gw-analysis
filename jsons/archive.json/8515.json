@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 081109: GROND redshift limit and host extinction",
+  "eventId": "GRB 081109",
+  "bibcode": "2008GCN..8515....1C",
+  "createdOn": 1226345143000,
+  "circularId": 8515,
+  "submitter": "Jochen Greiner at MPI  <jcg@mpe.mpg.de>",
+  "email": "jcg@mpe.mpg.de",
+  "body": "C. Clemens, T. Kruehler, J. Greiner (all MPE Garching) report on\nbehalf of the GROND team:\n\nWe report on further analysis of the GROND data of GRB 081109 detected\nby Swift (trigger 334112; Immler et al., GCN #8500) and Fermi/GBM\n(von Kienlin 2008, GCN #8505) taken simultaneously in g'r'i'z'JHK.\n\nIn a combined 2~h exposure at a midtime of 18.5~hours after the burst, \nwe clearly detect the afterglow reported by D'Avanzo et al. (GCN \n#8501) and Clemens et al. (GCN #8510) in all filters.\n\nUsing 2MASS field stars in JHK and the GROND zeropoints in g'r'i'z' we \nestimate preliminary AB magnitudes of\n\ng' = 23.14 +- 0.18 mag,\nr' = 22.55 +- 0.15 mag,\ni' = 22.00 +- 0.16 mag,\nz' = 21.54 +- 0.15 mag,\nJ  = 20.49 +- 0.07 mag,\nH  = 19.56 +- 0.06 mag and\nK  = 18.84 +- 0.10 mag\n\nwhich have been corrected for the expected Galactic reddening of \nE_(B-V)=0.02 (Schlegel et al. 1998).\n\nAssuming Ly-alpha absorption, the g' band detection implies a redshift \nof z < 3.5.\n\nThe Galactic foreground corrected broad band SED is best fit with a \npower law template and significant extinction in the host. Depending \non the used model, the  best fit intrinsic extinction A_V^{host} \nvaries between 0.6 and 1.2. We caution however, that this is strongly \ndependent on the unknown redshift and subject to changes due to an\nfuture improved calibration."
+}

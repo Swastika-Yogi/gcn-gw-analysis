@@ -1,0 +1,10 @@
+{
+  "subject": "GRB100906A: R band observations",
+  "eventId": "GRB 100906A",
+  "bibcode": "2010GCN.11252....1K",
+  "createdOn": 1283874911000,
+  "circularId": 11252,
+  "submitter": "Janos Kelemen at Konkoly Obs/Hungary  <kelemen@konkoly.hu>",
+  "email": "kelemen@konkoly.hu",
+  "body": "J. Kelemen and K. Sarneczky (Konkoly Observatory)\nZ. Kuli and B. Ujhelyi (Hungarian Astronomical Association)\n\non behalf of the GRB OT observing program at the Konkoly Observatory.\n\nOn 09 september 2010 02:25:57 UT (45390 s after the burst) we observed the\nfield of GRB 100906A detected by Swift (trigger=433509; Markwardt et al., \nGCN 11227) with a 60/90 cm  Schmidt telescope located at the Mountain Station\nof the Konkoly Observatory using R filter. The exposure time of the CCD images\nwere 300 s. We clearly detected the fading afterglow at RA(J2000) = 01h 54m\n44.12s Dec(J2000) = +55d 37' 49.3\" (astrometry with ASTROMETRICA using UCAC3\ncatalogue.) with an uncertainty of 0.2 arcseconds. \n\nTime      Mag     Error.      Flag.\n[s]       [R]    [1-sigma]  \n-------------------------------------\n45390    20.6      0.1          -\n45709    20.7      0.1          -\n46028    21.3      0.1          -\n-------------------------------------\n\nThe above magnitudes have not been corrected for the Galactic extinction."
+}
