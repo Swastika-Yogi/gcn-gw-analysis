@@ -2,11 +2,31 @@ import os
 import json
 import re
 import csv
+import requests
+import tarfile
+import io
+# =========================================
+# STEP 1: Setup and download
+# =========================================
+url = "https://gcn.nasa.gov/circulars/archive.json.tar.gz"
+output_dir = "./jsons"
+folder_path = r"./jsons/archive.json"
 
-# =========================================
-# STEP 1: Setup
-# =========================================
-folder_path = r"C:\Users\swast\gcn_project_local\archive.json"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+print("Downloading and extracting...")
+response = requests.get(url)
+
+if response.status_code == 200:
+    # Open the tarball from memory
+    with tarfile.open(fileobj=io.BytesIO(response.content), mode="r:gz") as tar:
+        # Extract into the specific subfolder
+        tar.extractall(path=output_dir)
+        print(f"Success! Files extracted to {output_dir}")
+else:
+    print(f"Failed to download. Status: {response.status_code}")
+
 files = os.listdir(folder_path)
 
 print("Total files found:", len(files))
@@ -175,7 +195,7 @@ print("Best FAR:", min(fars) if fars else None)
 # =========================================
 # STEP 9: EXPORT CSV
 # =========================================
-output_file = r"C:\Users\swast\gcn_project_local\o4a_gw_dataset.csv"
+output_file = r".\o4a_gw_dataset.csv"
 rows = []
 
 for event in event_parameters:
