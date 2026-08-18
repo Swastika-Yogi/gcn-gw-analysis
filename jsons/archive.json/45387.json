@@ -1,0 +1,13 @@
+{
+  "subject": "EP260812a:  AZT-22 optical upper limit",
+  "eventId": "EP260812a",
+  "submittedHow": "web",
+  "createdOn": 1786803398564,
+  "circularId": 45387,
+  "submitter": "Xiaofeng Wang at Tsinghua University <wang_xf@mail.tsinghua.edu.cn>",
+  "eventType": [
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "D. Mirzakulov (UBAI), J. Baxtiyorov (UBAI), X.-F. Wang (THU), S. Ehgamberdiev (UBAI), A. Shaymanov (Maidanak Observatory/UBAI), and H.-W. Peng (THU) report on behalf of the UBAI and THU joint teams:\n\nWe observed the field of the Einstein Probe fast X-ray transient EP260812a (Liu et al., GCN 45362) with the AZT-22 1.5~m telescope of the Maidanak Astronomical Observatory (MAO) starting on 2026-08-12 at 15:49:06 UTC, and obtained 4x300s exposure in the B and R filters using 4kx4k CCD SNUCAM camera (Im et al., 2010). \n\nWe did not detect any optical counterpart at positions provided either by EP-WXT (Liu et al., GCN 45362) or by Corcoran et.al. (GCN 45376) in our stacked frames. We measure the following upper limits for our stacked images:\n\n   DATE-OBS           t-T0(hrs)   Exptime(s)  Filter Upperlimit(mag)  Site/Telescope                                                           \n2026-08-12T15:49:06\t4.468       4x300\t B\t23.30\t\tMAO/AZT-22\n2026-08-12T16:12:58\t4.866       3x300\t R\t23.05\t\tMAO/AZT-22\n2026-08-12T20:29:38\t9.144       4x300\t B\t23.92\t\tMAO/AZT-22\n2026-08-12T20:36:41\t9.261       4x300\t R\t23.72\t\tMAO/AZT-22\n2026-08-13T16:29:13\t29.137      4x300\t R\t23.28\t\tMAO/AZT-22\n\nAll the data have been reduced by the data processing pipeline, STDWeb (Karpov 2025). We performed images subtraction on the stacked images using the Pan-STARRS templates. The photometry was calibrated using the Gaia DR3 Synphot catalog and was not corrected for extinction.\n\nWe thanks the MAO staff for supporting the observations. "
+}

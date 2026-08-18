@@ -1,0 +1,15 @@
+{
+  "subject": "GRB 260802A / EP J223759.5+531421: SVOM/VT optical upper limit",
+  "eventId": "GRB 260802A",
+  "submittedHow": "web",
+  "createdOn": 1785689427208,
+  "submitter": "Liping Xin at NAOC, SVOM <xlp@nao.cas.cn>",
+  "circularId": 45276,
+  "eventType": [
+    "GRB",
+    "X-ray Transient",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "L. P. Xin, H. L. Li,  C. Wu, Y. N. Ma, Y. L. Qiu, Z. H. Yao, J. R. Xu, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), and J. T. Palmerio (CEA/Irfu), Wenjin Xie(NAOC), and Runchao Chen (NJU) report on behalf of the SVOM/VT team.\n\nVT performed observations with automatic slew of GRB 260802A triggered by SVOM/ECLAIRs (sb26080210, Feng et al., GCN 45270). The observation started at 2026-08-02T09:28:46.00 UTC, about 6.0 minutes post trigger in the VT_B (400-650 nm) and VT_R (650-1000 nm) channels simultaneously.\n\nWith X band data, no uncatalogued optical transient is detected in the stacked image at the position of the possible associate SGR EP J223759.5+531421 (Feng et al., GCN 45270; Postigo et al., GCN 45272; Shi et al., GCN 45274; Wu et al., GCN 45275). \n\nThe following measurements are in AB magnitudes and are not corrected for Galactic extinction:\n\nMid time (hr) | Exposure Time (s) | Band | Brightness (mag)\n0.36          |   50*26           | VT_R |  > 23.0\n0.34          |   50*36           | VT_B |  > 23.0\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 260616B/EP260616a",
+  "eventId": "GRB 260616B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44968....1R",
+  "createdOn": 1781710676174,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 44968,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe long-duration GRB 260616B\n(BALROG localization: Preis & Greiner, GCN 44951;\nFermi-GBM detection: Malacaria et al., GCN 44953;\nEP-WXT detection: Li et al., GCN 44956;\nCALET-GBM detection: Asaoka et al., GCN 44966)\ntriggered Konus-Wind at T0=25522.793 s UT (07:05:22.793).\n\nThe burst light curve shows two multi-peaked emission pulses.\nThe total duration of the burst is ~13 s.\nThe emission is seen up to ~2 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260616_T25522/\n\nAs observed by Konus-Wind, the burst\nhad the total fluence of 2.52(-0.29,+0.30)x10^-5 erg/cm2,\nand the 64-ms peak flux, measured from T0+9.760 s,\nof 8.62(-1.09,+1.12)x10^-6 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-averaged spectrum of the burst\n(measured from T0 to T0+16.832 s)\nis best fit in the 20 keV - 10 MeV range\nby the GRB (Band) model with the following parameters:\nthe low-energy photon index alpha = -0.78(-0.18,+0.23),\nthe high energy photon index beta = -2.25(-0.28,+0.16),\nthe peak energy Ep = 279(-49,+62) keV\n(chi2 = 101/97 dof).\n\nThe spectrum near the maximum count rate\n(measured from T0+8.640 to T0+16.832 s)\nis best fit in the 20 keV - 10 MeV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.05(-0.10,+0.11)\nand Ep = 382(-41,+52) keV (chi2 = 87/85 dof).\nFitting by a GRB (Band) model yields the same alpha and Ep,\nand an upper limit on the high energy photon index: beta < -3.0\n(chi2 = 87/84 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

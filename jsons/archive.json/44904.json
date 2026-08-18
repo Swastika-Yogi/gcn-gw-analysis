@@ -1,0 +1,11 @@
+{
+  "subject": "EP260610b: MAO/AZT-22 optical observations",
+  "eventId": "EP260610b",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44904....1B",
+  "createdOn": 1781152669981,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "circularId": 44904,
+  "format": "text/plain",
+  "body": "O. Burkhonov, Y. Rajabov, B.Abidkhanov, S. Ehgamberdiev, Y. Tillayev, T. Boyqobilov, A. Shaymanov report on behalf of UBAI team.\n\nWe observed the field of EP transient EP260610b (Wu et al., GCN 44895), with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2026-06-10 at 20:09:52 UT. In total we obtained 6x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). \nThe optical counterpart (Levan et al., GCN 44897; Xin et al., GCN 44900; Zhu et al., GCN 44902) is detected in the stacked frame. \n\nPreliminary photometry is the following:\nDate       MidTime  Exptime     t-T0         Filter OT    Err.    UL    SNR   Site/Telescope\n                    (nxs)     (mid, days)                 \n2026-06-10T20:24:52  6x300      0,317072       R   22.85   0.15    23.26  6.4  MAO/AZT-22\n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022) web interface called STDweb (Karpov et al., 2025).\nImages obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog.\nThe data has not corrected for the Galactic extinction.\n\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical \nInstitute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n"
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260808B: SVOM/VT optical candidate from VHF data ( localization correction for GCN 45317 )",
+  "eventId": "GRB 260808B",
+  "submittedHow": "web",
+  "createdOn": 1786206547196,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45318,
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/markdown",
+  "body": "\nD. Turpin (CEA/Irfu), C. Wu (NAOC), A. Saccardi (CEA/Irfu), L. P. Xin (NAOC), M. Dinatolo (U. Milano), report on behalf of the SVOM/VT team:\n \nAfter the trigger by SVOM/ECLAIRs at 2026-08-08T14:20:58 UTC (T0), SVOM performed an automatic slew on the burst location (sb26080812, Bouchet et al., GCN 45316). SVOM/VT began observing the field in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \nFrom a preliminary analysis of the source list and 1-bit subimage downloaded via VHF network, at least one credible candidate is identified, the details of which are presented below.\n \nVT_ID 40:\n  The position of this candidate is R.A., Dec. 345.23359  8.47848  degrees, corresponding to:\n \n  R.A. (J2000) = 23:00:56.06   \n  Dec. (J2000) = +08:28:42.5\n \n  \n  with an uncertainty of 0.5 arcsec.\n  \n  This candidate was detected in both VT_R and VT_B in the first sequence of images and no longer detected in the following ones. No minor planet objects were found at the position of the candidate and within a 1 arcmin radius. No catalogue source was found in the Legacy DR10 catalog. The candidate's magnitudes are:\n  \n  | date-obs (UTC)       | mid-time（sec）   | exposure  | VT_B mag(AB)  | VT_R mag(AB)  |\n  | -------------------- | ----------- | --------- | ------------- | ------------- |\n  |  2026-08-08T14:25:16.000   | 408   | 6x50s | 21.72 ± 0.10  | 21.02 ± 0.08 |\n \n  Magnitudes were not corrected for Galactic reddening.\n \nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n \nThe Burst Advocate (BA) on shift for this alert is Michela Maria Dinatolo: michela.dinatolo@unimi.it.\nPlease contact the BA by email if you require additional information"
+}

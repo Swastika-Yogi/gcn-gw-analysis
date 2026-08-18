@@ -1,0 +1,13 @@
+{
+  "subject": "EP260809a: VLT/X-shooter spectroscopic redshift z = 3.07",
+  "eventId": "EP260809a",
+  "submittedHow": "web",
+  "createdOn": 1786381302526,
+  "submitter": "Andrea Saccardi at CEA/Irfu <andrea.saccardi@cea.fr>",
+  "circularId": 45349,
+  "eventType": [
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "A. Saccardi (CEA/Irfu), B. Schneider (LAM), G. Corcoran (UCD), F.-F. Song (YNAO, CAS), A. L. Thakur (INAF/IAPS), N. R. Tanvir (U. Leicester), K. E. Heintz (DTU), S. D. Vergani (LUX-Paris Obs.) report on behalf of the Stargate collaboration:\n\nWe observed the optical counterpart (Adami et al., GCN 45324; Jiang et al., GCN 45325; Basa et al., GCN 45326) of EP260809a (Sun et al., GCN 45321; Sun et al., GCN 45332) using the ESO VLT UT3 (Melipal) equipped with the X-shooter spectrograph. From the acquisition images (3x60s) we find a magnitude of the optical transient of r = 22.44+/-0.04 at 6.95 hr post-burst.\n\nOur spectra cover the wavelength range 3000-20000 AA, and consist of 4 exposures of 1200 s each. The observation start time was 07:46 UT on 2026 Aug 9 (7.12 hr after the EP/WXT trigger).\n\nWe detect afterglow continuum in each arm, with a strong absorption trough around 4950 AA. Interpreting this as Lyman-alpha absorption at z = 3.07, we also detect weak metal lines of Si II, O I, C II, Al II, Fe II, Mg II, along with a series of H_2 Lyman-Werner band lines at the same redshift. From a preliminary analysis we determine a column density of neutral hydrogen to be log10(N(HI))=22.4+/-0.3.\n\nWe also detect an intervening system at z = 1.43.\n\nWe acknowledge the excellent support from the observing staff in Paranal, in particular Luca Sbordone, Israel Blanchard and Jonathan Smoker. The analysis of this spectrum was carried out with the help of the zHunter tool (https://doi.org/10.5281/zenodo.15189495).\n"
+}

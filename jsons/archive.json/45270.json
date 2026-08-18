@@ -1,0 +1,18 @@
+{
+  "editedOn": 1785762349362,
+  "subject": "GRB 260802A/EP J223759.5+531421: SVOM detection of a possible magnetar burst",
+  "eventId": "GRB 260802A",
+  "version": 3,
+  "submittedHow": "web",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45270,
+  "createdOn": 1785665359994,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "eventType": [
+    "GRB",
+    "SGR",
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "Xin Feng (GXU), Hatsune Goto (RIKEN, CEA), Donghua Zhao (NAOC), Weinjin Xie (NAOC), Runchao CHEN (NJU), Feliu Lacreu (IAP), Diego Götz (CEA),Stephane Schanne (CEA) report on behalf of the SVOM mission team:\n\nAt 2026-08-02T09:23:10 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 260802A (SVOM burst-id sb26080210).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Count-Rate Trigger (CRT), which produced a sequence of 3 alerts. CRT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 8.09 in the [5-20] keV energy band starting at 2026-08-02T09:23:10.\n\nThe localization of the best alert is R.A., Dec. 339.4431, 53.2195 degrees (J2000) with a 90% confidence level (C.L.) radius of 9.72 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nThe SVOM/ECLAIRs showed a single peak structure. The duration of the best trigger time window is 40 ms (0.04 s).The best time window ranges from the given Tb+0.765 to Tb+0.805 s\n\nWe note that the magnetar EP J223759.5+531421(Atel #17859) is located in ECLAIRs error box, and given the short and soft nature of the burst, we suggest it is associated with this newly discovered magnetar.\n\nSVOM slewed to the burst.\n\nSVOM/MXT began observing the field at 2026-08-02T09:25:42 UTC, 151 seconds after T0. Using onboard processed data we found a possible uncatalogued X-ray source with a low SNR, located at R.A., Dec. 339.439, 53.234 degrees:\nR.A. (J2000) = 22h37m45s\nDec. (J2000) = 53d14m02s\nwith a 90% C.L. radius of 161 arcseconds.\n\nThis location is 0.89 arcminutes from the ECLAIRs onboard position. This position may be improved as more data is received.\n\nVT began observing the field after the slew. The analysis of the data will be published in a future circular.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Wenjin Xie: xiewj@bao.ac.cn.\nPlease contact the BA by email if you require additional information."
+}

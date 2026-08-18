@@ -1,0 +1,15 @@
+{
+  "subject": "EP260727a: NUTTELA-TAO Early Optical Limits",
+  "eventId": "EP260727a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45238....1M",
+  "createdOn": 1785230585426,
+  "submitter": "Zhanat Maksut at Nazarbayev University <zhanat.maksut@nu.edu.kz>",
+  "circularId": 45238,
+  "eventType": [
+    "X-ray Transient",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "Z. Maksut (NU), T. Komesh (NU), D. Berdikhan (NU), E. Abdikamalov (NU), M. Krugov (FAI), K. Baigarin (NU), M. Coughlin (UMN), P. Hello (IJCLAB), S. Antier (IJCLAB), M. Pillas (IAP), and S. Karpov (FZU) on behalf of the GRANDMA/NUTTelA-TAO:\n\nThe Nazarbayev University Transient Telescope at Assy-Turgen Astrophysical Observatory (NUTTELA-TAO) pointed at EP 260727a on receipt of an automated GCN / EP position alert, observing in Sloan g' and i' bands.\nWe started observations at 21:40:12 UT on 2026-07-27, 1.05 hour after the EP/WXT trigger (J. Hu et al., GCN 45235). No optical source consistent with the NOT optical counterpart (L. He et al., GCN 45234) was detected. We report the following results:\n\nstart time  t-t0(s) UL g'   UL i'  exposure_time (im x s)\n--------------------------------------------------------------\n21:40:12    3879    20.3   19.75   10x30 sec\n\nWhere t is the middle time, t0 is the EP/WXT trigger time, t-t0 is given in seconds. UL gives the 5 sigma upper limit sensitivity in magnitudes, for images of the given exposure time. No color or other corrections were applied to the values above. The data were reduced by a single data processing pipeline, STDWeb (Karpov et al., 2022). Images obtained with the Sloan filters were calibrated using the PanSTARRS DR1 catalog.\n----------------------------------\nThis research has been funded by the Science Committee of the Ministry of Science and Higher Education of the Republic of Kazakhstan (Grant No. AP26103591). The NUTTelA-TAO Team acknowledges the support of the staff of the Assy-Turgen Astrophysical Observatory, Almaty, Kazakhstan, and the Fesenkov Astrophysical Institute, Almaty, Kazakhstan. GRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/)."
+}

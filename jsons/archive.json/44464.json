@@ -1,0 +1,14 @@
+{
+  "editedOn": 1778003366513,
+  "subject": "IceCube-260504A - IceCube observation of a high-energy neutrino candidate track-like event",
+  "eventId": "IceCube-260504A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44464....1I",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of jliao@icecube.wisc.edu",
+  "circularId": 44464,
+  "createdOn": 1777945589893,
+  "submitter": "jliao@icecube.wisc.edu",
+  "format": "text/plain",
+  "body": "The IceCube Collaboration (http://icecube.wisc.edu/) reports:\n\nOn 26-05-04 at 21:11:20.90 UT IceCube detected a track-like event with a moderate probability of being of astrophysical origin. \nThe event was selected by the ICECUBE_Astrotrack_BRONZE alert stream.\nThe average astrophysical neutrino purity for Bronze alerts is 30%.\nThis alert has an estimated false alarm rate of 0.504 events per year due to atmospheric backgrounds.\nThe IceCube detector was in a normal operating state at the time of detection.\n\nAfter the initial automated alert (https://gcn.gsfc.nasa.gov/notices_amon_g_b/142545_58544625.amon), more sophisticated reconstruction algorithms have been applied offline, with the direction refined to:\n\nDate: 26-05-04\nTime: 21:11:20.90 UT\nRA: 246.99 (+0.86/-0.80 deg 90% PSF containment) J2000\nDec: 54.87 (+0.46/-0.47 deg 90% PSF containment) J2000\n\nOne gamma-ray source from the Fermi 4FGL-DR4 catalog is located within the 90% uncertainty region of this event: 4FGL J1626.0+5436 , at RA = 246.51° and Dec = 54.61° (J2000), with an angular separation of 0.38° from the best-fit event position.\n\nAs announced in GCN Circular 43419 (https://gcn.nasa.gov/circulars/43419), IceCube alert notices for high-energy track alerts are now also streamed via Kafka.\nIceCube Gold/Bronze track alerts are available on the Kafka topic 'gcn.notices.icecube.gold_bronze_track_alerts'.\nThe probability distribution of the true neutrino direction, allowing the extraction of precise 90% containment regions around the best-fit direction, is now available for revised reconstruction of high-energy track alerts.\nThe corresponding sky map is distributed as a FITS file and follows the explicit naming convention IceCube-YYMMDDX, where YYMMDD indicates the date of the event and X is a letter distinguishing multiple alerts on the same day. The download link is provided through the GCN schema distributed via Kafka.\nDetailed documentation describing the alert distribution, schemas, and probability maps is available at: https://gcn.nasa.gov/missions/icecube.\n\nThe IceCube Neutrino Observatory is a cubic-kilometer neutrino detector operating at the geographic South Pole, Antarctica.\n\nThe IceCube realtime alert point of contact can be reached at roc@icecube.wisc.edu"
+}

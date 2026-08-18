@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260429B / EP260429a: EP-FXT follow-up observation",
+  "eventId": "GRB 260429B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44445....1W",
+  "createdOn": 1777740393682,
+  "circularId": 44445,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. Wang (PMO, CAS; UCB), Y. L. Wang (NAO, CAS; ICE, CSIC), G. J. Yang, C.C Jin (NAO, CAS) on behalf of the Einstein Probe (EP) team:\n\nEP-FXT performed two follow-up observations of the EP-WXT detected transient GRB 260429B / EP260429a (Wang et al., GCN), also triggered by AstroSat CZTI (Arya et al., GCN 44443). The observations started at 2026-04-30T07:26:44 UTC and 2026-05-01T21:53:58 UTC, corresponding to approximately 16.8 and 55.2 hours after the EP-WXT trigger, with total exposure times of 9064 s and 5262 s, respectively.\n\nTwo X-ray sources were detected by FXT within the WXT error region:\n\nEPF_J160221.2-093607\nRA (J2000): 240.5884 deg\nDec (J2000): -9.6018 deg\nwith an uncertainty of 10 arcsec (radius, 90% C.L., statistical and systematic).\n\nEPF_J160226.1-093337\nRA (J2000): 240.6088 deg\nDec (J2000): -9.5602 deg\nwith an uncertainty of 10 arcsec (radius, 90% C.L., statistical and systematic).\n\nThe 0.5-10 keV flux of EPF_J160221.2-093607 decreased from 2.1e-12 to 5.8e-13 erg cm^-2 s^-1 between the two observations. In contrast, the flux of EPF_J160226.1-093337 remained nearly constant at about 6.6e-13 erg cm^-2 s^-1 in the same energy band. In addition, the position of EPF_J160226.1-093337 is 1.264 arcsec from Gaia DR3 4346772233753744896, suggesting that this Gaia source may be its counterpart. Therefore, EPF_J160221.2-093607 is the more likely X-ray afterglow of GRB 260429B / EP260429a. We note that follow-up observations were carried out by Eyles-Ferris et al. (GCN 44433), Fortin et al. (GCN 44434) and Lipunov et al. (GCN 44437), but no optical counterpart was detected in these observations. Further follow-up observations are encouraged.\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics).\n"
+}

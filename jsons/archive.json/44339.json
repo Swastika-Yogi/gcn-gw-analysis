@@ -1,0 +1,11 @@
+{
+  "subject": "EP260416a: VLT/FORS2 spectroscopic redshift confirmation",
+  "eventId": "EP260416a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44339....1A",
+  "createdOn": 1776515548130,
+  "submitter": "Laura Cotter at University College Dublin <laura.cotter@ucdconnect.ie>",
+  "circularId": 44339,
+  "format": "text/plain",
+  "body": "J. An (NAOC), A. Saccardi (CEA/Irfu), L. Cotter (UCD), D. Xu (NAOC), D. B. Malesani (DAWN/NBI and Radboud), A. L. Thakur (INAF-IAPS) report on behalf of the Stargate collaboration:\n\nWe observed the optical counterpart (Ducoin et al., GCN 44310; Li et al., GCN 44315; Hua et al., GCN 44318; Lee et al., GCN 44319; Zheng et al., GCN 44321; Martin-Carrillo et al., GCN 44328; Li et al,. GCN 44334) of EP260416a (Hu et al., GCNs 44307, 44324) using the ESO VLT UT1 (Antu) equipped with the FORS2 spectrograph.\n\nOur observation started on 2026 April 18 at 03:04:13 UT (1.90 days after the EP trigger). A series of 3 spectra of 900 s each were obtained with the 300V grism, covering the wavelength range 3500-8600 AA.\n\nFrom a 60 s acquisition image (1.89 days after trigger), we measure a magnitude R = 20.99 +/- 0.06 (Vega), calibrated against nearby stars from the Pan-STARRS catalog using the Lupton (2005) transformations, and not corrected for Galactic extinction.\n\nIn a preliminary reduction of the spectra, we detect a continuum over the entire wavelength range. At the blue edge of the spectrum, even though the S/N is low, we identify a broad trough at around 3540 AA, likely due to H I. We also detect multiple absorption features including O I, C II, Si IV, C IV, Si II, Fe II, Al II, Al III, at a common redshift of z = 1.910, which we thus suggest to be the redshift of EP260416a. The lack of any further hydrogen absorption at higher redshift implies that the z = 1.910 system is indeed local to the GRB. Our results confirm the tentative redshift measurement reported by He et al. (GCN 44336).\n\nWe acknowledge expert support from the ESO observing staff in Paranal, particularly Hannah Osborne and Diego Parraguez. The analysis of this spectrum was carried out with the help of the zHunter tool (https://doi.org/10.5281/zenodo.15189495).\n"
+}

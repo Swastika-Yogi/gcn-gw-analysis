@@ -1,0 +1,14 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 260809A",
+  "eventId": "GRB 260809A",
+  "submittedHow": "web",
+  "createdOn": 1786564521896,
+  "submitter": "Bagrat Mailyan at Florida Tech <mbagrat@gmail.com>",
+  "circularId": 45366,
+  "eventType": [
+    "GRB",
+    "Gamma-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "B. Mailyan (Florida Tech) reports on behalf of the Fermi-GBM Team:\n\nThe SVOM/ECLAIRs detected GRB 260809A on 2026-08-09 at 14:57:33 UTC (Brunet et al. 2026, GCN 45331). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified three candidates.\n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, identified a transient starting approximately 12 s after the ECLAIRs best image SNR time of 2026-08-09T14:57:13 UTC. The Targeted Search candidate was found most significantly on the 32 s timescale, with a false alarm rate of 1.6e-04 Hz. The Fermi-MET of the start time of this transient is 807980250.351 s. The Targeted Search localization is found to be spatially consistent with the ECLAIRs localization, with a spatial association probability of 95.8%.\n\nAdditionally, the GBM Targeted Search event was found with the highest significance using a \"normal\" spectrum (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\nThe Targeted Search data release product for this event can be found here:\nhttps://fermi.gsfc.nasa.gov/ssc/data/access/gbm/targeted_search/trigger_report.php?trigger_id=807980238&sample=SVOM_GCNs&hash=312d5789ab3c4b28\n\n[1] Goldstein et al. 2019, arXiv:1903.12597"
+}

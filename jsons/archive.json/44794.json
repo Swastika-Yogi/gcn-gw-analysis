@@ -1,0 +1,11 @@
+{
+  "subject": "EP260602a: SVOM/VT optical magnitudes correction",
+  "eventId": "EP260602a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44794....1L",
+  "createdOn": 1780474596296,
+  "circularId": 44794,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "The prior reporting of the magnitudes of EP260602a (Xu et al., GCN 44781) was affected by light blooming near the target. The corrected measurements are as below:\n\nMid time | Band | Exposure Time | Brightness\n9.49 h    VT_B     93*50 s     22.7 +/- 0.2 mag\n9.51 h    VT_R     84*50 s     21.5 +/- 0.1 mag\n\nThe measurements are in the AB magnitude without correction for Galactic extinction:\n\nWe apologize for the errors, and gratefully acknowledge the critical support from the COLIBRÍ team in identifying this discrepancy (Watson et al., GCN 44790)."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB260511B: MAO/AZT-22 optical observations",
+  "eventId": "GRB 260511B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44576....1R",
+  "createdOn": 1778586714538,
+  "circularId": 44576,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "format": "text/plain",
+  "body": "Y. Rajabov, B.Abidkhanov, O. Burkhonov, S. Ehgamberdiev, Y. Tillayev (UBAI), T. Boyqobilov, A. Shaymanov (Maidanak Observatory/UBAI) report on behalf of UBAI team.\n\nWe observed the field of GRB 260511B detected by SVOM (Godet et al., GCN 44543) and Fermi (Fermi GBM team, GCN 44542) with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2026-05-11 at 16:49:08 UT, i.e, ~6.81 hours after the FERMI GBM trigger. In total we obtained 6x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). \nWe detect the optical counterpart reported by many teams (Wu et al., GCN 44547; Sasada et al., GCN 44549; Jiang et al., GCN 44551; Wu et al., GCN 44552; Vijaykumar et al., GCN 44561; de Ugarte Postigo et al., GCN 44565; Lee et al., GCN 44567; Li et al., GCN 44568; Belkin et al., GCN 44572; Saccardi et al., GCN 44574).\nPreliminary photometry is as follows:\nDate       UTstart  Exptime     t-T0       Filter OT    Err.    UL    SNR\tSite/Telescope\n                    (nxs)     (hours)                 \n2026-05-11 16:49:08 6x300      6.81       R   18.32   0.01    23.0\t142\tMAO/AZT-22\nThe red shift (z = 2.006) measured by de Ugarte Postigo et al., GCN 44565. Then confirmed by Wang et al., GCN 44571 and Adami et al., GCN 44573.\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog. We used PanSTARRS DR2 catalog for template subtraction.  The data has not corrected for the Galactic extinction.\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical Institute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n"
+}

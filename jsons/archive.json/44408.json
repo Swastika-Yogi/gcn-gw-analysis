@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260305A: likely detection by Fermi-LAT and the LAT gamma-ray position",
+  "eventId": "GRB 260305A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44408....1X",
+  "createdOn": 1777118414246,
+  "submitter": "yixing@shao.ac.cn",
+  "circularId": 44408,
+  "format": "text/plain",
+  "body": "Yi Xing, Wenfei Yu (SHAO, CAS)\n\nWe report a likely detection of high-energy emission from GRB 260305A using Fermi-LAT data with our photon-cluster analysis method, which was initially applied to the search for gamma-ray flares from FRB 20240114A (ATel #16630; Xing et al. arXiv:2411.06996) and has successfully recovered approximately half of the previously reported LAT-detected GRBs with >1 GeV photons (doi:10.3847/1538-4357/ab1d4e).\n\nThe GRB was discovered by Fermi-GBM (trigger 794371303.18619 / 260305112; GCN 43920). We found five LAT photons arriving within a 27.0 s interval starting at 2026-03-05 02:41:52.640 UTC (T0 + 14.45 s), with the interval ending just before the end of the GBM T90 interval (T90 start = T0 + 0.768 s; T90 = 41.473 s; Fermi GBM Burst Catalog). The highest-energy photon in the cluster arrived at T0 + 33.42 s and has a photon energy of 1.6 GeV. Using LAT data from T0 to T0 + 100 s, we performed standard likelihood analysis and obtained a best-fit position at RA, Dec = 218.73, 35.49 (J2000), with a 68% containment statistical error radius of 0.22 deg, much smaller than the 2.4 deg statistical uncertainty reported in the GBM final real-time localization (GCN 43920). This best-fit position is consistent with, though near the edge of, the GBM localization region. The estimated photon flux and photon index above 100 MeV over the 100-s interval are (9.95 +/- 5.18) x 10^-6 ph cm^-2 s^-1 and -1.80 +/- 0.38, respectively, with a TS of 23.7."
+}

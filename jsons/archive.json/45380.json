@@ -1,0 +1,17 @@
+{
+  "editedOn": 1786726640859,
+  "subject": "GRB 260808B: Liverpool Telescope further optical observations",
+  "eventId": "GRB 260808B",
+  "version": 2,
+  "submittedHow": "web",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 45380,
+  "createdOn": 1786707975229,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "A. Bochenek, D. A. Perley (LJMU), report:\n\nWe observed the field of GRB 260808B (Bouchet et al., GCN 45316) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 8x120s exposures in SDSS griz filters, starting at 2026-08-13 01:30:02 UT, approximately 4.5 days after SVOM/ECLAIRS trigger. \n\nWe detect a source in the stacked images, with the photometry given below, at the counterpart position reported by Turpin et al. (GCN 45318), Li et al. (GCN 45320), also observed by Wang et al. (GCN 45322), Adami et al. (GCN 45323), Saccardi et al. (GCN 45328), Schneider et al. (GCN 45329), Bochenek et al., (GCN 45330), with re-brightening reported by Li et al. (GCN 45359) and Guelfand et al. (GCN 45364).\n\nMJD (mid)         T_mid-T_0        Filter       Mag. (AB)\n61265.06782        4.47 d           g         22.19 ± 0.09\n61265.08202        4.48 d           r         21.77 ± 0.06\n\nThe photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

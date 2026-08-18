@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 260627A",
+  "eventId": "GRB 260627A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45091....1K",
+  "createdOn": 1783366392621,
+  "circularId": 45091,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the MGNS/BepiColombo and HEND/Mars Odyssey teams,\n\nJ. Benkhoff on behalf of the BepiColombo team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nE. Burns on behalf of the IPN,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 260627A\nwas detected by Konus-Wind, Mars-Odyssey (HEND), and\nBepiColombo (MGNS), at about 6500 s UT (01:48:20).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n   97.683 (06h 30m 44s) -11.018 (-11d 01' 04\")\n Corners:\n   96.021 (06h 24m 05s) -10.787 (-10d 47' 15\")\n   98.614 (06h 34m 27s) -12.214 (-12d 12' 51\")\n   99.375 (06h 37m 30s) -11.186 (-11d 11' 10\")\n   96.787 (06h 27m 09s)  -9.778 ( -9d 46' 42\")\n ---------------------------------------------\nThe error box area is 3.6 sq. deg, and its maximum\ndimension is 3.3 deg (the minimum one is 1.2 deg).\nThe Sun distance was 34 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS file are posted at\nhttps://www.ioffe.ru/LEA/GRBs/GRB260627_T06499/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

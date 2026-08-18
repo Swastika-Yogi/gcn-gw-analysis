@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260805D: SVOM/GRM detection of a possible magnetar burst",
+  "eventId": "GRB 260805D",
+  "submittedHow": "web",
+  "createdOn": 1786708916129,
+  "submitter": "zhangjinpeng@ihep.ac.cn",
+  "circularId": 45381,
+  "eventType": [
+    "GRB",
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Jin-Peng Zhang, Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Hui Yang (IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM detected GRB 260805D during the routine ground search at 2026-08-05T14:52:21.700 (T0), which is also detected by Fermi/GBM (TrigNum 807634346).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst mainly consists of two pulses with a T90 of 0.10 +0.03/-0.01 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn/gcn/2026/svgrb260805D.png\n\nIn addition, the position of this burst, according to Fermi/GBM localization (RA = 284.2, Dec = -32.2, err = 34.7 degs), is located at about 68.9 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view.\n\nTriangulation between SVOM/GRM and Fermi/GBM (3 sigma):\nhttps://www.bursthub.cn/gcn/2026/svgrb260805D_triangulation.png\n\nConsidering the short duration and soft spectrum of this burst, and location consistent with several magnetars, it is likely a magnetar burst.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Jin-Peng Zhang (IHEP) (zhangjinpeng@ihep.ac.cn)"
+}

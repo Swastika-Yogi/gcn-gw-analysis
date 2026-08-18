@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of a burst from SGR 1E1841-045 on 2026 May 2",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44475....1R",
+  "createdOn": 1777994919001,
+  "circularId": 44475,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nA bright burst from SGR 1E1841-045\n(IPN triangulation: Ridnaia et al., GCN 44448;\nSVOM-GRM detection: Zao et al., GCN 44450) \ntriggered Konus-Wind at T0=20396.052 s UT (05:39:56.052)\non 2026 May 2.\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-50 ms and has a total duration of ~96 ms.\nThe emission is seen up to ~200 keV.\n\nThe Konus-Wind light curve of this burst is available at\nhttp://www.ioffe.ru/LEA/SGRs/260502_T20396/\n\nAs observed by Konus-Wind, the burst\nhad a fluence of 8.64(-0.45,+0.46)x10^-7 erg/cm2,\nand a 16-ms peak flux, measured from T0-0.004 s,\nof 1.93(-0.16,+0.16)x10^-5 erg/cm2/s\n(both in the 20 - 500 keV energy range).\n\nThe spectrum of the burst\n(measured from T0 to T0+0.064 s)\nis best fit in the 20 - 500 keV range\nby a power law with exponential cutoff model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith  alpha = 0.16(-0.69,+0.76)\nand Ep = 48(-4,+3) keV (chi2 = 12/15 dof).\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary.\n"
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260809A: SVOM detection of a faint burst",
+  "eventId": "GRB 260809A",
+  "submittedHow": "web",
+  "createdOn": 1786289093655,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45331,
+  "eventType": [
+    "GRB",
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "\nM. Brunet (IRAP), F. Piron (LUPM), D.Gotz (CEA), A. Saccardi (CEA) report on behalf of the SVOM mission team:\n\nAt 2026-08-09T14:57:33 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 260809A (SVOM burst-id sb26080907).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Image Trigger (IMT), which produced a sequence of 2 alerts. IMT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 7.20 in the [8-120] keV energy band over a time window of 20.48 seconds starting at 2026-08-09T14:57:13.\n\nThe localization of the best alert is R.A., Dec. 356.820, 20.969 degrees (J2000) with a 90% confidence level (C.L.) radius of 10.88 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nSVOM slewed to the burst.\n\nSVOM/MXT began observing the field at 2026-08-09T15:00:23 UTC, 170 seconds after T0. Using onboard processed data we found an uncatalogued X-ray source located at R.A., Dec. 356.9664, 21.0347 degrees:\nR.A. (J2000) = 23h47m51s\nDec. (J2000) =21d02m04s\nwith a 90% C.L. radius of 94 arcseconds.\n\nThis location is 9.09 arcminutes from the ECLAIRs onboard position. This position may be improved as more data is received.\n\nVT began observing the field after the slew. The analysis of the data will be published in a future circular.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Frédéric Piron: piron@in2p3.fr.\nPlease contact the BA by email if you require additional information.\n\n"
+}

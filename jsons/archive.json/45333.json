@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260808B: SVOM/ECLAIRs refined analysis",
+  "eventId": "GRB 260808B",
+  "submittedHow": "web",
+  "createdOn": 1786302645198,
+  "circularId": 45333,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "eventType": [
+    "GRB",
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "Authors: M. Brunet, L. Bouchet, S. Guillot (IRAP), Michela Dinatolo (U. Milano)\nreport on behalf of the SVOM/ECLAIRs team\n\nUsing the event-by-event data downloaded through the X-band ground station, we report further analysis of SVOM/ECLAIRs observations of GRB 260808B (SVOM burst-id sb26080812 – GCN 45316, trigger time T0 = 2026-08-08T14:20:58 UTC).\n\nThe burst that triggered ECLAIRs onboard shows a multiple peak lightcurve with a possible precursor at T0-84.5 s lasting around 2 s. The burst duration is T90 = 178 +12/-8 s in the 4-120 keV energy band.\n\nThe time-averaged spectrum before the slew, from T0-45s to T0+43s in the 5-120 keV energy range is best fitted by a powerlaw model with alpha = -1.96 +0.14/-0.16. With this model, the 4-120 keV fluence is 6.4 +/-0.9 e-7  erg/cm^2 and the 4-120 keV photon flux is 0.32 +/-0.03 ph/cm^2/s. \n\nThe possible precursor is too faint to extract any significant spectral parameters.\n\nAll the quoted errors are at the 68% confidence level.\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC.\n\nThe SVOM/ECLAIRs point of contact for this burst is: L. Bouchet (IRAP) (laurent.bouchet at utoulouse.fr)"
+}

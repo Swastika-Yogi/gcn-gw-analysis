@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260511A: SVOM/VT optical observation with VHF data",
+  "eventId": "GRB 260511A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44538....1W",
+  "createdOn": 1778491099788,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 44538,
+  "format": "text/markdown",
+  "body": "\nC. Wu (NAOC), J. T. Palmerio (CEA/Irfu), Y.N. Ma, L. P. Xin, Y. L. Qiu, H. L. Li (NAOC), L. Zhang (IHEP), D. F. Kong (GXU) \non behalf of the SVOM/VT team.\n\nAfter the trigger by SVOM/ECLAIRs at 2026-05-11T06:13:32 UTC (T0), SVOM performed an automatic slew on the burst location ( Godet et al., GCN 44532; Fermi GBM team, GCN 44529;Preis et al., GCN44531). SVOM/VT took images of the field in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, the candidate (Jiang et al., GCN 44533; Akl et al., GCN 44534; Saccardi et al., GCN 44535; Zheng et al., GCN 44536) was clearly detected in VT-VHF data. This candidate was detected in both VT_R and VT_B, and was flagged as an uncatalogued source whose brightness faded over the course of the VT observations. The candidate's magnitudes are:\n  | date-obs (UTC)       | mid-time    | exposure  | VT_B mag(AB)  | VT_R mag(AB)  |\n  | -------------------- | ----------- | --------- | ------------- | ------------- |\n  |2026-05-11T06:26:52.000  | 13.32 min   | 6*50 sec  |   --    |  18.61 ± 0.02 |\n  |2026-05-11T07:42:49.000   | 89.27 min  | 6*50 sec  | 21.15 ± 0.08  | 19.65 ± 0.07  |\n  \n  Magnitudes were not corrected for Galactic reddening. ( Note: The missing VT_B magnitude is likely caused by onboard processing interference. )\n  \n The color of VT_B - VT_R = 1.5 is in line with the expectations of an event at redshift z < 4. Further follow-up is encouraged.\n  \nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

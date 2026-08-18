@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260805B: Fermi GBM Final Localization",
+  "eventId": "GRB 260805B",
+  "submittedHow": "web",
+  "createdOn": 1785943159075,
+  "circularId": 45289,
+  "submitter": "Marianna Dafčíková at Masaryk University <500025@mail.muni.cz>",
+  "eventType": [
+    "GRB",
+    "Gamma-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\n\"At 11:36:52.81 UT on 05 August 2026, the Fermi Gamma-ray Burst Monitor (GBM)\ntriggered and located GRB 260805B (trigger 807622617/260805484).\n\nThe on-ground calculated location, using the Fermi GBM trigger data,\nis RA = 259.42, Dec = 64.59 (J2000 degrees, equivalent to J2000 17h 17m, +64d 35'),\nwith a statistical uncertainty of 2.15 degrees.\n\nThe angle from the Fermi LAT boresight is 31 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260805484/quicklook/glg_skymap_all_bn260805484.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260805484/quicklook/glg_healpix_all_bn260805484.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260805484/quicklook/glg_lc_medres34_bn260805484.gif\""
+}

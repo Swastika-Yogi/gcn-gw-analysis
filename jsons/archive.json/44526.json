@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260510C: MAXI/GSC detection",
+  "eventId": "GRB 260510C",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44526....1I",
+  "createdOn": 1778449353787,
+  "circularId": 44526,
+  "submitter": "Wataru Iwakiri at Chiba University <iwakiri.wataru.buz@gmail.com>",
+  "format": "text/plain",
+  "body": "W. Iwakiri (Chiba U.),　M. Serino(AGU), \nH. Negoro, M. Nakajima, K. Saito, T. Yokoyama, M. Wada (Nihon U.), \nT. Mihara, T. Tamagawa, N. Kawai, M. Matsuoka (RIKEN), \nT. Sakamoto, S. Sugita, Y. Kawakubo, H. Hiramatsu, A. Yoshida (AGU), \nY. Tsuboi, Y. Ishihara, H. Ogaki (Chuo U.), \nM. Shidatsu, C. Kang, M. Uenishi, T. Usuki, S. Yatsuzuka, H. Aoe (Ehime U.),\nI. Takahashi, Y. Yatsu (Science Tokyo), \nS. Nakahira, S. Ueno, H. Tomida, M. Kurihara (JAXA), \nY. Ueda, K. Fujiwara, S. Kobayashi (Kyoto U.), \nM. Yamauchi, M. Nishio, C. Hiraizumi (Miyazaki U.), \nK. Yamaoka (Nagoya U.),\nM. Sugizaki (Kanazawa U.),\nT. Kawamuro (Osaka U.), \nS. Yamada (Tohoku U),\nS. Ogawa (TUS)\nreport on behalf of the MAXI team:\n\nAt 17:13:42 UT on 2026 May 10, the MAXI/GSC nova alert system triggered \na bright uncatalogued X-ray transient source. The trigger time and \nposition are consistent with GRB 260510C reported by the Fermi team \n(GCN #44520) and the SVOM team (GCN #44521). \n\nThe X-ray flux averaged over the scan was 338 +/- 36 mCrab (4.0-10.0 keV, \n1-sigma error).\n\nAssuming that the source flux was constant over the transit, we obtain \nthe source position at:\n(R.A., Dec) = (157.881 deg, 2.824 deg) = (10 31 31, +02 49 26) (J2000)\nwith a statistical 90% C.L. elliptical error region with long and short \nradii of 0.17 deg and 0.14 deg, respectively. The roll angle of the long \naxis is 73.0 deg counterclockwise from the north. There is an additional \nsystematic uncertainty of 0.1 deg (90% containment radius).\n\nWithout assumptions on the source constancy, we obtain a rectangular \nerror box for the transient source with the following corners:\n(157.267, 2.290) deg = (10 29 04, +02 17 24) (J2000)\n(157.477, 2.117) deg = (10 29 54, +02 07 01) (J2000)\n(158.505, 3.360) deg = (10 34 01, +03 21 35) (J2000)\n(158.295, 3.533) deg = (10 33 10, +03 31 58) (J2000) \n\nThere was no significant excess flux in the previous transit at 15:40 UT \nwith an upper limit of 20 mCrab."
+}

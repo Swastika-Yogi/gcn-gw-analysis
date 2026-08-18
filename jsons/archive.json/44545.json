@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260511A: UTGO H50 optical afterglow observation",
+  "editedOn": 1779282380389,
+  "version": 2,
+  "eventId": "GRB 260511A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44545....1H",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Harrison at University of Tasmania <hgharper9962@gmail.com>",
+  "circularId": 44545,
+  "createdOn": 1778501583139,
+  "submitter": "Harrison at University of Tasmania <hgharper9962@gmail.com>",
+  "format": "text/markdown",
+  "body": "H. Harper (UTAS), K. Siellez (UTAS), B. Emptage (UTAS), K. Hill (UTAS), T. Plunkett (UTAS), A. Cole (UTAS), J.-P. Beaulieu (IAP/UTAS) report: \n\nWe observed the field of the SVOM/ECLAIRs and Fermi/GBM GRB 260511A (Godet et al., GCN [44532](gcn.nasa.gov/circulars/44532); Fermi GBM Team, GCN [44529](gcn.nasa.gov/circulars/44529)) with the Harlingten 50cm (H50) at Greenhill Observatory, University of Tasmania (UTGO). \n\nOur observation started on 2026-05-11 at 08:58:59UT, ~165 minutes after Fermi trigger Observations. We obtained 11 x 120s exposure in the SDSS r’ filter. \n\nThe optical counterpart (Jiang et al., GCN [44533](gcn.nasa.gov/circulars/44533); Akl et al. GCN [44534](gcn.nasa.gov/circulars/44534); Saccardi et al. GCN [44535](gcn.nasa.gov/circulars/44535); Zheng et al. GCN [44536](gcn.nasa.gov/circulars/44536); Wu et al., GCN [44538](gcn.nasa.gov/circulars/44538)) is clearly detected in our stacked images at RA = 13:11:35.9244 (J2000) (197.8996850 deg) and Dec = -33:48:15.887 (J2000) (-33.8044130 deg) with an uncertainty of ~0.4 arcsec. \n\nAll the data have been reduced by our UTGO pipeline (Plunkett et al. 2025), image subtraction was performed using STDpipe (Karpov 2025). We measured the following magnitude not corrected for Galactic extinction: \n\nr = 20.68 +/- 0.12 AB (mid time ~176minutes after trigger)\n\n\nRefined processing and more observations are still ongoing. "
+}

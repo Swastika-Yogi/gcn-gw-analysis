@@ -1,0 +1,11 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 260510B",
+  "eventId": "GRB 260510B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44524....1P",
+  "createdOn": 1778448081000,
+  "circularId": 44524,
+  "submitter": "Eva MP at INAOE <eva.palafox@gmail.com>",
+  "format": "text/markdown",
+  "body": "E. Palafox (INAOE) reports on behalf of the Fermi-GBM Team:\n\nSVOM/ECLAIRs detected GRB 260510B on 2026-05-10 at 12:19:20 UTC (A. Saccardi et al. 2026, [GCN 44515](https://gcn.nasa.gov/circulars/44515)). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates. \n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, identified a transient approximately 3 s after the ECLAIRs best image SNR time of 2026-05-10T12:19:15.  The Targeted Search candidate was found most significantly on the 8 s timescale using the \"normal\" spectral template (i.e., Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) and has a false alarm rate of 1.1e-04 Hz. The Fermi-MET of the start time of this transient is 800108363.27 s. The Targeted Search localization is found to be spatially consistent with the ECLAIRs one, with a spatial association probability of 98.6%.\n \n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

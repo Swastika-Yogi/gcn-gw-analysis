@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260421B: SVOM/VT optical observations",
+  "eventId": "GRB 260421B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44377....1L",
+  "createdOn": 1776772416227,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 44377,
+  "format": "text/plain",
+  "body": "H. L. Li, C. Wu, L. P. Xin, Y. L. Qiu, Y. N. Ma, Z. H. Yao, J. R. Xu,  X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA/Irfu), W. L. Zhang (PMO), Z. Y. Liu (GZNU) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed observations with automatic slew to the field of GRB 260421B triggered by SVOM/ECLAIRs (sb26042105, Zhao et al., GCN 44362). This burst was also detected by SVOM/GRM (Zhao et al., GCN 44362), SVOM/MXT (Zhao et al., GCN 44362), and Fermi-GBM (Fermi GBM team, GCN 44360; Preis & Greiner, GCN 44361). The observation started at 2026-04-21T04:18:32 UTC, i.e., approximately 5.1 minutes post trigger in the VT_B (400-650 nm) and VT_R (650-1000 nm) channels simultaneously. \n\nThe optical counterpart (He et al., GCN 44363; Sanchez-Alvarez, GCN 44364; Turpin et al., GCN 44365; Wu et al., GCN 44366) with redshift z=2.115 (Schneider et al., GCN 44368) was clearly detected in single frames in both channels. With X-band data available，the light curves showed a fast decay from 5.5 minutes to 50 minutes post trigger, following a plateau after 3.37 hours.  \n\nThe preliminary measurements are given in the AB magnitudes and are not corrected for Galactic extinction:\n\nMid time | Band | Exposure Time |    Brightness\n5.53 min   VT_B      50 sec       16.23+/-0.03 mag   \n5.53 min   VT_R      50 sec       15.77+/-0.03 mag  \n3.599 hr   VT_B     27*100 sec    20.94+/-0.07 mag\n3.668 hr   VT_R     22*100 sec    20.52+/-0.06 mag\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "EP260626a: further Liverpool Telescope optical upper limits",
+  "eventId": "EP260626a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45051....1B",
+  "createdOn": 1782581138754,
+  "circularId": 45051,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/plain",
+  "body": "A. Bochenek, D. A. Perley (LJMU), report:\n\nWe observed the field of EP260626a (Chen et al., GCN 45047; Chen et al., GCN 45050) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 8x150s exposures in SDSS r and z filters, starting at 2026-06-27 01:59:23 UT, approximately 20.57 hours after EP trigger.\n\nThe stacked exposures were subtracted from PanSTARRS reference imaging using custom PSF-matching image subtraction code utilising Swarp, SourceExtractor, and PSFex. We do not detect any new sources in the error EP/WXT region (Chen et al., GCN 45047), including at the position of the uncatalogued X-ray source reported by Chen et al. (GCN 45047), down to 3 sigma upper limits of r> 23.44 and z> 22.94.\n\nThis is consistent with upper limits from Eyles-Ferris et al. (GCN 45048) and Magnani et al. (GCN 45049).\n\nThe photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

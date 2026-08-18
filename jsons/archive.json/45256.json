@@ -1,0 +1,14 @@
+{
+  "subject": "EP260727a: VLT/X-shooter spectroscopic redshift z = 2.817",
+  "eventId": "EP260727a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45256....1S",
+  "createdOn": 1785400715947,
+  "submitter": "Benjamin Schneider at MIT <bschn@mit.edu>",
+  "circularId": 45256,
+  "eventType": [
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "B. Schneider (LAM), M. Garnichey (LUX-Paris Obs.), L. Xin (NAOC), D. Xu (NAOC), G. Corcoran (UCD), V. D'Elia (ASI-SSDC), L. Izzo (INAF/OACn & DARK/NBI), A. Rossi (INAF-OAS), A. Saccardi (CEA/Irfu), A. L. Thakur (INAF/IAPS), B. Topcu (University of Bath), S. D. Vergani (LUX-Paris Obs.) report on behalf of the Stargate collaboration:\n\nWe observed the optical counterpart (He et al., GCN 45234; Maksut et al., GCN 45238; Eyles-Ferris et al., GCN 45239; Adami et al., GCN 45243; Guziy et al., GCN 45245) of the EP260727a (Hu et al., GCN 45235; Wu et al., GCN 45244) using the ESO VLT UT3 (Melipal) equipped with the X-shooter spectrograph. Our spectra cover the wavelength range 3000-25000 AA, and consist of 4 exposures of 1200 s each. The observation mid time was 09:00:34 UT on 2026 July 28 (12.38 hr after the EP/WXT trigger).\n\nIn a 3x60s acquisition image (taken 11.46 hr after the EP/WXT trigger), the optical counterpart is detected with a magnitude r = 22.51 +/- 0.06 AB mag, calibrated against Pan-STARRS objects, and not corrected for Galactic extinction.\n\nIn a preliminary reduction of the spectra, we detect a faint continuum down to ~3800 AA. We identify a trough around 4639 AA, likely due to H I Lyman-alpha. Multiple absorption lines are also detected, which we interpret as due to Si II, O I, C II, Si IV, Mg II, all at a common redshift of z = 2.817. Additionally, at a consistent redshift (z = 2.817) we note the presence of several emission lines due to the [O II] doublet, [O III] doublet, and Hgamma from the faint host galaxy visible in Legacy Survey DR10 as noted by He et al. (GCN 45234).\n\nWe acknowledge the excellent support from the observing staff in Paranal, in particular Florian Rodler and Marcela Espinoza. The analysis of this spectrum was carried out with the help of the zHunter tool (https://doi.org/10.5281/zenodo.15189495)."
+}

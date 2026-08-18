@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260727A: Liverpool Telescope optical upper limits",
+  "eventId": "GRB 260727A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45240....1B",
+  "createdOn": 1785236623996,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 45240,
+  "eventType": [
+    "GRB"
+  ],
+  "format": "text/plain",
+  "body": "A. Bochenek, D. A. Perley (LJMU), report:\n\nWe observed the field of GRB 260727A (Li et al. GCN 45220) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 8x120s exposures in SDSS r and i filters, starting at 2026-07-28 01:07:14 UT, approximately 24.75. hours after trigger.\n\nThe images were stacked, and the stacks were subtracted from PanSTARRS reference images, using PSF matching through PSF convolution, with the help of PSFEx. We do not detect any new sources in the SVOM/IMT error region (Li et al. GCN 45220) down to 3-sigma limiting magnitudes of r > 22.17 and i > 22.05 mag. We note that the image subtraction is partially affected by two bright stars located close to the edge of the error region.\n\nThe photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260509A: LCO optical observations",
+  "eventId": "GRB 260509A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44513....1B",
+  "createdOn": 1778406236337,
+  "circularId": 44513,
+  "submitter": "Sergey Belkin at Monash University <sergey.belkin@monash.edu>",
+  "format": "text/plain",
+  "body": "S. Belkin (Monash U) reports:\n\nWe observed the optical counterpart candidate GOTO26emi of GRB 260509A, detected by SVOM/ECLAIRs (Götz et al., GCN 44504), with the Las Cumbres Observatory 1m telescope at Cerro Tololo Observatory equipped with the Sinistro instrument.\n\nIn the stacked images, we clearly detect the reported optical counterpart candidate GOTO26emi, first identified by GOTO (O'Neill et al., GCN 44505) and subsequently reported by Saccardi et al. (GCN 44506), Wu et al. (GCN 44507), Sánchez Álvarez et al. (GCN 44509), Zheng et al. (GCN 44510), and Lipunov et al. (GCN 44512).\n\nThe preliminary photometry from the stacked images is:\n\nDate (UT)                T-T0 (days)   Filter   Exp. time (s)   Magnitude\n============================================================================\n2026-05-10 01:53:25       0.16825       r        60 x 5          20.67 +/- 0.13\n2026-05-10 02:00:37       0.17324       i        60 x 5          20.51 +/- 0.17\n2026-05-10 02:07:48       0.17823       g        60 x 5          20.88 +/- 0.12\n\nThe photometry was calibrated against Pan-STARRS field stars. The quoted magnitudes are in the AB system and are not corrected for Galactic extinction.\n\nOur r-band measurement is consistent with the fading behaviour reported by Saccardi et al. (GCN 44506) and Sánchez Álvarez et al. (GCN 44509). Further follow-up is encouraged."
+}

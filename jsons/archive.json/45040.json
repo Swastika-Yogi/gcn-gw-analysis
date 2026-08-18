@@ -1,0 +1,11 @@
+{
+  "subject": "EP260623a: Liverpool Telescope optical observations",
+  "eventId": "EP260623a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45040....1B",
+  "createdOn": 1782323947262,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 45040,
+  "format": "text/markdown",
+  "body": "A. Bochenek, D. A. Perley (LJMU), report:\n\nWe observed the field of EP260623a (Waang et al., GCN 45020; Wang et al., GCN 45035) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 6x120s exposures in SDSS griz filters, starting at 2026-06-24 01:15:57 UT, approximately 22.4 hours after EP trigger. Multiple exposures across all filters had to be discarded prior to stacking due to an issue with the telescope rotator.\n\nWe detect a source in the images in all filters at the position reported by Li et al. (GCN 45021), also Izzo et al. (GCN 45022); Angulo et al. (GCN 45024); Brivio et al. (GCN 45025); Jiang et al. (GCN 45026); Li et al. (GCN 45027); Jelinek et al. (GCN 45029); Lee et al. (GCN 45030); Saikia et al. (GCN 45034). The preliminary photometry is:\n\n| MJD (mid)     | T_mid-T_0   | Filter    | Mag. (AB)     |\n|---------------|-------------|-----------|---------------|\n| 61215.05694   | 22.49 h     | g         | > 21.44       |\n| 61215.06840   | 22.76 h     | r         | 21.96 ± 0.23  |\n| 61215.08921   | 23.26 h     | i         | 21.59 ± 0.13  |\n| 61215.09872   | 23.50 h     | z         | 21.06 ± 0.16  |\n\nThe photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

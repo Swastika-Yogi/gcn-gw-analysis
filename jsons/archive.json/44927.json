@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260610b: Liverpool Telescope optical observations",
+  "eventId": "GRB 260610B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44927....1B",
+  "createdOn": 1781287341506,
+  "circularId": 44927,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/markdown",
+  "body": "A. Bochenek, D. A. Perley (LJMU), report:\n\nWe observed the field of the optical counterpart  (O'Neil et al., GCN 44903) of GRB 260610b (Fu et al., GCN 44901) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 5x120s exposures in SDSS griz filters, starting at 2026-06-10 23:39:02 UT, approximately 23.9 hours after trigger.\n\nWe detect a source in the stacked images in all filters at the position reported by O'Neil et al. (GCN 44903), observed also by Watson et al. (GCN 44905); Zhu et al. (GCN 44909); Gillanders et al. (GCN 44910); Akl et al. (GCN 44911); O'Neill et al. (GCN 44914); Moskvitin et al. (GCN 44918); Jackson-Horne et al. (GCN 44919); Izzo, (GCN 44920), and Li et al. (GCN 44921). The photometry is:\n\n\n| MJD (mid)    | T_mid-T_0    | Filter       | Mag. (AB)    |\n| ------------ | ------------ | ------------ | ------------ |\n| 61202.98947  | 23.98 h      | r            | 20.22 ± 0.02 |\n| 61202.99795  | 24.18 h      | i            | 19.89 ± 0.02 |\n| 61203.00646  | 24.38 h      | z            | 19.78 ± 0.05 |\n| 61203.01493  | 24.59 h      | g            | 20.66 ± 0.03 |\n\n\nThe photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction.\n"
+}

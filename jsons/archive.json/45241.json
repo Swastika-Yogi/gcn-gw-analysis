@@ -1,0 +1,15 @@
+{
+  "subject": "GRB 260726A: Liverpool Telescope optical observations",
+  "eventId": "GRB 260726A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45241....1B",
+  "createdOn": 1785236698833,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 45241,
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "A. Bochenek, D. A. Perley (LJMU), report:\n\nWe observed the field of GRB 260726A (Fermi GBM team, GCN 45218;  Liang et al., GCN 45219; Brunet et al., GCN 45229) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained 8x120s exposures in SDSS r and i filters, starting at 2026-07-28 01:48:36 UT, approximately 26.06 hours after Fermi trigger.\n\nWe detect a source in the i-band stacked image at the candidate counterpart position reported by Brunet et al. (GCN 45229) and Li et al. (GCN 45230), and a non-detection in the stacked r-band image, with photometry given below:\n\nMJD (mid)         T_mid-T_0        Filter       Mag. (AB)\n61249.08219        26.23 h           r         > 22.03\n61249.09609        26.56 h           i         22.58 ± 0.16\n\nThe photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

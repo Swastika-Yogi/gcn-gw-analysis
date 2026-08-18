@@ -1,0 +1,17 @@
+{
+  "subject": "GRB 260807A: SVOM possible detection of a faint burst",
+  "editedOn": 1786112170531,
+  "version": 2,
+  "eventId": "GRB 260807A",
+  "submittedHow": "web",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45308,
+  "createdOn": 1786103148429,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "eventType": [
+    "GRB",
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "Wenjin Xie, Donghua Zhao(NAOC), Hui Yang, Laurent Bouchet (IRAP), Ruizhi Li (YNAO), Chao Wu (NAOC) report on behalf of the SVOM mission team:\nAt 2026-08-07T11:00:20 UTC (T0), SVOM/ECLAIRs triggered and located the gamma-ray burst GRB 260807A (SVOM burst-id sb26080703).\n\nThe following trigger information was received on the ground with low latency by the SVOM VHF Alert Network.\n\nThe burst was only detected by the Count-Rate Trigger (CRT), which produced a sequence of 1 alert. CRT provided the alert with the best signal-to-noise-ratio in the image (SNR) of 7 in the [8-120] keV energy band over a time window of 20.40 seconds starting at 2026-08-07T10:59:59.\n\nThe localization of the best alert is R.A., Dec. 16.1480, 44.7752 degrees:\nR.A. (J2000) = 1h04m35.51s\nDec. (J2000) = 44d46m30.57s\n with a 90% confidence level (C.L.) radius of 11.18 arcmin (including systematic error of 2 arcmin added in quadrature).\n\nDue to the detection significance being below the slew threshold, no immediate slew was performed on this burst. No X-ray observation could be performed by SVOM/MXT for the time being. No optical observation could be performed by SVOM/VT for the time being.\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. SVOM/ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC. SVOM/GRM was developed by the Institute of High Energy Physics (IHEP) of CAS. SVOM/MXT was developed jointly by CNES, CEA-IRFU, CNRS-IJCLab, University of Leicester, MPE.\n\nThe Burst Advocate (BA) on shift for this alert is Chao WU: cwu@bao.ac.cn\nPlease contact the BA by email if you require additional information.\n"
+}

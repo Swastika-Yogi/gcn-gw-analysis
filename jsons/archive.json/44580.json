@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260511B: FRAM-ORM optical detection",
+  "eventId": "GRB 260511B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44580....1N",
+  "createdOn": 1778594371444,
+  "submitter": "Filip Novotný at Masaryk University <filip.novotny@talentovani.cz>",
+  "circularId": 44580,
+  "format": "text/plain",
+  "body": "Filip Novotný, Martin Jelínek, Jan Štrobl (ASU CAS Ondrejov, CZ),\nSergey Karpov, Martin Mašek, Petr Janeček, Jakub Juryšek, Jan Ebr, Ronan Cunniffe, Petr Travníček and Michael Prouza (Institute of Physics, Prague, CZ)\nreport:\n\nWe observed the field of GRB 260511B detected by Fermi/GBM (Fermi GBM Team, GCN 44542) and SVOM/ECLAIRs (Godet et al., GCN 44543) with the FRAM robotic telescope at the Observatorio del Roque de los Muchachos (ORM), La Palma, Spain. Observations were carried out in the clear filter from T+9.6 hr to T+17.4 hr with 60-second exposures stacked per epoch.\n\nThe optical afterglow(Wu et al., GCN 44547 ; Sasada et al., GCN 44549 ; Jiang et al., GCN 44551 ; Wu et al., GCN 44552 ; Li et al., GCN 44557 ; Vijaykumar et al., GCN 44561 ; de Ugarte Postigo et al., GCN 44565 ; Lee et al., GCN 44567; Li et al., GCN 44568; Wang  et al., GCN 44571; Belkin et al., GCN 44572) of GRB 260511B (FERMI team, GCN 44542 ; Godet et al., GCN 44543; Roberts et al., GCN 44554; Waratkar et al., GCN 44556; Arya et al., GCN 44560) is clearly detected throughout the night, fading from CR = 18.89 +/- 0.10 at T+9.8 hr till about T+16 hr, when the target terminated due to dawn. Magnitudes were reduced using the PyRT pipeline and calibrated to r-band AB magnitudes against the ATLAS catalog. No correction for Galactic extinction has been applied.\n\nFitting a power law F(t) ~ t^(-alpha) to our data yields alpha = 1.39 +/- 0.29, consistent with the power-law decay reported by earlier observers (GCN 44547, 44549, 44551, 44561)."
+}

@@ -1,0 +1,14 @@
+{
+  "subject": "Fermi GBM Sub-Threshold Detection of GRB 260705A",
+  "editedOn": 1783355246896,
+  "version": 3,
+  "eventId": "GRB 260705A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45080....1H",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of rhamburg@usra.edu",
+  "circularId": 45080,
+  "createdOn": 1783283617494,
+  "submitter": "rhamburg@usra.edu",
+  "format": "text/plain",
+  "body": "R. Hamburg (USRA) and P. Veres (UAH) report on behalf of the Fermi-GBM Team:\n\nSVOM ECLAIRs detected GRB 260702A on 2026-07-05 at 13:06:46 UTC (Saccardi et al 2026; GCN 45079). There was no Fermi-GBM onboard trigger around this event time. An automated, blind search for gamma-ray bursts below the onboard triggering threshold in Fermi-GBM identified no candidates.\n\nThe GBM Targeted Search [1], the most sensitive coherent search for GRB-like signals in GBM, identified a transient starting about 8 seconds after the SVOM ECLAIRs best SNR time of 2026-07-05 13:06:28 UTC. The Fermi-MET for this transient is 804949601.573 s. The transient is found most significantly on the 32 s timescale with a false alarm rate of 1.4e-04 Hz. The Targeted Search localization is found to be spatially consistent with the SVOM ECLAIRs localization.\n\nThe GBM Targeted Search event was found with the highest significance using a \"normal\" spectrum (Band function with Epeak = 230 keV, alpha = -1.0, beta = -2.3) for a GRB.\n\n[1] Goldstein et al. 2019 arXiv:1903.12597"
+}

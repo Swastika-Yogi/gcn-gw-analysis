@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260619A: Kilonova-Catcher optical upper limit",
+  "eventId": "GRB 260619A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44992....1H",
+  "createdOn": 1781862876524,
+  "submitter": "Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "circularId": 44992,
+  "format": "text/markdown",
+  "body": "R. Hellot (KNC), D. Turpin (CEA-Saclay/Irfu), C. Andrade(UMN), S. Antier (IJCLab), M. Coughlin (UMN), S. Karpov (FZU), P. Hello (IJCLAB), M. Pillas (IAP) on behalf of the GRANDMA/Kilonova-Catcher collaboration:\n\nWe observed the field of GRB 260619A detected by SVOM/ECLAIRs (Goto et al., GCN 44985) with the GRANDMA citizen science project Kilonova-catcher (KNC). Our observations were performed with a CDK17 telescope located at AITP San Pedro Chile Observatory and operated by R. Hellot. Our observations started at TGRB+4.0 hours and were taken with the sdssr filter.\n\nIn our stacked frames, subtracted from the PanSTARRS DR2 template image, we do not detect any optical uncatalogued source inside the SVOM/ECLAIRs error box.\n\nWe report our follow-up results in the table below:\n\n| Tmid-TGRB (hr)| Exp (s)     | Filter         | Magnitude     | Instrument       |\n| ------------ | ------------ |------------ |------------ |------------ |\n| 4.29                  | 12 x 300s | r (AB)     | 20.3 (5 sigma) |  AITP    | \n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022).  Images obtained with the Sloan filters were calibrated using the PanSTARRS DR1 catalog.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023). \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n\n"
+}

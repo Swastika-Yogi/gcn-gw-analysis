@@ -1,0 +1,11 @@
+{
+  "subject": "EP260602b: J-band upper limit with WINTER",
+  "eventId": "EP260602b",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44829....1M",
+  "createdOn": 1780622305677,
+  "circularId": 44829,
+  "submitter": "Geoffrey Mo at Caltech / Carnegie Observatories <gmo@mit.edu>",
+  "format": "text/markdown",
+  "body": "Tanishk Mohan (IITB), Geoffrey Mo (Caltech/Carnegie), Tomas Ahumada (NOIRLab), Benjamin Schneider (LAM), Robert Stein (UMD), Viraj Karambelkar (Columbia), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of EP260602b (Wu et al., GCN 44786; Wu et al., GCN 44802) in the near-infrared J band with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024).\nObservations began at 2026-06-03T04:53:16 UTC in the J band (~11 hr after the EP trigger), consisting of 15*120 sec exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565).\n\nWe do not detect a source at the optical counterpart location (He et al., GCN 44780; Eyles-Ferris et al., GCN 44809; Bochenek et al., GCN 44811). We obtain the following 5-sigma upper limit: J = 19.1 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

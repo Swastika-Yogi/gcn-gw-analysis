@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260601B/EP260601a: GECAM-B analysis suggests a possible long duration Type I burst",
+  "eventId": "GRB 260601B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44768....1W",
+  "createdOn": 1780412682283,
+  "submitter": "Chenwei Wang at IHEP <cwwang@ihep.ac.cn>",
+  "circularId": 44768,
+  "format": "text/plain",
+  "body": "Chen-Wei Wang, Zheng-Hang Yu, Shao-Lin Xiong, Chao Zheng, Cheng-Kui Li (IHEP) report on behalf of GECAM team: \n\nWith the event-by-event data downloaded through the ground station, we conducted the standard analysis of GRB 260601B/EP260601a. The GECAM-B light curve shows that this burst exhibits a temporal profile similar to that of GRB 060614, together with an exceptionally hard spectrum.\n\nThe initial pulse is clearly detected above 500 keV, while the subsequent “extended” emission, which is temporally consistent with the EP/WXT trigger, is even harder than the initial pulse and is clearly detected above 1 MeV.\n\nUsing the localization reported by EP/WXT (R.A. = 257.649 deg, Dec = -1.647 deg, GCN#44766) , the time-averaged spectrum from T0-8 s to T0+90 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.36 +0.05/-0.05 and the cutoff energy, parameterized as Epeak, is 3600 +830/-770 keV. The event fluence (10-1000 keV) in this time interval is (1.03 +/-0.02)E-04 erg/cm^2. \n\nGRB 260601B is therefore consistent with Type I GRBs in the Amati-relation diagram, as shown at:\nhttps://www.bursthub.cn//admin/static/gecambgrb260601B_amati.png\n\nMoreover, the main pulse, corresponding to T0+1 s to T0+5 s, can also be fitted by a power law function with an exponential high-energy cutoff, with power law index of -1.10 +0.14/-0.15, and Epeak of 715 +249/-162 keV.\n\nConsidering its GRB 060614-like light-curve pattern, exceptionally hard spectrum, and location in the Amati-relation diagram, GRB 260601B/EP260601a could be a possible long-duration Type I GRB. \n\nFollow-up observations are strongly encouraged.\n"
+}

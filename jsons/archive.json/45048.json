@@ -1,0 +1,11 @@
+{
+  "subject": "EP260626a: Liverpool Telescope upper limits",
+  "eventId": "EP260626a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45048....1E",
+  "createdOn": 1782548750053,
+  "submitter": "Rob Eyles-Ferris at U of Leicester <raje1@leicester.ac.uk>",
+  "circularId": 45048,
+  "format": "text/markdown",
+  "body": "R. A. J. Eyles-Ferris (Leicester), D. B. Malesani (DAWN/NBI and Radboud), J. Sanchez-Sierras (Radboud), G. Corcoran (UCD), A. Martin-Carrillo (UCD), P. G. Jonker (Radboud), report on behalf of a larger collaboration:\n\nWe observed the field of the Einstein Probe fast X-ray transient EP260626a (Chen et al., GCN 45047) with the 2m Liverpool Telescope on La Palma using the IO:O instrument. We obtained 6x150 s exposures in each of the SDSS r’ and z’ filters starting at 2026-06-27 02:24:23 UT, approximately 21 hours after the X-ray detection.\n\nWe performed image subtraction on the stacked images using reference images from Pan-STARRS and also compared the stacked and reference images manually. Within the EP/WXT localisation, we detect no new sources in any of the bands.\n\nWe derive the following 3-sigma upper limits for our stacked images. Our photometry is calibrated to PanSTARRS and not corrected for Galactic extinction.\n\n| t_mid (hours) | Filter | AB magnitude |\n| ------------- | ------ | ------------ |\n| 21.13 | r’ | >22.89 |\n| 21.44 | z’ | >22.37 |"
+}

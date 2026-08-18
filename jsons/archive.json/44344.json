@@ -1,0 +1,11 @@
+{
+  "subject": "EP260417a: GROWTH-India Telescope optical upper limit",
+  "eventId": "EP260417a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44344....1K",
+  "createdOn": 1776554730420,
+  "circularId": 44344,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/plain",
+  "body": "A. Khade (IITB), A. Kumar (IITB), V. Vijaykumar (IITB), T. Mohan (IITB), V. Swain (IITB), D. Eappachen (IIA), S. Patil (IITB), A.P. Saikia (IITB), V. Bhalerao (IITB), G.C. Anupama (IIA), S. Barway (IIA) and R. Norbu (IAO) report on behalf of the GIT team:\n\nWe observed the field of EP260417a detected by Einstein Probe (Wang et al., GCN 44325), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2026-04-18 21:01:23 (UTC), i.e., 1.86 days after the trigger, and obtained multiple exposures in the r' filter. No optical counterpart is detected at the position reported by He et al. (GCN 44326) in our stacked image. The photometric upper limit is as follows:\n\n| MJD (mid)    | Filter | tmid-t0 (hours) | Exposure Time (sec) | Upper limit (AB) |\n| ------------ | ------ | --------------  | ------------------- | ---------------- |\n| 61148.885    | r'     | 44.85           | 4x360               | 20.64            |\n\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur upper limit is consistent with the reported optical measurements by He et al. (GCN 44326) and Lipunov et al. (GCN 44338).\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

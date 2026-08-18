@@ -1,0 +1,11 @@
+{
+  "subject": "Konus-Wind detection of GRB 260617A",
+  "eventId": "GRB 260617A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44998....1R",
+  "createdOn": 1781872155229,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 44998,
+  "format": "text/plain",
+  "body": "A. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short-duration GRB 260617A\n(Fermi-GBM detection: Fermi GBM team, GCN 44969;\nGodwin & Meegan, GCN 44972;\nIPN triangulation: Kozyrev et al., GCN 44982;\nCALET-GBM detection: Torii et al., GCN 44989)\ntriggered Konus-Wind at T0=77808.934 s UT (21:36:48.934).\n\nThe burst light curve shows a multi-peaked pulse,\nwhich starts at ~T0-64 ms and has a total duration of ~150 ms.\nThe emission is seen up to ~4 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260617_T77808/\n\nAs observed by Konus-Wind, the burst\nhad the total fluence of 1.28(-0.16,+0.19)x10^-6 erg/cm2,\nand the 16-ms peak flux, measured from T0-0.060 s,\nof 1.73(-0.36,+0.38)x10^-5 erg/cm2/s\n(both in the 20 keV - 10 MeV energy range).\n\nSince the brightest peak of the burst light curve\nwas detected before the trigger, the spectral analysis\nwas performed using the KW 3-channel light curve data.\n\nModelling the KW 3-channel time-integrated spectrum\n(measured from T0-0.064 s to T0+0.084 s)\nby a power law with exponential cutoff (CPL) model:\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep),\nyields alpha = -0.26(-0.32,+0.40) and Ep = 537(-85,+129) keV.\n\nAll the quoted errors are at the 68% confidence level.\nAll the quoted values are preliminary."
+}

@@ -1,0 +1,14 @@
+{
+  "editedOn": 1779109467101,
+  "subject": "GRB 260516D: SVOM/VT optical bright candidate",
+  "eventId": "GRB 260516D",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44654....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 44654,
+  "createdOn": 1778981257465,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. N. Ma,  C. Wu, Z. H. Yao, Y. L. Qiu,  X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, L. Lan, J. R. Xu, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio  and A. Saccardi (CEA/Irfu)  report on behalf of the SVOM/VT team.\n\nSVOM/VT performed ToO observation to the field of GRB 260516D detected by SVOM/ECLAIRs (sb26051616, Brunet et al., GCN 44649). The observation started at 2026-05-16T22:20:51 UTC, 1.69 hour post trigger in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nAn uncatalogued optical source was clearly detected in single frames of both channels within the errobox of SVOM/ECLAIRs (Brunet et al., GCN 44649), compared to the Legacy Survey. The position is at R.A., Dec. = 233.827956, 6.529103 degrees, equivalent to:\n    R.A. (J2000) = 15:35:18.71\n    Dec. (J2000) = +6:31:44.77\nwith an uncertainty of 0.5 arcsec.\n\nThe measurements in AB magnitudes are given below:\n\n Mid_time       Band        Exposure Time     Magnitude (AB)\n1.71 hour       VT_B           70 sec        19.62 +/- 0.05 mag\n1.69 hour       VT_R           70 sec        19.00 +/- 0.05 mag\n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

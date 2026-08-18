@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260516D: SVOM/ECLAIRs refined analysis",
+  "editedOn": 1779219088731,
+  "eventId": "GRB 260516D",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44667....1B",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 44667,
+  "createdOn": 1779204555034,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "M. Brunet, O. Godet, J.-L. Atteia (IRAP), A. Saccardi (CEA/ Irfu), report on behalf of the SVOM/ECLAIRs team\n\nUsing the event-by-event data downloaded through the X-band ground station, we report further analysis of SVOM/ECLAIRs observations of GRB 260516D (SVOM burst-id sb260511616 – GCN 44649, trigger time T0 = 2026-05-16T20:39:50 UTC).\n\nThe burst that triggered ECLAIRs shows a multiple peak light curve with most emission detected below 50 keV. The burst duration is estimated to be 152 s in the 4-20 keV energy band through imaging.\n\nThe time-averaged spectrum from T0-78 s to T0+74 s in the energy range 5-50 keV is best fitted by a powerlaw model with alpha = -2.46 +0.32/-0.38. With this model, the 4-120 keV fluence is (5.3 +0.5/-2.4)e-7 erg/cm² and the 4-120 keV photon flux is 0.22 +0.1/-1.1 ph/cm²/s. \n\nWe note that given the value of the photon index, the peak energy is likely to be below 5 keV, which classifies this GRB as an X-Ray Flash.\n\nBy considering a Band model with alpha = -1, beta = -2.46 and a peak energy of 4 keV, a redshift of z=1.801 (GCN 44656) and a standard cosmology with H_0 = 67.3 km/s/Mpc and Omega_M = 0.315 (Planck Collaboration, 2014), we estimate the following rest-frame parameters: the isotropic energy E_iso is 8.9e51 erg, and the rest-frame peak energy of the time-averaged spectrum Ep,z is 11.2 keV. With these estimates, GRB 260516D lies below the track of Type-II GRBs on the Amati relation reported by Willingale et al. 2017.\n\nAll the quoted errors are at the 68% confidence level.\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by CNES, CEA-IRFU, CNRS-IRAP, CNRS-APC.\n\nThe SVOM/ECLAIRs point of contact for this burst is: Marius Brunet (IRAP) (marius.brunet at utoulouse.fr)\n"
+}

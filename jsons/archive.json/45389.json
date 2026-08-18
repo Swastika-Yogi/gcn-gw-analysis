@@ -1,0 +1,14 @@
+{
+  "subject": "EP260806a: NUTTELA-TAO optical observations",
+  "eventId": "EP260806a",
+  "submittedHow": "web",
+  "createdOn": 1786962931832,
+  "circularId": 45389,
+  "submitter": "Zhanat Maksut at Nazarbayev University <zhanat.maksut@nu.edu.kz>",
+  "eventType": [
+    "X-ray Transient",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "Z. Maksut (NU), E. Abdikamalov (NU), D. Berdikhan (NU), T. Komesh (NU), M. Krugov (FAI), K. Baigarin (NU), M. Coughlin (UMN), P. Hello (IJCLAB), S. Antier (IJCLAB), M. Pillas (IAP) and S. Karpov (FZU) on behalf of the GRANDMA/NUTTelA-TAO:\n\nWe observed the field of EP260806a (Li et al., GCN 45299) with the NUTTELA-TAO 0.7 m telescope of the Assy-Turgen Observatory (ATO) starting on 2026-08-12 at 21:10:42 UTC and obtained 7x120 s exposure in Sloan g’ and i’ bands. \n\nAfter subtracting the template, we detected the optical counterpart (He et al., GCN 45300; de Ugarte Postigo et al., GCN 45302; Eyles-Ferris et al.,  GCN 45303; Ma et al., GCN 45304; de Ugarte Postigo et al., GCN 45306; Anumarlapudi et al., GCN 45312; Abidkhanov et. al., GCN 45354; Hua et. al., GCN 45385). We report the following results:\n\nDate           UT_mid        i'(mag)  err(mag)   g’(mag)  err(mag) \n--------      ------         -------             -------\n2026-08-12    21:10:42       18.45    0.03       18.25       0.04\n\nThe preliminary measurements are given in AB magnitudes and are not corrected for Galactic extinction. Observation will be continued. \nThe data were reduced by a data processing pipeline STDWeb (Karpov et al., 2022). Images obtained with the Sloan filters were calibrated using the PanSTARRS DR1 catalog.\n\nThis research has been funded by the Science Committee of the Ministry of Science and Higher Education of the Republic of Kazakhstan (Grant No. AP26103591). The NUTTELA-TAO Team acknowledges the support of the staff of the Assy-Turgen Astrophysical Observatory, Almaty, Kazakhstan, and the Fesenkov Astrophysical Institute, Almaty, Kazakhstan. GRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

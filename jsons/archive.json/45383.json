@@ -1,0 +1,13 @@
+{
+  "subject": "EP260812b: Optical upper limit with Kinder",
+  "eventId": "EP260812b",
+  "submittedHow": "web",
+  "createdOn": 1786717992580,
+  "circularId": 45383,
+  "submitter": "Janet Chen at National Central University <janetstars@gmail.com>",
+  "eventType": [
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "Y.-H. Lee, A. Aryan, T.-W. Chen, C.-S. Lin (all NCU), A. K. H. Kong (NTHU), S. J. Smartt, J. Gillanders (both Oxford), S. Yang(HNAS), A. Sankar.K, K. N.-T. Ho, A. Dutta, M.-H. Lee, Y.-C. Pan, C.-C. Ngeow, C.-H. Lai, H.-C. Lin, H.-Y. Hsiao, W.-J. Hou, J.-K. Guo (all NCU), Z. N. Wang, D. C. Qiang, L. L. Fan (all HNAS), Y. J. Yang (NYUAD), H.-W. Lin (UMich), K. W. Smith, H. F. Stevance, S. Srivastav, L. Rhodes (all Oxford), M. Nicholl, M. Fulton, C. Angus, A. Aamer (all QUB), T. Moore (STScI), A. Schultz and M. Huber (both IfA, Hawaii) report:\n\nWe observed the field of the fast X-ray transient EP260812b (Li et al., GCN 45368) using the 1m LOT at the Lulin observatory, as part of the Kinder collaboration (Chen et al. 2025, ApJ, 983, 86, doi:10.3847/1538-4357/adb428). The first LOT epoch of observations in r-band started at 18:18 UTC on the 13th of August 2026 (MJD 61265.7625), 18.71 hr after the EP-WXT detection. \n\nWe utilized the astroalign (Beroiz et al. 2020, A&C, 32, 100384) and astropy (Astropy Collaboration et al. 2022, ApJ, 935, 167) packages to align and stack the individual frames. In the stacked image, we did not detect the optical counterpart reported by Malesani et al., (GCN 45367); Ma et al., (GCN 45370); Gill et al., (GCN 45371); Starling et al., (GCN 45374) and  Eyles-Ferris et al., (GCN 45026). \n\nMoreover, we further used AutoPhOT to perform PSF photometry. The details of the observations and the measured 3-sigma upper limit (in the AB system) are as follows:\n\nTelescope | Filter | MJD (start) | t-t0 (hr) | Exposure (s) | Magnitude   | avg. Seeing | med. Airmass\nLOT       | r      | 61265.7625  | 18.71     | 300 * 6      | >22.4       | 1\".2        | 2.08\n\nGiven the reported r-band magnitude of ~21.6 mag (Gill et al., GCN 45371) for observations starting at +4.55 hr post-EP-WXT detection, our observed limit is consistent.\n\nThe presented magnitudes are calibrated using the field stars from the Pan-STARRS1 catalogue. The reported magnitude is not corrected for an expected galactic extinction of A_r = 0.15 mag, in the direction of the transient (Schlafly & Finkbeiner 2011). The methodology, details on the Lulin observatory telescopes, and a compilation of our optical follow-up campaign for FXTs discovered within the first year of operation of the Einstein-Probe mission are presented in Aryan et al. 2025, ApJS, 281, 20, doi:10.3847/1538-4365/adfc69.\n"
+}

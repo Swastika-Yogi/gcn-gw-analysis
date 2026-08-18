@@ -1,0 +1,14 @@
+{
+  "subject": "GRB260809A: OHP/T193 optical observations",
+  "eventId": "GRB 260809A",
+  "submittedHow": "web",
+  "createdOn": 1786331518219,
+  "submitter": "Christophe Adami at LAM <christophe.adami@lam.fr>",
+  "circularId": 45338,
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "C. Adami (LAM/Pytheas/AMU),S. Basa (LAM/OHP/Pytheas/AMU),  A. Saccardi (CEA/Irfu), B. Schneider (LAM), F. Schussler (CEA Paris-Saclay) report on behalf of a larger collaboration:\n\nWe observed the field of GRB 260809A (Brunet et al., GCN45331) using the T193cm telescope at Observatoire de Haute-Provence (France) with the MISTRAL spectro-imager. We obtained 5x600 sec of exposure in the i-band under a ~2arcsec seeing, starting at 20260809_233302UT (~8.6 hr after the Brunet et al. trigger) and ending at 20260810_010555UT (~10.1 hr after the Brunet et al. trigger).\nWe obtained 3x600 + 4x1000 sec of exposure in the r-band under a ~2arcsec seeing, starting at 20260810_001106UT (~9.2 hr after the Brunet et al. trigger) and ending at 20260810_021627UT (~11.3 hr after the Brunet et al. trigger).\nWe obtained 900 sec of exposure in the Y-band under a ~2arcsec seeing at 20260809_234858UT (~8.9 hr after the Brunet et al. trigger), 1200 sec at 20260810_023727UT (~11.7 hr after the Brunet et al. trigger), and 1200 sec at 20260810_025838UT (~12 hr after the Brunet et al. trigger).\n\nIn the preliminary stacked images, we detect in r and i bands the afterglow at the position of Li et al. (GCN 45336) with preliminary magnitudes of: \n\nr = 23.36 +/- 0.10 mag\ni = 22.03 +/- 0.06 mag\n\nWe do not detect the source in our Y-band image. This image has a preliminary estimated limiting magnitude of Y=21.2 (3sigma).\n\nThe photometric calibration was performed using nearby stars from the PanSTARRS catalog and the STDWeb/STDPipe tools (Karpov 2025), is in the AB system, and is not corrected for Galactic extinction.\n\nWe acknowledge the excellent support from Observatoire de Haute-Provence and in particular Stephane Favard.\n"
+}

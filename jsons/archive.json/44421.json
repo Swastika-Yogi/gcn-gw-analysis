@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260428A: AstroSat CZTI detection",
+  "eventId": "GRB 260428A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44421....1G",
+  "createdOn": 1777459929106,
+  "circularId": 44421,
+  "submitter": "Anuraag Arya at IIT Bombay <aryaanuraag910@gmail.com>",
+  "format": "text/plain",
+  "body": "A. Goyal (IITB), A. Arya (IITB), M. Tembhurnikar (IUCAA), Harsha K. H. (IUCAA), S. Salunke (IUCAA), G. Waratkar (Caltech/IITB), A. Vibhute (IUCAA), V. Bhalerao (IITB), D. Bhattacharya (Ashoka University/IUCAA), A. R. Rao (IUCAA/TIFR), and S. Vadawale (PRL) report on behalf of the AstroSat CZTI collaboration:\n\nAnalysis of AstroSat CZTI data with the CIFT framework (Sharma et al., 2021, JApA, 42, 73) showed the detection of a long GRB 260428A which was also detected by Fermi GBM (Fermi GBM team, GCN Circ. 44415).\n\nThe source was clearly detected in the CZT detectors in the 20-200 keV energy range. The light curve peaks at 2026-04-28 14:20:35.79 UTC. The measured peak count rate associated with the burst is 135 (+30, -25) counts/s above the background in the combined data of three quadrants (out of four), with a total of 442 (+143, -149) counts. The local mean background count rate was 207 (+3, -4) counts/s. Using cumulative rates, we measure a T90 of 8.0 (+2.2, -5.7) s. \n\nThe source was also clearly detected in the CsI anticoincidence (Veto) detector in the 100-500 keV energy range. The light curve peaks at 2026-04-28 14:20:36.03 UTC. The measured peak count rate associated with the burst is 480 (+68, -72) counts/s above the background in the combined data of all quadrants, with a total of 1659 (+414, -444) counts. The local mean background count rate was 1250 (+10, -10) counts/s. We measure a T90 of 7.6 (+3.3, -3.7) s from the cumulative Veto light curve.\n\nCZTI is built by a TIFR-led consortium of institutes across India, including VSSC, URSC, IUCAA, SAC, and PRL. The Indian Space Research Organisation funded, managed, and facilitated the project.\n\nCZTI data products like interactive and downloadable light curves for this GRB can be found at \nhttps://astrosat.iucaa.in/cift/cift_products/515082033.23/S515082033.23_details.html. CZTI GRB detections are reported regularly on the payload site at: http://astrosat.iucaa.in/czti/?q=grb\n"
+}

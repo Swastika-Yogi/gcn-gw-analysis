@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 260515A",
+  "eventId": "GRB 260515A",
+  "submittedHow": "email",
+  "bibcode": "2026GCN.44647....1F",
+  "createdOn": 1778958431447,
+  "circularId": 44647,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nA long-duration GRB 260515A (SVOM detection: Brunet et al., GCN 44622)\nwas detected by Konus-Wind (KW)in the waiting mode at T0=T0(KW)~19:08:19UT.\nA Bayesian block analysis of the KW data in the 20-1500 keV\nband reveals a ~8 sigma count rate increase in the interval\nfrom ~T0+0.4 s to ~T0+9.3 s from the SVOM detection time.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260515A/\n\nModeling the time-integrated spectrum of the burst\nby a power law with exponential cutoff (CPL) model\ndN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nyields alpha = -1.37 (-0.17, + 0.17) and Ep = 95(-9,+10) keV.\nIn the 10 keV -10 MeV band, standard for the KW analysis,\nthe burst fluence is (7.70 ± 0.81)x10^-6 erg/cm^2\nand the 2.944 s peak energy flux is (1.47 ± 0.22)x10^-7 erg/cm^2/s.\n\nAssuming the redshift z=0.764 (Malesani et al., GCN 44629)\nand a standard cosmology with H_0 = 67.3 km/s/Mpc, Omega_M = 0.315,\nand Omega_Lambda = 0.685 (Planck Collaboration, 2014),\nwe estimate the burst isotropic energy release E_iso to (1.25 ± 0.15)x10^52 erg,\nthe isotropic peak luminosity L_iso to (5.70 ± 0.85)x10^50 erg/s, and\nthe rest-frame peak spectral energy Ep,z to (168 ± 18) keV.\nWith the obtained estimates, GRB 260515A is consistent with 68% prediction bands\nof both 'Amati' relation and 90% prediction bands of 'Yonetoku' relation for the sample\nof >300 long KW GRBs with known redshifts (Tsvetkova et al., 2017; Tsvetkova et al., 2021),\nsee http://www.ioffe.ru/LEA/GRBs/GRB260515A/GRB260515A_rest_frame.pdf\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

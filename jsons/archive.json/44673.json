@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260519D: Fermi GBM Final Localization Correction",
+  "eventId": "GRB 260519D",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44673....1F",
+  "createdOn": 1779249086689,
+  "submitter": "Lorenzo Scotton at UAH <lscottongcn@outlook.com>",
+  "circularId": 44673,
+  "format": "text/plain",
+  "body": "The Fermi GBM team reports the detection of a likely LONG GRB\n\n\"At 19:37:23.371 UT on 19 May 2026, the Fermi Gamma-ray Burst Monitor (GBM) \ntriggered and located GRB 260519D (trigger 800912248/260519818).\nThis trigger was initially not classified as a GRB by the flight software,\nbut is in fact a GRB.\n\nThe on-ground calculated location, using the Fermi GBM trigger data, \nis RA = 87.37, Dec = -6.37 (J2000 degrees, equivalent to J2000 5h 49m, -6d 22’), \nwith a statistical uncertainty of 14 degrees.\n\nThe angle from the Fermi LAT boresight is 26 degrees.\n\nThe skymap can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260519818/quicklook/glg_skymap_all_bn260519818.png\n\nThe HEALPix FITS file, including the estimated localization systematic, can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260519818/quicklook/glg_healpix_all_bn260519818.fit\n\nThe GBM light curve can be found here:\nhttps://heasarc.gsfc.nasa.gov/FTP/fermi/data/gbm/triggers/2026/bn260519818/quicklook/glg_lc_medres34_bn260519818.gif\""
+}

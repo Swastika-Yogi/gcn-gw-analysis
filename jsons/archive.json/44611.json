@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 260512A",
+  "eventId": "GRB 260512A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44611....1K",
+  "createdOn": 1778774138944,
+  "circularId": 44611,
+  "submitter": "Dmitry Svinkin at Ioffe Institute <dmitrysvinkin@gmail.com>",
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nD. Svinkin, D. Frederiks, A. Lysenko, A. Ridnaia,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi-GBM team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe long-duration GRB 260512A\n(Ferm-GBM detection: The Fermi GBM team, GCN 44587;\nNuSTAR-ACS detection: Waratkar et al., GCN 44591;\nAstroSat-CZTI detection: Tembhurnikar et al., GCN 44608)\nwas detected by Fermi (GBM trigger 800297808),\nKonus-Wind, NuSTAR (ACS), AstroSat (CZTI), and Mars-Odyssey (HEND)\nat about 61003 s UT (16:56:43).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n ---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  131.305 (08h 45m 13s) -83.033 (-83d 02' 00\")\n Corners:\n  128.432 (08h 33m 44s) -81.525 (-81d 31' 31\")\n  128.203 (08h 32m 49s) -81.573 (-81d 34' 22\")\n  135.825 (09h 03m 18s) -84.513 (-84d 30' 48\")\n  136.100 (09h 04m 24s) -84.461 (-84d 27' 41\")\n ---------------------------------------------\nThe error box area is 485 sq. arcmin, and its maximum\ndimension is 3.1 deg (the minimum one is 2.6 arcmin).\nThe Sun distance was 106 deg.\n\nThis localization may be improved.\n\nA triangulation map and HEALPix FITS files are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260512_T61005/IPN/\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular. "
+}

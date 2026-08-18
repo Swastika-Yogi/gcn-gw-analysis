@@ -1,0 +1,11 @@
+{
+  "subject": "IPN triangulation of GRB 260428A",
+  "eventId": "GRB 260428A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44458....1K",
+  "createdOn": 1777907069676,
+  "submitter": "Anna Ridnaia at Ioffe Institute <ridnaia@mail.ioffe.ru>",
+  "circularId": 44458,
+  "format": "text/plain",
+  "body": "A.S. Kozyrev, D.V. Golovin, M.L. Litvak, I.G. Mitrofanov, and A.B. Sanin\non behalf of the HEND/Mars Odyssey team,\n\nA. Ridnaia, D. Frederiks, A. Lysenko, D. Svinkin,\nand T. Cline on behalf of the Konus-Wind team,\n\nA. Goldstein, M. S. Briggs, C. Wilson-Hodge,\nand E. Burns on behalf of the Fermi-GBM team,\n\nC. Wang (IHEP), S. Xiong (IHEP), S. Zhang (IHEP),\nJ. Wei (NAOC),  B. Cordier (CEA) on behalf of the SVOM-GRM team,\n\nand\n\nW. Boynton, C. Fellows, K. Harshman, H. Enos, R. Starr,\nand A.S. Gardner on on behalf of the GRS-Odyssey GRB team,\nreport:\n\nThe short-duration GRB 260428A\n(Fermi-GBM detection: Fermi GBM team, GCN Circ. 44415;\nAstroSat-CZTI detection: Goyal et al., GCN Circ. 44421;\nGECAM-B detection: Wang et al., GCN Circ. 44423;\nSVOM/GRM observation: Wang et al., GCN Circ. 44424)\nwas detected by Fermi (GBM), Konus-Wind, AstroSat (CZTI),\nGECAM-B, SVOM (GRM), and Mars-Odyssey (HEND) \nat about 51636 s UT (14:20:36).\n\nWe have triangulated it to a preliminary, 3 sigma error box\nwhose coordinates are:\n---------------------------------------------\n  RA(2000), deg                 Dec(2000), deg\n ---------------------------------------------\n Center:\n  283.386 (18h 53m 33s)  +0.365 ( +0d 21' 53\")\n Corners:\n  283.274 (18h 53m 06s)  +1.978 ( +1d 58' 41\")\n  283.221 (18h 52m 53s)  +2.065 ( +2d 03' 56\")\n  283.504 (18h 54m 01s)  -1.335 ( -1d 20' 06\")\n  283.558 (18h 54m 14s)  -1.435 ( -1d 26' 07\")\n ---------------------------------------------\nThe error box area is 561 sq. arcmin, and its maximum\ndimension is 3.5 deg (the minimum one is 3 arcmin).\nThe Sun distance was 111 deg.\n\nA triangulation map and HEALPix FITS file are posted at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260428_T51639/IPN\nThe HEALPix triangulation map is the multi-order HEALPix in units of\nprobability density.\n\nThe Konus-Wind time history and spectrum will be given\nin a forthcoming GCN Circular."
+}

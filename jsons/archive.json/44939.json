@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260614B: SVOM/VT optical candidate from VHF data",
+  "eventId": "GRB 260614B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44939....1P",
+  "createdOn": 1781449605895,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 44939,
+  "format": "text/markdown",
+  "body": "J. T. Palmerio, A. Saccardi (CEA/Irfu), Y. L. Qiu, C. Wu, L. P. Xin (NAOC), M. Pillas (IAP) on behalf of the SVOM/VT team.\n\nAfter the trigger by SVOM/ECLAIRs at 2026-06-14T13:49:55 UTC (T0), SVOM performed an automatic slew on the burst location (Godet et al., GCN 44938). SVOM/VT began observing the field in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, at least one credible candidate is identified, the details of which are presented below.\n\nVT_ID 52:\n  The position of this candidate is R.A., Dec. 353.90883, -54.11628 degrees, corresponding to:\n  \n  R.A. (J2000) = 23h35m38.1s\n  \n  Dec. (J2000) = -54d06m58.6s\n  \n  with an uncertainty of 0.50 arcsec.\n  \n  This candidate was detected in both VT_R and VT_Band was flagged as an uncatalogued source. The candidate's magnitudes are:\n  \n  | date-obs (UTC)       | mid-time    | exposure  | VT_B mag(AB)  | VT_R mag(AB)  |\n  | -------------------- | ----------- | --------- | ------------- | ------------- |\n  | 2026-06-14T13:54:16  | 2026-06-14T13:56:46   | 6x50s | 19.25 ± 0.01  | 16.35 ± 0.01 |\n | 2026-06-14T13:59:16 | 2026-06-14T14:01:21  | 5x50s | –  | 16.71 ± 0.01 |\n  \n  Magnitudes were not corrected for Galactic reddening.\n  \n  \nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n\nThe Burst Advocate (BA) on shift for this alert is Marion Pillas: marion.pillas@iap.fr.\nPlease contact the BA by email if you require additional information.\n"
+}

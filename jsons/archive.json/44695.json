@@ -1,0 +1,14 @@
+{
+  "editedOn": 1779488077820,
+  "subject": "EP260518a (AT2026ndp): LCO observations and Gemini-South Redshift z = 2.28",
+  "version": 2,
+  "eventId": "EP260518a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44695....1C",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of Gregory Corcoran  at University College Dublin  <gregory.corcoran@ucdconnect.ie>",
+  "circularId": 44695,
+  "createdOn": 1779461199248,
+  "submitter": "Gregory Corcoran  at University College Dublin  <gregory.corcoran@ucdconnect.ie>",
+  "format": "text/plain",
+  "body": "G. Corcoran (UCD), D. B. Malesani (DAWN/NBI and Radboud), R. A. J. Eyles-Ferris (Leicester), A. J. Levan (Radboud & Warwick), J. Chacón (PUC), F. E. Bauer (UTA/SSI), P. G. Jonker (Radboud), C. Rodriguez (Gemini), L. Magil (Gemini), report on behalf of a larger collaboration:\n\nWe observed the optical transient AT2026ndp associated with the Einstein Probe sub-threshold event EP260518a (Liang et al., GCN 44690) using the LCO 1m telescopes located at the Cerro Tololo Inter-American Observatory (Chile) equipped with SINISTRO instruments. A series of 6x300s exposures were taken in both SDSS-r and SDSS-z bands. In both sequences the optical transient was clearly detected blended with the nearby Legacy Survey object. \n\nWe carried out image subtraction against Legacy Survey images (DR 10) in both r and z band using PyZOGY (Guevel et al. 2021, Zackay et al. 2016) and obtained the following AB magnitudes, calibrated using nearby stars in the SkyMapper catalog and not corrected for Galactic extinction:\n\nr = 20.78 +/- 0.04 (midtime: 2026-05-22 09:54:14 UT, 3.84 days after trigger);\nz = 20.31 +/- 0.10 (midtime: 2026-05-22 09:15:40 UT, 3.81 days after trigger).\n\nWe then observed the transient using the GMOS spectrograph equipped on Gemini–South. Our observations consisted of 2 x 600 s spectra taken using a 1\" slit and the B480 grating, covering the wavelength range 4470-8500 Å. Observations started at 2026-05-22 09:54:13 UT (3.84 days after trigger).\n\nContinuum is detected over the entire wavelength range and a number of absorption features can be seen. We identify lines consistent with Fe II (1608, 2344, 2374, 2383, 2587), Si IV (1394, 1403), Si II 1527, C IV (1548, 1550), Al II (1670), Al III (1855, 1863), Mg I / Zn II 2026 at a redshift of z=2.28. Given the lack of detected fine structure lines or lyman alpha absorption, this redshift is strictly speaking a lower limit however we identify no other higher redshift systems and the lack of a Lyman alpha break in our spectrum sets an upper limit to the redshift of z < 2.75. We therefore conclude that z = 2.28 is likely the redshift for this event.\n\nThe point-like source in the Legacy Survey noted in Liang et al. (GCN 44690) was also placed on the slit. Its spectrum is consistent with that of a Galactic M-dwarf.\n"
+}

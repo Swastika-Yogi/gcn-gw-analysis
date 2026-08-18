@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260610B: IAC-80 Optical observations",
+  "editedOn": 1781471025953,
+  "eventId": "GRB 260610B",
+  "version": 3,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44919....1J",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Daniel Perley at Liverpool JMU <d.a.perley@ljmu.ac.uk>",
+  "circularId": 44919,
+  "createdOn": 1781247988617,
+  "submitter": "Daniel Perley at Liverpool JMU <d.a.perley@ljmu.ac.uk>",
+  "format": "text/markdown",
+  "body": "Dominic Jackson-Horne (UOL/LJMU), Danny McDonnell (UOL/LJMU), Esme Williams (UOL/LJMU), Dafydd Thomas (UOL/LJMU), Ruby Keeling Roberston (UOL/LMJU), Farhan Qamar Salmo (UOL/LJMU), Oliver King (UOL/LJMU), Daniel Perley (LJMU), H.-M. S. Grabham (LJMU), and Daniel Harman (LJMU) report:\n\n\nWe observed the optical afterglow (D. O'Neill, et al., GCN 44903) of GRB 260610B (The Fermi GBM team, GCN 44901) using the 0.82m IAC-80 telescope of Teide Observatory, equipped with the CAMELOT2 optical imager.  Our first set of observations commenced at 21:41 UT and concluded at 22:20 UT on June 11; a second set of observations was then taken between 01:20 UT and 02:05 UT on June 12.\n\nWe report the following photometry:\n\n| Date       | UTstart  | t-T0 (d) | Exp (n*s) | Filter | Mag   | Err  |\n|------------|----------|----------|-----------|--------|-------|------|\n| 2026-06-11 | 21:41:52 | 0.913    | 3*180     | SDSS-r | 20.04 | 0.06 |\n| 2026-06-11 | 22:03:58 | 0.928    | 3*180     | Rc     | 19.85 | 0.06 |\n| 2026-06-11 | 22:17:05 | 0.938    | 3*180     | Ic     | 19.23 | 0.05 |\n| 2026-06-11 | 22:25:33 | 0.943    | 3*180     | B      | 20.94 | 0.13 |\n| 2026-06-12 | 01:20:48 | 1.065    | 3*120     | B      | 21.47 | 0.26 |\n| 2026-06-12 | 01:27:40 | 1.070    | 3*120     | V      | 20.35 | 0.09 |\n| 2026-06-12 | 01:34:33 | 1.075    | 3*120     | Ic     | 19.40 | 0.08 |\n| 2026-06-12 | 01:41:26 | 1.080    | 3*120     | SDSS-r | 20.26 | 0.09 |\n\nThis preliminary photometry is calibrated relative to the SDSS star J143237.88+270028.3 (using the Lupton 2005 transformation equations) and not corrected for Galactic extinction.\n"
+}

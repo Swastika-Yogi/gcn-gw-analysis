@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260511B: GROWTH-India Telescope optical observations",
+  "eventId": "GRB 260511B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44561....1V",
+  "createdOn": 1778521166254,
+  "circularId": 44561,
+  "submitter": "V. Swain at IIT Bombay <vishwajeet.s@iitb.ac.in>",
+  "format": "text/markdown",
+  "body": "V. Vijaykumar (IITB), A.P. Saikia (IITB), V. Swain (IITB), T. Mohan (IITB), S. Patil (IITB),  V. Bhalerao (IITB), G.C. Anupama (IIA), S. Barway (IIA) and R. Norbu (IAO) report on behalf of the GIT team:\n\nWe observed the field of GRB 260511B detected by Fermi (Fermi GBM Team, GCN 44542), with 0.7m GROWTH-India Telescope (GIT). We started the observation at 2026-05-11 16:19:32 (UTC), i.e., 5.32 hours after the trigger, and obtained multiple exposures in the SDSS r', g', and i' filters. We detect the optical counterpart in our images at the position reported by Wu et al., GCN 44547. The photometric upper limit is as follows:\n\n|   MJD (mid)    | Filter | tmid-t0 (hours) | Exposure Time (sec) |  Magnitude  (AB) |\n| -------------- | ------ | --------------- | ------------------- | ---------------- |\n|  61171.68255   |   r'   |      5.37       |       1x400         |  18.27 +/- 0.05  |\n|  61171.68758   |   g'   |      5.49       |       1x400         |  18.54 +/- 0.06  |\n|  61171.69242   |   i'   |      5.61       |       1x360         |  18.10 +/- 0.10  |\n\nThe measurement is calibrated against PanSTARRS DR1 (Chambers et al., 2016) and not corrected for Galactic extinction.\n\nOur results are consistent with other optical observations (Wu et al., GCN 44547 and GCN 44552; Sasada et al. GCN 44549; Jiang et al., GCN 44551.)\n\nThe GROWTH India Telescope (GIT; Kumar et al. 2022) is a 70-cm telescope with a 0.7-degree field of view, set up by the Indian Institute of Astrophysics (IIA) and the Indian Institute of Technology Bombay (IITB) with funding from DST-SERB and IUSSTF. It is located at the Indian Astronomical Observatory (Hanle), operated by IIA. We acknowledge funding by the IITB alumni batch of 1994, which partially supports the operations of the telescope. Telescope technical details are available at https://sites.google.com/view/growthindia/."
+}

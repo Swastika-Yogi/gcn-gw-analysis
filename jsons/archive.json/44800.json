@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260603A: Kilonova-Catcher optical upper limit",
+  "eventId": "GRB 260603A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44800....1F",
+  "createdOn": 1780490196164,
+  "circularId": 44800,
+  "submitter": "Damien Turpin at CEA-Saclay <dturpin-astro@hotmail.com>",
+  "format": "text/markdown",
+  "body": "M. Freeberg (KNC), D. Turpin (CEA-Saclay/Irfu), C. Andrade(UMN), S. Antier (IJCLab), M. Coughlin (UMN), S. Karpov (FZU), P. Hello (IJCLAB), M. Pillas (IAP) on behalf of the GRANDMA/Kilonova-Catcher collaboration:\n\nWe observed the field of GRB 260603A detected by SVOM/ECLAIRs (Zhao et al., GCN 44787) with the GRANDMA citizen science project Kilonova-catcher (KNC). Our observations were performed with the T11 itelescope located at the Utah Desert Remote Observatory (USA) and operated by M. Freeberg. Our observations started at TGRB+1.78 hours and were taken with the sdssr filter.\n\nIn our stacked frames, subtracted from the PanSTARRS DR2 template image, we do not detect the optical counterpart reported by SVOM/COLIBRÍ (FM-GFT) (Guelfand et al., GCN 44791; GCN 44797) and SVOM/VT (Li et al., GCN 44799).\n\nWe report our follow-up results in the table below:\n\n| Tmid-TGRB (hr)| Exp (s)      | Filter      | Magnitude      | Instrument  |\n| ------------  | ------------ |------------ |--------------- |------------ |\n| 2.25          | 11 x 300s    | r (AB)      | 20.1 (3 sigma) | iT11        | \n\nAll the data have been reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022).  Images obtained with the Sloan filters were calibrated using the PanSTARRS DR1 catalog.\n\nWe use the SkyPortal application (skyportal.io) to monitor our observational campaign (Coughlin et al. 2023). \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

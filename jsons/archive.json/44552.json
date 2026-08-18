@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260511B: SVOM/VT optical observation with VHF data",
+  "eventId": "GRB 260511B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44552....1W",
+  "createdOn": 1778512128146,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 44552,
+  "format": "text/markdown",
+  "body": "C. Wu, L. P. Xin, Y. L. Qiu, H. L. Li (NAOC), J. T. Palmerio (CEA/Irfu), L. Zhang (IHEP), D. Kong (GXU)  on behalf of the SVOM/VT team.\n\nAfter the trigger by SVOM/ECLAIRs at 2026-05-11T11:00:32 UTC (T0), SVOM performed an automatic slew on the burst of GRB 260511B location (Godet et al.,GCN 44543; The Fermi GBM team, GCN 44542;). SVOM/VT took images of the field in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, the candidate (Wu et al., GCN 44547; Sasada et al., GCN 44549; Jiang et al., GCN 44551) was clearly detected in VT-VHF data. \nThe candidate's magnitude is : \n  | date-obs (UTC)       | mid-time (T-T0)    | exposure  | VT_B mag(AB)  | VT_R mag(AB)  |\n  | -------------------- | ----------- | --------- | ------------- | ------------- |\n  |2026-05-11T13:14:19  | 2.23 hr    | 5*50 sec  |   17.83 +/- 0.01      | -- |\n\nMagnitude was not corrected for Galactic reddening. (Note:The missing magnitude is likely caused by either onboard processing interference or saturation of the bright source at early epoch.）\n\nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.  SVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n"
+}

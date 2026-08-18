@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260727A: GOTO early optical upper limit ",
+  "eventId": "GRB 260727A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45226....1S",
+  "createdOn": 1785151859901,
+  "submitter": "Rhaana Starling at U of Leicester <rlcs1@leicester.ac.uk>",
+  "circularId": 45226,
+  "format": "text/markdown",
+  "body": "R. Starling, M. Kennedy, D. O'Neill, B. P. Gompertz, G. Ramsay, A. Kumar, S. Belkin, K. Ackley, M. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, D. Galloway, V. Dhillon, P. O'Brien, K. Noysena, R. Kotak, R. Breton, J. Casares, L. Nuttall, B. Godson, T. Killestein, M. Pursiainen, I. Worssam on behalf of the GOTO collaboration\n\nWe report on optical observations with the Gravitational-wave Optical Transient Observer (GOTO; Steeghs et al. 2022, Dyer et al. 2024) in response to the SVOM/ECLAIRs detected GRB 260727A (sb26072701, Li et al. 2026, GCN 45220), also detected by AstroSat (Harsha et al.2026, GCN 45225).\n\nObservations at the ECLAIRs position began at 2026-07-27 00:27:22 UT (+5.8 minutes post trigger) and continued to 2026-07-27 01:47:11 UT (+1.4h post trigger). Images consisted of 4x90s exposures in the GOTO L-band (400-700 nm).\n\nImages were processed immediately after acquisition using the GOTO pipeline. Difference imaging was performed using deeper template observations. Any source candidates are initially filtered using a classifier (Killestein et al. 2021) and cross-matched against a variety of contextual and minor planet catalogs (Lyman et al. 2026).\n\nWe found no new transients that could be credibly associated with 260727A within the localisation down to a 5-sigma depth of L<20.2 AB mag.\n\nGOTO (https://goto-observatory.org) is a network of telescopes that is principally funded by the STFC and operated at the Roque de los Muchachos Observatory on La Palma, Spain, and Siding Spring Observatory in NSW, Australia, on behalf of a consortium including the University of Warwick, Monash University, Armagh Observatory & Planetarium, the University of Leicester, the University of Sheffield, the National Astronomical Research Institute of Thailand (NARIT), the University of Turku, the University of Portsmouth, the University of Manchester, the University of Birmingham and the Instituto de Astrofisica de Canarias (IAC).\n"
+}

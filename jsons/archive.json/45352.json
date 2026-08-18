@@ -1,0 +1,14 @@
+{
+  "subject": "GRB260808B: MAO/AZT-22 optical observations",
+  "eventId": "GRB 260808B",
+  "submittedHow": "web",
+  "createdOn": 1786423725816,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "circularId": 45352,
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "O. Burkhonov, Y. Rajabov, B.Abidkhanov, S. Ehgamberdiev, Y. Tillayev (UBAI), A. Shaymanov, T. Boyqobilov (Maidanak Observatory/UBAI), M. Coughlin (UMN), P. Hello (IJCLAB), S. Antier (IJCLAB), M. Pillas (IAP), and S. Karpov (FZU) report on behalf of UBAI team and GRANDMA collaboration.\n\nWe observed the field of GRB 260808B detected by SVOM (Bouchet et al., GCN 45316) with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2026-08-10 at 21:07:04 UT, i.e, ~2.2932 days after the SVOM/ECLAIRs trigger. In total we obtained 6x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). \n\nWe detect the optical counterpart reported by many teams (Turpin et al., GCN 45318; Li et al., GCN 45320; Adami et al., GCN 45323; Saccardi et al., GCN 45328; Schneider et al., GCN 45329; Bochenek et al., GCN 45330; Basa et. al., GCN 45341).\n\nPreliminary photometry is as follows:\n\nDate       UTstart  Exptime     t-T0       Filter OT    Err.    UL    SNR\tSite/Telescope\n                    (nxs)     (mid, days)                 \n2026-08-10 21:07:04 6x300      2.29327       R   21.51   0.05    23.10\t18\tMAO/AZT-22\n\nAll the data have been reduced by a single data processing pipeline, STDWeb (Karpov 2025). Images obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog. Our measurements in Vega magnitude system and the data has not corrected for the Galactic extinction.\n\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical Institute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/). Astrophysics Center for Multimessenger studies in Europe is supported Skyportal/ICARE (contact camille.douzet@ijclab.in2p3.fr, skyportal.io).\n"
+}

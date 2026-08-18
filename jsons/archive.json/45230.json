@@ -1,0 +1,14 @@
+{
+  "editedOn": 1785206187783,
+  "subject": "GRB 260726A:  SVOM/VT optical candidate",
+  "version": 2,
+  "eventId": "GRB 260726A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45230....1L",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "circularId": 45230,
+  "createdOn": 1785173185833,
+  "submitter": "Huali Li at at NAOC, SVOM <lhl@nao.cas.cn>",
+  "format": "text/plain",
+  "body": "H. L. Li, L. P. Xin, Y. L. Qiu, C. Wu, J. R. Xu, Y. N. Ma, Z. H. Yao, X. H. Han, J. Wang, Y. Xu, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. T. Palmerio (CEA/Irfu), Ruizhi Li (YNAO) and Ziming Wang (BNU) report on behalf of the SVOM/VT team.\n\nSVOM/VT performed observations with automatic slew for GRB 260726A detected by SVOM/ECLAIRs (Liang et al., GCN 45219; Brunet et al., GCN 45229) and SVOM/GRM (Liang et al., GCN 45219). This burst was also detected by Fermi/GBM (Fermi GBM team, GCN 45218). The observation started at 2026-07-27T01:28:04 UTC, i.e., 1.72 hr post trigger in the VT_B (400-650 nm) and VT_R (650-1000 nm) channels simultaneously.\n\nAn uncatalogued optical candidate was detected in VT_R within the errorbox of SVOM/MXT (Brunet et al., GCN 45229), compared with the PanSTARRS catalogue. The position is at R.A., Dec. = 356.883196, 52.870077 degrees, equivalent to:\n   R.A. (J2000) =  23:47:31.93 \n   Dec. (J2000) = +52:52:12.69\nwith an uncertainty of 0.5 arcsec.\n\nThe following measurements are in the AB magnitude and are not corrected for Galactic extinction:\n\nMid time | Band | Exposure Time | Brightness\n1.95  hr   VT_R    17*100 s      21.4 +/-0.2 mag\n\nThe source showed a fading slope of about -0.2 in VT_R during the observations above. \nIt was not detected in VT_B, even all the available data were stacked with the total exposure time of 85*100s. The 3 sigma upper limit was estimated to be 24.0 mag in VT_B at the mid time of 4.37 hr. \n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}

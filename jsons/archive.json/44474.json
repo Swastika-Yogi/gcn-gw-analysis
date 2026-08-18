@@ -1,0 +1,10 @@
+{
+  "subject": "Konus-Wind detection of GRB 260504B (short/hard)",
+  "eventId": "GRB 260504B",
+  "submittedHow": "email",
+  "bibcode": "2026GCN.44474....1F",
+  "createdOn": 1777991139233,
+  "circularId": 44474,
+  "submitter": "Dmitry Frederiks at Ioffe Institute <fred@mail.ioffe.ru>",
+  "body": "D. Frederiks, A.Lysenko, A. Ridnaia, D. Svinkin,\nA. Tsvetkova,  M. Ulanov, and T. Cline,\non behalf of the Konus-Wind team, report:\n\nThe short GRB 260504B (SVOM/ECLAIRs detection: Saccardi et al., GCN 44454;\nSVOM/GRM detection: Wang et al., GCN 44470;\nGECAM-B detection: Wang et al., GCN 44473)\ntriggered Konus-Wind (KW) at T0=34281.198 s UT (09:31:21.198).\n\nThe burst light curve shows a single pulse,\nwhich starts at ~T0-0.05 s and has a duration of ~0.21 s.\nThe emission is seen up to ~6 MeV.\n\nThe Konus-Wind light curve of this GRB is available at\nhttp://www.ioffe.ru/LEA/GRBs/GRB260504_T34281/\n\nAs observed by Konus-Wind, the burst had the total fluence\nof (2.39 ± 0.52)x10^-6 erg/cm^2 and a 16-ms peak energy flux,\nmeasured from T0-0.032, of (2.06 ± 0.45)x10^-5 erg/cm^2/s\n(both in the 20 keV - 10 MeV energy range).\n\nThe time-integrated spectrum of the burst (measured from T0 to T0+0.192 s)\nis best fitted in the 20 keV - 15 MeV range by a power law with exponential\ncutoff (CPL) model dN/dE ~ (E^alpha)*exp(-E*(2+alpha)/Ep)\nwith alpha = -1.00 (-0.12, + 0.14) and Ep = 1461(-398,+584) keV, chi^2 = 34/32 dof.\nFitting this spectrum by a Band GRB function yields the same values\nof alpha and Ep, and only an upper limit on the high energy photon\nindex beta of -2.1\n\nAll the quoted errors are estimated at the 68% confidence level.\nAll the presented results are preliminary."
+}

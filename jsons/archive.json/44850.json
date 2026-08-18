@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260604B: SVOM/GRM detection",
+  "eventId": "GRB 260604B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44850....1S",
+  "createdOn": 1780756103817,
+  "submitter": "zhangjinpeng@ihep.ac.cn",
+  "circularId": 44850,
+  "format": "text/plain",
+  "body": "SVOM/GRM team: Jin-Peng Zhang, Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Olivier GODET (IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM detected GRB 260604B during the routine ground search at 2026-06-04T08:45:56.000 (T0), which is also detected by Fermi/GBM (Fermi GBM Team, GCN #44818).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst mainly consists of multiple pulses with a T90 of 17 +9/-5 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb260604B.png\n\nIn addition, the position of this burst, according to Fermi/GBM localization (RA = 173.4, Dec = -19.9, Fermi GBM Team, GCN #44818), is located at about 82 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view.\n\nWith this localization, the time-averaged spectrum from T0-15 to T0+25 s is fitted by a power law function. The power law index is -1.67 +0.10/-0.11. The event fluence (10-1000 keV) in this time interval is (3.8 +0.8/-0.8)E-06 erg/cm^2.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Jin-Peng Zhang (IHEP) (zhangjinpeng@ihep.ac.cn)"
+}

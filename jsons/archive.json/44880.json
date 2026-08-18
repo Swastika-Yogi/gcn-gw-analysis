@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260607B: GECAM-B observation",
+  "eventId": "GRB 260607B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44880....1W",
+  "createdOn": 1780984484645,
+  "circularId": 44880,
+  "submitter": "Yue Wang <m18509381757@163.com>",
+  "format": "text/plain",
+  "body": "Yue Wang, Chen-Wei Wang, Shao-Lin Xiong (IHEP) report on behalf of GECAM team: \n\nGECAM-B was triggered in-flight by GRB 260607B at 2026-06-07T13:19:30.100 UTC (denoted as T0), which is also detected by Fermi/GBM (Fermi GBM team, GCN #44859) and Feimi/LAT (Airasca et. al., GCN #44860).\n\nAccording to the GECAM-B light curves in about 70-6000 keV, this burst mainly consists of muplti-pulses with a duration (T90) of 46.3 +0.1/-0.1 s.\n\nThe GECAM-B light curve can be found here:\nhttps://www.bursthub.cn//admin/static/gecambgrb260607B.png\n\nUsing the localization reported by Fermi/LAT (Ra = 54.68 deg, Dec = 30.45 deg, Err = 0.40 deg, GCN #44860) , the time-averaged spectrum from T0-0 s to T0+55 s is best fitted by a power law function with an exponential high-energy cutoff. The power law index is -1.03 +0.03/-0.03 and the cutoff energy, parameterized as Epeak, is 768 +49/-45 keV. The event fluence (10-1000 keV) in this time interval is (3.09 +/-0.03)E-04 erg/cm^2. \n\nThe 'Amati' relation diagram of GRB 260607B is shown at:\nhttps://www.bursthub.cn//admin/static/gecambgrb260607B_amati.png\n\nGravitational wave high-energy Electromagnetic Counterpart All-sky Monitor (GECAM) mission originally consists of two micro-satellites (GECAM-A and GECAM-B) launched in Dec. 2020. As the third member of GECAM constellation, GECAM-C was launched onboard SATech-01 experimental satellite in July 2022. GECAM mission is funded by the Chinese Academy of Sciences (CAS)."
+}

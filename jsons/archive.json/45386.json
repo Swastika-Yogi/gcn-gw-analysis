@@ -1,0 +1,13 @@
+{
+  "subject": "EP260812b: GTC/OSIRIS+ tentative spectroscopic redshift z = 2.034",
+  "eventId": "EP260812b",
+  "submittedHow": "web",
+  "createdOn": 1786802359342,
+  "submitter": "Gregory Corcoran  at University College Dublin  <gregory.corcoran@ucdconnect.ie>",
+  "circularId": 45386,
+  "eventType": [
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "G. Corcoran (UCD), R. A. J. Eyles-Ferris (Leicester), D. B. Malesani, (DAWN/NBI and Radboud), P. G. Jonker (Radboud), F. M. Perez Toledo (GTC) report on behalf of a larger collaboration:\n\nWe observed the optical counterpart (Malesani et al., GCN 45367; Ma et al., GCN 45370; Gill et al., GCN 45371; Starling et al., GCN 45374; Eyles-Ferris et al., GCN 45375; Lee et al., GCN 45383) of the fast X-ray transient EP260812b (Li et al., GCN 45368) using the Gran Telescopio Canarias (GTC) located on the island of La Palma (Canary Islands, Spain), equipped with the OSIRIS+ spectrograph. A sequence of 4x1200 s observations was obtained using grism R1000B, which covers the wavelength range 3600-7730 AA. The observation started on 2026-08-14 at 00:11:08 UT (~24.59 hr after the EP/WXT trigger).\n\nIn the acquisition image (taken 24.52 hr after trigger), we measure an AB magnitude r = 23.13 +/- 0.12 for the optical counterpart, calibrated against the Pan-STARRS catalog, and not corrected for Galactic extinction. The delivered seeing was 0.8\".\n\nA faint continuum is detected across most of the covered wavelength range of the spectrum. A clear absorption line is detected at 4700 AA. This is consistent with the (resolved) C IV doublet at redshift z = 2.033. At the same redshift, we also identify the Si IV doublet. By heavily rebinning the spectrum, a drop in the very blue end, around 3730 AA, roughly matches the expected position of the Lyman break at this redshift. We note however that none of the usually observed strong low-ionization lines are detected, with the possible exception of Fe II 1608. We thus suggest that EP260812b lies at z = 2.033, in an environment unusually rich in high-ionization species.\n\nThe analysis of this spectrum was carried out with the help of the zHunter (doi:10.5281/zenodo.15189495) and GRBSpec (http://grbspec.eu; de Ugarte Postigo et al. 2014, doi:10.1117/12.2055774) tools.\n"
+}

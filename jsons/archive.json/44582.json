@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260511B: SAO RAS optical observations",
+  "eventId": "GRB 260511B",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44582....1M",
+  "createdOn": 1778599939121,
+  "submitter": "Alexander Moskvitin at SAO RAS <mosk@sao.ru>",
+  "circularId": 44582,
+  "format": "text/plain",
+  "body": "A. Moskvitin (SAO RAS) and A. Pozanenko (IKI),\nreport on behalf of GRB the follow-up team.\n\nWe observed the field of the GRB 260511B discovered by Fermi\n(The Fermi GBM team, GCN 44542; Roberts, GCN 44554), SVOM\n(Godet et al., GCN 44543), NuSTAR (Waratkar and Grefenstette,\nGCN 44556), AstroSat CZTI (Arya et al., GCN 44560);\nEP-FXT (Fu et al., GCN 44578) with the Zeiss-1000, 1m telescope\nof the SAO RAS equipped with the CCD photometer.\nObservations were performed in B, V, Rc, Ic filters and started\non May 11, 19:08:40 UT (8.14 hours after the trigger).\n   \nThe OT (Wu et al., GCN 44547; Sasada et al., GCN 44549;\nJiang et al., GCN 44551; Wu et al., GCN 44552; Vijaykumar et al.,\nGCN 44561; de Ugarte Postigo et al., GCN 44565; Lee et al., GCN 44567;\nLi et al., GCN 44568; Wang et al., GCN 44571; Belkin et al.,\nGCN 44572; Adami et al., GCN 44573; Saccardi et al., GCN 44574;\nRajabov et al., GCN 44576; Pérez-Fournon et al., GCN 44577;\nNovotný et al., GCN 44580; also detected in NIR by Li et al.,\nGCN 44557) is clearly detected in all frames with the following\nbrightness.\n\nDate       T_start   T_end     t_mid-T0, exp, s  filter mag   +/- err\n           UT                  hours      \n2026-05-11T19:14:19--19:54:19  8.56306   3*300   B      19.56 +/- 0.03\n2026-05-11T19:20:15--19:40:09  8.49444   2*120   V      19.09 +/- 0.04\n2026-05-11T19:08:40--19:43:12  8.42333   3*120   Rc     18.75 +/- 0.02\n2026-05-11T19:11:24--19:51:31  8.51542   5*120   Ic     18.50 +/- 0.05\n\nThis preliminary photometry is based on nearby SDSS stars\n(using Lupton 2005 transformation equations)\nand is not corrected for Galactic extinction."
+}

@@ -1,0 +1,17 @@
+{
+  "subject": "GRB260809A: MAO/AZT-22 optical observations",
+  "editedOn": 1786368036028,
+  "eventId": "GRB 260809A",
+  "version": 2,
+  "submittedHow": "web",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "circularId": 45339,
+  "createdOn": 1786335385173,
+  "submitter": "Yodgor Rajabov at UBAI <rajabov@astrin.uz>",
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "Y. Rajabov, O. Burkhonov, B.Abidkhanov, S. Ehgamberdiev, Y. Tillayev (UBAI), A. Shaymanov, T. Boyqobilov (Maidanak Observatory/UBAI), M. Coughlin (UMN), P. Hello (IJCLAB), S. Antier (IJCLAB), M. Pillas (IAP), and S. Karpov (FZU) report on behalf of UBAI team and GRANDMA collaboration.\n\nWe observed the field of GRB 260809A detected by SVOM (Brunet et al., GCN 45331) with the AZT-22 1.5m telescope of the Maidanak Observatory (MAO) starting on 2026-08-09 at 22:25:45 UT, i.e, ~7.47 hours after the SVOM/ECLAIRs trigger. In total we obtained 4x300 s exposures in the R-band using 4kx4k CCD SNUCAM camera (Im et al., 2010). \n\nWe detect the afterglow in our stacked frame at the position reported by Li et al. (GCN 45336).\nOur preliminary measurements consist with detections reported by  Li et al. GCN 45336 and Adami et. al. GCN 45338. \n\nPreliminary photometry is as follows:\nDate       UTstart  Exptime     t-T0       Filter OT    Err.    UL    SNR\tSite/Telescope\n                    (nxs)     (mid, hours)                 \n2026-08-09 22:25:45 4x300      7.47       R   22.97   0.1    23.24\t6\tMAO/AZT-22\n\nAll the data have been reduced by a single data processing pipeline, STDWeb (Karpov 2025). Images obtained in Johnson Cousins filters were calibrated using the Gaia DR3 Synphot catalog. Our measurements in Vega magnitude system and the data has not corrected for the Galactic extinction.\n\nMaidanak astronomical observatory (MAO) is an observational facility of the Ulugh Beg Astronomical Institute (UBAI), Uzbekistan Academy of Sciences (http://maidanak.uz/).\n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/). Astrophysics Center for Multimessenger studies in Europe is supported Skyportal/ICARE (contact camille.douzet@ijclab.in2p3.fr, skyportal.io)."
+}

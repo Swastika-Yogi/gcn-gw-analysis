@@ -1,0 +1,17 @@
+{
+  "editedOn": 1785762357759,
+  "subject": "GRB 260802A: SVOM/VT optical upper limits from VHF data  ",
+  "version": 2,
+  "eventId": "GRB 260802A",
+  "submittedHow": "web",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45275,
+  "createdOn": 1785678801819,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/markdown",
+  "body": "\nC. Wu, L. P. Xin, Y.L. Qiu (NAOC), J. T. Palmerio (CEA/Irfu),  Wenjin Xie (NAOC), Runchao CHEN (NJU) report on behalf of the SVOM/VT team.\n \nAfter the trigger by SVOM/ECLAIRs at 2026-08-02T09:23:10 UTC (T0),  SVOM performed an automatic slew on the burst location (Feng et al., GCN 45270). SVOM/VT took images of the field in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n \n \nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via the VHF network, no uncatalogued optical source was detected within the MXT localization region (Feng et al., GCN 45270) in our three sequence images, compared to the Pan-STARRS1 DR1. The suggested position of the magnetar EP J223759.5+531421 (Rea et al. ATel 17870; Coti Zelati et al. ATel 17909) falls within the subimage coverage. No optical counterpart was detected at this position. The 5-sigma upper limits are:\n \n| Mid time (min) | Band | Exposure (s) | 5-sigma upper limit (mag) |\n| :--- | :--- | :--- | :--- |\n| 6.43 | VT_B | 6 * 50 | > 21.5 |\n| 6.43 | VT_R | 6 * 50 | > 21.5 |\n| 100.32 | VT_R | 6 * 50 | > 21.5 |\n\n \nWe note that the 1-bit subimage and source list do not fully cover the entire MXT uncertainty region. Radio or infrared follow-up  observations are encouraged to further investigate the association with the magnetar candidate EP J223759.5+531421.\n \n \nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n\n"
+}

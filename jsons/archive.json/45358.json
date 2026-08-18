@@ -1,0 +1,17 @@
+{
+  "subject": "GRB 260317A: SVOM/ECLAIRs detection through offline targeted search and its possible association to magnetar 1E 1841-04.5",
+  "editedOn": 1786540043375,
+  "eventId": "GRB 260317A",
+  "version": 2,
+  "submittedHow": "web",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45358,
+  "createdOn": 1786472369539,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "eventType": [
+    "GRB",
+    "X-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "H. Yang, O. Godet, S. Guillot, L. Bouchet, J.-L. Atteia (IRAP), T. Maiolino (LUMP), D. Turpin, S. Schanne (CEA) \n\nreport on behalf of the SVOM team:\n\nThe SVOM/ECLAIRs telescope detected GRB 260317A, also detected by Fermi/GBM (GCN 44041), starting at 2026-03-17T20:01:51.940 UTC (T0), through an offline targeted search with the event-by-event data downloaded via the X-band ground station.\n\nThe burst was detected within several timescales and energy ranges. The best detection is obtained by the image trigger with a signal-to-noise ratio of 5.4 within 8-50 keV over a time window of 0.04 s starting at T0. This event was not detected onboard because it was too faint and too short. \n\nThe ECLAIRs lightcurve shows a multi-peaked structure lasting around 0.04 s. \n\nThe localization of the source is RA, Dec =280.383, -5.301 degrees:\n\nRA (J2000) = 18h41m32s\nDec (J2000) = -05d18m04s\n\nwith a 90% C.L. radius of 14.3 arcmin (including systematic error of 2 arcmin added in quadrature). This localization is broadly consistent with that reported by Fermi/GBM (GCN 44041). The angular separation between the two positions is 27.5 degrees, which is compatible with the 13.33 degrees 1-sigma statistical uncertainty of the GBM localization. \n\nThe time-averaged spectrum from T0 to T0+0.04 s in the 5-120 keV is well fitted by a power law with a photon index of 1.1+/-0.2 and a corresponding 4-120 keV fluence of (6+/-1)e-8 erg/cm^2. \n\nGiven the proximity (22 arcmin) of GRB 260317A to the magnetar 1E 1841-04.5 (also named PSR J1841−0456), and the possibly underestimated ECLAIRs positional uncertainties due to the very short duration of the burst, it is possible that GRB 260317A is actually a magnetar short burst. \n\nAll quoted errors are at the 68% confidence level.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. ECLAIRs was developed jointly by APC, CEA, CNES, and IRAP. \n\nThe SVOM/ECLAIRs point of contact for this event is : Hui Yang (hui.yang@cnrs.fr)"
+}

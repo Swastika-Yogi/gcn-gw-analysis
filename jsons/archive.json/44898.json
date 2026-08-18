@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260515A: SOAR optical observations",
+  "eventId": "GRB 260515A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44898....1N",
+  "createdOn": 1781124046462,
+  "submitter": "James Freeburn at University of North Carolina at Chapel Hill <jamesfreeburn54@gmail.com>",
+  "circularId": 44898,
+  "format": "text/markdown",
+  "body": "Kira Nolan, James Freeburn, Anirudh Salgundi, Igor Andreoni (UNC Chapel Hill):\n\nWe observed the field of GRB 260515A (Brunet et al., GCN 44622) using the Goodman High Throughput Spectrograph instrument  on the 4.1m Southern Astrophysical Research (SOAR) Telescope, in imaging mode. We obtained 3x300s exposures respectively in the SDSS r and i filters, starting at 2026-06-08T02:01:28 UTC, approximately 23 days after the GRB trigger.\n\nWe confirm the late-time emission (Li et al., GCN 44821) of the optical counterpart previously reported by He et al., GCN 44623; Saccardi et al., GCN 44624; Sosnovskij et al., GCN 44625; He et al., GCN 44626; Lipunov et al., GCN 44627; Wu et al., GCN 44628; Malesani et al., GCN 44629, Dennefeld et al., GCN 44633; Li et al., GCN 44634; Wang et al., GCN 44642; Antier et al., GCN 44643; Pérez-Fournon et al., GCN 44645; Dimple et al. GCN 44646; Moskvitin et al., GCN 44652;  Bochenek et al., GCN 44658. We measure the following measurements and the magnitude limit is quoted at the 5 sigma level:\n\n| MJD (mid) | T - T_0 | Filter | Mag. (AB) |\n| --------- | -------- | - | ----- |\n| 61199.088 | 23.271 d | r | >23.6 |\n| 61199.099 | 23.282 d | i | 23.1 +/- 0.2 |\n\nPhotometry is calibrated against nearby PanSTARRS-1 DR2 catalog stars and not corrected for extinction. As this location does not have i-band coverage in Legacy Survey DR10 (Dey et al., 2019), the detected emission may include contributions from the host galaxy.\n\n"
+}

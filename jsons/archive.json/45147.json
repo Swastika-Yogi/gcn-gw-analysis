@@ -1,0 +1,14 @@
+{
+  "editedOn": 1783958746855,
+  "subject": "GRB 260708A: GRANDMA Optical Observations ",
+  "eventId": "GRB 260708A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45147....1S",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of Xinyue Sheng at Queens University Belfast <xysheng.astro@gmail.com>",
+  "circularId": 45147,
+  "createdOn": 1783951535100,
+  "submitter": "Xinyue Sheng at Queens University Belfast <xysheng.astro@gmail.com>",
+  "format": "text/plain",
+  "body": "X. Sheng (QUB), D. Turpin (CEA/Irfu), O. Pyshna (Caltech), R. Strausbaugh (EIU), A. Iskandarova (ShAO), S. Rahimli (Sumgayit State Uni), V. Morozov (KU Leuven), S. Antier (IJCLAB), A. Simon (TShNU of Kyiv), L. Wyrzykowski (Uni. Warsaw/NCBJ), J. Hambsch (VVS, GEOS, BAV), M. Freeberg (KNC), R. Hellot (KNC), A. Klotz (IRAP), E. Jehin (ULiège), M. Ferrais (ULiège), Rui-Zhi (YNAO), J. Mao (YNAO) on behalf of on GRANDMA collaboration: \n \nWe observed the field of the Fermi Long GRB 260708A (Fermi GBM team, GCN 45115; Fermi/LAT, Holzmann Airasca et al., GCN45117,; GECAM-B, Ren et al., GCN45126; Glowbug, Cheung et al., GCN 45130). The observations started at 14:30:42 UTC on the 9 of July 2026, 1.18 days post the Fermi Trigger.\n\nWe detected the optical afterglow candidate, reported by MASTER (Shilova et al, GCN 45123), in several epochs, using the 60cm telescope at les Makes Observatory, the LCO 0.4m telescope at the SAA Observatory, the TRAPPIST-South telescope at la SIlla Observatory, and Kilonova Catcher. However, we observed after template subtraction a softer decay than usual for the GRBs.\n\nA subset of the photometry corrected for Galactic extinction is reported in the public ACME service Skyportal/ICARE https://skyportal-icare.ijclab.in2p3.fr/source/GRB-260708A. To access, one simply needs to create an account using your ORCID id. \n\nThe data were reduced by a single data processing pipeline, STDPipe (Karpov et al., 2022). Images obtained with the Sloan filters were calibrated using the PanSTARRS DR1 catalog. Images obtained with the Johnson-Cousins filters were calibrated using the Gaia DR3 Synphot catalog. \n\nOur results are consistent across GRANDMA but not totally with LCO (GCN 45140). Further template taken at later time are needed.\n\nThe observations are performed under the P7 campaign of GRANDMA to monitor SVOM alerts and LSST alerts from explosive fast transients filtered by BOOM/Babamul and FINK. \n\nGRANDMA is a worldwide telescope network (grandma.ijclab.in2p3.fr) devoted to the observation of transients in the context of multi-messenger astrophysics (Antier et al. 2020 MNRAS 497, 5518). Kilonova-Catcher (KNC) is the citizen science program of GRANDMA (http://kilonovacatcher.in2p3.fr/).\n"
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "GRB 260715A: cubesat Avion detection",
+  "eventId": "GRB 260715A",
+  "submittedHow": "email",
+  "createdOn": 1786006292037,
+  "submitter": "Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>",
+  "circularId": 45298,
+  "body": "From Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>\n\nA. Bogomolov, V. Bogomolov, A. Iyudin, S. Svertilov, N. Vasiliev\non behalf of the MSU “Sozvezdie-270” team, report:\n\nAt 2026-07-15 ~11:10:14 UT the long-duration GRB 260715A (Fermi/GBM detection: GCN #45167) was detected by the DeCoR-3 instrument on the cubesat Avion of the Moscow University project “Sozvezdie-270” [1].\n\nTotal amount of photons detected by Avion is 198 (energy band >30 keV), it corresponds to a fluence of ~1.75*10^(-6) erg/cm^2 in the range 30-500 keV.\n\nLC in the energy range of 30-500 keV consists of a single episode with a rapid front and a smoother decline, a maximum flux is ~3.8 phot/(cm^2*s). There is probably another increase ~13 s after the start of the burst.\n\nА total duration (T90) of the burst is ~15 s.\n\nThe light curve obtained by Avion is available here:\nhttps://swx.sinp.msu.ru/models/grb_cat/data/pictures/GRB260715A_LC_Avion.png\n\nParameters of GRB 260715A as well as other GRBs detected by Moscow University cubesats are listed at: https://swx.sinp.msu.ru/models/grb_cat/grb.php?lang=en\n\nAvion is one of 5 cubesats of the Moscow University project “Sozvezdie-270” [1] launched on 2023 June 27. The payload of Avion is a set of scintillation gamma-ray detectors DeCoR [2], the energy range is  >30 keV, the time resolution is 0.5s.\n\n[1] Svertilov et al. 2023  https://link.springer.com/chapter/10.1007/978-3-031-50248-4_21\n[2] Bogomolov et al. 2026 Cosmic Research 64, 262 https://link.springer.com/article/10.1134/S0010952526600071\n"
+}

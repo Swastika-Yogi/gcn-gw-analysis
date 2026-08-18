@@ -1,0 +1,11 @@
+{
+  "subject": "EP01709266106 (EP260526a?): Liverpool Telescope upper limits",
+  "eventId": "EP260526a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44706....1E",
+  "createdOn": 1779835698728,
+  "circularId": 44706,
+  "submitter": "Rob Eyles-Ferris at U of Leicester <raje1@leicester.ac.uk>",
+  "format": "text/markdown",
+  "body": "R. A. J. Eyles-Ferris (Leicester) reports on behalf of a larger collaboration:\n\nWe observed the field of the Einstein Probe WXT trigger EP01709266106 (EP260526a?) with the 2m Liverpool Telescope on La Palma using the IO:O instrument. We obtained 6x150s exposures in each of the SDSS g’r’i’z’ filters starting at 2026-05-26 21:25:48 UT, approximately 3.80 hours after the X-ray detection.\n\nWe performed image subtraction on the stacked images using reference images from Pan-STARRS and also compared the stacked and reference images manually. Within the EP/WXT localisation, we detect no new sources in any of the bands.\n\nWe derive the following 3-sigma upper limits for our stacked images. Our photometry is calibrated to PanSTARRS and not corrected for Galactic extinction.\n\n| t_mid (hours) | Filter | AB magnitude |\n| ------------- | ------ | ------------ |\n| 3.94 | r’ | >21.52 |\n| 4.24 | g’ | >21.47 |\n| 4.53 | i’ | >21.69 |\n| 4.82 | z’ | >21.25 |"
+}

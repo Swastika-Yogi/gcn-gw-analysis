@@ -1,0 +1,14 @@
+{
+  "subject": "EP260602a: Liverpool Telescope optical upper limits",
+  "editedOn": 1780582639285,
+  "eventId": "EP260602a",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44810....1B",
+  "editedBy": "Judith Racusin at NASA/GSFC <judith.racusin@nasa.gov> on behalf of A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "circularId": 44810,
+  "createdOn": 1780516727835,
+  "submitter": "A. Bochenek at Liverpool John Moores University <a.m.bochenek@2023.ljmu.ac.uk>",
+  "format": "text/plain",
+  "body": "A. Bochenek, D. A. Perley, J. L. Wise (LJMU), report:\n\nWe observed the field of EP260602a (Li et al., GCN 44770) using the IO:O optical camera on the 2m robotic Liverpool Telescope. We obtained multiple 120s exposures in SDSS gri filters, starting at 2026-06-02 21:15:26 UT, approximately 13.07 hours after trigger. The observations were interrupted and consequently resumed due to weather conditions and telescope tracking issues; some exposures needed to be discarded.\n\nWe do not detect any sources at the position of the counterpart (Xu et al., GCN 44781, Li et al., GCN 44794; also Watson et al., GCN 44790; He et al., GCN 44798, Malesani et al., GCN 44807) down to the 3 sigma limiting magnitudes of:\n\n| MJD (mid)    | T_mid-T_0    | Exp. Time    | Filter       | Mag limit. (AB) |\n| ------------ | ------------ | ------------ | ------------ | --------------- | \n| 61193.93925  | 14.34 h      | 600 s        | g            |  > 21.8      |\n| 61193.91413  | 13.75 h      | 960 s        | r            |  > 22.1      |\n| 61194.11373  | 18.54 h      | 720 s        | i            |  > 21.9      |\n\nThe stacked exposures were subtracted from PanSTARRS reference imaging using custom PSF-matching image subtraction code utilising Swarp, SourceExtractor, and PSFex. The photometry is in the AB magnitude system, was calibrated using nearby PanSTARRS secondary standards and was not corrected for extinction."
+}

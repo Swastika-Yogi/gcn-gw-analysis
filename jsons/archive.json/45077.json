@@ -1,0 +1,11 @@
+{
+  "subject": "GRB 260629A: SVOM/GRM observation of a short burst",
+  "eventId": "GRB 260629A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45077....1S",
+  "createdOn": 1783171518113,
+  "circularId": 45077,
+  "submitter": "Yue Wang <m18509381757@163.com>",
+  "format": "text/plain",
+  "body": "\nSVOM/GRM team: Yue Wang, Chen-Wei Wang, Shi-Jie Zheng, Yue Huang, Shao-Lin Xiong, Shuang-Nan Zhang (IHEP)\n\nSVOM/ECLAIRs team: Olivier Godet (IRAP)\n\nReport on behalf of the SVOM team:\n\nSVOM/GRM was triggered on-ground by GRB 260629A at 2026-06-29T15:06:59.000 (T0), which is also detected by Fermi/GBM (Fermi GBM team, GCN #45056), AstroSat CZTI (Harsha et. al., GCN #45074) and GECAM-A (Yue Wang et al., GCN #45076).\n\nWith the event-by-event data downloaded through the X-band ground station, the GRM light curve shows that this burst consists of a single pulse with a T90 of 1.20 +1.55/-0.65 s in the 15-5000 keV band.\n\nThe SVOM/GRM light curve can be found here:\nhttps://www.bursthub.cn//admin/static/svgrb260629A.png\n\nIn addition, the position of this burst, as determined by Fermi/GBM (RA = 146.1, Dec = 70.6, Error = 10.5, GCN #45056), is located at about 138 degrees from the SVOM optical axis, which is outside the ECLAIRs field of view.\n\nWith this localization, the time-averaged spectrum from T0-1.0 to T0+2.0 s is best fitted by a power law function. The power law index is -1.89 +0.24/-0.39. The event fluence (10-1000 keV) in this time interval is (2.35 +0.42/-0.40)E-06 erg/cm^2.\n\nThe localization of GRB 260629A in the 'Amati' relation diagram is shown at: https://www.bursthub.cn//admin/static/svgrb260629A_amati.png\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. GRM is developed by the Institute of High Energy Physics (IHEP) of CAS.\n\nThe SVOM/GRM point of contact for this burst is: Yue Wang (IHEP) (yuewang@ihep.ac.cn)"
+}

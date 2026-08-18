@@ -1,0 +1,11 @@
+{
+  "subject": "EP260502a is likely a flaring star",
+  "eventId": "EP260502a",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.44483....1L",
+  "createdOn": 1778063077409,
+  "circularId": 44483,
+  "submitter": "EP Team at NAOC/CAS <ep_ta@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "T.Y. Liu (NAO,CAS), Y. Q. Zhao(PRIC,USTC), Y. F. Liang (PMO, CAS), Y. Wang (PMO, CAS; UCB), H. W. Pan (NAO,CAS) on behalf of the Einstein Probe (EP) team:\n\nThe fast X-ray transient EP260502a (GCN #44440) at the time of 2026-05-02T06:08:51, is likely a stellar flare associated with SIPS J1809-7613. The estimated flux of the flare is around 1.1×10^(-9) erg/s/cm^2 in 0.5-4.0 keV, corresponding to an X-ray luminosity of around 9.8×10^(30) erg/s.\n\nThe telemetry WXT data show that the flare started around 2026-05-02T05:58:08 (UTC) and exhibits no obvious flux variation later in the WXT exposure. The average WXT 0.5-4 keV spectrum of the burst period can be fitted with an absorbed power law with a hydrogen column density of 3.68×10^(-9)（-3.68×10^(-9)/+0.361 ）×10^22 cm^-2 and a photon index of 0.52(-0.52/+1.70). The derived average unabsorbed 0.5-4 keV flux is 9.96 (-3.89/+11.51) ×10^(-11) erg/s/cm^2.\n\nThe Follow-up X-ray Telescope (FXT) on board EP observed this source at 2026-05-02T06:19:45 (UTC). The exposure time of this observation is 3.0ks. The flux show a rapid fading of around 5 times in 1ks. The average 0.5-10 keV spectrum can be fitted with an absorbed power law with a Galactic hydrogen column density of 0.66 (-0.21/+0.25) × 10^22 cm^-2 and a photon index of 5.44 (-1.02/+1.23). The derived average unabsorbed 0.5-10 keV flux is 8.29 (-4.61/+15.56) × 10^(-12) erg/s/cm^2.\n\nThe optical follow-up observations were performed by Li et al. (GCN 44441), Sharma et al. (GCN 44442, GCN 44444), and catch a fading of 0.7mag of SIPS J1809-7613 in 30min starting from 2026-05-02 06:24:42, consistent with the X-ray fading detected by the FXT autumatic follow-up.\n\nA follow-up observation around 3ks with the EP/FXT was carried out starting at 2026-05-02T06:19:45, and no FXT trigger was received during the observation.\n\nLaunched on January 9, 2024, EP is a space X-ray observatory to monitor the soft X-ray sky with X-ray follow-up capability (Yuan et al. 2022, Handbook of X-ray and Gamma-ray Astrophysics)."
+}

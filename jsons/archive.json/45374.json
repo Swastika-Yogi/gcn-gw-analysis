@@ -1,0 +1,14 @@
+{
+  "subject": "EP260812b: GOTO detection of the optical counterpart",
+  "eventId": "EP260812b",
+  "submittedHow": "web",
+  "createdOn": 1786625507598,
+  "submitter": "Rhaana Starling at U of Leicester <rlcs1@leicester.ac.uk>",
+  "circularId": 45374,
+  "eventType": [
+    "X-ray Transient",
+    "Optical Transient"
+  ],
+  "format": "text/markdown",
+  "body": "R. Starling, D. O'Neill, B. P. Gompertz, G. Ramsay, S. Belkin, A. Kumar, K. Ackley, M. Dyer, J. Lyman, K. Ulaczyk, D. Steeghs, D. Galloway, V. Dhillon, P. O'Brien, K. Noysena, R. Kotak, R. Breton, J. Casares, L. Nuttall, B. Godson, T. Killestein, M. Pursiainen, on behalf of the GOTO collaboration\n\nWe report on optical observations with the Gravitational-wave Optical Transient Observer (GOTO; Steeghs et al. 2022, Dyer et al. 2024) in response to the Einstein Probe detected X-ray transient EP260812b (ID: 01709278129, Li et al. 2026, GCN 45368).\n\nImages consisted of 4x90s exposures in the GOTO L-band (400-700 nm) and were processed immediately after acquisition using the GOTO pipeline. Difference imaging was performed using deeper template observations. Source candidates were initially filtered using a classifier (Killestein et al. 2021) and cross-matched against a variety of contextual and minor planet catalogs. Human vetting was carried out in real time on any candidates that passed the above checks (Lyman et al. 2026).\n\nWe detect the optical counterpart (Malesani et al. GCN 45367; Ma et al. GCN 45370; Gill et al. GCN 45371) at 3-sigma confidence with the following magnitudes\n\n\n| Time (UT)           | t-t0 (min)   | ABmag and 1-sigma error |\n| ------------------- | ------------ | ----------------------- |\n| 2026-08-12 23:46:46 | 10.9         | 20.49 ± 0.22            |\n| 2026-08-13 00:55:02 | 79.2         | 20.66 ± 0.26            |\n\n\nMagnitudes were calibrated using ATLAS-REFCAT2 (Tonry et al. 2018) and not corrected for Galactic extinction.\n\nGOTO (https://goto-observatory.org) is a network of telescopes that is principally funded by the STFC and operated at the Roque de los Muchachos Observatory on La Palma, Spain, and Siding Spring Observatory in NSW, Australia, on behalf of a consortium including the University of Warwick, Monash University, Armagh Observatory & Planetarium, the University of Leicester, the University of Sheffield, the National Astronomical Research Institute of Thailand (NARIT), the University of Turku, the University of Portsmouth, the University of Manchester, the University of Birmingham and the Instituto de Astrofisica de Canarias (IAC).\n"
+}

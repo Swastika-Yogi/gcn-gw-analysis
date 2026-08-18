@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260804A: CALET Gamma-Ray Burst Monitor detection",
+  "eventId": "GRB 260804A",
+  "submittedHow": "web",
+  "createdOn": 1786369583691,
+  "circularId": 45345,
+  "submitter": "Yuta Kawakubo at Aoyama Gakuin University <kawakubo@phys.aoyama.ac.jp>",
+  "eventType": [
+    "GRB",
+    "Gamma-ray Transient"
+  ],
+  "format": "text/plain",
+  "body": "T. Tamura (Kanagawa U), A. Yoshida, T. Sakamoto, S. Sugita, \nY. Kawakubo (AGU), K. Yamaoka (Nagoya U), S. Nakahira (JAXA), Y. Asaoka (ICRR), \nS. Torii, Y. Akaike, K. Kobayashi (Waseda U), Y. Shimizu (Kanagawa U),\nN. Cannady (GSFC), M. L. Cherry (LSU), S. Ricciarini (U of Florence),\nP. S. Marrocchesi (U of Siena),\nand the CALET collaboration:\n\nThe CALET Gamma-ray Burst Monitor (CGBM) detected GRB 260804A\nat 03:07:25.16 UTC on 4 August 2026 (trigger #1469848033;\nhttps://cgbm.calet.jp/cgbm_trigger/flight/1469848033/index.html).\n\nNo real-time CGBM GCN notice was distributed about this trigger because \nthe real-time communication from the ISS was off (loss of signal).\n\nThis event was also reported by Fermi GBM (Fermi GBM team, GCN #45281;\nand Glowbug (Cheung et al., GCN #45288).\n\nThe burst signal was seen by all CGBM detectors.\n\nThe burst light curve shows a multi-peaked structure starting\nat T-18.7 s, peaking at T+2.4 s, and ending at T+3.3 s.\nThe T90 and T50 durations measured with the SGM data are 20.3 +/- 1.0 s\nand 8.5 +/- 1.1 s in the 40-1000 keV band, respectively.\n\nThe ground-processed light curve is available at:\nhttps://cgbm.calet.jp/cgbm_trigger/ground/1469848033/\n\nThe CALET data used in this analysis were provided by\nthe Waseda CALET Operation Center located at Waseda University."
+}

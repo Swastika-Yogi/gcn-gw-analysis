@@ -1,0 +1,14 @@
+{
+  "subject": "GRB 260718A: SVOM/VT optical upper limits from VHF data",
+  "editedOn": 1785691109700,
+  "eventId": "GRB 260718A",
+  "version": 2,
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45178....1M",
+  "editedBy": "Vidushi Sharma at NASA GSFC/UMBC <vidushi.sharma@nasa.gov> on behalf of SVOM_group <svomgroup@bao.ac.cn>",
+  "circularId": 45178,
+  "createdOn": 1784386356281,
+  "submitter": "SVOM_group <svomgroup@bao.ac.cn>",
+  "format": "text/plain",
+  "body": "Y. N. Ma (NAOC), W. L. Zhang (PMO), C. Wu, L. P. Xin, Y.L. Qiu (NAOC), D. Turpin, A. Saccardi, J. T. Palmerio (CEA/Irfu) report on behalf of the SVOM/VT team.\n \nAfter the trigger by SVOM/ECLAIRs at 2026-07-18T11:16:34 UTC (T0), SVOM performed an automatic slew on the burst location (Antier et al., GCN 45177). SVOM/VT took images of the field in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously.\n\nFrom a preliminary analysis of the 1-bit subimage and source list downloaded via VHF network, no uncatalogued optical source was detected at the ECLAIRs position (Antier et al., GCN 45177) in our two sequence images, compared to Pan-STARRS1 DR1. The 5-sigma upper limits are:\n \nMid time | Band | Exposure Time | 5 sigma upper limit\n44.5 min | VT_B |    6*50 sec   |   > 21.5 mag\n44.5 min | VT_R |    6*50 sec   |   > 21.5 mag\n49.5 min | VT_R |    6*50 sec   |   > 21.5 mag\n \nThe subimage and source list cover 100% of the SVOM/ECLAIRs R90 uncertainty region. Given the lack of detection in VT_B and VT_R at an early phase, deeper or redder follow-ups are encouraged to investigate the nature of the burst.\n \nThe Space-based multi-band astronomical Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA), French Space Agency (CNES), and the Chinese Academy of Sciences (CAS), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe.\nSVOM/VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS.\n \nThe Burst Advocate (BA) on shift for this alert is Yinuo Ma: mayn@bao.ac.cn.\nPlease contact the BA by email if you require additional information."
+}

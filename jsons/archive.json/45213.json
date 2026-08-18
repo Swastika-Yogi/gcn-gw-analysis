@@ -1,0 +1,10 @@
+{
+  "subject": "GRB 260616A: cubesat Avion detection",
+  "eventId": "GRB 260616A",
+  "submittedHow": "email",
+  "bibcode": "2026GCN.45213....1B",
+  "createdOn": 1785023934704,
+  "circularId": 45213,
+  "submitter": "Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>",
+  "body": "From Andrey Bogomolov at Moscow State University <aabboogg@srd.sinp.msu.ru>\n\nA. Bogomolov, V. Bogomolov, A. Iyudin, S. Svertilov, N. Vasiliev\non behalf of the MSU “Sozvezdie-270” team, report:\n\nAt 2026-06-16 ~03:21:40 UT the long-duration GRB 260616A (Fermi/GBM detection: GCN #44948, Fermi/LAT detection: GCN #44960, GECAM-B detection: GCN #44964, CALET detection: GCN #44966, Konus-Wind detection: GCN #44967, Insight HXMT detection: GCN #44980, NuSTAR detection: #44987, SVOM detection: #44995, AstroSat CZTI detection: GCN #44996) was detected by the DeCoR-1 and DeCoR-3 instruments on the cubesat Avion of the Moscow University project “Sozvezdie-270” [1].\n\nTotal amount of photons detected by Avion is 1688 (DeCoR-1, energy band  >40 keV), it corresponds to a fluence of ~7.5*10^(-6) erg/cm^2 in the range 40-500 keV.\n\nLC in the energy range of 40-500 keV consists of multiple peaks of various intensity and duration, a maximum flux is ~4.5 phot/(cm^2*s).\n\nА total duration (T90) of the burst is ~80 s.\n\nThe light curve obtained by Avion is available here:\nhttps://swx.sinp.msu.ru/models/grb_cat/data/pictures/GRB260616A_LC_Avion.png\n\nParameters of GRB 260616A as well as other GRBs detected by Moscow University cubesats are listed at: https://swx.sinp.msu.ru/models/grb_cat/grb.php?lang=en\n\nAvion is one of 5 cubesats of the Moscow University project “Sozvezdie-270” [1] launched on 2023 June 27. The payload of Avion is a set of scintillation gamma-ray detectors DeCoR [2], the energy range is  >30 keV, the time resolution is 0.5s.\n\n[1] Svertilov et al. 2023  https://link.springer.com/chapter/10.1007/978-3-031-50248-4_21\n[2] Bogomolov et al. 2022 Universe 8, 282 https://www.mdpi.com/2218-1997/8/5/282\n"
+}

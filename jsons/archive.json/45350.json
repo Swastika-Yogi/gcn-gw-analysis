@@ -1,0 +1,13 @@
+{
+  "subject": "GRB 260809A: J-band upper limit with WINTER",
+  "eventId": "GRB 260809A",
+  "submittedHow": "web",
+  "createdOn": 1786384709905,
+  "circularId": 45350,
+  "submitter": "tanishk.mohan@iitb.ac.in",
+  "eventType": [
+    "GRB"
+  ],
+  "format": "text/markdown",
+  "body": "Tanishk Mohan (IITB), Geoffrey Mo (Caltech/Carnegie), Viraj Karambelkar (Columbia), Benjamin Schneider (LAM), Tomas Ahumada (NOIRLab), Robert Stein (UMD), Danielle Frostig (CfA), Nathan Lourie (MIT), Robert Simcoe (MIT), and Mansi Kasliwal (Caltech) report:\n\nWe observed the field of GRB 260809A (Brunet et al., GCN 45331; also see Sun et al., GCN 45344) in the near-infrared J band with the Palomar 1-m telescope, equipped with the 1.2-square degree WINTER camera (Lourie et al. 2020, Frostig et al. 2024).\nObservations began at 2026-08-10T05:11:10.816 UTC in the J band (14.23 hr after the SVOM/ECLAIRs trigger), consisting of 15*120 sec exposures. The images were processed using the WINTER data reduction pipeline implemented with mirar (https://github.com/winter-telescope/mirar, https://doi.org/10.5281/zenodo.13352565).\n\nWe do not detect the optical counterpart (Li et al., GCN 45336; Adami et al., GCN 45338; Rajabov et al., GCN 45339; Izzo et al., GCN 45340; Basa et al., GCN 45342) in our stacked image. We obtain the following 5-sigma upper limit: J = 18.6 mag (AB).\n\nWINTER (Wide-field INfrared Transient ExploreR) is a partnership between MIT and Caltech, housed at Palomar Observatory, and funded by NSF MRI, NSF AAG, the David and Lucile Packard Foundation, and the MIT Kavli Institute for Astrophysics and Space Research."
+}

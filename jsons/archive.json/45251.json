@@ -1,0 +1,15 @@
+{
+  "subject": "GRB 260727A: AbAO and SAO RAS optical observations",
+  "eventId": "GRB 260727A",
+  "submittedHow": "web",
+  "bibcode": "2026GCN.45251....1P",
+  "createdOn": 1785323990139,
+  "circularId": 45251,
+  "submitter": "Nicolai Pankov at IKI <colinsergesen@gmail.com>",
+  "eventType": [
+    "GRB",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "N. Pankov (IKI), A. Moskvitin (SAO RAS), A. Pozanenko (IKI), R. Ya. Inasaridze (AbAO), M. Zhuzhunadze (AbAO) report on behalf of IKI-GRB-FuN:\n\nWe performed optical observations of the field of GRB 260727A (Li et al., GCN 45220; Harsha. et al., GCN 45225; Cheung et al., GCN 45233; Li et al., GCN 45236; Svinkin et al., GCN 45242; Wang et al., GCN 45247) with the 0.7m AS-32 telescope of Abastumani Observatory (AbAO) and the Zeiss-1000 1m telescope of the Special Astrophysical Observatory of the RAS (SAO RAS). The observations started on 2026-07-27 at 19:15:15 UT (~0.81 days after the SVOM trigger) at AbAO. The series of 70x60 s exposures in the R-band was obtained using the CCD-photometer. The observations continued at SAO RAS starting 2026-07-28 at 00:12:38 UT (~ 1.0 days since trigger). The series of 6x300 s exposures was obtained in the Rc-band using the CCD-photometer. We performed catalog search and image subtraction (against the PS1 r-band template image) on co-add images from both observatories. The observational properties are provided further.\n\nDate       UT start  t-T0         Exp.    Filter  UL(3sigma) Site/Telescope\n                     (mid, days)  (s)\n2026-07-27 19:15:15  0.81092      69x60   R       20.9       AbAO/AS-32\n2026-07-28 00:12:38  1.00509      6x300   Rc      22.9       SAO RAS/Zeiss-1000\n\nNo optical candidates were found in the EP-FXT error circle (Li et al., GCN 45236) up to limiting magnitude presented above.\n\nThe field was also observed in optical by (Shi et al., GCN 45223; Freeberg et al., GCN 45224; Starling et al., GCN 45226; Lechapelain&Midavaine, GCN 45228; Mohan et al., GCN 45231; Bochenek et al., GCN 45240) but no candidate transients were reported.\n\nThe photometry is based on nearby stars from USNO-B1.0. No correction has been made for the Galactic extinction."
+}

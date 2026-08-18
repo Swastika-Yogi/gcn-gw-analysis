@@ -1,0 +1,14 @@
+{
+  "subject": "EP260812b: SVOM/VT optical observation",
+  "eventId": "EP260812b",
+  "submittedHow": "web",
+  "createdOn": 1786594165526,
+  "submitter": "Yinuo Ma <mayn@bao.ac.cn>",
+  "circularId": 45370,
+  "eventType": [
+    "X-ray Transient",
+    "Optical Transient"
+  ],
+  "format": "text/plain",
+  "body": "Y. N. Ma, H. L. Li, Y. L. Qiu, C. Wu, L. P. Xin, Z. H. Yao, J. R. Xu, X. H. Han, Y. Xu, J. Wang, P. P. Zhang, W. J. Xie, Y. J. Xiao, H. B. Cai, J. S. Deng, J. Y. Wei (NAOC), J. Palmerio (CEA) report on behalf of the SVOM/VT team. \n\nSVOM/VT performed a Target of Opportunity observation of EP260812b detected by EP/WXT (Li et al., GCN 45368). SVOM/VT began observing the field at 2026-08-13T00:45:07 UTC, 1.157 hours after the trigger, in the VT_B (400nm-650nm) and VT_R (650nm-1000nm) channels simultaneously. \n\nWith X-band data available, the optical counterpart (Malesani et al., GCN 45367) was detected in both VT_B and VT_R bands within EP/FXT error range (Li et al., GCN 45368). The AB magnitudes are:\n\nmid time (h) | exposure time (s) | band | mag (AB) \n-------------|-------------------|------|--------------\n     1.26    |      14*50        | VT_B |  20.98+-0.07\n     1.26    |      14*50        | VT_R |  20.62+-0.07\n\nPreliminary photometric analysis shows a fading of approximately 0.6 mag from 1.26 h to 2.97 h, with a fading slope of ~0.6.\n\nOur photometry was not corrected for Galactic extinction.\n\nThe Space Variable Objects Monitor (SVOM) is a China-France joint mission led by the Chinese National Space Administration (CNSA, China), National Center for Space Studies (CNES, France) and the Chinese Academy of Sciences (CAS, China), which is dedicated to observing gamma-ray bursts and other transient phenomena in the energetic universe. VT was jointly developed by Xi'an Institute of Optics and Precision Mechanics (XIOPM), CAS and National astronomical observatories (NAOC), CAS."
+}
