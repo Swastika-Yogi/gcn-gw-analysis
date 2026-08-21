@@ -14,7 +14,7 @@ just the mean residual - a 1-parameter fit, not a full regression.
 """
 import math
 
-from src.modeling.chirp_mass_estimator import orientation_factor
+from legs.leg1_estimation.modeling.chirp_mass_estimator import orientation_factor
 
 
 def fit_c(rows, snr, cos_iota):
@@ -38,7 +38,7 @@ def loo_calibrated_predictions(rows, snr, cos_iota):
     in each fold, i.e. an empirical distribution giving C's uncertainty
     across the 49-event sample.
     """
-    from src.validation.metrics import bin_hit, percent_error
+    from legs.leg1_estimation.validation.metrics import bin_hit, percent_error
 
     f_iota = orientation_factor(cos_iota)
     n = len(rows)

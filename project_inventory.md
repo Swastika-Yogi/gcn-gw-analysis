@@ -5,132 +5,132 @@
 ## Code
 
 ```yaml
-- name: src/ingestion/load_gcn_archive.py
+- name: shared/ingestion/load_gcn_archive.py
   type: code
-  location: src/ingestion/load_gcn_archive.py
+  location: shared/ingestion/load_gcn_archive.py
   purpose: Download/cache the GCN circular archive tarball; load all circulars into memory.
   status: working
   last_known_result: "45,268 circulars loaded"
   dependencies: [requests]
   needs_review: false
 
-- name: src/parsing/event_id_parser.py
+- name: shared/parsing/event_id_parser.py
   type: code
-  location: src/parsing/event_id_parser.py
+  location: shared/parsing/event_id_parser.py
   purpose: Extract LVK superevent IDs (SYYMMDDx) and screen circulars for GW relevance.
   status: working
   last_known_result: "Regex originally missed multi-letter suffixes; fixed 2026-08-19, O4a event count went 79 -> 181"
   dependencies: []
   needs_review: false
 
-- name: src/parsing/mass_parser.py
+- name: shared/parsing/mass_parser.py
   type: code
-  location: src/parsing/mass_parser.py
+  location: shared/parsing/mass_parser.py
   purpose: Extract chirp-mass bin sentence and a lower-confidence generic mass mention.
   status: working
   last_known_result: "Bin sentence extraction validated against 54 archive-wide matches, 0 in O4a"
   dependencies: []
   needs_review: false
 
-- name: src/parsing/distance_parser.py
+- name: shared/parsing/distance_parser.py
   type: code
   purpose: Extract luminosity distance, with uncertainty when reported as mean +/- error.
   status: working
   needs_review: false
 
-- name: src/parsing/far_parser.py
+- name: shared/parsing/far_parser.py
   type: code
   purpose: Extract false alarm rate and unit.
   status: working
   needs_review: false
 
-- name: src/parsing/classification_parser.py
+- name: shared/parsing/classification_parser.py
   type: code
   purpose: Extract BBH/BNS/NSBH/Terrestrial probabilities and derive source_class.
   status: working
   last_known_result: "Regex originally missed '>99%' format, corrupting labels; fixed 2026-08-19"
   needs_review: false
 
-- name: src/parsing/snr_parser.py
+- name: shared/parsing/snr_parser.py
   type: code
   purpose: Deliberate no-op - network SNR is not reliably present in circulars (see docstring).
   status: working
   needs_review: false
 
-- name: src/processing/group_by_event.py
+- name: shared/processing/group_by_event.py
   type: code
   purpose: Group circulars by event ID, optional run-window filter (e.g. O4a).
   status: working
   needs_review: false
 
-- name: src/processing/build_event_table.py
+- name: shared/processing/build_event_table.py
   type: code
   purpose: Combine parsers into one event-level table with provenance logging.
   status: working
   needs_review: false
 
-- name: src/modeling/chirp_mass_estimator.py
+- name: legs/leg1_estimation/modeling/chirp_mass_estimator.py
   type: code
   purpose: Physics (SNR-scaling) chirp-mass formula from the methodology note.
   status: working
   needs_review: false
 
-- name: src/modeling/statistical_estimator.py
+- name: legs/leg1_estimation/modeling/statistical_estimator.py
   type: code
   purpose: Generic log-linear least-squares fit/predict (no numpy dependency).
   status: working
   needs_review: false
 
-- name: src/modeling/apply_estimator.py
+- name: legs/leg1_estimation/modeling/apply_estimator.py
   type: code
   purpose: Applies the physics estimator with fixed assumed snr/cos_iota/C to an event table.
   status: working
   needs_review: false
 
-- name: src/modeling/calibration.py
+- name: legs/leg1_estimation/modeling/calibration.py
   type: code
   purpose: Fit and validate the physics formula's calibration constant C (M6.2) via leave-one-out; bias test.
   status: working
   last_known_result: "Fitted C ~5.6e-5 vs methodology note's 1e-4; residual bias r=0.55 with distance even after fitting"
   needs_review: false
 
-- name: src/modeling/baselines.py
+- name: legs/leg1_estimation/modeling/baselines.py
   type: code
   purpose: Trivial baselines for M7.5 (source-class midpoint, population average).
   status: working
-  last_known_result: "Class-midpoint baseline competitive with the statistical model on several metrics - see docs/feasibility_draft.md Section 6"
+  last_known_result: "Class-midpoint baseline competitive with the statistical model on several metrics - see legs/leg1_estimation/docs/feasibility_draft.md Section 6"
   needs_review: false
 
-- name: src/validation/build_validation_set.py
+- name: legs/leg1_estimation/validation/build_validation_set.py
   type: code
   purpose: Build the validation set of events with self-reported reference chirp mass, all runs.
   status: working
   needs_review: false
 
-- name: src/validation/metrics.py
+- name: legs/leg1_estimation/validation/metrics.py
   type: code
   purpose: percent_error, bin_hit, leave-one-out CV runner, summarize() (median/MAE/RMSE/bias/bin-hit).
   status: working
   needs_review: false
 
-- name: src/analysis/reports.py
+- name: legs/leg1_estimation/analysis/reports.py
   type: code
   purpose: Data-availability report (Experiment A) for an event table.
   status: working
   needs_review: false
 
-- name: run_pipeline.py
+- name: legs/leg1_estimation/run_pipeline.py
   type: code
-  purpose: Entry point - builds the O4a event table end to end.
+  purpose: Entry point - builds the O4a event table end to end. Run as `python3 -m legs.leg1_estimation.run_pipeline` from repo root.
   status: working
   last_known_result: "181 O4a events; 89% distance, 46% FAR, 45% classification, 0% reference chirp mass"
   needs_review: false
 
-- name: validate_estimator.py
+- name: legs/leg1_estimation/validate_estimator.py
   type: code
-  purpose: Entry point - compares physics/calibrated-physics/statistical/baseline estimators on the 49-event validation set.
+  purpose: Entry point - compares physics/calibrated-physics/statistical/baseline estimators on the 49-event validation set. Run as `python3 -m legs.leg1_estimation.validate_estimator` from repo root.
   status: working
-  last_known_result: "See docs/feasibility_draft.md Section 6 for the full results table"
+  last_known_result: "See legs/leg1_estimation/docs/feasibility_draft.md Section 6 for the full results table"
   needs_review: false
 
 - name: gcn_analysis.py
@@ -150,16 +150,16 @@
   purpose: Raw circular JSON files, one per circular ID.
   status: working
   last_known_result: "45,268 files; grows on each re-download since the live GCN archive is appended to"
-  dependencies: [src/ingestion/load_gcn_archive.py]
+  dependencies: [shared/ingestion/load_gcn_archive.py]
   needs_review: false
 
-- name: data/processed/o4a_event_table.csv
+- name: legs/leg1_estimation/data/processed/o4a_event_table.csv
   type: dataset
   purpose: Structured O4a event table, output of run_pipeline.py.
   status: working
   needs_review: false
 
-- name: data/processed/validation_results.csv
+- name: legs/leg1_estimation/data/processed/validation_results.csv
   type: dataset
   purpose: Per-event predictions from all four estimators/baselines, output of validate_estimator.py.
   status: working
@@ -189,7 +189,7 @@
   status: working
   needs_review: false
 
-- name: docs/feasibility_draft.md
+- name: legs/leg1_estimation/docs/feasibility_draft.md
   type: note
   purpose: Thesis draft - data availability, both estimators, calibration, validation results, decision-gate classification.
   status: working
@@ -201,7 +201,7 @@
   status: working
   needs_review: false
 
-- name: docs/pathfinder_design_draft.md
+- name: legs/leg3_pathfinder/docs/pathfinder_design_draft.md
   type: note
   purpose: GW Pathfinder architecture (design-only as of 2026-08-20; a minimal build is planned Days 8-10 of the sprint).
   status: partial

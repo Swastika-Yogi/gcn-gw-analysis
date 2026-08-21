@@ -5,21 +5,23 @@ Physics formula (chirp_mass_estimator.py, fixed SNR=15 assumption) vs.
 statistical model (statistical_estimator.py, log-linear on distance) -
 see the feasibility memo for why SNR being unrecoverable makes the physics
 formula the weaker of the two on real data.
+
+Run from the repo root as a module: `python3 -m legs.leg1_estimation.validate_estimator`
 """
 import csv
 import math
 
-from src.ingestion.load_gcn_archive import download_and_extract, load_circulars
-from src.modeling.apply_estimator import ASSUMED_C, ASSUMED_COS_IOTA, ASSUMED_SNR
-from src.modeling.baselines import class_midpoint_predictions, population_average_predictions
-from src.modeling.calibration import bias_test, loo_calibrated_predictions
-from src.modeling.chirp_mass_estimator import estimate_chirp_mass
-from src.processing.build_event_table import build_event_table
-from src.processing.group_by_event import filter_gw_circulars, group_by_event
-from src.validation.build_validation_set import build_validation_set
-from src.validation.metrics import bin_hit, leave_one_out, percent_error, summarize
+from shared.ingestion.load_gcn_archive import download_and_extract, load_circulars
+from legs.leg1_estimation.modeling.apply_estimator import ASSUMED_C, ASSUMED_COS_IOTA, ASSUMED_SNR
+from legs.leg1_estimation.modeling.baselines import class_midpoint_predictions, population_average_predictions
+from legs.leg1_estimation.modeling.calibration import bias_test, loo_calibrated_predictions
+from legs.leg1_estimation.modeling.chirp_mass_estimator import estimate_chirp_mass
+from shared.processing.build_event_table import build_event_table
+from shared.processing.group_by_event import filter_gw_circulars, group_by_event
+from legs.leg1_estimation.validation.build_validation_set import build_validation_set
+from legs.leg1_estimation.validation.metrics import bin_hit, leave_one_out, percent_error, summarize
 
-OUTPUT_CSV = "data/processed/validation_results.csv"
+OUTPUT_CSV = "legs/leg1_estimation/data/processed/validation_results.csv"
 
 
 def print_summary(label, summary):

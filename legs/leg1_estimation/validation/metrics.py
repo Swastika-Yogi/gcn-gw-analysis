@@ -25,7 +25,7 @@ def leave_one_out(predictor_columns, log_targets, rows):
     rows must align index-for-index with log_targets/predictor_columns.
     Returns a list of per-event result dicts.
     """
-    from src.modeling.statistical_estimator import fit_log_linear, predict_log_linear
+    from legs.leg1_estimation.modeling.statistical_estimator import fit_log_linear, predict_log_linear
 
     n = len(log_targets)
     results = []

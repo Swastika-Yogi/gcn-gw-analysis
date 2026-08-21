@@ -1,0 +1,72 @@
+\chapter{Materials and Methods}
+\label{ch:methods}
+
+\section{Data Source and Acquisition}
+
+The dataset is the full public \gls{gcn} circular archive (45{,}268 circulars at time of writing), downloaded via the \gls{gcn} API (\texttt{gcn.nasa.gov}) and cached locally. Each circular record includes its subject line, body text, circular ID, and submission timestamp.
+
+\section{Processing Pipeline}
+
+The pipeline (implemented in \texttt{shared/} and \texttt{legs/leg1\_estimation/}, see project code repository) performs the following steps in order:
+
+\begin{enumerate}
+    \item \textbf{Ingestion} -- download and load all circulars as structured records.
+    \item \textbf{GW filtering} -- a keyword screen (mentions of LIGO/Virgo/KAGRA) isolates GW-related circulars (3{,}624 of 45{,}268 in the current archive).
+    \item \textbf{Event identification} -- regex extraction of \gls{lvk} superevent IDs (\texttt{S\textless YYMMDD\textgreater\textless letter-suffix\textgreater}). The suffix grows from one letter to two (and rarely three) once a day's single-letter allocation is exhausted; an ID pattern restricted to one letter silently drops every event from a busy day. Correcting this nearly doubled the number of O4a events found in this study (79 to 181) -- a small methodological finding in its own right, since under-inclusive ID matching is an easy, easy-to-miss source of sample bias in circular-based studies.
+    \item \textbf{Grouping} -- circulars are grouped by event, optionally restricted to a named observing-run date window.
+    \item \textbf{Field extraction, with provenance} -- per-circular regex extraction of luminosity distance, false alarm rate, source classification probabilities (\gls{bbh}/\gls{bns}/\gls{nsbh}/Terrestrial), and, where present, chirp mass. Each extracted value is logged with its source circular ID and source text span for traceability.
+    \item \textbf{Event table construction} -- one row per event, taking the highest-confidence extraction per field across all circulars mentioning that event.
+\end{enumerate}
+
+\section{Data Availability Analysis}
+
+Restricting to the O4a observing run (2023-05-24 to 2024-01-16) as a case study, 181 events were identified. Field coverage is reported in Table~\ref{tab:availability} (Chapter~\ref{ch:results}). Two of the three inputs the physics-based estimator (Section~\ref{sec:physics-estimator}) requires -- network \gls{snr} and orbital inclination -- were found to be structurally absent from every circular checked, not merely difficult to parse: ``\gls{snr}'' appears in circular text, but almost always refers to an unrelated follow-up instrument's own detection significance (e.g., an X-ray or optical instrument's signal-to-noise in some energy band), never the \gls{lvk} trigger's network \gls{snr}.
+
+\section{Chirp-Mass Estimators}
+
+\subsection{Physics-Based (SNR-Scaling) Estimator}
+\label{sec:physics-estimator}
+
+Following the standard inspiral \gls{snr} expression, chirp mass can be written as
+
+\begin{equation}
+    \mathcal{M}_z = C \left( \frac{\rho \, D_L}{F(\iota)} \right)^{6/5}
+    \label{eq:physics-estimator}
+\end{equation}
+
+where $\rho$ is network \gls{snr}, $D_L$ is luminosity distance, $F(\iota)$ is an orientation factor bounded in $[0.5, 1.0]$, and $C$ absorbs detector-noise and unit-conversion terms. % TODO: this relation is drawn from an internal methodology note rather than a directly cited paper -- see the literature-review gap noted in Chapter~\ref{ch:literature}.
+
+Since $\rho$ and $\iota$ are unavailable per-event (Section~\ref{ch:methods}), this study used fixed assumed values ($\rho = 15$, $\cos\iota = 0.5$, representative of a confident detection) together with a calibration constant $C$ fit in two ways (Section~\ref{sec:calibration}).
+
+\subsection{Statistical (Empirical) Estimator}
+
+As an alternative that avoids assuming \gls{snr}, chirp mass was instead modeled as a log-linear function of a field that \emph{is} present in circulars:
+
+\begin{equation}
+    \log \mathcal{M} = a + b \cdot \log D_L
+    \label{eq:statistical-estimator}
+\end{equation}
+
+fit by ordinary least squares against events with a self-reported reference chirp mass (Section~\ref{sec:validation-set}). This is a population-level statistical relationship -- plausibly reflecting a real detection-selection effect (heavier, louder binaries are detectable to greater distances) -- not a per-event physical derivation, and is reported as such throughout.
+
+\subsection{Trivial Baselines}
+
+Two baselines with no fitting and no per-event information were added specifically to test whether the estimators above add real information beyond naive guessing: a \emph{source-class midpoint} baseline (predicts a fixed typical mass for the event's classified source type, e.g., \textasciitilde33~$M_\odot$ for \gls{bbh}), and a \emph{population-average} baseline (predicts the training-fold mean reference mass for every held-out event).
+
+\subsection{Calibration of the Constant C}
+\label{sec:calibration}
+
+The constant $C$ was originally taken directly from the methodology note ($1\times10^{-4}$), fit on a single worked example rather than against data. This study fits $C$ properly: since $\rho$ and $\iota$ are held fixed, $C$ is Equation~\ref{eq:physics-estimator}'s only free parameter, giving a closed-form fit (the geometric mean of $\mathcal{M}_{\text{true}} / (\rho D_L / F)^{6/5}$ across the calibration set). Fitting was done via leave-one-out cross-validation, so no event's true value ever leaks into its own prediction.
+
+\section{Validation Set}
+\label{sec:validation-set}
+
+O4a-era circulars report no reference chirp mass at all (Chapter~\ref{ch:results}), so validation used the full archive across all observing runs. 49 events report a chirp-mass bin directly, via the sentence ``the source chirp mass falls with highest probability in the bin (X, Y) solar masses,'' together with distance and a non-Terrestrial classification. This reference value is itself coarse -- \gls{lvk}'s low-latency pipeline reports mass as one of a small number of roughly factor-of-two-wide bins, not a continuous measurement -- so two metrics are used throughout: percentage error against the bin midpoint, and a bin-hit rate (whether the prediction falls inside the actual reported bin bounds), which is arguably the more honest target given how coarse the ground truth already is.
+
+\section{Evaluation Methodology}
+
+All estimator comparisons use leave-one-out cross-validation on the 49-event validation set: for each held-out event, any fitted parameters ($a$, $b$ in Equation~\ref{eq:statistical-estimator}; $C$ in Equation~\ref{eq:physics-estimator}) are re-fit on the remaining 48 events before predicting the held-out one. Reported metrics are median percentage error, percentage of events within $\pm25\%$, bin-hit rate, \gls{mae}, \gls{rmse}, and bias (signed mean error, to detect systematic over- or under-prediction).
+
+\section{GW Pathfinder: Design}
+
+A companion system, GW Pathfinder, is designed (though not fully implemented in this report -- see Chapter~\ref{ch:conclusion}) as a retrieval-grounded query tool over circulars and events: circular text is embedded and indexed, a query retrieves the relevant structured records produced by the pipeline above, and an \gls{llm} response layer answers only from what was retrieved, citing source circular IDs. This design is directly motivated by the \gls{llm}-reliability finding in Chapter~\ref{ch:results}: general-purpose \glspl{llm} asked to recall GW event parameters from memory alone gave inconsistent results, so Pathfinder is designed to ground every answer in retrieved data rather than model memory. The chirp-mass estimators above plug in as pluggable inference modules, invoked only when an event lacks a directly reported value, with their known error characteristics stated explicitly rather than presented as measurement.

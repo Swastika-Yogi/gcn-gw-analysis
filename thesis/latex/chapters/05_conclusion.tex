@@ -1,0 +1,34 @@
+\chapter{Conclusion and Recommendation}
+\label{ch:conclusion}
+
+\section{Summary of Findings}
+
+This project set out to determine whether \gls{gcn} circular text alone can support a fast, approximate chirp-mass estimate. The answer, established with evidence rather than assumed: not reliably with the standard \gls{snr}-scaling physics formula, because network \gls{snr} and orbital inclination are structurally absent from circular text -- confirmed both by a data-availability audit and by the formula's failure even after properly calibrating its one free constant (Chapter~\ref{ch:results}). A statistical alternative based on distance alone performs meaningfully better, though a trivial classification-based baseline tempers how much of that improvement is genuinely new information.
+
+\section{Contribution}
+
+The core contribution is not a proof that circular-level chirp-mass estimation works well -- it does not, cleanly, and this report states that plainly. The contribution is: a reproducible, provenance-tracked pipeline converting unstructured circular text into a structured, auditable dataset; an honest, quantified feasibility result that explains \emph{why} the physics-motivated approach falls short and what a data-driven alternative achieves instead; and a literature-grounded case, backed by a direct comparison study, for why an AI-assisted tool in this domain should be built on retrieval rather than model memory.
+
+\section{Limitations}
+
+\begin{itemize}
+    \item The validation set is small (49 events); leave-one-out cross-validation reduces, but does not eliminate, overfitting risk at this sample size.
+    \item Reference-mass events are, by construction, drawn from later observing runs than O4a, since O4a circulars never report this field; O4a data contributed to the availability audit but no validation examples.
+    \item The statistical model uses distance alone; \gls{far} and classification probability were tested as additional predictors and did not help at this sample size, though this may change as the archive accumulates more circulars with reference chirp mass.
+    \item No external reference catalog (e.g. \gls{gwtc}/\gls{gwosc}) was incorporated, by scope decision; doing so was identified as a possible future extension pending supervisor guidance on scope.
+\end{itemize}
+
+\section{Recommendation}
+
+Given the coarse, bin-quantized nature of the reference chirp mass values circulars do report, this project recommends that future work on this problem adopt ``predict the correct mass bin'' rather than a fixed percentage-error target as the primary success criterion, since the latter implicitly demands more precision than the ground truth itself provides.
+
+\section{Future Work}
+
+\begin{itemize}
+    \item Expand the historical validation sample as more circulars with reference chirp mass accumulate, or by incorporating an external catalog if scope permits.
+    \item Test whether source classification, more carefully combined with distance (rather than as a simple alternative baseline), improves on the current statistical estimator.
+    \item Develop an uncertainty-aware estimator rather than a point estimate.
+    \item Complete the AI-model comparison study on a larger, fresh event batch, and complete a working (not just designed) GW Pathfinder prototype.
+    \item Explore additional circular-derivable parameters beyond chirp mass (e.g. sky localization, detector count, event time) not yet incorporated into the pipeline.
+    \item Prepare a publication-quality version of the statistical analysis for the strongest result, per the project's longer-term research-paper goal.
+\end{itemize}

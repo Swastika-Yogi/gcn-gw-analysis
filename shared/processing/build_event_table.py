@@ -9,8 +9,8 @@ Design choices, made explicit per project-context section 12:
   since the LVK bin sentence doesn't state detector- vs source-frame
   (project context section 9.4).
 """
-from src.ingestion.load_gcn_archive import circular_text
-from src.parsing import classification_parser, distance_parser, far_parser, mass_parser, snr_parser
+from shared.ingestion.load_gcn_archive import circular_text
+from shared.parsing import classification_parser, distance_parser, far_parser, mass_parser, snr_parser
 
 CONFIDENCE_RANK = {"high": 2, "medium": 1, "low": 0}
 

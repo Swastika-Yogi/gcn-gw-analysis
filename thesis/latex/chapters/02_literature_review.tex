@@ -1,0 +1,51 @@
+\chapter{Literature Review}
+\label{ch:literature}
+
+% TODO: this chapter is a placeholder skeleton (Master Plan M2 is scheduled
+% for Days 4-5 of the sprint, after this file was first written). Fill in
+% each section as papers are read and annotated; a literature_database.md
+% is also planned to track full per-paper metadata.
+
+\section{Gravitational-Wave Fundamentals}
+
+% TODO: compact binary coalescence, chirp mass, SNR and detector sensitivity,
+% luminosity distance, source classification, low-latency GW analysis.
+% A general background slide deck (Adhikari, FTCC) covering the Newtonian
+% derivation of the inspiral chirp is available as a starting reference.
+
+\section{GW Data Infrastructure}
+
+% TODO: GWOSC, GWTC catalogs, GraceDB/public alerts, GCN Notices vs GCN
+% Circulars, and how O1-O4 observing-run differences bear on this project.
+
+\section{AI and Computational Methods in GW Astronomy}
+
+The following papers have been collected as relevant to applying \glspl{llm}/NLP methods to noisy scientific text, and specifically to \gls{gcn} circulars; full annotation is pending.
+
+\begin{itemize}
+    \item Large Language Models for Limited Noisy Data: A Gravitational Wave Identification Study
+    \item Large Language Model Driven Analysis of General Coordinates Network (GCN) Circulars
+    \item SeisGPT: A Physics-Informed Data-Driven Large Model for Real-Time Seismic Response Prediction
+    \item The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs
+    \item 32 Examples of LLM Applications in Materials Science and Chemistry
+    \item SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding
+\end{itemize}
+
+\section{Related Inspiration}
+
+% TODO: papers using circulars/notices for GRB or other transient inference;
+% for each, identify exactly which idea was adapted versus which is only
+% inspiration.
+
+Two adjacent ML papers were reviewed and explicitly \emph{not} adopted for this project's GW Pathfinder design, for documented reasons (see project notes): a knowledge-graph/matrix-factorization approach to predicting future concept-object associations in astronomy literature, and a retrieval-plus-local-refinement approach to accelerating posterior inference for pulsar light curves. Both informed the reasoning behind keeping GW Pathfinder scoped to catalog embedding, vector search, and grounded \gls{llm} responses, rather than a more complex retrieval-based parameter-estimation system.
+
+\section{Chirp-Mass/SNR Relation}
+
+The physics-based estimator in this project (Section~\ref{sec:physics-estimator}) starts from a standard inspiral \gls{snr} expression. % TODO: attach a proper literature citation for this starting relation rather than relying solely on the internal methodology note it was originally drawn from -- flagged explicitly in Chapter~\ref{ch:methods} as a traceability gap.
+
+\section{Research Gap}
+
+% TODO: once the above sections are filled in, state explicitly: what has
+% already been done, what problem remains, and why this project combines
+% intelligent data access with automated GW alert processing rather than
+% treating them separately.

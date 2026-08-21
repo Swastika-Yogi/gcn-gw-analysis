@@ -8,7 +8,7 @@ estimators, using only the training fold to avoid leakage.
 """
 import math
 
-from src.validation.metrics import bin_hit, percent_error
+from legs.leg1_estimation.validation.metrics import bin_hit, percent_error
 
 # Typical chirp-mass midpoints by source class (M_sun), consistent with the
 # bin structure LVK circulars report against (see mass_parser.py).

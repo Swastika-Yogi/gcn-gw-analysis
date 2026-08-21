@@ -4,29 +4,29 @@
 
 ## Entry points
 
-### `run_pipeline.py`
-- **Purpose:** Download/cache circulars, filter to GW-related, group by event within the O4a window, parse fields, print a data-availability report, save `data/processed/o4a_event_table.csv`.
+### `legs/leg1_estimation/run_pipeline.py`
+- **Purpose:** Download/cache circulars, filter to GW-related, group by event within the O4a window, parse fields, print a data-availability report, save `legs/leg1_estimation/data/processed/o4a_event_table.csv`.
 - **Inputs:** none (downloads from `https://gcn.nasa.gov/circulars/archive.json.tar.gz` if `./jsons/archive.json` doesn't already exist).
-- **Outputs:** `data/processed/o4a_event_table.csv`, stdout report.
+- **Outputs:** `legs/leg1_estimation/data/processed/o4a_event_table.csv`, stdout report.
 - **Packages:** `requests` (stdlib otherwise).
-- **Hard-coded paths:** `./jsons`, `data/processed/o4a_event_table.csv` — both relative to repo root, no credentials.
+- **Hard-coded paths:** `./jsons`, `legs/leg1_estimation/data/processed/o4a_event_table.csv` — both relative to repo root, no credentials.
 - **Status:** `WORKING`. Run repeatedly this session; last run: 181 O4a events, 89%/46%/45%/0% field coverage.
 
-### `validate_estimator.py`
-- **Purpose:** Build the all-runs event table, construct the 49-event validation set (self-reported reference mass, non-Terrestrial), run all four estimators/baselines via leave-one-out, print comparison, save `data/processed/validation_results.csv`.
+### `legs/leg1_estimation/validate_estimator.py`
+- **Purpose:** Build the all-runs event table, construct the 49-event validation set (self-reported reference mass, non-Terrestrial), run all four estimators/baselines via leave-one-out, print comparison, save `legs/leg1_estimation/data/processed/validation_results.csv`.
 - **Inputs:** none (same download/cache as above).
-- **Outputs:** `data/processed/validation_results.csv`, stdout report.
+- **Outputs:** `legs/leg1_estimation/data/processed/validation_results.csv`, stdout report.
 - **Packages:** stdlib only (`csv`, `math`).
 - **Status:** `WORKING`. Last run confirmed all four rows (physics uncalibrated / physics calibrated / statistical / two baselines) print and the CSV writes correctly.
 
-## `src/ingestion/`
+## `shared/ingestion/`
 
 ### `load_gcn_archive.py`
 - **Purpose:** `download_and_extract()` (skips download if `./jsons/archive.json` exists), `load_circulars()` (reads every JSON file, skips malformed ones silently), `circular_text()` helper.
 - **External API:** `gcn.nasa.gov` — public, no auth.
 - **Status:** `WORKING`.
 
-## `src/parsing/`
+## `shared/parsing/`
 
 All five parser modules take raw circular text and return a list of candidate matches with `confidence` and `source_text` for provenance. None have external dependencies or hard-coded paths.
 
@@ -37,12 +37,12 @@ All five parser modules take raw circular text and return a list of candidate ma
 - `classification_parser.py` — `WORKING`. **Bug found and fixed 2026-08-19:** regex only handled `(<1%)`, not `(>99%)`, silently dropping `p_bbh` and mislabeling `source_class` for high-confidence detections (the common case).
 - `snr_parser.py` — `WORKING` as a deliberate no-op. Checked: "SNR" in circular text is almost always an unrelated instrument's own follow-up SNR, not the LVK network SNR — confirmed by direct inspection of ~8 sample matches.
 
-## `src/processing/`
+## `shared/processing/`
 
 - `group_by_event.py` — `WORKING`. `RUN_WINDOWS` currently only defines `"O4a": (230524, 240116)`; add more named windows here if other runs get pulled in.
 - `build_event_table.py` — `WORKING`. Resolves multiple circulars per event by highest-confidence extraction per field (`CONFIDENCE_RANK`); logs every kept value to a provenance list.
 
-## `src/modeling/`
+## `legs/leg1_estimation/modeling/`
 
 - `chirp_mass_estimator.py` — `WORKING`. Implements `M_z = C * (rho*D_L/F(iota))^1.2`. `mass_frame` param currently only accepts `"detector"` — will raise `ValueError` otherwise (deliberate, not a bug).
 - `statistical_estimator.py` — `WORKING`. Hand-rolled OLS (Gaussian elimination) since numpy isn't installed in this environment — confirmed via `import numpy` failing on 2026-08-19.
@@ -50,12 +50,12 @@ All five parser modules take raw circular text and return a list of candidate ma
 - `calibration.py` — `WORKING`. Added 2026-08-20 for M6.2.
 - `baselines.py` — `WORKING`. Added 2026-08-20 for M7.5.
 
-## `src/validation/`
+## `legs/leg1_estimation/validation/`
 
 - `build_validation_set.py` — `WORKING`.
 - `metrics.py` — `WORKING`. `summarize()` extended 2026-08-20 to add MAE/RMSE/bias.
 
-## `src/analysis/`
+## `legs/leg1_estimation/analysis/`
 
 - `reports.py` — `WORKING`.
 
@@ -69,4 +69,15 @@ All five parser modules take raw circular text and return a list of candidate ma
 
 ## Deleted / historical
 
-- `gcn_analysis.py` — deleted 2026-08-19 (git commit `cec586b3`), fully superseded by the `src/` layout. Its output file `./o4a_gw_dataset.csv` is still sitting in the repo root — see `project_inventory.md`, flagged `needs_review`.
+- `gcn_analysis.py` — deleted 2026-08-19 (git commit `cec586b3`), fully superseded first by the `src/` layout and then (2026-08-20) by `shared/` + `legs/`. Its output file `./o4a_gw_dataset.csv` is still sitting in the repo root — see `project_inventory.md`, flagged `needs_review`.
+
+## Restructure log (2026-08-20)
+
+The original flat `src/` layout was split into `shared/` (ingestion/parsing/processing - genuinely used by both Leg 1 and the planned Leg 3) and `legs/leg1_estimation/` (modeling/validation/analysis/entry points - Leg 1-specific, though Leg 3 will import the estimator as a pluggable module). `legs/leg2_ai_comparison/` and `legs/leg3_pathfinder/` exist as placeholders for their respective legs' future code.
+
+**Entry points must now be run as modules from the repo root**, not as scripts, since they import from the top-level `legs`/`shared` packages:
+```
+python3 -m legs.leg1_estimation.run_pipeline
+python3 -m legs.leg1_estimation.validate_estimator
+```
+Confirmed both produce identical output to before the restructure (181 O4a events; same validation table numbers).

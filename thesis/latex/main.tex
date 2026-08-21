@@ -1,0 +1,86 @@
+% GW Pathfinder thesis - Tribhuwan University project-work format.
+% Structure follows: https://www.overleaf.com/latex/templates/tribhuwan-university-project-work-template/kgqnczfcbjrr
+%
+% COMPILE WITH XeLaTeX (required for polyglossia + the Devanagari abstract).
+% No LaTeX toolchain was available in the environment this was written in,
+% so this has NOT been test-compiled - open it on Overleaf (where the
+% reference template lives) and build once before relying on it.
+%
+% TODO markers throughout mark content that needs the student's/university's
+% specific details (name, roll number, supervisor, board members, dates).
+% Scientific content is drawn from docs/ and legs/*/docs/ where available.
+
+\documentclass[12pt,a4paper,oneside]{report}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{nepali}
+% TODO: uncomment once a Devanagari-capable font is confirmed installed on
+% the compiling machine (Overleaf has several preinstalled, e.g. below):
+% \newfontfamily\devanagarifont{Noto Sans Devanagari}
+
+\usepackage[a4paper,left=3.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{array}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=black, citecolor=black, urlcolor=blue}
+\usepackage{apacite}
+\usepackage[acronym]{glossaries}
+\makeglossaries
+\usepackage{titlesec}
+
+\counterwithin{figure}{chapter}
+\counterwithin{table}{chapter}
+\counterwithin{equation}{chapter}
+
+\input{frontmatter/acronyms}
+
+\title{Rapid Chirp-Mass Estimation and AI-Assisted Analysis of Gravitational-Wave GCN Circulars} % TODO: confirm final title with supervisor
+\author{Swastika Yogi} % TODO: confirm exact name as it should appear
+
+\begin{document}
+
+\pagenumbering{roman}
+
+\input{frontmatter/titlepage}
+\input{frontmatter/recommendation}
+\input{frontmatter/declaration}
+\input{frontmatter/letter_of_forward}
+\input{frontmatter/board_certificate}
+\input{frontmatter/acknowledgement}
+\input{frontmatter/abstract}
+\input{frontmatter/abstract_devanagari}
+
+\printglossary[type=\acronymtype,title={List of Acronyms and Abbreviations}]
+
+\listoftables
+\listoffigures
+\tableofcontents
+
+\clearpage
+\pagenumbering{arabic}
+
+\input{chapters/01_introduction}
+\input{chapters/02_literature_review}
+\input{chapters/03_materials_and_methods}
+\input{chapters/04_results_and_discussion}
+\input{chapters/05_conclusion}
+
+\bibliographystyle{apacite}
+\bibliography{references}
+
+% \appendix
+% \input{chapters/appendix}
+
+\end{document}

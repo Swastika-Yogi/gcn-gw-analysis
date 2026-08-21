@@ -1,0 +1,39 @@
+\chapter{Introduction}
+\label{ch:introduction}
+
+\section{Background}
+
+When gravitational-wave (\gls{gw}) detectors flag a candidate compact-binary merger, full parameter estimation -- the process that determines a source's mass, spin, and distance with confidence -- can take hours to days. In that window, the only public information available is a stream of \gls{gcn} Circulars: short, free-text bulletins written by the \gls{lvk} collaboration and by follow-up observers. Electromagnetic follow-up teams must decide where to point telescopes using only this text, before knowing, for instance, whether the merger even involved a neutron star.
+
+\section{Motivation}
+
+A fast, even approximate, chirp-mass estimate derived from circular text alone would let follow-up teams prioritize candidates -- distinguishing, for example, likely binary neutron star mergers, which can produce electromagnetic counterparts, from binary black hole mergers, which generally do not -- before full parameter estimation is available.
+
+\section{Problem Statement}
+
+Two questions motivate this work:
+
+\begin{enumerate}
+    \item What physical information do \gls{gcn} circulars actually contain, and how completely?
+    \item Can that information support a chirp-mass estimate accurate and reliable enough to be useful, using the standard \gls{snr}-scaling relation as a starting point?
+\end{enumerate}
+
+A secondary, related question emerged from department discussion: given the demonstrated unreliability of general-purpose \glspl{llm} on precise scientific parameter recall (Chapter~\ref{ch:results}), what does that imply for the design of any AI-assisted tool built on top of this data -- including the GW Pathfinder concept this project also develops?
+
+\section{Objectives}
+
+\begin{enumerate}
+    \item Build a reproducible pipeline that converts the raw \gls{gcn} circular archive into a structured, per-event dataset with field-level provenance.
+    \item Quantify, empirically, what fraction of events have each field a chirp-mass estimator might need.
+    \item Implement and honestly validate a physics-based chirp-mass estimator against a validation set of self-reported reference values, including proper calibration (not just literature-quoted constants).
+    \item Implement and compare a statistical alternative that does not require the SNR assumption the physics estimator depends on.
+    \item Evaluate general-purpose \glspl{llm} on GW-domain information-extraction tasks, and use the result to motivate the design of a retrieval-grounded query tool (GW Pathfinder).
+\end{enumerate}
+
+\section{Contributions}
+
+The core contribution of this project is not a proof that circular-level chirp-mass estimation works well -- it does not, cleanly, and this report says so with evidence (Chapter~\ref{ch:results}). The contribution is: a reproducible, provenance-tracked data pipeline; an honest, quantified feasibility result, including \emph{why} the physics-motivated approach underperforms and what a data-driven alternative achieves instead; and a literature-grounded case for why any \gls{llm}-assisted tool in this domain should be built on retrieval rather than model memory.
+
+\section{Report Organization}
+
+Chapter~\ref{ch:literature} reviews relevant background across \gls{gw} fundamentals, data infrastructure, and AI/NLP methods in astronomy. Chapter~\ref{ch:methods} describes the data pipeline, both chirp-mass estimators, and their calibration/validation methodology. Chapter~\ref{ch:results} presents the data-availability, estimator, and \gls{llm}-comparison results. Chapter~\ref{ch:conclusion} discusses findings, limitations, and future work.

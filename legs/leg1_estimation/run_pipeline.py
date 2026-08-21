@@ -1,19 +1,22 @@
 """End-to-end O4a pipeline: ingest -> filter -> group -> parse -> event table -> report.
 
 Modeling (chirp-mass estimation) is applied per-event on demand via
-src/modeling/chirp_mass_estimator.py rather than baked into this script,
-since it depends on assumptions (SNR range, orientation) that should stay
-explicit and inspectable rather than hidden in a batch run.
+legs/leg1_estimation/modeling/chirp_mass_estimator.py rather than baked into
+this script, since it depends on assumptions (SNR range, orientation) that
+should stay explicit and inspectable rather than hidden in a batch run.
+
+Run from the repo root as a module (needed so the `legs`/`shared` packages
+resolve): `python3 -m legs.leg1_estimation.run_pipeline`
 """
 import csv
 
-from src.analysis.reports import data_availability_report, print_report
-from src.ingestion.load_gcn_archive import download_and_extract, load_circulars
-from src.modeling.apply_estimator import add_chirp_mass_estimates
-from src.processing.build_event_table import build_event_table
-from src.processing.group_by_event import RUN_WINDOWS, filter_gw_circulars, group_by_event
+from legs.leg1_estimation.analysis.reports import data_availability_report, print_report
+from shared.ingestion.load_gcn_archive import download_and_extract, load_circulars
+from legs.leg1_estimation.modeling.apply_estimator import add_chirp_mass_estimates
+from shared.processing.build_event_table import build_event_table
+from shared.processing.group_by_event import RUN_WINDOWS, filter_gw_circulars, group_by_event
 
-OUTPUT_CSV = "data/processed/o4a_event_table.csv"
+OUTPUT_CSV = "legs/leg1_estimation/data/processed/o4a_event_table.csv"
 
 
 def _mark_missing_as_na(rows):

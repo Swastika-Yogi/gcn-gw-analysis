@@ -1,0 +1,82 @@
+\chapter{Results and Discussion}
+\label{ch:results}
+
+\section{Data Availability}
+
+Table~\ref{tab:availability} summarizes field coverage across the 181 O4a events identified (Chapter~\ref{ch:methods}).
+
+\begin{table}[H]
+\centering
+\caption{Field coverage, O4a observing run (181 events)}
+\label{tab:availability}
+\begin{tabular}{@{}lrl@{}}
+\toprule
+Field & Coverage & Notes \\
+\midrule
+Luminosity distance & 89\% & \textasciitilde half include an explicit uncertainty \\
+False alarm rate & 46\% & spans 45 orders of magnitude \\
+Source classification & 45\% & mostly BBH in this run \\
+Network SNR & 0\% & never the LVK trigger's own value in circular text \\
+Orbital inclination & 0\% & not reported in any circular checked \\
+Reference chirp mass & 0\% & the bin sentence only appears in later-run circulars \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Estimator Comparison}
+
+Table~\ref{tab:results} reports leave-one-out cross-validation results on the 49-event validation set (Section~\ref{sec:validation-set}).
+
+\begin{table}[H]
+\centering
+\caption{Estimator comparison, 49-event validation set, leave-one-out}
+\label{tab:results}
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+Estimator & Median error & Within $\pm25\%$ & Correct bin \\
+\midrule
+Physics, C fixed (literature value) & 115\% & 5/49 (10\%) & 7/49 (14\%) \\
+Physics, C properly fit (LOO) & 45\% & 13/49 (27\%) & 20/49 (41\%) \\
+Statistical (distance only) & 33\% & 17/49 (35\%) & 25/49 (51\%) \\
+Baseline: source-class midpoint & 50\% & 23/49 (47\%) & 23/49 (47\%) \\
+Baseline: population average (LOO) & 50\% & 0/49 (0\%) & 23/49 (47\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Adding \gls{far} or \gls{bbh}-classification probability as additional regression predictors did not improve the statistical model (median error rose to 36--41\%); with only 49 samples, extra predictors overfit rather than add signal, and \gls{bbh} probability has little variance across the sample (mostly 96--99\%).
+
+\subsection{Calibration Findings}
+
+The methodology note's $C = 1\times10^{-4}$ was fit on a single worked example, not against data. Fitting it properly (Section~\ref{sec:calibration}) gives a fitted $C \approx 5.6\times10^{-5}$ -- about 1.8 times smaller than the literature value -- and cuts the physics formula's median error from 115\% to 45\%. The fitted $C$ is stable across folds (5.44 to 5.78 $\times10^{-5}$ across all 49 leave-one-out refits), so instability in $C$ is not the limiting factor.
+
+Even with a properly fit $C$, the physics formula's log-residuals correlate with log-distance at $r = 0.55$ -- a substantial systematic bias. $C$ is a single global constant, but the fixed-\gls{snr} assumption it stands in for is intrinsically distance-dependent in reality (true \gls{snr} falls off with distance; the model holds it fixed). No choice of $C$, however well fit, can absorb a bias that varies systematically with an input the model treats as constant -- clear evidence the physics formula's shortfall is structural, not a calibration problem.
+
+\subsection{The Trivial Baseline Finding}
+
+A source-class-midpoint baseline -- no distance, no fitting, no per-event information beyond the classification label -- achieves a 47\% within-$\pm25\%$ rate and a 47\% bin-hit rate, both close to (and on the $\pm25\%$ metric, better than) the distance-only statistical model's 35\%/51\%. Since heavier \gls{bbh} systems are both louder and visible further out, distance and source class are correlated, so the statistical model's apparent skill substantially overlaps with what source classification alone already provides. The population-average baseline, by contrast, is uniformly poor (0\% within $\pm25\%$), confirming that per-event structure of \emph{some} kind -- whether from class or distance -- is genuinely needed; the open question is how much credit distance deserves independently of class.
+
+\subsection{Decision-Gate Classification}
+
+Following the project's decision-gate taxonomy (\texttt{validated\_approximation} $\mid$ \texttt{useful\_constraint} $\mid$ \texttt{exploratory\_only} $\mid$ \texttt{unsupported}):
+
+\begin{itemize}
+    \item \textbf{Physics (SNR-scaling) estimator: \texttt{unsupported}.} Fails even after properly fitting its calibration constant, with a systematic, physically-explained bias that no calibration choice removes.
+    \item \textbf{Statistical (distance-only) estimator: \texttt{useful\_constraint}.} Not a validated per-event measurement, but a real, reproducible signal (best \gls{mae} and bin-hit rate of any method tested) useful for narrowing the plausible mass range -- with the caveat that a zero-fitting class-based baseline is competitive on several metrics, so this credits ``distance plus whatever it correlates with,'' not distance as an independently powerful signal.
+\end{itemize}
+
+\section{AI-Model Comparison Study}
+
+% TODO: this section is a placeholder pending the fresh comparison batch
+% planned for Days 6-7 of the sprint. Initial (~50-event) results using a
+% structured Role/Task/Context/Reasoning/Output/Stopping prompting framework
+% across five free-tier LLMs (ChatGPT, Gemini, Claude, DeepSeek, Grok) showed
+% inconsistent reliability -- some models correctly identified non-BBH events
+% and cited catalogs cleanly, others gave partial or unverifiable answers
+% from memory alone. Full results and analysis to be added here.
+
+\section{GW Pathfinder Evaluation}
+
+% TODO: pending the minimal prototype build (sprint Days 8-10). This section
+% will report the M9.4 test-question evaluation (factual retrieval,
+% comparison, filtering, out-of-scope categories) once the prototype exists.

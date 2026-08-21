@@ -1,6 +1,6 @@
 """Group circulars by LVK superevent ID, optionally restricted to a run window."""
-from src.ingestion.load_gcn_archive import circular_text
-from src.parsing.event_id_parser import extract_event_ids, is_gw_related
+from shared.ingestion.load_gcn_archive import circular_text
+from shared.parsing.event_id_parser import extract_event_ids, is_gw_related
 
 
 def filter_gw_circulars(circulars):

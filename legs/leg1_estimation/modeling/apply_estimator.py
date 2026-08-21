@@ -10,7 +10,7 @@ reference set, which isn't possible for O4a (no reference_chirp_mass in
 circulars for this run). Treat every value produced here as illustrative,
 not validated, until that calibration step happens.
 """
-from src.modeling.chirp_mass_estimator import estimate_chirp_mass
+from legs.leg1_estimation.modeling.chirp_mass_estimator import estimate_chirp_mass
 
 ASSUMED_SNR = 15
 ASSUMED_COS_IOTA = 0.5
