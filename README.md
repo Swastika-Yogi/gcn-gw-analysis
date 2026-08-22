@@ -25,14 +25,16 @@ Current verified numbers (see `docs/feasibility_draft.md` for full results): 181
 
 ## Changelog
 
-Dated log of substantive changes, kept per the master plan's reproducibility principle. Newest first.
+Dated, one-line-per-change log — kept terse on purpose. For the fuller day-by-day story (what was hard, what's still open, what needs supervisor input), see `docs/progress_log.md`. Newest first.
 
+- **2026-08-20** — Added `docs/progress_log.md` (detailed daily record) and five reference notes under `docs/references/`; deleted the stale pre-fix `.\o4a_gw_dataset.csv`.
+- **2026-08-20** — Added a LaTeX thesis skeleton (`thesis/latex/`) matching the Tribhuwan University template structure; real research content in Chapters 1/3/4/5, institutional front-matter left `TODO`.
 - **2026-08-20** — Restructured the repo into `shared/` + `legs/{leg1_estimation,leg2_ai_comparison,leg3_pathfinder}/`, one folder per thesis leg plus the pipeline they share. Entry points now run as modules (`python3 -m legs.leg1_estimation.run_pipeline`); confirmed identical output to before the move.
 - **2026-08-20** — Environment audit: confirmed direct `pip install` is blocked (PEP 668) but works via a venv; no LLM API key configured (needed before the Pathfinder prototype, planned ~Day 8-9).
 - **2026-08-20** — `M1`: wrote `project_inventory.md` and `code_audit.md`; found the governing plan documents only existed as pasted chat content and saved them to `docs/`.
-- **2026-08-20** — `M7.5`: added two trivial baselines (`src/modeling/baselines.py`) — found the source-class-midpoint baseline is competitive with the statistical model on several metrics, now documented as an explicit caveat in `docs/feasibility_draft.md`.
-- **2026-08-20** — `M7.3`: added MAE/RMSE/bias to `src/validation/metrics.py`.
-- **2026-08-20** — `M6.2`: properly fit and validated the physics formula's calibration constant C (`src/modeling/calibration.py`, leave-one-out, no leakage). Median error improved 115%→45%, but a residual bias (r=0.55 with distance) survives calibration — evidence the shortfall is structural, not a bad constant.
+- **2026-08-20** — `M7.5`: added two trivial baselines (`legs/leg1_estimation/modeling/baselines.py`) — found the source-class-midpoint baseline is competitive with the statistical model on several metrics, now documented as an explicit caveat in `legs/leg1_estimation/docs/feasibility_draft.md`.
+- **2026-08-20** — `M7.3`: added MAE/RMSE/bias to `legs/leg1_estimation/validation/metrics.py`.
+- **2026-08-20** — `M6.2`: properly fit and validated the physics formula's calibration constant C (`legs/leg1_estimation/modeling/calibration.py`, leave-one-out, no leakage). Median error improved 115%→45%, but a residual bias (r=0.55 with distance) survives calibration — evidence the shortfall is structural, not a bad constant.
 - **2026-08-19** — Built the 49-event validation set (all runs, self-reported reference chirp mass) and the statistical (distance-only) estimator; found it outperforms the physics formula (33% vs 115% median error).
 - **2026-08-19** — Restructured the original single-file `gcn_analysis.py` into the modular `src/` layout; deleted the superseded script.
 - **2026-08-19** — Fixed the event-ID regex (was silently dropping multi-letter-suffix events — O4a count went 79→181) and the classification regex (was missing `>99%` format, corrupting `source_class`).
