@@ -19,6 +19,30 @@ The dataset is the full public GCN circular archive (45,268 circulars at time of
 5. **Field extraction, with provenance** — per-circular regex extraction of luminosity distance, false alarm rate (FAR), source classification probabilities (BBH/BNS/NSBH/Terrestrial), and, where present, chirp mass. Each extracted value is logged with its source circular ID and source text for traceability.
 6. **Event table construction** — one row per event, taking the highest-confidence extraction per field across all circulars mentioning that event.
 
+### 2.1 Extraction accuracy: a manual gold-sample audit (M4.4)
+
+The parsers above were checked against manually annotated ground truth, not just assumed correct. `legs/leg1_estimation/analysis/gold_sample_audit.py` holds two fixed, seeded samples, each hand-annotated by reading the raw circular text directly (recording what's actually there *before* looking at parser output):
+
+- A 30-circular general sample, drawn from the identification+update pool (the two circular types that carry almost all real field content — Section 3.2), covering distance/FAR/classification.
+- A 15-circular O4c-only sample, since the reference-chirp-mass bin sentence doesn't exist before O4c (Section 3.2) — the general sample alone would have zero true positives for this field, too few to estimate anything from.
+
+| Field | TP | FP | FN | TN | Precision | Recall | F1 |
+|---|---|---|---|---|---|---|---|
+| Distance | 27 | 0 | 0 | 3 | 1.00 | 1.00 | 1.00 |
+| FAR | 17 | 0 | 0 | 13 | 1.00 | 1.00 | 1.00 |
+| Classification | 17 | 0 | 0 | 13 | 1.00 | 1.00 | 1.00 |
+| Chirp mass (O4c sample) | 12 | 0 | 0 | 3 | 1.00 | 1.00 | 1.00 |
+
+All four parsers score perfectly on both presence/absence and, for every true positive, the extracted *value* against the hand-read value. This isn't a claim that the parsers are flawless in general — it's a claim about this specific 45-circular audit — but the audit process itself was worth doing regardless of the clean scorecard, because it surfaced two real issues that a scorecard alone would have hidden:
+
+**A real bug, found and fixed.** `far_parser.py`'s regex treated bare, case-insensitive "far" as a reliable stand-in for the "FAR" abbreviation, with no word boundary against the ordinary English word. During annotation this was caught as a live false-positive risk, then confirmed directly: the sentence *"So far, only 0.003 percent of the localization region has been covered"* — nothing to do with false alarm rate — was silently parsed as FAR = 0.003 Hz. Fixed by requiring the bare abbreviation to appear as exact-case `FAR`, while keeping the full phrase "false alarm rate" case-insensitive (real circulars almost always spell it out; the bare abbreviation, when used, is written in caps). Verified this didn't regress real coverage — per-event FAR coverage on the full archive is unchanged (317/505 before and after) — while per-circular spurious matches dropped (Section 3.2's "lvk_other" and "external_followup" FAR columns: 13→9 and 4→3 respectively), confirming the fix removed noise rather than signal.
+
+**A silent, low-impact information loss.** One sampled circular's archived text has its "±" character corrupted to a Unicode replacement character — an artifact of the archive itself, not this pipeline. The high-confidence "value ± error" regex correctly fails to match the corrupted symbol; the medium-confidence fallback still recovers the correct central value, but the real uncertainty bound is silently dropped, indistinguishable from an event that genuinely reported no uncertainty. Left as a documented limitation rather than special-cased, since detecting arbitrary encoding corruption is out of scope here.
+
+**A boundary the M5.1 circular-type breakdown gets wrong, that field extraction doesn't.** Two of the 30 sampled circulars (an IceCube neutrino follow-up, a GROWTH galaxy cross-match) are not LVK-authored, but their subject lines conventionally open with `LIGO/Virgo <event-id>:` — the same convention LVK's own circulars use — so Section 3.2's subject-pattern circular-type classifier mislabels them as LVK "update"/"identification" circulars. This means that table's `external_followup` row is a slight undercount and `update`/`lvk_other` slight overcounts; a limitation of that specific classification heuristic, not of the four field-extraction parsers, which correctly extracted nothing field-wise from either (bar one genuine edge case, next).
+
+**A genuine ambiguity, not a bug.** That same GROWTH circular reports a direction-conditioned posterior distance (`DISTMU = 272.35 Mpc`, evaluated at one external candidate's sky position) using the literal word "distance" — the parser's match is correct by its own definition, but this is a different quantity from the whole-sky-marginalized luminosity distance the LVK circulars themselves report. No fix applied; recorded as a known edge case a keyword-based parser can't be expected to distinguish.
+
 ## 3. Data Availability
 
 Restricting to the O4a observing run (2023-05-24 to 2024-01-16) as a case study, 181 events were identified. Field coverage:
@@ -47,6 +71,74 @@ The table above restricts to O4a as a case study. Repeating the same check acros
 | Complete case (distance + FAR) | 45.3% | 62.4% |
 
 Coverage is meaningfully *better* once later runs are included, not worse — FAR and classification both improve by roughly 17 percentage points, and distance coverage only dips slightly. The most likely explanation is that LVK's circular-writing template became more complete and standardized over time, so later-run circulars report more fields consistently than O4a-era ones did — itself a small additional finding: data quality here is improving as the observing program matures, not staying flat. The reference-chirp-mass figure (51 events, 10.1%) is the same population that makes up the validation set in Section 5.
+
+### 3.2 Full breakdown: by run, source class, and circular type (M5.1)
+
+`legs/leg1_estimation/analysis/availability_analysis.py` runs this breakdown directly from the archive (505 S-ID events, O3a through O4c; O1/O2 predate the `S`-prefixed superevent ID scheme and are out of scope for this ID-based grouping).
+
+**By observing run:**
+
+| Run | n | Distance | FAR | Classification | Chirp mass |
+|---|---|---|---|---|---|
+| O3a | 54 | 72.2% | 61.1% | 63.0% | 0.0% |
+| O3b | 42 | 76.2% | 54.8% | 50.0% | 0.0% |
+| O4a | 181 | 89.0% | 45.9% | 44.8% | 0.0% |
+| O4b | 122 | 90.2% | 86.1% | 86.1% | 0.0% |
+| O4c | 87 | 82.8% | 78.2% | 77.0% | 58.6% |
+
+The reference-chirp-mass bin sentence is not merely rare in earlier runs — it is **completely absent from every run before O4c** (0/400 across O3a–O4b) and present in the majority of O4c events (51/87, 58.6%). This is a stronger and more specific finding than the earlier "10.1% overall" figure suggested: it means the entire circular-only validation set (Section 5) is drawn from a single, recent observing run by construction, not a coincidence of which events happened to report the field. FAR and classification both show the same O4b/O4c jump already noted above, now visible run-by-run rather than only "O4a vs. everything else."
+
+**By source class** (among the 313 events with a classification):
+
+| Class | n | Distance | FAR | Chirp mass |
+|---|---|---|---|---|
+| BBH | 285 | 100.0% | 99.6% | 16.8% |
+| NSBH | 11 | 100.0% | 100.0% | 0.0% |
+| BNS | 7 | 100.0% | 100.0% | 0.0% |
+| Terrestrial | 10 | 90.0% | 100.0% | 20.0% |
+
+BBH accounts for 285/313 (91%) of all classified events — this is the direct, quantified explanation for why every validation set built in this project so far has been overwhelmingly BBH (Sections 6 and 7): it reflects the real composition of the archive, not a sampling artifact of this pipeline.
+
+**By circular type** (per-circular, not per-event — i.e. which *type* of circular actually carries each field):
+
+| Type | n | Distance | FAR | Classification | Chirp mass |
+|---|---|---|---|---|---|
+| identification | 329 | 94.2% | 97.9% | 93.3% | 15.2% |
+| update | 361 | 90.0% | 2.2% | 8.6% | 0.8% |
+| retraction | 58 | 0.0% | 0.0% | 0.0% | 0.0% |
+| external follow-up | 80 | 23.8% | 3.8% | 2.5% | 0.0% |
+| lvk_other | 2,796 | 18.6% | 0.3% | 0.1% | 0.0% |
+
+("identification" = the initial LVK alert circular, subject-matched on "Identification of a GW compact binary merger candidate"; "update" = any other LVK circular whose subject contains "update", e.g. revised sky localization or distance; "lvk_other" = LVK-issued circulars that are neither, e.g. non-detection or instrument-status notices; "external_followup" = circulars from other observatories reporting their own follow-up, which only mention the event ID.) FAR, classification, and chirp mass are almost entirely carried by the single initial identification circular — updates overwhelmingly revise distance/sky-location and rarely restate the others. This validates a modeling choice already built into the pipeline (`build_event_table.py` takes the highest-confidence value per field across all circulars for an event): for FAR/classification/mass, that is functionally equivalent to "read the identification circular," since almost nothing else supplies these fields. Retractions carry no field values at all, as expected for a withdrawn candidate.
+
+**Typical uncertainty when reported:**
+
+- Distance: 316/422 (74.9%) of distance-bearing events include an explicit ± bound; median relative half-width 29.2%.
+- Chirp mass: all 51 reference values are bin midpoints with median relative half-bin-width 33.3% — a genuinely wide bin, not a tight measurement. This is useful context for the error percentages reported throughout Sections 6–7: a chirp-mass estimate landing within ±33% of the true value is roughly the same order as the uncertainty already built into the reference value itself.
+- FAR and classification are reported as single point values / point probabilities in circular text, with no uncertainty given — marked not applicable rather than assigning a number that isn't actually there.
+
+### 3.3 Direct vs. approximated quantities (M5.2)
+
+Synthesizing the availability findings above against what each estimator actually needs:
+
+| Parameter | Directly available | Source | Required for | Approximation if missing | Scientific risk |
+|---|---|---|---|---|---|
+| Luminosity distance | Sometimes (83.6%; 94.2% in identification circulars) | LVK identification/update circulars, whole-sky posterior mean ± std | Physics estimator, statistical estimator | None — event dropped (`no_distance` flag) | Low. Real posterior value with reported uncertainty (median 29.2% relative half-width) when present; risk concentrated only in the ~16% of events missing it entirely. |
+| False alarm rate | Sometimes (62.8%) | Identification circular's online-analysis FAR | FAR→SNR proxy only | None — proxy unavailable for that event | Low–moderate. FAR itself is a real reported value; the derived SNR estimate carries its own error (10.7% median, worse for the most significant events, Section 6). |
+| Source classification | Sometimes (62.0%) | Identification circular's classification probabilities | Class-midpoint baseline, combined class+distance model | None — combined model falls back to distance-only | Low. Section 6's result (class adds nothing beyond distance) means this gap costs nothing for the strongest current estimator. |
+| Network SNR | Essentially never (0%) | Not directly available — "SNR" in circulars is almost always an unrelated instrument's own value | Physics estimator (dominant input) | (a) fixed assumed ρ=15 — high risk; (b) FAR→SNR proxy — 10.7% median error; (c) real value via GWTC catalog crosswalk — zero error but only for the 214 catalog-matched events, not new/unreleased ones | **High.** The single largest source of physics-estimator error found in this project (Section 6: real SNR alone cuts median error from 46.6% to 31.5%). |
+| Orbital inclination | Never (0%) | Not directly available | Physics estimator's orientation factor F(ι) | Fixed cos ι = 0.5 throughout | Moderate but secondary. Bounded in [0.5, 1.0] by construction (caps its own maximum contribution, unlike SNR which is effectively unbounded); not yet tested empirically — flagged in Sections 9–10. |
+| Reference chirp mass (bin) | Sometimes, structurally run-dependent (10.1% overall; 0% before O4c, 58.6% in O4c) | LVK identification circular's chirp-mass-bin sentence — itself coarse (median relative half-bin-width 33.3%), not a continuous measurement | Not an input — this is the *validation target* | GWTC catalog cross-matching (Section 6) supplies a real, continuous chirp mass for 214 events vs. 49 from circular self-report alone — already adopted as the practical answer | Low once catalog-matched; circular self-report alone would otherwise be a narrow, recent-run-only, quantization-limited ground truth. |
+
+### 3.4 Additional discoveries (M5.3)
+
+Findings noticed along the way that weren't part of the original plan, collected here rather than left scattered:
+
+- **Correlations not originally planned.** Field coverage improves substantially between O4a and O4b/O4c (Section 3.2) — FAR and classification both jump from ~45% to ~78-86% — evidence LVK's circular-writing template became more complete over time, not that later events are intrinsically better-documented. Separately, the physics estimator's residual error correlates with distance even after calibration (r=0.55, Section 6/8) — the direct signature of a missing SNR term, since farther, quieter events are exactly where a fixed-SNR assumption breaks down hardest.
+- **A useful parameter beyond chirp mass, not yet used.** Sky-localization area ("90% credible region is X deg²") appears in **299/505 events (59.2%)** — comparable coverage to FAR and classification, and not currently extracted by this pipeline. It's a plausible secondary parameter for future work: it correlates mechanically with distance and detector-network size, and would be directly useful for the GW Pathfinder leg (Section on Pathfinder) as a retrievable field electromagnetic follow-up teams actually query for.
+- **Secondary scientific question worth naming.** Since localization area, distance, and network SNR are all connected through detector geometry, a natural follow-on question is whether SNR itself could be *partially* proxied from localization area the same way it was from FAR (Section 6) — not attempted here, but a concrete, testable extension.
+- **Unexpected data-quality issues**, both already documented in the M4.4 audit above: an archive-side Unicode corruption of the "±" character that silently drops (not corrupts) reported uncertainty bounds; and inline post-publication correction notices (e.g. "[GCN OPS NOTE...]") embedded directly in body text, which didn't cause a parsing error in the events checked but are a latent risk for any future keyword-proximity parser added to this pipeline.
+- **Decision on thesis inclusion.** The template-maturity and residual-distance-correlation findings are already written into Sections 3.2 and 8 respectively. The sky-localization-area coverage number is recorded here and flagged as future work (Section 10) rather than built out further this session, since it's a new parameter, not a refinement of chirp-mass estimation — in scope for a follow-on, not for the current estimator comparison.
 
 ## 4. Two Estimators
 
@@ -104,6 +196,28 @@ The proxy is *least* accurate for the most significant events — likely because
 
 Applying the proxy downstream — predicting SNR from each circular's own extracted FAR, then feeding that into the physics formula with the same leave-one-out C-fitting procedure used throughout — gives a real but modest improvement on the 49-event circular-only set: median error falls from 44.8% (fixed SNR = 15) to 39.5%, within-±25% rises from 13/49 to 16/49. That is a smaller gain than the FAR-range table above might suggest, and the reason is traceable rather than mysterious: the 49 circular-only events have a median FAR of 4.1×10⁻³/yr — squarely in the harder 15.6%-error band, not the easy 5–6% band. (None of these 49 events are themselves in the catalog yet — they are all more recent than the latest GWTC release — so the proxy's accuracy on this exact population cannot be checked directly; the FAR-stratified result above is the best available evidence for what to expect.)
 
+**Revisiting the combined class+distance model.** Earlier in this investigation, extending the distance-only statistical model with source classification was attempted and abandoned: the 49-event circular-only set is 48/49 (98%) BBH, with no real class diversity to test against. The 214-event catalog-backed set is different — 206 BBH, 5 NSBH, 2 Terrestrial, 1 BNS. Still thin for NSBH/BNS individually (a single-example BNS dummy would have zero degrees of freedom and simply memorize that one point), so classification enters as a single binary predictor (BBH vs. everything else) rather than per-class dummies — a real limitation, stated rather than hidden. On the 212 non-Terrestrial events:
+
+| Model | Median % error | Within ±25% | Within ±50% |
+|---|---|---|---|
+| Distance only | 27.8% | 98/212 (46%) | 146/212 (69%) |
+| Class only (BBH vs. not) | 38.5% | 58/212 (27%) | 135/212 (64%) |
+| Distance + class (combined) | 28.9% | 98/212 (46%) | 149/212 (70%) |
+
+This time the answer is clean rather than ambiguous: distance alone is the stronger single predictor, and adding class on top of it does not meaningfully help (28.9% vs. 27.8% median — marginally worse, not better). With real class diversity available, this properly resolves what the 49-event set couldn't test — class does not add independent signal beyond distance, at least at this sample size and with a binary class split.
+
+A second, unplanned finding sits alongside this: distance-only on the larger, more diverse 212-event set (27.8% median) is now competitive with — and by this metric, marginally better than — the physics formula given real catalog SNR (31.5%, Section 6 above). The simplest circular-derivable statistical model matches or exceeds a physically-motivated formula that requires information circulars cannot supply.
+
+**Run-specific calibration (M6.3).** The M6.2 checklist named this as untested: does fitting the physics formula's calibration constant C separately per observing run, instead of one constant across all runs, reduce error? Now that `shared/processing/group_by_event.py` has real per-run date windows (Section 3.2) and the 214-event catalog-backed set spans four runs with real SNR, this is directly testable (`legs/leg1_estimation/validate_run_stratified_calibration.py`), using leave-one-out at every level so no event's own value leaks into its own fold.
+
+| Calibration | Median % error | Within ±25% | Within ±50% |
+|---|---|---|---|
+| One global C (all 214 events) | 31.5% | 88/214 (41%) | 171/214 (80%) |
+| Per-run C (O3a/O3b/O4a/O4b separately) | 26.6% | 97/214 (45%) | 175/214 (82%) |
+| Per-era C (O3 vs. O4, merging a/b) | 26.6% | 98/214 (46%) | 177/214 (83%) |
+
+Splitting by run does help — but not uniformly, and the reason why is itself informative. Looking at the fitted C values directly: O3a and O3b fit to C ≈ 8.8–8.9×10⁻⁵, while O4a and O4b fit to C ≈ 5.86–5.90×10⁻⁵ — a genuine ~50% difference between the two observing-run eras, consistent with real detector-network changes (KAGRA joining, sensitivity upgrades) between O3 and O4. But per-run LOO calibration only pays off for the two larger runs (O4a median 32.0%→23.9%, O4b 33.9%→27.3%); it makes the two smaller runs *worse* (O3a 21.1%→33.4%, O3b 25.5%→35.3%), because refitting C via leave-one-out on only 18–25 events is unstable — removing one event shifts the fit more than it does at n=76–94. Merging to era level (O3 vs. O4, n=43 and n=170) recovers essentially all of the run-level benefit while avoiding that small-sample instability, and matches the physical story the fitted-C values themselves tell. Per-era calibration is therefore the version worth keeping, not the finer per-run split.
+
 ## 7. Results (Circular-Only Validation)
 
 Leave-one-out cross-validation on the 49-event circular-self-reported set, comparing predicted chirp mass to the reference bin midpoint:
@@ -128,11 +242,11 @@ Adding FAR or BBH-classification probability as additional regression predictors
 
 ## 8. Discussion
 
-**The physics formula is dominated by an unrecoverable input.** M scales as ρ^1.2, so a factor-of-2 error in assumed SNR produces roughly +130%/−56% error in the mass estimate. Reproducing a mass error within 10–25% requires ρ known to within roughly ±20%; real network SNRs for confident O4a-era detections plausibly span ~8 to 30+, far wider than that tolerance. Holding SNR fixed while distance varies over three orders of magnitude means the physics estimator effectively tracks distance, not mass. This is not a calibration artifact: properly fitting C halves the median error (115% → 45%) but leaves a strong residual bias correlated with distance (r = 0.55, Section 7) — exactly what this sensitivity argument predicts, since C cannot absorb an input the model treats as constant when it physically isn't. Section 6's catalog validation confirms this directly rather than just by argument: giving the same formula real SNR instead of an assumed one, with nothing else changed, cuts median error from 46.6% to 31.5%.
+**The physics formula is dominated by an unrecoverable input.** M scales as ρ^1.2, so a factor-of-2 error in assumed SNR produces roughly +130%/−56% error in the mass estimate. Reproducing a mass error within 10–25% requires ρ known to within roughly ±20%; real network SNRs for confident O4a-era detections plausibly span ~8 to 30+, far wider than that tolerance. Holding SNR fixed while distance varies over three orders of magnitude means the physics estimator effectively tracks distance, not mass. This is not a calibration artifact: properly fitting C halves the median error (115% → 45%) but leaves a strong residual bias correlated with distance (r = 0.55, Section 7) — exactly what this sensitivity argument predicts, since C cannot absorb an input the model treats as constant when it physically isn't. Section 6's catalog validation confirms this directly rather than just by argument: giving the same formula real SNR instead of an assumed one, with nothing else changed, cuts median error from 46.6% to 31.5%. A second, smaller lever also confirmed empirically (Section 6, M6.3): the fitted C genuinely differs by observing-run era (≈8.8×10⁻⁵ for O3, ≈5.9×10⁻⁵ for O4, plausibly real detector-network changes), and calibrating separately per era cuts the real-SNR error further, from 31.5% to 26.6% — a real but secondary lever next to SNR itself.
 
 **FAR is a real, usable proxy for SNR — a revision of an earlier, weaker finding.** An initial test using a *back-solved* "required ρ" from the physics formula (the SNR value that would make it match each event's true reference mass) correlated with log(FAR) at only r ≈ −0.34, which looked too weak to be useful. That test was confounded: the back-solved quantity carries the physics formula's own errors along with it. Testing directly against 381 real (SNR, FAR) pairs from the GWTC catalog instead (Section 6) gives r = −0.70 and a 10.7% median SNR-prediction error under leave-one-out validation — a real, fittable relationship. It is *not* uniformly strong, though: accuracy is worst for the most significant events (many pipelines floor their reported FAR, collapsing a range of true SNRs onto one value), and applying the proxy to the 49-event circular-only set (whose FAR values skew toward that harder regime) gives a real but modest downstream improvement (Section 6), not a large one. FAR is a usable, evidenced SNR proxy — just not a precise one across the full significance range.
 
-**The statistical model performs better, but is a different kind of result.** It captures real, exploitable structure (a selection effect between detection distance and mass) rather than a physical single-event inference. A median error of 33% and a 51% correct-bin rate is a meaningfully useful signal — enough to substantially narrow the plausible mass range for a new event before parameter estimation completes — but does not meet a strict 10–25% accuracy target for a majority of events.
+**The statistical model performs better, but is a different kind of result.** It captures real, exploitable structure (a selection effect between detection distance and mass) rather than a physical single-event inference. A median error of 33% and a 51% correct-bin rate is a meaningfully useful signal — enough to substantially narrow the plausible mass range for a new event before parameter estimation completes — but does not meet a strict 10–25% accuracy target for a majority of events. With real class diversity available in the catalog-backed set, the earlier open question of whether classification adds signal beyond distance is now resolved rather than merely untestable: it does not (Section 6) — distance alone remains the stronger predictor, and at this scale is competitive with the physics formula even when the latter is given real SNR.
 
 ### Decision-gate classification
 
@@ -147,7 +261,7 @@ Per the project plan's M6 decision gate (`validated_approximation | useful_const
 - Circular-self-reported reference-mass events are, by construction, drawn from later observing runs than O4a, since O4a circulars never report this field. O4a data was used for the availability audit and can be scored by the fitted model, but contributed no circular-only validation examples (the catalog-backed validation set does include O4a events, since the catalog itself has no such reporting gap).
 - The regression uses only distance; other circular-derivable fields (FAR, classification) were tested and did not help at this sample size, but may with a larger dataset as the archive grows.
 - No independent held-out test set beyond leave-one-out; results should be revisited as more circulars with reference chirp mass accumulate, and as the catalog itself grows.
-- Even with real SNR, the physics formula still uses a fixed orientation assumption (cos ι = 0.5, never marginalized or measured) and a single global calibration constant absorbing all detector/pipeline effects — both untested as further error sources.
+- Even with real SNR, the physics formula still uses a fixed orientation assumption (cos ι = 0.5, never marginalized or measured), and per-era (not per-run) calibration was the only stratification found stable enough to help (Section 6, M6.3) — finer per-run splits overfit on the two smaller runs (O3a n=25, O3b n=18).
 
 ## 10. Open Questions
 

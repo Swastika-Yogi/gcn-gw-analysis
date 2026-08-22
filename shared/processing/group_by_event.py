@@ -34,7 +34,14 @@ def group_by_event(gw_circulars, run_start=None, run_end=None):
     return event_to_circulars
 
 
-# Named run windows, YYMMDD inclusive. Extend as needed.
+# Named run windows, YYMMDD inclusive. S-prefixed superevent IDs only exist
+# from O3 onward, so O1/O2 are out of scope for this ID-based grouping.
+# O4c has an internal commissioning break (2025-04-01 to 2025-06-11) folded
+# into one window here rather than split, since it doesn't affect ID parsing.
 RUN_WINDOWS = {
+    "O3a": (190401, 191001),
+    "O3b": (191101, 200327),
     "O4a": (230524, 240116),
+    "O4b": (240410, 250128),
+    "O4c": (250128, 251118),
 }

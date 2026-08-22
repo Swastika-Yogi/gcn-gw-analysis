@@ -18,6 +18,36 @@ The pipeline (implemented in \texttt{shared/} and \texttt{legs/leg1\_estimation/
     \item \textbf{Event table construction} -- one row per event, taking the highest-confidence extraction per field across all circulars mentioning that event.
 \end{enumerate}
 
+\section{Extraction Accuracy: A Manual Gold-Sample Audit}
+\label{sec:gold-audit}
+
+The four field-extraction parsers above were checked against manually annotated ground truth rather than assumed correct. Two fixed, seeded samples (\texttt{legs/leg1\_estimation/analysis/gold\_sample\_audit.py}) were hand-annotated by reading the raw circular text directly, recording what is actually present \emph{before} looking at parser output: a 30-circular general sample drawn from the identification/update pool (the two circular types that carry almost all real field content, Section~\ref{sec:availability-breakdown}), covering distance/\gls{far}/classification; and a 15-circular O4c-only sample for chirp mass, since the bin sentence does not exist before O4c and the general sample alone would give zero true positives to measure from.
+
+\begin{table}[H]
+\centering
+\caption{Gold-sample audit: precision/recall/F1 per field}
+\label{tab:gold-audit}
+\begin{tabular}{@{}lrrrrrr@{}}
+\toprule
+Field & TP & FP & FN & TN & Precision & Recall/F1 \\
+\midrule
+Distance & 27 & 0 & 0 & 3 & 1.00 & 1.00 \\
+FAR & 17 & 0 & 0 & 13 & 1.00 & 1.00 \\
+Classification & 17 & 0 & 0 & 13 & 1.00 & 1.00 \\
+Chirp mass (O4c sample) & 12 & 0 & 0 & 3 & 1.00 & 1.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+All four parsers score perfectly on this 45-circular audit, on both presence/absence and value agreement -- but the audit was worth doing regardless of the clean scorecard, since it surfaced two real issues a scorecard alone would hide:
+
+\begin{itemize}
+    \item \textbf{A real bug, found and fixed.} \texttt{far\_parser.py}'s regex treated bare, case-insensitive ``far'' as a stand-in for the \gls{far} abbreviation, with no word boundary against the ordinary English word. Confirmed directly during annotation: the sentence \emph{``So far, only 0.003 percent of the localization region has been covered''} was silently parsed as \gls{far} = 0.003~Hz. Fixed by requiring the bare abbreviation to appear as exact-case \texttt{FAR}, keeping only the full phrase ``false alarm rate'' case-insensitive. Verified no regression on the full archive (per-event \gls{far} coverage unchanged, 317/505 before and after) while per-circular spurious matches dropped (Table~\ref{tab:availability-by-type}: \texttt{lvk\_other} and \texttt{external\_followup} \gls{far} columns, 13$\to$9 and 4$\to$3).
+    \item \textbf{A silent, low-impact information loss.} One sampled circular's archived ``$\pm$'' character is corrupted to a Unicode replacement character -- an archive-side artifact, not a pipeline bug. The high-confidence regex correctly fails to match it; the medium-confidence fallback still recovers the correct central value but silently drops the real uncertainty bound, indistinguishable from an event that genuinely reported none. Documented rather than special-cased.
+    \item \textbf{A limitation of the circular-type classifier specifically, not of field extraction.} Two sampled circulars are not \gls{lvk}-authored (an IceCube neutrino follow-up, a GROWTH galaxy cross-match) but open with the same \texttt{LIGO/Virgo~\textless event-id\textgreater:} subject convention \gls{lvk} itself uses, so Section~\ref{sec:availability-breakdown}'s subject-pattern classifier mislabels them -- a slight undercount of \texttt{external\_followup} there, not an error in the four parsers.
+    \item \textbf{A genuine ambiguity, not a bug.} That same GROWTH circular reports a direction-conditioned posterior distance (\texttt{DISTMU}, evaluated at one external candidate's sky position) using the literal word ``distance'' -- a correct match by the parser's own definition, but a different quantity from the whole-sky-marginalized luminosity distance \gls{lvk} circulars report. Recorded as a known edge case a keyword-based parser cannot be expected to distinguish.
+\end{itemize}
+
 \section{Data Availability Analysis}
 
 Restricting to the O4a observing run (2023-05-24 to 2024-01-16) as a case study, 181 events were identified. Field coverage is reported in Table~\ref{tab:availability} (Chapter~\ref{ch:results}). Two of the three inputs the physics-based estimator (Section~\ref{sec:physics-estimator}) requires -- network \gls{snr} and orbital inclination -- were found to be structurally absent from every circular checked, not merely difficult to parse: ``\gls{snr}'' appears in circular text, but almost always refers to an unrelated follow-up instrument's own detection significance (e.g., an X-ray or optical instrument's signal-to-noise in some energy band), never the \gls{lvk} trigger's network \gls{snr}.

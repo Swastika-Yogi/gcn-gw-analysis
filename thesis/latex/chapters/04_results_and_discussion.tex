@@ -27,6 +27,99 @@ Reference chirp mass & 0\% & the bin sentence only appears in later-run circular
 
 Table~\ref{tab:availability} restricts to O4a as a case study. Repeating the same check across every event in the archive (all observing runs, 505 events) shows coverage is meaningfully \emph{better} once later runs are included: distance 83.6\%, FAR 62.8\%, classification 62.0\%, reference chirp mass 10.1\% (51 events -- the same population behind the validation set in Section~\ref{sec:validation-set}). FAR and classification both improve by roughly 17 percentage points over the O4a-only figures. The likely explanation is that \gls{lvk}'s circular-writing template became more complete and standardized over time, so later-run circulars report more fields consistently than O4a-era ones did -- a small additional finding in its own right: data quality here is improving as the observing program matures, not staying flat.
 
+\subsection{Full Breakdown: Run, Source Class, and Circular Type}
+\label{sec:availability-breakdown}
+
+Breaking the same 505-event coverage figures down further, by observing run, by source class, and by circular type, gives a sharper picture than the aggregate numbers above (produced by \texttt{legs/leg1\_estimation/analysis/availability\_analysis.py}; O1/O2 predate the \texttt{S}-prefixed superevent ID scheme this pipeline relies on and are out of scope).
+
+\begin{table}[H]
+\centering
+\caption{Coverage by observing run}
+\label{tab:availability-by-run}
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+Run & n & Distance & FAR & Classification & Chirp mass \\
+\midrule
+O3a & 54 & 72.2\% & 61.1\% & 63.0\% & 0.0\% \\
+O3b & 42 & 76.2\% & 54.8\% & 50.0\% & 0.0\% \\
+O4a & 181 & 89.0\% & 45.9\% & 44.8\% & 0.0\% \\
+O4b & 122 & 90.2\% & 86.1\% & 86.1\% & 0.0\% \\
+O4c & 87 & 82.8\% & 78.2\% & 77.0\% & 58.6\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The reference chirp-mass bin sentence is not merely rare before O4c -- it is \textbf{completely absent from every run before it} (0/400 across O3a--O4b) and present in the majority of O4c events (51/87). This sharpens the earlier ``10.1\% overall'' figure into a stronger finding: the circular-only validation set (Section~\ref{sec:validation-set}) is drawn from a single recent observing run by construction, not by coincidence of which events happened to report the field.
+
+\begin{table}[H]
+\centering
+\caption{Coverage by source class (among 313 classified events)}
+\label{tab:availability-by-class}
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+Class & n & Distance & FAR & Chirp mass \\
+\midrule
+BBH & 285 & 100.0\% & 99.6\% & 16.8\% \\
+NSBH & 11 & 100.0\% & 100.0\% & 0.0\% \\
+BNS & 7 & 100.0\% & 100.0\% & 0.0\% \\
+Terrestrial & 10 & 90.0\% & 100.0\% & 20.0\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+BBH accounts for 285/313 (91\%) of classified events -- the direct, quantified explanation for why every validation set built in this project has been overwhelmingly BBH (Sections~\ref{sec:catalog-validation} and \ref{sec:estimator-comparison}): it reflects the real composition of the archive, not a sampling artifact of this pipeline.
+
+\begin{table}[H]
+\centering
+\caption{Coverage by circular type (per-circular)}
+\label{tab:availability-by-type}
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+Type & n & Distance & FAR & Classification & Chirp mass \\
+\midrule
+Identification & 329 & 94.2\% & 97.9\% & 93.3\% & 15.2\% \\
+Update & 361 & 90.0\% & 2.2\% & 8.6\% & 0.8\% \\
+Retraction & 58 & 0.0\% & 0.0\% & 0.0\% & 0.0\% \\
+External follow-up & 80 & 23.8\% & 3.8\% & 2.5\% & 0.0\% \\
+Other LVK & 2{,}796 & 18.6\% & 0.3\% & 0.1\% & 0.0\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+FAR, classification, and chirp mass are almost entirely carried by the single initial identification circular; update circulars overwhelmingly revise distance/sky-location and rarely restate the others. This validates a modeling choice already built into the pipeline -- taking the highest-confidence value per field across all circulars for an event is, for FAR/classification/mass, functionally equivalent to reading the identification circular alone, since almost nothing else supplies these fields.
+
+Typical uncertainty when reported: 316/422 (74.9\%) of distance-bearing events include an explicit $\pm$ bound, with median relative half-width 29.2\%; all 51 chirp-mass reference values are bin midpoints with median relative half-bin-width 33.3\% -- a genuinely wide bin, useful context for interpreting the error percentages in Sections~\ref{sec:catalog-validation}--\ref{sec:estimator-comparison}, since an estimate landing within roughly a third of the true value is the same order as the uncertainty already built into the reference value itself. FAR and classification are reported as point values/probabilities with no uncertainty given in circular text, so are not applicable here rather than assigned a fabricated number.
+
+\subsection{Direct vs. Approximated Quantities}
+\label{sec:direct-vs-approximated}
+
+Synthesizing the availability findings above against what each estimator actually needs:
+
+\begin{table}[H]
+\centering
+\caption{Direct vs. approximated quantities}
+\label{tab:direct-vs-approximated}
+\small
+\begin{tabular}{@{}p{2.3cm}p{1.6cm}p{2.6cm}p{3.6cm}p{1.4cm}@{}}
+\toprule
+Parameter & Availability & Required for & Approximation if missing & Risk \\
+\midrule
+Luminosity distance & Sometimes (83.6\%) & Both estimators & None -- event dropped & Low \\
+False alarm rate & Sometimes (62.8\%) & FAR$\to$SNR proxy only & None -- proxy unavailable & Low--moderate \\
+Source classification & Sometimes (62.0\%) & Class baseline, combined model & Falls back to distance-only & Low (Section~\ref{sec:catalog-validation}: adds nothing beyond distance) \\
+Network SNR & Essentially never (0\%) & Physics estimator (dominant input) & Fixed $\rho=15$; FAR proxy; real value via catalog crosswalk & \textbf{High} \\
+Orbital inclination & Never (0\%) & Physics estimator's $F(\iota)$ & Fixed $\cos\iota = 0.5$ & Moderate, bounded \\
+Reference chirp mass (bin) & Sometimes, run-dependent (10.1\% overall, 0\% pre-O4c) & Validation target, not an input & GWTC catalog cross-match (already adopted) & Low once catalog-matched \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Network SNR stands out as the one parameter this table flags \textbf{High} risk: it is the single largest source of physics-estimator error found in this project, confirmed directly in Section~\ref{sec:catalog-validation} (supplying the real value alone cuts median error from 46.6\% to 31.5\%, with nothing else about the formula changed).
+
+\subsection{Additional Discoveries}
+
+Two findings noticed along the way, beyond the original plan, are worth naming explicitly rather than left implicit: field coverage improving substantially between O4a and O4b/O4c (Section~\ref{sec:availability-breakdown}) reflects \gls{lvk}'s circular-writing template maturing over time, not later events being intrinsically better documented; and sky-localization area (``90\% credible region is $X$~deg$^2$'') appears in \textbf{299/505 events (59.2\%)} -- coverage comparable to \gls{far} and classification, and not currently extracted by this pipeline. It is a plausible secondary parameter for future work (Chapter~\ref{ch:conclusion}), both as a candidate weak proxy for detector-network geometry and as a directly useful retrievable field for the GW Pathfinder leg.
+
 \section{Validation Against the Real GWTC Catalog}
 \label{sec:catalog-validation}
 
@@ -80,6 +173,50 @@ $>1$/yr (least significant) & 123 & 5.6\% \\
 
 Applying the proxy downstream -- predicting \gls{snr} from each circular's own extracted \gls{far}, then feeding that into the physics formula with the same leave-one-out $C$-fitting procedure used throughout -- gives a real but modest improvement on the 49-event circular-only set: median error falls from 44.8\% (fixed \gls{snr} = 15) to 39.5\%, within-$\pm25\%$ rises from 13/49 to 16/49. This smaller-than-expected gain is traceable, not mysterious: the 49 circular-only events have a median \gls{far} of $4.1\times10^{-3}$/yr, squarely in the harder 15.6\%-error band above, not the easy 5--6\% band. None of these 49 events are themselves in the catalog yet -- they postdate the latest GWTC release -- so the proxy's accuracy on this exact population cannot be checked directly; the FAR-stratified result is the best available evidence for what to expect.
 
+\subsection{Revisiting the Combined Class+Distance Model}
+
+Section~\ref{sec:estimator-comparison} below reports that extending the distance-only statistical model with source classification was attempted and abandoned earlier in this investigation: the 49-event circular-only set is 48/49 (98\%) \gls{bbh}, with no real class diversity to test against. The 214-event catalog-backed set is different -- 206 \gls{bbh}, 5 \gls{nsbh}, 2 Terrestrial, 1 \gls{bns}. Still thin for \gls{nsbh}/\gls{bns} individually (a single-example \gls{bns} dummy would have zero degrees of freedom and simply memorize that one point), so classification enters as a single binary predictor (\gls{bbh} vs. everything else) rather than per-class dummies -- a real limitation, stated rather than hidden. On the 212 non-Terrestrial events:
+
+\begin{table}[H]
+\centering
+\caption{Distance vs. class vs. combined, 212-event catalog-backed set (Terrestrial excluded)}
+\label{tab:combined-model}
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+Model & Median error & Within $\pm25\%$ & Within $\pm50\%$ \\
+\midrule
+Distance only & 27.8\% & 98/212 (46\%) & 146/212 (69\%) \\
+Class only (BBH vs. not) & 38.5\% & 58/212 (27\%) & 135/212 (64\%) \\
+Distance + class (combined) & 28.9\% & 98/212 (46\%) & 149/212 (70\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+This time the answer is clean rather than ambiguous: distance alone is the stronger single predictor, and adding class on top of it does not meaningfully help (28.9\% vs. 27.8\% median -- marginally worse, not better). With real class diversity available, this properly resolves what the 49-event set could not test: class does not add independent signal beyond distance, at least at this sample size and with a binary class split.
+
+A second, unplanned finding sits alongside this: distance-only on the larger, more diverse 212-event set (27.8\% median) is competitive with -- and by this metric, marginally better than -- the physics formula given real catalog \gls{snr} (31.5\%, above). The simplest circular-derivable statistical model matches or exceeds a physically-motivated formula that requires information circulars cannot supply.
+
+\subsection{Run-Specific Calibration}
+
+The M6.2 checklist named this as untested: does fitting the physics formula's calibration constant $C$ separately per observing run, rather than one constant across all runs, reduce error? Now that named run windows exist for every run (Section~\ref{sec:availability-breakdown}) and the 214-event catalog-backed set spans four of them with real \gls{snr}, this is directly testable (\texttt{legs/leg1\_estimation/validate\_run\_stratified\_calibration.py}), leave-one-out at every level.
+
+\begin{table}[H]
+\centering
+\caption{Global vs. run-specific vs. era-specific calibration}
+\label{tab:run-calibration}
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+Calibration & Median error & Within $\pm25\%$ & Within $\pm50\%$ \\
+\midrule
+One global $C$ (all 214 events) & 31.5\% & 88/214 (41\%) & 171/214 (80\%) \\
+Per-run $C$ (O3a/O3b/O4a/O4b) & 26.6\% & 97/214 (45\%) & 175/214 (82\%) \\
+Per-era $C$ (O3 vs.\ O4) & 26.6\% & 98/214 (46\%) & 177/214 (83\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Splitting by run helps, but not uniformly, and the reason is itself informative: the fitted $C$ splits cleanly by era ($C \approx 8.8$--$8.9\times10^{-5}$ for O3a/O3b vs.\ $C \approx 5.86$--$5.90\times10^{-5}$ for O4a/O4b, a genuine $\sim$50\% difference, consistent with real detector-network changes between the two eras) -- but per-run leave-one-out calibration only pays off for the two larger runs (O4a: 32.0\%$\to$23.9\%, O4b: 33.9\%$\to$27.3\%) and makes the two smaller runs \emph{worse} (O3a: 21.1\%$\to$33.4\%, O3b: 25.5\%$\to$35.3\%), since refitting on only 18--25 events is unstable. Merging to era level (O3 vs.\ O4, $n=43$ and $n=170$) recovers essentially all of the run-level benefit while avoiding that small-sample instability -- the version worth keeping.
+
 \section{Estimator Comparison (Circular-Only Validation)}
 \label{sec:estimator-comparison}
 
@@ -126,7 +263,7 @@ Even with a properly fit $C$, the physics formula's log-residuals correlate with
 
 \subsection{The Trivial Baseline Finding}
 
-A source-class-midpoint baseline -- no distance, no fitting, no per-event information beyond the classification label -- achieves a 47\% within-$\pm25\%$ rate and a 47\% bin-hit rate, both close to (and on the $\pm25\%$ metric, better than) the distance-only statistical model's 35\%/51\%. The initial explanation for this (that distance and source class are correlated, since heavier \gls{bbh} systems are both louder and visible further out) does not hold up: the 49-event validation set is 48/49 (98\%) \gls{bbh}, with only one unclassified event and zero \gls{bns}/\gls{nsbh}. There is essentially no class diversity in this sample to correlate distance against. The baseline's competitiveness more plausibly reflects that guessing near the sample's dominant, modal value is a strong strategy when the sample is this concentrated -- not evidence of a genuine distance-class relationship. The population-average baseline, by contrast, is uniformly poor (0\% within $\pm25\%$), confirming that per-event structure of \emph{some} kind is genuinely needed, even if this sample cannot establish what kind.
+A source-class-midpoint baseline -- no distance, no fitting, no per-event information beyond the classification label -- achieves a 47\% within-$\pm25\%$ rate and a 47\% bin-hit rate, both close to (and on the $\pm25\%$ metric, better than) the distance-only statistical model's 35\%/51\%. The initial explanation for this (that distance and source class are correlated, since heavier \gls{bbh} systems are both louder and visible further out) does not hold up: the 49-event validation set is 48/49 (98\%) \gls{bbh}, with only one unclassified event and zero \gls{bns}/\gls{nsbh}. There is essentially no class diversity in this sample to correlate distance against. The baseline's competitiveness more plausibly reflects that guessing near the sample's dominant, modal value is a strong strategy when the sample is this concentrated -- not evidence of a genuine distance-class relationship. The population-average baseline, by contrast, is uniformly poor (0\% within $\pm25\%$), confirming that per-event structure of \emph{some} kind is genuinely needed. Whether class adds signal beyond distance specifically could not be established on this 49-event sample -- but is resolved directly in Section~\ref{sec:catalog-validation} using the catalog-backed set's real class diversity.
 
 \begin{figure}[H]
 \centering
@@ -140,8 +277,8 @@ A source-class-midpoint baseline -- no distance, no fitting, no per-event inform
 Following the project's decision-gate taxonomy (\texttt{validated\_approximation} $\mid$ \texttt{useful\_constraint} $\mid$ \texttt{exploratory\_only} $\mid$ \texttt{unsupported}):
 
 \begin{itemize}
-    \item \textbf{Physics (SNR-scaling) estimator, circular-only inputs: \texttt{unsupported}.} Fails even after properly fitting its calibration constant, with a systematic, physically-explained bias that no calibration choice removes -- because the one input it depends on most (\gls{snr}) is structurally absent from circular text. Section~\ref{sec:catalog-validation}'s catalog validation clarifies the scope of this: the formula itself is not unsupported in the abstract (given real \gls{snr}, it more than halves its own error), only as a circular-derived estimator specifically.
-    \item \textbf{Statistical (distance-only) estimator: \texttt{useful\_constraint}.} Not a validated per-event measurement, but a real, reproducible signal (best \gls{mae} and bin-hit rate of any method tested) useful for narrowing the plausible mass range -- with the caveat that a zero-fitting class-based baseline is competitive on several metrics, so this credits ``distance plus whatever it correlates with,'' not distance as an independently powerful signal in its own right.
+    \item \textbf{Physics (SNR-scaling) estimator, circular-only inputs: \texttt{unsupported}.} Fails even after properly fitting its calibration constant, with a systematic, physically-explained bias that no calibration choice removes -- because the one input it depends on most (\gls{snr}) is structurally absent from circular text. Section~\ref{sec:catalog-validation}'s catalog validation clarifies the scope of this: the formula itself is not unsupported in the abstract (given real \gls{snr}, it more than halves its own error), only as a circular-derived estimator specifically. Era-specific calibration (O3 vs.\ O4) closes a further, smaller slice of that gap (31.5\%$\to$26.6\%, Section~\ref{sec:catalog-validation}), but SNR remains the dominant lever by a wide margin.
+    \item \textbf{Statistical (distance-only) estimator: \texttt{useful\_constraint}.} Not a validated per-event measurement, but a real, reproducible signal (best \gls{mae} and bin-hit rate of any method tested) useful for narrowing the plausible mass range. On the small circular-only set, a zero-fitting class-based baseline looked competitive, raising the question of whether distance was an independently powerful signal or just correlated with class; the larger catalog-backed set answers this directly (Section~\ref{sec:catalog-validation}) -- distance alone outperforms class alone and combining the two does not improve on distance alone, so the signal is genuinely distance's, not borrowed from classification.
 \end{itemize}
 
 \section{AI-Model Comparison Study}
