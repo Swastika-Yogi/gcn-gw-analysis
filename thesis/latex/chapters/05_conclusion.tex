@@ -3,7 +3,7 @@
 
 \section{Summary of Findings}
 
-This project set out to determine whether \gls{gcn} circular text alone can support a fast, approximate chirp-mass estimate. The answer, established with evidence rather than assumed: not reliably with the standard \gls{snr}-scaling physics formula, because network \gls{snr} and orbital inclination are structurally absent from circular text -- confirmed both by a data-availability audit and by the formula's failure even after properly calibrating its one free constant (Chapter~\ref{ch:results}). A statistical alternative based on distance alone performs meaningfully better, though a trivial classification-based baseline tempers how much of that improvement is genuinely new information.
+This project set out to determine whether \gls{gcn} circular text alone can support a fast, approximate chirp-mass estimate. The answer, established with evidence rather than assumed: not reliably with the standard \gls{snr}-scaling physics formula, because network \gls{snr} and orbital inclination are structurally absent from circular text -- confirmed both by a data-availability audit and by the formula's failure even after properly calibrating its one free constant (Chapter~\ref{ch:results}). This was not left as an inference: cross-matching circular event IDs against the public \gls{gwtc} catalog and substituting real, measured \gls{snr} for the assumed value -- with nothing else about the formula changed -- cut the median error by roughly a third (Section~\ref{sec:catalog-validation}). This directly confirms that the physics formula itself is sound; it is specifically unusable \emph{from circulars alone}, because circulars cannot supply the input it depends on most. A statistical alternative based on distance alone performs better than the circular-only physics formula, though a trivial classification-based baseline is competitive with it, better explained by the validation sample's lack of class diversity than by any genuine distance-class relationship.
 
 \section{Contribution}
 
@@ -12,10 +12,10 @@ The core contribution is not a proof that circular-level chirp-mass estimation w
 \section{Limitations}
 
 \begin{itemize}
-    \item The validation set is small (49 events); leave-one-out cross-validation reduces, but does not eliminate, overfitting risk at this sample size.
-    \item Reference-mass events are, by construction, drawn from later observing runs than O4a, since O4a circulars never report this field; O4a data contributed to the availability audit but no validation examples.
+    \item The circular-only validation set is small (49 events); leave-one-out cross-validation reduces, but does not eliminate, overfitting risk at this sample size. The catalog-backed set (214 events) is substantially larger but excludes 153 confirmed events with no public circular -- low-significance, offline-catalog-only detections, not a pipeline defect (Section~\ref{sec:catalog-validation}).
+    \item Circular-self-reported reference-mass events are, by construction, drawn from later observing runs than O4a, since O4a circulars never report this field; O4a data contributed to the availability audit and to the catalog-backed validation set, but not to the circular-only one.
     \item The statistical model uses distance alone; \gls{far} and classification probability were tested as additional predictors and did not help at this sample size, though this may change as the archive accumulates more circulars with reference chirp mass.
-    \item No external reference catalog (e.g. \gls{gwtc}/\gls{gwosc}) was incorporated, by scope decision; doing so was identified as a possible future extension pending supervisor guidance on scope.
+    \item Even with real \gls{snr} from the catalog, the physics formula still assumes a fixed orientation (never marginalized or measured) and absorbs all detector/pipeline effects into one global calibration constant -- both untested as further error sources, and the likely reason 31.5\% median error, not near-zero, remains even once \gls{snr} is no longer assumed.
 \end{itemize}
 
 \section{Recommendation}
@@ -25,8 +25,9 @@ Given the coarse, bin-quantized nature of the reference chirp mass values circul
 \section{Future Work}
 
 \begin{itemize}
-    \item Expand the historical validation sample as more circulars with reference chirp mass accumulate, or by incorporating an external catalog if scope permits.
-    \item Test whether source classification, more carefully combined with distance (rather than as a simple alternative baseline), improves on the current statistical estimator.
+    \item Test orientation marginalization and run/network-stratified calibration against the 214-event catalog-backed set, now that real \gls{snr} removes it as the dominant confound -- the next most promising lever on the remaining 31.5\% median error.
+    \item Investigate whether a defensible \gls{far}-to-\gls{snr} proxy, calibrated against the catalog's real (SNR, FAR) pairs, could let the physics formula work from circulars alone without needing an assumed \gls{snr} at all.
+    \item Test whether source classification, more carefully combined with distance (rather than as a simple alternative baseline), improves on the current statistical estimator -- now feasible in the catalog-backed set, which has genuine class diversity unlike the circular-only sample.
     \item Develop an uncertainty-aware estimator rather than a point estimate.
     \item Complete the AI-model comparison study on a larger, fresh event batch, and complete a working (not just designed) GW Pathfinder prototype.
     \item Explore additional circular-derivable parameters beyond chirp mass (e.g. sky localization, detector count, event time) not yet incorporated into the pipeline.

@@ -27,9 +27,39 @@ Reference chirp mass & 0\% & the bin sentence only appears in later-run circular
 
 Table~\ref{tab:availability} restricts to O4a as a case study. Repeating the same check across every event in the archive (all observing runs, 505 events) shows coverage is meaningfully \emph{better} once later runs are included: distance 83.6\%, FAR 62.8\%, classification 62.0\%, reference chirp mass 10.1\% (51 events -- the same population behind the validation set in Section~\ref{sec:validation-set}). FAR and classification both improve by roughly 17 percentage points over the O4a-only figures. The likely explanation is that \gls{lvk}'s circular-writing template became more complete and standardized over time, so later-run circulars report more fields consistently than O4a-era ones did -- a small additional finding in its own right: data quality here is improving as the observing program matures, not staying flat.
 
-\section{Estimator Comparison}
+\section{Validation Against the Real GWTC Catalog}
+\label{sec:catalog-validation}
 
-Table~\ref{tab:results} reports leave-one-out cross-validation results on the 49-event validation set (Section~\ref{sec:validation-set}).
+The validation set used below (Section~\ref{sec:estimator-comparison}) is limited to what circulars self-report: 49 events, almost entirely \gls{bbh}, and critically, no event with a real network \gls{snr} -- that quantity is structurally absent from circular text (Chapter~\ref{ch:methods}). The public \gls{gwtc} catalog, via the \gls{gwosc} API, removes that limitation: it publishes real, measured chirp mass and real network \gls{snr} for every confirmed event.
+
+\gls{gwtc} event names (e.g. \texttt{GW230627\_015337}) differ from circular superevent IDs (e.g. \texttt{S230627c}), but \gls{gwosc}'s per-event \texttt{gracedb\_id} field gives the exact circular ID directly for any event from 2019 onward -- confirmed directly: \texttt{GW230627\_015337}'s \texttt{gracedb\_id} is \texttt{S230627c}, matching the circular event exactly. Pre-2019 events use an older \texttt{G}-prefixed ID from before the superevent system existed and are out of scope for this cross-match.
+
+Of 380 confirmed post-2019 catalog events, 227 matched to at least one circular in the archive; 153 did not. This gap was checked directly rather than assumed benign: none of the missing IDs appear anywhere in the raw archive text (ruling out a parsing bug), and the missing rate is scattered proportionally across every month from 2019 to 2025 (ruling out a stale archive snapshot, which would only affect the newest months). The actual explanation: median \gls{far} for matched events is $1\times10^{-5}$/yr (highly significant) versus 3/yr for missing events (essentially noise-level). The missing events are low-significance candidates added to the catalog through offline, retrospective analysis after the observing run, which never triggered a real-time public alert circular -- a real, structural ceiling on any circular-based pipeline, independent of this pipeline's own extraction completeness.
+
+Combining circular-extracted distance with catalog-provided real chirp mass and real \gls{snr} gives a 214-event set (4.4$\times$ the circular-only validation set), spanning a genuine mix of source classes. The physics formula was re-tested on this set two ways -- with the real \gls{snr}, and with the same fixed assumed \gls{snr} = 15 used throughout Section~\ref{sec:estimator-comparison} -- using the identical leave-one-out $C$-fitting procedure in both cases, so the \emph{only} difference between the two runs is whether \gls{snr} is real or assumed.
+
+\begin{table}[H]
+\centering
+\caption{Physics formula, catalog-backed validation (214 events): real vs. assumed SNR}
+\label{tab:catalog-results}
+\begin{tabular}{@{}lrrrr@{}}
+\toprule
+SNR source & Median error & Within $\pm25\%$ & MAE & Bias \\
+\midrule
+Assumed (fixed at 15) & 46.6\% & 58/214 (27\%) & 14.46 M$_\odot$ & +5.79 M$_\odot$ \\
+Real (catalog) & 31.5\% & 89/214 (42\%) & 9.18 M$_\odot$ & +2.88 M$_\odot$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Supplying the real \gls{snr} -- with nothing else about the formula, the distance input, or the fitting procedure changed -- cuts the median error by roughly a third and nearly doubles the within-$\pm25\%$ rate. This is a direct, controlled confirmation of the argument built up from first principles and sensitivity analysis earlier in this chapter: \gls{snr} was the dominant error source, not a calibration problem or a flaw in the formula itself. The physics formula is not wrong in the abstract -- it is specifically unusable \emph{from circulars alone}, because circulars cannot supply the one input it depends on most.
+
+Even with real \gls{snr}, 31.5\% median error is still short of the 10--25\% target for most events -- real-world measurement uncertainty, the fixed orientation assumption (never marginalized or measured), and unmodeled detector/pipeline effects absorbed into a single global $C$ all remain. But the gap closed by switching from assumed to real \gls{snr} is the largest single improvement found anywhere in this investigation, larger than calibration alone achieved on the circular-only set.
+
+\section{Estimator Comparison (Circular-Only Validation)}
+\label{sec:estimator-comparison}
+
+Table~\ref{tab:results} reports leave-one-out cross-validation results on the 49-event circular-self-reported validation set (Section~\ref{sec:validation-set}).
 
 \begin{table}[H]
 \centering
@@ -72,7 +102,7 @@ Even with a properly fit $C$, the physics formula's log-residuals correlate with
 
 \subsection{The Trivial Baseline Finding}
 
-A source-class-midpoint baseline -- no distance, no fitting, no per-event information beyond the classification label -- achieves a 47\% within-$\pm25\%$ rate and a 47\% bin-hit rate, both close to (and on the $\pm25\%$ metric, better than) the distance-only statistical model's 35\%/51\%. Since heavier \gls{bbh} systems are both louder and visible further out, distance and source class are correlated, so the statistical model's apparent skill substantially overlaps with what source classification alone already provides. The population-average baseline, by contrast, is uniformly poor (0\% within $\pm25\%$), confirming that per-event structure of \emph{some} kind -- whether from class or distance -- is genuinely needed; the open question is how much credit distance deserves independently of class.
+A source-class-midpoint baseline -- no distance, no fitting, no per-event information beyond the classification label -- achieves a 47\% within-$\pm25\%$ rate and a 47\% bin-hit rate, both close to (and on the $\pm25\%$ metric, better than) the distance-only statistical model's 35\%/51\%. The initial explanation for this (that distance and source class are correlated, since heavier \gls{bbh} systems are both louder and visible further out) does not hold up: the 49-event validation set is 48/49 (98\%) \gls{bbh}, with only one unclassified event and zero \gls{bns}/\gls{nsbh}. There is essentially no class diversity in this sample to correlate distance against. The baseline's competitiveness more plausibly reflects that guessing near the sample's dominant, modal value is a strong strategy when the sample is this concentrated -- not evidence of a genuine distance-class relationship. The population-average baseline, by contrast, is uniformly poor (0\% within $\pm25\%$), confirming that per-event structure of \emph{some} kind is genuinely needed, even if this sample cannot establish what kind.
 
 \begin{figure}[H]
 \centering
@@ -86,8 +116,8 @@ A source-class-midpoint baseline -- no distance, no fitting, no per-event inform
 Following the project's decision-gate taxonomy (\texttt{validated\_approximation} $\mid$ \texttt{useful\_constraint} $\mid$ \texttt{exploratory\_only} $\mid$ \texttt{unsupported}):
 
 \begin{itemize}
-    \item \textbf{Physics (SNR-scaling) estimator: \texttt{unsupported}.} Fails even after properly fitting its calibration constant, with a systematic, physically-explained bias that no calibration choice removes.
-    \item \textbf{Statistical (distance-only) estimator: \texttt{useful\_constraint}.} Not a validated per-event measurement, but a real, reproducible signal (best \gls{mae} and bin-hit rate of any method tested) useful for narrowing the plausible mass range -- with the caveat that a zero-fitting class-based baseline is competitive on several metrics, so this credits ``distance plus whatever it correlates with,'' not distance as an independently powerful signal.
+    \item \textbf{Physics (SNR-scaling) estimator, circular-only inputs: \texttt{unsupported}.} Fails even after properly fitting its calibration constant, with a systematic, physically-explained bias that no calibration choice removes -- because the one input it depends on most (\gls{snr}) is structurally absent from circular text. Section~\ref{sec:catalog-validation}'s catalog validation clarifies the scope of this: the formula itself is not unsupported in the abstract (given real \gls{snr}, it more than halves its own error), only as a circular-derived estimator specifically.
+    \item \textbf{Statistical (distance-only) estimator: \texttt{useful\_constraint}.} Not a validated per-event measurement, but a real, reproducible signal (best \gls{mae} and bin-hit rate of any method tested) useful for narrowing the plausible mass range -- with the caveat that a zero-fitting class-based baseline is competitive on several metrics, so this credits ``distance plus whatever it correlates with,'' not distance as an independently powerful signal in its own right.
 \end{itemize}
 
 \section{AI-Model Comparison Study}
