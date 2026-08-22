@@ -56,6 +56,30 @@ Supplying the real \gls{snr} -- with nothing else about the formula, the distanc
 
 Even with real \gls{snr}, 31.5\% median error is still short of the 10--25\% target for most events -- real-world measurement uncertainty, the fixed orientation assumption (never marginalized or measured), and unmodeled detector/pipeline effects absorbed into a single global $C$ all remain. But the gap closed by switching from assumed to real \gls{snr} is the largest single improvement found anywhere in this investigation, larger than calibration alone achieved on the circular-only set.
 
+\subsection{A FAR-to-SNR Proxy, Revisited}
+
+An initial approach to testing whether \gls{far} could substitute for \gls{snr} used a \emph{back-solved} "required $\rho$" -- the SNR value that would make the physics formula match each event's true reference mass -- from just 49 circular-only events, and found only a weak correlation ($r \approx -0.34$): a noisy quantity that conflates the physics formula's own errors with any real \gls{far}-\gls{snr} relationship. Testing directly against 381 real (SNR, FAR) pairs from the catalog instead, fitting $\log(\text{SNR}) = a + b \cdot \log(\text{FAR})$ and validating via leave-one-out, gives $r = -0.70$ and a 10.7\% median SNR-prediction error -- a real, usable relationship, well beyond what the back-solved test suggested.
+
+Accuracy is not uniform across \gls{far}, though (Table~\ref{tab:far-proxy}): the proxy is \emph{least} accurate for the most significant events, likely because many search pipelines cap reported \gls{far} at a floor value (118 of 381 events sit at exactly $1\times10^{-5}$/yr), collapsing a range of true SNRs onto one \gls{far} reading in that regime.
+
+\begin{table}[H]
+\centering
+\caption{FAR-to-SNR proxy accuracy by FAR range (leave-one-out, 381 events)}
+\label{tab:far-proxy}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+FAR range & $n$ & Median SNR-prediction error \\
+\midrule
+$<10^{-4}$/yr (most significant) & 139 & 19.7\% \\
+$10^{-4}$--$10^{-2}$/yr & 46 & 15.6\% \\
+$10^{-2}$--1/yr & 73 & 6.7\% \\
+$>1$/yr (least significant) & 123 & 5.6\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Applying the proxy downstream -- predicting \gls{snr} from each circular's own extracted \gls{far}, then feeding that into the physics formula with the same leave-one-out $C$-fitting procedure used throughout -- gives a real but modest improvement on the 49-event circular-only set: median error falls from 44.8\% (fixed \gls{snr} = 15) to 39.5\%, within-$\pm25\%$ rises from 13/49 to 16/49. This smaller-than-expected gain is traceable, not mysterious: the 49 circular-only events have a median \gls{far} of $4.1\times10^{-3}$/yr, squarely in the harder 15.6\%-error band above, not the easy 5--6\% band. None of these 49 events are themselves in the catalog yet -- they postdate the latest GWTC release -- so the proxy's accuracy on this exact population cannot be checked directly; the FAR-stratified result is the best available evidence for what to expect.
+
 \section{Estimator Comparison (Circular-Only Validation)}
 \label{sec:estimator-comparison}
 

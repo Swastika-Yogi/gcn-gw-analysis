@@ -29,6 +29,10 @@ Checked directly rather than guessing. Ruled out a pipeline bug first (none of t
 
 The catalog-validation finding, the missing-events investigation, and the corrected baseline explanation are now written into `feasibility_draft.md` (new Section 6, renumbered subsequent sections) and the LaTeX thesis (`04_results_and_discussion.tex` new section, `05_conclusion.tex` Summary/Limitations/Future Work updated, `01_introduction.tex` objectives updated, `frontmatter/abstract.tex` updated) — not left as a chat-only result.
 
+### Revisited the FAR→SNR proxy — reversed an earlier conclusion, with a caveat
+
+The earlier "FAR is a weak proxy" finding (r ≈ −0.34) used a back-solved, noisy stand-in for SNR on only 49 events. Testing directly against 381 real (SNR, FAR) catalog pairs instead gives r = −0.70 and 10.7% median SNR-prediction error — a real, usable relationship. Didn't stop at the headline number, though: binning by FAR magnitude shows the proxy is *least* accurate for the most significant events (19.7% median error, likely because pipelines floor their reported FAR, collapsing many true SNRs onto one value) and *most* accurate for marginal events (5.6%). Applying the proxy downstream to the 49-event circular-only set gave only a modest gain (44.8% → 39.5% median chirp-mass error) — smaller than the headline proxy number would suggest, but the reason is traceable: those 49 events sit in the harder FAR range (median 4.1×10⁻³/yr), and none of them are in the catalog yet to check directly. Corrected the earlier "weak proxy" claim in both `feasibility_draft.md` and the LaTeX thesis rather than leaving it stand.
+
 ### Remaining / in progress
 
 - Day 2's originally planned M5.1 (source-class breakdown) and M4.4 (extraction gold-sample) are still pending, deprioritized in favor of the catalog work once it turned out to be immediately productive.

@@ -89,6 +89,21 @@ Supplying the real SNR — with nothing else about the formula, the distance inp
 
 Even with real SNR, 31.5% median error is still short of the 10–25% target for most events — real-world measurement uncertainty, the fixed orientation assumption (cos ι = 0.5, never marginalized or measured), and unmodeled detector/pipeline effects absorbed into a single global C all remain. But the gap closed by switching from assumed to real SNR is the largest single improvement found anywhere in this investigation, larger than calibration (Section 7, circular-only) achieved on its own.
 
+**A FAR→SNR proxy revisited.** Section 8 (Discussion) reports an earlier test of whether FAR could substitute for SNR, finding only a weak correlation (r ≈ −0.34). That test used a *back-solved* "required ρ" from just 49 circular-only events — a noisy quantity that conflates the physics formula's own errors with any real FAR–SNR relationship. Testing the same idea directly against 381 real (SNR, FAR) pairs from the catalog gives a much stronger result: fitting log(SNR) = a + b·log(FAR) and validating via leave-one-out gives a median SNR-prediction error of 10.7% (r = −0.70) — a real, usable relationship, not a weak one. This reverses the earlier conclusion; see Section 8 for the corrected statement.
+
+Accuracy is not uniform across FAR, though. Binning the same leave-one-out results by FAR magnitude:
+
+| FAR range | n | Median SNR-prediction error |
+|---|---|---|
+| <10⁻⁴/yr (most significant) | 139 | 19.7% |
+| 10⁻⁴–10⁻²/yr | 46 | 15.6% |
+| 10⁻²–1/yr | 73 | 6.7% |
+| >1/yr (least significant) | 123 | 5.6% |
+
+The proxy is *least* accurate for the most significant events — likely because many search pipelines cap reported FAR at a floor value (118 of the 381 events sit at exactly 1×10⁻⁵/yr), collapsing a wide range of true SNRs onto the same FAR reading in that regime.
+
+Applying the proxy downstream — predicting SNR from each circular's own extracted FAR, then feeding that into the physics formula with the same leave-one-out C-fitting procedure used throughout — gives a real but modest improvement on the 49-event circular-only set: median error falls from 44.8% (fixed SNR = 15) to 39.5%, within-±25% rises from 13/49 to 16/49. That is a smaller gain than the FAR-range table above might suggest, and the reason is traceable rather than mysterious: the 49 circular-only events have a median FAR of 4.1×10⁻³/yr — squarely in the harder 15.6%-error band, not the easy 5–6% band. (None of these 49 events are themselves in the catalog yet — they are all more recent than the latest GWTC release — so the proxy's accuracy on this exact population cannot be checked directly; the FAR-stratified result above is the best available evidence for what to expect.)
+
 ## 7. Results (Circular-Only Validation)
 
 Leave-one-out cross-validation on the 49-event circular-self-reported set, comparing predicted chirp mass to the reference bin midpoint:
@@ -115,7 +130,7 @@ Adding FAR or BBH-classification probability as additional regression predictors
 
 **The physics formula is dominated by an unrecoverable input.** M scales as ρ^1.2, so a factor-of-2 error in assumed SNR produces roughly +130%/−56% error in the mass estimate. Reproducing a mass error within 10–25% requires ρ known to within roughly ±20%; real network SNRs for confident O4a-era detections plausibly span ~8 to 30+, far wider than that tolerance. Holding SNR fixed while distance varies over three orders of magnitude means the physics estimator effectively tracks distance, not mass. This is not a calibration artifact: properly fitting C halves the median error (115% → 45%) but leaves a strong residual bias correlated with distance (r = 0.55, Section 7) — exactly what this sensitivity argument predicts, since C cannot absorb an input the model treats as constant when it physically isn't. Section 6's catalog validation confirms this directly rather than just by argument: giving the same formula real SNR instead of an assumed one, with nothing else changed, cuts median error from 46.6% to 31.5%.
 
-**FAR is a weak, insufficient proxy for SNR.** The SNR value that would make the physics formula match each event's true reference mass ("required ρ") correlates with log(FAR) at only r ≈ −0.34 across the validation set — some relationship exists, as expected physically, but far too weak to substitute for a real SNR measurement, and confirmed empirically by FAR's failure to improve the regression model.
+**FAR is a real, usable proxy for SNR — a revision of an earlier, weaker finding.** An initial test using a *back-solved* "required ρ" from the physics formula (the SNR value that would make it match each event's true reference mass) correlated with log(FAR) at only r ≈ −0.34, which looked too weak to be useful. That test was confounded: the back-solved quantity carries the physics formula's own errors along with it. Testing directly against 381 real (SNR, FAR) pairs from the GWTC catalog instead (Section 6) gives r = −0.70 and a 10.7% median SNR-prediction error under leave-one-out validation — a real, fittable relationship. It is *not* uniformly strong, though: accuracy is worst for the most significant events (many pipelines floor their reported FAR, collapsing a range of true SNRs onto one value), and applying the proxy to the 49-event circular-only set (whose FAR values skew toward that harder regime) gives a real but modest downstream improvement (Section 6), not a large one. FAR is a usable, evidenced SNR proxy — just not a precise one across the full significance range.
 
 **The statistical model performs better, but is a different kind of result.** It captures real, exploitable structure (a selection effect between detection distance and mass) rather than a physical single-event inference. A median error of 33% and a 51% correct-bin rate is a meaningfully useful signal — enough to substantially narrow the plausible mass range for a new event before parameter estimation completes — but does not meet a strict 10–25% accuracy target for a majority of events.
 
@@ -140,11 +155,13 @@ Per the project plan's M6 decision gate (`validated_approximation | useful_const
 - ~~Would incorporating an external reference catalog (e.g. GWTC/GWOSC) for calibration be an acceptable scope expansion~~ — **resolved**: done (Section 6), on the user's own authorization, pending supervisor sign-off.
 - Given the coarse, bin-based nature of the circular-reported ground truth, should "predict the correct bin" replace "predict within X% error" as the primary success metric? (Less relevant for the catalog-backed set, whose reference values are continuous, not binned.)
 - Should the thesis report circular-only results as the honest headline finding (matching the original circular-only research question) and catalog-backed results as a supplementary robustness check — or the reverse?
+- The FAR→SNR proxy's accuracy on the 49-event circular-only set can't be directly checked (none of those events are in the catalog yet). As more circulars accumulate reference chirp mass and the catalog is periodically updated, this should be re-verified rather than assumed to hold.
 
 ## Reproducibility
 
 - Pipeline: `run_pipeline.py` (event table construction) → `data/processed/o4a_event_table.csv`
 - Circular-only validation: `validate_estimator.py` → `data/processed/validation_results.csv`
 - Catalog-backed validation: `validate_against_catalog.py` → `data/processed/catalog_validation_results.csv` (needs network access to `gwosc.org`; caches results in `data/raw/gwtc_catalog*.json` after first run)
+- FAR→SNR proxy: `validate_far_snr_proxy.py` (standalone validation against catalog pairs) and `validate_far_proxy_estimator.py` (applied to the circular-only set)
 - Plots: `generate_plots.py` (needs `../../.venv` + matplotlib, see repo root `requirements.txt`)
 - Source: `shared/{ingestion,parsing,processing}/`, `legs/leg1_estimation/{modeling,validation,analysis}/`
