@@ -208,45 +208,51 @@
   needs_review: false
 ```
 
-## External (referenced in conversation, not yet saved as repo files)
+## Reference notes (extracted text, saved 2026-08-20 - see docs/references/)
+
+These were shared as PDFs in conversation; only their extracted text is saved here, not the original PDF bytes (not reconstructable from what was received). If the original PDF files matter for submission, add them to this folder directly.
 
 ```yaml
-- name: "Chirp mass estimation-example.pdf/.txt"
-  type: paper
-  location: external
+- name: docs/references/chirp-mass-methodology-note.md
+  type: note
+  location: docs/references/chirp-mass-methodology-note.md
   purpose: Methodology note - source of the SNR-scaling chirp-mass formula.
-  status: unknown
+  status: working
   needs_review: true
   notes: "Not a peer-reviewed source; M6.1 asks to attach a citation to literature-derived equations, which this doesn't have."
 
-- name: "Comparison Report.pdf"
+- name: docs/references/ai-model-comparison-report.md
   type: note
-  location: external
+  location: docs/references/ai-model-comparison-report.md
   purpose: AI-model comparison study (Leg 2) - RTCROS prompting framework, initial 5-model results.
-  status: partial
-  needs_review: true
+  status: working
+  needs_review: false
 
-- name: "Note-CONCEPT-OBJECT ASSOCIATIONS.pdf"
-  type: paper
-  location: external
+- name: docs/references/concept-object-associations-note.md
+  type: note
+  location: docs/references/concept-object-associations-note.md
   purpose: Literature note on a knowledge-graph/ALS paper - evaluated and explicitly NOT adopted for GW Pathfinder.
-  status: obsolete
+  status: working
   needs_review: false
 
-- name: "Note-Posterior Inference.pdf"
-  type: paper
-  location: external
+- name: docs/references/posterior-inference-note.md
+  type: note
+  location: docs/references/posterior-inference-note.md
   purpose: Literature note on retrieval + local-refinement posterior inference - evaluated, judged out of scope for this thesis's timeline.
-  status: obsolete
+  status: working
   needs_review: false
 
-- name: "Talk_draft.pdf"
-  type: paper
-  location: external
-  purpose: GW physics background slide deck (Naresh Adhikari, FTCC) - general Ch.2 background material.
-  status: unknown
-  needs_review: true
+- name: docs/references/gw-physics-background-talk.md
+  type: note
+  location: docs/references/gw-physics-background-talk.md
+  purpose: GW physics background slide deck notes (Naresh Adhikari, FTCC) - candidate Ch.2 background material.
+  status: working
+  needs_review: false
+```
 
+## Still external (not saved as repo files)
+
+```yaml
 - name: "Coding-for-beginners reading list, GW GCN Reader todo notes (screenshots)"
   type: note
   location: external
