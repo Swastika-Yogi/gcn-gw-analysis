@@ -24,6 +24,10 @@ chapters/
   03_materials_and_methods.tex    - drafted from docs/feasibility_draft.md + legs/leg3_pathfinder/docs/pathfinder_design_draft.md
   04_results_and_discussion.tex   - drafted; two TODO sections pending the AI-comparison and Pathfinder work
   05_conclusion.tex               - drafted
+figures/                          - M7.4 validation plots referenced by Chapter 4, copied in from
+                                     legs/leg1_estimation/figures/ (regenerate both via
+                                     legs/leg1_estimation/generate_plots.py, then re-copy here -
+                                     kept local so this folder stays self-contained if zipped for Overleaf)
 references.bib                    - empty (see file comment - no fabricated citations)
 ```
 

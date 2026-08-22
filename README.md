@@ -27,6 +27,7 @@ Current verified numbers (see `docs/feasibility_draft.md` for full results): 181
 
 Dated, one-line-per-change log — kept terse on purpose. For the fuller day-by-day story (what was hard, what's still open, what needs supervisor input), see `docs/progress_log.md`. Newest first.
 
+- **2026-08-20** — `M7.4`: added `legs/leg1_estimation/generate_plots.py` (needs the `.venv` + `matplotlib`, see `requirements.txt`) — 12 validation plots (scatter/residual/histogram/error-vs-distance × 3 estimators). Confirmed visually what the numbers already showed: uncalibrated physics error rises sharply with distance (up to ~700%), calibration compresses but doesn't remove that trend (~400%), and the statistical model's reference values show clear discrete banding from the bin-quantized ground truth.
 - **2026-08-20** — Added `docs/progress_log.md` (detailed daily record) and five reference notes under `docs/references/`; deleted the stale pre-fix `.\o4a_gw_dataset.csv`.
 - **2026-08-20** — Added a LaTeX thesis skeleton (`thesis/latex/`) matching the Tribhuwan University template structure; real research content in Chapters 1/3/4/5, institutional front-matter left `TODO`.
 - **2026-08-20** — Restructured the repo into `shared/` + `legs/{leg1_estimation,leg2_ai_comparison,leg3_pathfinder}/`, one folder per thesis leg plus the pipeline they share. Entry points now run as modules (`python3 -m legs.leg1_estimation.run_pipeline`); confirmed identical output to before the move.

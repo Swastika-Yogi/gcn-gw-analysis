@@ -1,0 +1,9 @@
+# Optional - only needed for figure generation (M7.4). Everything else in
+# this repo (ingestion, parsing, both estimators, validation) is stdlib-only
+# by design, so numpy/matplotlib are not required to run the core pipeline.
+#
+# Setup (direct `pip install` is blocked in some environments - PEP 668):
+#   python3 -m venv --system-site-packages .venv
+#   ./.venv/bin/pip install -r requirements.txt
+
+matplotlib==3.11.1

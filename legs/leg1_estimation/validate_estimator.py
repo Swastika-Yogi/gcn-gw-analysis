@@ -96,15 +96,18 @@ def main():
     print_summary("Baseline: population average (LOO)", summarize(pop_results))
 
     with open(OUTPUT_CSV, "w", newline="") as f:
-        fieldnames = ["event_id", "statistical_predicted_msun", "physics_predicted_msun",
+        fieldnames = ["event_id", "luminosity_distance_mpc", "source_class",
+                      "statistical_predicted_msun", "physics_predicted_msun",
                       "physics_calibrated_predicted_msun", "reference_msun",
                       "statistical_pct_error", "physics_pct_error", "physics_calibrated_pct_error",
                       "statistical_bin_hit", "physics_bin_hit", "physics_calibrated_bin_hit"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for s, p, c in zip(stat_results, physics_results, calibrated_results):
+        for r, s, p, c in zip(val, stat_results, physics_results, calibrated_results):
             writer.writerow({
                 "event_id": s["event_id"],
+                "luminosity_distance_mpc": r["luminosity_distance_mpc"],
+                "source_class": r["source_class"],
                 "statistical_predicted_msun": s["predicted_msun"],
                 "physics_predicted_msun": p["predicted_msun"],
                 "physics_calibrated_predicted_msun": c["predicted_msun"],

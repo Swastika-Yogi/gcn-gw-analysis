@@ -23,6 +23,10 @@ Reference chirp mass & 0\% & the bin sentence only appears in later-run circular
 \end{tabular}
 \end{table}
 
+\subsection{O4a vs. the Full Archive}
+
+Table~\ref{tab:availability} restricts to O4a as a case study. Repeating the same check across every event in the archive (all observing runs, 505 events) shows coverage is meaningfully \emph{better} once later runs are included: distance 83.6\%, FAR 62.8\%, classification 62.0\%, reference chirp mass 10.1\% (51 events -- the same population behind the validation set in Section~\ref{sec:validation-set}). FAR and classification both improve by roughly 17 percentage points over the O4a-only figures. The likely explanation is that \gls{lvk}'s circular-writing template became more complete and standardized over time, so later-run circulars report more fields consistently than O4a-era ones did -- a small additional finding in its own right: data quality here is improving as the observing program matures, not staying flat.
+
 \section{Estimator Comparison}
 
 Table~\ref{tab:results} reports leave-one-out cross-validation results on the 49-event validation set (Section~\ref{sec:validation-set}).
@@ -50,11 +54,32 @@ Adding \gls{far} or \gls{bbh}-classification probability as additional regressio
 
 The methodology note's $C = 1\times10^{-4}$ was fit on a single worked example, not against data. Fitting it properly (Section~\ref{sec:calibration}) gives a fitted $C \approx 5.6\times10^{-5}$ -- about 1.8 times smaller than the literature value -- and cuts the physics formula's median error from 115\% to 45\%. The fitted $C$ is stable across folds (5.44 to 5.78 $\times10^{-5}$ across all 49 leave-one-out refits), so instability in $C$ is not the limiting factor.
 
-Even with a properly fit $C$, the physics formula's log-residuals correlate with log-distance at $r = 0.55$ -- a substantial systematic bias. $C$ is a single global constant, but the fixed-\gls{snr} assumption it stands in for is intrinsically distance-dependent in reality (true \gls{snr} falls off with distance; the model holds it fixed). No choice of $C$, however well fit, can absorb a bias that varies systematically with an input the model treats as constant -- clear evidence the physics formula's shortfall is structural, not a calibration problem.
+Even with a properly fit $C$, the physics formula's log-residuals correlate with log-distance at $r = 0.55$ -- a substantial systematic bias. $C$ is a single global constant, but the fixed-\gls{snr} assumption it stands in for is intrinsically distance-dependent in reality (true \gls{snr} falls off with distance; the model holds it fixed). No choice of $C$, however well fit, can absorb a bias that varies systematically with an input the model treats as constant -- clear evidence the physics formula's shortfall is structural, not a calibration problem. Figures~\ref{fig:physics-uncal-dist} and \ref{fig:physics-cal-dist} show this directly: calibration compresses the error scale (roughly 700\% down to 400\% at maximum) but the same rising-with-distance shape persists.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{figures/physics_uncalibrated_vs_distance.png}
+\caption{Physics estimator, uncalibrated $C$: percent error vs. luminosity distance. Error rises sharply and consistently with distance.}
+\label{fig:physics-uncal-dist}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{figures/physics_calibrated_vs_distance.png}
+\caption{Physics estimator, $C$ properly fit (leave-one-out): percent error vs. luminosity distance. The same rising trend survives calibration, at a compressed scale.}
+\label{fig:physics-cal-dist}
+\end{figure}
 
 \subsection{The Trivial Baseline Finding}
 
 A source-class-midpoint baseline -- no distance, no fitting, no per-event information beyond the classification label -- achieves a 47\% within-$\pm25\%$ rate and a 47\% bin-hit rate, both close to (and on the $\pm25\%$ metric, better than) the distance-only statistical model's 35\%/51\%. Since heavier \gls{bbh} systems are both louder and visible further out, distance and source class are correlated, so the statistical model's apparent skill substantially overlaps with what source classification alone already provides. The population-average baseline, by contrast, is uniformly poor (0\% within $\pm25\%$), confirming that per-event structure of \emph{some} kind -- whether from class or distance -- is genuinely needed; the open question is how much credit distance deserves independently of class.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\textwidth]{figures/statistical_scatter.png}
+\caption{Statistical estimator: estimated vs. reference chirp mass. The vertical banding reflects the reference values themselves being quantized into LVK's discrete mass bins (midpoints at 8.25, 16.5, 33, 66 M$_\odot$), not continuous measurements.}
+\label{fig:statistical-scatter}
+\end{figure}
 
 \subsection{Decision-Gate Classification}
 
